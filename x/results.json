@@ -72,12 +72,12 @@
         {
           "url": "https://xoriant.com/",
           "status": 200,
-          "bytes": 232704
+          "bytes": 232702
         },
         {
           "url": "http://www.xoriant.com/careers",
           "status": 403,
-          "bytes": 228538
+          "bytes": 228539
         },
         {
           "url": "https://xoriant.taleo.net/careersection/ex/moresearch.ftl",
@@ -100,7 +100,7 @@
         "workable:xoriant -> no board"
       ]
     },
-    "ms": 46537
+    "ms": 45164
   },
   {
     "company": "XpressBees",
@@ -194,7 +194,7 @@
         "workable:xpressbees -> no board"
       ]
     },
-    "ms": 7351
+    "ms": 6725
   },
   {
     "company": "Xceedance",
@@ -949,7 +949,7 @@
         {
           "url": "https://www.xceedance.com/careers/",
           "status": 404,
-          "bytes": 190594
+          "bytes": 190704
         },
         {
           "url": "https://careers.xceedance.com",
@@ -960,27 +960,27 @@
         {
           "url": "https://xceedance.com/careers",
           "status": 404,
-          "bytes": 190592
+          "bytes": 190700
         },
         {
           "url": "https://xceedance.com/career",
           "status": 404,
-          "bytes": 190586
+          "bytes": 190698
         },
         {
           "url": "https://xceedance.com/jobs",
           "status": 404,
-          "bytes": 190594
+          "bytes": 190706
         },
         {
           "url": "https://xceedance.com/join-us",
           "status": 404,
-          "bytes": 190587
+          "bytes": 190703
         },
         {
           "url": "https://xceedance.com/join-our-team",
           "status": 404,
-          "bytes": 190598
+          "bytes": 190716
         },
         {
           "url": "https://xceedance.com/careers.html",
@@ -1003,7 +1003,7 @@
         "workable:xceedance -> no board"
       ]
     },
-    "ms": 21126
+    "ms": 20306
   },
   {
     "company": "Xebia India",
@@ -1177,7 +1177,7 @@
         }
       ],
       "candidates": [
-        "greenhouse:xebiaapac(seed)",
+        "greenhouse:xebiaapac(html)",
         "greenhouse:xebiadach(html)",
         "greenhouse:xebiafrance(html)",
         "greenhouse:xebialatam(html)",
@@ -1187,13 +1187,18 @@
         "greenhouse:xebiaportugal(html)",
         "greenhouse:xebiauk(html)",
         "greenhouse:xebiaspain(html)",
-        "recruitee:xebiacareers(html)"
+        "recruitee:xebiacareers(html)",
+        "greenhouse:xebia(guess)",
+        "lever:xebia(guess)",
+        "ashby:xebia(guess)",
+        "recruitee:xebia(guess)",
+        "workable:xebia(guess)"
       ],
       "attempts": [
         "greenhouse:xebiaapac -> 4 jobs"
       ]
     },
-    "ms": 15516
+    "ms": 15084
   },
   {
     "company": "XenonStack",
@@ -1287,7 +1292,7 @@
         "workable:xenonstack -> no board"
       ]
     },
-    "ms": 19802
+    "ms": 17261
   },
   {
     "company": "Xoxoday (Giift)",
@@ -1307,7 +1312,7 @@
         {
           "url": "https://www.xoxoday.com/careers",
           "status": 429,
-          "bytes": 31031
+          "bytes": 31033
         },
         {
           "url": "https://careers.xoxoday.com",
@@ -1317,52 +1322,52 @@
         {
           "url": "https://xoxoday.com/careers",
           "status": 429,
-          "bytes": 31031
+          "bytes": 31033
         },
         {
           "url": "https://xoxoday.com/career",
           "status": 429,
-          "bytes": 31031
+          "bytes": 31033
         },
         {
           "url": "https://xoxoday.com/jobs",
           "status": 429,
-          "bytes": 31031
+          "bytes": 31033
         },
         {
           "url": "https://xoxoday.com/join-us",
           "status": 429,
-          "bytes": 31031
+          "bytes": 31033
         },
         {
           "url": "https://xoxoday.com/join-our-team",
           "status": 429,
-          "bytes": 31031
+          "bytes": 31033
         },
         {
           "url": "https://xoxoday.com/careers.html",
           "status": 429,
-          "bytes": 31031
+          "bytes": 31033
         },
         {
           "url": "https://xoxoday.com/company/careers",
           "status": 429,
-          "bytes": 31031
+          "bytes": 31033
         },
         {
           "url": "https://xoxoday.com/about/careers",
           "status": 429,
-          "bytes": 31031
+          "bytes": 31033
         },
         {
           "url": "https://xoxoday.com/current-openings",
           "status": 429,
-          "bytes": 31031
+          "bytes": 31033
         },
         {
           "url": "https://xoxoday.com/",
           "status": 429,
-          "bytes": 31031
+          "bytes": 31033
         }
       ],
       "candidates": [
@@ -1380,7 +1385,7 @@
         "workable:xoxoday -> no board"
       ]
     },
-    "ms": 5635
+    "ms": 6294
   },
   {
     "company": "Xencia Technology",
@@ -1473,7 +1478,7 @@
         "workable:xencia -> no board"
       ]
     },
-    "ms": 8234
+    "ms": 6082
   },
   {
     "company": "Xelpmoc Design & Tech",
@@ -1674,7 +1679,7 @@
         "workable:xelpmoc -> no board"
       ]
     },
-    "ms": 7473
+    "ms": 7032
   },
   {
     "company": "XLPAT Labs",
@@ -1693,7 +1698,7 @@
       "pages": [],
       "attempts": []
     },
-    "ms": 90821
+    "ms": 90003
   },
   {
     "company": "[x]cube LABS",
@@ -1823,7 +1828,7 @@
         "workable:xcubelabs -> no board"
       ]
     },
-    "ms": 14329
+    "ms": 13323
   },
   {
     "company": "Xiarch Solutions",
@@ -1917,12 +1922,12 @@
         "workable:xiarch -> no board"
       ]
     },
-    "ms": 16349
+    "ms": 15861
   },
   {
     "company": "Xtranet Technologies",
     "country": "India",
-    "careers": "https://www.xtranet.co.in/careers",
+    "careers": "https://xtranetindia.com/career/",
     "source": null,
     "error": "careers-page-unreachable",
     "totalJobs": 0,
@@ -1935,63 +1940,73 @@
     "trace": {
       "pages": [
         {
-          "url": "https://www.xtranet.co.in/careers",
-          "status": 404,
-          "bytes": 143
-        },
-        {
-          "url": "https://careers.xtranet.co.in",
+          "url": "https://xtranetindia.com/career/",
           "status": 0,
           "bytes": 0,
           "error": "fetch failed"
         },
         {
-          "url": "https://xtranet.co.in/careers",
-          "status": 404,
-          "bytes": 143
+          "url": "https://careers.xtranetindia.com",
+          "status": 0,
+          "bytes": 0,
+          "error": "fetch failed"
         },
         {
-          "url": "https://xtranet.co.in/career",
-          "status": 404,
-          "bytes": 143
+          "url": "https://xtranetindia.com/careers",
+          "status": 0,
+          "bytes": 0,
+          "error": "fetch failed"
         },
         {
-          "url": "https://xtranet.co.in/jobs",
-          "status": 404,
-          "bytes": 143
+          "url": "https://xtranetindia.com/career",
+          "status": 0,
+          "bytes": 0,
+          "error": "fetch failed"
         },
         {
-          "url": "https://xtranet.co.in/join-us",
-          "status": 404,
-          "bytes": 0
+          "url": "https://xtranetindia.com/jobs",
+          "status": 0,
+          "bytes": 0,
+          "error": "fetch failed"
         },
         {
-          "url": "https://xtranet.co.in/join-our-team",
-          "status": 404,
-          "bytes": 0
+          "url": "https://xtranetindia.com/join-us",
+          "status": 0,
+          "bytes": 0,
+          "error": "fetch failed"
         },
         {
-          "url": "https://xtranet.co.in/careers.html",
-          "status": 404,
-          "bytes": 0
+          "url": "https://xtranetindia.com/join-our-team",
+          "status": 0,
+          "bytes": 0,
+          "error": "fetch failed"
         },
         {
-          "url": "https://xtranet.co.in/company/careers",
-          "status": 404,
-          "bytes": 10
+          "url": "https://xtranetindia.com/careers.html",
+          "status": 0,
+          "bytes": 0,
+          "error": "fetch failed"
         },
         {
-          "url": "https://xtranet.co.in/about/careers",
-          "status": 404,
-          "bytes": 10
+          "url": "https://xtranetindia.com/company/careers",
+          "status": 0,
+          "bytes": 0,
+          "error": "fetch failed"
         },
         {
-          "url": "https://xtranet.co.in/current-openings",
-          "status": 404,
-          "bytes": 0
+          "url": "https://xtranetindia.com/about/careers",
+          "status": 0,
+          "bytes": 0,
+          "error": "fetch failed"
         },
         {
-          "url": "https://xtranet.co.in/",
+          "url": "https://xtranetindia.com/current-openings",
+          "status": 0,
+          "bytes": 0,
+          "error": "fetch failed"
+        },
+        {
+          "url": "https://xtranetindia.com/",
           "status": 0,
           "bytes": 0,
           "error": "fetch failed"
@@ -2002,17 +2017,27 @@
         "lever:xtranet(guess)",
         "ashby:xtranet(guess)",
         "recruitee:xtranet(guess)",
-        "workable:xtranet(guess)"
+        "workable:xtranet(guess)",
+        "greenhouse:xtranetindia(guess)",
+        "lever:xtranetindia(guess)",
+        "ashby:xtranetindia(guess)",
+        "recruitee:xtranetindia(guess)",
+        "workable:xtranetindia(guess)"
       ],
       "attempts": [
         "greenhouse:xtranet -> no board",
         "lever:xtranet -> no board",
         "ashby:xtranet -> no board",
         "recruitee:xtranet -> no board",
-        "workable:xtranet -> no board"
+        "workable:xtranet -> no board",
+        "greenhouse:xtranetindia -> no board",
+        "lever:xtranetindia -> no board",
+        "ashby:xtranetindia -> no board",
+        "recruitee:xtranetindia -> no board",
+        "workable:xtranetindia -> no board"
       ]
     },
-    "ms": 9030
+    "ms": 6205
   },
   {
     "company": "Xtreme Media",
@@ -2116,122 +2141,7 @@
         "workable:xtrememedia -> no board"
       ]
     },
-    "ms": 35156
-  },
-  {
-    "company": "Xylem India",
-    "country": "India",
-    "careers": "https://www.xylemindia.com/careers",
-    "source": null,
-    "error": "careers-page-unreachable",
-    "totalJobs": 0,
-    "jobs": [],
-    "enriched": 0,
-    "matches": [],
-    "nearMatches": [],
-    "closest": null,
-    "closestEng": null,
-    "trace": {
-      "pages": [
-        {
-          "url": "https://www.xylemindia.com/careers",
-          "status": 0,
-          "bytes": 0,
-          "error": "fetch failed"
-        },
-        {
-          "url": "https://careers.xylemindia.com",
-          "status": 0,
-          "bytes": 0,
-          "error": "fetch failed"
-        },
-        {
-          "url": "https://xylemindia.com/careers",
-          "status": 0,
-          "bytes": 0,
-          "error": "fetch failed"
-        },
-        {
-          "url": "https://xylemindia.com/career",
-          "status": 0,
-          "bytes": 0,
-          "error": "fetch failed"
-        },
-        {
-          "url": "https://xylemindia.com/jobs",
-          "status": 0,
-          "bytes": 0,
-          "error": "fetch failed"
-        },
-        {
-          "url": "https://xylemindia.com/join-us",
-          "status": 0,
-          "bytes": 0,
-          "error": "fetch failed"
-        },
-        {
-          "url": "https://xylemindia.com/join-our-team",
-          "status": 0,
-          "bytes": 0,
-          "error": "fetch failed"
-        },
-        {
-          "url": "https://xylemindia.com/careers.html",
-          "status": 0,
-          "bytes": 0,
-          "error": "fetch failed"
-        },
-        {
-          "url": "https://xylemindia.com/company/careers",
-          "status": 0,
-          "bytes": 0,
-          "error": "fetch failed"
-        },
-        {
-          "url": "https://xylemindia.com/about/careers",
-          "status": 0,
-          "bytes": 0,
-          "error": "fetch failed"
-        },
-        {
-          "url": "https://xylemindia.com/current-openings",
-          "status": 0,
-          "bytes": 0,
-          "error": "fetch failed"
-        },
-        {
-          "url": "https://xylemindia.com/",
-          "status": 0,
-          "bytes": 0,
-          "error": "fetch failed"
-        }
-      ],
-      "candidates": [
-        "greenhouse:xylem(guess)",
-        "lever:xylem(guess)",
-        "ashby:xylem(guess)",
-        "recruitee:xylem(guess)",
-        "workable:xylem(guess)",
-        "greenhouse:xylemindia(guess)",
-        "lever:xylemindia(guess)",
-        "ashby:xylemindia(guess)",
-        "recruitee:xylemindia(guess)",
-        "workable:xylemindia(guess)"
-      ],
-      "attempts": [
-        "greenhouse:xylem -> no board",
-        "lever:xylem -> no board",
-        "ashby:xylem -> no board",
-        "recruitee:xylem -> no board",
-        "workable:xylem -> no board",
-        "greenhouse:xylemindia -> no board",
-        "lever:xylemindia -> no board",
-        "ashby:xylemindia -> no board",
-        "recruitee:xylemindia -> no board",
-        "workable:xylemindia -> no board"
-      ]
-    },
-    "ms": 5504
+    "ms": 13257
   },
   {
     "company": "Xicom Technologies",
@@ -2482,7 +2392,7 @@
         "workable:xicom -> no board"
       ]
     },
-    "ms": 20779
+    "ms": 9717
   },
   {
     "company": "Xceltrait",
@@ -2576,7 +2486,7 @@
         "workable:xceltrait -> no board"
       ]
     },
-    "ms": 30848
+    "ms": 30096
   },
   {
     "company": "XAmplify",
@@ -2596,7 +2506,7 @@
         {
           "url": "https://xamplify.com/careers",
           "status": 200,
-          "bytes": 386445
+          "bytes": 386619
         },
         {
           "url": "https://careers.xamplify.com",
@@ -2607,47 +2517,47 @@
         {
           "url": "https://xamplify.com/career",
           "status": 200,
-          "bytes": 386445
+          "bytes": 386619
         },
         {
           "url": "https://xamplify.com/jobs",
           "status": 200,
-          "bytes": 386445
+          "bytes": 386619
         },
         {
           "url": "https://xamplify.com/join-us",
           "status": 200,
-          "bytes": 386445
+          "bytes": 386619
         },
         {
           "url": "https://xamplify.com/join-our-team",
           "status": 200,
-          "bytes": 386445
+          "bytes": 386619
         },
         {
           "url": "https://xamplify.com/careers.html",
           "status": 200,
-          "bytes": 386445
+          "bytes": 386619
         },
         {
           "url": "https://xamplify.com/company/careers",
           "status": 200,
-          "bytes": 386445
+          "bytes": 386619
         },
         {
           "url": "https://xamplify.com/about/careers",
           "status": 200,
-          "bytes": 386445
+          "bytes": 386619
         },
         {
           "url": "https://xamplify.com/current-openings",
           "status": 200,
-          "bytes": 386445
+          "bytes": 386619
         },
         {
           "url": "https://xamplify.com/",
           "status": 200,
-          "bytes": 386445
+          "bytes": 386619
         }
       ],
       "candidates": [
@@ -2665,112 +2575,7 @@
         "workable:xamplify -> no board"
       ]
     },
-    "ms": 14340
-  },
-  {
-    "company": "Xanadu Realty",
-    "country": "India",
-    "careers": "https://xanadurealty.com/careers/",
-    "source": null,
-    "error": "careers-page-unreachable",
-    "totalJobs": 0,
-    "jobs": [],
-    "enriched": 0,
-    "matches": [],
-    "nearMatches": [],
-    "closest": null,
-    "closestEng": null,
-    "trace": {
-      "pages": [
-        {
-          "url": "https://xanadurealty.com/careers/",
-          "status": 0,
-          "bytes": 0,
-          "error": "fetch failed"
-        },
-        {
-          "url": "https://careers.xanadurealty.com",
-          "status": 0,
-          "bytes": 0,
-          "error": "fetch failed"
-        },
-        {
-          "url": "https://xanadurealty.com/careers",
-          "status": 0,
-          "bytes": 0,
-          "error": "fetch failed"
-        },
-        {
-          "url": "https://xanadurealty.com/career",
-          "status": 0,
-          "bytes": 0,
-          "error": "fetch failed"
-        },
-        {
-          "url": "https://xanadurealty.com/jobs",
-          "status": 0,
-          "bytes": 0,
-          "error": "fetch failed"
-        },
-        {
-          "url": "https://xanadurealty.com/join-us",
-          "status": 0,
-          "bytes": 0,
-          "error": "fetch failed"
-        },
-        {
-          "url": "https://xanadurealty.com/join-our-team",
-          "status": 0,
-          "bytes": 0,
-          "error": "fetch failed"
-        },
-        {
-          "url": "https://xanadurealty.com/careers.html",
-          "status": 0,
-          "bytes": 0,
-          "error": "fetch failed"
-        },
-        {
-          "url": "https://xanadurealty.com/company/careers",
-          "status": 0,
-          "bytes": 0,
-          "error": "fetch failed"
-        },
-        {
-          "url": "https://xanadurealty.com/about/careers",
-          "status": 0,
-          "bytes": 0,
-          "error": "fetch failed"
-        },
-        {
-          "url": "https://xanadurealty.com/current-openings",
-          "status": 0,
-          "bytes": 0,
-          "error": "fetch failed"
-        },
-        {
-          "url": "https://xanadurealty.com/",
-          "status": 0,
-          "bytes": 0,
-          "error": "fetch failed"
-        }
-      ],
-      "candidates": [
-        "greenhouse:xanadurealty(guess)",
-        "lever:xanadurealty(guess)",
-        "ashby:xanadurealty(guess)",
-        "recruitee:xanadurealty(guess)",
-        "workable:xanadurealty(guess)"
-      ],
-      "attempts": [
-        "greenhouse:xanadurealty -> no board",
-        "lever:xanadurealty -> no board",
-        "ashby:xanadurealty -> no board",
-        "recruitee:xanadurealty -> no board",
-        "workable:xanadurealty -> no board"
-      ]
-    },
-    "ms": 6943
+    "ms": 21316
   },
   {
     "company": "Xploree",
@@ -2790,7 +2595,7 @@
         {
           "url": "https://www.xploree.com/careers",
           "status": 404,
-          "bytes": 142967
+          "bytes": 142957
         },
         {
           "url": "https://careers.xploree.com",
@@ -2864,7 +2669,7 @@
         "workable:xploree -> no board"
       ]
     },
-    "ms": 13815
+    "ms": 14511
   },
   {
     "company": "Xane AI",
@@ -2963,7 +2768,7 @@
         "workable:xane -> no board"
       ]
     },
-    "ms": 6485
+    "ms": 11659
   },
   {
     "company": "XPay.Life",
@@ -2982,7 +2787,7 @@
       "pages": [],
       "attempts": []
     },
-    "ms": 90002
+    "ms": 90003
   },
   {
     "company": "Xcelvations",
@@ -3051,7 +2856,7 @@
         "workable:xcelvations -> no board"
       ]
     },
-    "ms": 11570
+    "ms": 13452
   },
   {
     "company": "Xsys Digital",
@@ -3155,7 +2960,7 @@
         "workable:xsysdigital -> no board"
       ]
     },
-    "ms": 7004
+    "ms": 7965
   },
   {
     "company": "XcelPros",
@@ -3360,7 +3165,7 @@
         {
           "url": "https://xcelpros.com/careers/",
           "status": 307,
-          "bytes": 1383
+          "bytes": 1547
         },
         {
           "url": "https://careers.xcelpros.com",
@@ -3371,52 +3176,52 @@
         {
           "url": "https://xcelpros.com/careers",
           "status": 307,
-          "bytes": 1383
+          "bytes": 1547
         },
         {
           "url": "https://xcelpros.com/career",
           "status": 307,
-          "bytes": 1383
+          "bytes": 1547
         },
         {
           "url": "https://xcelpros.com/jobs",
           "status": 307,
-          "bytes": 1383
+          "bytes": 1415
         },
         {
           "url": "https://xcelpros.com/join-us",
           "status": 307,
-          "bytes": 1383
+          "bytes": 1415
         },
         {
           "url": "https://xcelpros.com/join-our-team",
           "status": 307,
-          "bytes": 1383
+          "bytes": 1415
         },
         {
           "url": "https://xcelpros.com/careers.html",
           "status": 307,
-          "bytes": 1383
+          "bytes": 1415
         },
         {
           "url": "https://xcelpros.com/company/careers",
           "status": 307,
-          "bytes": 1331
+          "bytes": 1415
         },
         {
           "url": "https://xcelpros.com/about/careers",
           "status": 307,
-          "bytes": 1331
+          "bytes": 1415
         },
         {
           "url": "https://xcelpros.com/current-openings",
           "status": 307,
-          "bytes": 1331
+          "bytes": 1415
         },
         {
           "url": "https://xcelpros.com/",
           "status": 307,
-          "bytes": 1331
+          "bytes": 1415
         }
       ],
       "candidates": [
@@ -3434,106 +3239,7 @@
         "workable:xcelpros -> no board"
       ]
     },
-    "ms": 13738
-  },
-  {
-    "company": "Xebia Academy",
-    "country": "India",
-    "careers": "https://xebiaacademy.com/careers",
-    "source": null,
-    "error": "careers-page-unreachable",
-    "totalJobs": 0,
-    "jobs": [],
-    "enriched": 0,
-    "matches": [],
-    "nearMatches": [],
-    "closest": null,
-    "closestEng": null,
-    "trace": {
-      "pages": [
-        {
-          "url": "https://xebiaacademy.com/careers",
-          "status": 0,
-          "bytes": 0,
-          "error": "fetch failed"
-        },
-        {
-          "url": "https://careers.xebiaacademy.com",
-          "status": 0,
-          "bytes": 0,
-          "error": "fetch failed"
-        },
-        {
-          "url": "https://xebiaacademy.com/career",
-          "status": 0,
-          "bytes": 0,
-          "error": "fetch failed"
-        },
-        {
-          "url": "https://xebiaacademy.com/jobs",
-          "status": 0,
-          "bytes": 0,
-          "error": "fetch failed"
-        },
-        {
-          "url": "https://xebiaacademy.com/join-us",
-          "status": 0,
-          "bytes": 0,
-          "error": "fetch failed"
-        },
-        {
-          "url": "https://xebiaacademy.com/join-our-team",
-          "status": 0,
-          "bytes": 0,
-          "error": "fetch failed"
-        },
-        {
-          "url": "https://xebiaacademy.com/careers.html",
-          "status": 0,
-          "bytes": 0,
-          "error": "fetch failed"
-        },
-        {
-          "url": "https://xebiaacademy.com/company/careers",
-          "status": 0,
-          "bytes": 0,
-          "error": "fetch failed"
-        },
-        {
-          "url": "https://xebiaacademy.com/about/careers",
-          "status": 0,
-          "bytes": 0,
-          "error": "fetch failed"
-        },
-        {
-          "url": "https://xebiaacademy.com/current-openings",
-          "status": 0,
-          "bytes": 0,
-          "error": "fetch failed"
-        },
-        {
-          "url": "https://xebiaacademy.com/",
-          "status": 0,
-          "bytes": 0,
-          "error": "fetch failed"
-        }
-      ],
-      "candidates": [
-        "greenhouse:xebiaacademy(guess)",
-        "lever:xebiaacademy(guess)",
-        "ashby:xebiaacademy(guess)",
-        "recruitee:xebiaacademy(guess)",
-        "workable:xebiaacademy(guess)"
-      ],
-      "attempts": [
-        "greenhouse:xebiaacademy -> no board",
-        "lever:xebiaacademy -> no board",
-        "ashby:xebiaacademy -> no board",
-        "recruitee:xebiaacademy -> no board",
-        "workable:xebiaacademy -> no board"
-      ]
-    },
-    "ms": 4734
+    "ms": 12931
   },
   {
     "company": "XinFin / XDC Network",
@@ -3637,7 +3343,7 @@
         "workable:xinfin -> no board"
       ]
     },
-    "ms": 9258
+    "ms": 9485
   },
   {
     "company": "Xurmo Technologies",
@@ -3736,7 +3442,7 @@
         "workable:xurmo -> no board"
       ]
     },
-    "ms": 18865
+    "ms": 19415
   },
   {
     "company": "Xavor Corporation",
@@ -3993,7 +3699,7 @@
         "workable:xavor -> no board"
       ]
     },
-    "ms": 11799
+    "ms": 12931
   },
   {
     "company": "XS Studios",
@@ -4087,122 +3793,7 @@
         "workable:xsstudios -> no board"
       ]
     },
-    "ms": 11520
-  },
-  {
-    "company": "Xtramile Solutions",
-    "country": "India",
-    "careers": "https://xtramilesolutions.com/careers/",
-    "source": null,
-    "error": "careers-page-unreachable",
-    "totalJobs": 0,
-    "jobs": [],
-    "enriched": 0,
-    "matches": [],
-    "nearMatches": [],
-    "closest": null,
-    "closestEng": null,
-    "trace": {
-      "pages": [
-        {
-          "url": "https://xtramilesolutions.com/careers/",
-          "status": 0,
-          "bytes": 0,
-          "error": "fetch failed"
-        },
-        {
-          "url": "https://careers.xtramilesolutions.com",
-          "status": 0,
-          "bytes": 0,
-          "error": "fetch failed"
-        },
-        {
-          "url": "https://xtramilesolutions.com/careers",
-          "status": 0,
-          "bytes": 0,
-          "error": "fetch failed"
-        },
-        {
-          "url": "https://xtramilesolutions.com/career",
-          "status": 0,
-          "bytes": 0,
-          "error": "fetch failed"
-        },
-        {
-          "url": "https://xtramilesolutions.com/jobs",
-          "status": 0,
-          "bytes": 0,
-          "error": "fetch failed"
-        },
-        {
-          "url": "https://xtramilesolutions.com/join-us",
-          "status": 0,
-          "bytes": 0,
-          "error": "fetch failed"
-        },
-        {
-          "url": "https://xtramilesolutions.com/join-our-team",
-          "status": 0,
-          "bytes": 0,
-          "error": "fetch failed"
-        },
-        {
-          "url": "https://xtramilesolutions.com/careers.html",
-          "status": 0,
-          "bytes": 0,
-          "error": "fetch failed"
-        },
-        {
-          "url": "https://xtramilesolutions.com/company/careers",
-          "status": 0,
-          "bytes": 0,
-          "error": "fetch failed"
-        },
-        {
-          "url": "https://xtramilesolutions.com/about/careers",
-          "status": 0,
-          "bytes": 0,
-          "error": "fetch failed"
-        },
-        {
-          "url": "https://xtramilesolutions.com/current-openings",
-          "status": 0,
-          "bytes": 0,
-          "error": "fetch failed"
-        },
-        {
-          "url": "https://xtramilesolutions.com/",
-          "status": 0,
-          "bytes": 0,
-          "error": "fetch failed"
-        }
-      ],
-      "candidates": [
-        "greenhouse:xtramile(guess)",
-        "lever:xtramile(guess)",
-        "ashby:xtramile(guess)",
-        "recruitee:xtramile(guess)",
-        "workable:xtramile(guess)",
-        "greenhouse:xtramilesolutions(guess)",
-        "lever:xtramilesolutions(guess)",
-        "ashby:xtramilesolutions(guess)",
-        "recruitee:xtramilesolutions(guess)",
-        "workable:xtramilesolutions(guess)"
-      ],
-      "attempts": [
-        "greenhouse:xtramile -> no board",
-        "lever:xtramile -> no board",
-        "ashby:xtramile -> no board",
-        "recruitee:xtramile -> no board",
-        "workable:xtramile -> no board",
-        "greenhouse:xtramilesolutions -> no board",
-        "lever:xtramilesolutions -> no board",
-        "ashby:xtramilesolutions -> no board",
-        "recruitee:xtramilesolutions -> no board",
-        "workable:xtramilesolutions -> no board"
-      ]
-    },
-    "ms": 8134
+    "ms": 11480
   },
   {
     "company": "Xtract.io",
@@ -4306,106 +3897,7 @@
         "workable:xtract -> no board"
       ]
     },
-    "ms": 23011
-  },
-  {
-    "company": "Xelerate",
-    "country": "India",
-    "careers": "https://xelerate.io/careers",
-    "source": null,
-    "error": "careers-page-unreachable",
-    "totalJobs": 0,
-    "jobs": [],
-    "enriched": 0,
-    "matches": [],
-    "nearMatches": [],
-    "closest": null,
-    "closestEng": null,
-    "trace": {
-      "pages": [
-        {
-          "url": "https://xelerate.io/careers",
-          "status": 0,
-          "bytes": 0,
-          "error": "fetch failed"
-        },
-        {
-          "url": "https://careers.xelerate.io",
-          "status": 0,
-          "bytes": 0,
-          "error": "fetch failed"
-        },
-        {
-          "url": "https://xelerate.io/career",
-          "status": 0,
-          "bytes": 0,
-          "error": "fetch failed"
-        },
-        {
-          "url": "https://xelerate.io/jobs",
-          "status": 0,
-          "bytes": 0,
-          "error": "fetch failed"
-        },
-        {
-          "url": "https://xelerate.io/join-us",
-          "status": 0,
-          "bytes": 0,
-          "error": "fetch failed"
-        },
-        {
-          "url": "https://xelerate.io/join-our-team",
-          "status": 0,
-          "bytes": 0,
-          "error": "fetch failed"
-        },
-        {
-          "url": "https://xelerate.io/careers.html",
-          "status": 0,
-          "bytes": 0,
-          "error": "fetch failed"
-        },
-        {
-          "url": "https://xelerate.io/company/careers",
-          "status": 0,
-          "bytes": 0,
-          "error": "fetch failed"
-        },
-        {
-          "url": "https://xelerate.io/about/careers",
-          "status": 0,
-          "bytes": 0,
-          "error": "fetch failed"
-        },
-        {
-          "url": "https://xelerate.io/current-openings",
-          "status": 0,
-          "bytes": 0,
-          "error": "fetch failed"
-        },
-        {
-          "url": "https://xelerate.io/",
-          "status": 0,
-          "bytes": 0,
-          "error": "fetch failed"
-        }
-      ],
-      "candidates": [
-        "greenhouse:xelerate(guess)",
-        "lever:xelerate(guess)",
-        "ashby:xelerate(guess)",
-        "recruitee:xelerate(guess)",
-        "workable:xelerate(guess)"
-      ],
-      "attempts": [
-        "greenhouse:xelerate -> no board",
-        "lever:xelerate -> no board",
-        "ashby:xelerate -> no board",
-        "recruitee:xelerate -> no board",
-        "workable:xelerate -> no board"
-      ]
-    },
-    "ms": 8514
+    "ms": 22321
   },
   {
     "company": "X (formerly Twitter)",
@@ -4435,18 +3927,18 @@
         {
           "url": "https://x.com/careers",
           "status": 404,
-          "bytes": 26210
+          "bytes": 26167
         },
         {
           "url": "https://x.com/career",
           "status": 200,
-          "bytes": 28964
+          "bytes": 28963
         }
       ],
       "candidates": [],
       "attempts": []
     },
-    "ms": 12103
+    "ms": 9937
   },
   {
     "company": "xAI",
@@ -4523,7 +4015,7 @@
       "candidates": [],
       "attempts": []
     },
-    "ms": 475
+    "ms": 568
   },
   {
     "company": "Xero",
@@ -5998,7 +5490,7 @@
         "score": -18
       },
       {
-        "title": "Director Product - Platform & Identity",
+        "title": "Director of Product, Platform & Identity",
         "location": "US: San Mateo (1875 South Grant Street)",
         "url": "https://jobs.ashbyhq.com/xero/01e6fa4d-957e-4250-a5e8-46b2a37a8908",
         "india": false,
@@ -6211,7 +5703,7 @@
         {
           "url": "https://xero.com/careers",
           "status": 403,
-          "bytes": 5727
+          "bytes": 5705
         },
         {
           "url": "https://xero.com/career",
@@ -6232,7 +5724,7 @@
         "ashby:xero -> 104 jobs (guess, name-verified)"
       ]
     },
-    "ms": 3061
+    "ms": 4119
   },
   {
     "company": "Xerox",
@@ -6360,7 +5852,7 @@
         {
           "url": "https://xerox.avature.net/en_US/careers/SearchJobs",
           "status": 200,
-          "bytes": 103279
+          "bytes": 103300
         },
         {
           "url": "https://careers.xerox.com",
@@ -6371,7 +5863,7 @@
         {
           "url": "https://xerox.com/careers",
           "status": 200,
-          "bytes": 360272
+          "bytes": 360709
         },
         {
           "url": "https://xerox.com/career",
@@ -6394,7 +5886,7 @@
         "workable:xerox -> no board"
       ]
     },
-    "ms": 11261
+    "ms": 11944
   },
   {
     "company": "XPO",
@@ -6402,7 +5894,7 @@
     "careers": "https://jobs.xpo.com/search/",
     "source": "successfactors:jobs.xpo.com",
     "error": null,
-    "totalJobs": 58,
+    "totalJobs": 59,
     "jobs": [
       {
         "title": "Engineer, Dev Ops for XPO Enterprise Services, LLC.",
@@ -6554,26 +6046,6 @@
         ],
         "expFits2": true,
         "score": 33
-      },
-      {
-        "title": "Diesel Mechanic",
-        "location": "Phoenix, AZ, US, 85043",
-        "url": "https://jobs.xpo.com/job/Phoenix-Diesel-Mechanic-AZ-85043/1406273600/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-        "india": false,
-        "locationSaysIndia": false,
-        "hasLocation": true,
-        "isEng": false,
-        "java": false,
-        "flutter": false,
-        "senior": false,
-        "exp": [
-          [
-            2,
-            3
-          ]
-        ],
-        "expFits2": true,
-        "score": 30
       },
       {
         "title": "Diesel Mechanic - Night Shift",
@@ -6736,6 +6208,26 @@
         "score": 30
       },
       {
+        "title": "Diesel Mechanic - Afternoon Shift",
+        "location": "Louisville, KY, US, 40219",
+        "url": "https://jobs.xpo.com/job/Louisville-Diesel-Mechanic-Afternoon-Shift-KY-40219/1411555500/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+        "india": false,
+        "locationSaysIndia": false,
+        "hasLocation": true,
+        "isEng": false,
+        "java": false,
+        "flutter": false,
+        "senior": false,
+        "exp": [
+          [
+            2,
+            3
+          ]
+        ],
+        "expFits2": true,
+        "score": 30
+      },
+      {
         "title": "Lead Engineer, Software Engineering (Mobile Development)",
         "location": "Portland, OR, US, 97209",
         "url": "https://jobs.xpo.com/job/Portland-Lead-Engineer%2C-Software-Engineering-%28Mobile-Development%29-OR-97209/1377813700/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
@@ -6871,21 +6363,6 @@
         "score": 4
       },
       {
-        "title": "Class B Truck Driver / Home Daily",
-        "location": "Maspeth, NY, US, 11378",
-        "url": "https://jobs.xpo.com/job/Maspeth-Class-B-Truck-Driver-Home-Daily-NY-11378/1398546700/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-        "india": false,
-        "locationSaysIndia": false,
-        "hasLocation": true,
-        "isEng": false,
-        "java": false,
-        "flutter": false,
-        "senior": false,
-        "exp": [],
-        "expFits2": false,
-        "score": 4
-      },
-      {
         "title": "Supervisor, Freight Operations - Overnight Shift",
         "location": "Henderson, CO, US, 80640",
         "url": "https://jobs.xpo.com/job/Henderson-Supervisor%2C-Freight-Operations-Overnight-Shift-CO-80640/1407338500/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
@@ -6901,9 +6378,9 @@
         "score": 4
       },
       {
-        "title": "Customer Service Representative (Part-Time) - Afternoon Shift",
-        "location": "Blountville, TN, US, 37617",
-        "url": "https://jobs.xpo.com/job/Blountville-Customer-Service-Representative-%28Part-Time%29-Afternoon-Shift-TN-37617/1407045700/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+        "title": "Supervisor, Freight Operations",
+        "location": "Jonesboro, AR, US, 72401",
+        "url": "https://jobs.xpo.com/job/Jonesboro-Supervisor%2C-Freight-Operations-AR-72401/1417226600/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
         "india": false,
         "locationSaysIndia": false,
         "hasLocation": true,
@@ -7007,6 +6484,21 @@
       },
       {
         "title": "Supervisor, Freight Operations",
+        "location": "Carlisle, PA, US, 17015",
+        "url": "https://jobs.xpo.com/job/Carlisle-Supervisor%2C-Freight-Operations-PA-17015/1416571200/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+        "india": false,
+        "locationSaysIndia": false,
+        "hasLocation": true,
+        "isEng": false,
+        "java": false,
+        "flutter": false,
+        "senior": false,
+        "exp": [],
+        "expFits2": false,
+        "score": 4
+      },
+      {
+        "title": "Supervisor, Freight Operations",
         "location": "Columbus, OH, US, 43228",
         "url": "https://jobs.xpo.com/job/Columbus-Supervisor%2C-Freight-Operations-OH-43228/1416357900/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
         "india": false,
@@ -7024,21 +6516,6 @@
         "title": "Supervisor, Freight Operations",
         "location": "Montgomery, NY, US, 12549",
         "url": "https://jobs.xpo.com/job/Montgomery-Supervisor%2C-Freight-Operations-NY-12549/1416262500/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-        "india": false,
-        "locationSaysIndia": false,
-        "hasLocation": true,
-        "isEng": false,
-        "java": false,
-        "flutter": false,
-        "senior": false,
-        "exp": [],
-        "expFits2": false,
-        "score": 4
-      },
-      {
-        "title": "Trailer Tech Apprentice",
-        "location": "Columbus, OH, US, 43228",
-        "url": "https://jobs.xpo.com/job/Columbus-Trailer-Tech-Apprentice-OH-43228/1406961900/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
         "india": false,
         "locationSaysIndia": false,
         "hasLocation": true,
@@ -7069,6 +6546,21 @@
         "title": "Trainer, Fleet Maintenance",
         "location": "Dallas, TX, US, 75247",
         "url": "https://jobs.xpo.com/job/Dallas-Trainer%2C-Fleet-Maintenance-TX-75247/1411548000/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+        "india": false,
+        "locationSaysIndia": false,
+        "hasLocation": true,
+        "isEng": false,
+        "java": false,
+        "flutter": false,
+        "senior": false,
+        "exp": [],
+        "expFits2": false,
+        "score": 4
+      },
+      {
+        "title": "Class B Truck Driver / Home Daily",
+        "location": "Maspeth, NY, US, 11378",
+        "url": "https://jobs.xpo.com/job/Maspeth-Class-B-Truck-Driver-Home-Daily-NY-11378/1398546700/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
         "india": false,
         "locationSaysIndia": false,
         "hasLocation": true,
@@ -7135,26 +6627,6 @@
           [
             18,
             22
-          ]
-        ],
-        "expFits2": false,
-        "score": 0
-      },
-      {
-        "title": "Truck Driver - Home Daily - CDL A",
-        "location": "Newark, NJ, US, 07114",
-        "url": "https://jobs.xpo.com/job/Newark-Truck-Driver-Home-Daily-CDL-A-NJ-07114/1398772900/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-        "india": false,
-        "locationSaysIndia": false,
-        "hasLocation": true,
-        "isEng": false,
-        "java": false,
-        "flutter": false,
-        "senior": false,
-        "exp": [
-          [
-            21,
-            25
           ]
         ],
         "expFits2": false,
@@ -7241,26 +6713,6 @@
         "score": 0
       },
       {
-        "title": "Truck Driver - Home Daily - CDL A",
-        "location": "Uniontown, OH, US, 44685",
-        "url": "https://jobs.xpo.com/job/Uniontown-Truck-Driver-Home-Daily-CDL-A-OH-44685/1407468700/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-        "india": false,
-        "locationSaysIndia": false,
-        "hasLocation": true,
-        "isEng": false,
-        "java": false,
-        "flutter": false,
-        "senior": false,
-        "exp": [
-          [
-            21,
-            25
-          ]
-        ],
-        "expFits2": false,
-        "score": 0
-      },
-      {
         "title": "Forklift Operator - Part-Time - Day Shift",
         "location": "Scott, LA, US, 70583",
         "url": "https://jobs.xpo.com/job/Scott-Forklift-Operator-Part-Time-Day-Shift-LA-70583/1407369200/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
@@ -7282,8 +6734,8 @@
       },
       {
         "title": "Truck Driver - Home Daily - CDL A",
-        "location": "Orange, CA, US, 92865",
-        "url": "https://jobs.xpo.com/job/Orange-Truck-Driver-Home-Daily-CDL-A-CA-92865/1416902600/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+        "location": "Uniontown, OH, US, 44685",
+        "url": "https://jobs.xpo.com/job/Uniontown-Truck-Driver-Home-Daily-CDL-A-OH-44685/1407468700/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
         "india": false,
         "locationSaysIndia": false,
         "hasLocation": true,
@@ -7341,9 +6793,9 @@
         "score": 0
       },
       {
-        "title": "Forklift Operator - Night Shift",
-        "location": "Abilene, TX, US, 79601",
-        "url": "https://jobs.xpo.com/job/Abilene-Forklift-Operator-Night-Shift-TX-79601/1398016000/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+        "title": "Forklift Operator",
+        "location": "Long Beach, CA, US, 90810",
+        "url": "https://jobs.xpo.com/job/Long-Beach-Forklift-Operator-CA-90810/1417071100/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
         "india": false,
         "locationSaysIndia": false,
         "hasLocation": true,
@@ -7362,8 +6814,8 @@
       },
       {
         "title": "Forklift Operator - Part-Time",
-        "location": "Lordstown, OH, US, 44481",
-        "url": "https://jobs.xpo.com/job/Lordstown-Forklift-Operator-Part-Time-OH-44481/1406724300/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+        "location": "Long Beach, CA, US, 90810",
+        "url": "https://jobs.xpo.com/job/Long-Beach-Forklift-Operator-Part-Time-CA-90810/1417071900/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
         "india": false,
         "locationSaysIndia": false,
         "hasLocation": true,
@@ -7381,9 +6833,69 @@
         "score": 0
       },
       {
-        "title": "Truck Driver - Home Daily - CDL A - Bonuses",
-        "location": "Lordstown, OH, US, 44481",
-        "url": "https://jobs.xpo.com/job/Lordstown-Truck-Driver-Home-Daily-CDL-A-Bonuses-OH-44481/1406854500/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+        "title": "Forklift Operator",
+        "location": "San Antonio, TX, US, 78219",
+        "url": "https://jobs.xpo.com/job/San-Antonio-Forklift-Operator-TX-78219/1417080100/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+        "india": false,
+        "locationSaysIndia": false,
+        "hasLocation": true,
+        "isEng": false,
+        "java": false,
+        "flutter": false,
+        "senior": false,
+        "exp": [
+          [
+            18,
+            22
+          ]
+        ],
+        "expFits2": false,
+        "score": 0
+      },
+      {
+        "title": "Forklift Operator",
+        "location": "Morrisville, NC, US, 27560",
+        "url": "https://jobs.xpo.com/job/Morrisville-Forklift-Operator-NC-27560/1417147200/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+        "india": false,
+        "locationSaysIndia": false,
+        "hasLocation": true,
+        "isEng": false,
+        "java": false,
+        "flutter": false,
+        "senior": false,
+        "exp": [
+          [
+            18,
+            22
+          ]
+        ],
+        "expFits2": false,
+        "score": 0
+      },
+      {
+        "title": "Forklift Operator",
+        "location": "Memphis, TN, US, 38118",
+        "url": "https://jobs.xpo.com/job/Memphis-Forklift-Operator-TN-38118/1417150400/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+        "india": false,
+        "locationSaysIndia": false,
+        "hasLocation": true,
+        "isEng": false,
+        "java": false,
+        "flutter": false,
+        "senior": false,
+        "exp": [
+          [
+            18,
+            22
+          ]
+        ],
+        "expFits2": false,
+        "score": 0
+      },
+      {
+        "title": "Truck Driver - Home Daily - CDL A - Night shift",
+        "location": "Byron, GA, US, 31008",
+        "url": "https://jobs.xpo.com/job/Byron-Truck-Driver-Home-Daily-CDL-A-Night-shift-GA-31008/1417167100/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
         "india": false,
         "locationSaysIndia": false,
         "hasLocation": true,
@@ -7401,9 +6913,29 @@
         "score": 0
       },
       {
-        "title": "Forklift Operator",
-        "location": "Walton, KY, US, 41094",
-        "url": "https://jobs.xpo.com/job/Walton-Forklift-Operator-KY-41094/1406976000/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+        "title": "Forklift Operator - Night Shift",
+        "location": "Whites Creek, TN, US, 37209",
+        "url": "https://jobs.xpo.com/job/Whites-Creek-Forklift-Operator-Night-Shift-TN-37209/1417149100/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+        "india": false,
+        "locationSaysIndia": false,
+        "hasLocation": true,
+        "isEng": false,
+        "java": false,
+        "flutter": false,
+        "senior": false,
+        "exp": [
+          [
+            18,
+            22
+          ]
+        ],
+        "expFits2": false,
+        "score": 0
+      },
+      {
+        "title": "Forklift Operator - Afternoon Shift",
+        "location": "Central City, KY, US, 42330",
+        "url": "https://jobs.xpo.com/job/Central-City-Forklift-Operator-Afternoon-Shift-KY-42330/1417149700/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
         "india": false,
         "locationSaysIndia": false,
         "hasLocation": true,
@@ -7498,21 +7030,6 @@
         "exp": [],
         "expFits2": false,
         "score": -18
-      },
-      {
-        "title": "Senior Manager, Service Center 2",
-        "location": "Fort Wayne, IN, US, 46808",
-        "url": "https://jobs.xpo.com/job/Fort-Wayne-Senior-Manager%2C-Service-Center-2-IN-46808/1416216900/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-        "india": false,
-        "locationSaysIndia": false,
-        "hasLocation": true,
-        "isEng": false,
-        "java": false,
-        "flutter": false,
-        "senior": true,
-        "exp": [],
-        "expFits2": false,
-        "score": -18
       }
     ],
     "enriched": 0,
@@ -7578,7 +7095,7 @@
         {
           "url": "https://jobs.xpo.com/search/",
           "status": 200,
-          "bytes": 127184
+          "bytes": 127163
         },
         {
           "url": "https://careers.xpo.com",
@@ -7601,10 +7118,10 @@
         "successfactors:https://jobs.xpo.com(html)"
       ],
       "attempts": [
-        "successfactors:jobs.xpo.com -> 58 jobs"
+        "successfactors:jobs.xpo.com -> 59 jobs"
       ]
     },
-    "ms": 19130
+    "ms": 18976
   },
   {
     "company": "Xylem",
@@ -7683,30 +7200,6 @@
         "score": 60
       },
       {
-        "title": "Technical Sales Engineer/Specialist",
-        "location": "3 Locations",
-        "url": "https://xylem.wd5.myworkdayjobs.com/xylem-careers/job/Sanford-Florida/Technical-Sales-Engineer-Specialist_R49572",
-        "india": false,
-        "locationSaysIndia": false,
-        "hasLocation": true,
-        "isEng": true,
-        "java": false,
-        "flutter": false,
-        "senior": false,
-        "exp": [
-          [
-            0,
-            2
-          ],
-          [
-            2,
-            6
-          ]
-        ],
-        "expFits2": true,
-        "score": 60
-      },
-      {
         "title": "Mechanical Design Engineer",
         "location": "Vadodara 73 East Ave",
         "url": "https://xylem.wd5.myworkdayjobs.com/xylem-careers/job/Vadodara-73-East-Ave/Mechanical-Design-Engineer_R49969",
@@ -7755,9 +7248,9 @@
         "score": 48
       },
       {
-        "title": "Electrical and Controls Engineer",
-        "location": "2 Locations",
-        "url": "https://xylem.wd5.myworkdayjobs.com/xylem-careers/job/Pittsburgh-Pennsylvania/Electrical-and-Controls-Engineer_R49910",
+        "title": "Application Engineer",
+        "location": "Holland, Michigan (Office)",
+        "url": "https://xylem.wd5.myworkdayjobs.com/xylem-careers/job/Holland-Michigan-Office/Application-Engineering_R48663-1",
         "india": false,
         "locationSaysIndia": false,
         "hasLocation": true,
@@ -7767,12 +7260,12 @@
         "senior": false,
         "exp": [
           [
-            5,
-            9
+            3,
+            7
           ]
         ],
         "expFits2": false,
-        "score": 30
+        "score": 42
       },
       {
         "title": "Analyst, People Services",
@@ -7893,6 +7386,66 @@
         "exp": [],
         "expFits2": false,
         "score": 16
+      },
+      {
+        "title": "Field Service Technician",
+        "location": "Linthicum Heights",
+        "url": "https://xylem.wd5.myworkdayjobs.com/xylem-careers/job/Linthicum-Heights/Expert-Field-Service-Technician_R47953",
+        "india": false,
+        "locationSaysIndia": false,
+        "hasLocation": true,
+        "isEng": false,
+        "java": false,
+        "flutter": false,
+        "senior": false,
+        "exp": [],
+        "expFits2": false,
+        "score": 4
+      },
+      {
+        "title": "Receiving Clerk",
+        "location": "Morton Grove",
+        "url": "https://xylem.wd5.myworkdayjobs.com/xylem-careers/job/Morton-Grove/Receiving-Clerk_R49705",
+        "india": false,
+        "locationSaysIndia": false,
+        "hasLocation": true,
+        "isEng": false,
+        "java": false,
+        "flutter": false,
+        "senior": false,
+        "exp": [],
+        "expFits2": false,
+        "score": 4
+      },
+      {
+        "title": "Sales Representative",
+        "location": "Richmond, Virginia (Office)",
+        "url": "https://xylem.wd5.myworkdayjobs.com/xylem-careers/job/Richmond-Virginia-Office/Sales-Representative_R49760",
+        "india": false,
+        "locationSaysIndia": false,
+        "hasLocation": true,
+        "isEng": false,
+        "java": false,
+        "flutter": false,
+        "senior": false,
+        "exp": [],
+        "expFits2": false,
+        "score": 4
+      },
+      {
+        "title": "Field Service Technician",
+        "location": "Sacramento, California",
+        "url": "https://xylem.wd5.myworkdayjobs.com/xylem-careers/job/Sacramento-California/Field-Service-Technician_R49578-1",
+        "india": false,
+        "locationSaysIndia": false,
+        "hasLocation": true,
+        "isEng": false,
+        "java": false,
+        "flutter": false,
+        "senior": false,
+        "exp": [],
+        "expFits2": false,
+        "score": 4
       },
       {
         "title": "Shop Technician",
@@ -8060,64 +7613,19 @@
         "score": 4
       },
       {
-        "title": "Gas Burner (W-3) 2nd Shift",
-        "location": "Cheektowaga, New York",
-        "url": "https://xylem.wd5.myworkdayjobs.com/xylem-careers/job/Cheektowaga-New-York/Gas-Burner--W-3--2nd-Shift_R50046",
+        "title": "Expert Field Service Technician",
+        "location": "Milpitas Ames, California",
+        "url": "https://xylem.wd5.myworkdayjobs.com/xylem-careers/job/Milpitas-Ames-California/Expert-Field-Service-Technician_R50050",
         "india": false,
         "locationSaysIndia": false,
         "hasLocation": true,
         "isEng": false,
         "java": false,
         "flutter": false,
-        "senior": false,
+        "senior": true,
         "exp": [],
         "expFits2": false,
-        "score": 4
-      },
-      {
-        "title": "Production Supervisor - Third Shift",
-        "location": "Thomasville, Georgia",
-        "url": "https://xylem.wd5.myworkdayjobs.com/xylem-careers/job/Thomasville-Georgia/Production-Supervisor---Third-Shift_R49993",
-        "india": false,
-        "locationSaysIndia": false,
-        "hasLocation": true,
-        "isEng": false,
-        "java": false,
-        "flutter": false,
-        "senior": false,
-        "exp": [],
-        "expFits2": false,
-        "score": 4
-      },
-      {
-        "title": "Production Supervisor (3rd Shift: 10:30 PM - 7:00 AM)",
-        "location": "Cheektowaga, New York",
-        "url": "https://xylem.wd5.myworkdayjobs.com/xylem-careers/job/Cheektowaga-New-York/Production-Supervisor--3rd-Shift--10-30-PM---7-00-AM-_R50024",
-        "india": false,
-        "locationSaysIndia": false,
-        "hasLocation": true,
-        "isEng": false,
-        "java": false,
-        "flutter": false,
-        "senior": false,
-        "exp": [],
-        "expFits2": false,
-        "score": 4
-      },
-      {
-        "title": "Diesel Technician",
-        "location": "Salt Lake City, Utah",
-        "url": "https://xylem.wd5.myworkdayjobs.com/xylem-careers/job/Salt-Lake-City-Utah/Senior-Field-Service-Technician_R49509",
-        "india": false,
-        "locationSaysIndia": false,
-        "hasLocation": true,
-        "isEng": false,
-        "java": false,
-        "flutter": false,
-        "senior": false,
-        "exp": [],
-        "expFits2": false,
-        "score": 4
+        "score": -18
       },
       {
         "title": "Senior AI Product Manager",
@@ -8270,7 +7778,7 @@
         "score": -18
       }
     ],
-    "enriched": 7,
+    "enriched": 6,
     "matches": [],
     "nearMatches": [],
     "closest": {
@@ -8341,7 +7849,7 @@
         {
           "url": "https://xylem.com/careers",
           "status": 200,
-          "bytes": 163367
+          "bytes": 163370
         },
         {
           "url": "https://xylem.com/career",
@@ -8351,7 +7859,7 @@
         {
           "url": "https://xylem.com/jobs",
           "status": 404,
-          "bytes": 124277
+          "bytes": 124287
         }
       ],
       "candidates": [
@@ -8366,7 +7874,7 @@
         "workday:xylem -> 40 jobs"
       ]
     },
-    "ms": 13504
+    "ms": 9441
   },
   {
     "company": "Xactly",
@@ -8923,7 +8431,7 @@
         "workable:xactly -> no board"
       ]
     },
-    "ms": 34737
+    "ms": 39654
   },
   {
     "company": "Xometry",
@@ -13628,7 +13136,7 @@
         {
           "url": "https://www.xometry.com/careers/",
           "status": 200,
-          "bytes": 411856
+          "bytes": 413399
         },
         {
           "url": "https://careers.xometry.com",
@@ -13639,52 +13147,52 @@
         {
           "url": "https://xometry.com/careers",
           "status": 200,
-          "bytes": 411856
+          "bytes": 413399
         },
         {
           "url": "https://xometry.com/career",
           "status": 404,
-          "bytes": 312754
+          "bytes": 314297
         },
         {
           "url": "https://xometry.com/jobs",
           "status": 404,
-          "bytes": 312754
+          "bytes": 314297
         },
         {
           "url": "https://xometry.com/join-us",
           "status": 404,
-          "bytes": 312754
+          "bytes": 314297
         },
         {
           "url": "https://xometry.com/join-our-team",
           "status": 404,
-          "bytes": 312754
+          "bytes": 314297
         },
         {
           "url": "https://xometry.com/careers.html",
           "status": 404,
-          "bytes": 312754
+          "bytes": 314297
         },
         {
           "url": "https://xometry.com/company/careers",
           "status": 404,
-          "bytes": 312754
+          "bytes": 314297
         },
         {
           "url": "https://xometry.com/about/careers",
           "status": 404,
-          "bytes": 312754
+          "bytes": 314297
         },
         {
           "url": "https://xometry.com/current-openings",
           "status": 404,
-          "bytes": 312754
+          "bytes": 314297
         },
         {
           "url": "https://xometry.com/",
           "status": 200,
-          "bytes": 928170
+          "bytes": 922011
         }
       ],
       "candidates": [
@@ -13698,7 +13206,7 @@
         "greenhouse:xometry -> 211 jobs (guess, name-verified)"
       ]
     },
-    "ms": 25057
+    "ms": 25917
   },
   {
     "company": "Xplor Technologies",
@@ -14637,7 +14145,7 @@
         {
           "url": "https://xplortechnologies.com/careers/",
           "status": 200,
-          "bytes": 194363
+          "bytes": 194364
         },
         {
           "url": "https://careers.xplortechnologies.com",
@@ -14648,7 +14156,7 @@
         {
           "url": "https://xplortechnologies.com/careers",
           "status": 200,
-          "bytes": 194363
+          "bytes": 194364
         },
         {
           "url": "https://xplortechnologies.com/career",
@@ -14693,18 +14201,28 @@
         {
           "url": "https://xplortechnologies.com/",
           "status": 200,
-          "bytes": 174260
+          "bytes": 174261
         }
       ],
       "candidates": [
-        "smartrecruiters:Xplor(seed)",
-        "rippling:clubessential-holdings-cjb(html)"
+        "smartrecruiters:Xplor(html)",
+        "rippling:clubessential-holdings-cjb(html)",
+        "greenhouse:xplor(guess)",
+        "lever:xplor(guess)",
+        "ashby:xplor(guess)",
+        "recruitee:xplor(guess)",
+        "workable:xplor(guess)",
+        "greenhouse:xplortechnologies(guess)",
+        "lever:xplortechnologies(guess)",
+        "ashby:xplortechnologies(guess)",
+        "recruitee:xplortechnologies(guess)",
+        "workable:xplortechnologies(guess)"
       ],
       "attempts": [
         "smartrecruiters:Xplor -> 54 jobs"
       ]
     },
-    "ms": 13701
+    "ms": 11161
   },
   {
     "company": "Xsolla",
@@ -14712,7 +14230,7 @@
     "careers": "https://xsolla.com/careers",
     "source": "lever:xsolla",
     "error": null,
-    "totalJobs": 181,
+    "totalJobs": 180,
     "jobs": [
       {
         "title": "Backend Engineer (Go)",
@@ -18037,26 +17555,6 @@
         "score": -22
       },
       {
-        "title": "Senior Product Manager, Xsolla Pages",
-        "location": "Remote USA",
-        "url": "https://jobs.lever.co/xsolla/6f4c172d-02d6-4d6c-9519-561c3e12e7d3",
-        "india": false,
-        "locationSaysIndia": false,
-        "hasLocation": true,
-        "isEng": false,
-        "java": false,
-        "flutter": false,
-        "senior": true,
-        "exp": [
-          [
-            6,
-            10
-          ]
-        ],
-        "expFits2": false,
-        "score": -22
-      },
-      {
         "title": "Senior Product Owner – Xsolla Money Account",
         "location": "Kuala Lumpur",
         "url": "https://jobs.lever.co/xsolla/0340b92a-5e8e-49f6-ab2a-4ace439c5bb9",
@@ -18395,12 +17893,12 @@
         {
           "url": "https://xsolla.com/careers",
           "status": 200,
-          "bytes": 4057311
+          "bytes": 4036497
         },
         {
           "url": "https://careers.xsolla.com",
           "status": 200,
-          "bytes": 4057311
+          "bytes": 4036497
         },
         {
           "url": "https://xsolla.com/career",
@@ -18414,13 +17912,17 @@
         }
       ],
       "candidates": [
-        "lever:xsolla(seed)"
+        "lever:xsolla(html)",
+        "greenhouse:xsolla(guess)",
+        "ashby:xsolla(guess)",
+        "recruitee:xsolla(guess)",
+        "workable:xsolla(guess)"
       ],
       "attempts": [
-        "lever:xsolla -> 181 jobs"
+        "lever:xsolla -> 180 jobs"
       ]
     },
-    "ms": 10861
+    "ms": 11988
   },
   {
     "company": "XM Cyber",
@@ -18439,7 +17941,7 @@
       "pages": [],
       "attempts": []
     },
-    "ms": 90002
+    "ms": 90007
   },
   {
     "company": "Xage Security",
@@ -18843,13 +18345,23 @@
         }
       ],
       "candidates": [
-        "lever:xage-security(seed)"
+        "lever:xage-security(html)",
+        "greenhouse:xagesecurity(guess)",
+        "lever:xagesecurity(guess)",
+        "ashby:xagesecurity(guess)",
+        "recruitee:xagesecurity(guess)",
+        "workable:xagesecurity(guess)",
+        "greenhouse:xage(guess)",
+        "lever:xage(guess)",
+        "ashby:xage(guess)",
+        "recruitee:xage(guess)",
+        "workable:xage(guess)"
       ],
       "attempts": [
         "lever:xage-security -> 10 jobs"
       ]
     },
-    "ms": 5505
+    "ms": 5743
   },
   {
     "company": "Xactus",
@@ -18869,7 +18381,7 @@
         {
           "url": "https://xactus.com/careers/",
           "status": 404,
-          "bytes": 164035
+          "bytes": 164122
         },
         {
           "url": "https://careers.xactus.com",
@@ -18880,52 +18392,52 @@
         {
           "url": "https://xactus.com/careers",
           "status": 404,
-          "bytes": 164035
+          "bytes": 164122
         },
         {
           "url": "https://xactus.com/career",
           "status": 404,
-          "bytes": 164035
+          "bytes": 164122
         },
         {
           "url": "https://xactus.com/jobs",
           "status": 404,
-          "bytes": 164035
+          "bytes": 164122
         },
         {
           "url": "https://xactus.com/join-us",
           "status": 404,
-          "bytes": 164035
+          "bytes": 164122
         },
         {
           "url": "https://xactus.com/join-our-team",
           "status": 404,
-          "bytes": 164035
+          "bytes": 164122
         },
         {
           "url": "https://xactus.com/careers.html",
           "status": 404,
-          "bytes": 164035
+          "bytes": 164122
         },
         {
           "url": "https://xactus.com/company/careers",
           "status": 404,
-          "bytes": 164035
+          "bytes": 164122
         },
         {
           "url": "https://xactus.com/about/careers",
           "status": 404,
-          "bytes": 164035
+          "bytes": 164122
         },
         {
           "url": "https://xactus.com/current-openings",
           "status": 404,
-          "bytes": 164035
+          "bytes": 164122
         },
         {
           "url": "https://xactus.com/",
           "status": 200,
-          "bytes": 325366
+          "bytes": 325453
         }
       ],
       "candidates": [
@@ -18943,7 +18455,7 @@
         "workable:xactus -> no board"
       ]
     },
-    "ms": 18646
+    "ms": 20724
   },
   {
     "company": "Xanadu Quantum",
@@ -19042,7 +18554,7 @@
         "workable:xanadu -> no board"
       ]
     },
-    "ms": 21351
+    "ms": 21603
   },
   {
     "company": "Xcel Energy",
@@ -19133,102 +18645,6 @@
         "score": 50
       },
       {
-        "title": "Reliability Electrical Engineer (Senior, Staff and Entry)",
-        "location": "Pueblo, CO, 81006",
-        "url": "https://xcelenergy.wd1.myworkdayjobs.com/External/job/Pueblo-CO-81006/Reliability-Electrical-Engineer--Staff-or-Senior-_JR112626-1",
-        "india": false,
-        "locationSaysIndia": false,
-        "hasLocation": true,
-        "isEng": true,
-        "java": false,
-        "flutter": false,
-        "senior": true,
-        "exp": [
-          [
-            0,
-            4
-          ],
-          [
-            2,
-            6
-          ],
-          [
-            5,
-            9
-          ],
-          [
-            7,
-            11
-          ]
-        ],
-        "expFits2": true,
-        "score": 50
-      },
-      {
-        "title": "Mechanical Engineer I/II Engineer or Sr. – Monticello, MN",
-        "location": "Monticello, MN, 55362",
-        "url": "https://xcelenergy.wd1.myworkdayjobs.com/External/job/Monticello-MN-55362/Mechanical-Engineer-I-II-Engineer-or-Sr---Monticello--MN_JR115523",
-        "india": false,
-        "locationSaysIndia": false,
-        "hasLocation": true,
-        "isEng": true,
-        "java": false,
-        "flutter": false,
-        "senior": true,
-        "exp": [
-          [
-            0,
-            2
-          ],
-          [
-            2,
-            3
-          ]
-        ],
-        "expFits2": true,
-        "score": 50
-      },
-      {
-        "title": "Engineer (Entry, Staff, Senior, or Principal)- Rocky Mountain",
-        "location": "Keenesburg, CO, 80643",
-        "url": "https://xcelenergy.wd1.myworkdayjobs.com/External/job/Keenesburg-CO-80643/Engineer--Entry--Staff--Senior--or-Principal---Rocky-Mountain_JR114961-1",
-        "india": false,
-        "locationSaysIndia": false,
-        "hasLocation": true,
-        "isEng": true,
-        "java": false,
-        "flutter": false,
-        "senior": true,
-        "exp": [
-          [
-            0,
-            4
-          ],
-          [
-            2,
-            6
-          ],
-          [
-            5,
-            9
-          ],
-          [
-            7,
-            11
-          ],
-          [
-            9,
-            13
-          ],
-          [
-            15,
-            19
-          ]
-        ],
-        "expFits2": true,
-        "score": 50
-      },
-      {
         "title": "ServiceNow Engineer",
         "location": "3 Locations",
         "url": "https://xcelenergy.wd1.myworkdayjobs.com/External/job/Denver-CO-80205/IT-ServiceNow-Engineer_JR115201-1",
@@ -19249,76 +18665,19 @@
         "score": 42
       },
       {
-        "title": "Power Generation Design Engineer (Staff, Senior or Principal)",
-        "location": "3 Locations",
-        "url": "https://xcelenergy.wd1.myworkdayjobs.com/External/job/Denver-CO-80205/Principal-Development-Engineer--Mechanical-Process-_JR110858-2",
+        "title": "Rotating Fleet Technician I or II - Minneapolis, MN",
+        "location": "Minneapolis, MN, 55414",
+        "url": "https://xcelenergy.wd1.myworkdayjobs.com/External/job/Minneapolis-MN-55414/Rotating-Fleet-Technician-I-or-II---Minneapolis--MN_JR115069-1",
         "india": false,
         "locationSaysIndia": false,
         "hasLocation": true,
-        "isEng": true,
+        "isEng": false,
         "java": false,
         "flutter": false,
-        "senior": true,
-        "exp": [
-          [
-            2,
-            6
-          ],
-          [
-            5,
-            9
-          ],
-          [
-            7,
-            11
-          ],
-          [
-            9,
-            13
-          ],
-          [
-            15,
-            19
-          ]
-        ],
-        "expFits2": true,
-        "score": 38
-      },
-      {
-        "title": "Substation Commissioning Engineer (Staff, Senior, or Principal)",
-        "location": "3 Locations",
-        "url": "https://xcelenergy.wd1.myworkdayjobs.com/External/job/Golden-CO-80401/Substation-Commissioning-Engineer--Staff--Senior--or-Principal-_JR115544-1",
-        "india": false,
-        "locationSaysIndia": false,
-        "hasLocation": true,
-        "isEng": true,
-        "java": false,
-        "flutter": false,
-        "senior": true,
-        "exp": [
-          [
-            2,
-            6
-          ],
-          [
-            5,
-            9
-          ],
-          [
-            7,
-            11
-          ],
-          [
-            9,
-            13
-          ],
-          [
-            15,
-            19
-          ]
-        ],
-        "expFits2": true,
-        "score": 38
+        "senior": false,
+        "exp": [],
+        "expFits2": false,
+        "score": 16
       },
       {
         "title": "Rotating Fleet Technician I or II - Winona, MN",
@@ -19364,6 +18723,128 @@
         "exp": [],
         "expFits2": false,
         "score": 16
+      },
+      {
+        "title": "Transmission Planning Engineer, Senior or Principal",
+        "location": "3 Locations",
+        "url": "https://xcelenergy.wd1.myworkdayjobs.com/External/job/Denver-CO-80202/Transmission-Planning-Engineer--Senior_JR112762-1",
+        "india": false,
+        "locationSaysIndia": false,
+        "hasLocation": true,
+        "isEng": true,
+        "java": false,
+        "flutter": false,
+        "senior": true,
+        "exp": [
+          [
+            5,
+            9
+          ],
+          [
+            7,
+            11
+          ],
+          [
+            9,
+            13
+          ],
+          [
+            15,
+            19
+          ]
+        ],
+        "expFits2": false,
+        "score": 8
+      },
+      {
+        "title": "Business Support Specialist",
+        "location": "Mankato, MN, 56001",
+        "url": "https://xcelenergy.wd1.myworkdayjobs.com/External/job/Mankato-MN-56001/Business-Support-Specialist_JR115104",
+        "india": false,
+        "locationSaysIndia": false,
+        "hasLocation": true,
+        "isEng": false,
+        "java": false,
+        "flutter": false,
+        "senior": false,
+        "exp": [],
+        "expFits2": false,
+        "score": 4
+      },
+      {
+        "title": "Customer Contact Center Representative",
+        "location": "Amarillo, TX, 79101",
+        "url": "https://xcelenergy.wd1.myworkdayjobs.com/External/job/Amarillo-TX-79101/Customer-Contract-Center-Representative_JR115927-1",
+        "india": false,
+        "locationSaysIndia": false,
+        "hasLocation": true,
+        "isEng": false,
+        "java": false,
+        "flutter": false,
+        "senior": false,
+        "exp": [],
+        "expFits2": false,
+        "score": 4
+      },
+      {
+        "title": "Apprentice Plant Attendant - Ashland, WI",
+        "location": "Ashland, WI, 54806",
+        "url": "https://xcelenergy.wd1.myworkdayjobs.com/External/job/Ashland-WI-54806/Apprentice-Plant-Attendant---Ashland--WI_JR115765-1",
+        "india": false,
+        "locationSaysIndia": false,
+        "hasLocation": true,
+        "isEng": false,
+        "java": false,
+        "flutter": false,
+        "senior": false,
+        "exp": [],
+        "expFits2": false,
+        "score": 4
+      },
+      {
+        "title": "Assistant General Counsel",
+        "location": "Minneapolis, MN, 55401",
+        "url": "https://xcelenergy.wd1.myworkdayjobs.com/External/job/Minneapolis-MN-55401/Assistant-General-Counsel_JR115862",
+        "india": false,
+        "locationSaysIndia": false,
+        "hasLocation": true,
+        "isEng": false,
+        "java": false,
+        "flutter": false,
+        "senior": false,
+        "exp": [],
+        "expFits2": false,
+        "score": 4
+      },
+      {
+        "title": "Garage Mechanic Rotating - St Paul Service Center - Maplewood, MN",
+        "location": "St Paul, MN, 55117",
+        "url": "https://xcelenergy.wd1.myworkdayjobs.com/External/job/St-Paul-MN-55117/Garage-Mechanic-Rotating---St-Paul-Service-Center---Maplewood--MN_JR115072",
+        "india": false,
+        "locationSaysIndia": false,
+        "hasLocation": true,
+        "isEng": false,
+        "java": false,
+        "flutter": false,
+        "senior": false,
+        "exp": [],
+        "expFits2": false,
+        "score": 4
+      },
+      {
+        "title": "1st - 4th Year Apprentice Electrician - Substation Construction - Amarillo, TX 79118",
+        "location": "Amarillo, TX, 79118",
+        "url": "https://xcelenergy.wd1.myworkdayjobs.com/External/job/Amarillo-TX-79118/XMLNAME-1st---4th-Year-Apprentice-Electrician---Substation-Construction---Amarillo--TX-79118_JR114856",
+        "india": false,
+        "locationSaysIndia": false,
+        "hasLocation": true,
+        "isEng": false,
+        "java": false,
+        "flutter": false,
+        "senior": false,
+        "exp": [],
+        "expFits2": false,
+        "score": 4
       },
       {
         "title": "Training Coordinator",
@@ -19456,66 +18937,6 @@
         "score": 4
       },
       {
-        "title": "Customer Contract Center Representative",
-        "location": "Amarillo, TX, 79101",
-        "url": "https://xcelenergy.wd1.myworkdayjobs.com/External/job/Amarillo-TX-79101/Customer-Contract-Center-Representative_JR115927-1",
-        "india": false,
-        "locationSaysIndia": false,
-        "hasLocation": true,
-        "isEng": false,
-        "java": false,
-        "flutter": false,
-        "senior": false,
-        "exp": [],
-        "expFits2": false,
-        "score": 4
-      },
-      {
-        "title": "Electric Line Groundworker - Brush, CO",
-        "location": "Brush, CO, 80723",
-        "url": "https://xcelenergy.wd1.myworkdayjobs.com/External/job/Brush-CO-80723/Electric-Line-Groundworker---Brush--CO_JR114757-1",
-        "india": false,
-        "locationSaysIndia": false,
-        "hasLocation": true,
-        "isEng": false,
-        "java": false,
-        "flutter": false,
-        "senior": false,
-        "exp": [],
-        "expFits2": false,
-        "score": 4
-      },
-      {
-        "title": "Service Policy Analyst - PSCo",
-        "location": "7 Locations",
-        "url": "https://xcelenergy.wd1.myworkdayjobs.com/External/job/Henderson-CO-80640/Service-Policy-Analyst---PSCo_JR115507-1",
-        "india": false,
-        "locationSaysIndia": false,
-        "hasLocation": true,
-        "isEng": false,
-        "java": false,
-        "flutter": false,
-        "senior": false,
-        "exp": [],
-        "expFits2": false,
-        "score": 4
-      },
-      {
-        "title": "Nuclear Plant Attendant Apprentice - Welch, MN",
-        "location": "Welch, MN, 55089",
-        "url": "https://xcelenergy.wd1.myworkdayjobs.com/External/job/Welch-MN-55089/Nuclear-Plant-Attendant-Apprentice_JR112439-2",
-        "india": false,
-        "locationSaysIndia": false,
-        "hasLocation": true,
-        "isEng": false,
-        "java": false,
-        "flutter": false,
-        "senior": false,
-        "exp": [],
-        "expFits2": false,
-        "score": 4
-      },
-      {
         "title": "Associate Engagement Manager",
         "location": "3 Locations",
         "url": "https://xcelenergy.wd1.myworkdayjobs.com/External/job/Minneapolis-MN-55401/Associate-Engagement-Manager--Engagement-Manager--or-Senior-Engagement-Manager_JR112158-2",
@@ -19531,9 +18952,9 @@
         "score": -6
       },
       {
-        "title": "Associate Marketing Manager",
-        "location": "2 Locations",
-        "url": "https://xcelenergy.wd1.myworkdayjobs.com/External/job/Minneapolis-MN-55401/Associate-Marketing-Manager_JR115292-1",
+        "title": "Resource Planning Analyst II or Senior",
+        "location": "Denver, CO, 80205",
+        "url": "https://xcelenergy.wd1.myworkdayjobs.com/External/job/Denver-CO-80205/Resource-Planning-Analyst-II-or-Senior_JR115503",
         "india": false,
         "locationSaysIndia": false,
         "hasLocation": true,
@@ -19543,7 +18964,97 @@
         "senior": true,
         "exp": [],
         "expFits2": false,
-        "score": -6
+        "score": -18
+      },
+      {
+        "title": "Operations Manager",
+        "location": "Fort Collins, CO, 80525",
+        "url": "https://xcelenergy.wd1.myworkdayjobs.com/External/job/Fort-Collins-CO-80525/Operations-Manager_JR115237-1",
+        "india": false,
+        "locationSaysIndia": false,
+        "hasLocation": true,
+        "isEng": false,
+        "java": false,
+        "flutter": false,
+        "senior": true,
+        "exp": [],
+        "expFits2": false,
+        "score": -18
+      },
+      {
+        "title": "Principal/Senior Transmission Instructor",
+        "location": "Hugo, MN, 55038",
+        "url": "https://xcelenergy.wd1.myworkdayjobs.com/External/job/Hugo-MN-55038/Principal-Senior-Transmission-Instructor_JR115330-1",
+        "india": false,
+        "locationSaysIndia": false,
+        "hasLocation": true,
+        "isEng": false,
+        "java": false,
+        "flutter": false,
+        "senior": true,
+        "exp": [],
+        "expFits2": false,
+        "score": -18
+      },
+      {
+        "title": "Operations Manager (Energy Supply) - Pueblo, CO",
+        "location": "Pueblo, CO, 81006",
+        "url": "https://xcelenergy.wd1.myworkdayjobs.com/External/job/Pueblo-CO-81006/Operations-Manager--Energy-Supply----Pueblo--CO_JR114573-2",
+        "india": false,
+        "locationSaysIndia": false,
+        "hasLocation": true,
+        "isEng": false,
+        "java": false,
+        "flutter": false,
+        "senior": true,
+        "exp": [],
+        "expFits2": false,
+        "score": -18
+      },
+      {
+        "title": "Gas Design Manager",
+        "location": "6 Locations",
+        "url": "https://xcelenergy.wd1.myworkdayjobs.com/External/job/Waite-Park-MN-56387/Gas-Design-Manager_JR114061-1",
+        "india": false,
+        "locationSaysIndia": false,
+        "hasLocation": true,
+        "isEng": false,
+        "java": false,
+        "flutter": false,
+        "senior": true,
+        "exp": [],
+        "expFits2": false,
+        "score": -18
+      },
+      {
+        "title": "AVP, Data Center & Large Load Strategy - Commercial",
+        "location": "2 Locations",
+        "url": "https://xcelenergy.wd1.myworkdayjobs.com/External/job/Minneapolis-MN-55401/AVP--Data-Center---Large-Load-Strategy---Commercial_JR115723-1",
+        "india": false,
+        "locationSaysIndia": false,
+        "hasLocation": true,
+        "isEng": false,
+        "java": false,
+        "flutter": false,
+        "senior": true,
+        "exp": [],
+        "expFits2": false,
+        "score": -18
+      },
+      {
+        "title": "Engagement Manager",
+        "location": "3 Locations",
+        "url": "https://xcelenergy.wd1.myworkdayjobs.com/External/job/Minneapolis-MN-55401/Engagement-Manager_JR112985-1",
+        "india": false,
+        "locationSaysIndia": false,
+        "hasLocation": true,
+        "isEng": false,
+        "java": false,
+        "flutter": false,
+        "senior": true,
+        "exp": [],
+        "expFits2": false,
+        "score": -18
       },
       {
         "title": "Senior Manager, Operations",
@@ -19564,21 +19075,6 @@
         "title": "Career Accelerator (Rotational)- Financial Analyst II or Senior Financial Analyst",
         "location": "2 Locations",
         "url": "https://xcelenergy.wd1.myworkdayjobs.com/External/job/Minneapolis-MN-55401/Career-Accelerator--Rotational---Financial-Analyst-II-or-Senior-Financial-Analyst_JR115182-1",
-        "india": false,
-        "locationSaysIndia": false,
-        "hasLocation": true,
-        "isEng": false,
-        "java": false,
-        "flutter": false,
-        "senior": true,
-        "exp": [],
-        "expFits2": false,
-        "score": -18
-      },
-      {
-        "title": "Engagement Manager",
-        "location": "3 Locations",
-        "url": "https://xcelenergy.wd1.myworkdayjobs.com/External/job/Denver-CO-80205/Engagement-Manager_JR112985-1",
         "india": false,
         "locationSaysIndia": false,
         "hasLocation": true,
@@ -19711,6 +19207,21 @@
         "score": -18
       },
       {
+        "title": "Electric Distribution Control Center Operations Manager - Evening Shift",
+        "location": "Denver, CO, 80223",
+        "url": "https://xcelenergy.wd1.myworkdayjobs.com/External/job/Denver-CO-80223/Electric-Distribution-Control-Center-Operations-Manager---Evening-Shift_JR115492-1",
+        "india": false,
+        "locationSaysIndia": false,
+        "hasLocation": true,
+        "isEng": false,
+        "java": false,
+        "flutter": false,
+        "senior": true,
+        "exp": [],
+        "expFits2": false,
+        "score": -18
+      },
+      {
         "title": "Labor Relations Strategic Projects Manager",
         "location": "2 Locations",
         "url": "https://xcelenergy.wd1.myworkdayjobs.com/External/job/Minneapolis-MN-55401/Labor-Relations-Strategic-Projects-Manager_JR115461-1",
@@ -19724,84 +19235,9 @@
         "exp": [],
         "expFits2": false,
         "score": -18
-      },
-      {
-        "title": "Principal/Senior Capital Project Sourcing Specialist - EPC Contracting",
-        "location": "Amarillo, TX, 79101",
-        "url": "https://xcelenergy.wd1.myworkdayjobs.com/External/job/Amarillo-TX-79101/Principal-Capital-Project-Sourcing-Specialist---EPC-Contracting_JR113642-2",
-        "india": false,
-        "locationSaysIndia": false,
-        "hasLocation": true,
-        "isEng": false,
-        "java": false,
-        "flutter": false,
-        "senior": true,
-        "exp": [],
-        "expFits2": false,
-        "score": -18
-      },
-      {
-        "title": "Principal Financial Consultant, OpCo Finance",
-        "location": "Denver, CO, 80205",
-        "url": "https://xcelenergy.wd1.myworkdayjobs.com/External/job/Denver-CO-80205/Principal-Financial-Consultant--OpCo-Finance_JR114544-1",
-        "india": false,
-        "locationSaysIndia": false,
-        "hasLocation": true,
-        "isEng": false,
-        "java": false,
-        "flutter": false,
-        "senior": true,
-        "exp": [],
-        "expFits2": false,
-        "score": -18
-      },
-      {
-        "title": "Director, Regulatory Pricing and Analysis",
-        "location": "2 Locations",
-        "url": "https://xcelenergy.wd1.myworkdayjobs.com/External/job/Eau-Claire-WI-54702/Director--Regulatory-Pricing-and-Analysis_JR115591-1",
-        "india": false,
-        "locationSaysIndia": false,
-        "hasLocation": true,
-        "isEng": false,
-        "java": false,
-        "flutter": false,
-        "senior": true,
-        "exp": [],
-        "expFits2": false,
-        "score": -18
-      },
-      {
-        "title": "Distribution Design Manager - Metro",
-        "location": "Minneapolis, MN, 55403",
-        "url": "https://xcelenergy.wd1.myworkdayjobs.com/External/job/Minneapolis-MN-55403/Distribution-Design-Manager---Metro_JR115344-1",
-        "india": false,
-        "locationSaysIndia": false,
-        "hasLocation": true,
-        "isEng": false,
-        "java": false,
-        "flutter": false,
-        "senior": true,
-        "exp": [],
-        "expFits2": false,
-        "score": -18
-      },
-      {
-        "title": "Senior Technical Instructor - Lineman",
-        "location": "Henderson, CO, 80640",
-        "url": "https://xcelenergy.wd1.myworkdayjobs.com/External/job/Henderson-CO-80640/Senior-Technical-Instructor---Lineman_JR112382-1",
-        "india": false,
-        "locationSaysIndia": false,
-        "hasLocation": true,
-        "isEng": false,
-        "java": false,
-        "flutter": false,
-        "senior": true,
-        "exp": [],
-        "expFits2": false,
-        "score": -18
       }
     ],
-    "enriched": 8,
+    "enriched": 4,
     "matches": [],
     "nearMatches": [],
     "closest": {
@@ -19901,7 +19337,7 @@
         {
           "url": "https://jobs.xcelenergy.com/",
           "status": 200,
-          "bytes": 134517
+          "bytes": 132039
         },
         {
           "url": "https://careers.xcelenergy.com",
@@ -19912,7 +19348,7 @@
         {
           "url": "https://xcelenergy.com/careers",
           "status": 200,
-          "bytes": 134517
+          "bytes": 132039
         },
         {
           "url": "https://xcelenergy.com/career",
@@ -19957,7 +19393,7 @@
         {
           "url": "https://xcelenergy.com/",
           "status": 200,
-          "bytes": 364317
+          "bytes": 364517
         },
         {
           "url": "https://xcelenergy.wd1.myworkdayjobs.com/en-US/External/introduceYourself",
@@ -19987,7 +19423,7 @@
         "workday:xcelenergy -> 40 jobs"
       ]
     },
-    "ms": 20664
+    "ms": 20066
   },
   {
     "company": "Xencor",
@@ -20048,7 +19484,7 @@
         "workable:xencor -> no board"
       ]
     },
-    "ms": 20366
+    "ms": 19207
   },
   {
     "company": "Xenon Pharmaceuticals",
@@ -20152,7 +19588,7 @@
         "workable:xenonpharma -> no board"
       ]
     },
-    "ms": 12561
+    "ms": 16092
   },
   {
     "company": "Xeris Biopharma",
@@ -20828,7 +20264,7 @@
         "workday:xerispharma -> 40 jobs"
       ]
     },
-    "ms": 4504
+    "ms": 3857
   },
   {
     "company": "Xperi",
@@ -20889,7 +20325,7 @@
         "workable:xperi -> no board"
       ]
     },
-    "ms": 26042
+    "ms": 23648
   },
   {
     "company": "Xwing",
@@ -20909,7 +20345,7 @@
         {
           "url": "https://xwing.com/careers",
           "status": 200,
-          "bytes": 541071
+          "bytes": 542060
         },
         {
           "url": "https://careers.xwing.com",
@@ -20920,32 +20356,32 @@
         {
           "url": "https://xwing.com/career",
           "status": 404,
-          "bytes": 2205
+          "bytes": 2206
         },
         {
           "url": "https://xwing.com/jobs",
           "status": 404,
-          "bytes": 2205
+          "bytes": 2206
         },
         {
           "url": "https://xwing.com/join-us",
           "status": 404,
-          "bytes": 2205
+          "bytes": 2206
         },
         {
           "url": "https://xwing.com/join-our-team",
           "status": 404,
-          "bytes": 2205
+          "bytes": 2206
         },
         {
           "url": "https://xwing.com/careers.html",
           "status": 400,
-          "bytes": 2202
+          "bytes": 2203
         },
         {
           "url": "https://xwing.com/company/careers",
           "status": 404,
-          "bytes": 2205
+          "bytes": 2206
         },
         {
           "url": "https://xwing.com/about/careers",
@@ -20968,7 +20404,7 @@
         "workable:xwing -> no board"
       ]
     },
-    "ms": 22637
+    "ms": 21165
   },
   {
     "company": "Xealth",
@@ -20976,7 +20412,7 @@
     "careers": "https://www.xealth.com/careers",
     "source": "greenhouse:xealth",
     "error": null,
-    "totalJobs": 8,
+    "totalJobs": 7,
     "jobs": [
       {
         "title": "Software Engineer, Clinical Data",
@@ -21017,26 +20453,6 @@
         ],
         "expFits2": false,
         "score": 42
-      },
-      {
-        "title": "Executive & Office Administrator",
-        "location": "Seattle, WA",
-        "url": "https://job-boards.greenhouse.io/xealth/jobs/7780186003",
-        "india": false,
-        "locationSaysIndia": false,
-        "hasLocation": true,
-        "isEng": false,
-        "java": false,
-        "flutter": false,
-        "senior": false,
-        "exp": [
-          [
-            3,
-            7
-          ]
-        ],
-        "expFits2": false,
-        "score": 12
       },
       {
         "title": "Senior Systems Engineer",
@@ -21200,7 +20616,7 @@
         {
           "url": "https://www.xealth.com/careers",
           "status": 200,
-          "bytes": 111995
+          "bytes": 112003
         },
         {
           "url": "https://careers.xealth.com",
@@ -21211,62 +20627,66 @@
         {
           "url": "https://xealth.com/careers",
           "status": 200,
-          "bytes": 111995
+          "bytes": 112003
         },
         {
           "url": "https://xealth.com/career",
           "status": 404,
-          "bytes": 95076
+          "bytes": 95084
         },
         {
           "url": "https://xealth.com/jobs",
           "status": 404,
-          "bytes": 95076
+          "bytes": 95084
         },
         {
           "url": "https://xealth.com/join-us",
           "status": 404,
-          "bytes": 95076
+          "bytes": 95084
         },
         {
           "url": "https://xealth.com/join-our-team",
           "status": 404,
-          "bytes": 95076
+          "bytes": 95084
         },
         {
           "url": "https://xealth.com/careers.html",
           "status": 200,
-          "bytes": 111995
+          "bytes": 112003
         },
         {
           "url": "https://xealth.com/company/careers",
           "status": 200,
-          "bytes": 111995
+          "bytes": 112003
         },
         {
           "url": "https://xealth.com/about/careers",
           "status": 404,
-          "bytes": 95076
+          "bytes": 95084
         },
         {
           "url": "https://xealth.com/current-openings",
           "status": 404,
-          "bytes": 95076
+          "bytes": 95084
         },
         {
           "url": "https://xealth.com/",
           "status": 200,
-          "bytes": 154268
+          "bytes": 154276
         }
       ],
       "candidates": [
-        "greenhouse:xealth(seed)"
+        "greenhouse:xealth(html)",
+        "lever:xealth(guess)",
+        "ashby:xealth(guess)",
+        "recruitee:xealth(guess)",
+        "workable:xealth(guess)"
       ],
       "attempts": [
-        "greenhouse:xealth -> 8 jobs"
+        "greenhouse:xealth -> 7 jobs"
       ]
     },
-    "ms": 17433
+    "ms": 21307
   },
   {
     "company": "Xembly",
@@ -21360,7 +20780,7 @@
         "workable:xembly -> no board"
       ]
     },
-    "ms": 44909
+    "ms": 26076
   },
   {
     "company": "Xentral",
@@ -21483,7 +20903,7 @@
         "lever:xentral -> 3 jobs"
       ]
     },
-    "ms": 5693
+    "ms": 5731
   },
   {
     "company": "Xepelin",
@@ -21838,7 +21258,7 @@
         {
           "url": "https://xepelin.com/careers",
           "status": 404,
-          "bytes": 47645
+          "bytes": 47602
         },
         {
           "url": "https://careers.xepelin.com",
@@ -21854,7 +21274,17 @@
         {
           "url": "https://xepelin.com/jobs",
           "status": 404,
-          "bytes": 47553
+          "bytes": 47639
+        },
+        {
+          "url": "https://xepelin.com/join-us",
+          "status": 404,
+          "bytes": 47602
+        },
+        {
+          "url": "https://xepelin.com/join-our-team",
+          "status": 404,
+          "bytes": 47657
         }
       ],
       "candidates": [
@@ -21869,7 +21299,7 @@
         "lever:xepelin -> 20 jobs (guess, name-verified)"
       ]
     },
-    "ms": 9280
+    "ms": 9919
   },
   {
     "company": "Xignite",
@@ -22040,7 +21470,7 @@
         "workable:xignite -> no board"
       ]
     },
-    "ms": 11932
+    "ms": 9718
   },
   {
     "company": "Xpand IT",
@@ -22133,7 +21563,7 @@
         "workable:xpandit -> no board"
       ]
     },
-    "ms": 3903
+    "ms": 3266
   },
   {
     "company": "Xplore",
@@ -22164,37 +21594,37 @@
         {
           "url": "https://xplore.com/careers",
           "status": 404,
-          "bytes": 715
+          "bytes": 695
         },
         {
           "url": "https://xplore.com/career",
           "status": 404,
-          "bytes": 714
+          "bytes": 694
         },
         {
           "url": "https://xplore.com/jobs",
           "status": 404,
-          "bytes": 712
+          "bytes": 692
         },
         {
           "url": "https://xplore.com/join-us",
           "status": 404,
-          "bytes": 715
+          "bytes": 695
         },
         {
           "url": "https://xplore.com/join-our-team",
           "status": 404,
-          "bytes": 721
+          "bytes": 701
         },
         {
           "url": "https://xplore.com/careers.html",
           "status": 404,
-          "bytes": 720
+          "bytes": 700
         },
         {
           "url": "https://xplore.com/company/careers",
           "status": 404,
-          "bytes": 723
+          "bytes": 703
         }
       ],
       "candidates": [
@@ -22212,7 +21642,7 @@
         "workable:xplore -> no board"
       ]
     },
-    "ms": 11986
+    "ms": 14111
   },
   {
     "company": "Xtremepush",
@@ -22362,7 +21792,7 @@
         "workable:xtremepush -> no board"
       ]
     },
-    "ms": 7635
+    "ms": 7979
   },
   {
     "company": "Xurpas",
@@ -22431,7 +21861,7 @@
         "workable:xurpas -> no board"
       ]
     },
-    "ms": 44459
+    "ms": 53600
   },
   {
     "company": "Xceptor",
@@ -22745,7 +22175,7 @@
         {
           "url": "https://xceptor.com/",
           "status": 200,
-          "bytes": 147279
+          "bytes": 147362
         }
       ],
       "candidates": [
@@ -22759,7 +22189,7 @@
         "greenhouse:xceptor -> 10 jobs (guess, name-verified)"
       ]
     },
-    "ms": 15046
+    "ms": 9689
   },
   {
     "company": "Xledger",
@@ -22858,7 +22288,7 @@
         "workable:xledger -> no board"
       ]
     },
-    "ms": 21947
+    "ms": 22095
   },
   {
     "company": "Xtract One",
@@ -23050,7 +22480,7 @@
         "bamboohr:xtractone -> 3 jobs"
       ]
     },
-    "ms": 8820
+    "ms": 7188
   },
   {
     "company": "Xtremax",
@@ -23144,7 +22574,7 @@
         "workable:xtremax -> no board"
       ]
     },
-    "ms": 11111
+    "ms": 10500
   },
   {
     "company": "Xandr",
@@ -23237,101 +22667,7 @@
         "workable:xandr -> no board"
       ]
     },
-    "ms": 14575
-  },
-  {
-    "company": "Xcelient",
-    "country": "USA",
-    "careers": "https://xcelient.com/careers/",
-    "source": null,
-    "error": "careers-page-unreachable",
-    "totalJobs": 0,
-    "jobs": [],
-    "enriched": 0,
-    "matches": [],
-    "nearMatches": [],
-    "closest": null,
-    "closestEng": null,
-    "trace": {
-      "pages": [
-        {
-          "url": "https://xcelient.com/careers/",
-          "status": 200,
-          "bytes": 114
-        },
-        {
-          "url": "https://careers.xcelient.com",
-          "status": 0,
-          "bytes": 0,
-          "error": "fetch failed"
-        },
-        {
-          "url": "https://xcelient.com/careers",
-          "status": 200,
-          "bytes": 114
-        },
-        {
-          "url": "https://xcelient.com/career",
-          "status": 200,
-          "bytes": 114
-        },
-        {
-          "url": "https://xcelient.com/jobs",
-          "status": 200,
-          "bytes": 114
-        },
-        {
-          "url": "https://xcelient.com/join-us",
-          "status": 200,
-          "bytes": 114
-        },
-        {
-          "url": "https://xcelient.com/join-our-team",
-          "status": 200,
-          "bytes": 114
-        },
-        {
-          "url": "https://xcelient.com/careers.html",
-          "status": 200,
-          "bytes": 114
-        },
-        {
-          "url": "https://xcelient.com/company/careers",
-          "status": 200,
-          "bytes": 114
-        },
-        {
-          "url": "https://xcelient.com/about/careers",
-          "status": 200,
-          "bytes": 114
-        },
-        {
-          "url": "https://xcelient.com/current-openings",
-          "status": 200,
-          "bytes": 114
-        },
-        {
-          "url": "https://xcelient.com/",
-          "status": 200,
-          "bytes": 114
-        }
-      ],
-      "candidates": [
-        "greenhouse:xcelient(guess)",
-        "lever:xcelient(guess)",
-        "ashby:xcelient(guess)",
-        "recruitee:xcelient(guess)",
-        "workable:xcelient(guess)"
-      ],
-      "attempts": [
-        "greenhouse:xcelient -> no board",
-        "lever:xcelient -> no board",
-        "ashby:xcelient -> no board",
-        "recruitee:xcelient -> no board",
-        "workable:xcelient -> no board"
-      ]
-    },
-    "ms": 2322
+    "ms": 14610
   },
   {
     "company": "XTIVIA",
@@ -23580,7 +22916,7 @@
         "workable:xtivia -> no board"
       ]
     },
-    "ms": 23232
+    "ms": 20611
   },
   {
     "company": "Xactware",
@@ -23600,7 +22936,7 @@
         {
           "url": "https://www.verisk.com/company/careers/",
           "status": 200,
-          "bytes": 171088
+          "bytes": 171089
         },
         {
           "url": "https://careers.xactware.com",
@@ -23611,52 +22947,12 @@
         {
           "url": "https://xactware.com/careers",
           "status": 200,
-          "bytes": 171088
+          "bytes": 170955
         },
         {
           "url": "https://xactware.com/career",
           "status": 404,
-          "bytes": 146576
-        },
-        {
-          "url": "https://xactware.com/jobs",
-          "status": 200,
-          "bytes": 171088
-        },
-        {
-          "url": "https://xactware.com/join-us",
-          "status": 404,
-          "bytes": 146577
-        },
-        {
-          "url": "https://xactware.com/join-our-team",
-          "status": 404,
-          "bytes": 146577
-        },
-        {
-          "url": "https://xactware.com/careers.html",
-          "status": 404,
-          "bytes": 146575
-        },
-        {
-          "url": "https://xactware.com/company/careers",
-          "status": 200,
-          "bytes": 171089
-        },
-        {
-          "url": "https://xactware.com/about/careers",
-          "status": 404,
-          "bytes": 146577
-        },
-        {
-          "url": "https://xactware.com/current-openings",
-          "status": 404,
-          "bytes": 146577
-        },
-        {
-          "url": "https://xactware.com/",
-          "status": 200,
-          "bytes": 63468
+          "bytes": 146443
         }
       ],
       "candidates": [
@@ -23674,7 +22970,7 @@
         "workable:xactware -> no board"
       ]
     },
-    "ms": 60563
+    "ms": 34426
   },
   {
     "company": "Xogene Services",
@@ -23715,17 +23011,7 @@
         {
           "url": "https://xogene.com/jobs",
           "status": 404,
-          "bytes": 14563
-        },
-        {
-          "url": "https://xogene.com/join-us",
-          "status": 404,
-          "bytes": 14572
-        },
-        {
-          "url": "https://xogene.com/join-our-team",
-          "status": 404,
-          "bytes": 14590
+          "bytes": 14520
         }
       ],
       "candidates": [
@@ -23743,7 +23029,7 @@
         "workable:xogene -> no board"
       ]
     },
-    "ms": 13362
+    "ms": 13421
   },
   {
     "company": "XCalibyte",
@@ -23841,7 +23127,12 @@
         {
           "url": "https://xcalibyte.com/join-us",
           "status": 404,
-          "bytes": 83399
+          "bytes": 83397
+        },
+        {
+          "url": "https://xcalibyte.com/join-our-team",
+          "status": 404,
+          "bytes": 83409
         }
       ],
       "candidates": [
@@ -23859,7 +23150,7 @@
         "workable:xcalibyte -> no board"
       ]
     },
-    "ms": 9851
+    "ms": 8484
   },
   {
     "company": "xMatters",
@@ -23956,7 +23247,7 @@
         "workable:xmatters -> no board"
       ]
     },
-    "ms": 11280
+    "ms": 10225
   },
   {
     "company": "Xponential Fitness",
@@ -24055,7 +23346,7 @@
         "workable:xponentialfitness -> no board"
       ]
     },
-    "ms": 12233
+    "ms": 9448
   },
   {
     "company": "Xylo.ai",
@@ -24154,7 +23445,7 @@
         "workable:xylo -> no board"
       ]
     },
-    "ms": 4524
+    "ms": 5248
   },
   {
     "company": "Xapien",
@@ -24609,13 +23900,17 @@
         }
       ],
       "candidates": [
-        "ashby:xapien(seed)"
+        "ashby:xapien(html)",
+        "greenhouse:xapien(guess)",
+        "lever:xapien(guess)",
+        "recruitee:xapien(guess)",
+        "workable:xapien(guess)"
       ],
       "attempts": [
         "ashby:xapien -> 20 jobs"
       ]
     },
-    "ms": 4037
+    "ms": 4402
   },
   {
     "company": "Xensam",
@@ -24894,7 +24189,7 @@
         "workable:xensam -> no board"
       ]
     },
-    "ms": 10926
+    "ms": 9933
   },
   {
     "company": "XCALLY",
@@ -24963,7 +24258,7 @@
         "workable:xcally -> no board"
       ]
     },
-    "ms": 42749
+    "ms": 50471
   },
   {
     "company": "Xpertdoc",
@@ -25062,7 +24357,7 @@
         "workable:xpertdoc -> no board"
       ]
     },
-    "ms": 24970
+    "ms": 22772
   },
   {
     "company": "Xtend AI",
@@ -25082,7 +24377,7 @@
         {
           "url": "https://xtend.ai/careers",
           "status": 404,
-          "bytes": 90341
+          "bytes": 90342
         },
         {
           "url": "https://careers.xtend.ai",
@@ -25098,7 +24393,7 @@
         {
           "url": "https://xtend.ai/jobs",
           "status": 404,
-          "bytes": 90339
+          "bytes": 90338
         },
         {
           "url": "https://xtend.ai/join-us",
@@ -25113,7 +24408,7 @@
         {
           "url": "https://xtend.ai/careers.html",
           "status": 404,
-          "bytes": 90346
+          "bytes": 90347
         },
         {
           "url": "https://xtend.ai/company/careers",
@@ -25123,7 +24418,7 @@
         {
           "url": "https://xtend.ai/about/careers",
           "status": 404,
-          "bytes": 90346
+          "bytes": 90348
         },
         {
           "url": "https://xtend.ai/current-openings",
@@ -25133,7 +24428,7 @@
         {
           "url": "https://xtend.ai/",
           "status": 200,
-          "bytes": 141208
+          "bytes": 141207
         }
       ],
       "candidates": [
@@ -25161,7 +24456,7 @@
         "workable:xtend -> no board"
       ]
     },
-    "ms": 49828
+    "ms": 54910
   },
   {
     "company": "Xylexa",
@@ -25255,7 +24550,7 @@
         "workable:xylexa -> no board"
       ]
     },
-    "ms": 7494
+    "ms": 8472
   },
   {
     "company": "Xevo",
@@ -25344,7 +24639,7 @@
         "workable:xevo -> no board"
       ]
     },
-    "ms": 12691
+    "ms": 15084
   },
   {
     "company": "Xiaomi",
@@ -25492,7 +24787,7 @@
         "workable:xiaomi -> no board"
       ]
     },
-    "ms": 21354
+    "ms": 23704
   },
   {
     "company": "XPeng Motors",
@@ -26101,7 +25396,7 @@
         "greenhouse:xpengmotors -> 25 jobs"
       ]
     },
-    "ms": 6857
+    "ms": 7164
   },
   {
     "company": "XPEL",
@@ -26111,26 +25406,6 @@
     "error": null,
     "totalJobs": 40,
     "jobs": [
-      {
-        "title": "Manufacturing Process Quality Engineer",
-        "location": "Pune, MH",
-        "url": "https://xpel.wd5.myworkdayjobs.com/XPEL_Careers/job/Pune-MH/Quality-Assurance-Engineer_R-101207",
-        "india": true,
-        "locationSaysIndia": true,
-        "hasLocation": true,
-        "isEng": true,
-        "java": false,
-        "flutter": false,
-        "senior": false,
-        "exp": [
-          [
-            5,
-            9
-          ]
-        ],
-        "expFits2": false,
-        "score": 45
-      },
       {
         "title": "Inside Sales Representative - India",
         "location": "Pune, MH",
@@ -26190,6 +25465,21 @@
         "exp": [],
         "expFits2": false,
         "score": 19
+      },
+      {
+        "title": "Installer Trainee",
+        "location": "Columbia, SC",
+        "url": "https://xpel.wd5.myworkdayjobs.com/XPEL_Careers/job/Columbia-SC/Installer-Trainee_R-102132",
+        "india": false,
+        "locationSaysIndia": false,
+        "hasLocation": true,
+        "isEng": false,
+        "java": false,
+        "flutter": false,
+        "senior": false,
+        "exp": [],
+        "expFits2": false,
+        "score": 16
       },
       {
         "title": "Installer Trainee",
@@ -26317,6 +25607,21 @@
         "score": 8
       },
       {
+        "title": "Install Support Technician",
+        "location": "Saskatoon, SK",
+        "url": "https://xpel.wd5.myworkdayjobs.com/XPEL_Careers/job/Saskatoon-SK/Install-Support-Technician_R-102203",
+        "india": false,
+        "locationSaysIndia": false,
+        "hasLocation": true,
+        "isEng": false,
+        "java": false,
+        "flutter": false,
+        "senior": false,
+        "exp": [],
+        "expFits2": false,
+        "score": 4
+      },
+      {
         "title": "PPF Installer",
         "location": "Chicago, IL",
         "url": "https://xpel.wd5.myworkdayjobs.com/XPEL_Careers/job/Chicago-IL/PPF-Installer_R-102099",
@@ -26350,21 +25655,6 @@
         "title": "Produktionsassistent / Werkstatthelfer (m/w/d)",
         "location": "Vaihingen an der Enz, BW",
         "url": "https://xpel.wd5.myworkdayjobs.com/XPEL_Careers/job/Vaihingen-an-der-Enz-BW/Produktionsassistent---Werkstatthelfer--m-w-d-_R-102200",
-        "india": false,
-        "locationSaysIndia": false,
-        "hasLocation": true,
-        "isEng": false,
-        "java": false,
-        "flutter": false,
-        "senior": false,
-        "exp": [],
-        "expFits2": false,
-        "score": 4
-      },
-      {
-        "title": "Detailing Specialist",
-        "location": "Pittsburgh, PA",
-        "url": "https://xpel.wd5.myworkdayjobs.com/XPEL_Careers/job/Pittsburgh-PA/Detailing-Specialist_R-102112",
         "india": false,
         "locationSaysIndia": false,
         "hasLocation": true,
@@ -26722,57 +26012,51 @@
         "score": -18
       }
     ],
-    "enriched": 2,
+    "enriched": 1,
     "matches": [],
     "nearMatches": [],
     "closest": {
-      "title": "Manufacturing Process Quality Engineer",
+      "title": "Inside Sales Representative - India",
       "location": "Pune, MH",
-      "url": "https://xpel.wd5.myworkdayjobs.com/XPEL_Careers/job/Pune-MH/Quality-Assurance-Engineer_R-101207",
+      "url": "https://xpel.wd5.myworkdayjobs.com/XPEL_Careers/job/Pune-MH/Inside-Sales-Representative---India_R-102189",
       "team": "",
-      "text": "Job Summary: We are seeking a self-motivated Process / Quality Engineer to be located in Pune, India to support production operations, applying engineering techniques, assists in the improvement of manufacturing processes, assess product quality, and drive continuous improvement activities in XPEL’s manufacturing process. Core Duties Technical resource for on-going production activities: monitoring, establishing & improving production quality, general production support, documentation & analysis of production KPIs. Collaborate with Quality team to ensure quality metrics are achieved and develop cadence for communication to internal and external stakeholders. Developing site specific quality processes and collaborate with Quality team to establish training process. Responsible for reviewing safety standards to ensure the Internal and External stakeholders are properly meeting these guidelines. Leads site specific quality improvement, yield improvement & corrective action projects with internal and external stakeholders. Recommends manufacturing processes designed to be efficient, cost-effective, and to promote quality and reliability. Assesses current equipment and processes and makes recommendations for changes. Helps to troubleshoot and repair equipment. Shows results in reports. May train personnel in equipment usage and processes. Collaborate with research and development team as technologies transition to pilot & scale-up environments to ensure a successful commercialization. Basic Qualifications Bachelor’s degree in Mechanical, Chemical, Industrial or Materials Engineering preferred; in lieu of a degree, candidates with significant operational coatings or films experience are encouraged to apply. 5+ years of industry experience preferred. Ideal candidates will have polymer films or coatings experience with significant involvement in process engineering, production operations and/or quality control environments. Analytical skills for troubleshooting designs not working as planned, asking the right questions, and finding answers that work. Familiarity with statistics & hypothesis-driven problem-solving methodologies; for example: Six Sigma, DOE, 8D, DMAIC, Lean, etc. Interpersonal skills developing positive working relationships with other employees based on a cross functional team Desire to lead projects with cross-functional stakeholders. Process-orientation with an attention to detail. Ability to travel 50-75% XPEL is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees.",
-      "_detail": "https://xpel.wd5.myworkdayjobs.com/wday/cxs/xpel/XPEL_Careers/job/Pune-MH/Quality-Assurance-Engineer_R-101207",
+      "text": "Inside Sales Representative - India",
+      "_detail": "https://xpel.wd5.myworkdayjobs.com/wday/cxs/xpel/XPEL_Careers/job/Pune-MH/Inside-Sales-Representative---India_R-102189",
       "_detailKind": "workday",
-      "_enriched": true,
-      "score": 45,
+      "score": 19,
       "isMatch": false,
-      "isEng": true,
+      "isEng": false,
       "java": false,
       "flutter": false,
       "android": false,
       "india": true,
       "senior": false,
       "junior": false,
-      "exp": [
-        [
-          5,
-          9
-        ]
-      ],
+      "exp": [],
       "expFits2": false
     },
     "closestEng": {
-      "title": "Manufacturing Process Quality Engineer",
-      "location": "Pune, MH",
-      "url": "https://xpel.wd5.myworkdayjobs.com/XPEL_Careers/job/Pune-MH/Quality-Assurance-Engineer_R-101207",
+      "title": "Senior Analytical Engineer - Defect Analysis & Root Cause Investigation",
+      "location": "San Antonio, TX",
+      "url": "https://xpel.wd5.myworkdayjobs.com/XPEL_Careers/job/San-Antonio-TX/Senior-Analytical-Engineer---Defect-Analysis---Root-Cause-Investigation_R-102154",
       "team": "",
-      "text": "Job Summary: We are seeking a self-motivated Process / Quality Engineer to be located in Pune, India to support production operations, applying engineering techniques, assists in the improvement of manufacturing processes, assess product quality, and drive continuous improvement activities in XPEL’s manufacturing process. Core Duties Technical resource for on-going production activities: monitoring, establishing & improving production quality, general production support, documentation & analysis of production KPIs. Collaborate with Quality team to ensure quality metrics are achieved and develop cadence for communication to internal and external stakeholders. Developing site specific quality processes and collaborate with Quality team to establish training process. Responsible for reviewing safety standards to ensure the Internal and External stakeholders are properly meeting these guidelines. Leads site specific quality improvement, yield improvement & corrective action projects with internal and external stakeholders. Recommends manufacturing processes designed to be efficient, cost-effective, and to promote quality and reliability. Assesses current equipment and processes and makes recommendations for changes. Helps to troubleshoot and repair equipment. Shows results in reports. May train personnel in equipment usage and processes. Collaborate with research and development team as technologies transition to pilot & scale-up environments to ensure a successful commercialization. Basic Qualifications Bachelor’s degree in Mechanical, Chemical, Industrial or Materials Engineering preferred; in lieu of a degree, candidates with significant operational coatings or films experience are encouraged to apply. 5+ years of industry experience preferred. Ideal candidates will have polymer films or coatings experience with significant involvement in process engineering, production operations and/or quality control environments. Analytical skills for troubleshooting designs not working as planned, asking the right questions, and finding answers that work. Familiarity with statistics & hypothesis-driven problem-solving methodologies; for example: Six Sigma, DOE, 8D, DMAIC, Lean, etc. Interpersonal skills developing positive working relationships with other employees based on a cross functional team Desire to lead projects with cross-functional stakeholders. Process-orientation with an attention to detail. Ability to travel 50-75% XPEL is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees.",
-      "_detail": "https://xpel.wd5.myworkdayjobs.com/wday/cxs/xpel/XPEL_Careers/job/Pune-MH/Quality-Assurance-Engineer_R-101207",
+      "text": "Job Summary: This individual will be supporting XPEL’s R&D activities while also lending support to analytical laboratory quality/Manufacturing teams as required across all of XPEL’s product portfolio and help drive efficiency and expand on current capability as appropriate to XPEL’s business needs. You must be able to thrive and succeed in an entrepreneurial environment, and not be hindered by ambiguity or competing priorities. The ideal candidate for this position is a detail-oriented individual with strong analytical and problem-solving skills, capable of understanding our products and acknowledging with ease its strengths and limitations with the intent to steer the development and evolution of our solutions. The candidate also has very strong communication skills and manages to communicate with a variety of stakeholders within XPEL. The preferred location for this role will be at out of our office in San Antonio, TX. The Sr. R&D Engineer will report to the Director of Technology. Core Duties: Lead and oversee the development of XPEL’s core technologies. Serve as the lab’s primary investigator for PPF/WPF manufacturing and field-return defects across all process stages, from raw material/melt prep through TPU extrusion, surface treatment, PSA lamination, topcoat cure, embossment, and slitting/storage. Apply a structured RCA workflow: define the defect signature, preserve paired defect/control samples, separate optical/chemical/mechanical origin, localize to a layer or interface, confirm chemistry and process physics, validate cure/molecular state, reproduce on a controlled trial, and lock the fix into SPC. Distinguish defect families (contamination, adhesion/interface, cure/crosslink, optical haze, thickness, migration/bloom, surface texture, thermal degradation, weathering, volatiles/moisture, mechanical, web handling) and select the right analytical pathway for each. Lead all surface analysis and imaging work for the team, owning method selection and technical sign-off across stereo, optical cross-section, and polarized light microscopy, SEM/SEM-EDS, AFM, 3D optical profilometry/confocal microscopy, white-light interferometry, XPS, and ToF-SIMS. Run thermal/molecular characterization (DSC, DMA, TGA, GPC/SEC, Karl Fischer), chromatography/mass spec (GC-MS, Py-GC/MS, LC-MS, ICP-OES/MS), mechanical/interfacial testing, and accelerated weathering to confirm chemistry and aging mechanisms. Work with Quality/manufacturing, and supply chain to identify and secure key strategic materials for existing and new PPF, coatings, and related technologies Provide robust technical solutions to new product development initiatives and lend support to sales and product management teams Bridge the gap from bench scale testing to industrial manufacturing processes Knowledge build and assess risk & factor all relevant industrial process & material validation on product performance through its life cycle Develop plans and procedures for specifications & fabrication of components, integration of technologies, balancing cost & manufacturability Serve as technical interface to vendors and manufacturers Maintain meticulous documentation of work performed Provide leadership to the junior technical team Other duties as required. Job Requirements: Strong technical background in polymer/material science, coatings, and associated technologies In-depth knowledge of coatings and/or adhesive chemistry, UV curing, photopolymerization applicable to industrial scale operations Demonstrated experience leading root cause investigations in a polymer film, coatings, or adhesives manufacturing environment, ideally roll-to-roll/continuous web processing, with proven depth leading surface analysis and imaging work for a team. Expert, hands-on command of surface analysis and imaging — SEM/SEM-EDS, AFM, 3D optical profilometry/confocal microscopy, white-light interferometry, XPS, and/or ToF-SIMS — sufficient to direct method selection and review others’ work. A background in thermal, mechanical, and optical properties for polymer multilayer films using advanced analytical tools like DMA/DHR, DSC, FTIR, TGA, profilometer, optical microscopy, etc. Knowledge in polymer film processing, roll to roll, sheet extrusion and related technologies Strong understanding of design of experiments and corresponding data analysis Experience working with domestic and international vendors Minimum of Bachelor’s degree in Chemistry, Materials Science, Polymer Science, Chemical Engineering, or related STEM field, with 5-10 years of relevant analytical/materials lab experience. Advanced degree (MS/PhD) preferred. Experience working with interdisciplinary teams to drive programs from concept to production/commercialization XPEL is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees.",
+      "_detail": "https://xpel.wd5.myworkdayjobs.com/wday/cxs/xpel/XPEL_Careers/job/San-Antonio-TX/Senior-Analytical-Engineer---Defect-Analysis---Root-Cause-Investigation_R-102154",
       "_detailKind": "workday",
       "_enriched": true,
-      "score": 45,
+      "score": 8,
       "isMatch": false,
       "isEng": true,
       "java": false,
       "flutter": false,
       "android": false,
-      "india": true,
-      "senior": false,
+      "india": false,
+      "senior": true,
       "junior": false,
       "exp": [
         [
           5,
-          9
+          10
         ]
       ],
       "expFits2": false
@@ -26838,7 +26122,7 @@
         "workday:xpel -> 40 jobs"
       ]
     },
-    "ms": 28770
+    "ms": 30633
   },
   {
     "company": "Xeneta",
@@ -26962,7 +26246,7 @@
         "pinpoint:xeneta -> 1 jobs"
       ]
     },
-    "ms": 26256
+    "ms": 7582
   },
   {
     "company": "XREX",
@@ -27195,7 +26479,7 @@
         "breezy:xrex -> 6 jobs"
       ]
     },
-    "ms": 10422
+    "ms": 10282
   },
   {
     "company": "Xsight Labs",
@@ -27215,7 +26499,7 @@
         {
           "url": "https://xsightlabs.com/careers/",
           "status": 429,
-          "bytes": 31037
+          "bytes": 31031
         },
         {
           "url": "https://careers.xsightlabs.com",
@@ -27226,7 +26510,7 @@
         {
           "url": "https://xsightlabs.com/careers",
           "status": 429,
-          "bytes": 31037
+          "bytes": 31031
         },
         {
           "url": "https://xsightlabs.com/career",
@@ -27236,7 +26520,7 @@
         {
           "url": "https://xsightlabs.com/jobs",
           "status": 429,
-          "bytes": 31037
+          "bytes": 31031
         },
         {
           "url": "https://xsightlabs.com/join-us",
@@ -27246,7 +26530,7 @@
         {
           "url": "https://xsightlabs.com/join-our-team",
           "status": 429,
-          "bytes": 31037
+          "bytes": 31031
         },
         {
           "url": "https://xsightlabs.com/careers.html",
@@ -27256,7 +26540,7 @@
         {
           "url": "https://xsightlabs.com/company/careers",
           "status": 429,
-          "bytes": 31037
+          "bytes": 31031
         },
         {
           "url": "https://xsightlabs.com/about/careers",
@@ -27266,7 +26550,7 @@
         {
           "url": "https://xsightlabs.com/current-openings",
           "status": 429,
-          "bytes": 31037
+          "bytes": 31031
         },
         {
           "url": "https://xsightlabs.com/",
@@ -27299,7 +26583,7 @@
         "workable:xsightlabs -> no board"
       ]
     },
-    "ms": 4888
+    "ms": 8402
   },
   {
     "company": "XTEND",
@@ -27393,7 +26677,7 @@
         "workable:xtend -> no board"
       ]
     },
-    "ms": 17180
+    "ms": 13212
   },
   {
     "company": "XJet",
@@ -27559,7 +26843,7 @@
         "workable:xjet3d -> no board"
       ]
     },
-    "ms": 19328
+    "ms": 23071
   },
   {
     "company": "Xpressdocs",
@@ -27599,8 +26883,19 @@
         },
         {
           "url": "https://xpressdocs.com/jobs",
-          "status": 200,
-          "bytes": 66936
+          "status": 0,
+          "bytes": 0,
+          "error": "fetch failed"
+        },
+        {
+          "url": "https://xpressdocs.com/join-us",
+          "status": 500,
+          "bytes": 53475
+        },
+        {
+          "url": "https://xpressdocs.com/join-our-team",
+          "status": 500,
+          "bytes": 53530
         }
       ],
       "candidates": [
@@ -27618,7 +26913,7 @@
         "workable:xpressdocs -> no board"
       ]
     },
-    "ms": 52722
+    "ms": 58747
   },
   {
     "company": "Xurrent",
@@ -27809,20 +27104,24 @@
         }
       ],
       "candidates": [
-        "greenhouse:xurrent(seed)"
+        "greenhouse:xurrent(html)",
+        "lever:xurrent(guess)",
+        "ashby:xurrent(guess)",
+        "recruitee:xurrent(guess)",
+        "workable:xurrent(guess)"
       ],
       "attempts": [
         "greenhouse:xurrent -> 5 jobs"
       ]
     },
-    "ms": 3422
+    "ms": 1968
   },
   {
     "company": "XiFin",
     "country": "USA",
     "careers": "https://www.xifin.com/careers",
     "source": null,
-    "error": "timed-out",
+    "error": "careers-page-read-but-lists-no-openings",
     "totalJobs": 0,
     "jobs": [],
     "enriched": 0,
@@ -27831,10 +27130,49 @@
     "closest": null,
     "closestEng": null,
     "trace": {
-      "pages": [],
-      "attempts": []
+      "pages": [
+        {
+          "url": "https://www.xifin.com/careers",
+          "status": 200,
+          "bytes": 337630
+        },
+        {
+          "url": "https://careers.xifin.com",
+          "status": 200,
+          "bytes": 291477
+        },
+        {
+          "url": "https://xifin.com/careers",
+          "status": 200,
+          "bytes": 337630
+        },
+        {
+          "url": "https://xifin.com/career",
+          "status": 200,
+          "bytes": 337630
+        },
+        {
+          "url": "https://xifin.com/jobs",
+          "status": 404,
+          "bytes": 208765
+        }
+      ],
+      "candidates": [
+        "greenhouse:xifin(guess)",
+        "lever:xifin(guess)",
+        "ashby:xifin(guess)",
+        "recruitee:xifin(guess)",
+        "workable:xifin(guess)"
+      ],
+      "attempts": [
+        "greenhouse:xifin -> no board",
+        "lever:xifin -> no board",
+        "ashby:xifin -> no board",
+        "recruitee:xifin -> no board",
+        "workable:xifin -> no board"
+      ]
     },
-    "ms": 90005
+    "ms": 65302
   },
   {
     "company": "XSOLIS",
@@ -27910,7 +27248,7 @@
         {
           "url": "https://xsolis.com/",
           "status": 200,
-          "bytes": 184547
+          "bytes": 184590
         }
       ],
       "candidates": [
@@ -27928,7 +27266,7 @@
         "workable:xsolis -> no board"
       ]
     },
-    "ms": 25084
+    "ms": 27676
   },
   {
     "company": "Xaira Therapeutics",
@@ -27936,7 +27274,7 @@
     "careers": "https://xairatx.com/careers/",
     "source": "greenhouse:xairatherapeutics",
     "error": null,
-    "totalJobs": 21,
+    "totalJobs": 22,
     "jobs": [
       {
         "title": "Lab Automation Engineer (Contractor)",
@@ -28305,6 +27643,26 @@
         "score": -22
       },
       {
+        "title": "Payroll Manager",
+        "location": "South San Francisco, California, United States",
+        "url": "https://job-boards.greenhouse.io/xairatherapeutics/jobs/5207121007",
+        "india": false,
+        "locationSaysIndia": false,
+        "hasLocation": true,
+        "isEng": false,
+        "java": false,
+        "flutter": false,
+        "senior": true,
+        "exp": [
+          [
+            5,
+            9
+          ]
+        ],
+        "expFits2": false,
+        "score": -22
+      },
+      {
         "title": "Senior Manager, Projects and Programs - Research",
         "location": "South San Francisco, California, United States",
         "url": "https://job-boards.greenhouse.io/xairatherapeutics/jobs/5205076007",
@@ -28479,10 +27837,10 @@
         "workable:xairatx(guess)"
       ],
       "attempts": [
-        "greenhouse:xairatherapeutics -> 21 jobs (guess, name-verified)"
+        "greenhouse:xairatherapeutics -> 22 jobs (guess, name-verified)"
       ]
     },
-    "ms": 2297
+    "ms": 952
   },
   {
     "company": "Xaar",
@@ -28678,7 +28036,7 @@
         "workable:xaar -> no board"
       ]
     },
-    "ms": 7770
+    "ms": 9597
   },
   {
     "company": "Xenex Disinfection",
@@ -28698,7 +28056,7 @@
         {
           "url": "https://xenex.com/careers/",
           "status": 200,
-          "bytes": 250362
+          "bytes": 250449
         },
         {
           "url": "https://careers.xenex.com",
@@ -28709,17 +28067,17 @@
         {
           "url": "https://xenex.com/careers",
           "status": 200,
-          "bytes": 250362
+          "bytes": 250449
         },
         {
           "url": "https://xenex.com/career",
           "status": 404,
-          "bytes": 231191
+          "bytes": 231275
         },
         {
           "url": "https://xenex.com/jobs",
           "status": 404,
-          "bytes": 231164
+          "bytes": 231254
         }
       ],
       "candidates": [
@@ -28747,7 +28105,7 @@
         "workable:xenex -> no board"
       ]
     },
-    "ms": 42376
+    "ms": 41809
   },
   {
     "company": "XtalPi",
@@ -28974,7 +28332,7 @@
         "workable:xtalpi -> no board"
       ]
     },
-    "ms": 35068
+    "ms": 33859
   },
   {
     "company": "XM",
@@ -29057,101 +28415,7 @@
       "candidates": [],
       "attempts": []
     },
-    "ms": 4045
-  },
-  {
-    "company": "Xcellink",
-    "country": "Singapore",
-    "careers": "https://www.xcellink.com/careers/",
-    "source": null,
-    "error": "careers-page-unreachable",
-    "totalJobs": 0,
-    "jobs": [],
-    "enriched": 0,
-    "matches": [],
-    "nearMatches": [],
-    "closest": null,
-    "closestEng": null,
-    "trace": {
-      "pages": [
-        {
-          "url": "https://www.xcellink.com/careers/",
-          "status": 200,
-          "bytes": 114
-        },
-        {
-          "url": "https://careers.xcellink.com",
-          "status": 0,
-          "bytes": 0,
-          "error": "fetch failed"
-        },
-        {
-          "url": "https://xcellink.com/careers",
-          "status": 200,
-          "bytes": 114
-        },
-        {
-          "url": "https://xcellink.com/career",
-          "status": 200,
-          "bytes": 114
-        },
-        {
-          "url": "https://xcellink.com/jobs",
-          "status": 200,
-          "bytes": 114
-        },
-        {
-          "url": "https://xcellink.com/join-us",
-          "status": 200,
-          "bytes": 114
-        },
-        {
-          "url": "https://xcellink.com/join-our-team",
-          "status": 200,
-          "bytes": 114
-        },
-        {
-          "url": "https://xcellink.com/careers.html",
-          "status": 200,
-          "bytes": 114
-        },
-        {
-          "url": "https://xcellink.com/company/careers",
-          "status": 200,
-          "bytes": 114
-        },
-        {
-          "url": "https://xcellink.com/about/careers",
-          "status": 200,
-          "bytes": 114
-        },
-        {
-          "url": "https://xcellink.com/current-openings",
-          "status": 200,
-          "bytes": 114
-        },
-        {
-          "url": "https://xcellink.com/",
-          "status": 200,
-          "bytes": 114
-        }
-      ],
-      "candidates": [
-        "greenhouse:xcellink(guess)",
-        "lever:xcellink(guess)",
-        "ashby:xcellink(guess)",
-        "recruitee:xcellink(guess)",
-        "workable:xcellink(guess)"
-      ],
-      "attempts": [
-        "greenhouse:xcellink -> no board",
-        "lever:xcellink -> no board",
-        "ashby:xcellink -> no board",
-        "recruitee:xcellink -> no board",
-        "workable:xcellink -> no board"
-      ]
-    },
-    "ms": 2455
+    "ms": 7355
   },
   {
     "company": "Xolvis",
@@ -29245,6 +28509,6 @@
         "workable:xolvis -> no board"
       ]
     },
-    "ms": 18588
+    "ms": 17891
   }
 ]

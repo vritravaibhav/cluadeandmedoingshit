@@ -1,52 +1,121 @@
-Checking 43 companies (concurrency 8)
+Checking 112 companies (concurrency 8)
 
-[  1/43] Olam India                     3 jobs  via successfactors:careers.olamgroup.com
-[  2/43] Observe.AI                    20 jobs  via greenhouse:observeai   ** 1 MATCH **
-[  3/43] Omnipresent                  !! careers-page-unreachable
-[  4/43] Ola Electric                 !! careers-page-read-but-lists-no-openings
-[  5/43] OneCard                      !! careers-page-read-but-lists-no-openings
-[  6/43] Onsurity                     !! blocked-or-error-response
-[  7/43] Oxyzo                        !! careers-page-read-but-lists-no-openings
-[  8/43] OYO                          !! no-job-data-found
-[  9/43] Optiver India                 12 jobs  via html:https://www.optiver.com/join-us/jobs/
-[ 10/43] Orion Innovation              83 jobs  via greenhouse:orioninnovation   ** 2 MATCH **
-[ 11/43] Otis India                    40 jobs  via workday:otis
-[ 12/43] Orange Business India          2 jobs  via headings:https://www.orange-business.com/en/corporate/careers
-[ 13/43] Oracle India                 !! careers-page-read-but-lists-no-openings
-[ 14/43] Ozonetel                       9 jobs  via feed:https://ozonetel.com   ** 1 MATCH **
-[ 15/43] Olyv                          34 jobs  via keka:smartcoin   ** 1 MATCH **
-[ 16/43] Optum India                  !! careers-page-read-but-lists-no-openings
-[ 17/43] Open Financial                 1 jobs  via keka:openfinancial
-[ 18/43] OneAssist                    !! careers-page-read-but-lists-no-openings
-[ 19/43] Ola                          !! careers-page-read-but-lists-no-openings
-[ 20/43] OpenText India               164 jobs  via phenom:_self
-[ 21/43] OfBusiness                    19 jobs  via sitemap:https://www.ofbcareers.com
-[ 22/43] Opcito Technologies            5 jobs  via headings:https://www.opcito.com/jobs
-[ 23/43] Objectways                    13 jobs  via wordpress:https://objectways.com
-[ 24/43] Odoo India                     2 jobs  via headings:https://www.odoo.com/careers
-[ 25/43] Odessa India                  10 jobs  via feed:https://www.odessainc.com
-[ 26/43] Octro                        !! careers-page-read-but-lists-no-openings
-[ 27/43] Olive Crypto                 !! no-job-data-found
-[ 28/43] Omniful                        4 jobs  via next-data:https://www.omniful.ai/careers
-[ 29/43] Oizom                        !! careers-page-read-but-lists-no-openings
-[ 30/43] Okta India                     4 jobs  via headings:https://www.okta.com/company/careers/
-[ 31/43] Orbis Financial              !! careers-page-unreachable
-[ 32/43] Origa Leasing                !! careers-page-read-but-lists-no-openings
-[ 33/43] Orkes India                   20 jobs  via greenhouse:orkes
-[ 34/43] Ontic India                   11 jobs  via ashby:Ontic   ** 1 MATCH **
-[ 35/43] Onlinesales.ai                 0 jobs  via zohorecruit:osmos (0 open)
-[ 36/43] Onclusive India              !! careers-page-read-but-lists-no-openings
-[ 37/43] Overlay Analytics            !! careers-page-unreachable
-[ 38/43] Osmos                        !! blocked-or-error-response
-[ 39/43] Oracle Cerner India          !! careers-page-read-but-lists-no-openings
-[ 40/43] Ocrolus India                !! careers-page-read-but-lists-no-openings
-[ 41/43] Ottonomy                      10 jobs  via feed:https://ottonomy.io
-[ 42/43] Outplay                        7 jobs  via headings:https://outplay.ai/careers
-[ 43/43] Orient Technologies          !! timed-out
+[  1/112] Observe.AI                    20 jobs  via greenhouse:observeai   ** 1 MATCH **
+[  2/112] Olam India                     3 jobs  via successfactors:careers.olamgroup.com
+[  3/112] Ola Electric                 !! careers-page-read-but-lists-no-openings
+[  4/112] Onsurity                     !! blocked-or-error-response
+[  5/112] OneCard                      !! careers-page-read-but-lists-no-openings
+[  6/112] Oxyzo                        !! careers-page-read-but-lists-no-openings
+[  7/112] Optiver India                 12 jobs  via html:https://www.optiver.com/join-us/jobs/
+[  8/112] Orion Innovation              83 jobs  via greenhouse:orioninnovation   ** 2 MATCH **
+[  9/112] Otis India                    40 jobs  via workday:otis
+[ 10/112] Oracle India                 !! careers-page-read-but-lists-no-openings
+[ 11/112] OYO                          !! no-job-data-found
+[ 12/112] Optum India                  !! careers-page-read-but-lists-no-openings
+[ 13/112] Orange Business India          2 jobs  via headings:https://www.orange-business.com/en/corporate/careers
+[ 14/112] OpenText India               156 jobs  via phenom:_self
+[ 15/112] Olyv                          34 jobs  via keka:smartcoin   ** 1 MATCH **
+[ 16/112] Ola                          !! careers-page-read-but-lists-no-openings
+[ 17/112] Ozonetel                       9 jobs  via feed:https://ozonetel.com   ** 1 MATCH **
+[ 18/112] OneAssist                    !! careers-page-read-but-lists-no-openings
+[ 19/112] Open Financial                 1 jobs  via keka:openfinancial
+[ 20/112] OfBusiness                    19 jobs  via sitemap:https://www.ofbcareers.com
+[ 21/112] Oizom                        !! careers-page-read-but-lists-no-openings
+[ 22/112] Odoo India                     2 jobs  via headings:https://www.odoo.com/careers
+[ 23/112] Octro                        !! careers-page-read-but-lists-no-openings
+[ 24/112] Okta India                     4 jobs  via headings:https://www.okta.com/company/careers/
+[ 25/112] Objectways                    13 jobs  via wordpress:https://objectways.com
+[ 26/112] Olive Crypto                 !! no-job-data-found
+[ 27/112] Omniful                        4 jobs  via next-data:https://www.omniful.ai/careers
+[ 28/112] Opcito Technologies            5 jobs  via headings:https://www.opcito.com/jobs
+[ 29/112] Odessa India                  10 jobs  via feed:https://www.odessainc.com
+[ 30/112] Origa Leasing                !! careers-page-read-but-lists-no-openings
+[ 31/112] Orkes India                   20 jobs  via greenhouse:orkes
+[ 32/112] Orient Technologies            3 jobs  via headings:https://orientindia.in/careers
+[ 33/112] Ontic India                   11 jobs  via ashby:Ontic   ** 1 MATCH **
+[ 34/112] Onlinesales.ai                 0 jobs  via zohorecruit:osmos (0 open)
+[ 35/112] Orbis Financial              !! careers-page-read-but-lists-no-openings
+[ 36/112] Onclusive India              !! careers-page-read-but-lists-no-openings
+[ 37/112] Osmos                        !! blocked-or-error-response
+[ 38/112] Oracle Cerner India          !! careers-page-read-but-lists-no-openings
+[ 39/112] Ocrolus India                !! careers-page-read-but-lists-no-openings
+[ 40/112] Ottonomy                      10 jobs  via feed:https://ottonomy.io
+[ 41/112] Optym India                    0 jobs  via bamboohr:optym (0 open)
+[ 42/112] Outplay                        7 jobs  via headings:https://outplay.ai/careers
+[ 43/112] o9 Solutions India           !! careers-page-read-but-lists-no-openings
+[ 44/112] Outreach India                33 jobs  via lever:outreach
+[ 45/112] OneTrust India                 8 jobs  via headings:https://www.onetrust.com/careers/
+[ 46/112] Onit India                     7 jobs  via lever:onit
+[ 47/112] OneAdvanced India             32 jobs  via icims:oneadvanced
+[ 48/112] Oceaneering India             10 jobs  via feed:https://www.oceaneering.com
+[ 49/112] onsemi India                 !! careers-page-read-but-lists-no-openings
+[ 50/112] OpenGov India                 40 jobs  via ashby:opengov   ** 2 MATCH **
+[ 51/112] Oracle NetSuite India          2 jobs  via headings:https://www.netsuite.com/portal/company/career.shtml
+[ 52/112] OpenXcell                      2 jobs  via headings:https://www.openxcell.com/company/careers
+[ 53/112] Optiv India                   40 jobs  via workday:optiv
+[ 54/112] Omnicell India               !! careers-page-read-but-lists-no-openings
+[ 55/112] OrangeMantra                  16 jobs  via headings:https://www.orangemantra.com/career/
+[ 56/112] Onward Technologies          !! careers-page-read-but-lists-no-openings
+[ 57/112] OpenSense Labs                 4 jobs  via headings:https://opensenselabs.com/career
+[ 58/112] Oodles Technologies            5 jobs  via headings:https://oodles.com/careers
+[ 59/112] OPPO India                   !! careers-page-read-but-lists-no-openings
+[ 60/112] OptiSol Business Solutions     0 jobs  via zohorecruit:optisolbusiness (0 open)
+[ 61/112] Onity Group India            !! no-job-data-found
+[ 62/112] Openwave Computing           !! careers-page-read-but-lists-no-openings
+[ 63/112] Owebest Technologies           6 jobs  via headings:https://www.owebest.com/career
+[ 64/112] Orion eSolutions              10 jobs  via feed:https://orionesolutions.com
+[ 65/112] Oneture Technologies           9 jobs  via keka:oneture
+[ 66/112] OneClick IT Consultancy      !! careers-page-read-but-lists-no-openings
+[ 67/112] Octal IT Solution             10 jobs  via feed:https://octalsoftware.com
+[ 68/112] Ozvid Technologies            15 jobs  via headings:https://ozvid.com/careers
+[ 69/112] Octaware Technologies        !! no-job-data-found
+[ 70/112] Optimus Information          !! careers-page-read-but-lists-no-openings
+[ 71/112] OnGraph Technologies          10 jobs  via feed:https://www.ongraph.com
+[ 72/112] Ospyn Technologies           !! careers-page-read-but-lists-no-openings
+[ 73/112] Openweb Solutions              0 jobs  via zohorecruit:pitangent (0 open)
+[ 74/112] Odyssey Technologies         !! no-job-data-found
+[ 75/112] Oyelabs                        2 jobs  via headings:https://oyelabs.com/careerbuilder-clone/
+[ 76/112] OmniMD                        10 jobs  via feed:https://omnimd.com
+[ 77/112] Osmosys Software Solutions   !! blocked-or-error-response
+[ 78/112] Osource Global                10 jobs  via feed:https://osourceglobal.com
+[ 79/112] Oorwin                        10 jobs  via feed:https://oorwin.com
+[ 80/112] OnMobile Global              !! careers-page-read-but-lists-no-openings
+[ 81/112] Omega Healthcare Management   10 jobs  via feed:https://www.omegahealthcare.com
+[ 82/112] OSI Digital                   10 jobs  via feed:https://osidigital.com
+[ 83/112] Optimizory                     4 jobs  via headings:https://optimizory.com/careers
+[ 84/112] Omnify                         3 jobs  via headings:https://www.getomnify.com/careers
+[ 85/112] Omnex India                  !! careers-page-read-but-lists-no-openings
+[ 86/112] Orbo.ai                      !! no-job-data-found
+[ 87/112] Opus Consulting Solutions    !! careers-page-read-but-lists-no-openings
+[ 88/112] Orangewood Labs              !! careers-page-read-but-lists-no-openings
+[ 89/112] Ola Krutrim                  !! no-job-data-found
+[ 90/112] ORI (ORIserve)               !! careers-page-read-but-lists-no-openings
+[ 91/112] OpsVeda                        5 jobs  via headings:https://opsveda.com/careers/
+[ 92/112] Omninos Solutions            !! careers-page-read-but-lists-no-openings
+[ 93/112] OkCredit                     !! no-job-data-found
+[ 94/112] OneBanc                       11 jobs  via headings:https://onebanc.ai/careers
+[ 95/112] Oben Electric                  0 jobs  via zohorecruit:obenelectric (0 open)
+[ 96/112] OTO Capital                  !! no-job-data-found
+[ 97/112] OnGrid                       !! no-job-data-found
+[ 98/112] Oliveboard                    58 jobs  via headings:https://www.oliveboard.in/careers/
+[ 99/112] Orange Health Labs           !! careers-page-read-but-lists-no-openings
+[100/112] Onsitego                      17 jobs  via keka:onsitego
+[101/112] OnFinance AI                 !! no-job-data-found
+[102/112] ONDC                         !! careers-page-read-but-lists-no-openings
+[103/112] Onco.com                     !! careers-page-read-but-lists-no-openings
+[104/112] OneMoney                     !! careers-page-read-but-lists-no-openings
+[105/112] OLX India                      8 jobs  via headings:https://www.olx.in/jobs_c4
+[106/112] OnePlay                      !! no-job-data-found
+[107/112] Oye Rickshaw                 !! blocked-or-error-response
+[108/112] OpenTurf Technologies         10 jobs  via feed:https://www.openturf.in
+[109/112] Omnitech InfoSolutions       !! blocked-or-error-response
+[110/112] Ohmium                        13 jobs  via workday:ohmium
+[111/112] Obopay India                 !! careers-page-read-but-lists-no-openings
+[112/112] Oxane Partners               !! careers-page-read-but-lists-no-openings
 
-  boards read with jobs : 21
-  boards read, 0 open   : 1
-  could not read        : 21
-  companies w/ matches  : 5
+  boards read with jobs : 55
+  boards read, 0 open   : 5
+  could not read        : 52
+  companies w/ matches  : 6
 
 Wrote careers.txt + results.json

@@ -1,109 +1,102 @@
-Checking 100 companies (concurrency 8)
+Checking 93 companies (concurrency 8)
 
-[  1/100] Xoxoday (Giift)              !! blocked-or-error-response
-[  2/100] XpressBees                   !! careers-page-read-but-lists-no-openings
-[  3/100] Xelpmoc Design & Tech          4 jobs  via headings:https://www.xelpmoc.in/careers
-[  4/100] Xencia Technology            !! careers-page-read-but-lists-no-openings
-[  5/100] Xebia India                    4 jobs  via greenhouse:xebiaapac
-[  6/100] Xtranet Technologies         !! careers-page-unreachable
-[  7/100] XenonStack                   !! careers-page-read-but-lists-no-openings
-[  8/100] Xceedance                     30 jobs  via wordpress:https://www.xceedance.com
-[  9/100] [x]cube LABS                   2 jobs  via headings:https://careers.xcubelabs.com/
-[ 10/100] Xylem India                  !! careers-page-unreachable
-[ 11/100] Xiarch Solutions             !! careers-page-read-but-lists-no-openings
-[ 12/100] Xanadu Realty                !! careers-page-unreachable
-[ 13/100] XAmplify                     !! no-job-data-found
-[ 14/100] Xane AI                      !! blocked-or-error-response
-[ 15/100] Xploree                      !! no-job-data-found
-[ 16/100] Xicom Technologies             6 jobs  via html:https://www.xicom.biz/careers/
-[ 17/100] Xsys Digital                 !! no-job-data-found
-[ 18/100] Xoriant                      !! careers-page-read-but-lists-no-openings
-[ 19/100] Xcelvations                  !! blocked-or-error-response
-[ 20/100] Xebia Academy                !! careers-page-unreachable
-[ 21/100] Xtreme Media                 !! no-job-data-found
-[ 22/100] Xceltrait                    !! careers-page-read-but-lists-no-openings
-[ 23/100] XcelPros                      10 jobs  via feed:https://xcelpros.com
-[ 24/100] XinFin / XDC Network         !! no-job-data-found
-[ 25/100] Xtramile Solutions           !! careers-page-unreachable
-[ 26/100] Xavor Corporation             10 jobs  via feed:https://www.xavor.com
-[ 27/100] xAI                          !! blocked-or-error-response
-[ 28/100] XS Studios                   !! no-job-data-found
-[ 29/100] Xelerate                     !! careers-page-unreachable
-[ 30/100] Xero                         104 jobs  via ashby:xero
-[ 31/100] Xurmo Technologies           !! careers-page-read-but-lists-no-openings
-[ 32/100] X (formerly Twitter)         !! careers-page-read-but-lists-no-openings
-[ 33/100] Xerox                          6 jobs  via feed:https://xerox.avature.net
-[ 34/100] Xtract.io                    !! no-job-data-found
-[ 35/100] Xylem                         40 jobs  via workday:xylem
-[ 36/100] XPO                           58 jobs  via successfactors:jobs.xpo.com
-[ 37/100] Xplor Technologies            54 jobs  via smartrecruiters:Xplor
-[ 38/100] Xsolla                       181 jobs  via lever:xsolla
-[ 39/100] Xage Security                 10 jobs  via lever:xage-security   ** 1 MATCH **
-[ 40/100] XLPAT Labs                   !! timed-out
-[ 41/100] Xometry                      211 jobs  via greenhouse:xometry
-[ 42/100] Xactly                        20 jobs  via sitemap:https://careers.xactlycorp.com
-[ 43/100] Xactus                       !! no-job-data-found
-[ 44/100] Xeris Biopharma               40 jobs  via workday:xerispharma
-[ 45/100] Xanadu Quantum               !! careers-page-read-but-lists-no-openings
-[ 46/100] Xcel Energy                   40 jobs  via workday:xcelenergy
-[ 47/100] Xenon Pharmaceuticals        !! careers-page-read-but-lists-no-openings
-[ 48/100] Xentral                        3 jobs  via lever:xentral
-[ 49/100] Xencor                       !! careers-page-read-but-lists-no-openings
-[ 50/100] Xepelin                       20 jobs  via lever:xepelin
-[ 51/100] XPay.Life                    !! timed-out
-[ 52/100] Xealth                         8 jobs  via greenhouse:xealth
-[ 53/100] Xwing                        !! careers-page-read-but-lists-no-openings
-[ 54/100] Xpand IT                     !! blocked-or-error-response
-[ 55/100] Xignite                        2 jobs  via headings:https://www.quodd.com/careers
-[ 56/100] Xperi                        !! careers-page-read-but-lists-no-openings
-[ 57/100] Xtremepush                     5 jobs  via headings:https://xtremepush.jobs.personio.com/
-[ 58/100] Xplore                       !! careers-page-read-but-lists-no-openings
-[ 59/100] Xtract One                     3 jobs  via bamboohr:xtractone
-[ 60/100] Xcelient                     !! careers-page-unreachable
-[ 61/100] Xceptor                       10 jobs  via greenhouse:xceptor
-[ 62/100] Xtremax                      !! careers-page-read-but-lists-no-openings
-[ 63/100] Xledger                      !! careers-page-read-but-lists-no-openings
-[ 64/100] Xandr                        !! no-job-data-found
-[ 65/100] Xembly                       !! no-job-data-found
-[ 66/100] Xogene Services              !! careers-page-read-but-lists-no-openings
-[ 67/100] XCalibyte                      1 jobs  via feed:https://xcalibyte.com
-[ 68/100] Xylo.ai                      !! no-job-data-found
-[ 69/100] xMatters                       2 jobs  via headings:https://www.xmatters.com/company/careers
-[ 70/100] Xapien                        20 jobs  via ashby:xapien
-[ 71/100] XTIVIA                         9 jobs  via feed:https://www.xtivia.com
-[ 72/100] Xponential Fitness           !! careers-page-read-but-lists-no-openings
-[ 73/100] XM Cyber                     !! timed-out
-[ 74/100] Xurpas                       !! blocked-or-error-response
-[ 75/100] Xylexa                       !! no-job-data-found
-[ 76/100] Xensam                         9 jobs  via feed:https://careers.xensam.com
-[ 77/100] Xevo                         !! careers-page-read-but-lists-no-openings
-[ 78/100] XPeng Motors                  25 jobs  via greenhouse:xpengmotors
-[ 79/100] Xpertdoc                     !! careers-page-read-but-lists-no-openings
-[ 80/100] XREX                           6 jobs  via breezy:xrex
-[ 81/100] Xiaomi                         3 jobs  via headings:https://www.mi.com/in/careers/
-[ 82/100] Xsight Labs                  !! blocked-or-error-response
-[ 83/100] XPEL                          40 jobs  via workday:xpel
-[ 84/100] Xactware                     !! careers-page-read-but-lists-no-openings
-[ 85/100] XCALLY                       !! careers-page-read-but-lists-no-openings
-[ 86/100] Xurrent                        5 jobs  via greenhouse:xurrent
-[ 87/100] Xeneta                         1 jobs  via pinpoint:xeneta
-[ 88/100] XTEND                        !! no-job-data-found
-[ 89/100] Xaira Therapeutics            21 jobs  via greenhouse:xairatherapeutics
-[ 90/100] XJet                           2 jobs  via headings:https://xjet3d.com/join-our-team/
-[ 91/100] Xaar                           7 jobs  via headings:https://www.xaar.com/careers/current-opportunities/
-[ 92/100] Xtend AI                     !! no-job-data-found
-[ 93/100] Xcellink                     !! careers-page-unreachable
-[ 94/100] XM                           !! careers-page-read-but-lists-no-openings
-[ 95/100] XSOLIS                       !! careers-page-read-but-lists-no-openings
-[ 96/100] Xolvis                       !! careers-page-read-but-lists-no-openings
-[ 97/100] XtalPi                        10 jobs  via feed:https://en.xtalpi.com
-[ 98/100] Xpressdocs                   !! careers-page-read-but-lists-no-openings
-[ 99/100] Xenex Disinfection           !! careers-page-read-but-lists-no-openings
-[100/100] XiFin                        !! timed-out
+[  1/93] Xencia Technology            !! careers-page-read-but-lists-no-openings
+[  2/93] Xoxoday (Giift)              !! blocked-or-error-response
+[  3/93] XpressBees                   !! careers-page-read-but-lists-no-openings
+[  4/93] Xelpmoc Design & Tech          4 jobs  via headings:https://www.xelpmoc.in/careers
+[  5/93] Xtranet Technologies         !! careers-page-unreachable
+[  6/93] Xebia India                    4 jobs  via greenhouse:xebiaapac
+[  7/93] XenonStack                   !! careers-page-read-but-lists-no-openings
+[  8/93] [x]cube LABS                   2 jobs  via headings:https://careers.xcubelabs.com/
+[  9/93] Xceedance                     30 jobs  via wordpress:https://www.xceedance.com
+[ 10/93] Xiarch Solutions             !! careers-page-read-but-lists-no-openings
+[ 11/93] Xicom Technologies             6 jobs  via html:https://www.xicom.biz/careers/
+[ 12/93] Xtreme Media                 !! no-job-data-found
+[ 13/93] Xane AI                      !! blocked-or-error-response
+[ 14/93] Xploree                      !! no-job-data-found
+[ 15/93] Xcelvations                  !! blocked-or-error-response
+[ 16/93] XAmplify                     !! no-job-data-found
+[ 17/93] Xsys Digital                 !! no-job-data-found
+[ 18/93] Xoriant                      !! careers-page-read-but-lists-no-openings
+[ 19/93] Xceltrait                    !! careers-page-read-but-lists-no-openings
+[ 20/93] XcelPros                      10 jobs  via feed:https://xcelpros.com
+[ 21/93] XinFin / XDC Network         !! no-job-data-found
+[ 22/93] xAI                          !! blocked-or-error-response
+[ 23/93] Xero                         104 jobs  via ashby:xero
+[ 24/93] Xavor Corporation             10 jobs  via feed:https://www.xavor.com
+[ 25/93] XS Studios                   !! no-job-data-found
+[ 26/93] X (formerly Twitter)         !! careers-page-read-but-lists-no-openings
+[ 27/93] Xurmo Technologies           !! careers-page-read-but-lists-no-openings
+[ 28/93] Xylem                         40 jobs  via workday:xylem
+[ 29/93] Xerox                          6 jobs  via feed:https://xerox.avature.net
+[ 30/93] Xtract.io                    !! no-job-data-found
+[ 31/93] XPO                           59 jobs  via successfactors:jobs.xpo.com
+[ 32/93] Xplor Technologies            54 jobs  via smartrecruiters:Xplor
+[ 33/93] Xsolla                       180 jobs  via lever:xsolla
+[ 34/93] Xage Security                 10 jobs  via lever:xage-security   ** 1 MATCH **
+[ 35/93] Xometry                      211 jobs  via greenhouse:xometry
+[ 36/93] XLPAT Labs                   !! timed-out
+[ 37/93] Xactly                        20 jobs  via sitemap:https://careers.xactlycorp.com
+[ 38/93] Xactus                       !! no-job-data-found
+[ 39/93] Xanadu Quantum               !! careers-page-read-but-lists-no-openings
+[ 40/93] Xcel Energy                   40 jobs  via workday:xcelenergy
+[ 41/93] Xeris Biopharma               40 jobs  via workday:xerispharma
+[ 42/93] Xencor                       !! careers-page-read-but-lists-no-openings
+[ 43/93] Xentral                        3 jobs  via lever:xentral
+[ 44/93] Xenon Pharmaceuticals        !! careers-page-read-but-lists-no-openings
+[ 45/93] XPay.Life                    !! timed-out
+[ 46/93] Xpand IT                     !! blocked-or-error-response
+[ 47/93] Xwing                        !! careers-page-read-but-lists-no-openings
+[ 48/93] Xepelin                       20 jobs  via lever:xepelin
+[ 49/93] Xealth                         7 jobs  via greenhouse:xealth
+[ 50/93] Xperi                        !! careers-page-read-but-lists-no-openings
+[ 51/93] Xignite                        2 jobs  via headings:https://www.quodd.com/careers
+[ 52/93] Xembly                       !! no-job-data-found
+[ 53/93] Xtremepush                     5 jobs  via headings:https://xtremepush.jobs.personio.com/
+[ 54/93] Xtract One                     3 jobs  via bamboohr:xtractone
+[ 55/93] Xceptor                       10 jobs  via greenhouse:xceptor
+[ 56/93] Xplore                       !! careers-page-read-but-lists-no-openings
+[ 57/93] Xtremax                      !! careers-page-read-but-lists-no-openings
+[ 58/93] Xandr                        !! no-job-data-found
+[ 59/93] Xledger                      !! careers-page-read-but-lists-no-openings
+[ 60/93] Xogene Services              !! careers-page-read-but-lists-no-openings
+[ 61/93] XCalibyte                      1 jobs  via feed:https://xcalibyte.com
+[ 62/93] XTIVIA                         9 jobs  via feed:https://www.xtivia.com
+[ 63/93] Xapien                        20 jobs  via ashby:xapien
+[ 64/93] Xylo.ai                      !! no-job-data-found
+[ 65/93] Xponential Fitness           !! careers-page-read-but-lists-no-openings
+[ 66/93] xMatters                       2 jobs  via headings:https://www.xmatters.com/company/careers
+[ 67/93] Xensam                         9 jobs  via feed:https://careers.xensam.com
+[ 68/93] XM Cyber                     !! timed-out
+[ 69/93] Xylexa                       !! no-job-data-found
+[ 70/93] Xactware                     !! careers-page-read-but-lists-no-openings
+[ 71/93] XPeng Motors                  25 jobs  via greenhouse:xpengmotors
+[ 72/93] Xpertdoc                     !! careers-page-read-but-lists-no-openings
+[ 73/93] Xevo                         !! careers-page-read-but-lists-no-openings
+[ 74/93] Xurpas                       !! blocked-or-error-response
+[ 75/93] Xeneta                         1 jobs  via pinpoint:xeneta
+[ 76/93] Xsight Labs                  !! blocked-or-error-response
+[ 77/93] Xiaomi                         3 jobs  via headings:https://www.mi.com/in/careers/
+[ 78/93] XREX                           6 jobs  via breezy:xrex
+[ 79/93] Xurrent                        5 jobs  via greenhouse:xurrent
+[ 80/93] XTEND                        !! no-job-data-found
+[ 81/93] Xaira Therapeutics            22 jobs  via greenhouse:xairatherapeutics
+[ 82/93] XPEL                          40 jobs  via workday:xpel
+[ 83/93] Xaar                           7 jobs  via headings:https://www.xaar.com/careers/current-opportunities/
+[ 84/93] XJet                           2 jobs  via headings:https://xjet3d.com/join-our-team/
+[ 85/93] XCALLY                       !! careers-page-read-but-lists-no-openings
+[ 86/93] XM                           !! careers-page-read-but-lists-no-openings
+[ 87/93] Xtend AI                     !! no-job-data-found
+[ 88/93] XSOLIS                       !! careers-page-read-but-lists-no-openings
+[ 89/93] Xolvis                       !! careers-page-read-but-lists-no-openings
+[ 90/93] XtalPi                        10 jobs  via feed:https://en.xtalpi.com
+[ 91/93] Xenex Disinfection           !! careers-page-read-but-lists-no-openings
+[ 92/93] Xpressdocs                   !! careers-page-read-but-lists-no-openings
+[ 93/93] XiFin                        !! careers-page-read-but-lists-no-openings
 
   boards read with jobs : 40
   boards read, 0 open   : 0
-  could not read        : 60
+  could not read        : 53
   companies w/ matches  : 1
 
 Wrote careers.txt + results.json

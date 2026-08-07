@@ -1,141 +1,139 @@
-Checking 132 companies (concurrency 8)
+Checking 130 companies (concurrency 8)
 
-[  1/132] GoKwik                        17 jobs  via keka:gokwik
-[  2/132] Groww                          8 jobs  via greenhouse:groww
-[  3/132] Gameskraft                   !! careers-page-unreachable
-[  4/132] Go Digit General Insurance   !! careers-page-read-but-lists-no-openings
-[  5/132] GirnarSoft                    10 jobs  via headings:https://www.girnarsoft.com/careers
-[  6/132] GUVI                         !! careers-page-read-but-lists-no-openings
-[  7/132] Great Learning                26 jobs  via headings:https://www.mygreatlearning.com/careers
-[  8/132] GreedyGame                   !! careers-page-read-but-lists-no-openings
-[  9/132] Glance                        44 jobs  via greenhouse:glance
-[ 10/132] GeeksforGeeks                  0 jobs  via zohorecruit:geeksforgeeks (0 open)
-[ 11/132] Games24x7                    !! no-job-data-found
-[ 12/132] Gupshup                      !! careers-page-read-but-lists-no-openings
-[ 13/132] Ginesys                        2 jobs  via headings:https://www.ginesys.in/careers
-[ 14/132] Gnani.ai                     !! careers-page-read-but-lists-no-openings
-[ 15/132] GlobalEdge Software          !! careers-page-unreachable
-[ 16/132] Genisys Group                !! blocked-or-error-response
-[ 17/132] Geojit Financial Services    !! careers-page-read-but-lists-no-openings
-[ 18/132] Growfin                      !! careers-page-read-but-lists-no-openings
-[ 19/132] Gramener                      35 jobs  via headings:https://gramener.com/careers/
-[ 20/132] Genzeon                        0 jobs  via zohorecruit:genzeon (0 open)
-[ 21/132] Groovy Web                    10 jobs  via headings:https://www.groovyweb.co/career
-[ 22/132] GreyB                          5 jobs  via keka:greyb
-[ 23/132] Gemini Solutions               7 jobs  via headings:https://www.geminisolutions.com/careers
-[ 24/132] Gemini Consulting & Services !! careers-page-read-but-lists-no-openings
-[ 25/132] Gaian Solutions              !! careers-page-read-but-lists-no-openings
-[ 26/132] GrowExx                       21 jobs  via wordpress:https://www.growexx.com
-[ 27/132] Grazitti Interactive          27 jobs  via wordpress:https://www.grazitti.com
-[ 28/132] GSS Infotech                 !! careers-page-unreachable
-[ 29/132] Gapblue Software Labs        !! careers-page-read-but-lists-no-openings
-[ 30/132] Galaxy Weblinks                7 jobs  via headings:https://www.galaxyweblinks.com/careers
-[ 31/132] Grepix Infotech                3 jobs  via headings:https://www.grepixit.com/careers.html   ** 1 MATCH **
-[ 32/132] Globals                        0 jobs  via zohorecruit:globals (0 open)
-[ 33/132] Girmiti Software               8 jobs  via headings:https://www.girmiti.com/careers.html
-[ 34/132] GrowthJockey                   9 jobs  via headings:https://www.growthjockey.com/careers
-[ 35/132] Godrej Infotech              !! careers-page-read-but-lists-no-openings
-[ 36/132] Growisto                       0 jobs  via zohorecruit:growisto (0 open)
-[ 37/132] G-Cube Solutions              10 jobs  via feed:https://www.gc-solutions.net
-[ 38/132] Godrej Capital               !! careers-page-read-but-lists-no-openings
-[ 39/132] Ganit                        !! careers-page-read-but-lists-no-openings
-[ 40/132] Godrej Enterprises Group       8 jobs  via headings:https://www.godrejenterprises.com/about-us/careers/openings
-[ 41/132] Genesys International        !! blocked-or-error-response
-[ 42/132] Genrobotics                  !! careers-page-read-but-lists-no-openings
-[ 43/132] GenWorks Health              !! careers-page-read-but-lists-no-openings
-[ 44/132] Godrej Consumer Products     255 jobs  via next-data:https://www.godrejcp.com/careers   ** 1 MATCH **
-[ 45/132] GOQii                        !! careers-page-read-but-lists-no-openings
-[ 46/132] Geniemode                    !! careers-page-read-but-lists-no-openings
-[ 47/132] GoFrugal Technologies        !! no-job-data-found
-[ 48/132] GetVantage                   !! careers-page-read-but-lists-no-openings
-[ 49/132] Gullak                       !! careers-page-read-but-lists-no-openings
-[ 50/132] GeBBS Healthcare Solutions    14 jobs  via wordpress:https://gebbs.com
-[ 51/132] GoldenPi                      10 jobs  via headings:https://goldenpi.com/careers
-[ 52/132] GrayQuest                    !! careers-page-read-but-lists-no-openings
-[ 53/132] GyanDhan                     !! no-job-data-found
-[ 54/132] greytHR                      !! timed-out
-[ 55/132] Goodera                       23 jobs  via headings:https://careers.kula.ai/goodera
-[ 56/132] GlobalBees                   !! careers-page-read-but-lists-no-openings
-[ 57/132] GroMo                          0 jobs  via zohorecruit:gromo (0 open)
-[ 58/132] Gushwork                      12 jobs  via lever:gushwork
-[ 59/132] GIVA                         !! careers-page-read-but-lists-no-openings
-[ 60/132] GeekyAnts                    !! timed-out
-[ 61/132] Greenko Group                !! careers-page-read-but-lists-no-openings
-[ 62/132] Grant Thornton Bharat        !! careers-page-read-but-lists-no-openings
-[ 63/132] GeakMinds                      7 jobs  via feed:https://geakminds.com
-[ 64/132] Greaves Cotton                10 jobs  via feed:https://greavescotton.com
-[ 65/132] GoComet                      !! careers-page-read-but-lists-no-openings
-[ 66/132] Granules India               !! careers-page-read-but-lists-no-openings
-[ 67/132] GrabOn                       !! careers-page-read-but-lists-no-openings
-[ 68/132] Glenmark Pharmaceuticals     !! careers-page-read-but-lists-no-openings
-[ 69/132] GoodScore                    !! careers-page-unreachable
-[ 70/132] GMM Pfaudler                 !! careers-page-read-but-lists-no-openings
-[ 71/132] Genus Power Infrastructures  !! careers-page-read-but-lists-no-openings
-[ 72/132] Gozo Cabs                    !! careers-page-read-but-lists-no-openings
-[ 73/132] GyanMatrix                     1 jobs  via json-ld:https://www.gyanmatrix.com/careers
-[ 74/132] Gozoop                       !! careers-page-read-but-lists-no-openings
-[ 75/132] Glib.ai                        5 jobs  via html:https://glib.ai/careers/
-[ 76/132] Google                       !! careers-page-read-but-lists-no-openings
-[ 77/132] Green Apex                   !! careers-page-read-but-lists-no-openings
-[ 78/132] Gleecus TechLabs             !! careers-page-read-but-lists-no-openings
-[ 79/132] General Motors               !! blocked-or-error-response
-[ 80/132] General Mills                 40 jobs  via workday:genmills
-[ 81/132] GoBOLT                       !! timed-out
-[ 82/132] GE Aerospace                 !! careers-page-read-but-lists-no-openings
-[ 83/132] Growth Natives               !! careers-page-read-but-lists-no-openings
-[ 84/132] Genesys                       40 jobs  via workday:genesys
-[ 85/132] Gartner                      !! blocked-or-error-response
-[ 86/132] Goldman Sachs                !! careers-page-read-but-lists-no-openings
-[ 87/132] Genpact                       40 jobs  via workday:genpact
-[ 88/132] GE Vernova                   400 jobs  via workday:gevernova
-[ 89/132] Globant                      !! blocked-or-error-response
-[ 90/132] Gainsight                     16 jobs  via ashby:gainsight
-[ 91/132] GoDaddy                       21 jobs  via greenhouse:godaddy
-[ 92/132] Grid Dynamics                 13 jobs  via headings:https://www.griddynamics.com/careers
-[ 93/132] GE HealthCare                !! careers-page-read-but-lists-no-openings
-[ 94/132] GyanSys                      !! careers-page-read-but-lists-no-openings
-[ 95/132] GSPANN Technologies          !! careers-page-read-but-lists-no-openings
-[ 96/132] GoTo                          17 jobs  via workday:goto
-[ 97/132] Global Payments               40 jobs  via workday:worldpay
-[ 98/132] GlobalLogic                  !! blocked-or-error-response
-[ 99/132] Guidehouse                    40 jobs  via workday:guidehouse
-[100/132] Guardian Life                 40 jobs  via workday:guardianlife
-[101/132] GitLab                       191 jobs  via greenhouse:gitlab
-[102/132] GSK                            4 jobs  via headings:https://www.gsk.com/en-gb/careers/
-[103/132] Grafana Labs                 155 jobs  via greenhouse:grafanalabs
-[104/132] GEP Worldwide                !! careers-page-read-but-lists-no-openings
-[105/132] Garrett Motion                10 jobs  via feed:https://www.garrettmotion.com
-[106/132] Glean                        !! careers-page-read-but-lists-no-openings
-[107/132] GitHub                         2 jobs  via headings:https://www.github.careers/careers-home
-[108/132] Gallagher                    !! careers-page-read-but-lists-no-openings
-[109/132] Guidewire Software           !! careers-page-read-but-lists-no-openings
-[110/132] Genesis Global                 4 jobs  via lever:genesis
-[111/132] GoldenSource                   9 jobs  via feed:https://www.thegoldensource.com
-[112/132] Gen Digital                  112 jobs  via ashby:gen-digital   ** 3 MATCH **
-[113/132] Gigamon                       20 jobs  via jobvite:gigamon
-[114/132] GreyOrange                    10 jobs  via feed:https://www.greyorange.com
-[115/132] GlobalFoundries              !! careers-page-read-but-lists-no-openings
-[116/132] Gurucul                      !! careers-page-read-but-lists-no-openings
-[117/132] Greenway Health              !! careers-page-read-but-lists-no-openings
-[118/132] GE India                     !! careers-page-unreachable
-[119/132] Granicus                      53 jobs  via icims:granicus
-[120/132] G-P (Globalization Partners)  31 jobs  via greenhouse:globalizationpartners
-[121/132] Gates Industrial              32 jobs  via successfactors:careers.gates.com
-[122/132] GlowTouch Technologies         7 jobs  via headings:https://www.glowtouch.com/careers/
-[123/132] Gray Matrix                  !! careers-page-read-but-lists-no-openings
-[124/132] Gridlines                    !! no-job-data-found
-[125/132] Grofers                      !! blocked-or-error-response
-[126/132] GoodRx India                  15 jobs  via workday:goodrx
-[127/132] Gupshup                      !! careers-page-read-but-lists-no-openings
-[128/132] Gigforce                       2 jobs  via headings:https://gigforce.in/careers/
-[129/132] GlobalStep                    10 jobs  via feed:https://globalstep.com
-[130/132] Gainwell Technologies        !! careers-page-read-but-lists-no-openings
-[131/132] Grab India                   !! careers-page-read-but-lists-no-openings
-[132/132] GAVS Technologies              9 jobs  via headings:https://www.neurealm.com/about-us/openings/
+[  1/130] Groww                          8 jobs  via greenhouse:groww
+[  2/130] GoKwik                        17 jobs  via keka:gokwik
+[  3/130] GirnarSoft                    10 jobs  via headings:https://www.girnarsoft.com/careers
+[  4/130] GeeksforGeeks                  0 jobs  via zohorecruit:geeksforgeeks (0 open)
+[  5/130] GUVI                         !! careers-page-read-but-lists-no-openings
+[  6/130] Go Digit General Insurance   !! careers-page-read-but-lists-no-openings
+[  7/130] Glance                        44 jobs  via greenhouse:glance
+[  8/130] Great Learning                26 jobs  via headings:https://www.mygreatlearning.com/careers
+[  9/130] GreedyGame                   !! careers-page-read-but-lists-no-openings
+[ 10/130] Ginesys                        2 jobs  via headings:https://www.ginesys.in/careers
+[ 11/130] Games24x7                    !! no-job-data-found
+[ 12/130] Gnani.ai                     !! careers-page-read-but-lists-no-openings
+[ 13/130] Genisys Group                !! blocked-or-error-response
+[ 14/130] Gupshup                      !! careers-page-read-but-lists-no-openings
+[ 15/130] Gramener                      35 jobs  via headings:https://gramener.com/careers/
+[ 16/130] Growfin                      !! careers-page-read-but-lists-no-openings
+[ 17/130] GlobalEdge Software           10 jobs  via feed:https://www.globaledge-software.com
+[ 18/130] Geojit Financial Services    !! careers-page-read-but-lists-no-openings
+[ 19/130] Genzeon                        0 jobs  via zohorecruit:genzeon (0 open)
+[ 20/130] Groovy Web                    10 jobs  via headings:https://www.groovyweb.co/career
+[ 21/130] Gemini Solutions               7 jobs  via headings:https://www.geminisolutions.com/careers
+[ 22/130] Gemini Consulting & Services !! careers-page-read-but-lists-no-openings
+[ 23/130] GreyB                          5 jobs  via keka:greyb
+[ 24/130] Grepix Infotech                3 jobs  via headings:https://www.grepixit.com/careers.html   ** 1 MATCH **
+[ 25/130] GrowExx                       21 jobs  via wordpress:https://www.growexx.com
+[ 26/130] Gaian Solutions              !! careers-page-read-but-lists-no-openings
+[ 27/130] Grazitti Interactive          27 jobs  via wordpress:https://www.grazitti.com
+[ 28/130] Gapblue Software Labs        !! careers-page-read-but-lists-no-openings
+[ 29/130] Girmiti Software               8 jobs  via headings:https://www.girmiti.com/careers.html
+[ 30/130] Globals                        0 jobs  via zohorecruit:globals (0 open)
+[ 31/130] GSS Infotech                   2 jobs  via headings:https://gssinfotech.com/career-current-opportunities/
+[ 32/130] GrowthJockey                   9 jobs  via headings:https://www.growthjockey.com/careers
+[ 33/130] G-Cube Solutions              10 jobs  via feed:https://www.gc-solutions.net
+[ 34/130] Growisto                       0 jobs  via zohorecruit:growisto (0 open)
+[ 35/130] Galaxy Weblinks                7 jobs  via headings:https://www.galaxyweblinks.com/careers
+[ 36/130] Godrej Infotech              !! careers-page-read-but-lists-no-openings
+[ 37/130] Godrej Capital               !! careers-page-read-but-lists-no-openings
+[ 38/130] Godrej Enterprises Group       8 jobs  via headings:https://www.godrejenterprises.com/about-us/careers/openings
+[ 39/130] Ganit                        !! careers-page-read-but-lists-no-openings
+[ 40/130] Genesys International        !! blocked-or-error-response
+[ 41/130] Genrobotics                  !! careers-page-read-but-lists-no-openings
+[ 42/130] Godrej Consumer Products     256 jobs  via next-data:https://www.godrejcp.com/careers   ** 1 MATCH **
+[ 43/130] GeakMinds                      7 jobs  via feed:https://geakminds.com
+[ 44/130] GenWorks Health              !! careers-page-read-but-lists-no-openings
+[ 45/130] GOQii                        !! careers-page-read-but-lists-no-openings
+[ 46/130] Geniemode                    !! careers-page-read-but-lists-no-openings
+[ 47/130] GetVantage                   !! careers-page-read-but-lists-no-openings
+[ 48/130] Gullak                       !! careers-page-read-but-lists-no-openings
+[ 49/130] GoldenPi                      10 jobs  via headings:https://goldenpi.com/careers
+[ 50/130] GrayQuest                    !! careers-page-read-but-lists-no-openings
+[ 51/130] GyanDhan                     !! no-job-data-found
+[ 52/130] greytHR                      !! timed-out
+[ 53/130] GoFrugal Technologies        !! no-job-data-found
+[ 54/130] Goodera                       23 jobs  via headings:https://careers.kula.ai/goodera
+[ 55/130] GeBBS Healthcare Solutions    14 jobs  via wordpress:https://gebbs.com
+[ 56/130] GlobalBees                   !! careers-page-read-but-lists-no-openings
+[ 57/130] GroMo                          0 jobs  via zohorecruit:gromo (0 open)
+[ 58/130] Gushwork                      12 jobs  via lever:gushwork
+[ 59/130] GIVA                         !! careers-page-read-but-lists-no-openings
+[ 60/130] GeekyAnts                    !! timed-out
+[ 61/130] Greenko Group                !! careers-page-read-but-lists-no-openings
+[ 62/130] Granules India               !! careers-page-read-but-lists-no-openings
+[ 63/130] Greaves Cotton                10 jobs  via feed:https://greavescotton.com
+[ 64/130] GoComet                      !! careers-page-read-but-lists-no-openings
+[ 65/130] GoodScore                    !! no-job-data-found
+[ 66/130] Grant Thornton Bharat        !! careers-page-read-but-lists-no-openings
+[ 67/130] Genus Power Infrastructures  !! careers-page-read-but-lists-no-openings
+[ 68/130] Gozo Cabs                    !! careers-page-unreachable
+[ 69/130] GrabOn                       !! careers-page-read-but-lists-no-openings
+[ 70/130] GyanMatrix                     1 jobs  via json-ld:https://www.gyanmatrix.com/careers
+[ 71/130] GMM Pfaudler                 !! careers-page-read-but-lists-no-openings
+[ 72/130] Glib.ai                        5 jobs  via html:https://glib.ai/careers/
+[ 73/130] Gozoop                       !! careers-page-read-but-lists-no-openings
+[ 74/130] Glenmark Pharmaceuticals     !! careers-page-read-but-lists-no-openings
+[ 75/130] Google                       !! careers-page-read-but-lists-no-openings
+[ 76/130] Green Apex                   !! careers-page-read-but-lists-no-openings
+[ 77/130] Gleecus TechLabs             !! careers-page-read-but-lists-no-openings
+[ 78/130] General Motors               !! blocked-or-error-response
+[ 79/130] GE Aerospace                 !! careers-page-read-but-lists-no-openings
+[ 80/130] GoBOLT                       !! timed-out
+[ 81/130] Growth Natives               !! careers-page-read-but-lists-no-openings
+[ 82/130] Gartner                      !! blocked-or-error-response
+[ 83/130] Genesys                       40 jobs  via workday:genesys
+[ 84/130] Goldman Sachs                !! careers-page-read-but-lists-no-openings
+[ 85/130] General Mills                 40 jobs  via workday:genmills
+[ 86/130] Genpact                       40 jobs  via workday:genpact
+[ 87/130] GE Vernova                   400 jobs  via workday:gevernova
+[ 88/130] GE HealthCare                !! careers-page-read-but-lists-no-openings
+[ 89/130] Gainsight                     16 jobs  via ashby:gainsight
+[ 90/130] Globant                      !! blocked-or-error-response
+[ 91/130] GoDaddy                       21 jobs  via greenhouse:godaddy
+[ 92/130] Grid Dynamics                 13 jobs  via headings:https://www.griddynamics.com/careers
+[ 93/130] GSPANN Technologies          !! careers-page-read-but-lists-no-openings
+[ 94/130] Global Payments               40 jobs  via workday:worldpay
+[ 95/130] GoTo                          16 jobs  via workday:goto
+[ 96/130] Guardian Life                 40 jobs  via workday:guardianlife
+[ 97/130] GlobalLogic                  !! blocked-or-error-response
+[ 98/130] Guidehouse                    40 jobs  via workday:guidehouse
+[ 99/130] GitLab                       189 jobs  via greenhouse:gitlab
+[100/130] GSK                            4 jobs  via headings:https://www.gsk.com/en-gb/careers/
+[101/130] Grafana Labs                 155 jobs  via greenhouse:grafanalabs
+[102/130] Garrett Motion                10 jobs  via feed:https://www.garrettmotion.com
+[103/130] GEP Worldwide                !! careers-page-read-but-lists-no-openings
+[104/130] GyanSys                      !! careers-page-read-but-lists-no-openings
+[105/130] Genesis Global                 4 jobs  via lever:genesis
+[106/130] Gallagher                    !! careers-page-read-but-lists-no-openings
+[107/130] Glean                        !! careers-page-read-but-lists-no-openings
+[108/130] Guidewire Software           !! careers-page-read-but-lists-no-openings
+[109/130] Gen Digital                  114 jobs  via ashby:gen-digital   ** 3 MATCH **
+[110/130] Gigamon                       22 jobs  via jobvite:gigamon
+[111/130] GitHub                         2 jobs  via headings:https://www.github.careers/careers-home
+[112/130] Granicus                      54 jobs  via icims:granicus
+[113/130] GreyOrange                    10 jobs  via feed:https://www.greyorange.com
+[114/130] GoldenSource                   9 jobs  via feed:https://www.thegoldensource.com
+[115/130] Gates Industrial              32 jobs  via successfactors:careers.gates.com
+[116/130] GlobalFoundries              !! careers-page-read-but-lists-no-openings
+[117/130] GlowTouch Technologies         7 jobs  via headings:https://www.glowtouch.com/careers/
+[118/130] G-P (Globalization Partners)  33 jobs  via greenhouse:globalizationpartners
+[119/130] Gurucul                      !! careers-page-read-but-lists-no-openings
+[120/130] GlobalStep                    10 jobs  via feed:https://globalstep.com
+[121/130] Gray Matrix                  !! careers-page-read-but-lists-no-openings
+[122/130] Grofers                      !! blocked-or-error-response
+[123/130] Gridlines                    !! no-job-data-found
+[124/130] Greenway Health              !! careers-page-read-but-lists-no-openings
+[125/130] Gigforce                       2 jobs  via headings:https://gigforce.in/careers/
+[126/130] Gupshup                      !! careers-page-read-but-lists-no-openings
+[127/130] GoodRx India                  15 jobs  via workday:goodrx
+[128/130] Gainwell Technologies        !! careers-page-read-but-lists-no-openings
+[129/130] GAVS Technologies              9 jobs  via headings:https://www.neurealm.com/about-us/openings/
+[130/130] Grab India                   !! careers-page-read-but-lists-no-openings
 
-  boards read with jobs : 56
+  boards read with jobs : 58
   boards read, 0 open   : 5
-  could not read        : 71
+  could not read        : 67
   companies w/ matches  : 3
 
 Wrote careers.txt + results.json

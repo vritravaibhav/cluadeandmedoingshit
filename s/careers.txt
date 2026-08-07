@@ -1,18 +1,18 @@
 ==============================================================================
-OPEN ROLES AT 196 "W" COMPANIES
+OPEN ROLES AT 195 "W" COMPANIES
 Looking for : Software Engineer, ~2 years experience
 Priority    : Java, Dart/Flutter        Location preference : India
-Generated   : 2026-08-07 15:49:24 UTC  by test.js
+Generated   : 2026-08-07 20:32:01 UTC  by test.js
 ==============================================================================
 
-Boards read with open roles : 124
+Boards read with open roles : 126
 Boards read, currently empty: 2
-Could not read              : 70
-Total open roles seen       : 4098
+Could not read              : 67
+Total open roles seen       : 4112
 
 ##############################################################################
 # SECTION 1 — MATCHES: Software Engineer + Java/Dart/Flutter + ~2 yrs
-# 25 role(s) across 10 company(s)
+# 24 role(s) across 9 company(s)
 ##############################################################################
 
 >> Stripe  [US]   via greenhouse:stripe
@@ -45,13 +45,13 @@ Total open roles seen       : 4098
       exp req  : 2-3y / 1-2y    stack: Java    score: 85
       url      : https://stripe.com/jobs/search?gh_jid=7923209
     Software Engineer
-      location : Seattle
-      exp req  : 2-3y    stack: Java    score: 85
-      url      : https://stripe.com/jobs/search?gh_jid=7991636
-    Software Engineer
       location : South San Francisco, CA
       exp req  : 2-3y    stack: Java    score: 85
       url      : https://stripe.com/jobs/search?gh_jid=8107379
+    Software Engineer
+      location : Seattle
+      exp req  : 2-3y    stack: Java    score: 85
+      url      : https://stripe.com/jobs/search?gh_jid=7991636
     Software Engineer - Infrastructure
       location : Seattle, WA
       exp req  : 2-3y    stack: Java    score: 85
@@ -123,12 +123,6 @@ Total open roles seen       : 4098
       exp req  : 3-7y / 1-2y / 3-4y    stack: Java    score: 85
       url      : https://jobs.schaeffler.com/job/Danbury%2C-CT-Engineer-Manufacturing-Technology-Engineering-CT-6813/1393085133/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS
 
->> Sun Life  [Canada]   via workday:sunlife
-    API Platform Operations Engineer
-      location : 2 Locations
-      exp req  : 3-6y / 1-2y / 2-6y / 6-7y    stack: Java    score: 85
-      url      : https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Toronto-Ontario/API-Platform-Operations-Engineer_JR00120428
-
 >> Snowflake  [US]   via phenom:_self
     Software Engineer Intern - Berlin (2026)
       location : Berlin, Not Applicable
@@ -137,13 +131,13 @@ Total open roles seen       : 4098
 
 ##############################################################################
 # SECTION 2 — INDIA: engineering, non-senior, ANY stack
-# 168 role(s). Java/Dart-Flutter still rank highest, but the brief allows
+# 165 role(s). Java/Dart-Flutter still rank highest, but the brief allows
 # any tech stack, so these are the India roles worth a look regardless.
-# 2a: states a window covering ~2 yrs, or states none (106)
-# 2b: states a different window — usually 3-5 yrs (62)
+# 2a: states a window covering ~2 yrs, or states none (105)
+# 2b: states a different window — usually 3-5 yrs (60)
 ##############################################################################
 
--- 2a --------------------------------------------- fits ~2 years (106)
+-- 2a --------------------------------------------- fits ~2 years (105)
 
 >> Stripe
     Software Engineer, Intern
@@ -281,10 +275,6 @@ Total open roles seen       : 4098
       exp req  : not stated    stack: Java    score: 74
       url      : https://www.simplilearn.com/zookeeper-sqoop-and-flume-quick-tutorial-video
 >> Synechron
-    Java & Angular Developer – Spring, REST APIs & SQL
-      location : Hyderabad Eco Park   [INDIA]
-      exp req  : not stated    stack: Java    score: 74
-      url      : https://synechron.wd1.myworkdayjobs.com/SynechronCareers/job/Hyderabad--Eco-Park/Java---Angular-Developer---Spring--REST-APIs---SQL_JR1042426
     Java Developer
       location : Pune - Hinjewadi (Ascendas)   [INDIA]
       exp req  : not stated    stack: Java    score: 74
@@ -480,6 +470,11 @@ Total open roles seen       : 4098
       location : Noida, Uttar Pradesh, in   [INDIA]
       exp req  : not stated    stack: —    score: 49
       url      : https://jobs.smartrecruiters.com/SopraSteria1/744000138096080
+>> Stridely Solutions
+    Building Semantic Search in Snowflake: A Practical Guide for Data Engineers
+      location : n/a   [INDIA]
+      exp req  : not stated    stack: —    score: 49
+      url      : https://www.stridelysolutions.com/insights/blog/building-semantic-search-in-snowflake-using-vectors/
 >> Sulekha
     Dot net developer
       location : n/a   [INDIA]
@@ -495,10 +490,6 @@ Total open roles seen       : 4098
       exp req  : not stated    stack: —    score: 49
       url      : https://www.syncfusion.com/careers/
 >> Synechron
-    Python AI Developer – Machine Learning, Cloud & Agile Delivery
-      location : Hyderabad Eco Park   [INDIA]
-      exp req  : not stated    stack: —    score: 49
-      url      : https://synechron.wd1.myworkdayjobs.com/SynechronCareers/job/Hyderabad--Eco-Park/Python-AI-Developer---Machine-Learning--Cloud---Agile-Delivery_JR1042176
     DevOps Data Hadoop (Technology Engineer)
       location : Bengaluru - Bellandur (GTP)   [INDIA]
       exp req  : not stated    stack: —    score: 49
@@ -625,7 +616,7 @@ Total open roles seen       : 4098
       exp req  : not stated    stack: —    score: 49
       url      : https://svitla.com/career/python-developer-with-ai-ml/
 
--- 2b ------------------------------------ states a wider window (62)
+-- 2b ------------------------------------ states a wider window (60)
 
 >> Signzy
     Mobile Application Developer-2
@@ -683,11 +674,6 @@ Total open roles seen       : 4098
       location : Pune, Maharashtra, India   [INDIA]
       exp req  : 5-6y / 3-4y    stack: Java    score: 82
       url      : https://job-boards.greenhouse.io/sonicwall/jobs/7867565
->> Springer Nature
-    Software Developer
-      location : Pune   [INDIA]
-      exp req  : 3-5y / 5-6y    stack: Java    score: 82
-      url      : https://springernature.wd3.myworkdayjobs.com/SpringerNatureCareers/job/Pune/Software-Developer_JR106348-1
 >> Sigmoid
     Software Development Engineer II
       location : Bengaluru, Karnataka, India   [INDIA]
@@ -707,6 +693,11 @@ Total open roles seen       : 4098
       location : n/a   [INDIA]
       exp req  : 5-9y    stack: Java    score: 70
       url      : https://www.sourcefuse.com/resources/blog/job/backendjava-developer/
+>> Synechron
+    Java & Angular Developer – Spring, REST APIs & SQL
+      location : Hyderabad Eco Park   [INDIA]
+      exp req  : 5-9y    stack: Java    score: 70
+      url      : https://synechron.wd1.myworkdayjobs.com/SynechronCareers/job/Hyderabad--Eco-Park/Java---Angular-Developer---Spring--REST-APIs---SQL_JR1042426
 >> Signify
     Full Stack Software Engineer
       location : Pune   [INDIA]
@@ -717,11 +708,6 @@ Total open roles seen       : 4098
       location : Bangalore, India   [INDIA]
       exp req  : 12-17y / 17-18y    stack: Java    score: 70
       url      : https://statestreet.wd1.myworkdayjobs.com/Global/job/Bangalore-India/Agentic-AI-Engineer--Vice-President_R-795704-1
->> Swiss Re
-    QA Engineer II
-      location : Hyderabad, TG, IN   [INDIA]
-      exp req  : 8-12y    stack: Java    score: 70
-      url      : https://careers.swissre.com/job/Hyderabad-QA-Engineer-II-TG/1408690933/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS
 >> Spyne
     Infosec Engineer
       location : Gurugram, Haryana   [INDIA]
@@ -869,6 +855,11 @@ Total open roles seen       : 4098
       location : n/a   [INDIA]
       exp req  : 5-9y    stack: —    score: 45
       url      : https://www.sourcefuse.com/resources/blog/job/l2-engineer-oss-support/
+>> Synechron
+    Python AI Developer – Machine Learning, Cloud & Agile Delivery
+      location : Hyderabad Eco Park   [INDIA]
+      exp req  : 5-9y    stack: —    score: 45
+      url      : https://synechron.wd1.myworkdayjobs.com/SynechronCareers/job/Hyderabad--Eco-Park/Python-AI-Developer---Machine-Learning--Cloud---Agile-Delivery_JR1042176
 >> SanDisk
     Linux PCIe Driver Developer ( 8 - 12 years)
       location : Bengaluru, KA, in   [INDIA]
@@ -897,12 +888,11 @@ Total open roles seen       : 4098
       location : Bengaluru, India   [INDIA]
       exp req  : 8-12y    stack: —    score: 45
       url      : https://stripe.com/jobs/search?gh_jid=7543868
->> Synopsys
-    LPDDR IP Design Principle Engineer
-      location : Bengaluru, , India   [INDIA]
-      exp req  : 10-14y / 10-11y    stack: —    score: 45
-      url      : https://careers.synopsys.com/job/bengaluru/lpddr-ip-design-principle-engineer/44408/94561854112
-    ... and 2 more (see results.json)
+>> Securonix India
+    Platform Engineer - Training & Customer Experience Systems
+      location : Bangalore, Karnataka   [INDIA]
+      exp req  : 5-9y    stack: —    score: 45
+      url      : https://securonix.bamboohr.com/careers/1835
 
 ##############################################################################
 # SECTION 3 — NEAR MATCHES: engineering + Java/Dart/Flutter, non-senior,
@@ -1014,10 +1004,6 @@ Total open roles seen       : 4098
       url      : https://www.sourcefuse.com/resources/blog/job/backendjava-developer/
 
 >> Synechron  [US]   via workday:synechron
-    Java & Angular Developer – Spring, REST APIs & SQL
-      location : Hyderabad Eco Park   [INDIA]
-      exp req  : not stated    stack: Java    score: 74
-      url      : https://synechron.wd1.myworkdayjobs.com/SynechronCareers/job/Hyderabad--Eco-Park/Java---Angular-Developer---Spring--REST-APIs---SQL_JR1042426
     Java Developer
       location : Pune - Hinjewadi (Ascendas)   [INDIA]
       exp req  : not stated    stack: Java    score: 74
@@ -1034,10 +1020,14 @@ Total open roles seen       : 4098
       location : Mumbai   [INDIA]
       exp req  : not stated    stack: Java    score: 74
       url      : https://synechron.wd1.myworkdayjobs.com/SynechronCareers/job/Mumbai/QA-Automation-Engineer---Java--Python--Playwright---Selenium_JR1041834
-    Java Developer – Cloud, Microservices & Agile Delivery
+    Java & Angular Developer – Spring, REST APIs & SQL
+      location : Hyderabad Eco Park   [INDIA]
+      exp req  : 5-9y    stack: Java    score: 70
+      url      : https://synechron.wd1.myworkdayjobs.com/SynechronCareers/job/Hyderabad--Eco-Park/Java---Angular-Developer---Spring--REST-APIs---SQL_JR1042426
+    Java Software Engineer (DevOps-Oriented)
       location : 2 Locations
       exp req  : not stated    stack: Java    score: 59
-      url      : https://synechron.wd1.myworkdayjobs.com/SynechronCareers/job/Hyderabad--Eco-Park/Java-Developer---Cloud--Microservices---Agile-Delivery_JR1042134
+      url      : https://synechron.wd1.myworkdayjobs.com/SynechronCareers/job/Novi-Sad/Java-Software-Engineer--DevOps-Oriented--_JR1042724
 
 >> Sabre  [US]   via workday:sabre
     Site Reliability Engineer
@@ -1081,43 +1071,11 @@ Total open roles seen       : 4098
       exp req  : 5-6y / 3-4y    stack: Java + Android    score: 82
       url      : https://job-boards.greenhouse.io/sonicwall/jobs/7867565
 
->> Springer Nature  [Germany]   via workday:springernature
-    Software Developer
-      location : Pune   [INDIA]
-      exp req  : 3-5y / 5-6y    stack: Java + Android    score: 82
-      url      : https://springernature.wd3.myworkdayjobs.com/SpringerNatureCareers/job/Pune/Software-Developer_JR106348-1
-
 >> State Street  [US]   via workday:statestreet
     Agentic AI Engineer, Vice President
       location : Bangalore, India   [INDIA]
       exp req  : 12-17y / 17-18y    stack: Java    score: 70
       url      : https://statestreet.wd1.myworkdayjobs.com/Global/job/Bangalore-India/Agentic-AI-Engineer--Vice-President_R-795704-1
-
->> Swiss Re  [Switzerland]   via successfactors:careers.swissre.com
-    QA Engineer II
-      location : Hyderabad, TG, IN   [INDIA]
-      exp req  : 8-12y    stack: Java    score: 70
-      url      : https://careers.swissre.com/job/Hyderabad-QA-Engineer-II-TG/1408690933/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS
-    Application Engineer
-      location : Mexico City, MX
-      exp req  : 4-5y    stack: Java    score: 67
-      url      : https://careers.swissre.com/job/Mexico-City-Application-Engineer/1263044601/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS
-    Java Application Engineer (Hybrid set up)
-      location : Bratislava, SK
-      exp req  : not stated    stack: Java    score: 59
-      url      : https://careers.swissre.com/job/Bratislava-Java-Application-Engineer-%28Hybrid-set-up%29/1423019833/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS
-    Software Engineer (Mid-Level) - Data Services (Risk Management Info Tech)
-      location : Bratislava, SK
-      exp req  : not stated    stack: Java    score: 59
-      url      : https://careers.swissre.com/job/Bratislava-Software-Engineer-%28Mid-Level%29-Data-Services-%28Risk-Management-Info-Tech%29/1369403933/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS
-    QA Engineer II
-      location : Mexico City, MX
-      exp req  : not stated    stack: Java    score: 59
-      url      : https://careers.swissre.com/job/Mexico-City-QA-Engineer-II/1388531133/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS
-    Application Engineer II
-      location : Mexico City, MX
-      exp req  : not stated    stack: Java    score: 59
-      url      : https://careers.swissre.com/job/Mexico-City-Application-Engineer-II/1388537533/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS
 
 >> Sopra Steria  [France]   via smartrecruiters:SopraSteria1
     Stage Java Developer - Microservizi
@@ -1158,6 +1116,10 @@ Total open roles seen       : 4098
       url      : https://careers-sas.icims.com/jobs/42453/software-developer/job
 
 >> Snowflake  [US]   via phenom:_self
+    Software Engineer - Backend
+      location : Menlo Park, California
+      exp req  : not stated    stack: Java    score: 59
+      url      : https://jobs.ashbyhq.com/snowflake/3eb872af-0ab1-4986-8f72-e7321fcd1538
     Software Engineer – Engineering Systems Continuous Integration Team
       location : Bellevue, Washington
       exp req  : not stated    stack: Java    score: 59
@@ -1204,6 +1166,32 @@ Total open roles seen       : 4098
       location : Bucharest, Romania
       exp req  : not stated    stack: Java    score: 59
       url      : https://stripe.com/jobs/search?gh_jid=8078337
+
+>> Swiss Re  [Switzerland]   via successfactors:careers.swissre.com
+    Application Engineer
+      location : Mexico City, MX
+      exp req  : 4-5y    stack: Java    score: 67
+      url      : https://careers.swissre.com/job/Mexico-City-Application-Engineer/1263044601/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS
+    Application Engineer
+      location : Mexico City, MX
+      exp req  : 4-5y    stack: Java    score: 67
+      url      : https://careers.swissre.com/job/Mexico-City-Application-Engineer/1263052101/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS
+    Java Application Engineer (Hybrid set up)
+      location : Bratislava, SK
+      exp req  : not stated    stack: Java    score: 59
+      url      : https://careers.swissre.com/job/Bratislava-Java-Application-Engineer-%28Hybrid-set-up%29/1423019833/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS
+    Software Engineer (Mid-Level) - Data Services (Risk Management Info Tech)
+      location : Bratislava, SK
+      exp req  : not stated    stack: Java    score: 59
+      url      : https://careers.swissre.com/job/Bratislava-Software-Engineer-%28Mid-Level%29-Data-Services-%28Risk-Management-Info-Tech%29/1369403933/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS
+    QA Engineer II
+      location : Mexico City, MX
+      exp req  : not stated    stack: Java    score: 59
+      url      : https://careers.swissre.com/job/Mexico-City-QA-Engineer-II/1388531133/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS
+    Application Engineer II
+      location : Mexico City, MX
+      exp req  : not stated    stack: Java    score: 59
+      url      : https://careers.swissre.com/job/Mexico-City-Application-Engineer-II/1388537533/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS
 
 ##############################################################################
 # SECTION 4 — CLOSEST ROLE PER COMPANY  (fetch verification)
@@ -1370,6 +1358,13 @@ Total open roles seen       : 4098
       exp req  : 2-4y    stack: —    score: 75
       url      : https://spyneai.keka.com/careers/jobdetails/120851
 
+>> Squadcast  [India]
+    board    : headings:https://jobs.solarwinds.com/jobs/?sw-search=&   —  2 open roles
+    Senior Software Engineer
+      location : n/a   [INDIA]
+      exp req  : not stated    stack: —    score: 27
+      url      : https://jobs.solarwinds.com/jobs/?sw-search=&
+
 >> SquadStack  [India]
     board    : keka:squadrun   —  11 open roles
     Forward Deployed Engineer
@@ -1503,6 +1498,13 @@ Total open roles seen       : 4098
       exp req  : not stated    stack: —    score: 19
       url      : https://squareops.com/careers/
 
+>> Stridely Solutions  [India]
+    board    : feed:https://www.stridelysolutions.com   —  10 open roles
+    Building Semantic Search in Snowflake: A Practical Guide for Data Engineers
+      location : n/a   [INDIA]
+      exp req  : not stated    stack: —    score: 49
+      url      : https://www.stridelysolutions.com/insights/blog/building-semantic-search-in-snowflake-using-vectors/
+
 >> Successive Digital  [India]
     board    : wordpress:https://successive.tech   —  1 open role
     Jobsearch
@@ -1546,7 +1548,7 @@ Total open roles seen       : 4098
       url      : https://sbi.bank.in/web/careers
 
 >> Sun Pharmaceutical Industries  [India]
-    board    : successfactors:careers.sunpharma.com   —  56 open roles
+    board    : successfactors:careers.sunpharma.com   —  55 open roles
     Manager - Data Engineer (Azure)
       location : Mumbai, IN   [INDIA]
       exp req  : 4-7y    stack: —    score: 35
@@ -1560,7 +1562,7 @@ Total open roles seen       : 4098
       url      : https://symphony.com/company/apply?gh_jid=8021297
 
 >> Syngene International  [India]
-    board    : successfactors:careers.syngeneintl.com   —  26 open roles
+    board    : successfactors:careers.syngeneintl.com   —  27 open roles
     Senior Process Engineer
       location : Baltimore, MD, US, 21224
       exp req  : not stated    stack: —    score: 12
@@ -1574,7 +1576,7 @@ Total open roles seen       : 4098
       url      : https://job-boards.greenhouse.io/sigmoid/jobs/4808098002
 
 >> Sonatype India  [India]
-    board    : lever:sonatype   —  30 open roles
+    board    : lever:sonatype   —  29 open roles
     Java Product Support Engineer
       location : Colombia - Remote
       exp req  : 3-7y    stack: Java    score: 67
@@ -1644,7 +1646,7 @@ Total open roles seen       : 4098
       url      : https://www.sagitec.com/careers
 
 >> Saviynt  [US]
-    board    : lever:saviynt   —  113 open roles
+    board    : lever:saviynt   —  112 open roles
     Platform Support Engineer -
       location : Bengaluru   [INDIA]
       exp req  : 2-5y / 5-6y    stack: Java    score: 100
@@ -1753,7 +1755,7 @@ Total open roles seen       : 4098
       url      : https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/1530-FM-973-Taylor-TX-USA/Material-Technology-Engineer_R119034
 
 >> SanDisk  [US]
-    board    : smartrecruiters:Sandisk   —  306 open roles
+    board    : smartrecruiters:Sandisk   —  303 open roles
     Associate Engineer, System Design Engineering ( FPGA Design 2-4 years)
       location : Bengaluru, KA, in   [INDIA]
       exp req  : 2-4y    stack: —    score: 87
@@ -1781,7 +1783,7 @@ Total open roles seen       : 4098
       url      : https://jobs.sap.com/job/Budapest-Associate-Solution-Support-Engineer-Data-&-Platform-Core-Platform-Services-1031/1423511433/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS
 
 >> Sapiens  [Israel]
-    board    : successfactors:careers.sapiens.com   —  40 open roles
+    board    : successfactors:careers.sapiens.com   —  39 open roles
     Senior Developer - R&D
       location : Bangalore, IN   [INDIA]
       exp req  : 4-6y    stack: Java    score: 60
@@ -1795,7 +1797,7 @@ Total open roles seen       : 4098
       url      : https://sartorius.wd3.myworkdayjobs.com/sartoriuscareers/job/Denver-CO-United-States-of-America/Field-Service-Engineer---Colorado--Wyoming-and-Utah_R41082-1
 
 >> SAS Institute  [US]
-    board    : icims:globalcareers-sas   —  177 open roles
+    board    : icims:globalcareers-sas   —  179 open roles
     Fullstack Developer
       location : Pune, UNAVAILABLE, IN   [INDIA]
       exp req  : 2-5y    stack: Java    score: 100
@@ -1879,7 +1881,7 @@ Total open roles seen       : 4098
       url      : https://careers.sita.aero/
 
 >> Skillsoft  [US]
-    board    : greenhouse:skillsoft   —  9 open roles
+    board    : greenhouse:skillsoft   —  8 open roles
     Payroll Associate
       location : US - Remote
       exp req  : 1-3y    stack: —    score: 42
@@ -1900,7 +1902,7 @@ Total open roles seen       : 4098
       url      : https://careers.slb.com/
 
 >> Snowflake  [US]
-    board    : phenom:_self   —  174 open roles
+    board    : phenom:_self   —  185 open roles
     Software Engineer Intern - Berlin (2026)
       location : Berlin, Not Applicable
       exp req  : not stated    stack: Java    score: 71
@@ -1921,7 +1923,7 @@ Total open roles seen       : 4098
       url      : https://solenis.wd1.myworkdayjobs.com/Solenis/job/United-Kingdom-Remote/Field-Engineer-Southwest-London_R0029665
 
 >> SonicWall  [US]
-    board    : greenhouse:sonicwall   —  49 open roles
+    board    : greenhouse:sonicwall   —  50 open roles
     Test Associate Engineer
       location : Pune, Maharashtra, India - Remote   [INDIA]
       exp req  : 1-5y    stack: —    score: 87
@@ -1943,10 +1945,10 @@ Total open roles seen       : 4098
 
 >> Springer Nature  [Germany]
     board    : workday:springernature   —  40 open roles
-    Software Developer
-      location : Pune   [INDIA]
-      exp req  : 3-5y / 5-6y    stack: Java + Android    score: 82
-      url      : https://springernature.wd3.myworkdayjobs.com/SpringerNatureCareers/job/Pune/Software-Developer_JR106348-1
+    Platform Engineer
+      location : 3 Locations
+      exp req  : not stated    stack: —    score: 34
+      url      : https://springernature.wd3.myworkdayjobs.com/SpringerNatureCareers/job/Lisbon/Platform-Engineer_JR106553
 
 >> Sprinklr  [US]
     board    : workday:sprinklr   —  40 open roles
@@ -1998,7 +2000,7 @@ Total open roles seen       : 4098
       url      : https://www.st.com/content/st_com/en/about/careers.html
 
 >> Stripe  [US]
-    board    : greenhouse:stripe   —  554 open roles
+    board    : greenhouse:stripe   —  550 open roles
     Software Engineer, Intern
       location : Bengaluru   [INDIA]
       exp req  : 2-6y    stack: Java    score: 112
@@ -2027,10 +2029,10 @@ Total open roles seen       : 4098
 
 >> Sun Life  [Canada]
     board    : workday:sunlife   —  40 open roles
-    API Platform Operations Engineer
-      location : 2 Locations
-      exp req  : 3-6y / 1-2y / 2-6y / 6-7y    stack: Java    score: 85
-      url      : https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Toronto-Ontario/API-Platform-Operations-Engineer_JR00120428
+    AVP, Enterprise Data Architecture
+      location : 3 Locations
+      exp req  : 10-14y / 2-6y / 10-11y / 2-3y    stack: —    score: 38
+      url      : https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Toronto-Ontario/AVP--Enterprise-Data-Architecture_JR00125611-2
 
 >> SUSE  [Germany]
     board    : workday:suse   —  28 open roles
@@ -2040,11 +2042,11 @@ Total open roles seen       : 4098
       url      : https://suse.wd3.myworkdayjobs.com/Jobsatsuse/job/Tokyo-Japan/Premium-Service-Engineer_71006712
 
 >> Swiss Re  [Switzerland]
-    board    : successfactors:careers.swissre.com   —  48 open roles
-    QA Engineer II
-      location : Hyderabad, TG, IN   [INDIA]
-      exp req  : 8-12y    stack: Java    score: 70
-      url      : https://careers.swissre.com/job/Hyderabad-QA-Engineer-II-TG/1408690933/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS
+    board    : successfactors:careers.swissre.com   —  47 open roles
+    Application Engineer
+      location : Mexico City, MX
+      exp req  : 4-5y    stack: Java    score: 67
+      url      : https://careers.swissre.com/job/Mexico-City-Application-Engineer/1263044601/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS
 
 >> Synamedia  [UK]
     board    : headings:https://www.synamedia.com/careers/   —  3 open roles
@@ -2076,10 +2078,10 @@ Total open roles seen       : 4098
 
 >> Synopsys  [US]
     board    : html:https://careers.synopsys.com/   —  4 open roles
-    Staff R&D Engineer (C&#x2B;&#x2B;)
-      location : Bengaluru, , India   [INDIA]
-      exp req  : 5-9y / 3-7y / 2-6y    stack: —    score: 53
-      url      : https://careers.synopsys.com/job/bengaluru/staff-r-and-d-engineer-c/44408/96150977248
+    Staff Validation/Verification Engineer - 17399
+      location : Nepean, Nepean, Canada
+      exp req  : 5-9y    stack: —    score: 8
+      url      : https://careers.synopsys.com/job/nepean/staff-validation-verification-engineer-17399/44408/95152936992
 
 >> Sysco  [US]
     board    : headings:https://careers.sysco.com/en   —  3 open roles
@@ -2089,7 +2091,7 @@ Total open roles seen       : 4098
       url      : https://careers.sysco.com/en
 
 ##############################################################################
-# SECTION 5 — NOT READ  (70 of 196)
+# SECTION 5 — NOT READ  (67 of 195)
 # lists-no-openings  = careers page loaded fine, published no vacancies
 # blocked-or-error    = bot wall / dead route (403, 404) — needs a browser
 # unreachable         = domain did not respond at all
@@ -2118,12 +2120,12 @@ Total open roles seen       : 4098
 
 >> Seagate Technology  [US]  — blocked-or-error-response
     careers page : https://www.seagate.com/company/careers/
-    http status  : 0, 429, 429, 429, 429, 429, 429, 404, 429, 429, 429, 429, 429, 429, 429, 429, 429
+    http status  : 0, 0, 429, 429, 429, 429, 429, 404, 429, 429, 429, 429, 429, 429, 429, 429, 429
     ATS tried    : greenhouse:seagate -> no board ; lever:seagate -> no board ; ashby:seagate -> no board ; recruitee:seagate -> no board
 
 >> Sealed Air  [US]  — blocked-or-error-response
     careers page : https://careers.sealedair.com/
-    http status  : 403, 403, 403, 403, 403, 403, 403
+    http status  : 403, 403, 403, 403, 403
     ATS tried    : greenhouse:sealedair -> no board ; lever:sealedair -> no board ; ashby:sealedair -> no board ; recruitee:sealedair -> no board
 
 >> Sensata Technologies  [US]  — blocked-or-error-response
@@ -2141,6 +2143,11 @@ Total open roles seen       : 4098
     http status  : 0, 404, 404, 404, 404, 404, 404
     ATS tried    : greenhouse:sprintlaw -> no board ; lever:sprintlaw -> no board ; ashby:sprintlaw -> no board ; recruitee:sprintlaw -> no board
 
+>> Shoppers Stop  [India]  — blocked-or-error-response
+    careers page : undefined
+    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404
+    ATS tried    : greenhouse:shoppersstop -> no board ; lever:shoppersstop -> no board ; ashby:shoppersstop -> no board ; recruitee:shoppersstop -> no board
+
 >> Snapdeal  [India]  — blocked-or-error-response
     careers page : undefined
     http status  : 0, 404, 404, 404, 404, 404
@@ -2153,7 +2160,7 @@ Total open roles seen       : 4098
 
 >> Servify  [India]  — careers-page-read-but-lists-no-openings
     careers page : https://servify.com/careers/
-    http status  : 200, 0, 200, 404, 404, 404, 404
+    http status  : 200, 0, 200, 404, 404, 404, 404, 404, 200, 200, 404
     ATS tried    : greenhouse:servify -> no board ; lever:servify -> no board ; ashby:servify -> no board ; recruitee:servify -> no board
 
 >> Setu  [India]  — careers-page-read-but-lists-no-openings
@@ -2190,11 +2197,6 @@ Total open roles seen       : 4098
     careers page : https://spicemoney.com/corporate/careers
     http status  : 200, 0, 200, 200, 200, 200, 200, 404
     ATS tried    : greenhouse:spicemoney -> no board ; lever:spicemoney -> no board ; ashby:spicemoney -> no board ; recruitee:spicemoney -> no board
-
->> Squadcast  [India]  — careers-page-read-but-lists-no-openings
-    careers page : https://jobs.solarwinds.com/
-    http status  : 200, 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200, 200
-    ATS tried    : greenhouse:squadcast -> no board ; lever:squadcast -> no board ; ashby:squadcast -> no board ; recruitee:squadcast -> no board
 
 >> Stanza Living  [India]  — careers-page-read-but-lists-no-openings
     careers page : https://www.stanzaliving.com/careers
@@ -2287,7 +2289,7 @@ Total open roles seen       : 4098
 
 >> Sysvine Technologies  [India]  — careers-page-read-but-lists-no-openings
     careers page : https://www.sysvine.com/careers
-    http status  : 200, 0, 200, 404, 404
+    http status  : 200, 0, 200, 404, 404, 404
     ATS tried    : greenhouse:sysvine -> no board ; lever:sysvine -> no board ; ashby:sysvine -> no board ; recruitee:sysvine -> no board
 
 >> Safexpress  [India]  — careers-page-read-but-lists-no-openings
@@ -2390,11 +2392,6 @@ Total open roles seen       : 4098
     http status  : 403, 0, 403, 403, 403, 403, 403, 403, 403, 403, 403, 403
     ATS tried    : greenhouse:sprinto -> no board ; lever:sprinto -> no board ; ashby:sprinto -> no board ; recruitee:sprinto -> no board
 
->> Spirent Communications  [UK]  — careers-page-unreachable
-    careers page : https://www.spirent.com/careers
-    http status  : 403, 0, 403, 403, 403, 403, 403, 403, 403, 403, 403, 403
-    ATS tried    : greenhouse:spirentcommunications -> no board ; lever:spirentcommunications -> no board ; ashby:spirentcommunications -> no board ; recruitee:spirentcommunications -> no board
-
 >> SUGAR Cosmetics  [India]  — no-job-data-found
     careers page : https://in.sugarcosmetics.com/pages/careers
     http status  : 200, 0, 200, 404
@@ -2405,10 +2402,10 @@ Total open roles seen       : 4098
     http status  : 200, 0, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200
     ATS tried    : greenhouse:siemens -> no board ; lever:siemens -> no board ; ashby:siemens -> no board ; recruitee:siemens -> no board
 
->> Shoppers Stop  [India]  — no-job-data-found
+>> Sterlite Technologies  [India]  — no-job-data-found
     careers page : undefined
-    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
-    ATS tried    : greenhouse:shoppersstop -> no board ; lever:shoppersstop -> no board ; ashby:shoppersstop -> no board ; recruitee:shoppersstop -> no board
+    http status  : 0, 404, 404, 404, 404, 404, 200, 404
+    ATS tried    : greenhouse:sterlite -> no board ; lever:sterlite -> no board ; ashby:sterlite -> no board ; recruitee:sterlite -> no board
 
 >> Strategic Ventures  [India]  — no-job-data-found
     careers page : undefined
@@ -2420,10 +2417,6 @@ Total open roles seen       : 4098
     http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
     ATS tried    : greenhouse:supersourcing -> no board ; lever:supersourcing -> no board ; ashby:supersourcing -> no board ; recruitee:supersourcing -> no board
 
->> Stridely Solutions  [India]  — timed-out
-    careers page : https://www.stridelysolutions.com/careers/
-    http status  : 
-
 >> Suma Soft  [India]  — timed-out
     careers page : https://www.sumasoft.com/careers/
     http status  : 
@@ -2434,8 +2427,4 @@ Total open roles seen       : 4098
 
 >> Suzlon Energy  [India]  — timed-out
     careers page : https://www.suzlon.com/careers/
-    http status  : 
-
->> Sterlite Technologies  [India]  — timed-out
-    careers page : undefined
     http status  : 

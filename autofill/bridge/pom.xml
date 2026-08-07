@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+
+    <modelVersion>4.0.0</modelVersion>
+
+    <!--
+        Spring Boot parent POM.
+        It supplies dependency management (versions for every starter),
+        sensible plugin defaults, and the repackage goal used below.
+    -->
+    <parent>
+        <groupId>org.springframework.boot</groupId>
+        <artifactId>spring-boot-starter-parent</artifactId>
+        <version>3.3.5</version>
+        <relativePath/><!-- always resolve the parent from the repository -->
+    </parent>
+
+    <groupId>com.longfloat</groupId>
+    <artifactId>autofill-bridge</artifactId>
+    <version>0.0.1-SNAPSHOT</version>
+    <name>autofill-bridge</name>
+    <description>Local HTTP bridge that forwards prompts to the Claude Code CLI</description>
+
+    <properties>
+        <java.version>21</java.version>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    </properties>
+
+    <dependencies>
+        <!-- Embedded Tomcat + Spring MVC + Jackson JSON. That is all the HTTP we need. -->
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-web</artifactId>
+        </dependency>
+
+        <!-- Enables @Valid / @NotBlank on the request record. -->
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-validation</artifactId>
+        </dependency>
+    </dependencies>
+
+    <build>
+        <plugins>
+            <!--
+                Produces the executable fat jar:
+                    mvn clean package
+                    java -jar target/autofill-bridge-0.0.1-SNAPSHOT.jar
+                or run straight from the sources with:
+                    mvn spring-boot:run
+            -->
+            <plugin>
+                <groupId>org.springframework.boot</groupId>
+                <artifactId>spring-boot-maven-plugin</artifactId>
+            </plugin>
+        </plugins>
+    </build>
+
+</project>

@@ -2,13 +2,13 @@
 OPEN ROLES AT 136 "W" COMPANIES
 Looking for : Software Engineer, ~2 years experience
 Priority    : Java, Dart/Flutter        Location preference : India
-Generated   : 2026-08-07 13:24:11 UTC  by test.js
+Generated   : 2026-08-07 15:38:52 UTC  by test.js
 ==============================================================================
 
 Boards read with open roles : 73
 Boards read, currently empty: 3
 Could not read              : 60
-Total open roles seen       : 2557
+Total open roles seen       : 2531
 
 ##############################################################################
 # SECTION 1 — MATCHES: Software Engineer + Java/Dart/Flutter + ~2 yrs
@@ -79,13 +79,13 @@ Total open roles seen       : 2557
 
 ##############################################################################
 # SECTION 2 — INDIA: engineering, non-senior, ANY stack
-# 115 role(s). Java/Dart-Flutter still rank highest, but the brief allows
+# 113 role(s). Java/Dart-Flutter still rank highest, but the brief allows
 # any tech stack, so these are the India roles worth a look regardless.
-# 2a: states a window covering ~2 yrs, or states none (80)
+# 2a: states a window covering ~2 yrs, or states none (78)
 # 2b: states a different window — usually 3-5 yrs (35)
 ##############################################################################
 
--- 2a --------------------------------------------- fits ~2 years (80)
+-- 2a --------------------------------------------- fits ~2 years (78)
 
 >> LogiNext
     Software Engineer
@@ -426,16 +426,6 @@ Total open roles seen       : 2557
       location : Bangalore   [INDIA]
       exp req  : not stated    stack: —    score: 49
       url      : https://jobs.lever.co/linkedin/1fe1f765-099e-448d-90a2-7ebe692c185a
->> Litera
-    Software Engineer
-      location : India-Ahmedabad-Office   [INDIA]
-      exp req  : not stated    stack: —    score: 49
-      url      : https://litera.wd12.myworkdayjobs.com/Litera_Careers/job/India-Ahmedabad-Office/Software-Engineer--Dynamics-365-_R-501180
->> Luxoft
-    Data Engineer with AWS
-      location : n/a   [INDIA]
-      exp req  : not stated    stack: —    score: 49
-      url      : https://career.luxoft.com/
 >> LeadIQ India
     Full-Stack Engineer
       location : n/a   [INDIA]
@@ -674,6 +664,12 @@ Total open roles seen       : 2557
       location : Dublin
       exp req  : not stated    stack: Java    score: 59
       url      : https://relx.wd3.myworkdayjobs.com/RiskSolutions/job/Dublin/Software-Engineer-II_R116580
+
+>> Luxoft  [Switzerland]   via headings:https://career.luxoft.com/
+    Full Stack Java Web Developer
+      location : n/a
+      exp req  : not stated    stack: Java    score: 59
+      url      : https://career.luxoft.com/
 
 ##############################################################################
 # SECTION 4 — CLOSEST ROLE PER COMPANY  (fetch verification)
@@ -1122,7 +1118,7 @@ Total open roles seen       : 2557
       url      : https://job-boards.eu.greenhouse.io/lighthouse/jobs/4766877101
 
 >> Lightspeed Commerce  [Canada]
-    board    : ashby:lightspeedhq   —  146 open roles
+    board    : ashby:lightspeedhq   —  143 open roles
     Principal Software Developer
       location : Remote in Canada
       exp req  : 15-19y / 5-9y / 2-6y    stack: Java    score: 63
@@ -1136,7 +1132,7 @@ Total open roles seen       : 2557
       url      : https://jobs.lever.co/linkedin/b6404bd8-ae9c-4902-b3bb-4c317463411e
 
 >> Litera  [United States]
-    board    : workday:litera   —  57 open roles
+    board    : workday:litera   —  56 open roles
     Associate Software Engineer
       location : Denver, CO
       exp req  : 0-2y    stack: Java    score: 97
@@ -1150,7 +1146,7 @@ Total open roles seen       : 2557
       url      : https://careers.lloydslistintelligence.com/jobs/7877170-devops-engineer
 
 >> LogicMonitor  [United States]
-    board    : greenhouse:logicmonitor   —  66 open roles
+    board    : greenhouse:logicmonitor   —  62 open roles
     Associate DevOps Engineer
       location : Pune, India   [INDIA]
       exp req  : 1-2y / 2-3y    stack: —    score: 87
@@ -1164,7 +1160,7 @@ Total open roles seen       : 2557
       url      : https://www.loginradius.com/careers
 
 >> Lowe's  [United States]
-    board    : phenom:_self   —  179 open roles
+    board    : phenom:_self   —  161 open roles
     Lead Engineer CIAM (Customer Identity Acess Management), Information Security
       location : Charlotte, North Carolina
       exp req  : not stated    stack: Java    score: 37
@@ -1200,9 +1196,9 @@ Total open roles seen       : 2557
 
 >> Luxoft  [Switzerland]
     board    : headings:https://career.luxoft.com/   —  5 open roles
-    Data Engineer with AWS
-      location : n/a   [INDIA]
-      exp req  : not stated    stack: —    score: 49
+    Full Stack Java Web Developer
+      location : n/a
+      exp req  : not stated    stack: Java    score: 59
       url      : https://career.luxoft.com/
 
 ##############################################################################
@@ -1300,7 +1296,7 @@ Total open roles seen       : 2557
 
 >> Lifelong India  [India]  — careers-page-read-but-lists-no-openings
     careers page : https://lifelongindiaonline.com/pages/careers
-    http status  : 200, 0, 404, 404
+    http status  : 200, 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
     ATS tried    : greenhouse:lifelong -> no board ; lever:lifelong -> no board ; ashby:lifelong -> no board ; recruitee:lifelong -> no board
 
 >> Lightfury Games  [India]  — careers-page-read-but-lists-no-openings
@@ -1387,11 +1383,6 @@ Total open roles seen       : 2557
     careers page : https://www.lumaxworld.in/careers/
     http status  : 200, 0, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200
     ATS tried    : greenhouse:lumaxauto -> no board ; lever:lumaxauto -> no board ; ashby:lumaxauto -> no board ; recruitee:lumaxauto -> no board
-
->> Lybrate  [India]  — careers-page-read-but-lists-no-openings
-    careers page : https://www.lybrate.com/jobs
-    http status  : 200, 0, 404, 404, 200, 404, 404
-    ATS tried    : lever:lybrate -> no board ; greenhouse:lybrate -> no board ; ashby:lybrate -> no board ; recruitee:lybrate -> no board
 
 >> Lynkit  [India]  — careers-page-read-but-lists-no-openings
     careers page : https://lynkit.in/careers
@@ -1504,6 +1495,10 @@ Total open roles seen       : 2557
 
 >> LEAD School  [India]  — timed-out
     careers page : https://myleadschool.darwinbox.in/jobs
+    http status  : 
+
+>> Lybrate  [India]  — timed-out
+    careers page : https://www.lybrate.com/jobs
     http status  : 
 
 >> Linarc  [India]  — timed-out

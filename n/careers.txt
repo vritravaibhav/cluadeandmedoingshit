@@ -2,17 +2,17 @@
 OPEN ROLES AT 128 "W" COMPANIES
 Looking for : Software Engineer, ~2 years experience
 Priority    : Java, Dart/Flutter        Location preference : India
-Generated   : 2026-08-07 13:29:20 UTC  by test.js
+Generated   : 2026-08-07 15:41:37 UTC  by test.js
 ==============================================================================
 
-Boards read with open roles : 72
+Boards read with open roles : 74
 Boards read, currently empty: 3
-Could not read              : 53
-Total open roles seen       : 2537
+Could not read              : 51
+Total open roles seen       : 2411
 
 ##############################################################################
 # SECTION 1 — MATCHES: Software Engineer + Java/Dart/Flutter + ~2 yrs
-# 17 role(s) across 9 company(s)
+# 15 role(s) across 10 company(s)
 ##############################################################################
 
 >> Netomi  [India]   via lever:netomi
@@ -40,21 +40,9 @@ Total open roles seen       : 2537
       url      : https://www.nelito.com/careers.html
 
 >> Nineleaps  [India]   via feed:https://www.nineleaps.com
-    Full Stack Developer
-      location : n/a   [INDIA]
-      exp req  : 2-5y / 5-8y / 5-6y    stack: Java + Android    score: 100
-      url      : https://www.nineleaps.com/job/full-stack-developer/
-    AI Engineer
-      location : n/a   [INDIA]
-      exp req  : 2-4y / 5-8y    stack: Java + Android    score: 100
-      url      : https://www.nineleaps.com/job/ai-engineer/
-    Software Developer (Golang)
-      location : n/a   [INDIA]
-      exp req  : 4-6y / 5-8y / 2-6y / 6-7y    stack: Java + Android    score: 100
-      url      : https://www.nineleaps.com/job/software-developer-golang/
     Software Developer (Java)
       location : n/a   [INDIA]
-      exp req  : 2-6y / 5-8y / 6-7y    stack: Java + Android    score: 100
+      exp req  : 2-6y / 5-8y / 6-7y    stack: Java    score: 100
       url      : https://www.nineleaps.com/job/software-developer-java/
 
 >> Nimble AppGenie  [India]   via headings:https://www.nimbleappgenie.com/career
@@ -101,15 +89,21 @@ Total open roles seen       : 2537
       exp req  : 1-5y / 4-8y / 4-5y    stack: Java    score: 85
       url      : https://nielseniq.com/global/en/jobs/software-engineer-mid-backend-ai-engineer/
 
+>> Neo4j  [United States]   via greenhouse:neo4j
+    Consulting Engineer
+      location : Remote: San Mateo area
+      exp req  : 3-7y / 2-6y    stack: Java    score: 85
+      url      : https://boards.greenhouse.io/neo4j/jobs/4703011006?gh_jid=4703011006
+
 ##############################################################################
 # SECTION 2 — INDIA: engineering, non-senior, ANY stack
-# 199 role(s). Java/Dart-Flutter still rank highest, but the brief allows
+# 195 role(s). Java/Dart-Flutter still rank highest, but the brief allows
 # any tech stack, so these are the India roles worth a look regardless.
-# 2a: states a window covering ~2 yrs, or states none (132)
-# 2b: states a different window — usually 3-5 yrs (67)
+# 2a: states a window covering ~2 yrs, or states none (131)
+# 2b: states a different window — usually 3-5 yrs (64)
 ##############################################################################
 
--- 2a --------------------------------------------- fits ~2 years (132)
+-- 2a --------------------------------------------- fits ~2 years (131)
 
 >> Netomi
     SDE I - Backend
@@ -130,18 +124,6 @@ Total open roles seen       : 2537
       exp req  : 1-3y / 1-4y / 3-7y    stack: Java    score: 100
       url      : https://www.nelito.com/careers.html
 >> Nineleaps
-    Full Stack Developer
-      location : n/a   [INDIA]
-      exp req  : 2-5y / 5-8y / 5-6y    stack: Java    score: 100
-      url      : https://www.nineleaps.com/job/full-stack-developer/
-    AI Engineer
-      location : n/a   [INDIA]
-      exp req  : 2-4y / 5-8y    stack: Java    score: 100
-      url      : https://www.nineleaps.com/job/ai-engineer/
-    Software Developer (Golang)
-      location : n/a   [INDIA]
-      exp req  : 4-6y / 5-8y / 2-6y / 6-7y    stack: Java    score: 100
-      url      : https://www.nineleaps.com/job/software-developer-golang/
     Software Developer (Java)
       location : n/a   [INDIA]
       exp req  : 2-6y / 5-8y / 6-7y    stack: Java    score: 100
@@ -236,6 +218,19 @@ Total open roles seen       : 2537
       location : n/a   [INDIA]
       exp req  : 2-5y    stack: —    score: 75
       url      : https://www.nelito.com/careers.html
+>> Nineleaps
+    Full Stack Developer
+      location : n/a   [INDIA]
+      exp req  : 2-5y / 5-8y / 5-6y    stack: —    score: 75
+      url      : https://www.nineleaps.com/job/full-stack-developer/
+    AI Engineer
+      location : n/a   [INDIA]
+      exp req  : 2-4y / 5-8y    stack: —    score: 75
+      url      : https://www.nineleaps.com/job/ai-engineer/
+    Software Developer (Golang)
+      location : n/a   [INDIA]
+      exp req  : 4-6y / 5-8y / 2-6y / 6-7y    stack: —    score: 75
+      url      : https://www.nineleaps.com/job/software-developer-golang/
 >> NCrypted Technologies
     Frontend Developer
       location : n/a   [INDIA]
@@ -246,11 +241,6 @@ Total open roles seen       : 2537
       location : Bengaluru, KA   [INDIA]
       exp req  : 1-3y / 3-4y    stack: —    score: 75
       url      : https://nference.keka.com/careers/jobdetails/80158
->> Netskope
-    Systems Engineer
-      location : India   [INDIA]
-      exp req  : 1-2y / 5-9y / 2-3y    stack: —    score: 75
-      url      : https://www.netskope.com/company/careers/open-positions/?gh_jid=7748523
 >> NCR Voyix
     ServiceNow Developer
       location : GURGAON, IND   [INDIA]
@@ -693,7 +683,7 @@ Total open roles seen       : 2537
       exp req  : not stated    stack: —    score: 49
       url      : https://www.nuvei.com/careers
 
--- 2b ------------------------------------ states a wider window (67)
+-- 2b ------------------------------------ states a wider window (64)
 
 >> Nelito Systems
     Java Developer
@@ -709,18 +699,6 @@ Total open roles seen       : 2537
       location : n/a   [INDIA]
       exp req  : 4-6y / 5-8y / 6-7y    stack: Java    score: 82
       url      : https://www.nineleaps.com/job/java-developer/
-    Software Developer (Python)
-      location : n/a   [INDIA]
-      exp req  : 4-6y / 5-8y / 6-7y    stack: Java    score: 82
-      url      : https://www.nineleaps.com/job/software-developer-python/
-    Data Engineer
-      location : n/a   [INDIA]
-      exp req  : 3-6y / 5-8y / 3-7y / 6-7y / 3-4y    stack: Java    score: 82
-      url      : https://www.nineleaps.com/job/data-engineer/
-    React JS Developer
-      location : n/a   [INDIA]
-      exp req  : 4-6y / 5-8y / 4-8y    stack: Java    score: 82
-      url      : https://www.nineleaps.com/job/react-js-developer/
 >> NexTurn
     AI Application Developer
       location : n/a   [INDIA]
@@ -754,11 +732,6 @@ Total open roles seen       : 2537
       location : Remote - India   [INDIA]
       exp req  : 4-6y / 6-7y    stack: Java    score: 82
       url      : https://jobs.lever.co/netomi/7d0633bf-1b16-4a81-a06e-40fb4e911f68
->> Neurealm
-    Jr. Gen AI Engineer
-      location : n/a   [INDIA]
-      exp req  : 3-5y / 5-10y / 3-8y    stack: —    score: 77
-      url      : https://www.neurealm.com/about-us/openings/
 >> Nineleaps
     Java Backend Engineer
       location : n/a   [INDIA]
@@ -769,11 +742,6 @@ Total open roles seen       : 2537
       location : n/a   [INDIA]
       exp req  : 8-12y / 5-9y    stack: Java    score: 70
       url      : https://nexturn.com/careers/
->> Netskope
-    Escalation Engineer
-      location : Bengaluru, Karnataka, India   [INDIA]
-      exp req  : 7-11y    stack: Java    score: 70
-      url      : https://www.netskope.com/company/careers/open-positions/?gh_jid=7418429
 >> NICE
     Specialist Automation Engineer, CX
       location : India - Pune   [INDIA]
@@ -788,15 +756,37 @@ Total open roles seen       : 2537
       exp req  : 8-11y    stack: Java    score: 70
       url      : https://boards.eu.greenhouse.io/nice/jobs/4909045101?gh_jid=4909045101
 >> Neurealm
-    Jr. Python Developer
+    Jr. Gen AI Engineer
       location : n/a   [INDIA]
       exp req  : 3-5y    stack: —    score: 69
+      url      : https://www.neurealm.com/about-us/openings/
+    Jr. Python Developer
+      location : n/a   [INDIA]
+      exp req  : 3-5y / 3-6y    stack: —    score: 69
       url      : https://www.neurealm.com/about-us/openings/
 >> Netomi
     SDE I - Frontend
       location : Gurugram   [INDIA]
       exp req  : 3-4y    stack: —    score: 69
       url      : https://jobs.lever.co/netomi/cdeaeaff-68e0-4889-8bb6-a3b5e4a0819b
+>> Nineleaps
+    Software Developer (Python)
+      location : n/a   [INDIA]
+      exp req  : 4-6y / 5-8y / 6-7y    stack: —    score: 57
+      url      : https://www.nineleaps.com/job/software-developer-python/
+    Data Engineer
+      location : n/a   [INDIA]
+      exp req  : 3-6y / 5-8y / 3-7y / 6-7y / 3-4y    stack: —    score: 57
+      url      : https://www.nineleaps.com/job/data-engineer/
+    React JS Developer
+      location : n/a   [INDIA]
+      exp req  : 4-6y / 5-8y / 4-8y    stack: —    score: 57
+      url      : https://www.nineleaps.com/job/react-js-developer/
+>> Neurealm
+    Dotnet Developer
+      location : n/a   [INDIA]
+      exp req  : 5-8y / 3-5y    stack: —    score: 57
+      url      : https://www.neurealm.com/about-us/openings/
 >> NexTurn
     DevOps Engineer
       location : n/a   [INDIA]
@@ -834,11 +824,6 @@ Total open roles seen       : 2537
       location : n/a   [INDIA]
       exp req  : 4-8y    stack: —    score: 57
       url      : https://nallas.com/careers/principal-python-gen-ai-engineer/
->> Netskope
-    IT Business Application Engineer, Workday & HR Systems
-      location : Bengaluru, Karnataka, India   [INDIA]
-      exp req  : 4-8y    stack: —    score: 57
-      url      : https://www.netskope.com/company/careers/open-positions/?gh_jid=7593876
 >> NCR Atleos
     Network Engineer II
       location : MUMBAI, IND   [INDIA]
@@ -873,15 +858,11 @@ Total open roles seen       : 2537
       location : Gurugram   [INDIA]
       exp req  : 3-5y / 5-6y    stack: —    score: 57
       url      : https://jobs.lever.co/netomi/4fbdaf57-644a-47a6-9248-88fc0bf4a2dd
->> Netskope
-    Channel Solutions Engineer
-      location : India   [INDIA]
-      exp req  : 7-11y    stack: —    score: 53
-      url      : https://www.netskope.com/company/careers/open-positions/?gh_jid=8093633
-    Solutions Engineer
-      location : India   [INDIA]
-      exp req  : 7-11y    stack: —    score: 53
-      url      : https://www.netskope.com/company/careers/open-positions/?gh_jid=8041115
+>> NimbusPost
+    DevOps Engineer
+      location : n/a   [INDIA]
+      exp req  : 5-9y    stack: —    score: 45
+      url      : https://nimbuspost.com/blog/careers/devops-engineer/
 >> NSDL
     Dot Net Developer - DM
       location : n/a   [INDIA]
@@ -892,11 +873,6 @@ Total open roles seen       : 2537
       location : n/a   [INDIA]
       exp req  : 10-14y    stack: —    score: 45
       url      : https://www.nelito.com/careers.html
->> Neurealm
-    Dotnet Developer
-      location : n/a   [INDIA]
-      exp req  : 5-8y    stack: —    score: 45
-      url      : https://www.neurealm.com/about-us/openings/
 >> NexTurn
     Windows Site Reliability Engineer (SRE)
       location : n/a   [INDIA]
@@ -971,7 +947,19 @@ Total open roles seen       : 2537
       location : India - Pune   [INDIA]
       exp req  : 8-12y    stack: —    score: 45
       url      : https://boards.eu.greenhouse.io/nice/jobs/4912888101?gh_jid=4912888101
-    ... and 7 more (see results.json)
+    Specialist Professional Services Engineer
+      location : India - Pune   [INDIA]
+      exp req  : 8-12y    stack: —    score: 45
+      url      : https://boards.eu.greenhouse.io/nice/jobs/4941961101?gh_jid=4941961101
+    Specialist Professional Services Engineer, Actimize
+      location : India - Pune   [INDIA]
+      exp req  : 7-9y / 9-10y    stack: —    score: 45
+      url      : https://boards.eu.greenhouse.io/nice/jobs/4905797101?gh_jid=4905797101
+    Specialist Software Engineer (Python)
+      location : India - Pune   [INDIA]
+      exp req  : 8-12y / 12-13y    stack: —    score: 45
+      url      : https://boards.eu.greenhouse.io/nice/jobs/4928224101?gh_jid=4928224101
+    ... and 4 more (see results.json)
 
 ##############################################################################
 # SECTION 3 — NEAR MATCHES: engineering + Java/Dart/Flutter, non-senior,
@@ -997,23 +985,11 @@ Total open roles seen       : 2537
 >> Nineleaps  [India]   via feed:https://www.nineleaps.com
     Java Developer
       location : n/a   [INDIA]
-      exp req  : 4-6y / 5-8y / 6-7y    stack: Java + Android    score: 82
+      exp req  : 4-6y / 5-8y / 6-7y    stack: Java    score: 82
       url      : https://www.nineleaps.com/job/java-developer/
-    Software Developer (Python)
-      location : n/a   [INDIA]
-      exp req  : 4-6y / 5-8y / 6-7y    stack: Java + Android    score: 82
-      url      : https://www.nineleaps.com/job/software-developer-python/
-    Data Engineer
-      location : n/a   [INDIA]
-      exp req  : 3-6y / 5-8y / 3-7y / 6-7y / 3-4y    stack: Java + Android    score: 82
-      url      : https://www.nineleaps.com/job/data-engineer/
-    React JS Developer
-      location : n/a   [INDIA]
-      exp req  : 4-6y / 5-8y / 4-8y    stack: Java + Android    score: 82
-      url      : https://www.nineleaps.com/job/react-js-developer/
     Java Backend Engineer
       location : n/a   [INDIA]
-      exp req  : 5-11y / 5-8y    stack: Java + Android    score: 70
+      exp req  : 5-11y / 5-8y    stack: Java    score: 70
       url      : https://www.nineleaps.com/job/java-backend-engineer/
 
 >> NEC Software Solutions India  [India]   via smartrecruiters:NECSWS
@@ -1092,12 +1068,6 @@ Total open roles seen       : 2537
       exp req  : 4-6y / 6-7y    stack: Java    score: 82
       url      : https://jobs.lever.co/netomi/7d0633bf-1b16-4a81-a06e-40fb4e911f68
 
->> Netskope  [United States]   via greenhouse:netskope
-    Escalation Engineer
-      location : Bengaluru, Karnataka, India   [INDIA]
-      exp req  : 7-11y    stack: Java    score: 70
-      url      : https://www.netskope.com/company/careers/open-positions/?gh_jid=7418429
-
 >> NCR Atleos  [United States]   via workday:ncratleos
     Software Engineer II
       location : HYDERABAD, IND   [INDIA]
@@ -1175,14 +1145,6 @@ Total open roles seen       : 2537
       location : Washington, D.C.
       exp req  : 3-5y / 5-9y    stack: Java    score: 67
       url      : https://boards.greenhouse.io/neo4j/jobs/4685182006?gh_jid=4685182006
-    Full-Stack Software Engineer - GDS
-      location : Malmö
-      exp req  : not stated    stack: Java    score: 59
-      url      : https://boards.greenhouse.io/neo4j/jobs/4696161006?gh_jid=4696161006
-    Full-Stack Software Engineer - GDS
-      location : London
-      exp req  : not stated    stack: Java    score: 59
-      url      : https://boards.greenhouse.io/neo4j/jobs/4696151006?gh_jid=4696151006
     Software Engineer - Core Database (Kernel)
       location : Malmö
       exp req  : not stated    stack: Java    score: 59
@@ -1195,6 +1157,14 @@ Total open roles seen       : 2537
       location : Malmö
       exp req  : not stated    stack: Java    score: 59
       url      : https://boards.greenhouse.io/neo4j/jobs/4660592006?gh_jid=4660592006
+    Software Engineer - Platform Security
+      location : London
+      exp req  : not stated    stack: Java    score: 59
+      url      : https://boards.greenhouse.io/neo4j/jobs/4687941006?gh_jid=4687941006
+    Software Engineer - Platform Security
+      location : Malmö
+      exp req  : not stated    stack: Java    score: 59
+      url      : https://boards.greenhouse.io/neo4j/jobs/4687943006?gh_jid=4687943006
 
 >> Nexteer Automotive  [United States]   via successfactors:jobs.nexteer.com
     Product Application Engineer Co-op - 2026
@@ -1236,6 +1206,27 @@ Total open roles seen       : 2537
       location : n/a   [INDIA]
       exp req  : not stated    stack: —    score: 49
       url      : https://nuvepro.com/what-is-a-forward-deployed-engineer-the-role-behind-ais-hottest-hiring-trend-and-how-to-build-one/
+
+>> NeoDove  [India]
+    board    : feed:https://neodove.com   —  4 open roles
+    Comment on Telesales: What is it and How To Be Good at it? by What is Telesales (Benefits and tips)
+      location : n/a   [INDIA]
+      exp req  : not stated    stack: —    score: 19
+      url      : https://neodove.com/what-is-telesales/#comment-502
+
+>> Nexverse.ai  [India]
+    board    : headings:https://nexverse.ai/careers   —  5 open roles
+    Marketing Specialist
+      location : n/a   [INDIA]
+      exp req  : not stated    stack: —    score: 19
+      url      : https://nexverse.ai/careers
+
+>> NimbusPost  [India]
+    board    : wordpress:https://nimbuspost.com   —  4 open roles
+    DevOps Engineer
+      location : n/a   [INDIA]
+      exp req  : 5-9y    stack: —    score: 45
+      url      : https://nimbuspost.com/blog/careers/devops-engineer/
 
 >> Neeman's  [India]
     board    : headings:https://neemans.com/pages/careers   —  8 open roles
@@ -1321,10 +1312,10 @@ Total open roles seen       : 2537
 
 >> Nineleaps  [India]
     board    : feed:https://www.nineleaps.com   —  10 open roles
-    Full Stack Developer
+    Software Developer (Java)
       location : n/a   [INDIA]
-      exp req  : 2-5y / 5-8y / 5-6y    stack: Java + Android    score: 100
-      url      : https://www.nineleaps.com/job/full-stack-developer/
+      exp req  : 2-6y / 5-8y / 6-7y    stack: Java    score: 100
+      url      : https://www.nineleaps.com/job/software-developer-java/
 
 >> Niveus Solutions  [India]
     board    : feed:https://niveussolutions.com   —  10 open roles
@@ -1337,18 +1328,18 @@ Total open roles seen       : 2537
     board    : headings:https://www.neurealm.com/about-us/openings/   —  9 open roles
     Jr. Gen AI Engineer
       location : n/a   [INDIA]
-      exp req  : 3-5y / 5-10y / 3-8y    stack: Android    score: 77
+      exp req  : 3-5y    stack: —    score: 69
       url      : https://www.neurealm.com/about-us/openings/
 
 >> Nexdigm  [India]
-    board    : headings:https://www.nexdigm.com/careers/current-openings/   —  22 open roles
+    board    : headings:https://www.nexdigm.com/careers/current-openings/   —  21 open roles
     Trainee - Indirect Tax
       location : n/a   [INDIA]
       exp req  : not stated    stack: —    score: 31
       url      : https://www.nexdigm.com/careers/current-openings/
 
 >> NEC Software Solutions India  [India]
-    board    : smartrecruiters:NECSWS   —  134 open roles
+    board    : smartrecruiters:NECSWS   —  135 open roles
     SSE - Full Stack Developer Support (Java, Angular & ionic)
       location : Mumbai, MH, in   [INDIA]
       exp req  : not stated    stack: Java    score: 74
@@ -1445,13 +1436,6 @@ Total open roles seen       : 2537
       exp req  : 3-7y    stack: —    score: 57
       url      : https://www.nwayerp.com/careers/
 
->> Novatech Software  [India]
-    board    : feed:https://www.novatechsoftware.com   —  10 open roles
-    Celebration 2025
-      location : n/a   [INDIA]
-      exp req  : not stated    stack: —    score: 19
-      url      : https://www.novatechsoftware.com/celebration-2025/
-
 >> Narvar India  [India]
     board    : greenhouse:narvar   —  11 open roles
     Analytics Engineer, Data
@@ -1460,7 +1444,7 @@ Total open roles seen       : 2537
       url      : https://job-boards.greenhouse.io/narvar/jobs/8041580
 
 >> Notion India  [India]
-    board    : ashby:notion   —  123 open roles
+    board    : ashby:notion   —  124 open roles
     Software Engineer, AI Platform
       location : San Francisco, California
       exp req  : 2-4y / 4-5y    stack: —    score: 60
@@ -1558,11 +1542,11 @@ Total open roles seen       : 2537
       url      : https://www.nutanix.com/career
 
 >> Netskope  [United States]
-    board    : greenhouse:netskope   —  142 open roles
-    Systems Engineer
-      location : India   [INDIA]
-      exp req  : 1-2y / 5-9y / 2-3y    stack: —    score: 75
-      url      : https://www.netskope.com/company/careers/open-positions/?gh_jid=7748523
+    board    : feed:https://www.netskope.com   —  10 open roles
+    Netskope Among 3 Highest Ranked Vendors in All Use Cases in Gartner® SASE Critical Capabilities
+      location : n/a
+      exp req  : not stated    stack: —    score: 4
+      url      : https://www.netskope.com/blog/netskope-among-3-highest-ranked-vendors-in-all-use-cases-in-gartner-sase-critical-capabilities
 
 >> New Relic  [United States]
     board    : greenhouse:newrelic   —  57 open roles
@@ -1575,7 +1559,7 @@ Total open roles seen       : 2537
     board    : workday:nxp   —  40 open roles
     Junior DV Engineer
       location : Catania
-      exp req  : 2-6y    stack: —    score: 72
+      exp req  : not stated    stack: —    score: 46
       url      : https://nxp.wd3.myworkdayjobs.com/careers/job/Catania/Junior-Digital-Design-Engineer_R-10063126
 
 >> NTT DATA  [Japan]
@@ -1600,7 +1584,7 @@ Total open roles seen       : 2537
       url      : https://ncr.wd1.myworkdayjobs.com/ext_apac/job/GURGAON-IND/ServiceNow-Developer_R0157632
 
 >> NCR Atleos  [United States]
-    board    : workday:ncratleos   —  29 open roles
+    board    : workday:ncratleos   —  30 open roles
     Infrastructure Ops Engineer I
       location : MUMBAI, IND   [INDIA]
       exp req  : 1-3y    stack: —    score: 87
@@ -1670,11 +1654,11 @@ Total open roles seen       : 2537
       url      : https://www.nasuni.com/about-us/careers/open-positions/?gh_jid=5195595008
 
 >> Neo4j  [United States]
-    board    : greenhouse:neo4j   —  39 open roles
-    Federal Consulting Engineer
-      location : Washington, D.C.
-      exp req  : 3-5y / 5-9y    stack: Java    score: 67
-      url      : https://boards.greenhouse.io/neo4j/jobs/4685182006?gh_jid=4685182006
+    board    : greenhouse:neo4j   —  38 open roles
+    Consulting Engineer
+      location : Remote: San Mateo area
+      exp req  : 3-7y / 2-6y    stack: Java    score: 85
+      url      : https://boards.greenhouse.io/neo4j/jobs/4703011006?gh_jid=4703011006
 
 >> Nasdaq  [United States]
     board    : workday:nasdaq   —  40 open roles
@@ -1698,7 +1682,7 @@ Total open roles seen       : 2537
       url      : https://careers.nomura.com/Nomura/job/Mumbai-Software-Engineer/1201333900/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS
 
 >> Novo Nordisk  [Denmark]
-    board    : successfactors:careers.novonordisk.com   —  51 open roles
+    board    : successfactors:careers.novonordisk.com   —  52 open roles
     Process Engineer I - Printed Packaging Material - SDF
       location : Durham, NC, US
       exp req  : not stated    stack: —    score: 46
@@ -1719,14 +1703,14 @@ Total open roles seen       : 2537
       url      : https://novanta.wd5.myworkdayjobs.com/Novanta-Careers/job/Barcelona-Spain---Keonn/Robotics-Developer_R009558
 
 >> Nike  [United States]
-    board    : workday:nike   —  315 open roles
+    board    : workday:nike   —  316 open roles
     Retail Associate, PT - Nike Baton Rouge (14-29 hours/week)
       location : Baton Rouge, Louisiana
       exp req  : not stated    stack: —    score: 16
       url      : https://nike.wd1.myworkdayjobs.com/nke2/job/Baton-Rouge-Louisiana/Retail-Associate--PT---Nike-Baton-Rouge--14-29-hours-week-_R-89563
 
 ##############################################################################
-# SECTION 5 — NOT READ  (53 of 128)
+# SECTION 5 — NOT READ  (51 of 128)
 # lists-no-openings  = careers page loaded fine, published no vacancies
 # blocked-or-error    = bot wall / dead route (403, 404) — needs a browser
 # unreachable         = domain did not respond at all
@@ -1745,7 +1729,7 @@ Total open roles seen       : 2537
 
 >> Newfold Digital  [United States]  — blocked-or-error-response
     careers page : https://newfold.com/careers
-    http status  : 403, 403, 403, 403, 403, 403
+    http status  : 403, 403, 403, 403
     ATS tried    : greenhouse:newfold -> no board ; lever:newfold -> no board ; ashby:newfold -> no board ; recruitee:newfold -> no board
 
 >> NatWest Group  [United Kingdom]  — blocked-or-error-response
@@ -1787,6 +1771,11 @@ Total open roles seen       : 2537
     careers page : https://www.nxtgen.com/careers
     http status  : 200, 0, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200
     ATS tried    : greenhouse:nxtgendatacentercloud -> no board ; lever:nxtgendatacentercloud -> no board ; ashby:nxtgendatacentercloud -> no board ; recruitee:nxtgendatacentercloud -> no board
+
+>> Novel Patterns  [India]  — careers-page-read-but-lists-no-openings
+    careers page : https://www.novelpatterns.com/careers
+    http status  : 200, 0, 200, 200, 404, 404
+    ATS tried    : greenhouse:novelpatterns -> no board ; lever:novelpatterns -> no board ; ashby:novelpatterns -> no board ; recruitee:novelpatterns -> no board
 
 >> Nawgati  [India]  — careers-page-read-but-lists-no-openings
     careers page : https://www.nawgati.com/careers
@@ -1845,7 +1834,7 @@ Total open roles seen       : 2537
 
 >> Novac Technology Solutions  [India]  — careers-page-read-but-lists-no-openings
     careers page : https://www.novactech.in/careers
-    http status  : 200, 0, 200, 404, 404, 404, 404, 404, 404, 0, 404, 200
+    http status  : 200, 0, 200, 404, 404, 404, 404, 404, 404, 404, 404, 200
     ATS tried    : greenhouse:novac -> no board ; lever:novac -> no board ; ashby:novac -> no board ; recruitee:novac -> no board
 
 >> NextWealth Entrepreneurs  [India]  — careers-page-read-but-lists-no-openings
@@ -1925,12 +1914,12 @@ Total open roles seen       : 2537
 
 >> Nissan Motor India  [India]  — careers-page-read-but-lists-no-openings
     careers page : https://www.nissan.in/careers.html
-    http status  : 200, 0, 200, 404, 404, 404, 404, 200, 404, 404
+    http status  : 200, 0, 200, 404, 404
     ATS tried    : greenhouse:nissan -> no board ; lever:nissan -> no board ; ashby:nissan -> no board ; recruitee:nissan -> no board
 
 >> NOV  [United States]  — careers-page-read-but-lists-no-openings
     careers page : https://www.nov.com/careers
-    http status  : 200, 0, 200, 404, 404, 404, 404
+    http status  : 200, 0, 200, 404, 404, 404
 
 >> NIIT Technologies  [India]  — careers-page-read-but-lists-no-openings
     careers page : undefined
@@ -1960,28 +1949,16 @@ Total open roles seen       : 2537
     careers page : https://neysa.ai/careers/
     http status  : 
 
->> NeoDove  [India]  — timed-out
-    careers page : https://neodove.com/career/
-    http status  : 
-
->> Novel Patterns  [India]  — timed-out
-    careers page : https://www.novelpatterns.com/careers
-    http status  : 
-
->> Nexverse.ai  [India]  — timed-out
-    careers page : https://nexverse.ai/careers/
-    http status  : 
-
->> NimbusPost  [India]  — timed-out
-    careers page : https://nimbuspost.com/careers/
-    http status  : 
-
 >> Nuvama Wealth Management  [India]  — timed-out
     careers page : https://www.nuvama.com/careers
     http status  : 
 
 >> NIIT  [India]  — timed-out
     careers page : https://jobs.niit.com/NIIT/
+    http status  : 
+
+>> Novatech Software  [India]  — timed-out
+    careers page : https://novatechsoftware.com/careers/
     http status  : 
 
 >> Nexright  [Australia]  — timed-out

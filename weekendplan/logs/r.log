@@ -2,64 +2,64 @@ Checking 60 companies (concurrency 8)
 
 [  1/60] Razorpay                      23 jobs  via greenhouse:razorpaysoftwareprivatelimited   ** 2 MATCH **
 [  2/60] Rivigo                       !! careers-page-unreachable
-[  3/60] Reliance Jio                   3 jobs  via headings:https://careers.jio.com/
-[  4/60] Rupeek                        11 jobs  via headings:https://rupeek.com/careers
-[  5/60] Recko                        !! no-job-data-found
-[  6/60] Redbus                       !! careers-page-read-but-lists-no-openings
-[  7/60] Rakuten India                 17 jobs  via workday:rakuten   ** 1 MATCH **
+[  3/60] Rupeek                        11 jobs  via headings:https://rupeek.com/careers
+[  4/60] Reliance Jio                   3 jobs  via headings:https://careers.jio.com/
+[  5/60] Redbus                       !! careers-page-read-but-lists-no-openings
+[  6/60] Recko                        !! no-job-data-found
+[  7/60] Rockwell Automation India     40 jobs  via workday:rockwellautomation
 [  8/60] Rapido                       !! careers-page-read-but-lists-no-openings
-[  9/60] Rockwell Automation India     40 jobs  via workday:rockwellautomation
-[ 10/60] Renew Power                  !! careers-page-unreachable
-[ 11/60] Red Hat India                 40 jobs  via workday:redhat   ** 1 MATCH **
-[ 12/60] RBL Bank                     !! careers-page-read-but-lists-no-openings
-[ 13/60] Rentomojo                    !! careers-page-read-but-lists-no-openings
-[ 14/60] Revolut India                !! blocked-or-error-response
-[ 15/60] Robert Bosch India           !! careers-page-read-but-lists-no-openings
+[  9/60] Renew Power                  !! careers-page-unreachable
+[ 10/60] Rakuten India                 17 jobs  via workday:rakuten   ** 1 MATCH **
+[ 11/60] RBL Bank                     !! careers-page-read-but-lists-no-openings
+[ 12/60] Rentomojo                    !! careers-page-read-but-lists-no-openings
+[ 13/60] Robert Bosch India           !! careers-page-read-but-lists-no-openings
+[ 14/60] Red Hat India                 40 jobs  via workday:redhat   ** 1 MATCH **
+[ 15/60] Revolut India                !! blocked-or-error-response
 [ 16/60] Reltio India                   2 jobs  via headings:https://www.reltio.com/careers/
 [ 17/60] Republic Media               !! careers-page-read-but-lists-no-openings
-[ 18/60] Rupifi                       !! careers-page-read-but-lists-no-openings
-[ 19/60] Rocketlane                    31 jobs  via headings:https://careers.kula.ai/rocketlane
-[ 20/60] Routematic                   !! blocked-or-error-response
-[ 21/60] Roambee                        0 jobs  via zohorecruit:careers.roambee.com (0 open)
-[ 22/60] Rebel Foods                  !! careers-page-unreachable
-[ 23/60] RateGain                     !! blocked-or-error-response
-[ 24/60] Robosoft Technologies         11 jobs  via headings:https://www.robosoftin.com/careers
-[ 25/60] Reveal Health                !! careers-page-read-but-lists-no-openings
-[ 26/60] Raksha Health                !! careers-page-read-but-lists-no-openings
-[ 27/60] Ripik.ai                       4 jobs  via headings:https://www.ripik.ai/careers/
-[ 28/60] Ripplehire                   !! careers-page-read-but-lists-no-openings
-[ 29/60] Rubrik India                 !! careers-page-read-but-lists-no-openings
-[ 30/60] Rasa India                     2 jobs  via ashby:Rasa
-[ 31/60] Ratnaafin                    !! careers-page-read-but-lists-no-openings
-[ 32/60] Ramco Systems                  2 jobs  via headings:https://www.ramco.com/careers
+[ 18/60] Rebel Foods                  !! careers-page-unreachable
+[ 19/60] Rupifi                       !! careers-page-read-but-lists-no-openings
+[ 20/60] Roambee                        0 jobs  via zohorecruit:careers.roambee.com (0 open)
+[ 21/60] Routematic                   !! blocked-or-error-response
+[ 22/60] Rocketlane                    31 jobs  via headings:https://careers.kula.ai/rocketlane
+[ 23/60] Ripplehire                   !! careers-page-read-but-lists-no-openings
+[ 24/60] RateGain                     !! blocked-or-error-response
+[ 25/60] Robosoft Technologies         11 jobs  via headings:https://www.robosoftin.com/careers
+[ 26/60] Reveal Health                !! careers-page-read-but-lists-no-openings
+[ 27/60] Raksha Health                !! careers-page-read-but-lists-no-openings
+[ 28/60] Ripik.ai                       4 jobs  via headings:https://www.ripik.ai/careers/
+[ 29/60] Rasa India                     2 jobs  via ashby:Rasa
+[ 30/60] Rubrik India                 !! careers-page-read-but-lists-no-openings
+[ 31/60] Ramco Systems                  2 jobs  via headings:https://www.ramco.com/careers
+[ 32/60] Ratnaafin                    !! careers-page-read-but-lists-no-openings
 [ 33/60] RCM Business                 !! careers-page-unreachable
 [ 34/60] Rayonier India                14 jobs  via workday:rayonier
 [ 35/60] Rapyder Cloud                  0 jobs  via zohorecruit:careers.rapyder.com (0 open)
 [ 36/60] Razer India                   40 jobs  via workday:razer
-[ 37/60] Reckitt India                 43 jobs  via successfactors:careers.reckitt.com
-[ 38/60] RedSeer                        0 jobs  via zohorecruit:redseer (0 open)
-[ 39/60] Radisys India                !! careers-page-read-but-lists-no-openings
-[ 40/60] Rambus India                  57 jobs  via icims:rambus
-[ 41/60] Reliance Retail              !! no-job-data-found
-[ 42/60] Refyne                       !! no-job-data-found
-[ 43/60] Relevance Lab                 49 jobs  via headings:https://www.relevancelab.com/careers
-[ 44/60] Remedy Health                !! careers-page-unreachable
-[ 45/60] Renovite                     !! careers-page-unreachable
-[ 46/60] Recur Club                     3 jobs  via sitemap:https://www.recurclub.com
+[ 37/60] Rambus India                  57 jobs  via icims:rambus
+[ 38/60] Reckitt India                 43 jobs  via successfactors:careers.reckitt.com
+[ 39/60] RedSeer                        0 jobs  via zohorecruit:redseer (0 open)
+[ 40/60] Reliance Retail              !! no-job-data-found
+[ 41/60] Recur Club                     3 jobs  via sitemap:https://www.recurclub.com
+[ 42/60] Relevance Lab                 49 jobs  via headings:https://www.relevancelab.com/careers
+[ 43/60] Refyne                       !! no-job-data-found
+[ 44/60] Renovite                     !! careers-page-unreachable
+[ 45/60] Remedy Health                !! careers-page-unreachable
+[ 46/60] Radisys India                !! careers-page-read-but-lists-no-openings
 [ 47/60] Regeneron India              !! no-job-data-found
-[ 48/60] RIB Software India           !! blocked-or-error-response
-[ 49/60] Rely                         !! no-job-data-found
-[ 50/60] Ridecell India               !! careers-page-read-but-lists-no-openings
-[ 51/60] Rightpoint India              18 jobs  via jobvite:genpactexperience
-[ 52/60] Rezo.ai                        0 jobs  via zohorecruit:rezo (0 open)
-[ 53/60] Resilinc India               !! careers-page-read-but-lists-no-openings
-[ 54/60] Ruptok                       !! careers-page-unreachable
-[ 55/60] Redington India                3 jobs  via headings:https://redingtongroup.com/careers/
-[ 56/60] Roposo                       !! timed-out
-[ 57/60] RtCamp                        25 jobs  via headings:https://careers.rtcamp.com/
-[ 58/60] RSPL Group                   !! careers-page-read-but-lists-no-openings
-[ 59/60] Rishabh Software             !! careers-page-read-but-lists-no-openings
-[ 60/60] Reveleer India                 8 jobs  via breezy:reveleer
+[ 48/60] Rely                         !! no-job-data-found
+[ 49/60] Ridecell India               !! careers-page-read-but-lists-no-openings
+[ 50/60] RIB Software India           !! blocked-or-error-response
+[ 51/60] Reveleer India                 8 jobs  via breezy:reveleer
+[ 52/60] Rightpoint India              18 jobs  via jobvite:genpactexperience
+[ 53/60] Ruptok                       !! careers-page-unreachable
+[ 54/60] Redington India                3 jobs  via headings:https://redingtongroup.com/careers/
+[ 55/60] Rezo.ai                        0 jobs  via zohorecruit:rezo (0 open)
+[ 56/60] Resilinc India               !! careers-page-read-but-lists-no-openings
+[ 57/60] RSPL Group                   !! careers-page-read-but-lists-no-openings
+[ 58/60] Rishabh Software             !! careers-page-read-but-lists-no-openings
+[ 59/60] Roposo                       !! timed-out
+[ 60/60] RtCamp                         2 jobs  via headings:https://rtcamp.com/join-us
 
   boards read with jobs : 22
   boards read, 0 open   : 4

@@ -95,7 +95,7 @@
         "workable:myvi -> no board"
       ]
     },
-    "ms": 8057
+    "ms": 8801
   },
   {
     "company": "Virtusa",
@@ -119,7 +119,7 @@
         {
           "url": "https://virtusa.com/careers",
           "status": 200,
-          "bytes": 135786
+          "bytes": 137046
         },
         {
           "url": "https://virtusa.com/career",
@@ -142,7 +142,7 @@
         "workable:virtusa -> no board"
       ]
     },
-    "ms": 31527
+    "ms": 32059
   },
   {
     "company": "VMware India",
@@ -207,10 +207,10 @@
         "lever:vmware -> no board",
         "ashby:vmware -> no board",
         "recruitee:vmware -> no board",
-        "workable:vmware -> 0 jobs (guess, name-verified)"
+        "workable:vmware -> no board"
       ]
     },
-    "ms": 27796
+    "ms": 25339
   },
   {
     "company": "Visa India",
@@ -340,42 +340,6 @@
         "score": 48
       },
       {
-        "title": "Sr. Consultant Software Engineer (Java Backend + Gen AI/LLM)",
-        "location": "IN - Bengaluru, India",
-        "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/IN---Bengaluru-India/Software-Engineer---Sr-Consultant-level-4_REF072167W",
-        "india": true,
-        "locationSaysIndia": true,
-        "hasLocation": true,
-        "isEng": true,
-        "java": true,
-        "flutter": false,
-        "senior": true,
-        "exp": [
-          [
-            10,
-            14
-          ],
-          [
-            12,
-            16
-          ],
-          [
-            8,
-            12
-          ],
-          [
-            8,
-            9
-          ],
-          [
-            5,
-            6
-          ]
-        ],
-        "expFits2": false,
-        "score": 48
-      },
-      {
         "title": "Lead Software Engineer – Cloud Native Platforms (GCP)",
         "location": "US - Foster City, CA",
         "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Foster-City-CA/Lead-Software-Engineer_REF083345W",
@@ -476,28 +440,44 @@
         "score": 38
       },
       {
-        "title": "Sr. Software Engineer (3-6 years of experience in Agentic AI / GenAI / LLM / RAG, Python)",
-        "location": "IN - Bengaluru, India",
-        "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/IN---Bengaluru-India/Sr-Software-Engineer--3-6-years-of-experience-in-Agentic-AI---GenAI---LLM---RAG--Python-_REF083442W",
-        "india": true,
-        "locationSaysIndia": true,
+        "title": "Chief SW Engineer",
+        "location": "US - Austin, TX",
+        "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/Chief-SW-Engineer_REF087202W",
+        "india": false,
+        "locationSaysIndia": false,
         "hasLocation": true,
         "isEng": true,
-        "java": false,
+        "java": true,
         "flutter": false,
         "senior": true,
         "exp": [
           [
-            3,
-            6
+            12,
+            16
+          ],
+          [
+            15,
+            19
+          ],
+          [
+            9,
+            13
+          ],
+          [
+            9,
+            10
           ],
           [
             6,
             7
+          ],
+          [
+            12,
+            13
           ]
         ],
         "expFits2": false,
-        "score": 35
+        "score": 33
       },
       {
         "title": "Sr. Manager, Software Engineering",
@@ -524,21 +504,6 @@
         "score": 33
       },
       {
-        "title": "Staff SW Engineer",
-        "location": "IN - Bengaluru, India",
-        "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/IN---Bengaluru-India/Staff-SW-Engineer_REF081658W-1",
-        "india": true,
-        "locationSaysIndia": true,
-        "hasLocation": true,
-        "isEng": true,
-        "java": false,
-        "flutter": false,
-        "senior": true,
-        "exp": [],
-        "expFits2": false,
-        "score": 27
-      },
-      {
         "title": "Analyst",
         "location": "IN - Bengaluru, India",
         "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/IN---Bengaluru-India/Analyst_REF087243W",
@@ -557,21 +522,6 @@
         "title": "Data Science Graduate",
         "location": "GB - London, United Kingdom",
         "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/GB---London-United-Kingdom/Data-Science-Graduate_REF93870J-3",
-        "india": false,
-        "locationSaysIndia": false,
-        "hasLocation": true,
-        "isEng": false,
-        "java": false,
-        "flutter": false,
-        "senior": false,
-        "exp": [],
-        "expFits2": false,
-        "score": 16
-      },
-      {
-        "title": "Technical Support Associate - Workstation Support",
-        "location": "AR - Buenos Aires, Argentina",
-        "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/AR---Buenos-Aires-Argentina/Technical-Support-Associate---Workstation-Support_REF087188W",
         "india": false,
         "locationSaysIndia": false,
         "hasLocation": true,
@@ -614,6 +564,36 @@
         ],
         "expFits2": false,
         "score": 8
+      },
+      {
+        "title": "Risk Management Coordinator - Internal Controls",
+        "location": "BR - São Paulo, Brazil",
+        "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/BR---So-Paulo-Brazil/Risk-Management-Coordinator---Internal-Controls_REF087129W",
+        "india": false,
+        "locationSaysIndia": false,
+        "hasLocation": true,
+        "isEng": false,
+        "java": false,
+        "flutter": false,
+        "senior": false,
+        "exp": [],
+        "expFits2": false,
+        "score": 4
+      },
+      {
+        "title": "Risk Management Coordinator/ Participant Monitoring Coordinator",
+        "location": "BR - São Paulo, Brazil",
+        "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/BR---So-Paulo-Brazil/Risk-Management-Coordinator--Participant-Monitoring-Coordinator_REF087130W",
+        "india": false,
+        "locationSaysIndia": false,
+        "hasLocation": true,
+        "isEng": false,
+        "java": false,
+        "flutter": false,
+        "senior": false,
+        "exp": [],
+        "expFits2": false,
+        "score": 4
       },
       {
         "title": "Digital Sales Representative Analyst",
@@ -676,21 +656,6 @@
         "score": 4
       },
       {
-        "title": "Analyst - Cloud FinOps",
-        "location": "US - Austin, TX",
-        "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/Analyst---Cloud-FinOps_REF078979W",
-        "india": false,
-        "locationSaysIndia": false,
-        "hasLocation": true,
-        "isEng": false,
-        "java": false,
-        "flutter": false,
-        "senior": false,
-        "exp": [],
-        "expFits2": false,
-        "score": 4
-      },
-      {
         "title": "Director, Business Development",
         "location": "IN - Mumbai, India",
         "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/IN---Mumbai-India/Director--Business-Development_REF082829W",
@@ -704,6 +669,51 @@
         "exp": [],
         "expFits2": false,
         "score": -3
+      },
+      {
+        "title": "Senior Managing Counsel",
+        "location": "US - Miami, FL",
+        "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Miami-FL/Senior-Managing-Counsel_REF087193W",
+        "india": false,
+        "locationSaysIndia": false,
+        "hasLocation": true,
+        "isEng": false,
+        "java": false,
+        "flutter": false,
+        "senior": true,
+        "exp": [],
+        "expFits2": false,
+        "score": -18
+      },
+      {
+        "title": "Director, Processor Engagement and Solutions",
+        "location": "3 Locations",
+        "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Foster-City-CA/Director--Processor-Engagement-and-Solutions_REF081688W",
+        "india": false,
+        "locationSaysIndia": false,
+        "hasLocation": true,
+        "isEng": false,
+        "java": false,
+        "flutter": false,
+        "senior": true,
+        "exp": [],
+        "expFits2": false,
+        "score": -18
+      },
+      {
+        "title": "Sr Manager, Visa Consulting & Analytics (VCA) — North America (Nationals)",
+        "location": "US - Ashburn, VA",
+        "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Ashburn-VA/Sr-Manager---Visa-Consulting---Analytics--VCA----North-America--Nationals-_REF087213W",
+        "india": false,
+        "locationSaysIndia": false,
+        "hasLocation": true,
+        "isEng": false,
+        "java": false,
+        "flutter": false,
+        "senior": true,
+        "exp": [],
+        "expFits2": false,
+        "score": -18
       },
       {
         "title": "Sr. Client Consulting Manager (Transformation Specialist)",
@@ -974,21 +984,6 @@
         "exp": [],
         "expFits2": false,
         "score": -18
-      },
-      {
-        "title": "Marketing Services, Senior Manager",
-        "location": "JP - Tokyo, Japan",
-        "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/JP---Tokyo-Japan/Marketing-Services--Senior-Manager_REF087170W",
-        "india": false,
-        "locationSaysIndia": false,
-        "hasLocation": true,
-        "isEng": false,
-        "java": false,
-        "flutter": false,
-        "senior": true,
-        "exp": [],
-        "expFits2": false,
-        "score": -18
       }
     ],
     "enriched": 10,
@@ -1002,6 +997,7 @@
       "text": "About Us Visa is a world leader in payments technology, facilitating transactions between consumers, merchants, financial institutions and government entities across more than 200 countries and territories, dedicated to uplifting everyone, everywhere by being the best way to pay and be paid. At Visa, you'll have the opportunity to create impact at scale — tackling meaningful challenges, growing your skills and seeing your contributions impact lives around the world. Join Visa and do work that matters – to you, to your community, and to the world. Progress starts with you. Job Description Software Development Engineers are expert problem-solvers and builders who design, implement, and improve software applications and systems. In this role, engineers spend approximately 60–75% of their time coding, working hands-on with code, data, and modern tools (including AI-assisted development, cloud services, and automation frameworks) to deliver secure, scalable, and high-quality technology solutions that drive business outcomes in the fintech sector. They collaborate with cross-functional teams – product managers, designers, data scientists, QA, operations, and compliance – to translate business requirements into robust technical solutions, all while adhering to best practices, security standards, and regulatory requirements. All roles require digital fluency, including the ability to work with emerging technologies such as Generative AI tools (e.g. ChatGPT, Microsoft Copilot) to support everyday work. Key Responsibilities: Analyze a requirement to auto-update risk records based on assessment changes Develop a trigger to validate lifecycle status transitions Create a helper class to retrieve related child records and calculate a risk score Fix a production issue where trigger logic fails during bulk data updates Coordinate with QA to validate Java customizations in UAT Review deployment logs and support release migration to production Document technical design and customization details This is a hybrid position. Expectation of days in the office will be confirmed by your Hiring Manager. Qualifications Basic Qualifications: 5+ years of relevant work experience with a Bachelor’s Degree or at least 2 years of work experience with an Advanced degree (e.g. Masters, MBA, JD, MD) or 0 years of work experience with a PhD, OR 8+ years of relevant work experience. Preferred Qualifications: 5+ years of relevant work experience with a Bachelor’s Degree or at least 2 years of work experience with an Advanced degree (e.g. Masters, MBA, JD, MD) or 0 years of work experience with a PhD, OR 8+ years of relevant work experience. 5+ years of relevant work experience with a Bachelor’s Degree or at least 2 years of work experience with an Advanced degree (e.g. Masters, MBA, JD, MD) or 0 years of work experience with a PhD, OR 8+ years of relevant work experience. Experience in software engineering or a directly related field. Experience in developing and/or implementing web-based or mobile applications. Experience in a leadership role with or without direct reports. Experience in technologies/software systems or a directly related field. Experience in creating and maintaining test plans and executing testing procedures. Experience in debugging and troubleshooting software issues. Experience in collaborating with cross-functional teams to deliver technical solutions. Experience in code review and applying coding standards. Experience in building or enhancing developer tools. Experience with OpenPages environment upgrades or migration support Experience with workflow customization Exposure to reporting and analytics Knowledge of financial services, banking, insurance, or regulated industries Experience working in agile delivery models Client-facing consulting experience Mandatory Skills: IBM OpenPages, Java, Triggers, Helpers Experience: 5+ years in OpenPages, strong customization experience.5+ years of experience in IBM OpenPages Strong hands-on Java experience in OpenPages customization Direct project experience in: Trigger development Helper class development Java-based validations and automation Ability to understand business requirements and independently convert them into technical solutions Strong debugging and issue-resolution capability Should have strong experience with AI tools and implementations Visa is an EEO Employer Qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, sexual orientation, gender identity, disability or protected veteran status. Visa will also consider for employment qualified applicants with criminal histories in a manner consistent with EEOC guidelines and applicable local law.",
       "_detail": "https://visa.wd5.myworkdayjobs.com/wday/cxs/visa/Visa/job/IN---Bengaluru-India/Staff-Software-Engineer_REF082021W",
       "_detailKind": "workday",
+      "_enriched": true,
       "score": 78,
       "isMatch": false,
       "isEng": true,
@@ -1043,6 +1039,7 @@
       "text": "About Us Visa is a world leader in payments technology, facilitating transactions between consumers, merchants, financial institutions and government entities across more than 200 countries and territories, dedicated to uplifting everyone, everywhere by being the best way to pay and be paid. At Visa, you'll have the opportunity to create impact at scale — tackling meaningful challenges, growing your skills and seeing your contributions impact lives around the world. Join Visa and do work that matters – to you, to your community, and to the world. Progress starts with you. Job Description Software Development Engineers are expert problem-solvers and builders who design, implement, and improve software applications and systems. In this role, engineers spend approximately 60–75% of their time coding, working hands-on with code, data, and modern tools (including AI-assisted development, cloud services, and automation frameworks) to deliver secure, scalable, and high-quality technology solutions that drive business outcomes in the fintech sector. They collaborate with cross-functional teams – product managers, designers, data scientists, QA, operations, and compliance – to translate business requirements into robust technical solutions, all while adhering to best practices, security standards, and regulatory requirements. All roles require digital fluency, including the ability to work with emerging technologies such as Generative AI tools (e.g. ChatGPT, Microsoft Copilot) to support everyday work. Key Responsibilities: Analyze a requirement to auto-update risk records based on assessment changes Develop a trigger to validate lifecycle status transitions Create a helper class to retrieve related child records and calculate a risk score Fix a production issue where trigger logic fails during bulk data updates Coordinate with QA to validate Java customizations in UAT Review deployment logs and support release migration to production Document technical design and customization details This is a hybrid position. Expectation of days in the office will be confirmed by your Hiring Manager. Qualifications Basic Qualifications: 5+ years of relevant work experience with a Bachelor’s Degree or at least 2 years of work experience with an Advanced degree (e.g. Masters, MBA, JD, MD) or 0 years of work experience with a PhD, OR 8+ years of relevant work experience. Preferred Qualifications: 5+ years of relevant work experience with a Bachelor’s Degree or at least 2 years of work experience with an Advanced degree (e.g. Masters, MBA, JD, MD) or 0 years of work experience with a PhD, OR 8+ years of relevant work experience. 5+ years of relevant work experience with a Bachelor’s Degree or at least 2 years of work experience with an Advanced degree (e.g. Masters, MBA, JD, MD) or 0 years of work experience with a PhD, OR 8+ years of relevant work experience. Experience in software engineering or a directly related field. Experience in developing and/or implementing web-based or mobile applications. Experience in a leadership role with or without direct reports. Experience in technologies/software systems or a directly related field. Experience in creating and maintaining test plans and executing testing procedures. Experience in debugging and troubleshooting software issues. Experience in collaborating with cross-functional teams to deliver technical solutions. Experience in code review and applying coding standards. Experience in building or enhancing developer tools. Experience with OpenPages environment upgrades or migration support Experience with workflow customization Exposure to reporting and analytics Knowledge of financial services, banking, insurance, or regulated industries Experience working in agile delivery models Client-facing consulting experience Mandatory Skills: IBM OpenPages, Java, Triggers, Helpers Experience: 5+ years in OpenPages, strong customization experience.5+ years of experience in IBM OpenPages Strong hands-on Java experience in OpenPages customization Direct project experience in: Trigger development Helper class development Java-based validations and automation Ability to understand business requirements and independently convert them into technical solutions Strong debugging and issue-resolution capability Should have strong experience with AI tools and implementations Visa is an EEO Employer Qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, sexual orientation, gender identity, disability or protected veteran status. Visa will also consider for employment qualified applicants with criminal histories in a manner consistent with EEOC guidelines and applicable local law.",
       "_detail": "https://visa.wd5.myworkdayjobs.com/wday/cxs/visa/Visa/job/IN---Bengaluru-India/Staff-Software-Engineer_REF082021W",
       "_detailKind": "workday",
+      "_enriched": true,
       "score": 78,
       "isMatch": false,
       "isEng": true,
@@ -1163,30 +1160,15 @@
         "workday:visa -> 40 jobs"
       ]
     },
-    "ms": 11604
+    "ms": 12768
   },
   {
     "company": "Volvo India",
     "country": "India",
     "source": "successfactors:jobs.volvogroup.com",
     "error": null,
-    "totalJobs": 61,
+    "totalJobs": 60,
     "jobs": [
-      {
-        "title": "Intern: AI Engineering (Fall 2026)",
-        "location": "Greensboro, NC, US, 27409",
-        "url": "https://jobs.volvogroup.com/job/Greensboro-Intern-AI-Engineering-%28Fall-2026%29-NC-27409/1362730555/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-        "india": false,
-        "locationSaysIndia": false,
-        "hasLocation": true,
-        "isEng": true,
-        "java": true,
-        "flutter": false,
-        "senior": false,
-        "exp": [],
-        "expFits2": false,
-        "score": 71
-      },
       {
         "title": "Developer Platform Engineer",
         "location": "Venissieux, FR, 69200",
@@ -1287,21 +1269,6 @@
         "score": 34
       },
       {
-        "title": "Graduate Apprentice Trainee",
-        "location": "Bangalore, IN, 562122",
-        "url": "https://jobs.volvogroup.com/job/Bangalore-Graduate-Apprentice-Trainee-562122/1356401855/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-        "india": true,
-        "locationSaysIndia": true,
-        "hasLocation": true,
-        "isEng": false,
-        "java": false,
-        "flutter": false,
-        "senior": false,
-        "exp": [],
-        "expFits2": false,
-        "score": 31
-      },
-      {
         "title": "Logistics Engineer Remanufacturing",
         "location": "Shanghai, CN, 201206",
         "url": "https://jobs.volvogroup.com/job/Shanghai-Logistics-Engineer-Remanufacturing-201206/1359738655/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
@@ -1324,30 +1291,6 @@
         ],
         "expFits2": false,
         "score": 30
-      },
-      {
-        "title": "Senior /Supplier quality engineer",
-        "location": "Bangalore, IN, 562122",
-        "url": "https://jobs.volvogroup.com/job/Bangalore-Senior-Supplier-quality-engineer-562122/1363011455/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-        "india": true,
-        "locationSaysIndia": true,
-        "hasLocation": true,
-        "isEng": true,
-        "java": false,
-        "flutter": false,
-        "senior": true,
-        "exp": [
-          [
-            8,
-            15
-          ],
-          [
-            15,
-            16
-          ]
-        ],
-        "expFits2": false,
-        "score": 23
       },
       {
         "title": "No jobs currently available - Check out our other opportunities.",
@@ -1503,6 +1446,26 @@
         "score": 12
       },
       {
+        "title": "Quality Engineer III",
+        "location": "Hagerstown, MD, US, 21742",
+        "url": "https://jobs.volvogroup.com/job/Hagerstown-Quality-Engineer-III-MD-21742/1363227255/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+        "india": false,
+        "locationSaysIndia": false,
+        "hasLocation": true,
+        "isEng": true,
+        "java": false,
+        "flutter": false,
+        "senior": true,
+        "exp": [
+          [
+            5,
+            6
+          ]
+        ],
+        "expFits2": false,
+        "score": 8
+      },
+      {
         "title": "Transfer Pricing Compliance Professional - Volvo Group",
         "location": "Göteborg, SE, 417 15",
         "url": "https://jobs.volvogroup.com/job/G%C3%B6teborg-Transfer-Pricing-Compliance-Professional-Volvo-Group-417-15/1359943855/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
@@ -1521,6 +1484,21 @@
         "title": "Parts Interpreter",
         "location": "Prestons, NSW, AU, 2170",
         "url": "https://jobs.volvogroup.com/job/Prestons-Parts-Interpreter-NSW-2170/1351931455/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+        "india": false,
+        "locationSaysIndia": false,
+        "hasLocation": true,
+        "isEng": false,
+        "java": false,
+        "flutter": false,
+        "senior": false,
+        "exp": [],
+        "expFits2": false,
+        "score": 4
+      },
+      {
+        "title": "Warehouse Quality Coordinator",
+        "location": "Rugby, GB, CV21 1DZ",
+        "url": "https://jobs.volvogroup.com/job/Rugby-Warehouse-Quality-Coordinator-CV21-1DZ/1363322655/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
         "india": false,
         "locationSaysIndia": false,
         "hasLocation": true,
@@ -1581,21 +1559,6 @@
         "title": "Stagiaire - Procédés Mécanique",
         "location": "Sainte-Claire, Quebec, CA, G0R 2V0",
         "url": "https://jobs.volvogroup.com/job/Sainte-Claire-Stagiaire-Proc%C3%A9d%C3%A9s-M%C3%A9canique-Queb-G0R-2V0/1354763755/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-        "india": false,
-        "locationSaysIndia": false,
-        "hasLocation": true,
-        "isEng": false,
-        "java": false,
-        "flutter": false,
-        "senior": false,
-        "exp": [],
-        "expFits2": false,
-        "score": 4
-      },
-      {
-        "title": "Co-op: Supply Chain Optimization (Fall 2026)",
-        "location": "Greensboro, NC, US, 27409",
-        "url": "https://jobs.volvogroup.com/job/Greensboro-Co-op-Supply-Chain-Optimization-%28Fall-2026%29-NC-27409/1363048855/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
         "india": false,
         "locationSaysIndia": false,
         "hasLocation": true,
@@ -1863,6 +1826,21 @@
         "score": 4
       },
       {
+        "title": "Warehouse Clerk",
+        "location": "Goodlettsville, TN, US, 37072",
+        "url": "https://jobs.volvogroup.com/job/Goodlettsville-Warehouse-Clerk-TN-37072/1363330155/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+        "india": false,
+        "locationSaysIndia": false,
+        "hasLocation": true,
+        "isEng": false,
+        "java": false,
+        "flutter": false,
+        "senior": false,
+        "exp": [],
+        "expFits2": false,
+        "score": 4
+      },
+      {
         "title": "HGV Technician - Felixstowe",
         "location": "Felixstowe, GB, IP11 3HZ",
         "url": "https://jobs.volvogroup.com/job/Felixstowe-HGV-Technician-Felixstowe-IP11-3HZ/1327684855/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
@@ -1908,21 +1886,6 @@
         "score": 4
       },
       {
-        "title": "HGV Technician - Teesside",
-        "location": "Teesside, GB, TS18 2RF",
-        "url": "https://jobs.volvogroup.com/job/Teesside-HGV-Technician-Teesside-TS18-2RF/1351878955/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-        "india": false,
-        "locationSaysIndia": false,
-        "hasLocation": true,
-        "isEng": false,
-        "java": false,
-        "flutter": false,
-        "senior": false,
-        "exp": [],
-        "expFits2": false,
-        "score": 4
-      },
-      {
         "title": "Digital Product Area Owner",
         "location": "Wroclaw, PL, 51-502",
         "url": "https://jobs.volvogroup.com/job/Wroclaw-Digital-Product-Area-Owner-51-502/1363190155/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
@@ -1956,6 +1919,21 @@
         "title": "Customer Service Coordinator - Czech + other Eastern language",
         "location": "Oostakker, BE, 9041",
         "url": "https://jobs.volvogroup.com/job/Oostakker-Customer-Service-Coordinator-Czech-%2B-other-Eastern-language-9041/1354716355/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+        "india": false,
+        "locationSaysIndia": false,
+        "hasLocation": true,
+        "isEng": false,
+        "java": false,
+        "flutter": false,
+        "senior": false,
+        "exp": [],
+        "expFits2": false,
+        "score": 4
+      },
+      {
+        "title": "Co-op: Supply Chain Optimization (Fall 2026)",
+        "location": "Greensboro, NC, US, 27409",
+        "url": "https://jobs.volvogroup.com/job/Greensboro-Co-op-Supply-Chain-Optimization-%28Fall-2026%29-NC-27409/1363048855/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
         "india": false,
         "locationSaysIndia": false,
         "hasLocation": true,
@@ -2172,26 +2150,7 @@
       }
     ],
     "enriched": 0,
-    "matches": [
-      {
-        "title": "Intern: AI Engineering (Fall 2026)",
-        "location": "Greensboro, NC, US, 27409",
-        "url": "https://jobs.volvogroup.com/job/Greensboro-Intern-AI-Engineering-%28Fall-2026%29-NC-27409/1362730555/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-        "team": "",
-        "text": "Transport is at the core of modern society. Imagine using your expertise to shape sustainable transport and infrastructure solutions for the future. If you seek to make a difference on a global scale, working with next-gen technologies and the sharpest collaborative teams, then we could be a perfect match. What you will do As an intern, you will play a crucial role in advancing AI initiatives at VFS North America by supporting the development, deployment, and continuous improvement of AI-powered solutions. You will leverage Generative AI capabilities to solve business problems, prototype innovative ideas, and help deliver intelligent solutions that create business value. Some of the tasks you will perform include: Data Analysis: Review and analyze large datasets to identify patterns, trends, and opportunities that improve AI solutions and support business decision-making. Generative AI Solutions: Leverage Generative AI capabilities to solve business problems, develop proof-of-concepts, and build innovative AI-driven solutions that enhance business processes and user experiences. AI Development: Collaborate with engineering and AI teams to develop, train, evaluate, and refine machine learning and Generative AI solutions, including applications that generate product content, classify information, and automate business processes. Testing and Validation: Conduct rigorous testing of AI solutions to ensure accuracy, reliability, and effectiveness. Evaluate AI-generated outputs, identify opportunities for improvement, and assist in optimizing model performance. Documentation: Maintain clear documentation of development activities, model performance, prompts, workflows, and technical changes to support knowledge sharing and continuous improvement. Collaboration: Work closely with cross-functional teams, including engineering, product management, marketing, and business stakeholders, to understand requirements and ensure AI solutions align with business objectives. Continuous Improvement: Stay current with emerging trends in artificial intelligence, machine learning, and Generative AI, and actively contribute ideas that improve solution quality, business value, and user experience. This internship offers a unique opportunity to gain hands-on experience designing, developing, and improving AI solutions while working alongside experienced professionals on projects that deliver meaningful business impact. Who are you? You have a passion for artificial intelligence and are excited to explore how Generative AI can solve real-world business problems. You have hands-on experience with AI technologies through coursework, personal projects, research, hackathons, or previous internships. Experience with Generative AI tools, APIs, or AI-powered applications is a plus. You have experience with one or more programming languages such as Python, Java, C#, JavaScript, or similar, and understand the importance of writing clean, maintainable, and well-documented code. You enjoy learning new technologies, experimenting with new ideas, and continuously improving your technical skills. You are naturally curious, enjoy solving complex problems, and can think critically to translate business needs into technical solutions. You are detail-oriented, organized, and take ownership of your work from concept through completion. You communicate technical concepts clearly and effectively, both verbally and in writing, and enjoy collaborating with cross-functional teams. You are patient, approachable, and enjoy sharing knowledge while learning from others. Applicants must be currently enrolled in and pursuing a degree in Computer Science, Information Technology, Software Engineering, Data Science, Artificial Intelligence, or a related technical discipline at an accredited institution and have completed at least 30 semester hours prior to the start of the internship. Must be in good academic standing with a cumulative GPA of at least 2.75. Summer interns may work up to 40 hours per week. What’s in it for you? Work alongside experienced AI engineers and technology professionals who are passionate about mentoring and helping you grow. Gain hands-on experience designing, developing, and improving enterprise AI and Generative AI solutions that address real business challenges. Contribute to projects that have a meaningful impact on the business while collaborating with product, engineering, and business teams. Build practical experience with modern software development practices, Agile methodologies, and collaborative engineering workflows. Expand your technical and professional skills through mentorship, training, and exposure to real-world enterprise technology initiatives. If you're looking for an opportunity to apply what you've learned in the classroom, work with emerging AI technologies, and make a meaningful contribution while accelerating your career, we'd love to hear from you. At the Volvo Group, we strive for a clear, transparent, and straightforward compensation approach, motivating you to contribute to the company’s growth. For all intern and co-op positions, the hourly range is set at $17.00 - $46.00. The hourly rate for these roles is determined by several factors including, but not limited to, geographic location, academic classification, and degree seeking area of study. In addition to these factors, we believe in the importance of pay equity and consider internal equity of our current team members as part of any final offer. We also offer the following benefits to interns and co-ops: • Housing assistance, when applicable • Countless career opportunities / internal mobility across our global organization • Training and personal development All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, national origin, disability, or status as a protected veteran. We value your data privacy and therefore do not accept applications via mail. Who we are and what we believe in We are committed to shaping the future landscape of efficient, safe, and sustainable transport solutions. Fulfilling our mission creates countless career opportunities for talents across the group’s leading brands and entities. Applying to this job offers you the opportunity to join Volvo Group . Every day, you will be working with some of the sharpest and most creative brains in our field to be able to leave our society in better shape for the next generation. ​We are passionate about what we do, and we thrive on teamwork. ​We are almost 100,000 people united around the world by a culture of care, inclusiveness, and empowerment. At Volvo Financial Services , we are working together to shape the world we want to live in. As the captive finance arm of the Volvo Group, VFS provides financial services and solutions that meet the needs of our customers’ evolving business. Through our dedication to innovation, we support society in its adoption of sustainable transport and equipment solutions. VFS is headquartered in Gothenburg, Sweden, and serves Volvo Group customers and dealers in more than 50 markets. What’s in it for you? We offer a solid and competitive package of compensation and benefits, plus you will enjoy a diverse working environment with a culture of care and inclusion. As an investment, we support your personal development and growth to achieve your career aspirations. Volvo Financial Services is an on-site business and we understand that you might need occasional or temporary flexibility, which your leader is equipped to manage and fits well to our culture, as being together enables us to build upon our innovative and collaborative culture, as well as develop you for continued success.",
-        "score": 71,
-        "isMatch": true,
-        "isEng": true,
-        "java": true,
-        "flutter": false,
-        "android": false,
-        "india": false,
-        "senior": false,
-        "junior": true,
-        "exp": [],
-        "expFits2": false
-      }
-    ],
+    "matches": [],
     "nearMatches": [
       {
         "title": "Developer Platform Engineer",
@@ -2231,38 +2190,38 @@
       }
     ],
     "closest": {
-      "title": "Intern: AI Engineering (Fall 2026)",
-      "location": "Greensboro, NC, US, 27409",
-      "url": "https://jobs.volvogroup.com/job/Greensboro-Intern-AI-Engineering-%28Fall-2026%29-NC-27409/1362730555/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+      "title": "Developer Platform Engineer",
+      "location": "Venissieux, FR, 69200",
+      "url": "https://jobs.volvogroup.com/job/Venissieux-Developer-Platform-Engineer-69200/1359777555/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
       "team": "",
-      "text": "Transport is at the core of modern society. Imagine using your expertise to shape sustainable transport and infrastructure solutions for the future. If you seek to make a difference on a global scale, working with next-gen technologies and the sharpest collaborative teams, then we could be a perfect match. What you will do As an intern, you will play a crucial role in advancing AI initiatives at VFS North America by supporting the development, deployment, and continuous improvement of AI-powered solutions. You will leverage Generative AI capabilities to solve business problems, prototype innovative ideas, and help deliver intelligent solutions that create business value. Some of the tasks you will perform include: Data Analysis: Review and analyze large datasets to identify patterns, trends, and opportunities that improve AI solutions and support business decision-making. Generative AI Solutions: Leverage Generative AI capabilities to solve business problems, develop proof-of-concepts, and build innovative AI-driven solutions that enhance business processes and user experiences. AI Development: Collaborate with engineering and AI teams to develop, train, evaluate, and refine machine learning and Generative AI solutions, including applications that generate product content, classify information, and automate business processes. Testing and Validation: Conduct rigorous testing of AI solutions to ensure accuracy, reliability, and effectiveness. Evaluate AI-generated outputs, identify opportunities for improvement, and assist in optimizing model performance. Documentation: Maintain clear documentation of development activities, model performance, prompts, workflows, and technical changes to support knowledge sharing and continuous improvement. Collaboration: Work closely with cross-functional teams, including engineering, product management, marketing, and business stakeholders, to understand requirements and ensure AI solutions align with business objectives. Continuous Improvement: Stay current with emerging trends in artificial intelligence, machine learning, and Generative AI, and actively contribute ideas that improve solution quality, business value, and user experience. This internship offers a unique opportunity to gain hands-on experience designing, developing, and improving AI solutions while working alongside experienced professionals on projects that deliver meaningful business impact. Who are you? You have a passion for artificial intelligence and are excited to explore how Generative AI can solve real-world business problems. You have hands-on experience with AI technologies through coursework, personal projects, research, hackathons, or previous internships. Experience with Generative AI tools, APIs, or AI-powered applications is a plus. You have experience with one or more programming languages such as Python, Java, C#, JavaScript, or similar, and understand the importance of writing clean, maintainable, and well-documented code. You enjoy learning new technologies, experimenting with new ideas, and continuously improving your technical skills. You are naturally curious, enjoy solving complex problems, and can think critically to translate business needs into technical solutions. You are detail-oriented, organized, and take ownership of your work from concept through completion. You communicate technical concepts clearly and effectively, both verbally and in writing, and enjoy collaborating with cross-functional teams. You are patient, approachable, and enjoy sharing knowledge while learning from others. Applicants must be currently enrolled in and pursuing a degree in Computer Science, Information Technology, Software Engineering, Data Science, Artificial Intelligence, or a related technical discipline at an accredited institution and have completed at least 30 semester hours prior to the start of the internship. Must be in good academic standing with a cumulative GPA of at least 2.75. Summer interns may work up to 40 hours per week. What’s in it for you? Work alongside experienced AI engineers and technology professionals who are passionate about mentoring and helping you grow. Gain hands-on experience designing, developing, and improving enterprise AI and Generative AI solutions that address real business challenges. Contribute to projects that have a meaningful impact on the business while collaborating with product, engineering, and business teams. Build practical experience with modern software development practices, Agile methodologies, and collaborative engineering workflows. Expand your technical and professional skills through mentorship, training, and exposure to real-world enterprise technology initiatives. If you're looking for an opportunity to apply what you've learned in the classroom, work with emerging AI technologies, and make a meaningful contribution while accelerating your career, we'd love to hear from you. At the Volvo Group, we strive for a clear, transparent, and straightforward compensation approach, motivating you to contribute to the company’s growth. For all intern and co-op positions, the hourly range is set at $17.00 - $46.00. The hourly rate for these roles is determined by several factors including, but not limited to, geographic location, academic classification, and degree seeking area of study. In addition to these factors, we believe in the importance of pay equity and consider internal equity of our current team members as part of any final offer. We also offer the following benefits to interns and co-ops: • Housing assistance, when applicable • Countless career opportunities / internal mobility across our global organization • Training and personal development All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, national origin, disability, or status as a protected veteran. We value your data privacy and therefore do not accept applications via mail. Who we are and what we believe in We are committed to shaping the future landscape of efficient, safe, and sustainable transport solutions. Fulfilling our mission creates countless career opportunities for talents across the group’s leading brands and entities. Applying to this job offers you the opportunity to join Volvo Group . Every day, you will be working with some of the sharpest and most creative brains in our field to be able to leave our society in better shape for the next generation. ​We are passionate about what we do, and we thrive on teamwork. ​We are almost 100,000 people united around the world by a culture of care, inclusiveness, and empowerment. At Volvo Financial Services , we are working together to shape the world we want to live in. As the captive finance arm of the Volvo Group, VFS provides financial services and solutions that meet the needs of our customers’ evolving business. Through our dedication to innovation, we support society in its adoption of sustainable transport and equipment solutions. VFS is headquartered in Gothenburg, Sweden, and serves Volvo Group customers and dealers in more than 50 markets. What’s in it for you? We offer a solid and competitive package of compensation and benefits, plus you will enjoy a diverse working environment with a culture of care and inclusion. As an investment, we support your personal development and growth to achieve your career aspirations. Volvo Financial Services is an on-site business and we understand that you might need occasional or temporary flexibility, which your leader is equipped to manage and fits well to our culture, as being together enables us to build upon our innovative and collaborative culture, as well as develop you for continued success.",
-      "score": 71,
-      "isMatch": true,
+      "text": "Transport is at the core of modern society. Imagine using your expertise to shape sustainable transport and infrastructure solutions for the future. If you seek to make a difference on a global scale, working with next-gen technologies and the sharpest collaborative teams, then we could be a perfect match. Opportunity Are you motivated by working with people, cool technologies and being part of a team that has a high impact on enabling strong insights for both IT Management and IT Technicians into operational stability? Then we might have something that will catch your attention. We are looking for a Senior Developer Platform Engineer to join our Onsite Digital Solutions team . In this role, you will take ownership of our monitoring and automation platform, driving innovation and ensuring operational excellence. You will take part in shaping our monitoring strategy, building scalable digital solutions, and mentor colleagues as we advance our automation and observability capabilities. Wanted profile As a person you are curious and eager to understand and learn. You enjoy making things smarter and easier for people that receive your deliveries, automating things for them where possible. You are driven by reaching goals, and you are motivated by seeing challenge in front of you. You recognize that different problems require different tools to solve them and are eager to master new tools. Most importantly, you are solution-oriented, meaning you focus on the entire delivery-chain. You share a belief that we are stronger together and understand and recognize importance of that for achieving remarkable results. In practice this means having an open mindset when discussing solutions with your peers in the team and in the organization, when you either challenge colleagues, or colleagues will challenge you to optimize deliveries. As our primary task is to ensure that we can maintain a high level of insight to the health state of our production lines through monitoring, we will find it beneficial if you have prior experience with IT environment of production and warehouse facilities, be it infrastructure or applications. It would also be an advantage if you have a good technical understanding of infrastructure, as it always imposes constraints on what and how we monitor. Key responsibilities Drive the design, configuration, and optimization of our monitoring and automation platform. Define and implement best practices for observability, monitoring, and alerting for our users. Develop advanced automation workflows and tools to reduce manual effort and increase reliability for both our users and us. Architect and code missing capabilities for our platform, including integrations with hardware and systems being monitored, business platforms. Collaborate with developers, operations, and product teams to deliver end-to-end digital solutions. Act as a technical expert and advisor, guiding colleagues and stakeholders. Mentor junior engineers and contribute to knowledge-sharing across the organization. Play a key role in shaping the roadmap for monitoring, automation, and digital services. Qualifications Development background with proficiency in at least couple of programming languages (i.e.: C#, JavaScript, Go, Python, Java, or similar). Acquaintance with Azure DevOps, ability to create and leverage its pipelines and associated infrastructure. Experience building and working with containerized workloads. Scripting and automation skills (Python, Bash, Power Automate or similar). Good knowledge of networking and IT infrastructure and associated protocols. Excellent problem-solving and analytical abilities. Strong communicator with the ability to influence and guide others. Familiarity with working in an agile team. Preferred skills Experience with Data analysis and reporting (Power BI) Experience contributing to architecture or solution design in cross-functional teams. Hands-on experience with Zabbix would be good but not a must. What we offer A senior role with influence on the direction of our automation and monitoring strategy. Opportunities to apply both your development and operations experience in a hybrid role. A collaborative environment with the freedom to innovate. Ready for the next step? If you are ready to take on a challenge in a dynamic environment and have a curious mind eager to contribute to creating tomorrow's transport and digital service solutions, we welcome your application! Last application date: 31st of August 2026 Application screening will start immediately; we look forward to receiving your application as soon as possible. Timing: ASAP We value your data privacy and therefore do not accept applications via mail. Who we are and what we believe in We are committed to shaping the future landscape of efficient, safe, and sustainable transport solutions. Fulfilling our mission creates countless career opportunities for talents across the group’s leading brands and entities. Applying to this job offers you the opportunity to join Volvo Group . Every day, you will be working with some of the sharpest and most creative brains in our field to be able to leave our society in better shape for the next generation. ​We are passionate about what we do, and we thrive on teamwork. ​We are almost 100,000 people united around the world by a culture of care, inclusiveness, and empowerment. Group Digital & IT is the hub for digital development within Volvo Group. Imagine yourself working with cutting-edge technologies in a global team, represented in more than 30 countries. We are dedicated to leading the way of tomorrow’s transport solutions, guided by a strong customer mindset and high level of curiosity, both as individuals and as a team. Here, you will thrive in your career in an environment where your voice is heard and your ideas matter.",
+      "score": 59,
+      "isMatch": false,
       "isEng": true,
       "java": true,
       "flutter": false,
       "android": false,
       "india": false,
       "senior": false,
-      "junior": true,
+      "junior": false,
       "exp": [],
       "expFits2": false
     },
     "closestEng": {
-      "title": "Intern: AI Engineering (Fall 2026)",
-      "location": "Greensboro, NC, US, 27409",
-      "url": "https://jobs.volvogroup.com/job/Greensboro-Intern-AI-Engineering-%28Fall-2026%29-NC-27409/1362730555/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+      "title": "Developer Platform Engineer",
+      "location": "Venissieux, FR, 69200",
+      "url": "https://jobs.volvogroup.com/job/Venissieux-Developer-Platform-Engineer-69200/1359777555/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
       "team": "",
-      "text": "Transport is at the core of modern society. Imagine using your expertise to shape sustainable transport and infrastructure solutions for the future. If you seek to make a difference on a global scale, working with next-gen technologies and the sharpest collaborative teams, then we could be a perfect match. What you will do As an intern, you will play a crucial role in advancing AI initiatives at VFS North America by supporting the development, deployment, and continuous improvement of AI-powered solutions. You will leverage Generative AI capabilities to solve business problems, prototype innovative ideas, and help deliver intelligent solutions that create business value. Some of the tasks you will perform include: Data Analysis: Review and analyze large datasets to identify patterns, trends, and opportunities that improve AI solutions and support business decision-making. Generative AI Solutions: Leverage Generative AI capabilities to solve business problems, develop proof-of-concepts, and build innovative AI-driven solutions that enhance business processes and user experiences. AI Development: Collaborate with engineering and AI teams to develop, train, evaluate, and refine machine learning and Generative AI solutions, including applications that generate product content, classify information, and automate business processes. Testing and Validation: Conduct rigorous testing of AI solutions to ensure accuracy, reliability, and effectiveness. Evaluate AI-generated outputs, identify opportunities for improvement, and assist in optimizing model performance. Documentation: Maintain clear documentation of development activities, model performance, prompts, workflows, and technical changes to support knowledge sharing and continuous improvement. Collaboration: Work closely with cross-functional teams, including engineering, product management, marketing, and business stakeholders, to understand requirements and ensure AI solutions align with business objectives. Continuous Improvement: Stay current with emerging trends in artificial intelligence, machine learning, and Generative AI, and actively contribute ideas that improve solution quality, business value, and user experience. This internship offers a unique opportunity to gain hands-on experience designing, developing, and improving AI solutions while working alongside experienced professionals on projects that deliver meaningful business impact. Who are you? You have a passion for artificial intelligence and are excited to explore how Generative AI can solve real-world business problems. You have hands-on experience with AI technologies through coursework, personal projects, research, hackathons, or previous internships. Experience with Generative AI tools, APIs, or AI-powered applications is a plus. You have experience with one or more programming languages such as Python, Java, C#, JavaScript, or similar, and understand the importance of writing clean, maintainable, and well-documented code. You enjoy learning new technologies, experimenting with new ideas, and continuously improving your technical skills. You are naturally curious, enjoy solving complex problems, and can think critically to translate business needs into technical solutions. You are detail-oriented, organized, and take ownership of your work from concept through completion. You communicate technical concepts clearly and effectively, both verbally and in writing, and enjoy collaborating with cross-functional teams. You are patient, approachable, and enjoy sharing knowledge while learning from others. Applicants must be currently enrolled in and pursuing a degree in Computer Science, Information Technology, Software Engineering, Data Science, Artificial Intelligence, or a related technical discipline at an accredited institution and have completed at least 30 semester hours prior to the start of the internship. Must be in good academic standing with a cumulative GPA of at least 2.75. Summer interns may work up to 40 hours per week. What’s in it for you? Work alongside experienced AI engineers and technology professionals who are passionate about mentoring and helping you grow. Gain hands-on experience designing, developing, and improving enterprise AI and Generative AI solutions that address real business challenges. Contribute to projects that have a meaningful impact on the business while collaborating with product, engineering, and business teams. Build practical experience with modern software development practices, Agile methodologies, and collaborative engineering workflows. Expand your technical and professional skills through mentorship, training, and exposure to real-world enterprise technology initiatives. If you're looking for an opportunity to apply what you've learned in the classroom, work with emerging AI technologies, and make a meaningful contribution while accelerating your career, we'd love to hear from you. At the Volvo Group, we strive for a clear, transparent, and straightforward compensation approach, motivating you to contribute to the company’s growth. For all intern and co-op positions, the hourly range is set at $17.00 - $46.00. The hourly rate for these roles is determined by several factors including, but not limited to, geographic location, academic classification, and degree seeking area of study. In addition to these factors, we believe in the importance of pay equity and consider internal equity of our current team members as part of any final offer. We also offer the following benefits to interns and co-ops: • Housing assistance, when applicable • Countless career opportunities / internal mobility across our global organization • Training and personal development All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, national origin, disability, or status as a protected veteran. We value your data privacy and therefore do not accept applications via mail. Who we are and what we believe in We are committed to shaping the future landscape of efficient, safe, and sustainable transport solutions. Fulfilling our mission creates countless career opportunities for talents across the group’s leading brands and entities. Applying to this job offers you the opportunity to join Volvo Group . Every day, you will be working with some of the sharpest and most creative brains in our field to be able to leave our society in better shape for the next generation. ​We are passionate about what we do, and we thrive on teamwork. ​We are almost 100,000 people united around the world by a culture of care, inclusiveness, and empowerment. At Volvo Financial Services , we are working together to shape the world we want to live in. As the captive finance arm of the Volvo Group, VFS provides financial services and solutions that meet the needs of our customers’ evolving business. Through our dedication to innovation, we support society in its adoption of sustainable transport and equipment solutions. VFS is headquartered in Gothenburg, Sweden, and serves Volvo Group customers and dealers in more than 50 markets. What’s in it for you? We offer a solid and competitive package of compensation and benefits, plus you will enjoy a diverse working environment with a culture of care and inclusion. As an investment, we support your personal development and growth to achieve your career aspirations. Volvo Financial Services is an on-site business and we understand that you might need occasional or temporary flexibility, which your leader is equipped to manage and fits well to our culture, as being together enables us to build upon our innovative and collaborative culture, as well as develop you for continued success.",
-      "score": 71,
-      "isMatch": true,
+      "text": "Transport is at the core of modern society. Imagine using your expertise to shape sustainable transport and infrastructure solutions for the future. If you seek to make a difference on a global scale, working with next-gen technologies and the sharpest collaborative teams, then we could be a perfect match. Opportunity Are you motivated by working with people, cool technologies and being part of a team that has a high impact on enabling strong insights for both IT Management and IT Technicians into operational stability? Then we might have something that will catch your attention. We are looking for a Senior Developer Platform Engineer to join our Onsite Digital Solutions team . In this role, you will take ownership of our monitoring and automation platform, driving innovation and ensuring operational excellence. You will take part in shaping our monitoring strategy, building scalable digital solutions, and mentor colleagues as we advance our automation and observability capabilities. Wanted profile As a person you are curious and eager to understand and learn. You enjoy making things smarter and easier for people that receive your deliveries, automating things for them where possible. You are driven by reaching goals, and you are motivated by seeing challenge in front of you. You recognize that different problems require different tools to solve them and are eager to master new tools. Most importantly, you are solution-oriented, meaning you focus on the entire delivery-chain. You share a belief that we are stronger together and understand and recognize importance of that for achieving remarkable results. In practice this means having an open mindset when discussing solutions with your peers in the team and in the organization, when you either challenge colleagues, or colleagues will challenge you to optimize deliveries. As our primary task is to ensure that we can maintain a high level of insight to the health state of our production lines through monitoring, we will find it beneficial if you have prior experience with IT environment of production and warehouse facilities, be it infrastructure or applications. It would also be an advantage if you have a good technical understanding of infrastructure, as it always imposes constraints on what and how we monitor. Key responsibilities Drive the design, configuration, and optimization of our monitoring and automation platform. Define and implement best practices for observability, monitoring, and alerting for our users. Develop advanced automation workflows and tools to reduce manual effort and increase reliability for both our users and us. Architect and code missing capabilities for our platform, including integrations with hardware and systems being monitored, business platforms. Collaborate with developers, operations, and product teams to deliver end-to-end digital solutions. Act as a technical expert and advisor, guiding colleagues and stakeholders. Mentor junior engineers and contribute to knowledge-sharing across the organization. Play a key role in shaping the roadmap for monitoring, automation, and digital services. Qualifications Development background with proficiency in at least couple of programming languages (i.e.: C#, JavaScript, Go, Python, Java, or similar). Acquaintance with Azure DevOps, ability to create and leverage its pipelines and associated infrastructure. Experience building and working with containerized workloads. Scripting and automation skills (Python, Bash, Power Automate or similar). Good knowledge of networking and IT infrastructure and associated protocols. Excellent problem-solving and analytical abilities. Strong communicator with the ability to influence and guide others. Familiarity with working in an agile team. Preferred skills Experience with Data analysis and reporting (Power BI) Experience contributing to architecture or solution design in cross-functional teams. Hands-on experience with Zabbix would be good but not a must. What we offer A senior role with influence on the direction of our automation and monitoring strategy. Opportunities to apply both your development and operations experience in a hybrid role. A collaborative environment with the freedom to innovate. Ready for the next step? If you are ready to take on a challenge in a dynamic environment and have a curious mind eager to contribute to creating tomorrow's transport and digital service solutions, we welcome your application! Last application date: 31st of August 2026 Application screening will start immediately; we look forward to receiving your application as soon as possible. Timing: ASAP We value your data privacy and therefore do not accept applications via mail. Who we are and what we believe in We are committed to shaping the future landscape of efficient, safe, and sustainable transport solutions. Fulfilling our mission creates countless career opportunities for talents across the group’s leading brands and entities. Applying to this job offers you the opportunity to join Volvo Group . Every day, you will be working with some of the sharpest and most creative brains in our field to be able to leave our society in better shape for the next generation. ​We are passionate about what we do, and we thrive on teamwork. ​We are almost 100,000 people united around the world by a culture of care, inclusiveness, and empowerment. Group Digital & IT is the hub for digital development within Volvo Group. Imagine yourself working with cutting-edge technologies in a global team, represented in more than 30 countries. We are dedicated to leading the way of tomorrow’s transport solutions, guided by a strong customer mindset and high level of curiosity, both as individuals and as a team. Here, you will thrive in your career in an environment where your voice is heard and your ideas matter.",
+      "score": 59,
+      "isMatch": false,
       "isEng": true,
       "java": true,
       "flutter": false,
       "android": false,
       "india": false,
       "senior": false,
-      "junior": true,
+      "junior": false,
       "exp": [],
       "expFits2": false
     },
@@ -2277,52 +2236,52 @@
         {
           "url": "https://volvo.com/careers",
           "status": 200,
-          "bytes": 99148
+          "bytes": 99147
         },
         {
           "url": "https://volvo.com/career",
           "status": 200,
-          "bytes": 99148
+          "bytes": 99147
         },
         {
           "url": "https://volvo.com/jobs",
           "status": 200,
-          "bytes": 99148
+          "bytes": 99147
         },
         {
           "url": "https://volvo.com/join-us",
           "status": 200,
-          "bytes": 99148
+          "bytes": 99147
         },
         {
           "url": "https://volvo.com/join-our-team",
           "status": 200,
-          "bytes": 99148
+          "bytes": 99147
         },
         {
           "url": "https://volvo.com/careers.html",
           "status": 200,
-          "bytes": 99148
+          "bytes": 99147
         },
         {
           "url": "https://volvo.com/company/careers",
           "status": 200,
-          "bytes": 99148
+          "bytes": 99147
         },
         {
           "url": "https://volvo.com/about/careers",
           "status": 200,
-          "bytes": 99148
+          "bytes": 99147
         },
         {
           "url": "https://volvo.com/current-openings",
           "status": 200,
-          "bytes": 99148
+          "bytes": 99147
         },
         {
           "url": "https://volvo.com/",
           "status": 200,
-          "bytes": 99148
+          "bytes": 99147
         },
         {
           "url": "https://jobs.volvogroup.com/",
@@ -2350,10 +2309,10 @@
         "workable:volvo(guess)"
       ],
       "attempts": [
-        "successfactors:jobs.volvogroup.com -> 61 jobs"
+        "successfactors:jobs.volvogroup.com -> 60 jobs"
       ]
     },
-    "ms": 13203
+    "ms": 12099
   },
   {
     "company": "Vedantu",
@@ -2441,7 +2400,7 @@
         "workable:vedantu -> no board"
       ]
     },
-    "ms": 10326
+    "ms": 7407
   },
   {
     "company": "Vymo",
@@ -2529,7 +2488,7 @@
         "workable:vymo -> no board"
       ]
     },
-    "ms": 6653
+    "ms": 5445
   },
   {
     "company": "Vahan",
@@ -2582,7 +2541,7 @@
         "workable:vahan -> no board"
       ]
     },
-    "ms": 23147
+    "ms": 33417
   },
   {
     "company": "Valuelabs",
@@ -2640,7 +2599,7 @@
         "workable:valuelabs -> no board"
       ]
     },
-    "ms": 40315
+    "ms": 41218
   },
   {
     "company": "Vanguard India",
@@ -2811,7 +2770,7 @@
         "workable:vanguard -> no board"
       ]
     },
-    "ms": 24480
+    "ms": 18074
   },
   {
     "company": "Varian India",
@@ -3004,19 +2963,24 @@
         "score": 30
       },
       {
-        "title": "Research Intern",
-        "location": "PCT",
-        "url": "https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/PCT/Research-Intern_R-29802",
+        "title": "SAP ME/MII developer",
+        "location": "PUN MIC T 3",
+        "url": "https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/PUN-MIC-T-3/SAP-ME-MII-developer_R-29681",
         "india": false,
         "locationSaysIndia": false,
         "hasLocation": true,
-        "isEng": false,
+        "isEng": true,
         "java": false,
         "flutter": false,
         "senior": false,
-        "exp": [],
+        "exp": [
+          [
+            7,
+            11
+          ]
+        ],
         "expFits2": false,
-        "score": 16
+        "score": 30
       },
       {
         "title": "Manufacturing Technician (2nd Shift)",
@@ -3094,6 +3058,66 @@
         "score": 4
       },
       {
+        "title": "Analista Contábil Sênior",
+        "location": "JUN A",
+        "url": "https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/JUN-A/Accounting-Professional_R-29728",
+        "india": false,
+        "locationSaysIndia": false,
+        "hasLocation": true,
+        "isEng": false,
+        "java": false,
+        "flutter": false,
+        "senior": false,
+        "exp": [],
+        "expFits2": false,
+        "score": 4
+      },
+      {
+        "title": "Field Service Representative",
+        "location": "YOW C",
+        "url": "https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/YOW-C/Field-Service-Representative_R-28401",
+        "india": false,
+        "locationSaysIndia": false,
+        "hasLocation": true,
+        "isEng": false,
+        "java": false,
+        "flutter": false,
+        "senior": false,
+        "exp": [],
+        "expFits2": false,
+        "score": 4
+      },
+      {
+        "title": "Manufacturing Technician",
+        "location": "RKF C",
+        "url": "https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/RKF-C/Manufacturing-Technician_R-29897",
+        "india": false,
+        "locationSaysIndia": false,
+        "hasLocation": true,
+        "isEng": false,
+        "java": false,
+        "flutter": false,
+        "senior": false,
+        "exp": [],
+        "expFits2": false,
+        "score": 4
+      },
+      {
+        "title": "Manufacturing Technician",
+        "location": "RKF C",
+        "url": "https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/RKF-C/Manufacturing-Technician_R-29896-1",
+        "india": false,
+        "locationSaysIndia": false,
+        "hasLocation": true,
+        "isEng": false,
+        "java": false,
+        "flutter": false,
+        "senior": false,
+        "exp": [],
+        "expFits2": false,
+        "score": 4
+      },
+      {
         "title": "Dosimetrist",
         "location": "ATL G",
         "url": "https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/ATL-G/Dosimetrist_R-29926",
@@ -3112,21 +3136,6 @@
         "title": "Field Service Technician - HW - Blacksburg, VA",
         "location": "CHO R",
         "url": "https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/CHO-R/Field-Service-Technician---HW---Blacksburg--VA_R-27989-1",
-        "india": false,
-        "locationSaysIndia": false,
-        "hasLocation": true,
-        "isEng": false,
-        "java": false,
-        "flutter": false,
-        "senior": false,
-        "exp": [],
-        "expFits2": false,
-        "score": 4
-      },
-      {
-        "title": "Analista Financeiro Sênior",
-        "location": "JUN A",
-        "url": "https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/JUN-A/Accounting-Professional_R-29728",
         "india": false,
         "locationSaysIndia": false,
         "hasLocation": true,
@@ -3229,51 +3238,6 @@
         "score": 4
       },
       {
-        "title": "Floor Assembly Technician- Electronic",
-        "location": "RKF C",
-        "url": "https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/RKF-C/Floor-Assembly-Technician--Electronic_R-29888",
-        "india": false,
-        "locationSaysIndia": false,
-        "hasLocation": true,
-        "isEng": false,
-        "java": false,
-        "flutter": false,
-        "senior": false,
-        "exp": [],
-        "expFits2": false,
-        "score": 4
-      },
-      {
-        "title": "Sales and Customer Support Specialist with German (maternity cover)",
-        "location": "BUD IJ",
-        "url": "https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/BUD-IJ/Sales-and-Customer-Support-Specialist-with-German--maternity-cover-_R-29590-1",
-        "india": false,
-        "locationSaysIndia": false,
-        "hasLocation": true,
-        "isEng": false,
-        "java": false,
-        "flutter": false,
-        "senior": false,
-        "exp": [],
-        "expFits2": false,
-        "score": 4
-      },
-      {
-        "title": "Accounting Specialist",
-        "location": "SOF A 91",
-        "url": "https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/SOF-A-91/Accounting-Specialist_R-27778-1",
-        "india": false,
-        "locationSaysIndia": false,
-        "hasLocation": true,
-        "isEng": false,
-        "java": false,
-        "flutter": false,
-        "senior": false,
-        "exp": [],
-        "expFits2": false,
-        "score": 4
-      },
-      {
         "title": "Regional Service Manager - Manhattan, NY",
         "location": "CYA GR",
         "url": "https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/CYA-GR/Regional-Service-Manager---Manhattan--NY_R-29621-1",
@@ -3322,6 +3286,36 @@
         "title": "Senior AI/ML Scientist – Cardiovascular AI",
         "location": "PCT",
         "url": "https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/PCT/Senior-AI-ML-Scientist---Cardiovascular-AI_R-28111-1",
+        "india": false,
+        "locationSaysIndia": false,
+        "hasLocation": true,
+        "isEng": false,
+        "java": false,
+        "flutter": false,
+        "senior": true,
+        "exp": [],
+        "expFits2": false,
+        "score": -18
+      },
+      {
+        "title": "Solution architect for product ontology and digital twins",
+        "location": "MLV LB",
+        "url": "https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/MLV-LB/Solution-architect-for-product-ontology-and-digital-twins_R-29879-1",
+        "india": false,
+        "locationSaysIndia": false,
+        "hasLocation": true,
+        "isEng": false,
+        "java": false,
+        "flutter": false,
+        "senior": true,
+        "exp": [],
+        "expFits2": false,
+        "score": -18
+      },
+      {
+        "title": "Sr. Medical Physicist (Santa Fe, NM) - Sign-On Bonus",
+        "location": "PHX EC",
+        "url": "https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/PHX-EC/Jr-Medical-Physicist--Onsite---Santa-Fe--NM-_R-22683",
         "india": false,
         "locationSaysIndia": false,
         "hasLocation": true,
@@ -3437,39 +3431,9 @@
         "exp": [],
         "expFits2": false,
         "score": -18
-      },
-      {
-        "title": "Tax Manager",
-        "location": "2 Locations",
-        "url": "https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/WAP-C/Tax-Manager_R-29822",
-        "india": false,
-        "locationSaysIndia": false,
-        "hasLocation": true,
-        "isEng": false,
-        "java": false,
-        "flutter": false,
-        "senior": true,
-        "exp": [],
-        "expFits2": false,
-        "score": -18
-      },
-      {
-        "title": "DX Head of Regions Quality Management and Regulatory Affairs",
-        "location": "TAR B",
-        "url": "https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/TAR-B/Head-of-Regions-Quality-Management-and-Regulatory-Affairs_R-29857",
-        "india": false,
-        "locationSaysIndia": false,
-        "hasLocation": true,
-        "isEng": false,
-        "java": false,
-        "flutter": false,
-        "senior": true,
-        "exp": [],
-        "expFits2": false,
-        "score": -18
       }
     ],
-    "enriched": 9,
+    "enriched": 10,
     "matches": [],
     "nearMatches": [],
     "closest": {
@@ -3480,6 +3444,7 @@
       "text": "Join us in pioneering breakthroughs in healthcare. For everyone. Everywhere. Sustainably. Our inspiring and caring environment forms a global community that celebrates diversity and individuality. We encourage you to step beyond your comfort zone, offering resources and flexibility to foster your professional and personal growth, all while valuing your unique contributions. • Service Area – Dallas/ Fort Worth, TX • Shift Requirements after onboarding/training for this role: M-F, 8:00 AM – 5:00 PM This is a role well suited to an ambitious professional, looking for the next step in their career. As a Customer Service Engineer, you will be responsible for : You will be servicing XP Imaging Equipment in the Dallas/ Fort Worth ( E ast Texas) area. Customer Service Engineer Level based on prior experience. You will be responsible for installing, troubleshooting, repairing and performing preventative maintenance on all Siemens Healthcare systems at customer sites with minimal supervision. You will be responsible for delivering both timely and effective repairs as well as adequate training of operators to ensure optimal system performance, resulting in superior customer satisfaction. You will manage financial performance within their territory, meeting or exceeding budget for revenue generation, expense control and inventory management. You will manage company assets to include a company car, cell phone, computer, tools, inventory parts, etc. Establish and maintain proper business relationships with customers and peers, as well as performing necessary administrative duties accurately. This position may suit you best if you are familiar with what is below, and would like to do develop your career with Healthineers You have knowledge and experience performing service, preventative maintenance and modifications on Medical Imaging Equipment at customer sites with minimal supervision. You have the ability and experience to establish and maintain proper business relationships with customers and peers, as well as performing necessary administrative duties accurately. You have experience in testing, repairing and maintaining capital medical equipment. You have strong customer service and communication skills. You are proficient in the use of tools and service test equipment. General understanding of the principles of electricity, power supplies, and grounding. Required skills to have for the success of this role Minimum high school diploma; technical Associates Degree or equivalent preferred. Must be proficient in the use of tools and service test equipment, with the ability to work both individually and in an established team setting. Proficiency in all necessary network applications and tools (including but not limited to eVO, mButler, MS Office applications, Concur, NAM Customer Service website—Engineer Tools). 2+ years' experience as a medical technologist or field service engineer (biomedical engineer) servicing diagnostic instruments needed. Valid driver's license, ability to drive independently day and night, and good driving record required. Physical Requirements: Lifting 50lbs (floor to above waist/head), walking, ladder/stepstool climbing, bending, twisting, sitting work, squatting work, standing work, high-reach, fine grasping manipulation, good vision, and ability to work alone. Must demonstrate excellent judgment in customer relations and in managing company resources; strong competency in instrument systems technology to include mechanics, electrical, chemistry, and software technology; experience with electronics, hydraulic and pneumatic systems. This role is governed by our Fleet Safety Policy. To be eligible for employment, applicants must hold a valid driver’s license in the state they reside and may not have any prior DUI/DWI convictions or pending DUI/DWI charges or other serious moving violations (unless such a restriction is prohibited by state/local law). Who we are : We are a team of more than 72,000 highly dedicated Healthineers in more than 70 countries. As a leader in medical technology, we constantly push the boundaries to create better outcomes and experiences for patients, no matter where they live or what health issues they are facing. Our portfolio is crucial for clinical decision-making and treatment pathways. How we work: When you join Siemens Healthineers, you become one in a global team of scientists, clinicians, developers, researchers, professionals, and skilled specialists, who believe in each individual’s potential to contribute with diverse ideas. We are from different backgrounds, cultures, religions, political and/or sexual orientations, and work together, to fight the world’s most threatening diseases and enable access to care, united by one purpose: to pioneer breakthroughs in healthcare. For everyone. Everywhere. Sustainably. To find out more about Siemens Healthineers businesses, please visit our company page here . The base pay range for this position is: $55,230 - $75,944 Factors which may affect starting pay within this range may include geography/market, skills, education, experience, and other qualifications of the successful candidate. If this is a commission eligible position the commission eligibility will be in accordance with the terms of the Company's plan. Commissions are based on individual performance and/or company performance. The Company offers the following benefits for this position, subject to applicable eligibility requirements: medical insurance, dental insurance, vision insurance, 401(k) retirement plan. life insurance, long-term and short-term disability insurance, paid parking/public transportation, paid time off, paid sick and safe time. Position must have full access to Siemens Healthineers' client sites to perform the essential functions of this position. Many clients require Siemens Healthineers employees and representatives to meet certain Vendor Credentialing requirements before they will be allowed to have access to their sites. Unless prohibited by law, position must meet all Vendor Credentialing requirements necessary to have full client access and must continue to meet those requirements during the course of employment in this position. These requirements vary by client and may include, but are not limited to: Proof of valid identification (photo, driver's license, SSN) Criminal background checks Drug screens Immunizations (COVID-19, Hep B, MMR, Varicella, Influenza, Tetanus) Annual TB testing Healthcare training. Equal Employment Opportunity Statement: Siemens Healthineers is an Equal Opportunity and Affirmative Action Employer encouraging diversity in the workplace. All qualified applicants will receive consideration for employment without regard to their race, color, creed, religion, national origin, citizenship status, ancestry, sex, age, physical or mental disability unrelated to ability, marital status, family responsibilities, pregnancy, genetic information, sexual orientation, gender expression, gender identity, transgender, sex stereotyping, order of protection status, protected veteran or military status, or an unfavorable discharge from military service, and other categories protected by federal, state or local law. EEO is the Law: Applicants and employees are protected under Federal law from discrimination. To learn more, Click here . Reasonable Accommodations: Siemens Healthineers is committed to equal employment opportunity. As part of this commitment, we will ensure that persons with disabilities are provided reasonable accommodations. If you require a reasonable accommodation in completing a job application, interviewing, completing any pre-employment testing, or otherwise participating in the employee selection process, please fill out the accommodations form here . If you’re unable to complete the form, you can reach out to our HR People Connect People Contact Center for support at peopleconnectvendorsnam.func@siemens-healthineers.com. Please note HR People Connect People Contact Center will not have visibility of your application or interview status. California Privacy Notice: California residents have the right to receive additional notices about their personal information. To learn more, click here . Export Control: “A successful candidate must be able to work with controlled technology in accordance with US export control law.” “It is Siemens Healthineers’ policy to comply fully and completely with all United States export control laws and regulations, including those implemented by the Department of Commerce through the Export Administration Regulations (EAR), by the Department of State through the International Traffic in Arms Regulations (ITAR), and by the Treasury Department through the Office of Foreign Assets Control (OFAC) sanctions regulations.” Data Privacy: We care about your data privacy and take compliance with GDPR as well as other data protection legislation seriously. For this reason, we ask you not to send us your CV or resume by email. We ask instead that you create a profile in our talent community where you can upload your CV. Setting up a profile lets us know you are interested in career opportunities with us and makes it easy for us to send you an alert when relevant positions become open. Register here to get started. Beware of Job Scams: Please beware of potentially fraudulent job postings or suspicious recruiting activity by persons that are currently posing as Siemens Healthineers recruiters/employees. These scammers may attempt to collect your confidential personal or financial information. If you are concerned that an offer of employment with Siemens Healthineers might be a scam or that the recruiter is not legitimate, please verify by searching for the posting on the Siemens Healthineers career site. To all recruitment agencies: Siemens Healthineers does not accept agency resumes. Please do not forward resumes to our jobs alias, employees, or any other company location. Siemens Healthineers is not responsible for any fees related to unsolicited resumes.",
       "_detail": "https://onehealthineers.wd3.myworkdayjobs.com/wday/cxs/onehealthineers/SHSJB/job/DAL-A/Medical-Imaging-Field-Engineer---Dallas---Fort-Worth--TX_R-29420-1",
       "_detailKind": "workday",
+      "_enriched": true,
       "score": 60,
       "isMatch": false,
       "isEng": true,
@@ -3505,6 +3470,7 @@
       "text": "Join us in pioneering breakthroughs in healthcare. For everyone. Everywhere. Sustainably. Our inspiring and caring environment forms a global community that celebrates diversity and individuality. We encourage you to step beyond your comfort zone, offering resources and flexibility to foster your professional and personal growth, all while valuing your unique contributions. • Service Area – Dallas/ Fort Worth, TX • Shift Requirements after onboarding/training for this role: M-F, 8:00 AM – 5:00 PM This is a role well suited to an ambitious professional, looking for the next step in their career. As a Customer Service Engineer, you will be responsible for : You will be servicing XP Imaging Equipment in the Dallas/ Fort Worth ( E ast Texas) area. Customer Service Engineer Level based on prior experience. You will be responsible for installing, troubleshooting, repairing and performing preventative maintenance on all Siemens Healthcare systems at customer sites with minimal supervision. You will be responsible for delivering both timely and effective repairs as well as adequate training of operators to ensure optimal system performance, resulting in superior customer satisfaction. You will manage financial performance within their territory, meeting or exceeding budget for revenue generation, expense control and inventory management. You will manage company assets to include a company car, cell phone, computer, tools, inventory parts, etc. Establish and maintain proper business relationships with customers and peers, as well as performing necessary administrative duties accurately. This position may suit you best if you are familiar with what is below, and would like to do develop your career with Healthineers You have knowledge and experience performing service, preventative maintenance and modifications on Medical Imaging Equipment at customer sites with minimal supervision. You have the ability and experience to establish and maintain proper business relationships with customers and peers, as well as performing necessary administrative duties accurately. You have experience in testing, repairing and maintaining capital medical equipment. You have strong customer service and communication skills. You are proficient in the use of tools and service test equipment. General understanding of the principles of electricity, power supplies, and grounding. Required skills to have for the success of this role Minimum high school diploma; technical Associates Degree or equivalent preferred. Must be proficient in the use of tools and service test equipment, with the ability to work both individually and in an established team setting. Proficiency in all necessary network applications and tools (including but not limited to eVO, mButler, MS Office applications, Concur, NAM Customer Service website—Engineer Tools). 2+ years' experience as a medical technologist or field service engineer (biomedical engineer) servicing diagnostic instruments needed. Valid driver's license, ability to drive independently day and night, and good driving record required. Physical Requirements: Lifting 50lbs (floor to above waist/head), walking, ladder/stepstool climbing, bending, twisting, sitting work, squatting work, standing work, high-reach, fine grasping manipulation, good vision, and ability to work alone. Must demonstrate excellent judgment in customer relations and in managing company resources; strong competency in instrument systems technology to include mechanics, electrical, chemistry, and software technology; experience with electronics, hydraulic and pneumatic systems. This role is governed by our Fleet Safety Policy. To be eligible for employment, applicants must hold a valid driver’s license in the state they reside and may not have any prior DUI/DWI convictions or pending DUI/DWI charges or other serious moving violations (unless such a restriction is prohibited by state/local law). Who we are : We are a team of more than 72,000 highly dedicated Healthineers in more than 70 countries. As a leader in medical technology, we constantly push the boundaries to create better outcomes and experiences for patients, no matter where they live or what health issues they are facing. Our portfolio is crucial for clinical decision-making and treatment pathways. How we work: When you join Siemens Healthineers, you become one in a global team of scientists, clinicians, developers, researchers, professionals, and skilled specialists, who believe in each individual’s potential to contribute with diverse ideas. We are from different backgrounds, cultures, religions, political and/or sexual orientations, and work together, to fight the world’s most threatening diseases and enable access to care, united by one purpose: to pioneer breakthroughs in healthcare. For everyone. Everywhere. Sustainably. To find out more about Siemens Healthineers businesses, please visit our company page here . The base pay range for this position is: $55,230 - $75,944 Factors which may affect starting pay within this range may include geography/market, skills, education, experience, and other qualifications of the successful candidate. If this is a commission eligible position the commission eligibility will be in accordance with the terms of the Company's plan. Commissions are based on individual performance and/or company performance. The Company offers the following benefits for this position, subject to applicable eligibility requirements: medical insurance, dental insurance, vision insurance, 401(k) retirement plan. life insurance, long-term and short-term disability insurance, paid parking/public transportation, paid time off, paid sick and safe time. Position must have full access to Siemens Healthineers' client sites to perform the essential functions of this position. Many clients require Siemens Healthineers employees and representatives to meet certain Vendor Credentialing requirements before they will be allowed to have access to their sites. Unless prohibited by law, position must meet all Vendor Credentialing requirements necessary to have full client access and must continue to meet those requirements during the course of employment in this position. These requirements vary by client and may include, but are not limited to: Proof of valid identification (photo, driver's license, SSN) Criminal background checks Drug screens Immunizations (COVID-19, Hep B, MMR, Varicella, Influenza, Tetanus) Annual TB testing Healthcare training. Equal Employment Opportunity Statement: Siemens Healthineers is an Equal Opportunity and Affirmative Action Employer encouraging diversity in the workplace. All qualified applicants will receive consideration for employment without regard to their race, color, creed, religion, national origin, citizenship status, ancestry, sex, age, physical or mental disability unrelated to ability, marital status, family responsibilities, pregnancy, genetic information, sexual orientation, gender expression, gender identity, transgender, sex stereotyping, order of protection status, protected veteran or military status, or an unfavorable discharge from military service, and other categories protected by federal, state or local law. EEO is the Law: Applicants and employees are protected under Federal law from discrimination. To learn more, Click here . Reasonable Accommodations: Siemens Healthineers is committed to equal employment opportunity. As part of this commitment, we will ensure that persons with disabilities are provided reasonable accommodations. If you require a reasonable accommodation in completing a job application, interviewing, completing any pre-employment testing, or otherwise participating in the employee selection process, please fill out the accommodations form here . If you’re unable to complete the form, you can reach out to our HR People Connect People Contact Center for support at peopleconnectvendorsnam.func@siemens-healthineers.com. Please note HR People Connect People Contact Center will not have visibility of your application or interview status. California Privacy Notice: California residents have the right to receive additional notices about their personal information. To learn more, click here . Export Control: “A successful candidate must be able to work with controlled technology in accordance with US export control law.” “It is Siemens Healthineers’ policy to comply fully and completely with all United States export control laws and regulations, including those implemented by the Department of Commerce through the Export Administration Regulations (EAR), by the Department of State through the International Traffic in Arms Regulations (ITAR), and by the Treasury Department through the Office of Foreign Assets Control (OFAC) sanctions regulations.” Data Privacy: We care about your data privacy and take compliance with GDPR as well as other data protection legislation seriously. For this reason, we ask you not to send us your CV or resume by email. We ask instead that you create a profile in our talent community where you can upload your CV. Setting up a profile lets us know you are interested in career opportunities with us and makes it easy for us to send you an alert when relevant positions become open. Register here to get started. Beware of Job Scams: Please beware of potentially fraudulent job postings or suspicious recruiting activity by persons that are currently posing as Siemens Healthineers recruiters/employees. These scammers may attempt to collect your confidential personal or financial information. If you are concerned that an offer of employment with Siemens Healthineers might be a scam or that the recruiter is not legitimate, please verify by searching for the posting on the Siemens Healthineers career site. To all recruitment agencies: Siemens Healthineers does not accept agency resumes. Please do not forward resumes to our jobs alias, employees, or any other company location. Siemens Healthineers is not responsible for any fees related to unsolicited resumes.",
       "_detail": "https://onehealthineers.wd3.myworkdayjobs.com/wday/cxs/onehealthineers/SHSJB/job/DAL-A/Medical-Imaging-Field-Engineer---Dallas---Fort-Worth--TX_R-29420-1",
       "_detailKind": "workday",
+      "_enriched": true,
       "score": 60,
       "isMatch": false,
       "isEng": true,
@@ -3533,7 +3499,7 @@
         {
           "url": "https://varian.com/careers",
           "status": 200,
-          "bytes": 152641
+          "bytes": 152594
         },
         {
           "url": "https://varian.com/career",
@@ -3568,7 +3534,7 @@
         {
           "url": "https://varian.com/about/careers",
           "status": 200,
-          "bytes": 152641
+          "bytes": 152594
         },
         {
           "url": "https://varian.com/current-openings",
@@ -3593,7 +3559,7 @@
         "workday:onehealthineers -> 40 jobs"
       ]
     },
-    "ms": 10400
+    "ms": 6614
   },
   {
     "company": "Veeva India",
@@ -3686,7 +3652,7 @@
         {
           "url": "https://veeva.com/join-our-team",
           "status": 404,
-          "bytes": 282476
+          "bytes": 282093
         }
       ],
       "candidates": [
@@ -3704,7 +3670,7 @@
         "workable:veeva -> no board"
       ]
     },
-    "ms": 38724
+    "ms": 38513
   },
   {
     "company": "Verizon India",
@@ -3748,10 +3714,10 @@
         "lever:verizon -> no board",
         "ashby:verizon -> no board",
         "recruitee:verizon -> no board",
-        "workable:verizon -> 0 jobs (guess, name-verified)"
+        "workable:verizon -> no board"
       ]
     },
-    "ms": 25246
+    "ms": 24259
   },
   {
     "company": "Vertafore India",
@@ -3834,7 +3800,7 @@
         "workable:vertafore -> no board"
       ]
     },
-    "ms": 12747
+    "ms": 13050
   },
   {
     "company": "Vertex Inc India",
@@ -4202,6 +4168,7 @@
       "text": "Job Description: TITLE: Software Engineer III LOCATION: 2301 Renaissance Blvd, King of Prussia, PA 19406 DUTIES: Develop, modify, and enhance Vertex’s tax compliance products’ source code - 10%. Execute and analyze software security, code, and unit testing on all products - 5%. Leverage knowledge of tax domains to calculate and report - 5%. Administer and support Linux/Unix, Windows, and IBM Power Systems (IBM i) operating environments - 5%. Write automation and utility scripts using Python and Shell scripting - 10%. Manage source code repositories and automating builds using Git, GitHub, and Jenkins - 5%. Implement and support CI/CD pipelines for continuous integration and automated deployment - 5%. Develop and maintain business applications using RPG and COBOL programming languages - 5%. Program in C/C++ and writing database-driven procedures using PL/SQL - 5%. Integrate enterprise systems using ERP/HCM APIs, such as Oracle, Workday, Microsoft, or SAP - 5% Manage and deploy applications using AWS cloud services and Kubernetes container orchestration - 10%. Create and execute automated web testing using Selenium and Cypress tools - 5%. Build and maintain web or enterprise applications using Java - 5%. Work within a Scaled Agile Framework (SAFe) across the full software development lifecycle - 5%. Interpret indirect tax rules and regulations (sales and communications tax) to support software design and documentation for compliance-related systems - 5%. Train and apply artificially intelligent models using tools such as Microsoft Copilot to enhance software development and business processes - 10%. REQUIREMENTS: Bachelor’s Degree (or foreign equivalent) in Computer Science, Information Technology, or a closely related field and experience in the following: 5 years of development experience supporting Linux/Unix, Windows systems, including scripting languages; 5 years of experience interpreting indirect tax rules and regulations (sales and communications tax) to support software design and documentation for compliance-related systems; 3 years of development experience supporting IBM Power Systems (IBM i), including scripting using REXX; 3 years of experience implementing and supporting CI/CD pipelines for continuous integration and automated deployment; 2 years of experience integrating enterprise systems using ERP/HCM APIs, including at least two of the following: Oracle, Workday, Microsoft, or SAP; 2 years of experience programming in C/C++, JAVA, and Python; and 2 years of experience development and maintaining business applications using RPG and COBOL programming languages and writing database-driven procedures using PL/SQL. Eligible to work remotely 100% from anywhere in the continental U.S.",
       "_detail": "https://vertexinc.wd1.myworkdayjobs.com/wday/cxs/vertexinc/VertexInc/job/King-of-Prussia-PA/Software-Engineer-III_JR102532",
       "_detailKind": "workday",
+      "_enriched": true,
       "score": 78,
       "isMatch": false,
       "isEng": true,
@@ -4235,6 +4202,7 @@
       "text": "Job Description: TITLE: Software Engineer III LOCATION: 2301 Renaissance Blvd, King of Prussia, PA 19406 DUTIES: Develop, modify, and enhance Vertex’s tax compliance products’ source code - 10%. Execute and analyze software security, code, and unit testing on all products - 5%. Leverage knowledge of tax domains to calculate and report - 5%. Administer and support Linux/Unix, Windows, and IBM Power Systems (IBM i) operating environments - 5%. Write automation and utility scripts using Python and Shell scripting - 10%. Manage source code repositories and automating builds using Git, GitHub, and Jenkins - 5%. Implement and support CI/CD pipelines for continuous integration and automated deployment - 5%. Develop and maintain business applications using RPG and COBOL programming languages - 5%. Program in C/C++ and writing database-driven procedures using PL/SQL - 5%. Integrate enterprise systems using ERP/HCM APIs, such as Oracle, Workday, Microsoft, or SAP - 5% Manage and deploy applications using AWS cloud services and Kubernetes container orchestration - 10%. Create and execute automated web testing using Selenium and Cypress tools - 5%. Build and maintain web or enterprise applications using Java - 5%. Work within a Scaled Agile Framework (SAFe) across the full software development lifecycle - 5%. Interpret indirect tax rules and regulations (sales and communications tax) to support software design and documentation for compliance-related systems - 5%. Train and apply artificially intelligent models using tools such as Microsoft Copilot to enhance software development and business processes - 10%. REQUIREMENTS: Bachelor’s Degree (or foreign equivalent) in Computer Science, Information Technology, or a closely related field and experience in the following: 5 years of development experience supporting Linux/Unix, Windows systems, including scripting languages; 5 years of experience interpreting indirect tax rules and regulations (sales and communications tax) to support software design and documentation for compliance-related systems; 3 years of development experience supporting IBM Power Systems (IBM i), including scripting using REXX; 3 years of experience implementing and supporting CI/CD pipelines for continuous integration and automated deployment; 2 years of experience integrating enterprise systems using ERP/HCM APIs, including at least two of the following: Oracle, Workday, Microsoft, or SAP; 2 years of experience programming in C/C++, JAVA, and Python; and 2 years of experience development and maintaining business applications using RPG and COBOL programming languages and writing database-driven procedures using PL/SQL. Eligible to work remotely 100% from anywhere in the continental U.S.",
       "_detail": "https://vertexinc.wd1.myworkdayjobs.com/wday/cxs/vertexinc/VertexInc/job/King-of-Prussia-PA/Software-Engineer-III_JR102532",
       "_detailKind": "workday",
+      "_enriched": true,
       "score": 78,
       "isMatch": false,
       "isEng": true,
@@ -4276,12 +4244,12 @@
         {
           "url": "https://vertexinc.com/career",
           "status": 404,
-          "bytes": 250291
+          "bytes": 250244
         },
         {
           "url": "https://vertexinc.com/jobs",
           "status": 404,
-          "bytes": 250281
+          "bytes": 250234
         }
       ],
       "candidates": [
@@ -4301,7 +4269,7 @@
         "workday:vertexinc -> 21 jobs"
       ]
     },
-    "ms": 12620
+    "ms": 10482
   },
   {
     "company": "Vialto Partners India",
@@ -4452,7 +4420,7 @@
         "workable:vialtopartners -> no board"
       ]
     },
-    "ms": 29207
+    "ms": 31334
   },
   {
     "company": "Vinculum",
@@ -4629,7 +4597,7 @@
         "workable:vinculumgroup -> no board"
       ]
     },
-    "ms": 26909
+    "ms": 11770
   },
   {
     "company": "Visteon India",
@@ -4692,7 +4660,7 @@
         "workable:visteon -> no board"
       ]
     },
-    "ms": 4465
+    "ms": 4560
   },
   {
     "company": "Vodafone Intelligent Solutions",
@@ -4760,7 +4728,7 @@
         {
           "url": "https://careers.vodafone.com",
           "status": 200,
-          "bytes": 179473
+          "bytes": 179474
         },
         {
           "url": "https://vodafone.com/careers",
@@ -4790,7 +4758,7 @@
         {
           "url": "https://vodafone.com/careers.html",
           "status": 200,
-          "bytes": 179474
+          "bytes": 179473
         },
         {
           "url": "https://vodafone.com/company/careers",
@@ -4823,7 +4791,7 @@
         "workable:vodafone -> no board"
       ]
     },
-    "ms": 20644
+    "ms": 21370
   },
   {
     "company": "Vogo",
@@ -5054,7 +5022,7 @@
         "lever:vogo -> 4 jobs (guess, name-verified)"
       ]
     },
-    "ms": 9731
+    "ms": 13160
   },
   {
     "company": "Voltas",
@@ -5084,47 +5052,47 @@
         {
           "url": "https://voltas.com/career",
           "status": 404,
-          "bytes": 1917091
+          "bytes": 1917173
         },
         {
           "url": "https://voltas.com/jobs",
           "status": 404,
-          "bytes": 1917091
+          "bytes": 1917173
         },
         {
           "url": "https://voltas.com/join-us",
           "status": 404,
-          "bytes": 1917091
+          "bytes": 1917173
         },
         {
           "url": "https://voltas.com/join-our-team",
           "status": 404,
-          "bytes": 1917091
+          "bytes": 1917173
         },
         {
           "url": "https://voltas.com/careers.html",
           "status": 404,
-          "bytes": 1917091
+          "bytes": 1917173
         },
         {
           "url": "https://voltas.com/company/careers",
           "status": 404,
-          "bytes": 1917091
+          "bytes": 1917173
         },
         {
           "url": "https://voltas.com/about/careers",
           "status": 404,
-          "bytes": 1917091
+          "bytes": 1917173
         },
         {
           "url": "https://voltas.com/current-openings",
           "status": 404,
-          "bytes": 1917091
+          "bytes": 1917173
         },
         {
           "url": "https://voltas.com/",
           "status": 200,
-          "bytes": 2073277
+          "bytes": 2073359
         }
       ],
       "candidates": [
@@ -5142,13 +5110,13 @@
         "workable:voltas -> no board"
       ]
     },
-    "ms": 12314
+    "ms": 11480
   },
   {
     "company": "Vuram",
     "country": "India",
     "source": null,
-    "error": "blocked-or-error-response",
+    "error": "no-job-data-found",
     "totalJobs": 0,
     "jobs": [],
     "enriched": 0,
@@ -5167,22 +5135,23 @@
         {
           "url": "https://vuram.com/careers",
           "status": 404,
-          "bytes": 42879
+          "bytes": 42815
         },
         {
           "url": "https://vuram.com/career",
-          "status": 404,
-          "bytes": 42815
+          "status": 0,
+          "bytes": 0,
+          "error": "fetch failed"
         },
         {
           "url": "https://vuram.com/jobs",
           "status": 404,
-          "bytes": 42813
+          "bytes": 42812
         },
         {
           "url": "https://vuram.com/join-us",
           "status": 404,
-          "bytes": 42814
+          "bytes": 42816
         },
         {
           "url": "https://vuram.com/join-our-team",
@@ -5192,12 +5161,27 @@
         {
           "url": "https://vuram.com/careers.html",
           "status": 404,
-          "bytes": 42820
+          "bytes": 42821
         },
         {
           "url": "https://vuram.com/company/careers",
           "status": 404,
           "bytes": 42823
+        },
+        {
+          "url": "https://vuram.com/about/careers",
+          "status": 404,
+          "bytes": 42821
+        },
+        {
+          "url": "https://vuram.com/current-openings",
+          "status": 404,
+          "bytes": 42825
+        },
+        {
+          "url": "https://vuram.com/",
+          "status": 200,
+          "bytes": 225710
         }
       ],
       "candidates": [
@@ -5215,7 +5199,7 @@
         "workable:vuram -> no board"
       ]
     },
-    "ms": 34084
+    "ms": 48130
   },
   {
     "company": "Vahak",
@@ -5357,47 +5341,47 @@
         {
           "url": "https://vahak.in/career",
           "status": 404,
-          "bytes": 274903
+          "bytes": 275358
         },
         {
           "url": "https://vahak.in/jobs",
           "status": 404,
-          "bytes": 274903
+          "bytes": 275358
         },
         {
           "url": "https://vahak.in/join-us",
           "status": 404,
-          "bytes": 274903
+          "bytes": 275358
         },
         {
           "url": "https://vahak.in/join-our-team",
           "status": 404,
-          "bytes": 274903
+          "bytes": 275358
         },
         {
           "url": "https://vahak.in/careers.html",
           "status": 404,
-          "bytes": 274903
+          "bytes": 275358
         },
         {
           "url": "https://vahak.in/company/careers",
           "status": 404,
-          "bytes": 274903
+          "bytes": 275358
         },
         {
           "url": "https://vahak.in/about/careers",
           "status": 404,
-          "bytes": 274903
+          "bytes": 275358
         },
         {
           "url": "https://vahak.in/current-openings",
           "status": 404,
-          "bytes": 274903
+          "bytes": 275358
         },
         {
           "url": "https://vahak.in/",
           "status": 200,
-          "bytes": 181534
+          "bytes": 181989
         }
       ],
       "candidates": [
@@ -5415,7 +5399,7 @@
         "workable:vahak -> no board"
       ]
     },
-    "ms": 8438
+    "ms": 9904
   },
   {
     "company": "Vegrow",
@@ -5438,15 +5422,575 @@
   {
     "company": "Velotio Technologies",
     "country": "India",
-    "source": "workable:velotio (0 open)",
+    "source": "html:https://www.velotio.com/careers",
     "error": null,
-    "totalJobs": 0,
-    "jobs": [],
+    "totalJobs": 35,
+    "jobs": [
+      {
+        "title": "Software Engineer (Entry-level/Fresher)",
+        "location": "",
+        "url": "https://www.velotio.com/careers/software-engineer-entry-level-fresher",
+        "india": true,
+        "locationSaysIndia": false,
+        "hasLocation": false,
+        "isEng": true,
+        "java": false,
+        "flutter": false,
+        "senior": false,
+        "exp": [],
+        "expFits2": false,
+        "score": 61
+      },
+      {
+        "title": "Associate DevOps Engineer",
+        "location": "",
+        "url": "https://www.velotio.com/careers/associate-devops-engineer",
+        "india": true,
+        "locationSaysIndia": false,
+        "hasLocation": false,
+        "isEng": true,
+        "java": false,
+        "flutter": false,
+        "senior": false,
+        "exp": [],
+        "expFits2": false,
+        "score": 61
+      },
+      {
+        "title": "Senior Mobile Engineer (React-Native, Flutter)",
+        "location": "",
+        "url": "https://www.velotio.com/careers/senior-mobile-engineer-react-native-flutter",
+        "india": true,
+        "locationSaysIndia": false,
+        "hasLocation": false,
+        "isEng": true,
+        "java": false,
+        "flutter": true,
+        "senior": true,
+        "exp": [],
+        "expFits2": false,
+        "score": 55
+      },
+      {
+        "title": "Senior Software Engineer - Java/Spring",
+        "location": "",
+        "url": "https://www.velotio.com/careers/senior-software-engineer-java-spring",
+        "india": true,
+        "locationSaysIndia": false,
+        "hasLocation": false,
+        "isEng": true,
+        "java": true,
+        "flutter": false,
+        "senior": true,
+        "exp": [],
+        "expFits2": false,
+        "score": 52
+      },
+      {
+        "title": "Data Engineer",
+        "location": "",
+        "url": "https://www.velotio.com/careers/senior-software-engineer-data-engineering",
+        "india": true,
+        "locationSaysIndia": false,
+        "hasLocation": false,
+        "isEng": true,
+        "java": false,
+        "flutter": false,
+        "senior": false,
+        "exp": [],
+        "expFits2": false,
+        "score": 49
+      },
+      {
+        "title": "Software Engineer (Golang/Kubernetes Accelerator)",
+        "location": "",
+        "url": "https://www.velotio.com/careers/software-engineer-golang-kubernetes-accelerator",
+        "india": true,
+        "locationSaysIndia": false,
+        "hasLocation": false,
+        "isEng": true,
+        "java": false,
+        "flutter": false,
+        "senior": false,
+        "exp": [],
+        "expFits2": false,
+        "score": 49
+      },
+      {
+        "title": "Software Development Engineer in Test (SDET)",
+        "location": "",
+        "url": "https://www.velotio.com/careers/sdet",
+        "india": true,
+        "locationSaysIndia": false,
+        "hasLocation": false,
+        "isEng": true,
+        "java": false,
+        "flutter": false,
+        "senior": false,
+        "exp": [],
+        "expFits2": false,
+        "score": 49
+      },
+      {
+        "title": "QA Automation Engineer",
+        "location": "",
+        "url": "https://www.velotio.com/careers/senior-qa-automation-engineer",
+        "india": true,
+        "locationSaysIndia": false,
+        "hasLocation": false,
+        "isEng": true,
+        "java": false,
+        "flutter": false,
+        "senior": false,
+        "exp": [],
+        "expFits2": false,
+        "score": 49
+      },
+      {
+        "title": "Director of Engineering (Founding Engineer)",
+        "location": "",
+        "url": "https://www.velotio.com/careers/director-of-engineering-founding-engineer",
+        "india": true,
+        "locationSaysIndia": false,
+        "hasLocation": false,
+        "isEng": true,
+        "java": false,
+        "flutter": false,
+        "senior": true,
+        "exp": [],
+        "expFits2": false,
+        "score": 27
+      },
+      {
+        "title": "Software Engineering Manager",
+        "location": "",
+        "url": "https://www.velotio.com/careers/software-engineering-manager",
+        "india": true,
+        "locationSaysIndia": false,
+        "hasLocation": false,
+        "isEng": true,
+        "java": false,
+        "flutter": false,
+        "senior": true,
+        "exp": [],
+        "expFits2": false,
+        "score": 27
+      },
+      {
+        "title": "Technical Lead - Frontend Engineering",
+        "location": "",
+        "url": "https://www.velotio.com/careers/technical-lead-frontend-engineering",
+        "india": true,
+        "locationSaysIndia": false,
+        "hasLocation": false,
+        "isEng": true,
+        "java": false,
+        "flutter": false,
+        "senior": true,
+        "exp": [],
+        "expFits2": false,
+        "score": 27
+      },
+      {
+        "title": "Technical Lead - Data Engineering",
+        "location": "",
+        "url": "https://www.velotio.com/careers/technical-lead-data-engineering",
+        "india": true,
+        "locationSaysIndia": false,
+        "hasLocation": false,
+        "isEng": true,
+        "java": false,
+        "flutter": false,
+        "senior": true,
+        "exp": [],
+        "expFits2": false,
+        "score": 27
+      },
+      {
+        "title": "Senior Software Engineer (Golang + Kubernetes)",
+        "location": "",
+        "url": "https://www.velotio.com/careers/software-engineer-golang-developer",
+        "india": true,
+        "locationSaysIndia": false,
+        "hasLocation": false,
+        "isEng": true,
+        "java": false,
+        "flutter": false,
+        "senior": true,
+        "exp": [],
+        "expFits2": false,
+        "score": 27
+      },
+      {
+        "title": "Senior Full Stack Engineer - NodeJS & ReactJS",
+        "location": "",
+        "url": "https://www.velotio.com/careers/senior-full-stack-engineer",
+        "india": true,
+        "locationSaysIndia": false,
+        "hasLocation": false,
+        "isEng": true,
+        "java": false,
+        "flutter": false,
+        "senior": true,
+        "exp": [],
+        "expFits2": false,
+        "score": 27
+      },
+      {
+        "title": "Data Engineer (Lead/Senior)",
+        "location": "",
+        "url": "https://www.velotio.com/careers/data-engineer-lead-senior",
+        "india": true,
+        "locationSaysIndia": false,
+        "hasLocation": false,
+        "isEng": true,
+        "java": false,
+        "flutter": false,
+        "senior": true,
+        "exp": [],
+        "expFits2": false,
+        "score": 27
+      },
+      {
+        "title": "Software Architect - RoR / Elixir",
+        "location": "",
+        "url": "https://www.velotio.com/careers/software-architect-ror-elixir",
+        "india": true,
+        "locationSaysIndia": false,
+        "hasLocation": false,
+        "isEng": true,
+        "java": false,
+        "flutter": false,
+        "senior": true,
+        "exp": [],
+        "expFits2": false,
+        "score": 27
+      },
+      {
+        "title": "Backend Architect",
+        "location": "",
+        "url": "https://www.velotio.com/careers/backend-architect",
+        "india": true,
+        "locationSaysIndia": false,
+        "hasLocation": false,
+        "isEng": true,
+        "java": false,
+        "flutter": false,
+        "senior": true,
+        "exp": [],
+        "expFits2": false,
+        "score": 27
+      },
+      {
+        "title": "Senior Software Engineer (Ruby/Elixir)",
+        "location": "",
+        "url": "https://www.velotio.com/careers/senior-software-engineer-ruby-elixir",
+        "india": true,
+        "locationSaysIndia": false,
+        "hasLocation": false,
+        "isEng": true,
+        "java": false,
+        "flutter": false,
+        "senior": true,
+        "exp": [],
+        "expFits2": false,
+        "score": 27
+      },
+      {
+        "title": "Senior Software Engineer (Python)",
+        "location": "",
+        "url": "https://www.velotio.com/careers/senior-software-engineer-python",
+        "india": true,
+        "locationSaysIndia": false,
+        "hasLocation": false,
+        "isEng": true,
+        "java": false,
+        "flutter": false,
+        "senior": true,
+        "exp": [],
+        "expFits2": false,
+        "score": 27
+      },
+      {
+        "title": "Senior Software Engineer - Ruby on Rails",
+        "location": "",
+        "url": "https://www.velotio.com/careers/senior-software-engineer-ruby-on-rails",
+        "india": true,
+        "locationSaysIndia": false,
+        "hasLocation": false,
+        "isEng": true,
+        "java": false,
+        "flutter": false,
+        "senior": true,
+        "exp": [],
+        "expFits2": false,
+        "score": 27
+      },
+      {
+        "title": "Senior DevOps Engineer",
+        "location": "",
+        "url": "https://www.velotio.com/careers/senior-devops-engineer",
+        "india": true,
+        "locationSaysIndia": false,
+        "hasLocation": false,
+        "isEng": true,
+        "java": false,
+        "flutter": false,
+        "senior": true,
+        "exp": [],
+        "expFits2": false,
+        "score": 27
+      },
+      {
+        "title": "Senior DevOps Engineer (Data Platform)",
+        "location": "",
+        "url": "https://www.velotio.com/careers/senior-devops-engineer-data-platform",
+        "india": true,
+        "locationSaysIndia": false,
+        "hasLocation": false,
+        "isEng": true,
+        "java": false,
+        "flutter": false,
+        "senior": true,
+        "exp": [],
+        "expFits2": false,
+        "score": 27
+      },
+      {
+        "title": "Senior Manual QA Engineer",
+        "location": "",
+        "url": "https://www.velotio.com/careers/senior-manual-qa-engineer",
+        "india": true,
+        "locationSaysIndia": false,
+        "hasLocation": false,
+        "isEng": true,
+        "java": false,
+        "flutter": false,
+        "senior": true,
+        "exp": [],
+        "expFits2": false,
+        "score": 27
+      },
+      {
+        "title": "Senior Talent Acquisition Specialist (Technology & Software Engineering)",
+        "location": "",
+        "url": "https://www.velotio.com/careers/senior-talent-acquisition-specialist-technology-software-engineering",
+        "india": true,
+        "locationSaysIndia": false,
+        "hasLocation": false,
+        "isEng": true,
+        "java": false,
+        "flutter": false,
+        "senior": true,
+        "exp": [],
+        "expFits2": false,
+        "score": 27
+      },
+      {
+        "title": "Technical Lead - Web Apps",
+        "location": "",
+        "url": "https://www.velotio.com/careers/technical-lead-web-apps",
+        "india": true,
+        "locationSaysIndia": false,
+        "hasLocation": false,
+        "isEng": false,
+        "java": false,
+        "flutter": false,
+        "senior": true,
+        "exp": [],
+        "expFits2": false,
+        "score": -3
+      },
+      {
+        "title": "Technical Lead - Full-stack (Web/Mobile)",
+        "location": "",
+        "url": "https://www.velotio.com/careers/technical-lead-full-stack-web-mobile",
+        "india": true,
+        "locationSaysIndia": false,
+        "hasLocation": false,
+        "isEng": false,
+        "java": false,
+        "flutter": false,
+        "senior": true,
+        "exp": [],
+        "expFits2": false,
+        "score": -3
+      },
+      {
+        "title": "Technical Lead - Golang",
+        "location": "",
+        "url": "https://www.velotio.com/careers/technical-lead-golang",
+        "india": true,
+        "locationSaysIndia": false,
+        "hasLocation": false,
+        "isEng": false,
+        "java": false,
+        "flutter": false,
+        "senior": true,
+        "exp": [],
+        "expFits2": false,
+        "score": -3
+      },
+      {
+        "title": "Technical Lead - Cloud Native (Golang/Kubernetes)",
+        "location": "",
+        "url": "https://www.velotio.com/careers/technical-lead-cloud-native-golang-kubernetes",
+        "india": true,
+        "locationSaysIndia": false,
+        "hasLocation": false,
+        "isEng": false,
+        "java": false,
+        "flutter": false,
+        "senior": true,
+        "exp": [],
+        "expFits2": false,
+        "score": -3
+      },
+      {
+        "title": "Technical Architect - Golang",
+        "location": "",
+        "url": "https://www.velotio.com/careers/technical-architect-golang",
+        "india": true,
+        "locationSaysIndia": false,
+        "hasLocation": false,
+        "isEng": false,
+        "java": false,
+        "flutter": false,
+        "senior": true,
+        "exp": [],
+        "expFits2": false,
+        "score": -3
+      },
+      {
+        "title": "Solutions Architect - Cloud/DevOps",
+        "location": "",
+        "url": "https://www.velotio.com/careers/solutions-architect-cloud-devops",
+        "india": true,
+        "locationSaysIndia": false,
+        "hasLocation": false,
+        "isEng": false,
+        "java": false,
+        "flutter": false,
+        "senior": true,
+        "exp": [],
+        "expFits2": false,
+        "score": -3
+      },
+      {
+        "title": "Senior UX Designer",
+        "location": "",
+        "url": "https://www.velotio.com/careers/senior-ux-designer",
+        "india": true,
+        "locationSaysIndia": false,
+        "hasLocation": false,
+        "isEng": false,
+        "java": false,
+        "flutter": false,
+        "senior": true,
+        "exp": [],
+        "expFits2": false,
+        "score": -3
+      },
+      {
+        "title": "Senior Business Analyst / Product Manager",
+        "location": "",
+        "url": "https://www.velotio.com/careers/senior-business-analyst",
+        "india": true,
+        "locationSaysIndia": false,
+        "hasLocation": false,
+        "isEng": false,
+        "java": false,
+        "flutter": false,
+        "senior": true,
+        "exp": [],
+        "expFits2": false,
+        "score": -3
+      },
+      {
+        "title": "Technical Lead - DevOps",
+        "location": "",
+        "url": "https://www.velotio.com/careers/technical-lead-devops",
+        "india": true,
+        "locationSaysIndia": false,
+        "hasLocation": false,
+        "isEng": false,
+        "java": false,
+        "flutter": false,
+        "senior": true,
+        "exp": [],
+        "expFits2": false,
+        "score": -3
+      },
+      {
+        "title": "Practice Head - QA",
+        "location": "",
+        "url": "https://www.velotio.com/careers/practice-head-qa",
+        "india": true,
+        "locationSaysIndia": false,
+        "hasLocation": false,
+        "isEng": false,
+        "java": false,
+        "flutter": false,
+        "senior": true,
+        "exp": [],
+        "expFits2": false,
+        "score": -3
+      },
+      {
+        "title": "Senior Content Writer",
+        "location": "",
+        "url": "https://www.velotio.com/careers/senior-content-writer",
+        "india": true,
+        "locationSaysIndia": false,
+        "hasLocation": false,
+        "isEng": false,
+        "java": false,
+        "flutter": false,
+        "senior": true,
+        "exp": [],
+        "expFits2": false,
+        "score": -3
+      }
+    ],
     "enriched": 0,
     "matches": [],
     "nearMatches": [],
-    "closest": null,
-    "closestEng": null,
+    "closest": {
+      "title": "Software Engineer (Entry-level/Fresher)",
+      "location": "",
+      "url": "https://www.velotio.com/careers/software-engineer-entry-level-fresher",
+      "team": "",
+      "text": "Software Engineer (Entry-level/Fresher)",
+      "score": 61,
+      "isMatch": false,
+      "isEng": true,
+      "java": false,
+      "flutter": false,
+      "android": false,
+      "india": true,
+      "senior": false,
+      "junior": true,
+      "exp": [],
+      "expFits2": false
+    },
+    "closestEng": {
+      "title": "Software Engineer (Entry-level/Fresher)",
+      "location": "",
+      "url": "https://www.velotio.com/careers/software-engineer-entry-level-fresher",
+      "team": "",
+      "text": "Software Engineer (Entry-level/Fresher)",
+      "score": 61,
+      "isMatch": false,
+      "isEng": true,
+      "java": false,
+      "flutter": false,
+      "android": false,
+      "india": true,
+      "senior": false,
+      "junior": true,
+      "exp": [],
+      "expFits2": false
+    },
     "trace": {
       "pages": [
         {
@@ -5514,14 +6058,14 @@
         "recruitee:velotio(guess)"
       ],
       "attempts": [
-        "workable:velotio -> 0 jobs",
+        "workable:velotio -> no board",
         "greenhouse:velotio -> no board",
         "lever:velotio -> no board",
         "ashby:velotio -> 0 jobs (guess, name-verified)",
         "recruitee:velotio -> no board"
       ]
     },
-    "ms": 10161
+    "ms": 13526
   },
   {
     "company": "Verse Innovation",
@@ -5545,51 +6089,43 @@
         },
         {
           "url": "https://verse.in/careers",
-          "status": 0,
-          "bytes": 0,
-          "error": "fetch failed"
+          "status": 404,
+          "bytes": 310
         },
         {
           "url": "https://verse.in/career",
-          "status": 0,
-          "bytes": 0,
-          "error": "fetch failed"
+          "status": 404,
+          "bytes": 310
         },
         {
           "url": "https://verse.in/jobs",
-          "status": 0,
-          "bytes": 0,
-          "error": "fetch failed"
+          "status": 404,
+          "bytes": 310
         },
         {
           "url": "https://verse.in/join-us",
-          "status": 0,
-          "bytes": 0,
-          "error": "fetch failed"
+          "status": 404,
+          "bytes": 310
         },
         {
           "url": "https://verse.in/join-our-team",
-          "status": 0,
-          "bytes": 0,
-          "error": "fetch failed"
+          "status": 404,
+          "bytes": 310
         },
         {
           "url": "https://verse.in/careers.html",
-          "status": 0,
-          "bytes": 0,
-          "error": "fetch failed"
+          "status": 404,
+          "bytes": 310
         },
         {
           "url": "https://verse.in/company/careers",
-          "status": 0,
-          "bytes": 0,
-          "error": "fetch failed"
+          "status": 404,
+          "bytes": 310
         },
         {
           "url": "https://verse.in/about/careers",
-          "status": 0,
-          "bytes": 0,
-          "error": "fetch failed"
+          "status": 404,
+          "bytes": 310
         },
         {
           "url": "https://verse.in/current-openings",
@@ -5631,7 +6167,7 @@
         "workable:verse -> no board"
       ]
     },
-    "ms": 9293
+    "ms": 8008
   },
   {
     "company": "Vertoz",
@@ -5660,7 +6196,7 @@
         {
           "url": "https://vertoz.com/career",
           "status": 404,
-          "bytes": 333268
+          "bytes": 333259
         }
       ],
       "candidates": [
@@ -5682,7 +6218,7 @@
         "workable:vertoz -> no board"
       ]
     },
-    "ms": 26657
+    "ms": 25940
   },
   {
     "company": "Vidyalai",
@@ -5972,7 +6508,7 @@
         "workable:vidyalai -> no board"
       ]
     },
-    "ms": 3982
+    "ms": 3455
   },
   {
     "company": "Vinsys",
@@ -6021,7 +6557,7 @@
         "workable:vinsys -> no board"
       ]
     },
-    "ms": 5471
+    "ms": 5511
   },
   {
     "company": "VDoIT",
@@ -6109,7 +6645,7 @@
         "workable:vdoit -> no board"
       ]
     },
-    "ms": 7360
+    "ms": 7534
   },
   {
     "company": "VeriPark India",
@@ -6605,6 +7141,7 @@
       "text": "We enable financial institutions to become AI-first digital leaders. As a professional team of global scale, we work with best clients for great and exciting projects, in an environment where we learn amazing things every day. Each code, each voice, each contribution, each challenge, each success is celebrated here. We welcome candidates who share our values, have the skills and are passionate to enjoy our journey to build the digital future of finance, together. About The Job: What you will be doing: Write clean, efficient, and maintainable code using .NET Frameworks, Visual Studio, C#, LINQ, Web Services/APIs, and Entity Framework. Collaborate in a CI/CD pipeline environment for continuous integration and delivery. Ensure a clear understanding of project requirements, including business goals and technical specifications. Collaborate with stakeholders, including product owners and project managers, to align software solutions with business goals and user needs. Identify, debug, and resolve application issues to ensure software meets project requirements and functions correctly. Execute all assigned functional test cases in the development environment before handing the build to QE, in accordance with the VeriPark QE Shift Left Methodology. Attach Proof of Testing (POT) evidence in Azure DevOps for every executed test case. Identify, classify, and resolve defects found during Developer Functional Test before QE handover. Improve application performance by optimizing queries, caching, and front-end rendering. Continuously monitor, maintain, and update software applications to ensure they function optimally and align with evolving business needs. Provide support to end-users, ensuring effective utilization of the software application. Maintain comprehensive documentation of the development process, codebase, and software changes for future reference and scalability. Leadership & Continuous Improvement Stay updated with emerging technologies, frameworks, and best practices related to .NET development. What we are looking for: Bachelor's degree in Computer Science, Information Systems, Engineering, or related field. At least 1 year of relevant industry experience. Proficiency in C# and strong understanding of object-oriented programming (OOP) principles, including inheritance, encapsulation, and polymorphism. Hands-on experience with .NET frameworks such as .NET Core, ASP.NET MVC, ASP.NET Web API, and .NET Framework, developing scalable and high-performance applications. Web Development Expertise: Familiarity with HTML, CSS, JavaScript, and front-end frameworks. Design and develop Database operations on SQL databases using Entity Framework/EF Core. Experience in all phases, including requirements gathering, design, development, testing, and deployment. Ability to diagnose and resolve software issues quickly and efficiently. Ability to work in a collaborative environment, coordinate with cross-functional teams, and clearly communicate technical concepts. About VeriPark: VeriPark is a global technology powerhouse with more than two decades of experience in the financial services industry. Our mission is to enable financial institutions to become digital leaders by delivering world class customer journeys. With offices in 15 countries from Canada over Europe and the Middle East to Kuala Lumpur, our 1000+ colleagues are serving customers in more than 30 countries worldwide. As a global player, we offer more than just a workplace; we provide a transformative environment that transcends boundaries. Joining VeriPark means becoming part of a diverse family where talent is nurtured, diversity is celebrated, and our culture empowers each individual to reach their full potential. Be a part of our global family, where opportunities are as vast as our global footprint. https://www.veripark.com",
       "_detail": "https://veripark.wd103.myworkdayjobs.com/wday/cxs/veripark/veripark/job/TR-Remote/Software-Developer_JR100964",
       "_detailKind": "workday",
+      "_enriched": true,
       "score": 60,
       "isMatch": false,
       "isEng": true,
@@ -6630,6 +7167,7 @@
       "text": "We enable financial institutions to become AI-first digital leaders. As a professional team of global scale, we work with best clients for great and exciting projects, in an environment where we learn amazing things every day. Each code, each voice, each contribution, each challenge, each success is celebrated here. We welcome candidates who share our values, have the skills and are passionate to enjoy our journey to build the digital future of finance, together. About The Job: What you will be doing: Write clean, efficient, and maintainable code using .NET Frameworks, Visual Studio, C#, LINQ, Web Services/APIs, and Entity Framework. Collaborate in a CI/CD pipeline environment for continuous integration and delivery. Ensure a clear understanding of project requirements, including business goals and technical specifications. Collaborate with stakeholders, including product owners and project managers, to align software solutions with business goals and user needs. Identify, debug, and resolve application issues to ensure software meets project requirements and functions correctly. Execute all assigned functional test cases in the development environment before handing the build to QE, in accordance with the VeriPark QE Shift Left Methodology. Attach Proof of Testing (POT) evidence in Azure DevOps for every executed test case. Identify, classify, and resolve defects found during Developer Functional Test before QE handover. Improve application performance by optimizing queries, caching, and front-end rendering. Continuously monitor, maintain, and update software applications to ensure they function optimally and align with evolving business needs. Provide support to end-users, ensuring effective utilization of the software application. Maintain comprehensive documentation of the development process, codebase, and software changes for future reference and scalability. Leadership & Continuous Improvement Stay updated with emerging technologies, frameworks, and best practices related to .NET development. What we are looking for: Bachelor's degree in Computer Science, Information Systems, Engineering, or related field. At least 1 year of relevant industry experience. Proficiency in C# and strong understanding of object-oriented programming (OOP) principles, including inheritance, encapsulation, and polymorphism. Hands-on experience with .NET frameworks such as .NET Core, ASP.NET MVC, ASP.NET Web API, and .NET Framework, developing scalable and high-performance applications. Web Development Expertise: Familiarity with HTML, CSS, JavaScript, and front-end frameworks. Design and develop Database operations on SQL databases using Entity Framework/EF Core. Experience in all phases, including requirements gathering, design, development, testing, and deployment. Ability to diagnose and resolve software issues quickly and efficiently. Ability to work in a collaborative environment, coordinate with cross-functional teams, and clearly communicate technical concepts. About VeriPark: VeriPark is a global technology powerhouse with more than two decades of experience in the financial services industry. Our mission is to enable financial institutions to become digital leaders by delivering world class customer journeys. With offices in 15 countries from Canada over Europe and the Middle East to Kuala Lumpur, our 1000+ colleagues are serving customers in more than 30 countries worldwide. As a global player, we offer more than just a workplace; we provide a transformative environment that transcends boundaries. Joining VeriPark means becoming part of a diverse family where talent is nurtured, diversity is celebrated, and our culture empowers each individual to reach their full potential. Be a part of our global family, where opportunities are as vast as our global footprint. https://www.veripark.com",
       "_detail": "https://veripark.wd103.myworkdayjobs.com/wday/cxs/veripark/veripark/job/TR-Remote/Software-Developer_JR100964",
       "_detailKind": "workday",
+      "_enriched": true,
       "score": 60,
       "isMatch": false,
       "isEng": true,
@@ -6683,7 +7221,7 @@
         "workday:veripark -> 29 jobs"
       ]
     },
-    "ms": 5912
+    "ms": 6548
   },
   {
     "company": "Valasys Media",
@@ -7035,7 +7573,7 @@
         "workable:valasys -> no board"
       ]
     },
-    "ms": 40995
+    "ms": 37642
   },
   {
     "company": "Valuefirst",
@@ -7123,7 +7661,7 @@
         "workable:valuefirst -> no board"
       ]
     },
-    "ms": 7960
+    "ms": 8863
   },
   {
     "company": "Vantage Circle",
@@ -7170,7 +7708,7 @@
         "workable:vantagecircle -> no board"
       ]
     },
-    "ms": 6974
+    "ms": 5044
   },
   {
     "company": "Varthana",
@@ -7415,7 +7953,7 @@
         "workable:varthana -> no board"
       ]
     },
-    "ms": 5068
+    "ms": 7247
   },
   {
     "company": "Vasitum",
@@ -7488,7 +8026,7 @@
         "workable:vasitum -> no board"
       ]
     },
-    "ms": 9892
+    "ms": 7172
   },
   {
     "company": "Vayana Network",
@@ -7586,7 +8124,7 @@
         "workable:vayana -> no board"
       ]
     },
-    "ms": 11480
+    "ms": 10943
   },
   {
     "company": "Vayu Robotics",
@@ -7786,13 +8324,13 @@
         "workable:vayurobotics -> no board"
       ]
     },
-    "ms": 14430
+    "ms": 13473
   },
   {
     "company": "Vconnexions",
     "country": "India",
     "source": null,
-    "error": "careers-page-read-but-lists-no-openings",
+    "error": "careers-page-unreachable",
     "totalJobs": 0,
     "jobs": [],
     "enriched": 0,
@@ -7811,17 +8349,55 @@
         {
           "url": "https://vconnexions.com/careers",
           "status": 200,
-          "bytes": 27338
+          "bytes": 122
         },
         {
           "url": "https://vconnexions.com/career",
-          "status": 200,
-          "bytes": 27269
+          "status": 0,
+          "bytes": 0,
+          "error": "fetch failed"
         },
         {
           "url": "https://vconnexions.com/jobs",
+          "status": 0,
+          "bytes": 0,
+          "error": "fetch failed"
+        },
+        {
+          "url": "https://vconnexions.com/join-us",
           "status": 200,
-          "bytes": 27287
+          "bytes": 122
+        },
+        {
+          "url": "https://vconnexions.com/join-our-team",
+          "status": 0,
+          "bytes": 0,
+          "error": "fetch failed"
+        },
+        {
+          "url": "https://vconnexions.com/careers.html",
+          "status": 200,
+          "bytes": 122
+        },
+        {
+          "url": "https://vconnexions.com/company/careers",
+          "status": 200,
+          "bytes": 122
+        },
+        {
+          "url": "https://vconnexions.com/about/careers",
+          "status": 200,
+          "bytes": 122
+        },
+        {
+          "url": "https://vconnexions.com/current-openings",
+          "status": 200,
+          "bytes": 122
+        },
+        {
+          "url": "https://vconnexions.com/",
+          "status": 200,
+          "bytes": 122
         }
       ],
       "candidates": [
@@ -7839,7 +8415,7 @@
         "workable:vconnexions -> no board"
       ]
     },
-    "ms": 23906
+    "ms": 60233
   },
   {
     "company": "Vectra AI India",
@@ -8279,7 +8855,7 @@
         {
           "url": "https://vectra.ai/careers",
           "status": 200,
-          "bytes": 265566
+          "bytes": 265361
         },
         {
           "url": "https://vectra.ai/career",
@@ -8314,7 +8890,7 @@
         {
           "url": "https://vectra.ai/about/careers",
           "status": 200,
-          "bytes": 265566
+          "bytes": 265361
         },
         {
           "url": "https://vectra.ai/current-openings",
@@ -8324,7 +8900,7 @@
         {
           "url": "https://vectra.ai/",
           "status": 200,
-          "bytes": 262432
+          "bytes": 262227
         }
       ],
       "candidates": [
@@ -8344,7 +8920,7 @@
         "greenhouse:vectranetworks -> 20 jobs"
       ]
     },
-    "ms": 8605
+    "ms": 9039
   },
   {
     "company": "Veersa Technologies",
@@ -8427,7 +9003,7 @@
         "workable:veersatech -> no board"
       ]
     },
-    "ms": 20091
+    "ms": 8865
   },
   {
     "company": "Vehant Technologies",
@@ -8629,12 +9205,12 @@
         {
           "url": "https://vehant.com/career",
           "status": 404,
-          "bytes": 67047
+          "bytes": 66843
         },
         {
           "url": "https://vehant.com/jobs",
           "status": 200,
-          "bytes": 105036
+          "bytes": 104832
         }
       ],
       "candidates": [
@@ -8652,7 +9228,7 @@
         "workable:vehant -> no board"
       ]
     },
-    "ms": 15642
+    "ms": 13674
   },
   {
     "company": "Velocity",
@@ -8852,7 +9428,7 @@
         {
           "url": "https://velocity.in/jobs",
           "status": 404,
-          "bytes": 275
+          "bytes": 295
         },
         {
           "url": "https://velocity.in/join-us",
@@ -8872,7 +9448,7 @@
         {
           "url": "https://velocity.in/company/careers",
           "status": 404,
-          "bytes": 286
+          "bytes": 306
         },
         {
           "url": "https://velocity.in/about/careers",
@@ -8882,7 +9458,7 @@
         {
           "url": "https://velocity.in/current-openings",
           "status": 404,
-          "bytes": 307
+          "bytes": 287
         },
         {
           "url": "https://velocity.in/",
@@ -8897,7 +9473,7 @@
         {
           "url": "https://velocity.freshteam.com/jobs",
           "status": 200,
-          "bytes": 17269
+          "bytes": 17325
         }
       ],
       "candidates": [
@@ -8917,7 +9493,7 @@
         "ashby:velocity -> 6 jobs (guess, name-verified)"
       ]
     },
-    "ms": 9049
+    "ms": 7396
   },
   {
     "company": "Velsera India",
@@ -9203,7 +9779,7 @@
         "recruitee:velsera -> no board"
       ]
     },
-    "ms": 23663
+    "ms": 25976
   },
   {
     "company": "Venwiz",
@@ -9685,7 +10261,7 @@
         "keka:venwiztechnologies -> 14 jobs"
       ]
     },
-    "ms": 9793
+    "ms": 10757
   },
   {
     "company": "Verifone India",
@@ -10703,7 +11279,7 @@
         "greenhouse:verifone -> 43 jobs"
       ]
     },
-    "ms": 10135
+    "ms": 10291
   },
   {
     "company": "Veritas India",
@@ -10773,7 +11349,7 @@
         {
           "url": "https://veritas.com/",
           "status": 200,
-          "bytes": 100068
+          "bytes": 100069
         }
       ],
       "candidates": [
@@ -10791,7 +11367,7 @@
         "workable:veritas -> no board"
       ]
     },
-    "ms": 34674
+    "ms": 42563
   },
   {
     "company": "Vernost",
@@ -10883,7 +11459,7 @@
         "workable:vernost -> no board"
       ]
     },
-    "ms": 14279
+    "ms": 13603
   },
   {
     "company": "Versa Networks India",
@@ -11138,7 +11714,7 @@
         "workable:versanetworks -> no board"
       ]
     },
-    "ms": 19720
+    "ms": 21035
   },
   {
     "company": "Vertiv India",
@@ -15798,14 +16374,14 @@
         "workable:vertiv -> no board"
       ]
     },
-    "ms": 12871
+    "ms": 13622
   },
   {
     "company": "Vestas India",
     "country": "India",
     "source": "successfactors:careers.vestas.com",
     "error": null,
-    "totalJobs": 46,
+    "totalJobs": 47,
     "jobs": [
       {
         "title": "Backend Developer",
@@ -15846,6 +16422,26 @@
         ],
         "expFits2": true,
         "score": 60
+      },
+      {
+        "title": "Converter Control Engineer",
+        "location": "Leça do Balio, Grande Porto, PT, 4465-671",
+        "url": "https://careers.vestas.com/job/Le%C3%A7a-do-Balio-Converter-Control-Engineer-Gran-4465-671/1424416533/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+        "india": false,
+        "locationSaysIndia": false,
+        "hasLocation": true,
+        "isEng": true,
+        "java": false,
+        "flutter": false,
+        "senior": false,
+        "exp": [
+          [
+            4,
+            8
+          ]
+        ],
+        "expFits2": false,
+        "score": 42
       },
       {
         "title": "Civil Engineer",
@@ -16149,6 +16745,26 @@
         "score": 16
       },
       {
+        "title": "Production Supervisor",
+        "location": "Windsor, CO, US",
+        "url": "https://careers.vestas.com/job/Windsor-Production-Supervisor-CO-80528/1424443133/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+        "india": false,
+        "locationSaysIndia": false,
+        "hasLocation": true,
+        "isEng": false,
+        "java": false,
+        "flutter": false,
+        "senior": false,
+        "exp": [
+          [
+            3,
+            7
+          ]
+        ],
+        "expFits2": false,
+        "score": 12
+      },
+      {
         "title": "Service Assistant",
         "location": "Kitakyushu-shi, Fukuoka, JP, 808-0021",
         "url": "https://careers.vestas.com/job/Kitakyushu-shi-Service-Assistant-Fuku-808-0021/1412586033/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
@@ -16167,6 +16783,26 @@
           [
             5,
             6
+          ]
+        ],
+        "expFits2": false,
+        "score": 12
+      },
+      {
+        "title": "Digital Product Designer",
+        "location": "Leça do Balio, Grande Porto, PT, 4465-671",
+        "url": "https://careers.vestas.com/job/Le%C3%A7a-do-Balio-Digital-Product-Designer-Gran-4465-671/1424387933/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+        "india": false,
+        "locationSaysIndia": false,
+        "hasLocation": true,
+        "isEng": false,
+        "java": false,
+        "flutter": false,
+        "senior": false,
+        "exp": [
+          [
+            3,
+            7
           ]
         ],
         "expFits2": false,
@@ -16351,36 +16987,6 @@
         "score": 4
       },
       {
-        "title": "Service Technician",
-        "location": "Wiesbaden, HE, DE",
-        "url": "https://careers.vestas.com/job/Wiesbaden-Service-Technician-HE/1424276333/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-        "india": false,
-        "locationSaysIndia": false,
-        "hasLocation": true,
-        "isEng": false,
-        "java": false,
-        "flutter": false,
-        "senior": false,
-        "exp": [],
-        "expFits2": false,
-        "score": 4
-      },
-      {
-        "title": "Service Technician (m/w/d) in Nienburg",
-        "location": "Hannover, NI, DE",
-        "url": "https://careers.vestas.com/job/Hannover-Service-Technician-%28mwd%29-in-Nienburg-NI/1424270833/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-        "india": false,
-        "locationSaysIndia": false,
-        "hasLocation": true,
-        "isEng": false,
-        "java": false,
-        "flutter": false,
-        "senior": false,
-        "exp": [],
-        "expFits2": false,
-        "score": 4
-      },
-      {
         "title": "Quality Inspector",
         "location": "Taichung City, Taiwan, TW, 43508",
         "url": "https://careers.vestas.com/job/Taichung-City-Quality-Inspector-Taiw-43508/1412575133/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
@@ -16441,9 +17047,9 @@
         "score": 4
       },
       {
-        "title": "Technician II",
-        "location": "Asbury, MO, US",
-        "url": "https://careers.vestas.com/job/Asbury-Technician-II-MO/1402000733/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+        "title": "Service Technician",
+        "location": "Wiesbaden, HE, DE",
+        "url": "https://careers.vestas.com/job/Wiesbaden-Service-Technician-HE/1424276333/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
         "india": false,
         "locationSaysIndia": false,
         "hasLocation": true,
@@ -16456,9 +17062,24 @@
         "score": 4
       },
       {
-        "title": "RTR - Intercompany Reconciliation Analyst II",
-        "location": "Pasay, 00, PH, 1300",
-        "url": "https://careers.vestas.com/job/Pasay-RTR-Intercompany-Reconciliation-Analyst-II-00-1300/1401639133/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+        "title": "Service Technician (m/w/d) in Nienburg",
+        "location": "Hannover, NI, DE",
+        "url": "https://careers.vestas.com/job/Hannover-Service-Technician-%28mwd%29-in-Nienburg-NI/1424270833/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+        "india": false,
+        "locationSaysIndia": false,
+        "hasLocation": true,
+        "isEng": false,
+        "java": false,
+        "flutter": false,
+        "senior": false,
+        "exp": [],
+        "expFits2": false,
+        "score": 4
+      },
+      {
+        "title": "Service Technician (m/f/d) for Offshore Wind Energy - Arcadis Ost",
+        "location": "Hamburg, HH, DE",
+        "url": "https://careers.vestas.com/job/Hamburg-Service-Technician-%28mfd%29-for-Offshore-Wind-Energy-Arcadis-Ost-HH/1424403533/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
         "india": false,
         "locationSaysIndia": false,
         "hasLocation": true,
@@ -16489,26 +17110,6 @@
           [
             5,
             6
-          ]
-        ],
-        "expFits2": false,
-        "score": 0
-      },
-      {
-        "title": "Workplace & Collaboration SME - Application Packaging",
-        "location": "Pasay, 00, PH, 1300",
-        "url": "https://careers.vestas.com/job/Pasay-Workplace-&-Collaboration-SME-Application-Packaging-00-1300/1392113133/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-        "india": false,
-        "locationSaysIndia": false,
-        "hasLocation": true,
-        "isEng": false,
-        "java": false,
-        "flutter": false,
-        "senior": false,
-        "exp": [
-          [
-            5,
-            9
           ]
         ],
         "expFits2": false,
@@ -16560,21 +17161,6 @@
         "score": -18
       },
       {
-        "title": "Global SCADA Project Manager",
-        "location": "Aarhus N, Region Central Jutland, DK, 8200",
-        "url": "https://careers.vestas.com/job/Aarhus-N-Global-SCADA-Project-Manager-Regi-8200/1424374733/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-        "india": false,
-        "locationSaysIndia": false,
-        "hasLocation": true,
-        "isEng": false,
-        "java": false,
-        "flutter": false,
-        "senior": true,
-        "exp": [],
-        "expFits2": false,
-        "score": -18
-      },
-      {
         "title": "Site Manager -QLD",
         "location": "Walkamin, QLD, AU, 4880",
         "url": "https://careers.vestas.com/job/Walkamin-Site-Manager-QLD-QLD-4880/1423657333/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
@@ -16593,6 +17179,21 @@
         "title": "Lead Technician (M/F), Châteauroux",
         "location": "Châteauroux, 36, FR",
         "url": "https://careers.vestas.com/job/Ch%C3%A2teauroux-Lead-Technician-%28MF%29%2C-Ch%C3%A2teauroux-36/1175649601/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+        "india": false,
+        "locationSaysIndia": false,
+        "hasLocation": true,
+        "isEng": false,
+        "java": false,
+        "flutter": false,
+        "senior": true,
+        "exp": [],
+        "expFits2": false,
+        "score": -18
+      },
+      {
+        "title": "Global SCADA Project Manager",
+        "location": "Aarhus N, Region Central Jutland, DK, 8200",
+        "url": "https://careers.vestas.com/job/Aarhus-N-Global-SCADA-Project-Manager-Regi-8200/1424374733/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
         "india": false,
         "locationSaysIndia": false,
         "hasLocation": true,
@@ -16741,7 +17342,7 @@
         {
           "url": "https://vestas.com/career",
           "status": 404,
-          "bytes": 123319
+          "bytes": 123293
         }
       ],
       "candidates": [
@@ -16753,10 +17354,10 @@
         "workable:vestas(guess)"
       ],
       "attempts": [
-        "successfactors:careers.vestas.com -> 46 jobs"
+        "successfactors:careers.vestas.com -> 47 jobs"
       ]
     },
-    "ms": 10187
+    "ms": 10274
   },
   {
     "company": "Vidhyaa",
@@ -16830,22 +17431,17 @@
         {
           "url": "https://vidhyaa.in/careers",
           "status": 200,
-          "bytes": 1137632
+          "bytes": 1137671
         },
         {
           "url": "https://vidhyaa.in/career",
           "status": 200,
-          "bytes": 540880
+          "bytes": 540882
         },
         {
           "url": "https://vidhyaa.in/jobs",
           "status": 200,
-          "bytes": 1137634
-        },
-        {
-          "url": "https://vidhyaa.in/join-us",
-          "status": 200,
-          "bytes": 1137622
+          "bytes": 1137633
         }
       ],
       "candidates": [
@@ -16863,7 +17459,7 @@
         "workable:vidhyaa -> no board"
       ]
     },
-    "ms": 18461
+    "ms": 20226
   },
   {
     "company": "Vidooly",
@@ -16951,7 +17547,7 @@
         "workable:vidooly -> no board"
       ]
     },
-    "ms": 3289
+    "ms": 2207
   },
   {
     "company": "Vigilant Technologies",
@@ -17059,7 +17655,7 @@
         "workable:vigilanttech -> no board"
       ]
     },
-    "ms": 3513
+    "ms": 3688
   },
   {
     "company": "Vionsys",
@@ -17147,7 +17743,7 @@
         "workable:vionsys -> no board"
       ]
     },
-    "ms": 13776
+    "ms": 12751
   },
   {
     "company": "Virtual Galaxy",
@@ -17289,7 +17885,7 @@
         "workable:vgipl -> no board"
       ]
     },
-    "ms": 5267
+    "ms": 5837
   },
   {
     "company": "Vishay India",
@@ -17387,7 +17983,7 @@
         "workable:vishay -> no board"
       ]
     },
-    "ms": 11108
+    "ms": 9462
   },
   {
     "company": "Vistaar Systems",
@@ -17495,7 +18091,7 @@
         "workable:vistaarsystems -> no board"
       ]
     },
-    "ms": 3668
+    "ms": 4352
   },
   {
     "company": "Vistex India",
@@ -17564,7 +18160,7 @@
         {
           "url": "https://vistex.com/",
           "status": 200,
-          "bytes": 96367
+          "bytes": 91229
         }
       ],
       "candidates": [
@@ -17582,7 +18178,7 @@
         "workable:vistex -> no board"
       ]
     },
-    "ms": 22260
+    "ms": 15585
   },
   {
     "company": "Vitech India",
@@ -17651,7 +18247,7 @@
         {
           "url": "https://vitechinc.com/",
           "status": 200,
-          "bytes": 950
+          "bytes": 834
         },
         {
           "url": "https://careers.vitechinc.com/?scroll_to=js-careers-jobs-block",
@@ -17689,7 +18285,7 @@
         "workable:vitechinc -> no board"
       ]
     },
-    "ms": 18139
+    "ms": 16550
   },
   {
     "company": "Vodex",
@@ -17776,7 +18372,7 @@
         "workable:vodex -> no board"
       ]
     },
-    "ms": 17938
+    "ms": 16701
   },
   {
     "company": "Volansys",
@@ -17794,7 +18390,7 @@
       "pages": [],
       "attempts": []
     },
-    "ms": 90002
+    "ms": 90004
   },
   {
     "company": "Voylla",
@@ -18106,7 +18702,7 @@
         "workable:voylla -> no board"
       ]
     },
-    "ms": 10001
+    "ms": 8941
   },
   {
     "company": "Vsplash",
@@ -18252,7 +18848,7 @@
         {
           "url": "https://vsplash.com/careers",
           "status": 200,
-          "bytes": 644842
+          "bytes": 299595
         },
         {
           "url": "https://vsplash.com/career",
@@ -18262,7 +18858,7 @@
         {
           "url": "https://vsplash.com/jobs",
           "status": 200,
-          "bytes": 644842
+          "bytes": 299595
         },
         {
           "url": "https://vsplash.com/join-us",
@@ -18297,7 +18893,7 @@
         {
           "url": "https://vsplash.com/",
           "status": 200,
-          "bytes": 589466
+          "bytes": 266558
         }
       ],
       "candidates": [
@@ -18315,7 +18911,7 @@
         "workable:vsplash -> no board"
       ]
     },
-    "ms": 73355
+    "ms": 64247
   },
   {
     "company": "Vunet Systems",
@@ -18525,7 +19121,7 @@
         "workable:vunetsystems -> no board"
       ]
     },
-    "ms": 11368
+    "ms": 10287
   },
   {
     "company": "Vyapar",
@@ -20126,6 +20722,6 @@
         "keka:vyaparapp -> 70 jobs"
       ]
     },
-    "ms": 646
+    "ms": 626
   }
 ]

@@ -37,7 +37,7 @@
         {
           "url": "https://uber.com/join-us",
           "status": 404,
-          "bytes": 429009
+          "bytes": 429911
         },
         {
           "url": "https://uber.com/join-our-team",
@@ -60,7 +60,7 @@
         "workable:uber -> no board"
       ]
     },
-    "ms": 29674
+    "ms": 22253
   },
   {
     "company": "UST Global",
@@ -148,15 +148,30 @@
         "workable:ustglobal -> no board"
       ]
     },
-    "ms": 3696
+    "ms": 4129
   },
   {
     "company": "UnitedHealth Group India",
     "country": "India",
     "source": "headings:https://careers.unitedhealthgroup.com/search-jobs",
     "error": null,
-    "totalJobs": 19,
+    "totalJobs": 17,
     "jobs": [
+      {
+        "title": "I O Engineer - 2381327",
+        "location": "",
+        "url": "https://careers.unitedhealthgroup.com/search-jobs",
+        "india": true,
+        "locationSaysIndia": false,
+        "hasLocation": false,
+        "isEng": true,
+        "java": false,
+        "flutter": false,
+        "senior": false,
+        "exp": [],
+        "expFits2": false,
+        "score": 61
+      },
       {
         "title": "FDE Engineer",
         "location": "",
@@ -186,51 +201,6 @@
         "exp": [],
         "expFits2": false,
         "score": 49
-      },
-      {
-        "title": "AI or ML Engineer",
-        "location": "",
-        "url": "https://careers.unitedhealthgroup.com/search-jobs",
-        "india": true,
-        "locationSaysIndia": false,
-        "hasLocation": false,
-        "isEng": true,
-        "java": false,
-        "flutter": false,
-        "senior": false,
-        "exp": [],
-        "expFits2": false,
-        "score": 49
-      },
-      {
-        "title": "Senior Azure Cloud Architect",
-        "location": "",
-        "url": "https://careers.unitedhealthgroup.com/search-jobs",
-        "india": true,
-        "locationSaysIndia": false,
-        "hasLocation": false,
-        "isEng": true,
-        "java": false,
-        "flutter": false,
-        "senior": true,
-        "exp": [],
-        "expFits2": false,
-        "score": 27
-      },
-      {
-        "title": "Principal Software Engineer - Oracle HCM Fusion Cloud",
-        "location": "",
-        "url": "https://careers.unitedhealthgroup.com/search-jobs",
-        "india": true,
-        "locationSaysIndia": false,
-        "hasLocation": false,
-        "isEng": true,
-        "java": false,
-        "flutter": false,
-        "senior": true,
-        "exp": [],
-        "expFits2": false,
-        "score": 27
       },
       {
         "title": "Account Executive",
@@ -323,7 +293,7 @@
         "score": 19
       },
       {
-        "title": "Healthcare Collection Representative, Alabang",
+        "title": "Physical Therapist Assistant - Pleasanton TX",
         "location": "",
         "url": "https://careers.unitedhealthgroup.com/search-jobs",
         "india": true,
@@ -338,7 +308,7 @@
         "score": 19
       },
       {
-        "title": "Healthcare Collection Representative - Makati",
+        "title": "Pharmacy Technician",
         "location": "",
         "url": "https://careers.unitedhealthgroup.com/search-jobs",
         "india": true,
@@ -351,6 +321,36 @@
         "exp": [],
         "expFits2": false,
         "score": 19
+      },
+      {
+        "title": "Medical Assistant Primary Care",
+        "location": "",
+        "url": "https://careers.unitedhealthgroup.com/search-jobs",
+        "india": true,
+        "locationSaysIndia": false,
+        "hasLocation": false,
+        "isEng": false,
+        "java": false,
+        "flutter": false,
+        "senior": false,
+        "exp": [],
+        "expFits2": false,
+        "score": 19
+      },
+      {
+        "title": "Senior Project Manager I - Remote",
+        "location": "",
+        "url": "https://careers.unitedhealthgroup.com/search-jobs",
+        "india": true,
+        "locationSaysIndia": false,
+        "hasLocation": false,
+        "isEng": false,
+        "java": false,
+        "flutter": false,
+        "senior": true,
+        "exp": [],
+        "expFits2": false,
+        "score": 9
       },
       {
         "title": "Lewin Group LEAD Contract",
@@ -383,7 +383,7 @@
         "score": -3
       },
       {
-        "title": "Accounts Receivables Team Lead",
+        "title": "Account Manager, Pharmacy Partnerships - TX",
         "location": "",
         "url": "https://careers.unitedhealthgroup.com/search-jobs",
         "india": true,
@@ -398,37 +398,7 @@
         "score": -3
       },
       {
-        "title": "Senior Business Systems Analyst",
-        "location": "",
-        "url": "https://careers.unitedhealthgroup.com/search-jobs",
-        "india": true,
-        "locationSaysIndia": false,
-        "hasLocation": false,
-        "isEng": false,
-        "java": false,
-        "flutter": false,
-        "senior": true,
-        "exp": [],
-        "expFits2": false,
-        "score": -3
-      },
-      {
-        "title": "Senior Resiliency Analyst",
-        "location": "",
-        "url": "https://careers.unitedhealthgroup.com/search-jobs",
-        "india": true,
-        "locationSaysIndia": false,
-        "hasLocation": false,
-        "isEng": false,
-        "java": false,
-        "flutter": false,
-        "senior": true,
-        "exp": [],
-        "expFits2": false,
-        "score": -3
-      },
-      {
-        "title": "Senior Program Manager, Strategic Partnerships - Remote",
+        "title": "Infrastructure Project Manager - Remote",
         "location": "",
         "url": "https://careers.unitedhealthgroup.com/search-jobs",
         "india": true,
@@ -447,13 +417,13 @@
     "matches": [],
     "nearMatches": [],
     "closest": {
-      "title": "FDE Engineer",
+      "title": "I O Engineer - 2381327",
       "location": "",
       "url": "https://careers.unitedhealthgroup.com/search-jobs",
       "team": "",
-      "text": "FDE Engineer (4) HC Flexible APC (32)",
+      "text": "I O Engineer - 2381327 2381327 | Eden Prairie, Minnesota | Remote",
       "_noEnrich": true,
-      "score": 49,
+      "score": 61,
       "isMatch": false,
       "isEng": true,
       "java": false,
@@ -461,18 +431,18 @@
       "android": false,
       "india": true,
       "senior": false,
-      "junior": false,
+      "junior": true,
       "exp": [],
       "expFits2": false
     },
     "closestEng": {
-      "title": "FDE Engineer",
+      "title": "I O Engineer - 2381327",
       "location": "",
       "url": "https://careers.unitedhealthgroup.com/search-jobs",
       "team": "",
-      "text": "FDE Engineer (4) HC Flexible APC (32)",
+      "text": "I O Engineer - 2381327 2381327 | Eden Prairie, Minnesota | Remote",
       "_noEnrich": true,
-      "score": 49,
+      "score": 61,
       "isMatch": false,
       "isEng": true,
       "java": false,
@@ -480,7 +450,7 @@
       "android": false,
       "india": true,
       "senior": false,
-      "junior": false,
+      "junior": true,
       "exp": [],
       "expFits2": false
     },
@@ -489,7 +459,7 @@
         {
           "url": "https://careers.unitedhealthgroup.com",
           "status": 200,
-          "bytes": 8047452
+          "bytes": 8051387
         },
         {
           "url": "https://unitedhealthgroup.com/careers",
@@ -527,7 +497,7 @@
         "workable:unitedhealthgroup -> no board"
       ]
     },
-    "ms": 13985
+    "ms": 13662
   },
   {
     "company": "Udaan",
@@ -616,7 +586,7 @@
         "workable:udaan -> no board"
       ]
     },
-    "ms": 25249
+    "ms": 25759
   },
   {
     "company": "Unacademy",
@@ -666,7 +636,7 @@
         "skip off-domain https://wellfound.com"
       ]
     },
-    "ms": 7007
+    "ms": 7917
   },
   {
     "company": "Upstox",
@@ -787,7 +757,7 @@
         "workable:upstox -> no board"
       ]
     },
-    "ms": 3674
+    "ms": 4524
   },
   {
     "company": "Urban Company",
@@ -811,12 +781,12 @@
         {
           "url": "https://urbancompany.com/careers",
           "status": 404,
-          "bytes": 461035
+          "bytes": 471743
         },
         {
           "url": "https://urbancompany.com/career",
           "status": 404,
-          "bytes": 460268
+          "bytes": 475455
         }
       ],
       "candidates": [
@@ -844,7 +814,7 @@
         "workable:urbancompany -> no board"
       ]
     },
-    "ms": 16845
+    "ms": 14566
   },
   {
     "company": "UiPath India",
@@ -1017,6 +987,21 @@
         "title": "Sales Engineer",
         "location": "Remote-Texas",
         "url": "https://jobs.ashbyhq.com/uipath/cdb6deba-6e5c-4b6d-a7a9-043a04015eed",
+        "india": false,
+        "locationSaysIndia": false,
+        "hasLocation": true,
+        "isEng": true,
+        "java": false,
+        "flutter": false,
+        "senior": false,
+        "exp": [],
+        "expFits2": false,
+        "score": 34
+      },
+      {
+        "title": "Prinicipal Software Engineer",
+        "location": "Bellevue",
+        "url": "https://jobs.ashbyhq.com/uipath/6a1408b8-7d66-4fc7-90a2-480199454f57",
         "india": false,
         "locationSaysIndia": false,
         "hasLocation": true,
@@ -1562,21 +1547,6 @@
             7
           ]
         ],
-        "expFits2": false,
-        "score": 12
-      },
-      {
-        "title": "Senior Prinicipal Software Engineer",
-        "location": "Bellevue",
-        "url": "https://jobs.ashbyhq.com/uipath/6a1408b8-7d66-4fc7-90a2-480199454f57",
-        "india": false,
-        "locationSaysIndia": false,
-        "hasLocation": true,
-        "isEng": true,
-        "java": false,
-        "flutter": false,
-        "senior": true,
-        "exp": [],
         "expFits2": false,
         "score": 12
       },
@@ -3374,7 +3344,7 @@
         "ashby:uipath -> 121 jobs"
       ]
     },
-    "ms": 5288
+    "ms": 3230
   },
   {
     "company": "Ubisoft India",
@@ -3404,22 +3374,22 @@
         {
           "url": "https://ubisoft.com/career",
           "status": 200,
-          "bytes": 598772
+          "bytes": 598310
         },
         {
           "url": "https://ubisoft.com/jobs",
           "status": 200,
-          "bytes": 598772
+          "bytes": 598310
         },
         {
           "url": "https://ubisoft.com/join-us",
           "status": 200,
-          "bytes": 598772
+          "bytes": 598310
         },
         {
           "url": "https://ubisoft.com/join-our-team",
           "status": 200,
-          "bytes": 598772
+          "bytes": 598310
         },
         {
           "url": "https://ubisoft.com/careers.html",
@@ -3429,22 +3399,22 @@
         {
           "url": "https://ubisoft.com/company/careers",
           "status": 200,
-          "bytes": 598772
+          "bytes": 598310
         },
         {
           "url": "https://ubisoft.com/about/careers",
           "status": 200,
-          "bytes": 598772
+          "bytes": 598310
         },
         {
           "url": "https://ubisoft.com/current-openings",
           "status": 200,
-          "bytes": 598772
+          "bytes": 598310
         },
         {
           "url": "https://ubisoft.com/",
           "status": 200,
-          "bytes": 683692
+          "bytes": 599522
         }
       ],
       "candidates": [
@@ -3462,7 +3432,7 @@
         "workable:ubisoft -> no board"
       ]
     },
-    "ms": 32790
+    "ms": 35384
   },
   {
     "company": "Ugam Solutions",
@@ -3565,7 +3535,7 @@
         "workable:ugamsolutions -> no board"
       ]
     },
-    "ms": 23526
+    "ms": 23647
   },
   {
     "company": "Ula",
@@ -3590,7 +3560,7 @@
         {
           "url": "https://ula.app/careers",
           "status": 403,
-          "bytes": 263
+          "bytes": 243
         },
         {
           "url": "https://ula.app/career",
@@ -3610,7 +3580,7 @@
         {
           "url": "https://ula.app/join-our-team",
           "status": 403,
-          "bytes": 243
+          "bytes": 263
         },
         {
           "url": "https://ula.app/careers.html",
@@ -3641,7 +3611,7 @@
       "candidates": [],
       "attempts": []
     },
-    "ms": 4202
+    "ms": 4284
   },
   {
     "company": "Unbxd",
@@ -3729,7 +3699,7 @@
         "workable:unbxd -> no board"
       ]
     },
-    "ms": 17671
+    "ms": 25048
   },
   {
     "company": "Uniphore",
@@ -4398,6 +4368,7 @@
       "text": "Uniphore is one of the largest B2B AI-native companies—decades-proven, built-for-scale and designed for the enterprise. The company drives business outcomes, across multiple industry verticals, and enables the largest global deployments. Uniphore infuses AI into every part of the enterprise that impacts the customer. We deliver the only multimodal architecture centered on customers that combines Generative AI, Knowledge AI, Emotion AI, workflow automation and a co-pilot to guide you. We understand better than anyone how to capture voice, video and text and how to analyze all types of data. As AI becomes more powerful, every part of the enterprise that impacts the customer will be disrupted. We believe the future will run on the connective tissue between people, machines and data: all in the service of creating the most human processes and experiences for customers and employees. Job Description: Key Responsibilities Lead QA strategy and roadmap for Uniphore’s AI and SaaS platforms, driving continuous improvements in automation, coverage, and release quality. Design and implement scalable automation frameworks for API, UI, and data validation testing. Expertise using AI tools for automation. Partner with Data Science and Engineering teams to validate AI/ML workflows, analytics pipelines, and model integration within production environments. Lead efforts in performance, security, and regression testing, ensuring Uniphore’s enterprise platforms deliver reliability at scale. Perform root cause and trend analysis to identify process gaps and recommend automation or process enhancements. Document QA processes, release notes, and best practices in Confluence / Jira and maintain alignment with Agile/SAFe practices. Ensure end-to-end testing coverage across microservices, APIs, mobile, and web-based solutions in a multi-tenant cloud environment. Qualifications Bachelor’s degree in Computer Science, Engineering 7–10+ years of experience in Software Quality Assurance, including significant automation experience. Expert-level proficiency in at least one programming language (e.g., Java, Python, JavaScript, TypeScript). Ability to understand complex features, write quality test cases, and automation test scripts with the right level of validation and assertions. Strong hands-on experience creating and maintain custom test automation frameworks Experience testing complex systems for end-to-end, longevity, reliability, migration, and performance testing. Experience using building and deploying AI testing strategies for foundation models, prompt engineering, fine-tuning, Retrieval-Augmented Generation (RAG) or Generative AI frameworks (LangChain, Guidance etc) Deep understanding of CI/CD workflows and tools (e.g., Jenkins, GitHub Actions, GitLab CI, CircleCI). Proven ability to understand complex, distributed systems and design test strategies for them Excellent analytical, debugging, and problem-solving skills. Preferred Skills Familiarity with microservices architectures and related testing methodologies. Experience with performance/load testing tools (JMeter, Gatling, k6). Hands on experience with cloud platforms (GCP/AWS/Azure). Familiarity with at least one of them is ideal. Experience working in Agile/Scrum environments. Prior mentorship or leadership experience in QA teams. Prior experience of testing data driven applications. Location preference: India - Bangalore Uniphore is an equal opportunity employer committed to diversity in the workplace. We evaluate qualified applicants without regard to race, color, religion, sex, sexual orientation, disability, veteran status, and other protected characteristics. For more information on how Uniphore uses AI to unify—and humanize—every enterprise experience, please visit www.uniphore.com.",
       "_detail": "https://uniphore.wd503.myworkdayjobs.com/wday/cxs/uniphore/Uniphore/job/India---Bangalore/Senior-Staff-Software-Engineer--SDET-_JR101144-1",
       "_detailKind": "workday",
+      "_enriched": true,
       "score": 48,
       "isMatch": false,
       "isEng": true,
@@ -4427,6 +4398,7 @@
       "text": "Uniphore is one of the largest B2B AI-native companies—decades-proven, built-for-scale and designed for the enterprise. The company drives business outcomes, across multiple industry verticals, and enables the largest global deployments. Uniphore infuses AI into every part of the enterprise that impacts the customer. We deliver the only multimodal architecture centered on customers that combines Generative AI, Knowledge AI, Emotion AI, workflow automation and a co-pilot to guide you. We understand better than anyone how to capture voice, video and text and how to analyze all types of data. As AI becomes more powerful, every part of the enterprise that impacts the customer will be disrupted. We believe the future will run on the connective tissue between people, machines and data: all in the service of creating the most human processes and experiences for customers and employees. Job Description: Key Responsibilities Lead QA strategy and roadmap for Uniphore’s AI and SaaS platforms, driving continuous improvements in automation, coverage, and release quality. Design and implement scalable automation frameworks for API, UI, and data validation testing. Expertise using AI tools for automation. Partner with Data Science and Engineering teams to validate AI/ML workflows, analytics pipelines, and model integration within production environments. Lead efforts in performance, security, and regression testing, ensuring Uniphore’s enterprise platforms deliver reliability at scale. Perform root cause and trend analysis to identify process gaps and recommend automation or process enhancements. Document QA processes, release notes, and best practices in Confluence / Jira and maintain alignment with Agile/SAFe practices. Ensure end-to-end testing coverage across microservices, APIs, mobile, and web-based solutions in a multi-tenant cloud environment. Qualifications Bachelor’s degree in Computer Science, Engineering 7–10+ years of experience in Software Quality Assurance, including significant automation experience. Expert-level proficiency in at least one programming language (e.g., Java, Python, JavaScript, TypeScript). Ability to understand complex features, write quality test cases, and automation test scripts with the right level of validation and assertions. Strong hands-on experience creating and maintain custom test automation frameworks Experience testing complex systems for end-to-end, longevity, reliability, migration, and performance testing. Experience using building and deploying AI testing strategies for foundation models, prompt engineering, fine-tuning, Retrieval-Augmented Generation (RAG) or Generative AI frameworks (LangChain, Guidance etc) Deep understanding of CI/CD workflows and tools (e.g., Jenkins, GitHub Actions, GitLab CI, CircleCI). Proven ability to understand complex, distributed systems and design test strategies for them Excellent analytical, debugging, and problem-solving skills. Preferred Skills Familiarity with microservices architectures and related testing methodologies. Experience with performance/load testing tools (JMeter, Gatling, k6). Hands on experience with cloud platforms (GCP/AWS/Azure). Familiarity with at least one of them is ideal. Experience working in Agile/Scrum environments. Prior mentorship or leadership experience in QA teams. Prior experience of testing data driven applications. Location preference: India - Bangalore Uniphore is an equal opportunity employer committed to diversity in the workplace. We evaluate qualified applicants without regard to race, color, religion, sex, sexual orientation, disability, veteran status, and other protected characteristics. For more information on how Uniphore uses AI to unify—and humanize—every enterprise experience, please visit www.uniphore.com.",
       "_detail": "https://uniphore.wd503.myworkdayjobs.com/wday/cxs/uniphore/Uniphore/job/India---Bangalore/Senior-Staff-Software-Engineer--SDET-_JR101144-1",
       "_detailKind": "workday",
+      "_enriched": true,
       "score": 48,
       "isMatch": false,
       "isEng": true,
@@ -4519,7 +4491,7 @@
         "workday:uniphore -> 37 jobs"
       ]
     },
-    "ms": 11800
+    "ms": 12608
   },
   {
     "company": "Unisys India",
@@ -4528,6 +4500,26 @@
     "error": null,
     "totalJobs": 40,
     "jobs": [
+      {
+        "title": "NOC Engineer",
+        "location": "Hyderabad-Waverock",
+        "url": "https://unisys.wd5.myworkdayjobs.com/External/job/Hyderabad-Waverock/NOC-Engineer_REQ574600",
+        "india": true,
+        "locationSaysIndia": true,
+        "hasLocation": true,
+        "isEng": true,
+        "java": false,
+        "flutter": false,
+        "senior": false,
+        "exp": [
+          [
+            1,
+            2
+          ]
+        ],
+        "expFits2": true,
+        "score": 75
+      },
       {
         "title": "Network Security Engineer",
         "location": "Bangalore, KA, India",
@@ -4649,6 +4641,30 @@
         "exp": [],
         "expFits2": false,
         "score": 31
+      },
+      {
+        "title": "Subject Matter Expert Network Engineer",
+        "location": "Bangalore, KA, India",
+        "url": "https://unisys.wd5.myworkdayjobs.com/External/job/Bangalore-KA-India/Subject-Matter-Expert-Network-Engineer_REQ574905",
+        "india": true,
+        "locationSaysIndia": true,
+        "hasLocation": true,
+        "isEng": true,
+        "java": false,
+        "flutter": false,
+        "senior": true,
+        "exp": [
+          [
+            8,
+            12
+          ],
+          [
+            8,
+            9
+          ]
+        ],
+        "expFits2": false,
+        "score": 23
       },
       {
         "title": "Sr. Engineer Service Management",
@@ -4990,36 +5006,6 @@
         "score": -3
       },
       {
-        "title": "Claude Platform AI Security Architect",
-        "location": "Bangalore, KA, India",
-        "url": "https://unisys.wd5.myworkdayjobs.com/External/job/Bangalore-KA-India/AI-Security-Architect_REQ574722",
-        "india": true,
-        "locationSaysIndia": true,
-        "hasLocation": true,
-        "isEng": false,
-        "java": false,
-        "flutter": false,
-        "senior": true,
-        "exp": [],
-        "expFits2": false,
-        "score": -3
-      },
-      {
-        "title": "Client Delivery Executive - DWS Service Desk (Associate Principal Client Delivery Executive)",
-        "location": "2 Locations",
-        "url": "https://unisys.wd5.myworkdayjobs.com/External/job/Bangalore-KA-India/Client-Delivery-Executive---DWS-Service-Desk--Associate-Principal-Client-Delivery-Executive-_REQ574659-1",
-        "india": false,
-        "locationSaysIndia": false,
-        "hasLocation": true,
-        "isEng": false,
-        "java": false,
-        "flutter": false,
-        "senior": true,
-        "exp": [],
-        "expFits2": false,
-        "score": -6
-      },
-      {
         "title": "Sr. Principal Presales Solution Architect - DWP (Digital Workplace Solutions)",
         "location": "Bogota, DC, Colombia",
         "url": "https://unisys.wd5.myworkdayjobs.com/External/job/Bogota-DC-Colombia/Sr-Principal-Presales-Solution-Architect---DWP--Digital-Workplace-Solutions-_REQ572676",
@@ -5170,18 +5156,19 @@
         "score": -18
       }
     ],
-    "enriched": 6,
+    "enriched": 8,
     "matches": [],
     "nearMatches": [],
     "closest": {
-      "title": "Network Security Engineer",
-      "location": "Bangalore, KA, India",
-      "url": "https://unisys.wd5.myworkdayjobs.com/External/job/Bangalore-KA-India/Network-Security-Engineer_REQ574934",
+      "title": "NOC Engineer",
+      "location": "Hyderabad-Waverock",
+      "url": "https://unisys.wd5.myworkdayjobs.com/External/job/Hyderabad-Waverock/NOC-Engineer_REQ574600",
       "team": "",
-      "text": "What success looks like in this role: • Develops and executes security controls, defenses and counter measures to intercept and prevent attacks or attempts to infiltrate company systems. • Ensures security product deployment is performed in a seamless manner across varied environments and systems. • Implements automation by scripting and application programming interfaces (APIs) to integrate security products and ensure they work in an orchestrated manner. • Coordinates the handling and resolution of security incidents and day-to-day operations and maintenance of security tools. You will be successful in this role if you have: BA/BS degree and 4-6 years’ relevant experience OR equivalent combination of education and experience Unisys is proud to be an equal opportunity employer that considers all qualified applicants without regard to age, blood type, caste, citizenship, color, disability, family medical history, family status, ethnicity, gender, gender expression, gender identity, genetic information, marital status, national origin, parental status, pregnancy, race, religion, sex, sexual orientation, transgender status, veteran status or any other category protected by law. Local employment practices and rights may vary by jurisdiction and are subject to applicable local laws. This commitment includes our efforts to provide for all those who seek to express interest in employment the opportunity to participate without barriers. If you are a US job seeker unable to review the job opportunities herein, or cannot otherwise complete your expression of interest, without additional assistance and would like to discuss a request for reasonable accommodation, please contact our Global Recruiting organization at GlobalRecruiting@unisys.com . US job seekers can find more information about Unisys’ EEO commitment here .",
-      "_detail": "https://unisys.wd5.myworkdayjobs.com/wday/cxs/unisys/External/job/Bangalore-KA-India/Network-Security-Engineer_REQ574934",
+      "text": "What success looks like in this role: • Gains familiarity with service management concepts, practices and methodologies. • With guidance, performs routine service management duties, including: o Generating and distributing reports and/or providing dashboards for internal and Regular Clients, o Assisting with Change, Problem, and other service management processes, and o Performing routine Problem and Request management analyses. • Maintains high standards of written communications. • Reaches out to account representatives to understand service, reporting and other needs. • Participate in a continuous service improvement program for in-scope ESM processes and services. • Interfaces with internal resources to manage ESM processes on a day-to-day basis. • Develops positive working relationships with internal account, service delivery and related teams. • Ensures contractual service support requirements are understood. • Escalates complex issues through the standard escalation process. • Ensures that the ticket hygiene is maintained at high level. • Develops and maintains positive working relationships with internal, support and client teams. • Assists with special projects as assigned. Candidate should be willing to work on on 24*7 rotational shifts. Skills Required : NOC Operations, Networking ,ITIL Basics ,Data center, Servers and Infrastructure Monitoring #LI-MI1 You will be successful in this role if you have: BA/BS degree and 1-2 years’ of relevant experience OR equivalent combination of education and experience Unisys is proud to be an equal opportunity employer that considers all qualified applicants without regard to age, blood type, caste, citizenship, color, disability, family medical history, family status, ethnicity, gender, gender expression, gender identity, genetic information, marital status, national origin, parental status, pregnancy, race, religion, sex, sexual orientation, transgender status, veteran status or any other category protected by law. Local employment practices and rights may vary by jurisdiction and are subject to applicable local laws. This commitment includes our efforts to provide for all those who seek to express interest in employment the opportunity to participate without barriers. If you are a US job seeker unable to review the job opportunities herein, or cannot otherwise complete your expression of interest, without additional assistance and would like to discuss a request for reasonable accommodation, please contact our Global Recruiting organization at GlobalRecruiting@unisys.com . US job seekers can find more information about Unisys’ EEO commitment here .",
+      "_detail": "https://unisys.wd5.myworkdayjobs.com/wday/cxs/unisys/External/job/Hyderabad-Waverock/NOC-Engineer_REQ574600",
       "_detailKind": "workday",
-      "score": 57,
+      "_enriched": true,
+      "score": 75,
       "isMatch": false,
       "isEng": true,
       "java": false,
@@ -5192,21 +5179,22 @@
       "junior": false,
       "exp": [
         [
-          4,
-          6
+          1,
+          2
         ]
       ],
-      "expFits2": false
+      "expFits2": true
     },
     "closestEng": {
-      "title": "Network Security Engineer",
-      "location": "Bangalore, KA, India",
-      "url": "https://unisys.wd5.myworkdayjobs.com/External/job/Bangalore-KA-India/Network-Security-Engineer_REQ574934",
+      "title": "NOC Engineer",
+      "location": "Hyderabad-Waverock",
+      "url": "https://unisys.wd5.myworkdayjobs.com/External/job/Hyderabad-Waverock/NOC-Engineer_REQ574600",
       "team": "",
-      "text": "What success looks like in this role: • Develops and executes security controls, defenses and counter measures to intercept and prevent attacks or attempts to infiltrate company systems. • Ensures security product deployment is performed in a seamless manner across varied environments and systems. • Implements automation by scripting and application programming interfaces (APIs) to integrate security products and ensure they work in an orchestrated manner. • Coordinates the handling and resolution of security incidents and day-to-day operations and maintenance of security tools. You will be successful in this role if you have: BA/BS degree and 4-6 years’ relevant experience OR equivalent combination of education and experience Unisys is proud to be an equal opportunity employer that considers all qualified applicants without regard to age, blood type, caste, citizenship, color, disability, family medical history, family status, ethnicity, gender, gender expression, gender identity, genetic information, marital status, national origin, parental status, pregnancy, race, religion, sex, sexual orientation, transgender status, veteran status or any other category protected by law. Local employment practices and rights may vary by jurisdiction and are subject to applicable local laws. This commitment includes our efforts to provide for all those who seek to express interest in employment the opportunity to participate without barriers. If you are a US job seeker unable to review the job opportunities herein, or cannot otherwise complete your expression of interest, without additional assistance and would like to discuss a request for reasonable accommodation, please contact our Global Recruiting organization at GlobalRecruiting@unisys.com . US job seekers can find more information about Unisys’ EEO commitment here .",
-      "_detail": "https://unisys.wd5.myworkdayjobs.com/wday/cxs/unisys/External/job/Bangalore-KA-India/Network-Security-Engineer_REQ574934",
+      "text": "What success looks like in this role: • Gains familiarity with service management concepts, practices and methodologies. • With guidance, performs routine service management duties, including: o Generating and distributing reports and/or providing dashboards for internal and Regular Clients, o Assisting with Change, Problem, and other service management processes, and o Performing routine Problem and Request management analyses. • Maintains high standards of written communications. • Reaches out to account representatives to understand service, reporting and other needs. • Participate in a continuous service improvement program for in-scope ESM processes and services. • Interfaces with internal resources to manage ESM processes on a day-to-day basis. • Develops positive working relationships with internal account, service delivery and related teams. • Ensures contractual service support requirements are understood. • Escalates complex issues through the standard escalation process. • Ensures that the ticket hygiene is maintained at high level. • Develops and maintains positive working relationships with internal, support and client teams. • Assists with special projects as assigned. Candidate should be willing to work on on 24*7 rotational shifts. Skills Required : NOC Operations, Networking ,ITIL Basics ,Data center, Servers and Infrastructure Monitoring #LI-MI1 You will be successful in this role if you have: BA/BS degree and 1-2 years’ of relevant experience OR equivalent combination of education and experience Unisys is proud to be an equal opportunity employer that considers all qualified applicants without regard to age, blood type, caste, citizenship, color, disability, family medical history, family status, ethnicity, gender, gender expression, gender identity, genetic information, marital status, national origin, parental status, pregnancy, race, religion, sex, sexual orientation, transgender status, veteran status or any other category protected by law. Local employment practices and rights may vary by jurisdiction and are subject to applicable local laws. This commitment includes our efforts to provide for all those who seek to express interest in employment the opportunity to participate without barriers. If you are a US job seeker unable to review the job opportunities herein, or cannot otherwise complete your expression of interest, without additional assistance and would like to discuss a request for reasonable accommodation, please contact our Global Recruiting organization at GlobalRecruiting@unisys.com . US job seekers can find more information about Unisys’ EEO commitment here .",
+      "_detail": "https://unisys.wd5.myworkdayjobs.com/wday/cxs/unisys/External/job/Hyderabad-Waverock/NOC-Engineer_REQ574600",
       "_detailKind": "workday",
-      "score": 57,
+      "_enriched": true,
+      "score": 75,
       "isMatch": false,
       "isEng": true,
       "java": false,
@@ -5217,11 +5205,11 @@
       "junior": false,
       "exp": [
         [
-          4,
-          6
+          1,
+          2
         ]
       ],
-      "expFits2": false
+      "expFits2": true
     },
     "trace": {
       "pages": [
@@ -5294,7 +5282,7 @@
         "workday:unisys -> 40 jobs"
       ]
     },
-    "ms": 12695
+    "ms": 12537
   },
   {
     "company": "UpGrad",
@@ -5452,7 +5440,7 @@
         "workable:upgrad -> no board"
       ]
     },
-    "ms": 47406
+    "ms": 9287
   },
   {
     "company": "Utthunga",
@@ -5644,12 +5632,12 @@
         {
           "url": "https://utthunga.com/careers",
           "status": 200,
-          "bytes": 945894
+          "bytes": 942805
         },
         {
           "url": "https://utthunga.com/career",
           "status": 200,
-          "bytes": 945894
+          "bytes": 942805
         },
         {
           "url": "https://utthunga.com/jobs",
@@ -5672,7 +5660,7 @@
         "workable:utthunga -> no board"
       ]
     },
-    "ms": 9741
+    "ms": 10071
   },
   {
     "company": "United Airlines India",
@@ -5690,7 +5678,7 @@
       "pages": [],
       "attempts": []
     },
-    "ms": 90002
+    "ms": 90004
   },
   {
     "company": "Ushur",
@@ -5947,7 +5935,7 @@
         "workable:ushur -> no board"
       ]
     },
-    "ms": 27506
+    "ms": 14194
   },
   {
     "company": "Uplers",
@@ -6140,6 +6128,7 @@
       "url": "https://www.uplers.com/blog/when-should-you-hire-a-dedicated-wordpress-developer-instead-of-using-a-theme/",
       "team": "",
       "text": "When Should You Hire a Dedicated WordPress Developer Instead of Using a Theme? - Uplers For Companies For Talents About Resource Pricing Contact Hire Talent Find a Job Hire by Stage Early-Stage Startups Build your early team without losing founder time. Growth Stage Startups Build hiring systems that keep up with growth. Scale-ups & GCCs Scale execution with flexible talent solutions. Hiring Models Curated Sourcing AI-led sourcing at a fraction of traditional cost. Full Service Hiring High-touch recruitment for strategic roles. Contract Talent Flexible talent to reduce execution risk. Roles Full Stack Engineers AI Engineers Forward Deployed Engineer Backend Engineers DevOps Engineers QA Engineers Data Engineers View all Roles Knowledge Base Guides and answers to get you started. FAQ Quick answers to the most common questions. Find a Job Browse open roles at vetted companies. Our Clientele The companies hiring through Uplers. India Salary Guide 2026 Benchmark pay across roles and cities. AI JD Builder Tailored JD in minutes with our AI Articles Hiring insights and practical how-to guides. Salary Tool Global Vs India Salary Comparison Tool For Companies For Talents About Resource Pricing Contact Hire Talent Find a Job When Should You Hire a Dedicated WordPress Developer Instead of Using a Theme? Kritika Verma October 9, 2025 6 Minute Read Imagine that you have just launched a product and your marketing team is firing on all cylinders and leads are rolling in. But your website? That’s slow, generic, and doesn’t convert traffic into action. That’s where you opt for the in-built WordPress themes for its fast setup and low cost. Sounds smart, but only until performance issues, customization roadblocks, and fragmented design start hurting your brand. Additionally, there’s a brutal truth for product companies: a 1-second delay in your page load speed can result in a 7% reduction in conversions. This is not simply a lag – but lost revenue, credibility, and momentum. So, how do you know that it’s finally time to move beyond a theme and hire top WordPress developers to bring speed, scalability, and a custom vibe to your website? In this blog, we will navigate that decision without overselling or underpaying the real business impact. Themes vs. Developer: A Smart Comparison Criteria Pre-Built WordPress Themes Dedicated WordPress Developer Definition & Use Cases Pre-designed templates can be a great option for basic blogs or quick MVPs. Custom-built sites are specifically crafted to resonate with your brand, UX goals, and business logic. Pros & Cons Pros: Fast to launch Low cost Readily available Cons: Generic design Inflexible Potential code bloat Pros: Full UX control Scalable Performance-optimized Cons: High investment up-front Longer delivery timeline Developer Role & Skills N/A Dedicated WordPress developer skills must include expertise in: PHP JavaScript HTML/CSS REST APIs Performance Security Freelancers Vs dedicated developers N/A While freelancers offer flexibility, dedicated WordPress developers offer speed, scalability, continuity, and quality. When a Theme Does the Job Sometimes a theme can prove to be the right choice. Ask yourself: Do you have a limited budget or are you in the early stages? Do you just require quick implementation and simple branding? Is an internet presence rather than a unique feature set your end goal? For startups, small businesses, and event-driven landing pages, themes promote faster rollouts with minimal cost. But for short-term or temporary solutions they remain as the best alternative. Limitations of Using Only a WordPress Theme The following theme limitations can potentially hamper your business growth: Lack of Scalability and Flexibility Pre-built themes are designed with a one-size-fits-all functionality. With your evolving business needs, you may find that the theme can’t accommodate advanced features, changing design needs, or integration with tools like CRMs or marketing platforms. This leaves no option but to either heavily customize the theme, often breaking it in the process or rebuilding from scratch wasting time and resources. Performance and SEO Challenges Themes are often packed with unnecessary features, scripts, and plugins that aren’t even relevant to the website’s use cases. This extra bloat tends to slow down your site, which has a direct impact on user experience and search engine rankings. In fact, according to Google page speed is one of the ranking factors and a delay of a micro second can have a negative bearing upon customer satisfaction. Security Risks and Code Bloat Free or poorly maintained themes offer an easy gateway to hackers, especially if there is heavy reliance on outdated code or unsupported plugins. Additionally, theme developers might not follow WordPress coding standards or properly sanitize user inputs, leading to vulnerabilities. On the other hand, custom development offers you full control over code quality, plugin dependencies, and security protocols. Key Signs You Should Hire a Dedicated WordPress Developer You must strongly consider hiring top WordPress developers if: You Need a Fully Custom Design/UI/UX Themes will limit your ability to create a distinct and on-brand experience. A developer can build pixel-perfect layouts that will reflect your vision and guide users more intentionally. You Require Complex Functionalities or Integrations If you need CRM integration, payment gateways, or custom dashboards themes can’t handle the complexity without breaking. Alternatively, a developer can build custom features that work reliably and scale as required. You are Scaling or Rebranding Your Business If you are growing fast or giving your brand a refresh, flexibility is a must. When it comes to rebrands or redesigns themes often don’t suffice. Whereas, a developer ensures that your site evolves smoothly with your business goals. You Want Better Site Speed, Performance, and SEO Speed and performance have a direct impact on SEO and user engagement. Themes are often bloated with unnecessary code, on the contrary a developer can streamline your site for fast loading, clean code, and higher rankings. You Need Ongoing Technical Support and Maintenance With themes you are on your own when things break. Developers offer consistent support, handle updates, and proactively maintain your site. This saves you time and prevents downtime. Cost Comparison: Themes vs. Developer Value Initial Cost vs. Long-Term ROI Themes can cost you under $100, but hidden limitations, plugin expenses, and maintenance costs can pile up. On the other hand, custom development costs more initially, but helps unlock higher ROI, better performance, and scalability. Hidden Costs in Pre-Built Themes Frequent plugin conflicts, dependent updates, or landing-poor performance can turn a cheap theme into a costly nightmare. Value-Added Benefits of Custom Development Agile loading, cleaner code, and customized features boost user engagement and conversion rates. If you consider the recent market statistics, the average annual WordPress developer salary in the USA can range from $ to $. Whereas, in India it can be far cost-effective ranging from $ to $ annually. Ideal Use Cases for Hiring a Developer There are several scenarios where custom development can shine. Some top use cases include: eCommerce Stores (WooCommerce Customization) Membership Portals LMS & eLearning Platforms Enterprise or Multi-Site WordPress Projects Sites with Custom Business Logic or Automation When your platform demands functionality beyond aesthetics a theme will never make the cut. Common Myths About Hiring Developers It’s Too Expensive Most hiring managers might assume that hiring a dedicated developer means spending tens of thousands upfront. Amidst the rising demand for WordPress developers , with offshore options and flexible contracts it becomes possible to get high-quality development at a fraction of the cost. Only Big Brands Need Developers Custom development is not just restricted to enterprises. Startups, SaaS companies, and solo entrepreneurs often need customized solutions that themes can’t offer. Hiring top WordPress developers can help build a stronger foundation, even for small-sized teams with bigger goals. Themes Are Always Easier and Faster Themes can be faster to launch but they often create bottlenecks when you need scalability or have to make changes. Custom development offers long-term flexibility and fewer plugin headaches saving time in the long run. To untangle these do’s and dont’s in the discussion of WordPress themes Vs custom development , hiring platforms like Uplers can be the right choice. You can hire top 3.5% WordPress developers that are vetted using AI and human intelligence from a 3M+ network. Hiring becomes seamless and effortless, all designed to ensure that you are investing only in what truly fits your needs. Let’s understand this choice in a little more detail. Why Choose Uplers? Unlike other job portals or hiring platforms in the market, Uplers stands unique with its AI-vetting process backed with human intelligence. Our platform has the largest private network of 3M+ STEM graduates from IIT, NIT, and renowned universities of India. We intend to cater as an end-to-end platform in bridging the talent gap between the scaling demand and scanty supply. By offering AI-vetted and AI-interviewed talent profiles within the first 2 days, matching the right WordPress developer for the job becomes effortless. Our AI algorithm also prepares a list of the questions you can ask in the interview with an option to customize them as per your job specifications or hiring needs. With top profiles in your inbox, a hiring questionnaire, a 30-days easy cancellation, a lifetime free talent replacement, onboarding assistance, and employer branding support, we are your one-stop hiring partner. Whether you are a SaaS startup or a scaling tech company, we help you hire top WordPress developers that match your technical and cultural needs efficiently and effectively. Final Call: Make the Right Choice for Your Business Choosing between a built-in WordPress theme and a dedicated developer is not just a budget decision, it’s a strategic one. If you are looking for speed and simplicity, a theme may do just fine. But if you are building for growth, performance, or brand authority, hiring top WordPress developers is the clear winner. To scale with confidence the question is not about “if”, it’s about “how soon”. Similar Articles Where to Hire WordPress Developers in India: Top 5 Trusted Platforms Why WordPress Developers Are Still in High Demand in 2025 Hiring a WordPress Developer: Do’s and Dont’s Kritika Verma SEO Executive Kritika is an experienced SEO executive with over 4 years of experience helping businesses improve their online presence. She has a strong understanding of search engines and creates effective strategies to boost website rankings. Similar Blogs Read Latest ML Engineers vs AI Engineers: Who Does What When Shipping an AI Product Ashima Jain August 7, 2026 5 Minute Read Blog Read Best Platforms for Hiring Engineers from India in 2026: An Unbiased Comparison Shachi Dixit August 5, 2026 9 Minute Read Blog Read Looking for the best AI Job Description creator? Aayushi Pandya July 31, 2026 2 Minute Read Blog AI-native hiring partner LinkedIn 1M+ Followers Google 4.1 ★ 396 reviews Clutch 4.9 ★ 126 reviews Company About Book a Call Contact Pricing Hire by Stage Early Stage Startups Growth Stage Startups Scale-ups & GCCs Hiring Models Curated sourcing Full service hiring Contract talent Resources Articles Blogs Resources Clients Network India Salary Guide 2026 AI JD Builder For Talents Join Our Network Find a Job Transform Your Resume Knowledge Base FAQ Modify / Delete My Data Top AI Roles Forward Deployed Engineer AI Engineers MLOps / AI Ops Engineers Gen AI Engineers Prompt Engineers Agentic AI Engineers AI Product Managers AI Data Scientists Most Hired Roles AI Engineers Full Stack Engineers Backend Engineers Frontend Engineers QA Engineers DevOps Engineers Cloud Engineers Data Engineers React Native Engineers Product Teams Product Designers UX Researchers Product Managers Product Analysts Customer Success GTM Growth Marketers Performance Marketers SEO Specialists Content Strategists Demand Gen Specialists © 2026 Uplers Solutions Private Limited. All rights reserved. DMCA protected Privacy Policy Sitemap Talk to us right now Book a call What are you looking to hire? Send an Inquiry Ready to hire? Let’s start Finding top talent from India is like finding a needle in a haystack. We&#x27;ve spent the last 5 years perfecting it. If you are looking for a job, head to platform.uplers.com . If you are looking to hire, click to activate the form.",
+      "_enriched": true,
       "score": 57,
       "isMatch": false,
       "isEng": true,
@@ -6167,6 +6156,7 @@
       "url": "https://www.uplers.com/blog/when-should-you-hire-a-dedicated-wordpress-developer-instead-of-using-a-theme/",
       "team": "",
       "text": "When Should You Hire a Dedicated WordPress Developer Instead of Using a Theme? - Uplers For Companies For Talents About Resource Pricing Contact Hire Talent Find a Job Hire by Stage Early-Stage Startups Build your early team without losing founder time. Growth Stage Startups Build hiring systems that keep up with growth. Scale-ups & GCCs Scale execution with flexible talent solutions. Hiring Models Curated Sourcing AI-led sourcing at a fraction of traditional cost. Full Service Hiring High-touch recruitment for strategic roles. Contract Talent Flexible talent to reduce execution risk. Roles Full Stack Engineers AI Engineers Forward Deployed Engineer Backend Engineers DevOps Engineers QA Engineers Data Engineers View all Roles Knowledge Base Guides and answers to get you started. FAQ Quick answers to the most common questions. Find a Job Browse open roles at vetted companies. Our Clientele The companies hiring through Uplers. India Salary Guide 2026 Benchmark pay across roles and cities. AI JD Builder Tailored JD in minutes with our AI Articles Hiring insights and practical how-to guides. Salary Tool Global Vs India Salary Comparison Tool For Companies For Talents About Resource Pricing Contact Hire Talent Find a Job When Should You Hire a Dedicated WordPress Developer Instead of Using a Theme? Kritika Verma October 9, 2025 6 Minute Read Imagine that you have just launched a product and your marketing team is firing on all cylinders and leads are rolling in. But your website? That’s slow, generic, and doesn’t convert traffic into action. That’s where you opt for the in-built WordPress themes for its fast setup and low cost. Sounds smart, but only until performance issues, customization roadblocks, and fragmented design start hurting your brand. Additionally, there’s a brutal truth for product companies: a 1-second delay in your page load speed can result in a 7% reduction in conversions. This is not simply a lag – but lost revenue, credibility, and momentum. So, how do you know that it’s finally time to move beyond a theme and hire top WordPress developers to bring speed, scalability, and a custom vibe to your website? In this blog, we will navigate that decision without overselling or underpaying the real business impact. Themes vs. Developer: A Smart Comparison Criteria Pre-Built WordPress Themes Dedicated WordPress Developer Definition & Use Cases Pre-designed templates can be a great option for basic blogs or quick MVPs. Custom-built sites are specifically crafted to resonate with your brand, UX goals, and business logic. Pros & Cons Pros: Fast to launch Low cost Readily available Cons: Generic design Inflexible Potential code bloat Pros: Full UX control Scalable Performance-optimized Cons: High investment up-front Longer delivery timeline Developer Role & Skills N/A Dedicated WordPress developer skills must include expertise in: PHP JavaScript HTML/CSS REST APIs Performance Security Freelancers Vs dedicated developers N/A While freelancers offer flexibility, dedicated WordPress developers offer speed, scalability, continuity, and quality. When a Theme Does the Job Sometimes a theme can prove to be the right choice. Ask yourself: Do you have a limited budget or are you in the early stages? Do you just require quick implementation and simple branding? Is an internet presence rather than a unique feature set your end goal? For startups, small businesses, and event-driven landing pages, themes promote faster rollouts with minimal cost. But for short-term or temporary solutions they remain as the best alternative. Limitations of Using Only a WordPress Theme The following theme limitations can potentially hamper your business growth: Lack of Scalability and Flexibility Pre-built themes are designed with a one-size-fits-all functionality. With your evolving business needs, you may find that the theme can’t accommodate advanced features, changing design needs, or integration with tools like CRMs or marketing platforms. This leaves no option but to either heavily customize the theme, often breaking it in the process or rebuilding from scratch wasting time and resources. Performance and SEO Challenges Themes are often packed with unnecessary features, scripts, and plugins that aren’t even relevant to the website’s use cases. This extra bloat tends to slow down your site, which has a direct impact on user experience and search engine rankings. In fact, according to Google page speed is one of the ranking factors and a delay of a micro second can have a negative bearing upon customer satisfaction. Security Risks and Code Bloat Free or poorly maintained themes offer an easy gateway to hackers, especially if there is heavy reliance on outdated code or unsupported plugins. Additionally, theme developers might not follow WordPress coding standards or properly sanitize user inputs, leading to vulnerabilities. On the other hand, custom development offers you full control over code quality, plugin dependencies, and security protocols. Key Signs You Should Hire a Dedicated WordPress Developer You must strongly consider hiring top WordPress developers if: You Need a Fully Custom Design/UI/UX Themes will limit your ability to create a distinct and on-brand experience. A developer can build pixel-perfect layouts that will reflect your vision and guide users more intentionally. You Require Complex Functionalities or Integrations If you need CRM integration, payment gateways, or custom dashboards themes can’t handle the complexity without breaking. Alternatively, a developer can build custom features that work reliably and scale as required. You are Scaling or Rebranding Your Business If you are growing fast or giving your brand a refresh, flexibility is a must. When it comes to rebrands or redesigns themes often don’t suffice. Whereas, a developer ensures that your site evolves smoothly with your business goals. You Want Better Site Speed, Performance, and SEO Speed and performance have a direct impact on SEO and user engagement. Themes are often bloated with unnecessary code, on the contrary a developer can streamline your site for fast loading, clean code, and higher rankings. You Need Ongoing Technical Support and Maintenance With themes you are on your own when things break. Developers offer consistent support, handle updates, and proactively maintain your site. This saves you time and prevents downtime. Cost Comparison: Themes vs. Developer Value Initial Cost vs. Long-Term ROI Themes can cost you under $100, but hidden limitations, plugin expenses, and maintenance costs can pile up. On the other hand, custom development costs more initially, but helps unlock higher ROI, better performance, and scalability. Hidden Costs in Pre-Built Themes Frequent plugin conflicts, dependent updates, or landing-poor performance can turn a cheap theme into a costly nightmare. Value-Added Benefits of Custom Development Agile loading, cleaner code, and customized features boost user engagement and conversion rates. If you consider the recent market statistics, the average annual WordPress developer salary in the USA can range from $ to $. Whereas, in India it can be far cost-effective ranging from $ to $ annually. Ideal Use Cases for Hiring a Developer There are several scenarios where custom development can shine. Some top use cases include: eCommerce Stores (WooCommerce Customization) Membership Portals LMS & eLearning Platforms Enterprise or Multi-Site WordPress Projects Sites with Custom Business Logic or Automation When your platform demands functionality beyond aesthetics a theme will never make the cut. Common Myths About Hiring Developers It’s Too Expensive Most hiring managers might assume that hiring a dedicated developer means spending tens of thousands upfront. Amidst the rising demand for WordPress developers , with offshore options and flexible contracts it becomes possible to get high-quality development at a fraction of the cost. Only Big Brands Need Developers Custom development is not just restricted to enterprises. Startups, SaaS companies, and solo entrepreneurs often need customized solutions that themes can’t offer. Hiring top WordPress developers can help build a stronger foundation, even for small-sized teams with bigger goals. Themes Are Always Easier and Faster Themes can be faster to launch but they often create bottlenecks when you need scalability or have to make changes. Custom development offers long-term flexibility and fewer plugin headaches saving time in the long run. To untangle these do’s and dont’s in the discussion of WordPress themes Vs custom development , hiring platforms like Uplers can be the right choice. You can hire top 3.5% WordPress developers that are vetted using AI and human intelligence from a 3M+ network. Hiring becomes seamless and effortless, all designed to ensure that you are investing only in what truly fits your needs. Let’s understand this choice in a little more detail. Why Choose Uplers? Unlike other job portals or hiring platforms in the market, Uplers stands unique with its AI-vetting process backed with human intelligence. Our platform has the largest private network of 3M+ STEM graduates from IIT, NIT, and renowned universities of India. We intend to cater as an end-to-end platform in bridging the talent gap between the scaling demand and scanty supply. By offering AI-vetted and AI-interviewed talent profiles within the first 2 days, matching the right WordPress developer for the job becomes effortless. Our AI algorithm also prepares a list of the questions you can ask in the interview with an option to customize them as per your job specifications or hiring needs. With top profiles in your inbox, a hiring questionnaire, a 30-days easy cancellation, a lifetime free talent replacement, onboarding assistance, and employer branding support, we are your one-stop hiring partner. Whether you are a SaaS startup or a scaling tech company, we help you hire top WordPress developers that match your technical and cultural needs efficiently and effectively. Final Call: Make the Right Choice for Your Business Choosing between a built-in WordPress theme and a dedicated developer is not just a budget decision, it’s a strategic one. If you are looking for speed and simplicity, a theme may do just fine. But if you are building for growth, performance, or brand authority, hiring top WordPress developers is the clear winner. To scale with confidence the question is not about “if”, it’s about “how soon”. Similar Articles Where to Hire WordPress Developers in India: Top 5 Trusted Platforms Why WordPress Developers Are Still in High Demand in 2025 Hiring a WordPress Developer: Do’s and Dont’s Kritika Verma SEO Executive Kritika is an experienced SEO executive with over 4 years of experience helping businesses improve their online presence. She has a strong understanding of search engines and creates effective strategies to boost website rankings. Similar Blogs Read Latest ML Engineers vs AI Engineers: Who Does What When Shipping an AI Product Ashima Jain August 7, 2026 5 Minute Read Blog Read Best Platforms for Hiring Engineers from India in 2026: An Unbiased Comparison Shachi Dixit August 5, 2026 9 Minute Read Blog Read Looking for the best AI Job Description creator? Aayushi Pandya July 31, 2026 2 Minute Read Blog AI-native hiring partner LinkedIn 1M+ Followers Google 4.1 ★ 396 reviews Clutch 4.9 ★ 126 reviews Company About Book a Call Contact Pricing Hire by Stage Early Stage Startups Growth Stage Startups Scale-ups & GCCs Hiring Models Curated sourcing Full service hiring Contract talent Resources Articles Blogs Resources Clients Network India Salary Guide 2026 AI JD Builder For Talents Join Our Network Find a Job Transform Your Resume Knowledge Base FAQ Modify / Delete My Data Top AI Roles Forward Deployed Engineer AI Engineers MLOps / AI Ops Engineers Gen AI Engineers Prompt Engineers Agentic AI Engineers AI Product Managers AI Data Scientists Most Hired Roles AI Engineers Full Stack Engineers Backend Engineers Frontend Engineers QA Engineers DevOps Engineers Cloud Engineers Data Engineers React Native Engineers Product Teams Product Designers UX Researchers Product Managers Product Analysts Customer Success GTM Growth Marketers Performance Marketers SEO Specialists Content Strategists Demand Gen Specialists © 2026 Uplers Solutions Private Limited. All rights reserved. DMCA protected Privacy Policy Sitemap Talk to us right now Book a call What are you looking to hire? Send an Inquiry Ready to hire? Let’s start Finding top talent from India is like finding a needle in a haystack. We&#x27;ve spent the last 5 years perfecting it. If you are looking for a job, head to platform.uplers.com . If you are looking to hire, click to activate the form.",
+      "_enriched": true,
       "score": 57,
       "isMatch": false,
       "isEng": true,
@@ -6227,7 +6217,7 @@
         "workable:uplers -> no board"
       ]
     },
-    "ms": 10809
+    "ms": 4093
   },
   {
     "company": "Ubuy India",
@@ -6300,175 +6290,372 @@
         "workable:ubuy -> no board"
       ]
     },
-    "ms": 10096
+    "ms": 11524
   },
   {
     "company": "Udacity India",
     "country": "India",
-    "source": "headings:https://www.udacity.com/careers",
+    "source": "greenhouse:udacity",
     "error": null,
-    "totalJobs": 8,
+    "totalJobs": 16,
     "jobs": [
       {
-        "title": "Self Driving Car Engineer",
-        "location": "",
-        "url": "https://www.udacity.com/careers",
-        "india": true,
+        "title": "Claude AI Engineer Technical Mentor - Independent Contractor (US Canada, Europe, MENA, India & APAC Timezones)",
+        "location": "Remote",
+        "url": "https://job-boards.greenhouse.io/udacity/jobs/8623954002",
+        "india": false,
         "locationSaysIndia": false,
-        "hasLocation": false,
+        "hasLocation": true,
         "isEng": true,
         "java": false,
         "flutter": false,
         "senior": false,
-        "exp": [],
+        "exp": [
+          [
+            5,
+            9
+          ]
+        ],
         "expFits2": false,
-        "score": 49
+        "score": 30
       },
       {
-        "title": "Flying Car and Autonomous Flight Engineer",
-        "location": "",
-        "url": "https://www.udacity.com/careers",
-        "india": true,
+        "title": "Cloud DevOps Engineer Technical Mentor - Independent Contractor (US Canada, Europe, MENA, India & APAC Timezones)",
+        "location": "Remote",
+        "url": "https://job-boards.greenhouse.io/udacity/jobs/5791251002",
+        "india": false,
         "locationSaysIndia": false,
-        "hasLocation": false,
+        "hasLocation": true,
         "isEng": true,
         "java": false,
         "flutter": false,
         "senior": false,
-        "exp": [],
+        "exp": [
+          [
+            5,
+            9
+          ]
+        ],
         "expFits2": false,
-        "score": 49
+        "score": 30
       },
       {
-        "title": "Machine Learning Engineer",
-        "location": "",
-        "url": "https://www.udacity.com/careers",
-        "india": true,
+        "title": "On-Call Video Editor - Argentina Contractor pool",
+        "location": "Argentina (remote)",
+        "url": "https://job-boards.greenhouse.io/udacity/jobs/8362825002",
+        "india": false,
         "locationSaysIndia": false,
-        "hasLocation": false,
-        "isEng": true,
+        "hasLocation": true,
+        "isEng": false,
         "java": false,
         "flutter": false,
         "senior": false,
-        "exp": [],
-        "expFits2": false,
-        "score": 49
+        "exp": [
+          [
+            2,
+            6
+          ],
+          [
+            2,
+            3
+          ]
+        ],
+        "expFits2": true,
+        "score": 30
       },
       {
-        "title": "Robotics Software Engineer",
-        "location": "",
-        "url": "https://www.udacity.com/careers",
-        "india": true,
+        "title": "Independent Contractor - Mentor role for Software Architect track (US Canada, Europe, MENA, India & APAC Timezones)",
+        "location": "Remote",
+        "url": "https://job-boards.greenhouse.io/udacity/jobs/8441274002",
+        "india": false,
         "locationSaysIndia": false,
-        "hasLocation": false,
-        "isEng": true,
-        "java": false,
-        "flutter": false,
-        "senior": false,
-        "exp": [],
-        "expFits2": false,
-        "score": 49
-      },
-      {
-        "title": "AWS Cloud Architect",
-        "location": "",
-        "url": "https://www.udacity.com/careers",
-        "india": true,
-        "locationSaysIndia": false,
-        "hasLocation": false,
+        "hasLocation": true,
         "isEng": true,
         "java": false,
         "flutter": false,
         "senior": true,
         "exp": [],
         "expFits2": false,
-        "score": 27
+        "score": 12
       },
       {
-        "title": "Data Analyst",
-        "location": "",
-        "url": "https://www.udacity.com/careers",
-        "india": true,
+        "title": "School of Product Management - Accelerator Mentor",
+        "location": "Remote",
+        "url": "https://job-boards.greenhouse.io/udacity/jobs/8285011002",
+        "india": false,
         "locationSaysIndia": false,
-        "hasLocation": false,
+        "hasLocation": true,
+        "isEng": false,
+        "java": false,
+        "flutter": false,
+        "senior": false,
+        "exp": [
+          [
+            4,
+            8
+          ]
+        ],
+        "expFits2": false,
+        "score": 12
+      },
+      {
+        "title": "Tech Talk: AI Fundamentals & Applied AI Mentor",
+        "location": "San Francisco",
+        "url": "https://job-boards.greenhouse.io/udacity/jobs/8428806002",
+        "india": false,
+        "locationSaysIndia": false,
+        "hasLocation": true,
+        "isEng": false,
+        "java": false,
+        "flutter": false,
+        "senior": false,
+        "exp": [
+          [
+            3,
+            7
+          ]
+        ],
+        "expFits2": false,
+        "score": 12
+      },
+      {
+        "title": "Session Lead (External Contractor) - Integrated Application Security Services Nanodegree Session lead(India)",
+        "location": "Remote",
+        "url": "https://job-boards.greenhouse.io/udacity/jobs/7838976002",
+        "india": false,
+        "locationSaysIndia": false,
+        "hasLocation": true,
+        "isEng": false,
+        "java": false,
+        "flutter": false,
+        "senior": true,
+        "exp": [
+          [
+            2,
+            6
+          ]
+        ],
+        "expFits2": true,
+        "score": 8
+      },
+      {
+        "title": "Session Lead (External Contractor) - Integrated Risk and Compliance Services (India)",
+        "location": "Remote",
+        "url": "https://job-boards.greenhouse.io/udacity/jobs/7773853002",
+        "india": false,
+        "locationSaysIndia": false,
+        "hasLocation": true,
+        "isEng": false,
+        "java": false,
+        "flutter": false,
+        "senior": true,
+        "exp": [
+          [
+            2,
+            6
+          ]
+        ],
+        "expFits2": true,
+        "score": 8
+      },
+      {
+        "title": "Japan Mentor Recruitment（日本メンター募集）",
+        "location": "Japan",
+        "url": "https://job-boards.greenhouse.io/udacity/jobs/8214982002",
+        "india": false,
+        "locationSaysIndia": false,
+        "hasLocation": true,
         "isEng": false,
         "java": false,
         "flutter": false,
         "senior": false,
         "exp": [],
         "expFits2": false,
-        "score": 19
+        "score": 4
       },
       {
-        "title": "School of DevOps",
-        "location": "",
-        "url": "https://www.udacity.com/careers",
-        "india": true,
+        "title": "Agentic AI Technical Mentor - Independent Contractor (US Canada, Europe, MENA, India & APAC Timezones)",
+        "location": "Remote",
+        "url": "https://job-boards.greenhouse.io/udacity/jobs/8540542002",
+        "india": false,
         "locationSaysIndia": false,
-        "hasLocation": false,
+        "hasLocation": true,
         "isEng": false,
         "java": false,
         "flutter": false,
         "senior": false,
-        "exp": [],
+        "exp": [
+          [
+            5,
+            9
+          ]
+        ],
         "expFits2": false,
-        "score": 19
+        "score": 0
       },
       {
-        "title": "School of Executive Leadership",
-        "location": "",
-        "url": "https://www.udacity.com/careers",
-        "india": true,
+        "title": "AI Mentor (Independent Contractor) - Business Leader Programs",
+        "location": "Remote",
+        "url": "https://job-boards.greenhouse.io/udacity/jobs/8426292002",
+        "india": false,
         "locationSaysIndia": false,
-        "hasLocation": false,
+        "hasLocation": true,
         "isEng": false,
         "java": false,
         "flutter": false,
         "senior": false,
+        "exp": [
+          [
+            5,
+            9
+          ]
+        ],
+        "expFits2": false,
+        "score": 0
+      },
+      {
+        "title": "AI Technical Mentor - Independent Contractor (US Canada, Europe, MENA, India & APAC Timezones)",
+        "location": "Remote",
+        "url": "https://job-boards.greenhouse.io/udacity/jobs/8535736002",
+        "india": false,
+        "locationSaysIndia": false,
+        "hasLocation": true,
+        "isEng": false,
+        "java": false,
+        "flutter": false,
+        "senior": false,
+        "exp": [
+          [
+            5,
+            9
+          ]
+        ],
+        "expFits2": false,
+        "score": 0
+      },
+      {
+        "title": "Cloud Technical Mentor - Independent Contractor (US Canada, Europe, MENA, India & APAC Timezones)",
+        "location": "Remote",
+        "url": "https://job-boards.greenhouse.io/udacity/jobs/8535787002",
+        "india": false,
+        "locationSaysIndia": false,
+        "hasLocation": true,
+        "isEng": false,
+        "java": false,
+        "flutter": false,
+        "senior": false,
+        "exp": [
+          [
+            5,
+            9
+          ]
+        ],
+        "expFits2": false,
+        "score": 0
+      },
+      {
+        "title": "Cybersecurity Technical Mentor - Independent Contractor (US Canada, Europe, MENA, India & APAC Timezones)",
+        "location": "Remote",
+        "url": "https://job-boards.greenhouse.io/udacity/jobs/8535777002",
+        "india": false,
+        "locationSaysIndia": false,
+        "hasLocation": true,
+        "isEng": false,
+        "java": false,
+        "flutter": false,
+        "senior": false,
+        "exp": [
+          [
+            5,
+            9
+          ]
+        ],
+        "expFits2": false,
+        "score": 0
+      },
+      {
+        "title": "Data Technical Mentor - Independent Contractor (US Canada, Europe, MENA, India & APAC Timezones)",
+        "location": "Remote",
+        "url": "https://job-boards.greenhouse.io/udacity/jobs/8535755002",
+        "india": false,
+        "locationSaysIndia": false,
+        "hasLocation": true,
+        "isEng": false,
+        "java": false,
+        "flutter": false,
+        "senior": false,
+        "exp": [
+          [
+            5,
+            9
+          ]
+        ],
+        "expFits2": false,
+        "score": 0
+      },
+      {
+        "title": "External Contractor - Mentor role for Data Product Manager track",
+        "location": "Remote",
+        "url": "https://job-boards.greenhouse.io/udacity/jobs/8296664002",
+        "india": false,
+        "locationSaysIndia": false,
+        "hasLocation": true,
+        "isEng": false,
+        "java": false,
+        "flutter": false,
+        "senior": true,
         "exp": [],
         "expFits2": false,
-        "score": 19
+        "score": -18
       }
     ],
     "enriched": 0,
     "matches": [],
     "nearMatches": [],
     "closest": {
-      "title": "Self Driving Car Engineer",
-      "location": "",
-      "url": "https://www.udacity.com/careers",
-      "team": "",
-      "text": "Self Driving Car Engineer Only at Udacity Artificial Intelligence Deep Learning Digital Marketing",
-      "_noEnrich": true,
-      "score": 49,
+      "title": "Claude AI Engineer Technical Mentor - Independent Contractor (US Canada, Europe, MENA, India & APAC Timezones)",
+      "location": "Remote",
+      "url": "https://job-boards.greenhouse.io/udacity/jobs/8623954002",
+      "team": "Accelerator Mentor",
+      "text": "<div class=\"content-intro\"><p><strong>About Us</strong></p> <p><span style=\"font-weight: 400;\">Udacity is now an Accenture company, and exciting things are happening! 🚀 We are on a mission of forging futures in tech through <strong data-stringify-type=\"bold\"><em data-stringify-type=\"italic\">radical</em></strong> talent transformation in digital technologies. We offer a unique and immersive online learning platform, powering corporate technical training in fields such as Artificial Intelligence, Machine Learning, Data Science, Autonomous Systems, Cloud Computing and more. Our rapidly growing global organization is revolutionizing how the enterprise market bridges the talent shortage and skills gaps during their digital transformation journey.<br><br></span></p></div><p>Recognized for its innovative impact, Udacity part of Accenture continues to empower people with the skills they need to secure the jobs they want.</p> <p>Udacity is committed to providing high-quality upskilling opportunities in this rapidly evolving field. We regularly launch new projects and are seeking experienced mentors to join us as external contractors to support our programs and learners.</p> <p>As new initiatives arise, we will reach out to qualified candidates within this talent pool to provide details on project scope, expected timelines, and compensation. If you are passionate about tackling meaningful challenges and making a difference we invite you to apply and explore this opportunity to collaborate with us.&nbsp;</p> <p><strong>You’ll be an excellent fit if you have:</strong></p> <ul> <li>Proven technical expertise with 5+ years of experience in the relevant field</li> <li>A passion for mentoring and helping others succeed in their learning</li> <li>Excellent interpersonal skills. You enjoy building relationships, communicating effectively, and fostering a positive learning environment&nbsp;</li> <li>A deep understanding of the tech industry and emerging trends in AI and related fields</li> <li>The flexibility to work part-time as an external contractor alongside your current commitments</li> </ul> <p><strong>Mandatory Technical Skills – Claude AI Engineer</strong></p> <ul> <li data-section-id=\"z6i4vj\" data-start=\"99\" data-end=\"204\"><strong data-start=\"101\" data-end=\"132\">Anthropic Claude Ecosystem:</strong> Claude API, Claude Code, Claude Agent SDK, Model Context Protocol (MCP)</li> <li data-section-id=\"fwi5c\" data-start=\"205\" data-end=\"318\"><strong data-start=\"207\" data-end=\"234\">Agentic AI Development:</strong> AI Agents, Multi-Agent Systems, Agent Orchestration, Tool Calling &amp; Workflow Design</li> <li data-section-id=\"10ir3kn\" data-start=\"319\" data-end=\"443\"><strong data-start=\"321\" data-end=\"354\">Prompt &amp; Context Engineering:</strong> Prompt Engineering, Context Engineering, Structured Outputs (JSON Schema), AI Validation</li> <li data-section-id=\"1dp2aur\" data-start=\"444\" data-end=\"526\"><strong data-start=\"446\" data-end=\"469\">Programming &amp; APIs:</strong> Python (required), REST APIs, JSON, Bash/Shell Scripting</li> <li data-section-id=\"kpq1p4\" data-start=\"527\" data-end=\"648\"><strong data-start=\"529\" data-end=\"569\">Software Engineering &amp; Architecture:</strong> System Design, Solution Architecture, API Design, Code Review, Design Patterns</li> <li data-section-id=\"1kgd2f5\" data-start=\"649\" data-end=\"768\"><strong data-start=\"651\" data-end=\"684\">Data &amp; Production AI Systems:</strong> SQL, Data Extraction, Error Handling, State Management, Human-in-the-Loop Workflows</li> <li data-section-id=\"8859zt\" data-start=\"769\" data-end=\"900\" data-is-last-node=\"\"><strong data-start=\"771\" data-end=\"790\">DevOps &amp; CI/CD:</strong> Git, GitHub, CI/CD Pipelines, Automated Testing, MCP Server Integration</li> </ul> <p>Exposure to <strong>real-world data projects (analytics, engineering, or architecture)</strong></p> <p><strong>Responsibilities:</strong></p> <p>Your responsibilities as a technical mentor will be divided into three major tasks.</p> <ol> <li>1:1 video calls</li> <li>Virtual Technical<em> </em><strong><em>Deep-Dive Sessions</em></strong></li> <li>Group Q&amp;A sessions</li> </ol> <p><strong>Personal 1:1 Session:</strong></p> <ul> <li>Provide personalized support by addressing learner questions related to course content and projects.</li> <li>Prior to the call mentors are expected to review the students' previous project submission(s) - provided by the Mentor Success Team when available - and/or any specific areas of the Nanodegree content or project that the student has expressed confusion or difficulty with.</li> </ul> <p><strong>Technical Deep-Dive Session:</strong></p> <ul> <li>For concept deep-dives, mentors will come prepared with a slide presentation that reviews a Nanodegree concept in more detail, share different use-cases for the concept to broaden student perspectives and understanding, and hold a Q&amp;A session with the learners.</li> <li>For project walkthroughs, a mentor will come prepared with a slide presentation that outlines each element of the rubric to help learners understand expectations and typical problem areas they may encounter. This can include a mentor “grading” a sample submission to demonstrate what mentors are looking for when reviewing projects.</li> </ul> <p><strong>Group Q&amp;A Session:</strong></p> <ul> <li>Host regular sessions (via Slack or video) to address learner queries related to projects and coursework. No prior preparation required.</li> </ul> <p><strong>Why should you apply?&nbsp;</strong></p> <ul> <li>Make an impact by mentoring and contributing to a vibrant, global learning community</li> <li>Showcase your expertise and gain recognition for your technical knowledge</li> <li>Learn and network with our global community of mentors while staying ahead of the curve on cutting-edge technologies</li> <li>Earn additional income with the flexibility to work on your own schedule</li> </ul> <p><em>Mentoring at Udacity offers a unique opportunity to make a significant impact on the lives of learners and to contribute to achieving our mission.&nbsp;</em></p> <p><em>If you're passionate about learning, technology and want to make a positive impact, we encourage you to apply to become a mentor at Udacity part of Accenture.&nbsp;</em></p> <p><em>Let's work together to shape the future of tech education!</em></p><div class=\"content-conclusion\"><p>Compensation at Udacity, an Accenture company, varies depending on a wide array of factors, which may include but are not limited to location, role, skill set, and level of experience.&nbsp;As required by local law, Udacity, an Accenture company, will provide a reasonable range of compensation.&nbsp;</p> <p>We believe that no one should be discriminated against because of their differences. All employment decisions shall be made without regard to age, race, creed, color, religion, sex, national origin, ancestry, disability status, veteran status, sexual orientation, gender identity or expression, genetic information, marital status, citizenship status or any other basis as protected by federal, state, or local law. Our rich diversity makes us more innovative, more competitive, and more creative, which helps us better serve our clients and our communities.</p> <p><a href=\"https://www.accenture.com/content/dam/accenture/final/accenture-com/document-3/Accenture-Equal-Employment-Opportunity-Statement.pdf\" target=\"_blank\" data-saferedirecturl=\"https://www.google.com/url?q=https://www.accenture.com/content/dam/accenture/final/accenture-com/document-3/Accenture-Equal-Employment-Opportunity-Statement.pdf&amp;source=gmail&amp;ust=1755818724619000&amp;usg=AOvVaw2TtBwqJmfjzgEZGUYmIwuE\"> Accenture Equal Opportunity Statement</a></p> <p>Udacity, an Accenture company, is an EEO and Affirmative Action Employer of Veterans/Individuals with Disabilities, and&nbsp;is committed to providing veteran employment opportunities to our service men and women.</p> <p>Applicants for employment in the US must have work authorization that does not now or in the future require sponsorship of a visa for employment authorization in the United States. Candidates who are currently employed by a client of Accenture or an affiliated Accenture business may not be eligible for consideration. Job candidates will not be obligated to disclose sealed or expunged records of conviction or arrest as part of the hiring process. Further, at Accenture a criminal conviction history is not an absolute bar to employment.&nbsp;</p> <p>&nbsp;</p> <div style=\"text-align: center;\"><strong>Udacity's Values</strong></div> <div style=\"text-align: center;\">&nbsp;</div> <div style=\"text-align: center;\"><strong>Obsess over Outcomes </strong>- <strong data-stringify-type=\"bold\">Take the Lead - Embrace Curiosity - Celebrate the Assist&nbsp;</strong></div> <div style=\"text-align: left;\">&nbsp;</div> <div style=\"text-align: left;\"><a href=\"https://www.udacity.com/legal/privacy\" target=\"_blank\" data-saferedirecturl=\"https://www.google.com/url?q=https://www.udacity.com/legal/privacy&amp;source=gmail&amp;ust=1612551688328000&amp;usg=AFQjCNFDLITarHo55xglrawyZNw8PNRVIg\">Udacity's Terms of Use and Privacy Policy</a></div> <p>&nbsp;</p></div>",
+      "score": 30,
       "isMatch": false,
       "isEng": true,
       "java": false,
       "flutter": false,
       "android": false,
-      "india": true,
+      "india": false,
       "senior": false,
       "junior": false,
-      "exp": [],
+      "exp": [
+        [
+          5,
+          9
+        ]
+      ],
       "expFits2": false
     },
     "closestEng": {
-      "title": "Self Driving Car Engineer",
-      "location": "",
-      "url": "https://www.udacity.com/careers",
-      "team": "",
-      "text": "Self Driving Car Engineer Only at Udacity Artificial Intelligence Deep Learning Digital Marketing",
-      "_noEnrich": true,
-      "score": 49,
+      "title": "Claude AI Engineer Technical Mentor - Independent Contractor (US Canada, Europe, MENA, India & APAC Timezones)",
+      "location": "Remote",
+      "url": "https://job-boards.greenhouse.io/udacity/jobs/8623954002",
+      "team": "Accelerator Mentor",
+      "text": "<div class=\"content-intro\"><p><strong>About Us</strong></p> <p><span style=\"font-weight: 400;\">Udacity is now an Accenture company, and exciting things are happening! 🚀 We are on a mission of forging futures in tech through <strong data-stringify-type=\"bold\"><em data-stringify-type=\"italic\">radical</em></strong> talent transformation in digital technologies. We offer a unique and immersive online learning platform, powering corporate technical training in fields such as Artificial Intelligence, Machine Learning, Data Science, Autonomous Systems, Cloud Computing and more. Our rapidly growing global organization is revolutionizing how the enterprise market bridges the talent shortage and skills gaps during their digital transformation journey.<br><br></span></p></div><p>Recognized for its innovative impact, Udacity part of Accenture continues to empower people with the skills they need to secure the jobs they want.</p> <p>Udacity is committed to providing high-quality upskilling opportunities in this rapidly evolving field. We regularly launch new projects and are seeking experienced mentors to join us as external contractors to support our programs and learners.</p> <p>As new initiatives arise, we will reach out to qualified candidates within this talent pool to provide details on project scope, expected timelines, and compensation. If you are passionate about tackling meaningful challenges and making a difference we invite you to apply and explore this opportunity to collaborate with us.&nbsp;</p> <p><strong>You’ll be an excellent fit if you have:</strong></p> <ul> <li>Proven technical expertise with 5+ years of experience in the relevant field</li> <li>A passion for mentoring and helping others succeed in their learning</li> <li>Excellent interpersonal skills. You enjoy building relationships, communicating effectively, and fostering a positive learning environment&nbsp;</li> <li>A deep understanding of the tech industry and emerging trends in AI and related fields</li> <li>The flexibility to work part-time as an external contractor alongside your current commitments</li> </ul> <p><strong>Mandatory Technical Skills – Claude AI Engineer</strong></p> <ul> <li data-section-id=\"z6i4vj\" data-start=\"99\" data-end=\"204\"><strong data-start=\"101\" data-end=\"132\">Anthropic Claude Ecosystem:</strong> Claude API, Claude Code, Claude Agent SDK, Model Context Protocol (MCP)</li> <li data-section-id=\"fwi5c\" data-start=\"205\" data-end=\"318\"><strong data-start=\"207\" data-end=\"234\">Agentic AI Development:</strong> AI Agents, Multi-Agent Systems, Agent Orchestration, Tool Calling &amp; Workflow Design</li> <li data-section-id=\"10ir3kn\" data-start=\"319\" data-end=\"443\"><strong data-start=\"321\" data-end=\"354\">Prompt &amp; Context Engineering:</strong> Prompt Engineering, Context Engineering, Structured Outputs (JSON Schema), AI Validation</li> <li data-section-id=\"1dp2aur\" data-start=\"444\" data-end=\"526\"><strong data-start=\"446\" data-end=\"469\">Programming &amp; APIs:</strong> Python (required), REST APIs, JSON, Bash/Shell Scripting</li> <li data-section-id=\"kpq1p4\" data-start=\"527\" data-end=\"648\"><strong data-start=\"529\" data-end=\"569\">Software Engineering &amp; Architecture:</strong> System Design, Solution Architecture, API Design, Code Review, Design Patterns</li> <li data-section-id=\"1kgd2f5\" data-start=\"649\" data-end=\"768\"><strong data-start=\"651\" data-end=\"684\">Data &amp; Production AI Systems:</strong> SQL, Data Extraction, Error Handling, State Management, Human-in-the-Loop Workflows</li> <li data-section-id=\"8859zt\" data-start=\"769\" data-end=\"900\" data-is-last-node=\"\"><strong data-start=\"771\" data-end=\"790\">DevOps &amp; CI/CD:</strong> Git, GitHub, CI/CD Pipelines, Automated Testing, MCP Server Integration</li> </ul> <p>Exposure to <strong>real-world data projects (analytics, engineering, or architecture)</strong></p> <p><strong>Responsibilities:</strong></p> <p>Your responsibilities as a technical mentor will be divided into three major tasks.</p> <ol> <li>1:1 video calls</li> <li>Virtual Technical<em> </em><strong><em>Deep-Dive Sessions</em></strong></li> <li>Group Q&amp;A sessions</li> </ol> <p><strong>Personal 1:1 Session:</strong></p> <ul> <li>Provide personalized support by addressing learner questions related to course content and projects.</li> <li>Prior to the call mentors are expected to review the students' previous project submission(s) - provided by the Mentor Success Team when available - and/or any specific areas of the Nanodegree content or project that the student has expressed confusion or difficulty with.</li> </ul> <p><strong>Technical Deep-Dive Session:</strong></p> <ul> <li>For concept deep-dives, mentors will come prepared with a slide presentation that reviews a Nanodegree concept in more detail, share different use-cases for the concept to broaden student perspectives and understanding, and hold a Q&amp;A session with the learners.</li> <li>For project walkthroughs, a mentor will come prepared with a slide presentation that outlines each element of the rubric to help learners understand expectations and typical problem areas they may encounter. This can include a mentor “grading” a sample submission to demonstrate what mentors are looking for when reviewing projects.</li> </ul> <p><strong>Group Q&amp;A Session:</strong></p> <ul> <li>Host regular sessions (via Slack or video) to address learner queries related to projects and coursework. No prior preparation required.</li> </ul> <p><strong>Why should you apply?&nbsp;</strong></p> <ul> <li>Make an impact by mentoring and contributing to a vibrant, global learning community</li> <li>Showcase your expertise and gain recognition for your technical knowledge</li> <li>Learn and network with our global community of mentors while staying ahead of the curve on cutting-edge technologies</li> <li>Earn additional income with the flexibility to work on your own schedule</li> </ul> <p><em>Mentoring at Udacity offers a unique opportunity to make a significant impact on the lives of learners and to contribute to achieving our mission.&nbsp;</em></p> <p><em>If you're passionate about learning, technology and want to make a positive impact, we encourage you to apply to become a mentor at Udacity part of Accenture.&nbsp;</em></p> <p><em>Let's work together to shape the future of tech education!</em></p><div class=\"content-conclusion\"><p>Compensation at Udacity, an Accenture company, varies depending on a wide array of factors, which may include but are not limited to location, role, skill set, and level of experience.&nbsp;As required by local law, Udacity, an Accenture company, will provide a reasonable range of compensation.&nbsp;</p> <p>We believe that no one should be discriminated against because of their differences. All employment decisions shall be made without regard to age, race, creed, color, religion, sex, national origin, ancestry, disability status, veteran status, sexual orientation, gender identity or expression, genetic information, marital status, citizenship status or any other basis as protected by federal, state, or local law. Our rich diversity makes us more innovative, more competitive, and more creative, which helps us better serve our clients and our communities.</p> <p><a href=\"https://www.accenture.com/content/dam/accenture/final/accenture-com/document-3/Accenture-Equal-Employment-Opportunity-Statement.pdf\" target=\"_blank\" data-saferedirecturl=\"https://www.google.com/url?q=https://www.accenture.com/content/dam/accenture/final/accenture-com/document-3/Accenture-Equal-Employment-Opportunity-Statement.pdf&amp;source=gmail&amp;ust=1755818724619000&amp;usg=AOvVaw2TtBwqJmfjzgEZGUYmIwuE\"> Accenture Equal Opportunity Statement</a></p> <p>Udacity, an Accenture company, is an EEO and Affirmative Action Employer of Veterans/Individuals with Disabilities, and&nbsp;is committed to providing veteran employment opportunities to our service men and women.</p> <p>Applicants for employment in the US must have work authorization that does not now or in the future require sponsorship of a visa for employment authorization in the United States. Candidates who are currently employed by a client of Accenture or an affiliated Accenture business may not be eligible for consideration. Job candidates will not be obligated to disclose sealed or expunged records of conviction or arrest as part of the hiring process. Further, at Accenture a criminal conviction history is not an absolute bar to employment.&nbsp;</p> <p>&nbsp;</p> <div style=\"text-align: center;\"><strong>Udacity's Values</strong></div> <div style=\"text-align: center;\">&nbsp;</div> <div style=\"text-align: center;\"><strong>Obsess over Outcomes </strong>- <strong data-stringify-type=\"bold\">Take the Lead - Embrace Curiosity - Celebrate the Assist&nbsp;</strong></div> <div style=\"text-align: left;\">&nbsp;</div> <div style=\"text-align: left;\"><a href=\"https://www.udacity.com/legal/privacy\" target=\"_blank\" data-saferedirecturl=\"https://www.google.com/url?q=https://www.udacity.com/legal/privacy&amp;source=gmail&amp;ust=1612551688328000&amp;usg=AFQjCNFDLITarHo55xglrawyZNw8PNRVIg\">Udacity's Terms of Use and Privacy Policy</a></div> <p>&nbsp;</p></div>",
+      "score": 30,
       "isMatch": false,
       "isEng": true,
       "java": false,
       "flutter": false,
       "android": false,
-      "india": true,
+      "india": false,
       "senior": false,
       "junior": false,
-      "exp": [],
+      "exp": [
+        [
+          5,
+          9
+        ]
+      ],
       "expFits2": false
     },
     "trace": {
@@ -6491,9 +6678,8 @@
         },
         {
           "url": "https://udacity.com/jobs",
-          "status": 0,
-          "bytes": 0,
-          "error": "This operation was aborted"
+          "status": 200,
+          "bytes": 38409
         },
         {
           "url": "https://udacity.com/join-us",
@@ -6529,34 +6715,20 @@
           "url": "https://udacity.com/",
           "status": 200,
           "bytes": 590093
-        },
-        {
-          "url": "https://www.udacity.com/career-outcomes",
-          "status": 200,
-          "bytes": 564528
-        },
-        {
-          "url": "https://www.udacity.com/school/career-resources",
-          "status": 200,
-          "bytes": 372863
         }
       ],
       "candidates": [
-        "greenhouse:udacity(guess)",
+        "greenhouse:udacity(html)",
         "lever:udacity(guess)",
         "ashby:udacity(guess)",
         "recruitee:udacity(guess)",
         "workable:udacity(guess)"
       ],
       "attempts": [
-        "greenhouse:udacity -> REJECTED (board is \"Udacity\", not Udacity India)",
-        "lever:udacity -> no board",
-        "ashby:udacity -> no board",
-        "recruitee:udacity -> no board",
-        "workable:udacity -> no board"
+        "greenhouse:udacity -> 16 jobs"
       ]
     },
-    "ms": 53074
+    "ms": 14543
   },
   {
     "company": "Uengage",
@@ -6643,7 +6815,7 @@
         "workable:uengage -> no board"
       ]
     },
-    "ms": 4205
+    "ms": 5029
   },
   {
     "company": "Ultratech Cement",
@@ -6736,7 +6908,7 @@
         "workable:ultratechcement -> no board"
       ]
     },
-    "ms": 3112
+    "ms": 3514
   },
   {
     "company": "Umbrella Infocare",
@@ -6920,6 +7092,7 @@
       "url": "https://www.umbrellainfocare.com/career/job/aws-cloud-devops-engineer",
       "team": "",
       "text": "AWS Cloud DevOps Engineer - Umbrella Infocare Twitter Facebook-f Linkedin-in Youtube sales@umbrellainfocare.com +91 11 430 78540 Customer Support Cloud Services AWS Services Citrix Solutions & Consulting Resources Blog Case Studies Events eBooks & Whitepapers Datasheets Company About Us Awards Career Newsroom Contact Us Search for: GET IN TOUCH Let's Connect By signing up you agree to our Privacy Policy Send Message Cloud Services AWS Services Citrix Solutions & Consulting Resources Blog Case Studies Events eBooks & Whitepapers Datasheets Company About Us Awards Career Newsroom Contact Us Get In Touch Search for: AWS Cloud DevOps Engineer Apply For Job Share Job We are Hiring Become a Part of a Lively, Winning Team With Umbrella, you will step into a nurturing, flexible and positive work environment that uplifts you with guidance, training, and continuous learning. We believe in open communication, appreciation of hard work, team bonding and celebrating together. Job Description 3+ Year Anywhere in India Bachelor’s degree 3+ Years Bachelor’s degree Anywhere in India Responsibilities DevOps Engineer in a team of highly skilled Cloud Administrators and Developers. Play a critical role in a team to design, implement, and deploy a Cloud based enterprise solutions. Implement automation in SDLC wherever possible to improve the time to market and reduce chances of error. Administer and oversee the automation and take corrective actions to improve systems and prevent repeat of same issues. Required Skill Set and Experience 3+ years of cloud experience in designing, maintaining, and administrating production environment of large applications. Experience in implementing complex deployment using AWS CloudFormation, Chef, Puppet, Ansible etc. Must have : Hands-on experience in AWS Cloud Administration using AWS Console and CLI. Hands-on experience in AWS DevOps services - Code Pipeline, Code Deploy and Code Build etc. Good knowledge of at least 2 Infrastructure Automation Tools e.g., Ansible, Chef, Puppet etc. Good knowledge of GIT repositories and other source code repositories. Good knowledge of at least 1 CICD tool e.g., Jenkins, CircleCI etc. Hands-on experience in containerization and EKS/Kubernetes cluster. Hands-on experience in Bash, PowerShell scripting. Hands-on experience in Linux and Windows administration. Hands-on experience in setting up monitoring and alert notification with various tools – CloudWatch, Prometheus etc. Knowledge of Python and AWS Boto is an added advantage. Good to have: Exposure in AWS services such as Elasticsearch, ElastiCache, DynamoDB, Aurora, Kinesis, Lambda etc. Exposure in various Databases – MySQL, Aurora, MongoDB cluster administration etc. Previous experience in handling an IoT application. Ability in using a wide variety of open-source technologies and tools. Ability to code and script. Strong grasp of automation tools. AWS cloud certification. Apply For Job Build Your Career at Umbrella AWS Cloud Migration Specialist AWS Cloud Solution Architect AWS Cloud DevOps Lead AWS Cloud Pre-sales Specialist AWS Cloud Evangelist AWS Cloud Consultant AWS Cloud Security Engineer AWS Cloud DevOps Engineer AWS Cloud Support Engineer Backend Developer Application Solution Architect Project Manager-Application Full Stack Developer Magento Developer iOS Developer Frontend Developer Application Tech Lead-Front End Application Tech Lead-Back End Big Data Developer Project Manager-Big Data Analytics Big Data Lead Power BI Consultant Big Data Solution Architect Senior Citrix Engineer NetScaler WAF Engineer Citrix XenDesktop Engineer Citrix NetScaler Engineer Inside Sales Executive By signing up you agree to our Privacy Policy Apply Stay Ahead in the Game Our employee focused environment provides the right opportunities to grow as an individual, acquire skills in cutting-edge technologies and help our employees always stay ahead in the game. Explore More Jobs Subscribe Leave this field empty if you are human: Twitter Facebook-f Linkedin-in Youtube Cloud Services AWS Services Citrix Solutions & Consulting Company About Us Awards Blog Case Studies Career Contact Us Contact IN +91 11 430 78540 US +1 703-752-6293 sales@umbrellainfocare.com Copyright © 2022 Umbrella Infocare. All Rights Reserved. Privacy Policy Cookie Policy We use cookies to ensure you get the best user experience on our website. By continuing to use this site, you agree to the use of these cookies. Read more about our Cookie Policy. Cookie Settings Accept × Manage consent Close Privacy Overview This website uses cookies to improve your experience while you navigate through the website. Out of these, the cookies that are categorized as necessary are stored on your browser as they are essential for the working of basic functionalities of the website. We also use third-party cookies that help us analyze and understand how you use this website. These cookies will be stored in your browser only with your consent. You also have the option to opt-out of these cookies. But opting out of some of these cookies may affect your browsing experience. Necessary Necessary Always Enabled Necessary cookies are absolutely essential for the website to function properly. These cookies ensure basic functionalities and security features of the website, anonymously. Cookie Duration Description cookielawinfo-checkbox-analytics 11 months This cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category \"Analytics\". cookielawinfo-checkbox-functional 11 months The cookie is set by GDPR cookie consent to record the user consent for the cookies in the category \"Functional\". cookielawinfo-checkbox-necessary 11 months This cookie is set by GDPR Cookie Consent plugin. The cookies is used to store the user consent for the cookies in the category \"Necessary\". cookielawinfo-checkbox-others 11 months This cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category \"Other. cookielawinfo-checkbox-performance 11 months This cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category \"Performance\". viewed_cookie_policy 11 months The cookie is set by the GDPR Cookie Consent plugin and is used to store whether or not user has consented to the use of cookies. It does not store any personal data. Functional Functional Functional cookies help to perform certain functionalities like sharing the content of the website on social media platforms, collect feedbacks, and other third-party features. Performance Performance Performance cookies are used to understand and analyze the key performance indexes of the website which helps in delivering a better user experience for the visitors. Analytics Analytics Analytical cookies are used to understand how visitors interact with the website. These cookies help provide information on metrics the number of visitors, bounce rate, traffic source, etc. Advertisement Advertisement Advertisement cookies are used to provide visitors with relevant ads and marketing campaigns. These cookies track visitors across websites and collect information to provide customized ads. Others Others Other uncategorized cookies are those that are being analyzed and have not been classified into a category as yet. SAVE & ACCEPT Powered by We would like to inform our valued visitors and clients that Umbrella Infocare, a company that was acquired by Noventiq in 2022, is currently undergoing a rebranding and integration process into the Noventiq family. At Noventiq, we are committed to delivering cutting-edge solutions and services that meet the evolving needs of our customers. This acquisition is a significant step towards enhancing our capabilities and providing you with an even more robust and comprehensive suite of offerings. We welcome you to explore our solutions and services at aws.noventiq.com or our global website noventiq.com . Thank you for your trust and collaboration with Umbrella Infocare, now proudly a Noventiq company. ×",
+      "_enriched": true,
       "score": 57,
       "isMatch": false,
       "isEng": true,
@@ -6943,6 +7116,7 @@
       "url": "https://www.umbrellainfocare.com/career/job/aws-cloud-devops-engineer",
       "team": "",
       "text": "AWS Cloud DevOps Engineer - Umbrella Infocare Twitter Facebook-f Linkedin-in Youtube sales@umbrellainfocare.com +91 11 430 78540 Customer Support Cloud Services AWS Services Citrix Solutions & Consulting Resources Blog Case Studies Events eBooks & Whitepapers Datasheets Company About Us Awards Career Newsroom Contact Us Search for: GET IN TOUCH Let's Connect By signing up you agree to our Privacy Policy Send Message Cloud Services AWS Services Citrix Solutions & Consulting Resources Blog Case Studies Events eBooks & Whitepapers Datasheets Company About Us Awards Career Newsroom Contact Us Get In Touch Search for: AWS Cloud DevOps Engineer Apply For Job Share Job We are Hiring Become a Part of a Lively, Winning Team With Umbrella, you will step into a nurturing, flexible and positive work environment that uplifts you with guidance, training, and continuous learning. We believe in open communication, appreciation of hard work, team bonding and celebrating together. Job Description 3+ Year Anywhere in India Bachelor’s degree 3+ Years Bachelor’s degree Anywhere in India Responsibilities DevOps Engineer in a team of highly skilled Cloud Administrators and Developers. Play a critical role in a team to design, implement, and deploy a Cloud based enterprise solutions. Implement automation in SDLC wherever possible to improve the time to market and reduce chances of error. Administer and oversee the automation and take corrective actions to improve systems and prevent repeat of same issues. Required Skill Set and Experience 3+ years of cloud experience in designing, maintaining, and administrating production environment of large applications. Experience in implementing complex deployment using AWS CloudFormation, Chef, Puppet, Ansible etc. Must have : Hands-on experience in AWS Cloud Administration using AWS Console and CLI. Hands-on experience in AWS DevOps services - Code Pipeline, Code Deploy and Code Build etc. Good knowledge of at least 2 Infrastructure Automation Tools e.g., Ansible, Chef, Puppet etc. Good knowledge of GIT repositories and other source code repositories. Good knowledge of at least 1 CICD tool e.g., Jenkins, CircleCI etc. Hands-on experience in containerization and EKS/Kubernetes cluster. Hands-on experience in Bash, PowerShell scripting. Hands-on experience in Linux and Windows administration. Hands-on experience in setting up monitoring and alert notification with various tools – CloudWatch, Prometheus etc. Knowledge of Python and AWS Boto is an added advantage. Good to have: Exposure in AWS services such as Elasticsearch, ElastiCache, DynamoDB, Aurora, Kinesis, Lambda etc. Exposure in various Databases – MySQL, Aurora, MongoDB cluster administration etc. Previous experience in handling an IoT application. Ability in using a wide variety of open-source technologies and tools. Ability to code and script. Strong grasp of automation tools. AWS cloud certification. Apply For Job Build Your Career at Umbrella AWS Cloud Migration Specialist AWS Cloud Solution Architect AWS Cloud DevOps Lead AWS Cloud Pre-sales Specialist AWS Cloud Evangelist AWS Cloud Consultant AWS Cloud Security Engineer AWS Cloud DevOps Engineer AWS Cloud Support Engineer Backend Developer Application Solution Architect Project Manager-Application Full Stack Developer Magento Developer iOS Developer Frontend Developer Application Tech Lead-Front End Application Tech Lead-Back End Big Data Developer Project Manager-Big Data Analytics Big Data Lead Power BI Consultant Big Data Solution Architect Senior Citrix Engineer NetScaler WAF Engineer Citrix XenDesktop Engineer Citrix NetScaler Engineer Inside Sales Executive By signing up you agree to our Privacy Policy Apply Stay Ahead in the Game Our employee focused environment provides the right opportunities to grow as an individual, acquire skills in cutting-edge technologies and help our employees always stay ahead in the game. Explore More Jobs Subscribe Leave this field empty if you are human: Twitter Facebook-f Linkedin-in Youtube Cloud Services AWS Services Citrix Solutions & Consulting Company About Us Awards Blog Case Studies Career Contact Us Contact IN +91 11 430 78540 US +1 703-752-6293 sales@umbrellainfocare.com Copyright © 2022 Umbrella Infocare. All Rights Reserved. Privacy Policy Cookie Policy We use cookies to ensure you get the best user experience on our website. By continuing to use this site, you agree to the use of these cookies. Read more about our Cookie Policy. Cookie Settings Accept × Manage consent Close Privacy Overview This website uses cookies to improve your experience while you navigate through the website. Out of these, the cookies that are categorized as necessary are stored on your browser as they are essential for the working of basic functionalities of the website. We also use third-party cookies that help us analyze and understand how you use this website. These cookies will be stored in your browser only with your consent. You also have the option to opt-out of these cookies. But opting out of some of these cookies may affect your browsing experience. Necessary Necessary Always Enabled Necessary cookies are absolutely essential for the website to function properly. These cookies ensure basic functionalities and security features of the website, anonymously. Cookie Duration Description cookielawinfo-checkbox-analytics 11 months This cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category \"Analytics\". cookielawinfo-checkbox-functional 11 months The cookie is set by GDPR cookie consent to record the user consent for the cookies in the category \"Functional\". cookielawinfo-checkbox-necessary 11 months This cookie is set by GDPR Cookie Consent plugin. The cookies is used to store the user consent for the cookies in the category \"Necessary\". cookielawinfo-checkbox-others 11 months This cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category \"Other. cookielawinfo-checkbox-performance 11 months This cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category \"Performance\". viewed_cookie_policy 11 months The cookie is set by the GDPR Cookie Consent plugin and is used to store whether or not user has consented to the use of cookies. It does not store any personal data. Functional Functional Functional cookies help to perform certain functionalities like sharing the content of the website on social media platforms, collect feedbacks, and other third-party features. Performance Performance Performance cookies are used to understand and analyze the key performance indexes of the website which helps in delivering a better user experience for the visitors. Analytics Analytics Analytical cookies are used to understand how visitors interact with the website. These cookies help provide information on metrics the number of visitors, bounce rate, traffic source, etc. Advertisement Advertisement Advertisement cookies are used to provide visitors with relevant ads and marketing campaigns. These cookies track visitors across websites and collect information to provide customized ads. Others Others Other uncategorized cookies are those that are being analyzed and have not been classified into a category as yet. SAVE & ACCEPT Powered by We would like to inform our valued visitors and clients that Umbrella Infocare, a company that was acquired by Noventiq in 2022, is currently undergoing a rebranding and integration process into the Noventiq family. At Noventiq, we are committed to delivering cutting-edge solutions and services that meet the evolving needs of our customers. This acquisition is a significant step towards enhancing our capabilities and providing you with an even more robust and comprehensive suite of offerings. We welcome you to explore our solutions and services at aws.noventiq.com or our global website noventiq.com . Thank you for your trust and collaboration with Umbrella Infocare, now proudly a Noventiq company. ×",
+      "_enriched": true,
       "score": 57,
       "isMatch": false,
       "isEng": true,
@@ -6976,7 +7150,7 @@
         {
           "url": "https://umbrellainfocare.com/career",
           "status": 200,
-          "bytes": 201991
+          "bytes": 201996
         },
         {
           "url": "https://umbrellainfocare.com/jobs",
@@ -7011,7 +7185,7 @@
         "workable:umbrellainfocare -> no board"
       ]
     },
-    "ms": 37457
+    "ms": 27258
   },
   {
     "company": "Unbound Security",
@@ -7109,7 +7283,7 @@
         "workable:unboundsecurity -> no board"
       ]
     },
-    "ms": 1992
+    "ms": 1998
   },
   {
     "company": "Uncia Technologies",
@@ -7324,7 +7498,7 @@
         "workable:unciatech -> no board"
       ]
     },
-    "ms": 40775
+    "ms": 18892
   },
   {
     "company": "Unifize",
@@ -7558,7 +7732,7 @@
         "recruitee:unifize -> no board"
       ]
     },
-    "ms": 12473
+    "ms": 10152
   },
   {
     "company": "Unify Technologies",
@@ -7656,7 +7830,7 @@
         "workable:unifytech -> no board"
       ]
     },
-    "ms": 8381
+    "ms": 9076
   },
   {
     "company": "Unilog",
@@ -7729,7 +7903,7 @@
         "workable:unilogcorp -> no board"
       ]
     },
-    "ms": 9475
+    "ms": 11204
   },
   {
     "company": "Uninstall.io",
@@ -7930,17 +8104,17 @@
         {
           "url": "https://unifiedinfotech.net/career",
           "status": 404,
-          "bytes": 210759
+          "bytes": 210846
         },
         {
           "url": "https://unifiedinfotech.net/jobs",
           "status": 404,
-          "bytes": 210759
+          "bytes": 210846
         },
         {
           "url": "https://unifiedinfotech.net/join-us",
           "status": 404,
-          "bytes": 210759
+          "bytes": 210846
         },
         {
           "url": "https://unifiedinfotech.net/join-our-team",
@@ -7950,12 +8124,12 @@
         {
           "url": "https://unifiedinfotech.net/careers.html",
           "status": 404,
-          "bytes": 210759
+          "bytes": 210846
         },
         {
           "url": "https://unifiedinfotech.net/company/careers",
           "status": 404,
-          "bytes": 210759
+          "bytes": 210846
         },
         {
           "url": "https://unifiedinfotech.net/about/careers",
@@ -7965,7 +8139,7 @@
         {
           "url": "https://unifiedinfotech.net/current-openings",
           "status": 404,
-          "bytes": 210759
+          "bytes": 210846
         },
         {
           "url": "https://unifiedinfotech.net/",
@@ -7988,7 +8162,7 @@
         "workable:unifiedinfotech -> no board"
       ]
     },
-    "ms": 23704
+    "ms": 28281
   },
   {
     "company": "Unnati",
@@ -8086,7 +8260,7 @@
         "workable:unnati -> no board"
       ]
     },
-    "ms": 8493
+    "ms": 9771
   },
   {
     "company": "Upcurve Business",
@@ -8184,7 +8358,7 @@
         "workable:upcurvebusiness -> no board"
       ]
     },
-    "ms": 2093
+    "ms": 1895
   },
   {
     "company": "Uplift Labs",
@@ -8282,7 +8456,7 @@
         "workable:upliftlabs -> no board"
       ]
     },
-    "ms": 22213
+    "ms": 14855
   },
   {
     "company": "Upstack India",
@@ -8350,27 +8524,27 @@
         {
           "url": "https://upstack.com/careers",
           "status": 404,
-          "bytes": 355320
+          "bytes": 355298
         },
         {
           "url": "https://upstack.com/career",
           "status": 404,
-          "bytes": 355296
+          "bytes": 355274
         },
         {
           "url": "https://upstack.com/jobs",
           "status": 404,
-          "bytes": 355292
+          "bytes": 355270
         },
         {
           "url": "https://upstack.com/join-us",
           "status": 404,
-          "bytes": 355318
+          "bytes": 355296
         },
         {
           "url": "https://upstack.com/join-our-team",
           "status": 404,
-          "bytes": 355350
+          "bytes": 355328
         }
       ],
       "candidates": [
@@ -8384,7 +8558,7 @@
         "greenhouse:upstack -> 1 jobs"
       ]
     },
-    "ms": 14321
+    "ms": 14567
   },
   {
     "company": "Urbanpiper",
@@ -8473,7 +8647,7 @@
         "workable:urbanpiper -> no board"
       ]
     },
-    "ms": 16544
+    "ms": 16362
   },
   {
     "company": "Urja Global",
@@ -8561,7 +8735,7 @@
         "workable:urjaglobal -> no board"
       ]
     },
-    "ms": 14113
+    "ms": 24728
   },
   {
     "company": "Utopia Global",
@@ -8659,6 +8833,6 @@
         "workable:utopiaglobal -> no board"
       ]
     },
-    "ms": 5710
+    "ms": 5232
   }
 ]

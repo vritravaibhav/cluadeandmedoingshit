@@ -89,7 +89,7 @@
         {
           "url": "https://careers.jio.com",
           "status": 200,
-          "bytes": 79537
+          "bytes": 79535
         },
         {
           "url": "https://jio.com/careers",
@@ -174,7 +174,7 @@
         "workable:reliancejio -> no board"
       ]
     },
-    "ms": 13367
+    "ms": 14244
   },
   {
     "company": "Razorpay",
@@ -796,22 +796,17 @@
         {
           "url": "https://razorpay.com/careers",
           "status": 200,
-          "bytes": 950249
+          "bytes": 950248
         },
         {
           "url": "https://razorpay.com/career",
           "status": 200,
-          "bytes": 950248
+          "bytes": 950135
         },
         {
           "url": "https://razorpay.com/jobs",
           "status": 200,
-          "bytes": 950145
-        },
-        {
-          "url": "https://razorpay.com/join-us",
-          "status": 404,
-          "bytes": 77785
+          "bytes": 950237
         }
       ],
       "candidates": [
@@ -826,7 +821,7 @@
         "greenhouse:razorpaysoftwareprivatelimited -> 23 jobs"
       ]
     },
-    "ms": 1992
+    "ms": 1805
   },
   {
     "company": "Rapido",
@@ -916,7 +911,7 @@
         "workable:rapido -> no board"
       ]
     },
-    "ms": 23551
+    "ms": 23349
   },
   {
     "company": "Rakuten India",
@@ -1231,6 +1226,7 @@
         "text": "Job Description: Rakuten International is a division of Rakuten Group, Inc., a Japanese global technology leader in services that empower individuals, communities, businesses and society. Headquartered in San Mateo, California with more than 4,000 employees worldwide, the Rakuten International business portfolio includes market leaders in e-commerce, digital marketing, advertising, communications and entertainment. We create products and services that provide exceptional value by aligning members and the businesses that want to engage them in a shared community. Rakuten is the most rewarding way to shop, giving millions of members Cash Back when they buy from their favorite brands. As a leading shopping platform, Rakuten partners with thousands of top brands across apparel, beauty and wellness, grocery, travel, on-demand services, subscriptions, and dining, helping members save on everyday purchases. Since 1999, Rakuten members have earned more than $4.6 billion in Cash Back, making it the largest Cash Back platform of its kind. Learn more at Rakuten.com . Job Summary: We are seeking a proactive Quality Engineer to join our dynamic team in San Mateo. In this role, you will be instrumental in ensuring the quality of our web applications, mobile apps, and backend services. You will move beyond traditional testing to adopt AI-first workflows, translating requirements into actionable test strategies and autonomous automation coverage . This is an exciting opportunity for someone who thrives in fast-evolving environments, excels in containerized infrastructure , and wants to leverage AI Agents to contribute significantly to software excellence. Key Responsibilities: AI-First Quality Ownership: Own end-to-end quality for assigned features by defining test strategy, leveraging AI to generate test coverage, and ensuring continuous validation across the development lifecycle. Partner with cross-functional teams to align on product goals and release readiness. Intelligent Risk Detection: Use AI-assisted analysis to evaluate requirements, system behavior, and production signals to identify edge cases, gaps in coverage, missing telemetry, flaky automation, and environment drift early. AI-Driven Automation: Build, maintain, and optimize UI, API, and end-to-end automated tests using Python, Java, or JavaScript/TypeScript. Actively leverage AI coding assistants and autonomous test agents to improve efficiency, scalability, and coverage. Infrastructure & CI/CD: Deploy and validate services in containerized environments (Docker, Kubernetes). Integrate AI-driven testing into CI/CD pipelines to enable continuous, automated quality signals on every change. Agent-Based Execution & Validation: Utilize AI agents to execute user flows, perform exploratory testing, and validate UI and system behavior across environments. Apply AI-driven visual validation against Figma designs to ensure design-to-implementation fidelity. Backend & Performance Testing: Validate complex backend behavior, including event-driven workflows, message queues, async pipelines, and data integrity. Use AI-assisted techniques to detect anomalies, validate data integrity (SQL), and surface system-level issues. Quality Signals, Triage & Advocacy: Leverage AI to triage defects, cluster failures, and identify root causes. Communicate insights clearly to stakeholders and advocate for AI-first quality practices across the SDLC Qualifications: To perform this job successfully, an individual must be able to perform each essential duty satisfactorily. The requirements listed below are representative of the knowledge, skill, and/or ability required. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions. Programming & AI-First Automation: Proficiency in Python, Java, or JavaScript/TypeScript, with the ability to use LLMs to generate and maintain test automation. Experience testing OpenAPI/REST APIs (GraphQL a plus) and validating data using SQL. AI Proficiency: Proven experience integrating LLMs and AI agents into QA workflows to drive automation and efficiency, including AI-assisted test generation, failure analysis, and defect triage. AI-Native Visual & UI Testing: Experience leveraging Figma as a source of truth and applying AI agents (e.g., Claude) with platforms like BrowserStack to automate UI validation. Ability to generate tests from design, perform agent-driven exploratory testing, and use AI for semantic visual validation and intelligent defect triage across devices and browsers. Infrastructure Skills: Working knowledge of CI/CD systems (e.g., GitHub Actions) and containerized environments (Docker and Kubernetes), with the ability to troubleshoot common test environment failures. Collaboration & Strategy: Ability to develop practical, feature-level test strategies, clearly communicate coverage and risks, and demonstrate an eagerness to adopt emerging AI-driven engineering practices . Minimum Requirements: 3 to 5 years of experience in Quality Assurance. 2+ years of experience in Test Automation (Web/Mobile/API). 1+ years of experience with Docker/Kubernetes. Bachelor’s degree in computer science, Engineering, or related field (or equivalent experience) Required. Five Principles for Success Our worldwide practices describe specific behaviors that make Rakuten unique and united across the world. We expect Rakuten employees to model these 5 Shugi Principles of Success. Always improve, Always Advance - Only be satisfied with complete success - Kaizen Passionately Professional - Take an uncompromising approach to your work and be determined to be the best Hypothesize - Practice - Validate – Shikumika - Use the Rakuten Cycle to succeed in unknown territory Maximize Customer Satisfaction - The greatest satisfaction for our teams is seeing their customers smile Speed!! Speed!! Speed!! - Always be conscious of time - take charge, set clear goals, and engage your team Rakuten provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type. Rakuten considers applicants for employment without regard to race, color, religion, age, sex, national origin, disability status, genetic information, protected veteran status, sexual orientation, gender, gender identity or expression, or any other characteristic protected by federal, state, provincial or local laws. At the time of posting, Rakuten expects the base compensation for this role to be within the range shown below. Individual compensation will vary based on job-related factors, including the skills, qualifications, and experience of the successful candidate as well as business need and geographic location. The successful applicant for this role will be eligible for discretionary bonus, health, vision, dental insurance, 401k matching, PTO, Volunteer Time Off (VTO), and other employee benefits as the company implements. USD $96,442.50 - $163,680.00 annually",
         "_detail": "https://rakuten.wd1.myworkdayjobs.com/wday/cxs/rakuten/RakutenRewards/job/San-Mateo-California/QA-Automation-Engineer_1032290",
         "_detailKind": "workday",
+        "_enriched": true,
         "score": 85,
         "isMatch": true,
         "isEng": true,
@@ -1270,6 +1266,7 @@
       "text": "Job Description: Rakuten International is a division of Rakuten Group, Inc., a Japanese global technology leader in services that empower individuals, communities, businesses and society. Headquartered in San Mateo, California with more than 4,000 employees worldwide, the Rakuten International business portfolio includes market leaders in e-commerce, digital marketing, advertising, communications and entertainment. We create products and services that provide exceptional value by aligning members and the businesses that want to engage them in a shared community. Rakuten is the most rewarding way to shop, giving millions of members Cash Back when they buy from their favorite brands. As a leading shopping platform, Rakuten partners with thousands of top brands across apparel, beauty and wellness, grocery, travel, on-demand services, subscriptions, and dining, helping members save on everyday purchases. Since 1999, Rakuten members have earned more than $4.6 billion in Cash Back, making it the largest Cash Back platform of its kind. Learn more at Rakuten.com . Job Summary: We are seeking a proactive Quality Engineer to join our dynamic team in San Mateo. In this role, you will be instrumental in ensuring the quality of our web applications, mobile apps, and backend services. You will move beyond traditional testing to adopt AI-first workflows, translating requirements into actionable test strategies and autonomous automation coverage . This is an exciting opportunity for someone who thrives in fast-evolving environments, excels in containerized infrastructure , and wants to leverage AI Agents to contribute significantly to software excellence. Key Responsibilities: AI-First Quality Ownership: Own end-to-end quality for assigned features by defining test strategy, leveraging AI to generate test coverage, and ensuring continuous validation across the development lifecycle. Partner with cross-functional teams to align on product goals and release readiness. Intelligent Risk Detection: Use AI-assisted analysis to evaluate requirements, system behavior, and production signals to identify edge cases, gaps in coverage, missing telemetry, flaky automation, and environment drift early. AI-Driven Automation: Build, maintain, and optimize UI, API, and end-to-end automated tests using Python, Java, or JavaScript/TypeScript. Actively leverage AI coding assistants and autonomous test agents to improve efficiency, scalability, and coverage. Infrastructure & CI/CD: Deploy and validate services in containerized environments (Docker, Kubernetes). Integrate AI-driven testing into CI/CD pipelines to enable continuous, automated quality signals on every change. Agent-Based Execution & Validation: Utilize AI agents to execute user flows, perform exploratory testing, and validate UI and system behavior across environments. Apply AI-driven visual validation against Figma designs to ensure design-to-implementation fidelity. Backend & Performance Testing: Validate complex backend behavior, including event-driven workflows, message queues, async pipelines, and data integrity. Use AI-assisted techniques to detect anomalies, validate data integrity (SQL), and surface system-level issues. Quality Signals, Triage & Advocacy: Leverage AI to triage defects, cluster failures, and identify root causes. Communicate insights clearly to stakeholders and advocate for AI-first quality practices across the SDLC Qualifications: To perform this job successfully, an individual must be able to perform each essential duty satisfactorily. The requirements listed below are representative of the knowledge, skill, and/or ability required. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions. Programming & AI-First Automation: Proficiency in Python, Java, or JavaScript/TypeScript, with the ability to use LLMs to generate and maintain test automation. Experience testing OpenAPI/REST APIs (GraphQL a plus) and validating data using SQL. AI Proficiency: Proven experience integrating LLMs and AI agents into QA workflows to drive automation and efficiency, including AI-assisted test generation, failure analysis, and defect triage. AI-Native Visual & UI Testing: Experience leveraging Figma as a source of truth and applying AI agents (e.g., Claude) with platforms like BrowserStack to automate UI validation. Ability to generate tests from design, perform agent-driven exploratory testing, and use AI for semantic visual validation and intelligent defect triage across devices and browsers. Infrastructure Skills: Working knowledge of CI/CD systems (e.g., GitHub Actions) and containerized environments (Docker and Kubernetes), with the ability to troubleshoot common test environment failures. Collaboration & Strategy: Ability to develop practical, feature-level test strategies, clearly communicate coverage and risks, and demonstrate an eagerness to adopt emerging AI-driven engineering practices . Minimum Requirements: 3 to 5 years of experience in Quality Assurance. 2+ years of experience in Test Automation (Web/Mobile/API). 1+ years of experience with Docker/Kubernetes. Bachelor’s degree in computer science, Engineering, or related field (or equivalent experience) Required. Five Principles for Success Our worldwide practices describe specific behaviors that make Rakuten unique and united across the world. We expect Rakuten employees to model these 5 Shugi Principles of Success. Always improve, Always Advance - Only be satisfied with complete success - Kaizen Passionately Professional - Take an uncompromising approach to your work and be determined to be the best Hypothesize - Practice - Validate – Shikumika - Use the Rakuten Cycle to succeed in unknown territory Maximize Customer Satisfaction - The greatest satisfaction for our teams is seeing their customers smile Speed!! Speed!! Speed!! - Always be conscious of time - take charge, set clear goals, and engage your team Rakuten provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type. Rakuten considers applicants for employment without regard to race, color, religion, age, sex, national origin, disability status, genetic information, protected veteran status, sexual orientation, gender, gender identity or expression, or any other characteristic protected by federal, state, provincial or local laws. At the time of posting, Rakuten expects the base compensation for this role to be within the range shown below. Individual compensation will vary based on job-related factors, including the skills, qualifications, and experience of the successful candidate as well as business need and geographic location. The successful applicant for this role will be eligible for discretionary bonus, health, vision, dental insurance, 401k matching, PTO, Volunteer Time Off (VTO), and other employee benefits as the company implements. USD $96,442.50 - $163,680.00 annually",
       "_detail": "https://rakuten.wd1.myworkdayjobs.com/wday/cxs/rakuten/RakutenRewards/job/San-Mateo-California/QA-Automation-Engineer_1032290",
       "_detailKind": "workday",
+      "_enriched": true,
       "score": 85,
       "isMatch": true,
       "isEng": true,
@@ -1307,6 +1304,7 @@
       "text": "Job Description: Rakuten International is a division of Rakuten Group, Inc., a Japanese global technology leader in services that empower individuals, communities, businesses and society. Headquartered in San Mateo, California with more than 4,000 employees worldwide, the Rakuten International business portfolio includes market leaders in e-commerce, digital marketing, advertising, communications and entertainment. We create products and services that provide exceptional value by aligning members and the businesses that want to engage them in a shared community. Rakuten is the most rewarding way to shop, giving millions of members Cash Back when they buy from their favorite brands. As a leading shopping platform, Rakuten partners with thousands of top brands across apparel, beauty and wellness, grocery, travel, on-demand services, subscriptions, and dining, helping members save on everyday purchases. Since 1999, Rakuten members have earned more than $4.6 billion in Cash Back, making it the largest Cash Back platform of its kind. Learn more at Rakuten.com . Job Summary: We are seeking a proactive Quality Engineer to join our dynamic team in San Mateo. In this role, you will be instrumental in ensuring the quality of our web applications, mobile apps, and backend services. You will move beyond traditional testing to adopt AI-first workflows, translating requirements into actionable test strategies and autonomous automation coverage . This is an exciting opportunity for someone who thrives in fast-evolving environments, excels in containerized infrastructure , and wants to leverage AI Agents to contribute significantly to software excellence. Key Responsibilities: AI-First Quality Ownership: Own end-to-end quality for assigned features by defining test strategy, leveraging AI to generate test coverage, and ensuring continuous validation across the development lifecycle. Partner with cross-functional teams to align on product goals and release readiness. Intelligent Risk Detection: Use AI-assisted analysis to evaluate requirements, system behavior, and production signals to identify edge cases, gaps in coverage, missing telemetry, flaky automation, and environment drift early. AI-Driven Automation: Build, maintain, and optimize UI, API, and end-to-end automated tests using Python, Java, or JavaScript/TypeScript. Actively leverage AI coding assistants and autonomous test agents to improve efficiency, scalability, and coverage. Infrastructure & CI/CD: Deploy and validate services in containerized environments (Docker, Kubernetes). Integrate AI-driven testing into CI/CD pipelines to enable continuous, automated quality signals on every change. Agent-Based Execution & Validation: Utilize AI agents to execute user flows, perform exploratory testing, and validate UI and system behavior across environments. Apply AI-driven visual validation against Figma designs to ensure design-to-implementation fidelity. Backend & Performance Testing: Validate complex backend behavior, including event-driven workflows, message queues, async pipelines, and data integrity. Use AI-assisted techniques to detect anomalies, validate data integrity (SQL), and surface system-level issues. Quality Signals, Triage & Advocacy: Leverage AI to triage defects, cluster failures, and identify root causes. Communicate insights clearly to stakeholders and advocate for AI-first quality practices across the SDLC Qualifications: To perform this job successfully, an individual must be able to perform each essential duty satisfactorily. The requirements listed below are representative of the knowledge, skill, and/or ability required. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions. Programming & AI-First Automation: Proficiency in Python, Java, or JavaScript/TypeScript, with the ability to use LLMs to generate and maintain test automation. Experience testing OpenAPI/REST APIs (GraphQL a plus) and validating data using SQL. AI Proficiency: Proven experience integrating LLMs and AI agents into QA workflows to drive automation and efficiency, including AI-assisted test generation, failure analysis, and defect triage. AI-Native Visual & UI Testing: Experience leveraging Figma as a source of truth and applying AI agents (e.g., Claude) with platforms like BrowserStack to automate UI validation. Ability to generate tests from design, perform agent-driven exploratory testing, and use AI for semantic visual validation and intelligent defect triage across devices and browsers. Infrastructure Skills: Working knowledge of CI/CD systems (e.g., GitHub Actions) and containerized environments (Docker and Kubernetes), with the ability to troubleshoot common test environment failures. Collaboration & Strategy: Ability to develop practical, feature-level test strategies, clearly communicate coverage and risks, and demonstrate an eagerness to adopt emerging AI-driven engineering practices . Minimum Requirements: 3 to 5 years of experience in Quality Assurance. 2+ years of experience in Test Automation (Web/Mobile/API). 1+ years of experience with Docker/Kubernetes. Bachelor’s degree in computer science, Engineering, or related field (or equivalent experience) Required. Five Principles for Success Our worldwide practices describe specific behaviors that make Rakuten unique and united across the world. We expect Rakuten employees to model these 5 Shugi Principles of Success. Always improve, Always Advance - Only be satisfied with complete success - Kaizen Passionately Professional - Take an uncompromising approach to your work and be determined to be the best Hypothesize - Practice - Validate – Shikumika - Use the Rakuten Cycle to succeed in unknown territory Maximize Customer Satisfaction - The greatest satisfaction for our teams is seeing their customers smile Speed!! Speed!! Speed!! - Always be conscious of time - take charge, set clear goals, and engage your team Rakuten provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type. Rakuten considers applicants for employment without regard to race, color, religion, age, sex, national origin, disability status, genetic information, protected veteran status, sexual orientation, gender, gender identity or expression, or any other characteristic protected by federal, state, provincial or local laws. At the time of posting, Rakuten expects the base compensation for this role to be within the range shown below. Individual compensation will vary based on job-related factors, including the skills, qualifications, and experience of the successful candidate as well as business need and geographic location. The successful applicant for this role will be eligible for discretionary bonus, health, vision, dental insurance, 401k matching, PTO, Volunteer Time Off (VTO), and other employee benefits as the company implements. USD $96,442.50 - $163,680.00 annually",
       "_detail": "https://rakuten.wd1.myworkdayjobs.com/wday/cxs/rakuten/RakutenRewards/job/San-Mateo-California/QA-Automation-Engineer_1032290",
       "_detailKind": "workday",
+      "_enriched": true,
       "score": 85,
       "isMatch": true,
       "isEng": true,
@@ -1407,7 +1405,7 @@
         "workday:rakuten -> 17 jobs"
       ]
     },
-    "ms": 22545
+    "ms": 24716
   },
   {
     "company": "Redbus",
@@ -1495,7 +1493,7 @@
         "workable:redbus -> no board"
       ]
     },
-    "ms": 22376
+    "ms": 18148
   },
   {
     "company": "Rivigo",
@@ -1593,7 +1591,7 @@
         "workable:rivigo -> no board"
       ]
     },
-    "ms": 12907
+    "ms": 12226
   },
   {
     "company": "Robert Bosch India",
@@ -1666,7 +1664,7 @@
         "workable:bosch -> no board"
       ]
     },
-    "ms": 34731
+    "ms": 32168
   },
   {
     "company": "Rockwell Automation India",
@@ -1756,26 +1754,6 @@
         "score": 42
       },
       {
-        "title": "Concept Developer",
-        "location": "4 Locations",
-        "url": "https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Milwaukee-Wisconsin-United-States/Concept-Developer_R26-3986",
-        "india": false,
-        "locationSaysIndia": false,
-        "hasLocation": true,
-        "isEng": true,
-        "java": false,
-        "flutter": false,
-        "senior": false,
-        "exp": [
-          [
-            3,
-            7
-          ]
-        ],
-        "expFits2": false,
-        "score": 42
-      },
-      {
         "title": "Senior Test Manufacturing Engineer",
         "location": "Singapore Singapore (Corporation Road)",
         "url": "https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Singapore-Singapore-Corporation-Road/Senior-Test-Manufacturing-Engineer_R26-5767",
@@ -1816,6 +1794,21 @@
         "score": 38
       },
       {
+        "title": "Concept Developer",
+        "location": "4 Locations",
+        "url": "https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Milwaukee-Wisconsin-United-States/Concept-Developer_R26-3986",
+        "india": false,
+        "locationSaysIndia": false,
+        "hasLocation": true,
+        "isEng": true,
+        "java": false,
+        "flutter": false,
+        "senior": false,
+        "exp": [],
+        "expFits2": false,
+        "score": 34
+      },
+      {
         "title": "AEM Full Stack Developer",
         "location": "4 Locations",
         "url": "https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Pune-India/AEM-Full-Stack-Developer_R26-4959",
@@ -1831,9 +1824,9 @@
         "score": 34
       },
       {
-        "title": "Project Engineer - Hardware",
-        "location": "2 Locations",
-        "url": "https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Pune-India/Project-Engineer---Hardware_R26-4006",
+        "title": "Application Developer",
+        "location": "3 Locations",
+        "url": "https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Bengaluru-India/Application-Developer_R26-5311-1",
         "india": false,
         "locationSaysIndia": false,
         "hasLocation": true,
@@ -1841,9 +1834,14 @@
         "java": false,
         "flutter": false,
         "senior": false,
-        "exp": [],
+        "exp": [
+          [
+            5,
+            9
+          ]
+        ],
         "expFits2": false,
-        "score": 34
+        "score": 30
       },
       {
         "title": "Project Engineer",
@@ -2184,21 +2182,6 @@
         "score": 4
       },
       {
-        "title": "Lider Zmiany - Magazyn",
-        "location": "Szczecin, Poland",
-        "url": "https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Szczecin-Poland/Lider-Zmiany---Magazyn_R26-6167",
-        "india": false,
-        "locationSaysIndia": false,
-        "hasLocation": true,
-        "isEng": false,
-        "java": false,
-        "flutter": false,
-        "senior": false,
-        "exp": [],
-        "expFits2": false,
-        "score": 4
-      },
-      {
         "title": "Planning -Lead",
         "location": "Kancheepuram, India",
         "url": "https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Kancheepuram-India/Planning--Lead_R26-5942",
@@ -2259,6 +2242,36 @@
         "score": -3
       },
       {
+        "title": "Account Development Manager - Mining",
+        "location": "7 Locations",
+        "url": "https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/San-Francisco-California-United-States/Account-Development-Manager---Datacenter_R26-326",
+        "india": false,
+        "locationSaysIndia": false,
+        "hasLocation": true,
+        "isEng": false,
+        "java": false,
+        "flutter": false,
+        "senior": true,
+        "exp": [],
+        "expFits2": false,
+        "score": -18
+      },
+      {
+        "title": "Account Development Manager - Datacenter",
+        "location": "2 Locations",
+        "url": "https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Chicago-Illinois-United-States/Account-Development-Manager---Datacenter_R26-391",
+        "india": false,
+        "locationSaysIndia": false,
+        "hasLocation": true,
+        "isEng": false,
+        "java": false,
+        "flutter": false,
+        "senior": true,
+        "exp": [],
+        "expFits2": false,
+        "score": -18
+      },
+      {
         "title": "OEM Account Manager",
         "location": "2 Locations",
         "url": "https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/India-Pune-Balewadi/OEM-Account-Manager_R26-4327-1",
@@ -2317,21 +2330,6 @@
         "exp": [],
         "expFits2": false,
         "score": -18
-      },
-      {
-        "title": "Account Manager OEM",
-        "location": "4 Locations",
-        "url": "https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Lyon-France/Account-Manager-OEM_R26-966",
-        "india": false,
-        "locationSaysIndia": false,
-        "hasLocation": true,
-        "isEng": false,
-        "java": false,
-        "flutter": false,
-        "senior": true,
-        "exp": [],
-        "expFits2": false,
-        "score": -18
       }
     ],
     "enriched": 10,
@@ -2345,6 +2343,7 @@
       "text": "Rockwell Automation is a global technology leader focused on helping the world’s manufacturers be more productive, sustainable, and agile. With more than 28,000 employees who make the world better every day, we know we have something special. Behind our customers - amazing companies that help feed the world, provide life-saving medicine on a global scale, and focus on clean water and green mobility - our people are energized problem solvers that take pride in how the work we do changes the world for the better. We welcome all makers, forward thinkers, and problem solvers who are looking for a place to do their best work. And if that’s you we would love to have you join us! Job Description We're looking for an Engineer, Embedded Software Test . You will independently test firmware features and grow your technical expertise in embedded systems. Depending on your team, you may work on network protocol stacks, controller application firmware, or platform-level software for Rockwell Automation's industrial products. Your team will be 6-8 people and will be one of 20+ embedded teams located in Katowice. You will work together also with other teams, located in USA, Singapore and Czechia. You will report to the Team Leader/Manager , Embedded Software and have a hybrid schedule working in Katowice, Poland. Your Responsibilities: Test Development & Automation Test firmware components for multiple Rockwell Automation devices. Verify and validate product features in your domain, such as network protocols (Ethernet/IP, CIP), controller runtime functions, or platform/OS services. Integrate automated tests into CI/CD pipelines. Support defects analysis and identifying root-causes. Test Strategy & Planning Participate in requirements reviews and define test coverage for new features. Create test cases, test plans, and test documentation. Maintain traceability between requirements, tests, and identified defects. Collaboration & Continuous Improvement Participate in Agile/SAFe development activities (planning, reviews, retrospectives). Collaborate with teams worldwide. Help use automation and CI/CD practices in testing workflows. The Essentials - You Will Have: Bachelor's degree in Computer Engineering, Computer Science, Automation and Robotics, Electronics, or related IT degree (or equivalent practical experience). Typically, 2+ years of practical test automation experience in Python, using software lifecycle development methodologies (software requirements analysis, software design, software testing). Knowledge of one or more of: network protocols (TCP/IP, Ethernet-based communication), embedded systems architecture, or real-time operating systems (e.g. QNX, VxWorks). Typically, 2+ years of experience in embedded systems firmware testing, analyzing defects, and supporting issue resolution. Practical experience with version control systems like GitHub/GitLab and CI/CD systems like Jenkins. Understanding of testing methods, including test design and validation techniques. Fluent English (B2 or higher). \"Can do\" and \"I'll find out\" attitude. The Preferred - You Might Also Have: Experience in industrial automation systems (PLCs, drives, I/O modules). Practical knowledge of embedded security concepts or safety standards (e.g., IEC 62443, IEC 61508). Experience with industrial network protocols (e.g., EtherNet/IP, CIP). Familiarity with hardware-software interaction concepts (registers, interrupts, memory management, BSP/HAL). Experience with real-time systems. Experience in Agile software / SAFe development. Collaborative mindset: willingness to support the team, share knowledge, experiment, and maintain technical documentation. What We Offer: Our benefits package includes … Volunteer Paid Time off available after 6 months of employment for eligible employees. Company volunteer and donation matching program – Your volunteer hours or personal cash donations to an eligible charity can be matched with a charitable donation. On-demand digital course library for professional development. Comprehensive mindfulness programs with a premium membership to Calm Employee Assistance Program. Personalized wellbeing programs through our OnTrack program. ... and other local benefits! At Rockwell Automation we are dedicated to building a diverse, inclusive and authentic workplace, so if you're excited about this role but your experience doesn't align perfectly with every qualification in the job description, we encourage you to apply anyway. You may be just the right person for this or other roles. #LI-Hybrid #LI-JS1 Rockwell Automation’s hybrid policy aligns that employees are expected to work at a Rockwell location at least Mondays, Tuesdays, and Thursdays unless they have a business obligation out of the office.",
       "_detail": "https://rockwellautomation.wd1.myworkdayjobs.com/wday/cxs/rockwellautomation/External_Rockwell_Automation/job/Katowice-Poland/Engineer--Embedded-Software-Test---Python_R26-5367",
       "_detailKind": "workday",
+      "_enriched": true,
       "score": 60,
       "isMatch": false,
       "isEng": true,
@@ -2370,6 +2369,7 @@
       "text": "Rockwell Automation is a global technology leader focused on helping the world’s manufacturers be more productive, sustainable, and agile. With more than 28,000 employees who make the world better every day, we know we have something special. Behind our customers - amazing companies that help feed the world, provide life-saving medicine on a global scale, and focus on clean water and green mobility - our people are energized problem solvers that take pride in how the work we do changes the world for the better. We welcome all makers, forward thinkers, and problem solvers who are looking for a place to do their best work. And if that’s you we would love to have you join us! Job Description We're looking for an Engineer, Embedded Software Test . You will independently test firmware features and grow your technical expertise in embedded systems. Depending on your team, you may work on network protocol stacks, controller application firmware, or platform-level software for Rockwell Automation's industrial products. Your team will be 6-8 people and will be one of 20+ embedded teams located in Katowice. You will work together also with other teams, located in USA, Singapore and Czechia. You will report to the Team Leader/Manager , Embedded Software and have a hybrid schedule working in Katowice, Poland. Your Responsibilities: Test Development & Automation Test firmware components for multiple Rockwell Automation devices. Verify and validate product features in your domain, such as network protocols (Ethernet/IP, CIP), controller runtime functions, or platform/OS services. Integrate automated tests into CI/CD pipelines. Support defects analysis and identifying root-causes. Test Strategy & Planning Participate in requirements reviews and define test coverage for new features. Create test cases, test plans, and test documentation. Maintain traceability between requirements, tests, and identified defects. Collaboration & Continuous Improvement Participate in Agile/SAFe development activities (planning, reviews, retrospectives). Collaborate with teams worldwide. Help use automation and CI/CD practices in testing workflows. The Essentials - You Will Have: Bachelor's degree in Computer Engineering, Computer Science, Automation and Robotics, Electronics, or related IT degree (or equivalent practical experience). Typically, 2+ years of practical test automation experience in Python, using software lifecycle development methodologies (software requirements analysis, software design, software testing). Knowledge of one or more of: network protocols (TCP/IP, Ethernet-based communication), embedded systems architecture, or real-time operating systems (e.g. QNX, VxWorks). Typically, 2+ years of experience in embedded systems firmware testing, analyzing defects, and supporting issue resolution. Practical experience with version control systems like GitHub/GitLab and CI/CD systems like Jenkins. Understanding of testing methods, including test design and validation techniques. Fluent English (B2 or higher). \"Can do\" and \"I'll find out\" attitude. The Preferred - You Might Also Have: Experience in industrial automation systems (PLCs, drives, I/O modules). Practical knowledge of embedded security concepts or safety standards (e.g., IEC 62443, IEC 61508). Experience with industrial network protocols (e.g., EtherNet/IP, CIP). Familiarity with hardware-software interaction concepts (registers, interrupts, memory management, BSP/HAL). Experience with real-time systems. Experience in Agile software / SAFe development. Collaborative mindset: willingness to support the team, share knowledge, experiment, and maintain technical documentation. What We Offer: Our benefits package includes … Volunteer Paid Time off available after 6 months of employment for eligible employees. Company volunteer and donation matching program – Your volunteer hours or personal cash donations to an eligible charity can be matched with a charitable donation. On-demand digital course library for professional development. Comprehensive mindfulness programs with a premium membership to Calm Employee Assistance Program. Personalized wellbeing programs through our OnTrack program. ... and other local benefits! At Rockwell Automation we are dedicated to building a diverse, inclusive and authentic workplace, so if you're excited about this role but your experience doesn't align perfectly with every qualification in the job description, we encourage you to apply anyway. You may be just the right person for this or other roles. #LI-Hybrid #LI-JS1 Rockwell Automation’s hybrid policy aligns that employees are expected to work at a Rockwell location at least Mondays, Tuesdays, and Thursdays unless they have a business obligation out of the office.",
       "_detail": "https://rockwellautomation.wd1.myworkdayjobs.com/wday/cxs/rockwellautomation/External_Rockwell_Automation/job/Katowice-Poland/Engineer--Embedded-Software-Test---Python_R26-5367",
       "_detailKind": "workday",
+      "_enriched": true,
       "score": 60,
       "isMatch": false,
       "isEng": true,
@@ -2473,7 +2473,7 @@
         "workday:rockwellautomation -> 40 jobs"
       ]
     },
-    "ms": 23928
+    "ms": 22176
   },
   {
     "company": "Rupeek",
@@ -2738,7 +2738,7 @@
         "workable:rupeek -> no board"
       ]
     },
-    "ms": 11801
+    "ms": 11567
   },
   {
     "company": "RBL Bank",
@@ -2763,27 +2763,27 @@
         {
           "url": "https://rblbank.com/careers",
           "status": 200,
-          "bytes": 611651
+          "bytes": 611897
         },
         {
           "url": "https://rblbank.com/career",
           "status": 404,
-          "bytes": 579701
+          "bytes": 579947
         },
         {
           "url": "https://rblbank.com/jobs",
           "status": 404,
-          "bytes": 579695
+          "bytes": 579941
         },
         {
           "url": "https://rblbank.com/join-us",
           "status": 404,
-          "bytes": 579704
+          "bytes": 579950
         },
         {
           "url": "https://rblbank.com/join-our-team",
           "status": 404,
-          "bytes": 579722
+          "bytes": 579968
         }
       ],
       "candidates": [
@@ -2801,7 +2801,7 @@
         "workable:rblbank -> no board"
       ]
     },
-    "ms": 17048
+    "ms": 16464
   },
   {
     "company": "Rebel Foods",
@@ -2899,7 +2899,7 @@
         "workable:rebelfoods -> no board"
       ]
     },
-    "ms": 39700
+    "ms": 25380
   },
   {
     "company": "Recko",
@@ -2928,7 +2928,7 @@
         {
           "url": "https://recko.io/career",
           "status": 403,
-          "bytes": 243
+          "bytes": 263
         },
         {
           "url": "https://recko.io/jobs",
@@ -2938,27 +2938,27 @@
         {
           "url": "https://recko.io/join-us",
           "status": 403,
-          "bytes": 263
+          "bytes": 243
         },
         {
           "url": "https://recko.io/join-our-team",
           "status": 403,
-          "bytes": 263
+          "bytes": 243
         },
         {
           "url": "https://recko.io/careers.html",
           "status": 403,
-          "bytes": 243
+          "bytes": 263
         },
         {
           "url": "https://recko.io/company/careers",
           "status": 403,
-          "bytes": 243
+          "bytes": 263
         },
         {
           "url": "https://recko.io/about/careers",
           "status": 403,
-          "bytes": 243
+          "bytes": 263
         },
         {
           "url": "https://recko.io/current-openings",
@@ -2990,7 +2990,7 @@
         "workable:recko -> no board"
       ]
     },
-    "ms": 4900
+    "ms": 5493
   },
   {
     "company": "Red Hat India",
@@ -3364,6 +3364,21 @@
         "score": 4
       },
       {
+        "title": "Associate Project Manager – Technical (m/f/d)",
+        "location": "2 Locations",
+        "url": "https://redhat.wd5.myworkdayjobs.com/jobs/job/Munich/Associate-Project-Manager---Technical_R-058464-2",
+        "india": false,
+        "locationSaysIndia": false,
+        "hasLocation": true,
+        "isEng": false,
+        "java": false,
+        "flutter": false,
+        "senior": true,
+        "exp": [],
+        "expFits2": false,
+        "score": -6
+      },
+      {
         "title": "Senior Consultant",
         "location": "Puteaux",
         "url": "https://redhat.wd5.myworkdayjobs.com/jobs/job/Puteaux/Senior-Consultant_R-057977-1",
@@ -3602,21 +3617,6 @@
         "exp": [],
         "expFits2": false,
         "score": -18
-      },
-      {
-        "title": "Territory Services Manager (m/f/d)",
-        "location": "Remote Germany",
-        "url": "https://redhat.wd5.myworkdayjobs.com/jobs/job/Remote-Germany/Territory-Services-Manager_R-058262-1",
-        "india": false,
-        "locationSaysIndia": false,
-        "hasLocation": true,
-        "isEng": false,
-        "java": false,
-        "flutter": false,
-        "senior": true,
-        "exp": [],
-        "expFits2": false,
-        "score": -18
       }
     ],
     "enriched": 10,
@@ -3629,6 +3629,7 @@
         "text": "About the job At Red Hat, our interns are an integral part of the team. They don’t get relegated to busywork or unimportant tasks, but participate in the day-to-day work and are active contributors to their team. We are currently looking for Software Engineering interns to join us in Pune or Bangalore. You will work closely with a senior mentor to gain technical knowledge and experience in your field, and cooperate with a broader international team both locally and globally. You will be part of a cohort of interns and have the opportunity to work on multiple projects within Global Engineering while also receiving learning and curriculum on different technologies. These projects and curriculum may include areas such as Ansible, RHEL, OpenShift, AI, and more. You’ll also have the chance to work with technologies like Python, GitHub, Java, Agile, JavaScript, etc. What will you do? Work closely with your mentor to design, develop, and maintain code in Python, Golang or similar programming language Add new features, debug, identify, and track issues in Red Hat products (RHEL, OpenShift or other) Collaborate with the wider team members and other departments such as Quality Engineering, Designers, Product Management or Documentation team throughout the product cycle Network with other talented interns in a workplace where you can be yourself and thrive What will you bring? Currently pursuing the final year of a bachelor's degree in Computer Science, Information Technology, or an equivalent discipline Working knowledge of written and spoken English Basic knowledge of and passion for Software Engineering, basic knowledge and willingness to use Python, Golang or similar programming language Passion, curiosity, and desire to create new things and examine how things work internally Willingness to learn and proactively work as a part of a wider team Red Hat will not be providing visa sponsorship for this position. Therefore, in order to be considered for this position, you must have the ability to work without a need for current or future visa sponsorship. About Red Hat Red Hat is the world’s leading provider of enterprise open source software solutions, using a community-powered approach to deliver high-performing Linux, cloud, container, and Kubernetes technologies. Spread across 40+ countries, our associates work flexibly across work environments, from in-office, to office-flex, to fully remote, depending on the requirements of their role. Red Hatters are encouraged to bring their best ideas, no matter their title or tenure. We're a leader in open source because of our open and inclusive environment. We hire creative, passionate people ready to contribute their ideas, help solve complex problems, and make an impact. Inclusion at Red Hat Red Hat’s culture is built on the open source principles of transparency, collaboration, and inclusion, where the best ideas can come from anywhere and anyone. When this is realized, it empowers people from different backgrounds, perspectives, and experiences to come together to share ideas, challenge the status quo, and drive innovation. Our aspiration is that everyone experiences this culture with equal opportunity and access, and that all voices are not only heard but also celebrated. We hope you will join our celebration, and we welcome and encourage applicants from all the beautiful dimensions that compose our global village. Equal Opportunity Policy (EEO) Red Hat is proud to be an equal opportunity workplace and an affirmative action employer. We review applications for employment without regard to their race, color, religion, sex, sexual orientation, gender identity, national origin, ancestry, citizenship, age, veteran status, genetic information, physical or mental disability, medical condition, marital status, or any other basis prohibited by law. Red Hat does not seek or accept unsolicited resumes or CVs from recruitment agencies. We are not responsible for, and will not pay, any fees, commissions, or any other payment related to unsolicited resumes or CVs except as required in a written contract between Red Hat and the recruitment agency or party requesting payment of a fee. Red Hat supports individuals with disabilities and provides reasonable accommodations to job applicants. If you need assistance completing our online job application, email application-assistance@redhat.com . General inquiries, such as those regarding the status of a job application, will not receive a reply.",
         "_detail": "https://redhat.wd5.myworkdayjobs.com/wday/cxs/redhat/jobs/job/Pune---Tower-6/Software-Engineering-Intern_R-058560",
         "_detailKind": "workday",
+        "_enriched": true,
         "score": 86,
         "isMatch": true,
         "isEng": true,
@@ -3651,6 +3652,7 @@
       "text": "About the job At Red Hat, our interns are an integral part of the team. They don’t get relegated to busywork or unimportant tasks, but participate in the day-to-day work and are active contributors to their team. We are currently looking for Software Engineering interns to join us in Pune or Bangalore. You will work closely with a senior mentor to gain technical knowledge and experience in your field, and cooperate with a broader international team both locally and globally. You will be part of a cohort of interns and have the opportunity to work on multiple projects within Global Engineering while also receiving learning and curriculum on different technologies. These projects and curriculum may include areas such as Ansible, RHEL, OpenShift, AI, and more. You’ll also have the chance to work with technologies like Python, GitHub, Java, Agile, JavaScript, etc. What will you do? Work closely with your mentor to design, develop, and maintain code in Python, Golang or similar programming language Add new features, debug, identify, and track issues in Red Hat products (RHEL, OpenShift or other) Collaborate with the wider team members and other departments such as Quality Engineering, Designers, Product Management or Documentation team throughout the product cycle Network with other talented interns in a workplace where you can be yourself and thrive What will you bring? Currently pursuing the final year of a bachelor's degree in Computer Science, Information Technology, or an equivalent discipline Working knowledge of written and spoken English Basic knowledge of and passion for Software Engineering, basic knowledge and willingness to use Python, Golang or similar programming language Passion, curiosity, and desire to create new things and examine how things work internally Willingness to learn and proactively work as a part of a wider team Red Hat will not be providing visa sponsorship for this position. Therefore, in order to be considered for this position, you must have the ability to work without a need for current or future visa sponsorship. About Red Hat Red Hat is the world’s leading provider of enterprise open source software solutions, using a community-powered approach to deliver high-performing Linux, cloud, container, and Kubernetes technologies. Spread across 40+ countries, our associates work flexibly across work environments, from in-office, to office-flex, to fully remote, depending on the requirements of their role. Red Hatters are encouraged to bring their best ideas, no matter their title or tenure. We're a leader in open source because of our open and inclusive environment. We hire creative, passionate people ready to contribute their ideas, help solve complex problems, and make an impact. Inclusion at Red Hat Red Hat’s culture is built on the open source principles of transparency, collaboration, and inclusion, where the best ideas can come from anywhere and anyone. When this is realized, it empowers people from different backgrounds, perspectives, and experiences to come together to share ideas, challenge the status quo, and drive innovation. Our aspiration is that everyone experiences this culture with equal opportunity and access, and that all voices are not only heard but also celebrated. We hope you will join our celebration, and we welcome and encourage applicants from all the beautiful dimensions that compose our global village. Equal Opportunity Policy (EEO) Red Hat is proud to be an equal opportunity workplace and an affirmative action employer. We review applications for employment without regard to their race, color, religion, sex, sexual orientation, gender identity, national origin, ancestry, citizenship, age, veteran status, genetic information, physical or mental disability, medical condition, marital status, or any other basis prohibited by law. Red Hat does not seek or accept unsolicited resumes or CVs from recruitment agencies. We are not responsible for, and will not pay, any fees, commissions, or any other payment related to unsolicited resumes or CVs except as required in a written contract between Red Hat and the recruitment agency or party requesting payment of a fee. Red Hat supports individuals with disabilities and provides reasonable accommodations to job applicants. If you need assistance completing our online job application, email application-assistance@redhat.com . General inquiries, such as those regarding the status of a job application, will not receive a reply.",
       "_detail": "https://redhat.wd5.myworkdayjobs.com/wday/cxs/redhat/jobs/job/Pune---Tower-6/Software-Engineering-Intern_R-058560",
       "_detailKind": "workday",
+      "_enriched": true,
       "score": 86,
       "isMatch": true,
       "isEng": true,
@@ -3671,6 +3673,7 @@
       "text": "About the job At Red Hat, our interns are an integral part of the team. They don’t get relegated to busywork or unimportant tasks, but participate in the day-to-day work and are active contributors to their team. We are currently looking for Software Engineering interns to join us in Pune or Bangalore. You will work closely with a senior mentor to gain technical knowledge and experience in your field, and cooperate with a broader international team both locally and globally. You will be part of a cohort of interns and have the opportunity to work on multiple projects within Global Engineering while also receiving learning and curriculum on different technologies. These projects and curriculum may include areas such as Ansible, RHEL, OpenShift, AI, and more. You’ll also have the chance to work with technologies like Python, GitHub, Java, Agile, JavaScript, etc. What will you do? Work closely with your mentor to design, develop, and maintain code in Python, Golang or similar programming language Add new features, debug, identify, and track issues in Red Hat products (RHEL, OpenShift or other) Collaborate with the wider team members and other departments such as Quality Engineering, Designers, Product Management or Documentation team throughout the product cycle Network with other talented interns in a workplace where you can be yourself and thrive What will you bring? Currently pursuing the final year of a bachelor's degree in Computer Science, Information Technology, or an equivalent discipline Working knowledge of written and spoken English Basic knowledge of and passion for Software Engineering, basic knowledge and willingness to use Python, Golang or similar programming language Passion, curiosity, and desire to create new things and examine how things work internally Willingness to learn and proactively work as a part of a wider team Red Hat will not be providing visa sponsorship for this position. Therefore, in order to be considered for this position, you must have the ability to work without a need for current or future visa sponsorship. About Red Hat Red Hat is the world’s leading provider of enterprise open source software solutions, using a community-powered approach to deliver high-performing Linux, cloud, container, and Kubernetes technologies. Spread across 40+ countries, our associates work flexibly across work environments, from in-office, to office-flex, to fully remote, depending on the requirements of their role. Red Hatters are encouraged to bring their best ideas, no matter their title or tenure. We're a leader in open source because of our open and inclusive environment. We hire creative, passionate people ready to contribute their ideas, help solve complex problems, and make an impact. Inclusion at Red Hat Red Hat’s culture is built on the open source principles of transparency, collaboration, and inclusion, where the best ideas can come from anywhere and anyone. When this is realized, it empowers people from different backgrounds, perspectives, and experiences to come together to share ideas, challenge the status quo, and drive innovation. Our aspiration is that everyone experiences this culture with equal opportunity and access, and that all voices are not only heard but also celebrated. We hope you will join our celebration, and we welcome and encourage applicants from all the beautiful dimensions that compose our global village. Equal Opportunity Policy (EEO) Red Hat is proud to be an equal opportunity workplace and an affirmative action employer. We review applications for employment without regard to their race, color, religion, sex, sexual orientation, gender identity, national origin, ancestry, citizenship, age, veteran status, genetic information, physical or mental disability, medical condition, marital status, or any other basis prohibited by law. Red Hat does not seek or accept unsolicited resumes or CVs from recruitment agencies. We are not responsible for, and will not pay, any fees, commissions, or any other payment related to unsolicited resumes or CVs except as required in a written contract between Red Hat and the recruitment agency or party requesting payment of a fee. Red Hat supports individuals with disabilities and provides reasonable accommodations to job applicants. If you need assistance completing our online job application, email application-assistance@redhat.com . General inquiries, such as those regarding the status of a job application, will not receive a reply.",
       "_detail": "https://redhat.wd5.myworkdayjobs.com/wday/cxs/redhat/jobs/job/Pune---Tower-6/Software-Engineering-Intern_R-058560",
       "_detailKind": "workday",
+      "_enriched": true,
       "score": 86,
       "isMatch": true,
       "isEng": true,
@@ -3713,7 +3716,7 @@
         {
           "url": "https://redhat.com/join-our-team",
           "status": 404,
-          "bytes": 353358
+          "bytes": 353427
         }
       ],
       "candidates": [
@@ -3729,7 +3732,7 @@
         "workday:redhat -> 40 jobs"
       ]
     },
-    "ms": 10503
+    "ms": 14768
   },
   {
     "company": "Reltio India",
@@ -3803,22 +3806,17 @@
         {
           "url": "https://reltio.com/careers",
           "status": 200,
-          "bytes": 106675
+          "bytes": 106719
         },
         {
           "url": "https://reltio.com/career",
           "status": 200,
-          "bytes": 106675
+          "bytes": 106751
         },
         {
           "url": "https://reltio.com/jobs",
           "status": 404,
-          "bytes": 88201
-        },
-        {
-          "url": "https://reltio.com/join-us",
-          "status": 404,
-          "bytes": 88273
+          "bytes": 88174
         }
       ],
       "candidates": [
@@ -3836,7 +3834,7 @@
         "workable:reltio -> no board"
       ]
     },
-    "ms": 14261
+    "ms": 14230
   },
   {
     "company": "Renew Power",
@@ -3924,7 +3922,7 @@
         "workable:renewpower -> no board"
       ]
     },
-    "ms": 3538
+    "ms": 2038
   },
   {
     "company": "Rentomojo",
@@ -4001,7 +3999,7 @@
         "workable:rentomojo -> no board"
       ]
     },
-    "ms": 6625
+    "ms": 6871
   },
   {
     "company": "Republic Media",
@@ -4030,7 +4028,7 @@
         {
           "url": "https://republicworld.com/career",
           "status": 404,
-          "bytes": 237127
+          "bytes": 236867
         }
       ],
       "candidates": [
@@ -4058,7 +4056,7 @@
         "workable:republicworld -> no board"
       ]
     },
-    "ms": 15001
+    "ms": 10952
   },
   {
     "company": "Revolut India",
@@ -4088,12 +4086,22 @@
         {
           "url": "https://revolut.com/career",
           "status": 403,
-          "bytes": 873118
+          "bytes": 873140
         },
         {
           "url": "https://revolut.com/jobs",
           "status": 403,
           "bytes": 873134
+        },
+        {
+          "url": "https://revolut.com/join-us",
+          "status": 403,
+          "bytes": 873143
+        },
+        {
+          "url": "https://revolut.com/join-our-team",
+          "status": 403,
+          "bytes": 873160
         }
       ],
       "candidates": [
@@ -4111,7 +4119,7 @@
         "workable:revolut -> no board"
       ]
     },
-    "ms": 8536
+    "ms": 8785
   },
   {
     "company": "Ripplehire",
@@ -4209,7 +4217,7 @@
         "workable:ripplehire -> no board"
       ]
     },
-    "ms": 42922
+    "ms": 21092
   },
   {
     "company": "Rocketlane",
@@ -4780,7 +4788,7 @@
         {
           "url": "https://rocketlane.com/",
           "status": 200,
-          "bytes": 353353
+          "bytes": 353299
         }
       ],
       "candidates": [
@@ -4798,7 +4806,7 @@
         "workable:rocketlane -> no board"
       ]
     },
-    "ms": 16952
+    "ms": 18622
   },
   {
     "company": "Roposo",
@@ -4816,7 +4824,7 @@
       "pages": [],
       "attempts": []
     },
-    "ms": 90002
+    "ms": 90003
   },
   {
     "company": "Roambee",
@@ -4867,7 +4875,7 @@
         "workable:roambee -> no board"
       ]
     },
-    "ms": 17839
+    "ms": 13511
   },
   {
     "company": "Routematic",
@@ -4891,52 +4899,52 @@
         {
           "url": "https://routematic.com/careers",
           "status": 307,
-          "bytes": 1383
+          "bytes": 1463
         },
         {
           "url": "https://routematic.com/career",
           "status": 307,
-          "bytes": 1383
+          "bytes": 1463
         },
         {
           "url": "https://routematic.com/jobs",
           "status": 307,
-          "bytes": 1383
+          "bytes": 1463
         },
         {
           "url": "https://routematic.com/join-us",
           "status": 307,
-          "bytes": 1383
+          "bytes": 1463
         },
         {
           "url": "https://routematic.com/join-our-team",
           "status": 307,
-          "bytes": 1383
+          "bytes": 1463
         },
         {
           "url": "https://routematic.com/careers.html",
           "status": 307,
-          "bytes": 1383
+          "bytes": 1463
         },
         {
           "url": "https://routematic.com/company/careers",
           "status": 307,
-          "bytes": 1383
+          "bytes": 1463
         },
         {
           "url": "https://routematic.com/about/careers",
           "status": 307,
-          "bytes": 1331
+          "bytes": 1463
         },
         {
           "url": "https://routematic.com/current-openings",
           "status": 307,
-          "bytes": 1331
+          "bytes": 1463
         },
         {
           "url": "https://routematic.com/",
           "status": 307,
-          "bytes": 1331
+          "bytes": 1463
         }
       ],
       "candidates": [
@@ -4954,7 +4962,7 @@
         "workable:routematic -> no board"
       ]
     },
-    "ms": 14467
+    "ms": 13300
   },
   {
     "company": "Rubrik India",
@@ -4979,17 +4987,22 @@
         {
           "url": "https://rubrik.com/careers",
           "status": 200,
-          "bytes": 105188
+          "bytes": 105186
         },
         {
           "url": "https://rubrik.com/career",
           "status": 404,
-          "bytes": 94994
+          "bytes": 94972
         },
         {
           "url": "https://rubrik.com/jobs",
           "status": 404,
-          "bytes": 95108
+          "bytes": 94972
+        },
+        {
+          "url": "https://rubrik.com/join-us",
+          "status": 404,
+          "bytes": 94984
         }
       ],
       "candidates": [
@@ -5007,7 +5020,7 @@
         "workable:rubrik -> no board"
       ]
     },
-    "ms": 36575
+    "ms": 34515
   },
   {
     "company": "Rupifi",
@@ -5095,7 +5108,7 @@
         "workable:rupifi -> no board"
       ]
     },
-    "ms": 4688
+    "ms": 4243
   },
   {
     "company": "Ripik.ai",
@@ -5265,7 +5278,7 @@
         "workable:ripik -> no board"
       ]
     },
-    "ms": 28419
+    "ms": 25300
   },
   {
     "company": "Ramco Systems",
@@ -5402,7 +5415,7 @@
         "workable:ramco -> no board"
       ]
     },
-    "ms": 31745
+    "ms": 29104
   },
   {
     "company": "RateGain",
@@ -5490,7 +5503,7 @@
         "workable:rategain -> no board"
       ]
     },
-    "ms": 9877
+    "ms": 9238
   },
   {
     "company": "Reveal Health",
@@ -5590,7 +5603,7 @@
         "workable:revealhealthtech -> no board"
       ]
     },
-    "ms": 10526
+    "ms": 11086
   },
   {
     "company": "Robosoft Technologies",
@@ -5870,7 +5883,7 @@
         "workable:robosoftin -> no board"
       ]
     },
-    "ms": 7545
+    "ms": 7723
   },
   {
     "company": "Radisys India",
@@ -5953,7 +5966,7 @@
         "workable:radisys -> no board"
       ]
     },
-    "ms": 35690
+    "ms": 43258
   },
   {
     "company": "Raksha Health",
@@ -6050,7 +6063,7 @@
         "workable:rakshatpa -> no board"
       ]
     },
-    "ms": 5395
+    "ms": 4949
   },
   {
     "company": "Rambus India",
@@ -7080,7 +7093,7 @@
         "icims:rambus -> 57 jobs"
       ]
     },
-    "ms": 32438
+    "ms": 20459
   },
   {
     "company": "Rapyder Cloud",
@@ -7146,7 +7159,7 @@
         "workable:rapyder -> no board"
       ]
     },
-    "ms": 17651
+    "ms": 18037
   },
   {
     "company": "Rasa India",
@@ -7294,7 +7307,7 @@
         "ashby:Rasa -> 2 jobs"
       ]
     },
-    "ms": 4592
+    "ms": 4613
   },
   {
     "company": "Ratnaafin",
@@ -7362,7 +7375,7 @@
         "workable:ratnaafin -> no board"
       ]
     },
-    "ms": 4690
+    "ms": 6138
   },
   {
     "company": "Rayonier India",
@@ -7677,7 +7690,7 @@
         "workday:rayonier -> 14 jobs"
       ]
     },
-    "ms": 9914
+    "ms": 8369
   },
   {
     "company": "Razer India",
@@ -8341,6 +8354,7 @@
         "text": "Joining Razer will place you on a global mission to revolutionize the way the world games. Razer is a place to do great work , offering you the opportunity to make an impact globally while working across a global team located across 5 continents. Razer is also a great place to work, providing you the unique, gamer-centric #LifeAtRazer experience that will put you in an accelerated growth, both personally and professionally. Job Responsibilities : We are seeking a highly skilled AI Software Engineer to design, develop, and deploy AI-powered solutions. This role involves building scalable AI systems, integrating AI / Machine Learning (ML) models into applications, and optimizing AI workflows for production. You will collaborate closely with data scientists, software engineers, and DevOps teams to bring cutting-edge AI capabilities to life. Implement and optimize AI / ML models in production, via containerization (Docker, Kubernetes), for speed, accuracy and cost-effectiveness Deploy AI models using RESTful APIs, gRPC, or edge computing solutions. Implement monitoring, logging, and error-handling mechanisms to track AI performance. Design APIs and microservices to integrate AI capabilities into software systems to ensure that they are secure, performant and well-documented Monitor and optimize model performance in production environments, ensuring API latency and availability meet the required SLAs (Service Level Agreements). Build scalable, high-performance AI pipelines for real-time and batch processing. Implement MLOps best practices, including CI/CD for machine learning workflows on both local machines and cloud platforms Work closely with data scientists to turn research models into deployable solutions. Collaborate with DevOps and cloud engineers to ensure seamless AI model deployment. Stay up to date with the latest AI/ML frameworks, tools, and industry trends in API, plugins development to continuously improve and enhance API solutions. Identify opportunities to improve existing AI API / plugins architectures and suggest new features or services to add value to AI products. Pre-Requisites : 3+ years of experience in AI/ML software development. Proven track record of deploying AI solutions in production environments. Strong experience in deploying AI models and API development using RESTful APIs, gRPC, or edge computing solutions. Strong programming skills in Python, Java, or C++. Hands-on experience with AI/ML frameworks (TensorFlow, PyTorch, Scikit-learn). In depth understanding of containerization (Docker, Kubernetes) and DevOps practices. Experience in developing and deploying AI applications running both edge deployment (TensorRT, ONNX, TFLite) and on cloud infrastructure (AWS, Azure or Google Cloud Platform) using Infrastructure as code tools such as Terraform and also cloud AI services (AWS SageMaker, Google Vertex AI, Azure ML). Experience with database management (SQL, NoSQL, and vector databases). Knowledge of distributed computing (Spark, Dask) and parallel processing. Ability and willingness to learn any new technologies and apply them at work in order to stay ahead, in a fast paced, high pressure, agile environment Excellent written and verbal communication skills for coordinating across teams. Education & Experience Has a Bachelor’s or Master’s degree in computer science, AI or similar discipline from an accredited institution Travel Requirements Role based in Singapore office and may require up to 1 travel trip per year. Are you game?",
         "_detail": "https://razer.wd3.myworkdayjobs.com/wday/cxs/razer/Careers/job/Singapore/AI-Software-Engineer_JR2025005483-1",
         "_detailKind": "workday",
+        "_enriched": true,
         "score": 67,
         "isMatch": false,
         "isEng": true,
@@ -8366,6 +8380,7 @@
         "text": "Joining Razer will place you on a global mission to revolutionize the way the world games. Razer is a place to do great work , offering you the opportunity to make an impact globally while working across a global team located across 5 continents. Razer is also a great place to work, providing you the unique, gamer-centric #LifeAtRazer experience that will put you in an accelerated growth, both personally and professionally. Job Responsibilities : We are looking for an open-minded and innovative iOS Engineer to join our team. You should be enthusiastic about building high-performance mobile applications using the most suitable technologies. In this role you will collaborate with several internal teams to develop and design the high-quality Mobile Applications for Razer users. Responsibilities: Architect and develop reusable, scalable custom iOS components and SDKs for integration across multiple iOS applications. Lead the creation of prototypes, proofs of concept, and complex technical solutions. Drive continuous improvement by analyzing and optimizing code for maintainability, performance, and efficiency. Evaluate and adopt emerging technologies and tools to enhance development processes and product quality. Ensure all iOS applications remain up to date with the latest Swift, iOS features, and App Store standards. Oversee the deployment of applications to App Store, TestFlight, and Firebase with a focus on reliability and scalability. Open to explore cross platform mobile Apps development technologies, such as React native, Flutter etc. Collaborate across teams, both in-person and remotely, providing technical leadership and mentorship to junior engineers. Generate, review, and maintain comprehensive documentation for stakeholders and the team. Pre-Requisites : Required Qualifications: Generate, review, and maintain comprehensive documentation for stakeholders and the team. Extensive experience with software design patterns. Solid understanding of iOS Applications life cycle. Experience working with XCode Workspace, Submodules and Cocoapods. Experience working with Core Data, Core Animation & Core Graphics frameworks. Extensive experience with offline storage, threading and memory management. Experience working with REST API, JSON and XML formats. Extensive Experience with GIT & Bitbucket version control systems. Preferred Qualifications: Experience working with AI Coding Assistants. Experience working with BLE & Wi-Fi supported iOS Applications. Experience working with SwiftUI. Experience working with iOS keychain and Cryptography. Significant experience with unit level testing, writing test plans, scripts and generating testable code. Strong oral and written communication skills. Enjoys working in a collaborative, technically challenging environment with rapidly changing requirements. Mindset: Passionate about technology, product and user experience. Adapt quickly to change and use it to drive personal and technical growth. Great Team Spirit: Passionate about helping teammates, sharing knowledge, providing constructive feedback and not shy away from owning your mistakes. You put the customer at the heart of everything you do, and that empathy drives every decision you make. Razer is proud to be an Equal Opportunity Employer. We believe that diverse teams drive better ideas, better products, and a stronger culture. We are committed to providing an inclusive, respectful, and fair workplace for every employee across all the countries we operate in. We do not discriminate on the basis of race, ethnicity, colour, nationality, ancestry, religion, age, sex, sexual orientation, gender identity or expression, disability, marital status, or any other characteristic protected under local laws. Where needed, we provide reasonable accommodations - including for disability or religious practices - to ensure every team member can perform and contribute at their best. Are you game?",
         "_detail": "https://razer.wd3.myworkdayjobs.com/wday/cxs/razer/Careers/job/Singapore/Software-Engineer--iOS-_JR2025006698",
         "_detailKind": "workday",
+        "_enriched": true,
         "score": 62,
         "isMatch": false,
         "isEng": true,
@@ -8387,6 +8402,7 @@
       "text": "Joining Razer will place you on a global mission to revolutionize the way the world games. Razer is a place to do great work , offering you the opportunity to make an impact globally while working across a global team located across 5 continents. Razer is also a great place to work, providing you the unique, gamer-centric #LifeAtRazer experience that will put you in an accelerated growth, both personally and professionally. Job Responsibilities : We are seeking a highly skilled AI Software Engineer to design, develop, and deploy AI-powered solutions. This role involves building scalable AI systems, integrating AI / Machine Learning (ML) models into applications, and optimizing AI workflows for production. You will collaborate closely with data scientists, software engineers, and DevOps teams to bring cutting-edge AI capabilities to life. Implement and optimize AI / ML models in production, via containerization (Docker, Kubernetes), for speed, accuracy and cost-effectiveness Deploy AI models using RESTful APIs, gRPC, or edge computing solutions. Implement monitoring, logging, and error-handling mechanisms to track AI performance. Design APIs and microservices to integrate AI capabilities into software systems to ensure that they are secure, performant and well-documented Monitor and optimize model performance in production environments, ensuring API latency and availability meet the required SLAs (Service Level Agreements). Build scalable, high-performance AI pipelines for real-time and batch processing. Implement MLOps best practices, including CI/CD for machine learning workflows on both local machines and cloud platforms Work closely with data scientists to turn research models into deployable solutions. Collaborate with DevOps and cloud engineers to ensure seamless AI model deployment. Stay up to date with the latest AI/ML frameworks, tools, and industry trends in API, plugins development to continuously improve and enhance API solutions. Identify opportunities to improve existing AI API / plugins architectures and suggest new features or services to add value to AI products. Pre-Requisites : 3+ years of experience in AI/ML software development. Proven track record of deploying AI solutions in production environments. Strong experience in deploying AI models and API development using RESTful APIs, gRPC, or edge computing solutions. Strong programming skills in Python, Java, or C++. Hands-on experience with AI/ML frameworks (TensorFlow, PyTorch, Scikit-learn). In depth understanding of containerization (Docker, Kubernetes) and DevOps practices. Experience in developing and deploying AI applications running both edge deployment (TensorRT, ONNX, TFLite) and on cloud infrastructure (AWS, Azure or Google Cloud Platform) using Infrastructure as code tools such as Terraform and also cloud AI services (AWS SageMaker, Google Vertex AI, Azure ML). Experience with database management (SQL, NoSQL, and vector databases). Knowledge of distributed computing (Spark, Dask) and parallel processing. Ability and willingness to learn any new technologies and apply them at work in order to stay ahead, in a fast paced, high pressure, agile environment Excellent written and verbal communication skills for coordinating across teams. Education & Experience Has a Bachelor’s or Master’s degree in computer science, AI or similar discipline from an accredited institution Travel Requirements Role based in Singapore office and may require up to 1 travel trip per year. Are you game?",
       "_detail": "https://razer.wd3.myworkdayjobs.com/wday/cxs/razer/Careers/job/Singapore/AI-Software-Engineer_JR2025005483-1",
       "_detailKind": "workday",
+      "_enriched": true,
       "score": 67,
       "isMatch": false,
       "isEng": true,
@@ -8412,6 +8428,7 @@
       "text": "Joining Razer will place you on a global mission to revolutionize the way the world games. Razer is a place to do great work , offering you the opportunity to make an impact globally while working across a global team located across 5 continents. Razer is also a great place to work, providing you the unique, gamer-centric #LifeAtRazer experience that will put you in an accelerated growth, both personally and professionally. Job Responsibilities : We are seeking a highly skilled AI Software Engineer to design, develop, and deploy AI-powered solutions. This role involves building scalable AI systems, integrating AI / Machine Learning (ML) models into applications, and optimizing AI workflows for production. You will collaborate closely with data scientists, software engineers, and DevOps teams to bring cutting-edge AI capabilities to life. Implement and optimize AI / ML models in production, via containerization (Docker, Kubernetes), for speed, accuracy and cost-effectiveness Deploy AI models using RESTful APIs, gRPC, or edge computing solutions. Implement monitoring, logging, and error-handling mechanisms to track AI performance. Design APIs and microservices to integrate AI capabilities into software systems to ensure that they are secure, performant and well-documented Monitor and optimize model performance in production environments, ensuring API latency and availability meet the required SLAs (Service Level Agreements). Build scalable, high-performance AI pipelines for real-time and batch processing. Implement MLOps best practices, including CI/CD for machine learning workflows on both local machines and cloud platforms Work closely with data scientists to turn research models into deployable solutions. Collaborate with DevOps and cloud engineers to ensure seamless AI model deployment. Stay up to date with the latest AI/ML frameworks, tools, and industry trends in API, plugins development to continuously improve and enhance API solutions. Identify opportunities to improve existing AI API / plugins architectures and suggest new features or services to add value to AI products. Pre-Requisites : 3+ years of experience in AI/ML software development. Proven track record of deploying AI solutions in production environments. Strong experience in deploying AI models and API development using RESTful APIs, gRPC, or edge computing solutions. Strong programming skills in Python, Java, or C++. Hands-on experience with AI/ML frameworks (TensorFlow, PyTorch, Scikit-learn). In depth understanding of containerization (Docker, Kubernetes) and DevOps practices. Experience in developing and deploying AI applications running both edge deployment (TensorRT, ONNX, TFLite) and on cloud infrastructure (AWS, Azure or Google Cloud Platform) using Infrastructure as code tools such as Terraform and also cloud AI services (AWS SageMaker, Google Vertex AI, Azure ML). Experience with database management (SQL, NoSQL, and vector databases). Knowledge of distributed computing (Spark, Dask) and parallel processing. Ability and willingness to learn any new technologies and apply them at work in order to stay ahead, in a fast paced, high pressure, agile environment Excellent written and verbal communication skills for coordinating across teams. Education & Experience Has a Bachelor’s or Master’s degree in computer science, AI or similar discipline from an accredited institution Travel Requirements Role based in Singapore office and may require up to 1 travel trip per year. Are you game?",
       "_detail": "https://razer.wd3.myworkdayjobs.com/wday/cxs/razer/Careers/job/Singapore/AI-Software-Engineer_JR2025005483-1",
       "_detailKind": "workday",
+      "_enriched": true,
       "score": 67,
       "isMatch": false,
       "isEng": true,
@@ -8439,12 +8456,12 @@
         {
           "url": "https://razer.com/careers",
           "status": 404,
-          "bytes": 1326319
+          "bytes": 1326878
         },
         {
           "url": "https://razer.com/career",
           "status": 404,
-          "bytes": 1326268
+          "bytes": 1326158
         }
       ],
       "candidates": [
@@ -8459,7 +8476,7 @@
         "workday:razer -> 40 jobs"
       ]
     },
-    "ms": 8915
+    "ms": 8387
   },
   {
     "company": "RCM Business",
@@ -8557,7 +8574,7 @@
         "workable:rcmbusiness -> no board"
       ]
     },
-    "ms": 4887
+    "ms": 2431
   },
   {
     "company": "Reckitt India",
@@ -8566,6 +8583,30 @@
     "error": null,
     "totalJobs": 43,
     "jobs": [
+      {
+        "title": "Supply Project Coordinator",
+        "location": "Shinagawa, Tokyo-To, JP, 140-0005",
+        "url": "https://careers.reckitt.com/job/Shinagawa-Supply-Project-Coordinator-Toky-140-0005/1413184933/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+        "india": false,
+        "locationSaysIndia": false,
+        "hasLocation": true,
+        "isEng": false,
+        "java": false,
+        "flutter": false,
+        "senior": false,
+        "exp": [
+          [
+            3,
+            7
+          ],
+          [
+            2,
+            6
+          ]
+        ],
+        "expFits2": true,
+        "score": 30
+      },
       {
         "title": "Nights Maintenance Supervisor",
         "location": "Zeeland, MI, US, 49464",
@@ -8605,30 +8646,6 @@
           [
             2,
             3
-          ]
-        ],
-        "expFits2": true,
-        "score": 30
-      },
-      {
-        "title": "Supply Project Coordinator",
-        "location": "Shinagawa, Tokyo-To, JP, 140-0005",
-        "url": "https://careers.reckitt.com/job/Shinagawa-Supply-Project-Coordinator-Toky-140-0005/1413184933/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-        "india": false,
-        "locationSaysIndia": false,
-        "hasLocation": true,
-        "isEng": false,
-        "java": false,
-        "flutter": false,
-        "senior": false,
-        "exp": [
-          [
-            3,
-            7
-          ],
-          [
-            2,
-            6
           ]
         ],
         "expFits2": true,
@@ -8788,51 +8805,6 @@
         "score": 12
       },
       {
-        "title": "Technical Operator, Multi-Pak",
-        "location": "Evansville, IN, US, 47701",
-        "url": "https://careers.reckitt.com/job/Evansville-Technical-Operator%2C-Multi-Pak-IN-47701/1413527733/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-        "india": false,
-        "locationSaysIndia": false,
-        "hasLocation": true,
-        "isEng": false,
-        "java": false,
-        "flutter": false,
-        "senior": false,
-        "exp": [],
-        "expFits2": false,
-        "score": 4
-      },
-      {
-        "title": "R&D LIMS Static Data Assistant",
-        "location": "Kingston upon Hull, East Yorkshire, GB, HU1 1AA",
-        "url": "https://careers.reckitt.com/job/Kingston-upon-Hull-R&D-LIMS-Static-Data-Assistant-East-HU1-1AA/1400410133/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-        "india": false,
-        "locationSaysIndia": false,
-        "hasLocation": true,
-        "isEng": false,
-        "java": false,
-        "flutter": false,
-        "senior": false,
-        "exp": [],
-        "expFits2": false,
-        "score": 4
-      },
-      {
-        "title": "Process Technologist (1 year Contract)",
-        "location": "Chachoengsao, Chachoengsao, TH, N/A",
-        "url": "https://careers.reckitt.com/job/Chachoengsao-Process-Technologist-%281-year-Contract%29-Chac-NA/1413126133/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-        "india": false,
-        "locationSaysIndia": false,
-        "hasLocation": true,
-        "isEng": false,
-        "java": false,
-        "flutter": false,
-        "senior": false,
-        "exp": [],
-        "expFits2": false,
-        "score": 4
-      },
-      {
         "title": "HR Administrator - 5 Month FTC",
         "location": "Kingston upon Hull, East Yorkshire, GB, HU1 1AA",
         "url": "https://careers.reckitt.com/job/Kingston-upon-Hull-HR-Administrator-5-Month-FTC-East-HU1-1AA/1413391533/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
@@ -8938,9 +8910,54 @@
         "score": 4
       },
       {
+        "title": "Technical Operator, Multi-Pak",
+        "location": "Evansville, IN, US, 47701",
+        "url": "https://careers.reckitt.com/job/Evansville-Technical-Operator%2C-Multi-Pak-IN-47701/1413527733/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+        "india": false,
+        "locationSaysIndia": false,
+        "hasLocation": true,
+        "isEng": false,
+        "java": false,
+        "flutter": false,
+        "senior": false,
+        "exp": [],
+        "expFits2": false,
+        "score": 4
+      },
+      {
         "title": "Gebietsleiter OTC - Kassel - Paderborn - Hameln - Göttingen - Eisenach - Bad Hersfeld (all genders)",
         "location": "Dortmund, Niedersachsen, DE, N/A",
         "url": "https://careers.reckitt.com/job/Dortmund-Gebietsleiter-OTC-Kassel-Paderborn-Hameln-G%C3%B6ttingen-Eisenach-Bad-Hersfeld-%28all-genders%29-Nied-NA/1403061533/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+        "india": false,
+        "locationSaysIndia": false,
+        "hasLocation": true,
+        "isEng": false,
+        "java": false,
+        "flutter": false,
+        "senior": false,
+        "exp": [],
+        "expFits2": false,
+        "score": 4
+      },
+      {
+        "title": "Process Technologist (1 year Contract)",
+        "location": "Chachoengsao, Chachoengsao, TH, N/A",
+        "url": "https://careers.reckitt.com/job/Chachoengsao-Process-Technologist-%281-year-Contract%29-Chac-NA/1413126133/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+        "india": false,
+        "locationSaysIndia": false,
+        "hasLocation": true,
+        "isEng": false,
+        "java": false,
+        "flutter": false,
+        "senior": false,
+        "exp": [],
+        "expFits2": false,
+        "score": 4
+      },
+      {
+        "title": "R&D LIMS Static Data Assistant",
+        "location": "Kingston upon Hull, East Yorkshire, GB, HU1 1AA",
+        "url": "https://careers.reckitt.com/job/Kingston-upon-Hull-R&D-LIMS-Static-Data-Assistant-East-HU1-1AA/1400410133/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
         "india": false,
         "locationSaysIndia": false,
         "hasLocation": true,
@@ -8981,6 +8998,26 @@
         "exp": [],
         "expFits2": false,
         "score": -6
+      },
+      {
+        "title": "Internal Controls Senior Manager",
+        "location": "Hyderabad, Telangana, IN, N/A",
+        "url": "https://careers.reckitt.com/job/Hyderabad-Internal-Controls-Senior-Manager-Tela-NA/1402682333/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+        "india": true,
+        "locationSaysIndia": true,
+        "hasLocation": true,
+        "isEng": false,
+        "java": false,
+        "flutter": false,
+        "senior": true,
+        "exp": [
+          [
+            12,
+            16
+          ]
+        ],
+        "expFits2": false,
+        "score": -7
       },
       {
         "title": "IT&D Manager, Advanced RGM Price",
@@ -9079,26 +9116,6 @@
         "score": -7
       },
       {
-        "title": "Internal Controls Senior Manager",
-        "location": "Hyderabad, Telangana, IN, N/A",
-        "url": "https://careers.reckitt.com/job/Hyderabad-Internal-Controls-Senior-Manager-Tela-NA/1402682333/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-        "india": true,
-        "locationSaysIndia": true,
-        "hasLocation": true,
-        "isEng": false,
-        "java": false,
-        "flutter": false,
-        "senior": true,
-        "exp": [
-          [
-            12,
-            16
-          ]
-        ],
-        "expFits2": false,
-        "score": -7
-      },
-      {
         "title": "IT&D Senior Analyst SAP Procurement",
         "location": "Hyderabad, Telangana, IN, N/A",
         "url": "https://careers.reckitt.com/job/Hyderabad-IT&D-Senior-Analyst-SAP-Procurement-Tela-NA/1412784833/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
@@ -9141,6 +9158,36 @@
         ],
         "expFits2": false,
         "score": -7
+      },
+      {
+        "title": "Manufacturing Integration Lead",
+        "location": "Slough, Berkshire, GB, SL1 1DT",
+        "url": "https://careers.reckitt.com/job/Slough-Manufacturing-Integration-Lead-Berk-SL1-1DT/1402295133/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+        "india": false,
+        "locationSaysIndia": false,
+        "hasLocation": true,
+        "isEng": false,
+        "java": false,
+        "flutter": false,
+        "senior": true,
+        "exp": [],
+        "expFits2": false,
+        "score": -18
+      },
+      {
+        "title": "Indirect Commercial Procurement Manager ASEAN",
+        "location": "Bangkok, Bangkok, TH, N/A",
+        "url": "https://careers.reckitt.com/job/Bangkok-Indirect-Commercial-Procurement-Manager-ASEAN-Bang-NA/1392898033/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+        "india": false,
+        "locationSaysIndia": false,
+        "hasLocation": true,
+        "isEng": false,
+        "java": false,
+        "flutter": false,
+        "senior": true,
+        "exp": [],
+        "expFits2": false,
+        "score": -18
       },
       {
         "title": "IT&D Solution Architect, SAP Manufacturing",
@@ -9203,36 +9250,6 @@
         "score": -18
       },
       {
-        "title": "Manufacturing Integration Lead",
-        "location": "Slough, Berkshire, GB, SL1 1DT",
-        "url": "https://careers.reckitt.com/job/Slough-Manufacturing-Integration-Lead-Berk-SL1-1DT/1402295133/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-        "india": false,
-        "locationSaysIndia": false,
-        "hasLocation": true,
-        "isEng": false,
-        "java": false,
-        "flutter": false,
-        "senior": true,
-        "exp": [],
-        "expFits2": false,
-        "score": -18
-      },
-      {
-        "title": "Indirect Commercial Procurement Manager ASEAN",
-        "location": "Bangkok, Bangkok, TH, N/A",
-        "url": "https://careers.reckitt.com/job/Bangkok-Indirect-Commercial-Procurement-Manager-ASEAN-Bang-NA/1392898033/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-        "india": false,
-        "locationSaysIndia": false,
-        "hasLocation": true,
-        "isEng": false,
-        "java": false,
-        "flutter": false,
-        "senior": true,
-        "exp": [],
-        "expFits2": false,
-        "score": -18
-      },
-      {
         "title": "Digitalization Manager",
         "location": "Samut Prakan, Samut Prakan, TH, N/A",
         "url": "https://careers.reckitt.com/job/Samut-Prakan-Digitalization-Manager-Samu-NA/1402799433/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
@@ -9267,6 +9284,26 @@
           [
             8,
             12
+          ]
+        ],
+        "expFits2": false,
+        "score": -22
+      },
+      {
+        "title": "IT&D Senior Manager, Identity Architect",
+        "location": "Warszawa, Mazovia Province, PL, N/A",
+        "url": "https://careers.reckitt.com/job/Warszawa-IT&D-Senior-Manager%2C-Identity-Architect-Mazo-NA/1402700733/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+        "india": false,
+        "locationSaysIndia": false,
+        "hasLocation": true,
+        "isEng": false,
+        "java": false,
+        "flutter": false,
+        "senior": true,
+        "exp": [
+          [
+            7,
+            11
           ]
         ],
         "expFits2": false,
@@ -9335,37 +9372,17 @@
         ],
         "expFits2": false,
         "score": -22
-      },
-      {
-        "title": "IT&D Senior Manager, Identity Architect",
-        "location": "Warszawa, Mazovia Province, PL, N/A",
-        "url": "https://careers.reckitt.com/job/Warszawa-IT&D-Senior-Manager%2C-Identity-Architect-Mazo-NA/1402700733/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-        "india": false,
-        "locationSaysIndia": false,
-        "hasLocation": true,
-        "isEng": false,
-        "java": false,
-        "flutter": false,
-        "senior": true,
-        "exp": [
-          [
-            7,
-            11
-          ]
-        ],
-        "expFits2": false,
-        "score": -22
       }
     ],
     "enriched": 0,
     "matches": [],
     "nearMatches": [],
     "closest": {
-      "title": "Nights Maintenance Supervisor",
-      "location": "Zeeland, MI, US, 49464",
-      "url": "https://careers.reckitt.com/job/Zeeland-Nights-Maintenance-Supervisor-MI-49464/1412922733/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+      "title": "Supply Project Coordinator",
+      "location": "Shinagawa, Tokyo-To, JP, 140-0005",
+      "url": "https://careers.reckitt.com/job/Shinagawa-Supply-Project-Coordinator-Toky-140-0005/1413184933/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
       "team": "",
-      "text": "We are Reckitt Home to the world's best loved and trusted hygiene, health, and nutrition brands. Our purpose defines why we exist: to protect, heal and nurture in the relentless pursuit of a cleaner, healthier world. We are a global team united by this purpose. Join us in our fight to make access to the highest quality hygiene, wellness, and nourishment a right and not a privilege. ​Supply​ Our supply chain is the backbone of our business. It's how we get our trusted products to people all over the world, safely and efficiently. And it's our talented and passionate teams that make this happen. If you're looking for a career in supply chain, there's no better place to be than Reckitt. We offer a variety of exciting opportunities in all areas of the supply chain, from planning and procurement to manufacturing and logistics. You could join our Global Supply Planning team to develop and implement our global supply strategy, or work with our Procurement Centre of Excellence team to negotiate and manage our supplier relationships. Our Manufacturing Excellence team help us improve the efficiency, quality and safety of our manufacturing operations, and our Logistics Excellence team develop new and innovative ways to distribute our products to customers. About the role Embark on a transformative leadership journey with Reckitt as our nights Maintenance Supervisor. In this strategic role, you will inspire and oversee a skilled engineering team within one of our bustling large-scale factories. Your expertise will be pivotal in executing projects that enhance our operational efficiency and adapt to the evolving supply chain demands. If you're someone who thrives in an environment where proactive improvement is the norm, this opportunity will empower you to make impactful decisions and champion innovations that shape our industry. Your responsibilities Off shift maintenance team supervision, providing effective direction, prioritization, and resource management. Lead a team of skilled trades persons to support a complex manufacturing environment. Provides technical leadership within the maintenance group to resolve, troubleshoot or escalate production, machine, and process issues. Builds technical competencies within the off-shift maintenance team by coaching and sharing technical knowledge and training. Completes administrative tasks to support the team and processes. Support projects with both internal as well as external resources. Coordinates and oversees the maintenance activities including PM, corrective work, emergency work, shift to shift handoff and asset health events. Lead process improvement projects through lean, 5S and Six Sigma projects. Deliver and report on KPI metrics. Performs all job functions in full compliance within Reckitt policies and procedures. Spends 80% of the time on the shop floor supporting the maintenance team. Gathers shift to shift information and communicates in an effective manner so that a detailed understanding of the issues is understood. Support the main pillars of maintenance: predictive maintenance technologies, root cause and 8 step problem solving, operator care, maintenance storeroom optimization, and planning This role is not currently sponsoring visas or considering international movement at this time. The experience we're looking for High school diploma required with a 2-year technical degree preferred (mechanical, electrical, mechatronics) or equivalent Minimum of 2+ years production maintenance experience and/or candidate preferred 2+ years of maintenance or food manufacturing supervisory experience Strong knowledge in packaging, processing, and manufacturing maintenance in addition to reliability maintenance processes GMP and food production knowledge preferred Proven decision-making skills Strong troubleshooting, planning, prioritizing and delegating skills Ability to communicate and work effectively in a team-oriented environment Self-starter with strong leadership, analytical, administrative and people skills Ability to handle multiple priorities Proven supervisory skills and the ability to deliver technical concepts to a customer base with a wide variety and degree of technical competence Highly results oriented, accountable for decisions Ability to establish rapport and energize employees to work as a team in a transitional business unit Flexible work hours and some weekend coverage What we offer With inclusion at the heart of everything we do, working alongside our four global Employee Resource Groups, we support our people at every step of their career journey, helping them to succeed in their own individual way. We invest in the wellbeing of our people through parental benefits, an Employee Assistance Program to promote mental health, and life insurance for all employees globally. We have a range of other benefits in line with the local market. Through our global share plans we offer the opportunity to save and share in Reckitt's potential future successes. For eligible roles, we also offer short-term incentives to recognise, appreciate and reward your work for delivering outstanding results. You will be rewarded in line with Reckitt's pay for performance philosophy. US salary ranges USD $73,000.00 - $109,000.00 US pay transparency The base salary range for this role will vary based on experience in job and industry, training and education, skills relevant to the position, and other factors permitted by law. In addition to the base salary, the position is eligible for an annual discretionary bonus, which is subject to change each year. Reckitt offers eligible employees competitive benefits including medical, prescription, dental, vision, and life and disability insurance; paid time off for vacation, sick and Company recognized holidays; a 401(k) plan; 16-week paid parental leave or 26 weeks for the birthing parent; adoption and fertility support; tuition reimbursement; discounts; and much more. Our compensation and benefits packages aim to give our talent the reward, protection, and peace of mind they deserve. If reasonable accommodation is needed to complete your application, please contact NAtalentacquisition@reckitt.com. Reckitt is committed to the full inclusion of all qualified individuals. Equality We recognise that in real life, great people don't always 'tick all the boxes'. That's why we hire for potential as well as experience. Even if you don't meet every point on the job description, if this role and our company feels like a good fit for you, we still want to hear from you. All qualified applicants will receive consideration for employment without regard to age, disability or medical condition; colour, ethnicity, race, citizenship, and national origin; religion, faith; pregnancy, family status and caring responsibilities; sexual orientation; sex, gender identity, gender expression, and transgender identity; protected veteran status; size or any other basis protected by appropriate law.",
+      "text": "We are Reckitt Home to the world's best loved and trusted hygiene, health, and nutrition brands. Our purpose defines why we exist: to protect, heal and nurture in the relentless pursuit of a cleaner, healthier world. We are a global team united by this purpose. Join us in our fight to make access to the highest quality hygiene, wellness, and nourishment a right and not a privilege. About the role Coordinates, facilitates and takes lead of Supply related business meetings cross-functionally to enhance the business results/objectives. Your responsibilities Plan production, and confirm forecast and production orders to all allocated manufacturers. This includes aligning production requirements with supplier capacity and availability of raw materials and packaging, and challenging suppliers to rearrange production schedules where necessary for supply. Take lead and facilitate the internal business meetings related to Supply as a New Product project manager Ensure right amount of stock is being held, and that supplier actions are followed up during the week to ensure stock issues do not impact Service Level Project timeline management involving with Cress Function (Regulatory Affaires, R&D, Quality Assurance, Trade Marketing and Marketing) Trade Sample preparation Manage Cost saving Project Manage SKU Rationalization Project Experiences / skills we're looking for Supply Chain Experience (Planning or Manufacturing) - Minimum 3 years Project Manager Experience – Minimum 2 years Language skills: English & Japanese (Business level) Project management High energy, sense of urgency and results-oriented with global mindset A real passion for operations and willingness to throw yourself into a varied and busy role which will develop your career Meet the requirement for a commercially astute, articulate, technically strong, dynamic, insightful and influential leader with the ability to operate at both strategic and operational levels. Strong interpersonal, communication and presentation skills Committed and strong team player Proven ability to operate in a matrix environment and work effectively with all level of employees and across geographic and organizational boundaries Ability to handle high levels of pressure Ability to successfully prioritize and manage multiple tasks while adhering to specified deadlines. Must have a solid understanding within a leading FMCG company A positive 'can do’ attitude What we offer With inclusion at the heart of everything we do, working alongside our four global Employee Resource Groups, we support our people at every step of their career journey, helping them to succeed in their own individual way. We invest in the wellbeing of our people through parental benefits, an Employee Assistance Program to promote mental health, and life insurance for all employees globally. We have a range of other benefits in line with the local market. Through our global share plans we offer the opportunity to save and share in Reckitt's potential future successes. For eligible roles, we also offer short-term incentives to recognise, appreciate and reward your work for delivering outstanding results. You will be rewarded in line with Reckitt's pay for performance philosophy. Equality We recognise that in real life, great people don't always 'tick all the boxes'. That's why we hire for potential as well as experience. Even if you don't meet every point on the job description, if this role and our company feels like a good fit for you, we still want to hear from you. All qualified applicants will receive consideration for employment without regard to age, disability or medical condition; colour, ethnicity, race, citizenship, and national origin; religion, faith; pregnancy, family status and caring responsibilities; sexual orientation; sex, gender identity, gender expression, and transgender identity; protected veteran status; size or any other basis protected by appropriate law.",
       "score": 30,
       "isMatch": false,
       "isEng": false,
@@ -9376,6 +9393,10 @@
       "senior": false,
       "junior": false,
       "exp": [
+        [
+          3,
+          7
+        ],
         [
           2,
           6
@@ -9389,7 +9410,7 @@
         {
           "url": "https://careers.reckitt.com",
           "status": 200,
-          "bytes": 86294
+          "bytes": 86295
         },
         {
           "url": "https://reckitt.com/careers",
@@ -9414,7 +9435,7 @@
         "successfactors:careers.reckitt.com -> 43 jobs"
       ]
     },
-    "ms": 10253
+    "ms": 7624
   },
   {
     "company": "Recur Club",
@@ -9564,7 +9585,7 @@
         "workable:recurclub -> no board"
       ]
     },
-    "ms": 21455
+    "ms": 17062
   },
   {
     "company": "Redington India",
@@ -9685,7 +9706,7 @@
         "workable:redingtongroup -> no board"
       ]
     },
-    "ms": 36102
+    "ms": 31388
   },
   {
     "company": "RedSeer",
@@ -9740,7 +9761,7 @@
         "workable:redseer -> no board"
       ]
     },
-    "ms": 6200
+    "ms": 6583
   },
   {
     "company": "Refyne",
@@ -9828,7 +9849,7 @@
         "workable:refyne -> no board"
       ]
     },
-    "ms": 15326
+    "ms": 13489
   },
   {
     "company": "Regeneron India",
@@ -9915,7 +9936,7 @@
         "workable:regeneron -> no board"
       ]
     },
-    "ms": 19035
+    "ms": 17976
   },
   {
     "company": "Relevance Lab",
@@ -10814,7 +10835,7 @@
         "workable:relevancelab -> no board"
       ]
     },
-    "ms": 12403
+    "ms": 11796
   },
   {
     "company": "Reliance Retail",
@@ -10902,7 +10923,7 @@
         "workable:relianceretail -> no board"
       ]
     },
-    "ms": 3279
+    "ms": 2891
   },
   {
     "company": "Rely",
@@ -10990,7 +11011,7 @@
         "workable:rely -> no board"
       ]
     },
-    "ms": 13234
+    "ms": 10622
   },
   {
     "company": "Remedy Health",
@@ -11088,7 +11109,7 @@
         "workable:remedyhealth -> no board"
       ]
     },
-    "ms": 4263
+    "ms": 4562
   },
   {
     "company": "Renovite",
@@ -11186,7 +11207,7 @@
         "workable:renovite -> no board"
       ]
     },
-    "ms": 1974
+    "ms": 2345
   },
   {
     "company": "Resilinc India",
@@ -11283,7 +11304,7 @@
         "workable:resilinc -> no board"
       ]
     },
-    "ms": 15006
+    "ms": 15319
   },
   {
     "company": "Reveleer India",
@@ -11460,9 +11481,8 @@
         },
         {
           "url": "https://reveleer.com/join-us",
-          "status": 0,
-          "bytes": 0,
-          "error": "This operation was aborted"
+          "status": 404,
+          "bytes": 45086
         },
         {
           "url": "https://reveleer.com/join-our-team",
@@ -11507,7 +11527,7 @@
         "breezy:reveleer -> 8 jobs"
       ]
     },
-    "ms": 33271
+    "ms": 8229
   },
   {
     "company": "Rezo.ai",
@@ -11607,7 +11627,7 @@
         "workable:rezo -> no board"
       ]
     },
-    "ms": 12202
+    "ms": 12878
   },
   {
     "company": "RIB Software India",
@@ -11695,7 +11715,7 @@
         "workable:ribsoftware -> no board"
       ]
     },
-    "ms": 5224
+    "ms": 5272
   },
   {
     "company": "Ridecell India",
@@ -11788,7 +11808,7 @@
         "workable:ridecell -> no board"
       ]
     },
-    "ms": 3003
+    "ms": 3105
   },
   {
     "company": "Rightpoint India",
@@ -12124,6 +12144,7 @@
       "url": "https://jobs.jobvite.com/genpactexperience/job/o3tzAfwp",
       "team": "",
       "text": "Genpact (NYSE: G), is where human experience and advanced technology solutions converge to create transformative business outcomes. As a digital experience agency and technology powerhouse, we specialize in translating user insights into scalable, platform-driven solutions. In partnership with leading technology providers, we help organizations accelerate growth through platform innovation and experience-led transformation. Key Responsibilities Fusion Development & Integrations Design, build, and maintain Workfront Fusion scenarios for multi-system integrations (e.g., Workfront, Salesforce, Jira, ServiceNow, Slack, Microsoft Teams, Azure DevOps, SharePoint, Smartsheet). Translate business and functional requirements into reliable, well-structured Fusion automations. Apply Fusion development best practices, including module structuring, scenario orchestration, error handling, and reusability patterns. Work with REST APIs, JSON/XML data structures, and authentication protocols (OAuth2, Bearer tokens) to build and troubleshoot integrations. Implement logging, monitoring, and error-handling to improve reliability and reduce downtime of Fusion workflows. Support the deployment lifecycle (design → testing → UAT → go-live → maintenance) for Fusion-based automations. Collaborate with technical teams and Workfront Consultants to ensure Fusion solutions align with platform configuration and avoid overlap or duplication. Workfront Configuration & Administration Administer and maintain the Adobe Workfront platform, including project templates, custom forms, workflows, layouts, queues, dashboards, and reports. Manage user accounts, roles, permissions, groups, and teams. Configure automation, notifications, approval processes, and routing rules within Workfront. Implement and maintain governance standards, system settings, and platform best practices. Partner with business stakeholders to gather requirements and translate them into effective Workfront configurations. Analyze existing workflows and recommend process improvements. Develop and maintain reports, dashboards, and KPIs for leadership and project teams; monitor system usage and adoption. Troubleshoot configuration-related issues and coordinate with Adobe support and internal IT as needed. Minimum Qualifications and Skills 4–6 years of overall professional experience in enterprise workflow/project management platforms, with hands-on exposure to both Adobe Workfront Fusion and Workfront configuration/administration. Practical experience designing and maintaining Fusion scenarios, including flow control, error handling, and scheduling. Working knowledge of the Workfront API, REST APIs, and common authentication patterns (OAuth2, tokens). Hands-on experience configuring Workfront custom forms, templates, workflows, queues, dashboards, and reports. Understanding of Workfront user administration, roles, permissions, and security settings. Comfort working with JSON/XML and basic data transformation logic. Good analytical, troubleshooting, and communication skills, with the ability to work directly with business stakeholders. Experience working within Agile and/or Waterfall project environments. Desirable Skills and Tools Exposure to other iPaaS platforms (e.g., MuleSoft, Boomi, Make/Integromat). Familiarity with scripting languages (JavaScript, Python) for custom data transformation. Experience using Postman or Swagger for API testing and validation. Familiarity with the broader Adobe Experience Cloud ecosystem (Marketo, AEM, Analytics, Campaign). Exposure to logging/monitoring tools (e.g., Datadog, Splunk) for automation performance tracking. Adobe Workfront and/or Fusion Certification preferred Experience Level: 4–6 years",
+      "_enriched": true,
       "score": 57,
       "isMatch": false,
       "isEng": true,
@@ -12147,6 +12168,7 @@
       "url": "https://jobs.jobvite.com/genpactexperience/job/o3tzAfwp",
       "team": "",
       "text": "Genpact (NYSE: G), is where human experience and advanced technology solutions converge to create transformative business outcomes. As a digital experience agency and technology powerhouse, we specialize in translating user insights into scalable, platform-driven solutions. In partnership with leading technology providers, we help organizations accelerate growth through platform innovation and experience-led transformation. Key Responsibilities Fusion Development & Integrations Design, build, and maintain Workfront Fusion scenarios for multi-system integrations (e.g., Workfront, Salesforce, Jira, ServiceNow, Slack, Microsoft Teams, Azure DevOps, SharePoint, Smartsheet). Translate business and functional requirements into reliable, well-structured Fusion automations. Apply Fusion development best practices, including module structuring, scenario orchestration, error handling, and reusability patterns. Work with REST APIs, JSON/XML data structures, and authentication protocols (OAuth2, Bearer tokens) to build and troubleshoot integrations. Implement logging, monitoring, and error-handling to improve reliability and reduce downtime of Fusion workflows. Support the deployment lifecycle (design → testing → UAT → go-live → maintenance) for Fusion-based automations. Collaborate with technical teams and Workfront Consultants to ensure Fusion solutions align with platform configuration and avoid overlap or duplication. Workfront Configuration & Administration Administer and maintain the Adobe Workfront platform, including project templates, custom forms, workflows, layouts, queues, dashboards, and reports. Manage user accounts, roles, permissions, groups, and teams. Configure automation, notifications, approval processes, and routing rules within Workfront. Implement and maintain governance standards, system settings, and platform best practices. Partner with business stakeholders to gather requirements and translate them into effective Workfront configurations. Analyze existing workflows and recommend process improvements. Develop and maintain reports, dashboards, and KPIs for leadership and project teams; monitor system usage and adoption. Troubleshoot configuration-related issues and coordinate with Adobe support and internal IT as needed. Minimum Qualifications and Skills 4–6 years of overall professional experience in enterprise workflow/project management platforms, with hands-on exposure to both Adobe Workfront Fusion and Workfront configuration/administration. Practical experience designing and maintaining Fusion scenarios, including flow control, error handling, and scheduling. Working knowledge of the Workfront API, REST APIs, and common authentication patterns (OAuth2, tokens). Hands-on experience configuring Workfront custom forms, templates, workflows, queues, dashboards, and reports. Understanding of Workfront user administration, roles, permissions, and security settings. Comfort working with JSON/XML and basic data transformation logic. Good analytical, troubleshooting, and communication skills, with the ability to work directly with business stakeholders. Experience working within Agile and/or Waterfall project environments. Desirable Skills and Tools Exposure to other iPaaS platforms (e.g., MuleSoft, Boomi, Make/Integromat). Familiarity with scripting languages (JavaScript, Python) for custom data transformation. Experience using Postman or Swagger for API testing and validation. Familiarity with the broader Adobe Experience Cloud ecosystem (Marketo, AEM, Analytics, Campaign). Exposure to logging/monitoring tools (e.g., Datadog, Splunk) for automation performance tracking. Adobe Workfront and/or Fusion Certification preferred Experience Level: 4–6 years",
+      "_enriched": true,
       "score": 57,
       "isMatch": false,
       "isEng": true,
@@ -12235,7 +12257,7 @@
         "jobvite:genpactexperience -> 18 jobs"
       ]
     },
-    "ms": 5032
+    "ms": 4927
   },
   {
     "company": "Rishabh Software",
@@ -12259,17 +12281,17 @@
         {
           "url": "https://rishabhsoft.com/careers",
           "status": 200,
-          "bytes": 263717
+          "bytes": 263734
         },
         {
           "url": "https://rishabhsoft.com/career",
           "status": 200,
-          "bytes": 263717
+          "bytes": 263735
         },
         {
           "url": "https://rishabhsoft.com/jobs",
           "status": 404,
-          "bytes": 235589
+          "bytes": 235607
         }
       ],
       "candidates": [
@@ -12297,7 +12319,7 @@
         "workable:rishabhsoft -> no board"
       ]
     },
-    "ms": 22771
+    "ms": 23273
   },
   {
     "company": "RSPL Group",
@@ -12377,7 +12399,7 @@
         {
           "url": "https://careers-rsplgroup.peoplestrong.com/",
           "status": 200,
-          "bytes": 56051
+          "bytes": 56050
         }
       ],
       "candidates": [
@@ -12405,199 +12427,19 @@
         "workable:rsplgroup -> no board"
       ]
     },
-    "ms": 18705
+    "ms": 14521
   },
   {
     "company": "RtCamp",
     "country": "India",
-    "source": "headings:https://careers.rtcamp.com/",
+    "source": "headings:https://rtcamp.com/join-us",
     "error": null,
-    "totalJobs": 25,
+    "totalJobs": 2,
     "jobs": [
       {
-        "title": "Digital Marketing Intern",
+        "title": "Toggle Google Tag Manager",
         "location": "",
-        "url": "https://careers.rtcamp.com/",
-        "india": true,
-        "locationSaysIndia": false,
-        "hasLocation": false,
-        "isEng": false,
-        "java": false,
-        "flutter": false,
-        "senior": false,
-        "exp": [],
-        "expFits2": false,
-        "score": 31
-      },
-      {
-        "title": "Senior Frappe/ERPNext Engineer",
-        "location": "",
-        "url": "https://careers.rtcamp.com/",
-        "india": true,
-        "locationSaysIndia": false,
-        "hasLocation": false,
-        "isEng": true,
-        "java": false,
-        "flutter": false,
-        "senior": true,
-        "exp": [],
-        "expFits2": false,
-        "score": 27
-      },
-      {
-        "title": "Senior QA Engineer",
-        "location": "",
-        "url": "https://careers.rtcamp.com/",
-        "india": true,
-        "locationSaysIndia": false,
-        "hasLocation": false,
-        "isEng": true,
-        "java": false,
-        "flutter": false,
-        "senior": true,
-        "exp": [],
-        "expFits2": false,
-        "score": 27
-      },
-      {
-        "title": "Account Executive",
-        "location": "",
-        "url": "https://careers.rtcamp.com/",
-        "india": true,
-        "locationSaysIndia": false,
-        "hasLocation": false,
-        "isEng": false,
-        "java": false,
-        "flutter": false,
-        "senior": false,
-        "exp": [],
-        "expFits2": false,
-        "score": 19
-      },
-      {
-        "title": "Enterprise SaaS Content Writer",
-        "location": "",
-        "url": "https://careers.rtcamp.com/",
-        "india": true,
-        "locationSaysIndia": false,
-        "hasLocation": false,
-        "isEng": false,
-        "java": false,
-        "flutter": false,
-        "senior": false,
-        "exp": [],
-        "expFits2": false,
-        "score": 19
-      },
-      {
-        "title": "Partner Marketing Specialist",
-        "location": "",
-        "url": "https://careers.rtcamp.com/",
-        "india": true,
-        "locationSaysIndia": false,
-        "hasLocation": false,
-        "isEng": false,
-        "java": false,
-        "flutter": false,
-        "senior": false,
-        "exp": [],
-        "expFits2": false,
-        "score": 19
-      },
-      {
-        "title": "Project Coordinator",
-        "location": "",
-        "url": "https://careers.rtcamp.com/",
-        "india": true,
-        "locationSaysIndia": false,
-        "hasLocation": false,
-        "isEng": false,
-        "java": false,
-        "flutter": false,
-        "senior": false,
-        "exp": [],
-        "expFits2": false,
-        "score": 19
-      },
-      {
-        "title": "SEO Executive",
-        "location": "",
-        "url": "https://careers.rtcamp.com/",
-        "india": true,
-        "locationSaysIndia": false,
-        "hasLocation": false,
-        "isEng": false,
-        "java": false,
-        "flutter": false,
-        "senior": false,
-        "exp": [],
-        "expFits2": false,
-        "score": 19
-      },
-      {
-        "title": "Technical Content Writer (B2B/Agency)",
-        "location": "",
-        "url": "https://careers.rtcamp.com/",
-        "india": true,
-        "locationSaysIndia": false,
-        "hasLocation": false,
-        "isEng": false,
-        "java": false,
-        "flutter": false,
-        "senior": false,
-        "exp": [],
-        "expFits2": false,
-        "score": 19
-      },
-      {
-        "title": "Technical Content Writer (ERP Business)",
-        "location": "",
-        "url": "https://careers.rtcamp.com/",
-        "india": true,
-        "locationSaysIndia": false,
-        "hasLocation": false,
-        "isEng": false,
-        "java": false,
-        "flutter": false,
-        "senior": false,
-        "exp": [],
-        "expFits2": false,
-        "score": 19
-      },
-      {
-        "title": "WordPress Content Writer",
-        "location": "",
-        "url": "https://careers.rtcamp.com/",
-        "india": true,
-        "locationSaysIndia": false,
-        "hasLocation": false,
-        "isEng": false,
-        "java": false,
-        "flutter": false,
-        "senior": false,
-        "exp": [],
-        "expFits2": false,
-        "score": 19
-      },
-      {
-        "title": "Associate Director, Brand and Creative",
-        "location": "",
-        "url": "https://careers.rtcamp.com/",
-        "india": true,
-        "locationSaysIndia": false,
-        "hasLocation": false,
-        "isEng": false,
-        "java": false,
-        "flutter": false,
-        "senior": true,
-        "exp": [],
-        "expFits2": false,
-        "score": 9
-      },
-      {
-        "title": "Content Marketing Lead (Enterprise WordPress)",
-        "location": "",
-        "url": "https://careers.rtcamp.com/",
+        "url": "https://rtcamp.com/join-us",
         "india": true,
         "locationSaysIndia": false,
         "hasLocation": false,
@@ -12610,174 +12452,9 @@
         "score": -3
       },
       {
-        "title": "Director of Design",
+        "title": "Identify and tracking a lead",
         "location": "",
-        "url": "https://careers.rtcamp.com/",
-        "india": true,
-        "locationSaysIndia": false,
-        "hasLocation": false,
-        "isEng": false,
-        "java": false,
-        "flutter": false,
-        "senior": true,
-        "exp": [],
-        "expFits2": false,
-        "score": -3
-      },
-      {
-        "title": "Manager, Founder&#x27;s Office",
-        "location": "",
-        "url": "https://careers.rtcamp.com/",
-        "india": true,
-        "locationSaysIndia": false,
-        "hasLocation": false,
-        "isEng": false,
-        "java": false,
-        "flutter": false,
-        "senior": true,
-        "exp": [],
-        "expFits2": false,
-        "score": -3
-      },
-      {
-        "title": "Principal ERPNext Solutions Architect",
-        "location": "",
-        "url": "https://careers.rtcamp.com/",
-        "india": true,
-        "locationSaysIndia": false,
-        "hasLocation": false,
-        "isEng": false,
-        "java": false,
-        "flutter": false,
-        "senior": true,
-        "exp": [],
-        "expFits2": false,
-        "score": -3
-      },
-      {
-        "title": "Senior Frappe/ERPNext Project Manager",
-        "location": "",
-        "url": "https://careers.rtcamp.com/",
-        "india": true,
-        "locationSaysIndia": false,
-        "hasLocation": false,
-        "isEng": false,
-        "java": false,
-        "flutter": false,
-        "senior": true,
-        "exp": [],
-        "expFits2": false,
-        "score": -3
-      },
-      {
-        "title": "Senior Product Designer",
-        "location": "",
-        "url": "https://careers.rtcamp.com/",
-        "india": true,
-        "locationSaysIndia": false,
-        "hasLocation": false,
-        "isEng": false,
-        "java": false,
-        "flutter": false,
-        "senior": true,
-        "exp": [],
-        "expFits2": false,
-        "score": -3
-      },
-      {
-        "title": "Senior Product Designer (SaaS)",
-        "location": "",
-        "url": "https://careers.rtcamp.com/",
-        "india": true,
-        "locationSaysIndia": false,
-        "hasLocation": false,
-        "isEng": false,
-        "java": false,
-        "flutter": false,
-        "senior": true,
-        "exp": [],
-        "expFits2": false,
-        "score": -3
-      },
-      {
-        "title": "Senior Project Manager",
-        "location": "",
-        "url": "https://careers.rtcamp.com/",
-        "india": true,
-        "locationSaysIndia": false,
-        "hasLocation": false,
-        "isEng": false,
-        "java": false,
-        "flutter": false,
-        "senior": true,
-        "exp": [],
-        "expFits2": false,
-        "score": -3
-      },
-      {
-        "title": "Senior SEO Specialist",
-        "location": "",
-        "url": "https://careers.rtcamp.com/",
-        "india": true,
-        "locationSaysIndia": false,
-        "hasLocation": false,
-        "isEng": false,
-        "java": false,
-        "flutter": false,
-        "senior": true,
-        "exp": [],
-        "expFits2": false,
-        "score": -3
-      },
-      {
-        "title": "Senior Social Media Specialist (B2B)",
-        "location": "",
-        "url": "https://careers.rtcamp.com/",
-        "india": true,
-        "locationSaysIndia": false,
-        "hasLocation": false,
-        "isEng": false,
-        "java": false,
-        "flutter": false,
-        "senior": true,
-        "exp": [],
-        "expFits2": false,
-        "score": -3
-      },
-      {
-        "title": "Senior UX Designer",
-        "location": "",
-        "url": "https://careers.rtcamp.com/",
-        "india": true,
-        "locationSaysIndia": false,
-        "hasLocation": false,
-        "isEng": false,
-        "java": false,
-        "flutter": false,
-        "senior": true,
-        "exp": [],
-        "expFits2": false,
-        "score": -3
-      },
-      {
-        "title": "Senior Web Designer",
-        "location": "",
-        "url": "https://careers.rtcamp.com/",
-        "india": true,
-        "locationSaysIndia": false,
-        "hasLocation": false,
-        "isEng": false,
-        "java": false,
-        "flutter": false,
-        "senior": true,
-        "exp": [],
-        "expFits2": false,
-        "score": -3
-      },
-      {
-        "title": "Team Operations Manager",
-        "location": "",
-        "url": "https://careers.rtcamp.com/",
+        "url": "https://rtcamp.com/join-us",
         "india": true,
         "locationSaysIndia": false,
         "hasLocation": false,
@@ -12794,34 +12471,15 @@
     "matches": [],
     "nearMatches": [],
     "closest": {
-      "title": "Digital Marketing Intern",
+      "title": "Toggle Google Tag Manager",
       "location": "",
-      "url": "https://careers.rtcamp.com/",
+      "url": "https://rtcamp.com/join-us",
       "team": "",
-      "text": "Digital Marketing Intern Remote Marketing",
+      "text": "Toggle Google Tag Manager Google Tag Manager Google Tag Manager simplifies the management of marketing tags on your website without code changes. Name Description Duration cookiePreferences Registers cookie preferences of a user 2 years td Registers statistical data on users' behaviour on the website. Used for internal analytics by the website operator. session Toggle Statistics Statistics Statistics cookies collect information anonymously. This information helps us understand how visitors use our website. <div class=\"wpcons",
       "_noEnrich": true,
-      "score": 31,
+      "score": -3,
       "isMatch": false,
       "isEng": false,
-      "java": false,
-      "flutter": false,
-      "android": false,
-      "india": true,
-      "senior": false,
-      "junior": true,
-      "exp": [],
-      "expFits2": false
-    },
-    "closestEng": {
-      "title": "Senior Frappe/ERPNext Engineer",
-      "location": "",
-      "url": "https://careers.rtcamp.com/",
-      "team": "",
-      "text": "Senior Frappe/ERPNext Engineer Remote, India Frappe",
-      "_noEnrich": true,
-      "score": 27,
-      "isMatch": false,
-      "isEng": true,
       "java": false,
       "flutter": false,
       "android": false,
@@ -12831,27 +12489,28 @@
       "exp": [],
       "expFits2": false
     },
+    "closestEng": null,
     "trace": {
       "pages": [
         {
           "url": "https://careers.rtcamp.com",
-          "status": 200,
-          "bytes": 311829
+          "status": 503,
+          "bytes": 95532
         },
         {
           "url": "https://rtcamp.com/careers",
-          "status": 200,
-          "bytes": 311829
+          "status": 503,
+          "bytes": 95532
         },
         {
           "url": "https://rtcamp.com/career",
-          "status": 200,
-          "bytes": 311829
+          "status": 503,
+          "bytes": 95532
         },
         {
           "url": "https://rtcamp.com/jobs",
-          "status": 200,
-          "bytes": 311829
+          "status": 503,
+          "bytes": 95532
         },
         {
           "url": "https://rtcamp.com/join-us",
@@ -12879,7 +12538,7 @@
         "workable:rtcamp -> no board"
       ]
     },
-    "ms": 14005
+    "ms": 23896
   },
   {
     "company": "Ruptok",
@@ -12977,6 +12636,6 @@
         "workable:ruptok -> no board"
       ]
     },
-    "ms": 3821
+    "ms": 2760
   }
 ]

@@ -911,7 +911,7 @@
         "workable:qualcomm -> no board"
       ]
     },
-    "ms": 35215
+    "ms": 33618
   },
   {
     "company": "Quest Global",
@@ -930,7 +930,7 @@
         {
           "url": "https://careers.quest-global.com",
           "status": 200,
-          "bytes": 114693
+          "bytes": 114609
         },
         {
           "url": "https://quest-global.com/careers",
@@ -965,7 +965,7 @@
         "workable:questglobal -> no board"
       ]
     },
-    "ms": 17819
+    "ms": 14866
   },
   {
     "company": "QuickHeal",
@@ -990,17 +990,27 @@
         {
           "url": "https://quickheal.com/careers",
           "status": 404,
-          "bytes": 126506
+          "bytes": 126507
         },
         {
           "url": "https://quickheal.com/career",
           "status": 404,
-          "bytes": 126498
+          "bytes": 126497
         },
         {
           "url": "https://quickheal.com/jobs",
           "status": 404,
-          "bytes": 126488
+          "bytes": 126492
+        },
+        {
+          "url": "https://quickheal.com/join-us",
+          "status": 404,
+          "bytes": 126506
+        },
+        {
+          "url": "https://quickheal.com/join-our-team",
+          "status": 404,
+          "bytes": 126533
         }
       ],
       "candidates": [
@@ -1018,7 +1028,7 @@
         "workable:quickheal -> no board"
       ]
     },
-    "ms": 14201
+    "ms": 15001
   },
   {
     "company": "Quantiphi",
@@ -1689,6 +1699,7 @@
       "text": "While technology is the heart of our business, a global and diverse culture is the heart of our success. We love our people and we take pride in catering them to a culture built on transparency, diversity, integrity, learning and growth. If working in an environment that encourages you to innovate and excel, not just in professional but personal life, interests you- you would enjoy your career with Quantiphi! Role: Senior Test Engineer - AI/ML Experience: 3-6 years Location: Mumbai/Bangalore (Hybrid) Key Responsibilities: Design, develop, and maintain UI and API automation test suites using modern automation frameworks. Independently own end-to-end testing activities including test planning, automation development, execution, defect management, and reporting. Validate AI/ML applications, Generative AI solutions, LLM-powered applications, and intelligent workflows. Design and execute functional, integration, regression, and end-to-end test automation for traditional and AI-enabled applications. Develop and maintain reusable automation frameworks, libraries, and utilities. Automate API testing using REST Assured (Java) or Python Requests. Develop UI automation using Playwright. Validate backend data using SQL and perform database verification. Develop automated validations for AI model outputs, prompt responses, RAG pipelines, and chatbot conversations. Validate AI responses for correctness, consistency, relevance, grounding, safety, hallucinations, and bias. Collaborate with ML Engineers, Software Engineers, and Product Owners to define AI quality validation strategies. Integrate automated test suites into CI/CD pipelines and implement quality gates. Leverage GenAI tools to accelerate test case generation, automation development, debugging, documentation, and productivity. Contribute to AI testing frameworks, accelerators, and Quality Engineering best practices. Mentor junior engineers and promote automation-first and AI-first Quality Engineering practices. Must have skills: Strong understanding of Software Testing Life Cycle (STLC), SDLC, Agile, and Scrum methodologies. Hands-on experience in designing test strategies, test scenarios, test cases, and test execution. Strong expertise in UI automation using Playwright and API automation using REST Assured (Java) or Python Requests. Hands-on experience with Postman for API testing and validation. Strong SQL skills with hands-on experience in database testing and backend data validation. Experience integrating automation suites with CI/CD pipelines using Jenkins, GitHub Actions, or similar. Proficiency with Git and version control best practices. Hands-on experience testing AI/ML or Generative AI applications. Understanding of Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), chatbots, copilots, or AI agents. Experience validating AI responses for accuracy, relevance, consistency, hallucinations, toxicity, bias, and safety. Experience designing test scenarios for prompt engineering and AI workflow validation. Understanding of AI evaluation techniques and automated output validation. Familiarity with AI evaluation frameworks or libraries (e.g., DeepEval, Ragas, LangSmith, Promptfoo, MLflow, or similar). Experience using GenAI tools such as ChatGPT, GitHub Copilot, Kiro, Claude, or similar to accelerate test design, automation development, debugging, test data generation, and documentation. Strong debugging, root cause analysis, and analytical problem-solving skills. Ability to independently own end-to-end testing activities with minimal supervision. Excellent communication, collaboration, and stakeholder management skills. Ability to mentor junior engineers and promote automation and Quality Engineering best practices. Strong attention to detail with a quality-first and automation-first mindset. Nice to have skills Knowledge of AWS services such as Amazon Bedrock, SageMaker, EC2, Lambda, API Gateway, S3, RDS, DynamoDB, CloudWatch, ECS/EKS, and IAM. Experience testing cloud-native applications deployed on AWS. Experience in Data Warehouse, ETL, or Data Pipeline testing. Experience with performance testing tools such as JMeter or k6. Exposure to Docker, Kubernetes, and containerized application testing. Relevant certifications in Playwright, AWS, Quality Engineering, or Agile are an added advantage. If you like wild growth and working with happy, enthusiastic over-achievers, you'll enjoy your career with us !",
       "_detail": "https://quantiphi.wd1.myworkdayjobs.com/wday/cxs/quantiphi/Careers_at_Quantiphi/job/IN-KA-Bengaluru/Senior-Test-Engineer---AI-ML_JR11513",
       "_detailKind": "workday",
+      "_enriched": true,
       "score": 60,
       "isMatch": false,
       "isEng": true,
@@ -1714,6 +1725,7 @@
       "text": "While technology is the heart of our business, a global and diverse culture is the heart of our success. We love our people and we take pride in catering them to a culture built on transparency, diversity, integrity, learning and growth. If working in an environment that encourages you to innovate and excel, not just in professional but personal life, interests you- you would enjoy your career with Quantiphi! Role: Senior Test Engineer - AI/ML Experience: 3-6 years Location: Mumbai/Bangalore (Hybrid) Key Responsibilities: Design, develop, and maintain UI and API automation test suites using modern automation frameworks. Independently own end-to-end testing activities including test planning, automation development, execution, defect management, and reporting. Validate AI/ML applications, Generative AI solutions, LLM-powered applications, and intelligent workflows. Design and execute functional, integration, regression, and end-to-end test automation for traditional and AI-enabled applications. Develop and maintain reusable automation frameworks, libraries, and utilities. Automate API testing using REST Assured (Java) or Python Requests. Develop UI automation using Playwright. Validate backend data using SQL and perform database verification. Develop automated validations for AI model outputs, prompt responses, RAG pipelines, and chatbot conversations. Validate AI responses for correctness, consistency, relevance, grounding, safety, hallucinations, and bias. Collaborate with ML Engineers, Software Engineers, and Product Owners to define AI quality validation strategies. Integrate automated test suites into CI/CD pipelines and implement quality gates. Leverage GenAI tools to accelerate test case generation, automation development, debugging, documentation, and productivity. Contribute to AI testing frameworks, accelerators, and Quality Engineering best practices. Mentor junior engineers and promote automation-first and AI-first Quality Engineering practices. Must have skills: Strong understanding of Software Testing Life Cycle (STLC), SDLC, Agile, and Scrum methodologies. Hands-on experience in designing test strategies, test scenarios, test cases, and test execution. Strong expertise in UI automation using Playwright and API automation using REST Assured (Java) or Python Requests. Hands-on experience with Postman for API testing and validation. Strong SQL skills with hands-on experience in database testing and backend data validation. Experience integrating automation suites with CI/CD pipelines using Jenkins, GitHub Actions, or similar. Proficiency with Git and version control best practices. Hands-on experience testing AI/ML or Generative AI applications. Understanding of Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), chatbots, copilots, or AI agents. Experience validating AI responses for accuracy, relevance, consistency, hallucinations, toxicity, bias, and safety. Experience designing test scenarios for prompt engineering and AI workflow validation. Understanding of AI evaluation techniques and automated output validation. Familiarity with AI evaluation frameworks or libraries (e.g., DeepEval, Ragas, LangSmith, Promptfoo, MLflow, or similar). Experience using GenAI tools such as ChatGPT, GitHub Copilot, Kiro, Claude, or similar to accelerate test design, automation development, debugging, test data generation, and documentation. Strong debugging, root cause analysis, and analytical problem-solving skills. Ability to independently own end-to-end testing activities with minimal supervision. Excellent communication, collaboration, and stakeholder management skills. Ability to mentor junior engineers and promote automation and Quality Engineering best practices. Strong attention to detail with a quality-first and automation-first mindset. Nice to have skills Knowledge of AWS services such as Amazon Bedrock, SageMaker, EC2, Lambda, API Gateway, S3, RDS, DynamoDB, CloudWatch, ECS/EKS, and IAM. Experience testing cloud-native applications deployed on AWS. Experience in Data Warehouse, ETL, or Data Pipeline testing. Experience with performance testing tools such as JMeter or k6. Exposure to Docker, Kubernetes, and containerized application testing. Relevant certifications in Playwright, AWS, Quality Engineering, or Agile are an added advantage. If you like wild growth and working with happy, enthusiastic over-achievers, you'll enjoy your career with us !",
       "_detail": "https://quantiphi.wd1.myworkdayjobs.com/wday/cxs/quantiphi/Careers_at_Quantiphi/job/IN-KA-Bengaluru/Senior-Test-Engineer---AI-ML_JR11513",
       "_detailKind": "workday",
+      "_enriched": true,
       "score": 60,
       "isMatch": false,
       "isEng": true,
@@ -1757,12 +1769,12 @@
         {
           "url": "https://quantiphi.com/join-us",
           "status": 404,
-          "bytes": 26486
+          "bytes": 26487
         },
         {
           "url": "https://quantiphi.com/join-our-team",
           "status": 404,
-          "bytes": 26486
+          "bytes": 26488
         },
         {
           "url": "https://quantiphi.com/careers.html",
@@ -1772,7 +1784,7 @@
         {
           "url": "https://quantiphi.com/company/careers",
           "status": 404,
-          "bytes": 26487
+          "bytes": 26488
         },
         {
           "url": "https://quantiphi.com/about/careers",
@@ -1782,7 +1794,7 @@
         {
           "url": "https://quantiphi.com/current-openings",
           "status": 404,
-          "bytes": 26486
+          "bytes": 26487
         },
         {
           "url": "https://quantiphi.com/",
@@ -1802,7 +1814,7 @@
         "workday:quantiphi -> 40 jobs"
       ]
     },
-    "ms": 18015
+    "ms": 14731
   },
   {
     "company": "Qure.ai",
@@ -1899,7 +1911,7 @@
         "workable:qure -> no board"
       ]
     },
-    "ms": 13969
+    "ms": 12681
   },
   {
     "company": "Quantum Leap",
@@ -1987,7 +1999,7 @@
         "workable:quantumleap -> no board"
       ]
     },
-    "ms": 7178
+    "ms": 6880
   },
   {
     "company": "Quinbay",
@@ -2075,7 +2087,7 @@
         "workable:quinbay -> no board"
       ]
     },
-    "ms": 5249
+    "ms": 5589
   },
   {
     "company": "QburstTechnologies",
@@ -2183,7 +2195,7 @@
         "workable:qburst -> no board"
       ]
     },
-    "ms": 10138
+    "ms": 9256
   },
   {
     "company": "Quovantis",
@@ -2271,7 +2283,7 @@
         "workable:quovantis -> no board"
       ]
     },
-    "ms": 6182
+    "ms": 4174
   },
   {
     "company": "QualiZeal",
@@ -2533,22 +2545,52 @@
         {
           "url": "https://qualizeal.com/careers",
           "status": 307,
-          "bytes": 1387
+          "bytes": 1275
         },
         {
           "url": "https://qualizeal.com/career",
           "status": 307,
-          "bytes": 1439
+          "bytes": 1275
         },
         {
           "url": "https://qualizeal.com/jobs",
           "status": 307,
-          "bytes": 1439
+          "bytes": 1275
         },
         {
           "url": "https://qualizeal.com/join-us",
           "status": 307,
-          "bytes": 1467
+          "bytes": 1275
+        },
+        {
+          "url": "https://qualizeal.com/join-our-team",
+          "status": 307,
+          "bytes": 1275
+        },
+        {
+          "url": "https://qualizeal.com/careers.html",
+          "status": 307,
+          "bytes": 1275
+        },
+        {
+          "url": "https://qualizeal.com/company/careers",
+          "status": 307,
+          "bytes": 1275
+        },
+        {
+          "url": "https://qualizeal.com/about/careers",
+          "status": 307,
+          "bytes": 1355
+        },
+        {
+          "url": "https://qualizeal.com/current-openings",
+          "status": 307,
+          "bytes": 1355
+        },
+        {
+          "url": "https://qualizeal.com/",
+          "status": 307,
+          "bytes": 1355
         }
       ],
       "candidates": [
@@ -2566,7 +2608,7 @@
         "workable:qualizeal -> no board"
       ]
     },
-    "ms": 12645
+    "ms": 8178
   },
   {
     "company": "Quantela",
@@ -2682,7 +2724,7 @@
         {
           "url": "https://careers.quantela.com",
           "status": 200,
-          "bytes": 26509
+          "bytes": 26609
         },
         {
           "url": "https://quantela.com/careers",
@@ -2712,7 +2754,7 @@
         "workable:quantela -> no board"
       ]
     },
-    "ms": 7183
+    "ms": 5725
   },
   {
     "company": "Quadrant Resource",
@@ -2810,7 +2852,7 @@
         "workable:quadrantresource -> no board"
       ]
     },
-    "ms": 4178
+    "ms": 3515
   },
   {
     "company": "Quadrant Technologies",
@@ -2848,7 +2890,8 @@
       "location": "",
       "url": "https://www.quadranttechnologies.com/careers/azure-data-engineer/",
       "team": "",
-      "text": "Azure Data Engineer - Quadrant Technologies WHAT WE DO Services Solutions Industries Application Services AI & ML Consulting & Advisory Cloud Services Cybersecurity Data and Analytics DevSecOps Engineering Services Enterprise Applications Embedded Services IP Services Sustainability Services Quality Management Modernization Services Migration Services Microsoft Fabric Enplify QMigrator Service Infinite Qrest AI Index Veriton IntervueX Azure Optimization Platform UC3 Automotive Aviation BFSI Energy & Utilities Healthcare & Life Sciences High-tech Logistics & Supply Chain Manufacturing Public Sector Retail & Consumer Packaged Goods Telecommunication WHO WE ARE Our Story CSR Contact About Us Leadership RESOURCES Thought leadership White Papers Client Case Studies Events Downloadables Qrest AI Index: A... From Dashboards to AI... AI Tariff Intelligence Platform View All Blogs AI Without Guardrails Is... AI-Augmented Decision Making Transforming Competitive Market Intelligence... View All White Papers Transforming Inbound Logistics with... Reimagining Corporate Travel Analytics... Modernizing Enterprise Leasing &... Integration of advanced Graph... Transforming Healthcare with Azure:... Quadrant Technologies Cut Costs... Reimagining Data Analytics for... BI Automation Portal for... View All Case Studies Microsoft Power Platform Conference... GITEX GLOBAL 2025 Quadrant Technologies at Microsoft... View All Events Let's talk CAREERS EN LATAM - EN LATAM - ES What We Do Services AI & ML Application Services Consultancy and Advisory Cloud Services Cyber Security Data & Analytics DevSecOps Engineering Services Enterprise Applications Embedded Systems IP Services Sustainability Services Quality Assurance Microsoft Fabric Solutions QMigrator Enplify.ai Service Infinite Qrest AI Index Veriton IntervueX Azure Optimization Platform UC3 Industries Automotive Aviation BFSI Energy & Utilities Healthcare & Life Sciences High-tech Logistics & Supply Chain Manufacturing Public Sector Retail & Consumer Packaged Goods Telecommunication Who We Are Our Story About Us Leadership CSR Contact Resources Thought Leadership White Papers Client Case Studies Events Downloadables Region (Language) LATAM - EN LATAM - ES Careers Back to careers Azure Data Engineer Location: Hyderabad / Bangalore (Hybrid) Job Type: Full-time Salary: Negotiable Apply Now Position: Azure Data Engineer Experience: 5 – 8 years Job location: Hyderabad / Bangalore (Hybrid) Notice Period: 0 – 15 days MAX. As an Azure Data Engineer, you will be expected to design, implement, and manage data solutions on the Microsoft Azure cloud platform. The ideal candidate will have a proven track record of writing. complex SQL stored procedures with implementing OTLP database solutions (using Microsoft SQL Server). As well as experience with Azure Synapse / PySpark / Azure Databricks for big data processing. Key Responsibilities: • Collaborate with cross-functional teams to gather, analyze, and document business requirements for data integration projects. • Expertise in T-SQL, Dynamic SQL, Spark SQL, and ability to write complex stored procedures. • Write complex stored procedures to support data transformation and to implement business validation logic. • Experience in writing notebooks in Azure Synapse/Databricks using Spark SQL or PySpark to process and analyse large volumes of data • Develop and maintain robust data pipelines using Azure Data Factory ensuring seamless data flow between systems. • Strong algorithmic programming skills • Work closely with the team to ensure data quality, integrity, and accuracy across all systems. • Experience on OLTP (Online Transaction Processing) systems using SQL Server and contribute to their enhancement and optimization. Qualifications: Bachelor’s degree in Computer Science, Information Technology, or a related field. Hands-on experience in writing complex T-SQL queries and stored procedures Good experience in data integration and database development. Proficiency in T-SQL and Spark SQL/PySpark. (Synapse/ Databricks) Extensive experience with Azure Data Factory Excellent problem-solving skills and attention to detail Apply Now Apply for Azure Data Engineer Phone This field is for validation purposes and should be left unchanged. Name (Required) Email (Required) Phone (Required) Apply For Role Upload Resume (Required) Accepted file types: pdf, docx, Max. file size: 10 MB. Message Δ Close Quadrant Technologies is a global provider of IT services, products, and solutions to our clients across diverse industries. We are known as a “Cloud & Data” company involved in building and delivering managed services for technology projects. © 2026 Quadrant Technologies. All rights reserved. | Privacy Policy Services Application Services AI & ML Consulting & Advisory Cloud Services Cybersecurity Data and Analytics Services DevSecOps Engineering Services Enterprise Applications Embedded Services IP Services Sustainability Services Services Quality Management Modernization Services Migration Services Microsoft Fabric Solutions Enplify QMigrator Service Infinite Qrest AI Index Veriton IntervueX Azure Optimization Platform UC3 Resources Thought Leadership White Papers Case Study Events Downloadables About About Us CSR Leadership How can we help you? Welcome to Quadrant chat! Disclaimer: This bot only operates based on the provided content.",
+      "text": "Azure Data Engineer - Quadrant Technologies WHAT WE DO Services Solutions Industries Application Services AI & ML Consulting & Advisory Cloud Services Cybersecurity Data and Analytics DevSecOps Engineering Services Enterprise Applications Embedded Services IP Services Sustainability Services Quality Management Modernization Services Migration Services Microsoft Fabric Enplify QMigrator Service Infinite Qrest AI Index Veriton IntervueX Azure Optimization Platform UC3 Automotive Aviation BFSI Energy & Utilities Healthcare & Life Sciences High-tech Logistics & Supply Chain Manufacturing Public Sector Retail & Consumer Packaged Goods Telecommunication WHO WE ARE Our Story CSR Contact About Us Leadership RESOURCES Thought leadership White Papers Client Case Studies Events Downloadables Qrest AI Index: A... From Dashboards to AI... AI Tariff Intelligence Platform View All Blogs AI Without Guardrails Is... AI-Augmented Decision Making Transforming Competitive Market Intelligence... View All White Papers Transforming Inbound Logistics with... Reimagining Corporate Travel Analytics... Modernizing Enterprise Leasing &... Integration of advanced Graph... Transforming Healthcare with Azure:... Quadrant Technologies Cut Costs... Reimagining Data Analytics for... BI Automation Portal for... View All Case Studies Microsoft Power Platform Conference... GITEX GLOBAL 2025 Quadrant Technologies at Microsoft... View All Events Let's talk CAREERS EN LATAM - EN LATAM - ES What We Do Services AI & ML Application Services Consultancy and Advisory Cloud Services Cyber Security Data & Analytics DevSecOps Engineering Services Enterprise Applications Embedded Systems IP Services Sustainability Services Quality Assurance Microsoft Fabric Solutions QMigrator Enplify.ai Service Infinite Qrest AI Index Veriton IntervueX Azure Optimization Platform UC3 Industries Automotive Aviation BFSI Energy & Utilities Healthcare & Life Sciences High-tech Logistics & Supply Chain Manufacturing Public Sector Retail & Consumer Packaged Goods Telecommunication Who We Are Our Story About Us Leadership CSR Contact Resources Thought Leadership White Papers Client Case Studies Events Downloadables Region (Language) LATAM - EN LATAM - ES Careers Back to careers Azure Data Engineer Location: Hyderabad / Bangalore (Hybrid) Job Type: Full-time Salary: Negotiable Apply Now Position: Azure Data Engineer Experience: 5 – 8 years Job location: Hyderabad / Bangalore (Hybrid) Notice Period: 0 – 15 days MAX. As an Azure Data Engineer, you will be expected to design, implement, and manage data solutions on the Microsoft Azure cloud platform. The ideal candidate will have a proven track record of writing. complex SQL stored procedures with implementing OTLP database solutions (using Microsoft SQL Server). As well as experience with Azure Synapse / PySpark / Azure Databricks for big data processing. Key Responsibilities: • Collaborate with cross-functional teams to gather, analyze, and document business requirements for data integration projects. • Expertise in T-SQL, Dynamic SQL, Spark SQL, and ability to write complex stored procedures. • Write complex stored procedures to support data transformation and to implement business validation logic. • Experience in writing notebooks in Azure Synapse/Databricks using Spark SQL or PySpark to process and analyse large volumes of data • Develop and maintain robust data pipelines using Azure Data Factory ensuring seamless data flow between systems. • Strong algorithmic programming skills • Work closely with the team to ensure data quality, integrity, and accuracy across all systems. • Experience on OLTP (Online Transaction Processing) systems using SQL Server and contribute to their enhancement and optimization. Qualifications: Bachelor’s degree in Computer Science, Information Technology, or a related field. Hands-on experience in writing complex T-SQL queries and stored procedures Good experience in data integration and database development. Proficiency in T-SQL and Spark SQL/PySpark. (Synapse/ Databricks) Extensive experience with Azure Data Factory Excellent problem-solving skills and attention to detail Apply Now Apply for Azure Data Engineer X/Twitter This field is for validation purposes and should be left unchanged. Name (Required) Email (Required) Phone (Required) Apply For Role Upload Resume (Required) Accepted file types: pdf, docx, Max. file size: 10 MB. Message Δ Close Quadrant Technologies is a global provider of IT services, products, and solutions to our clients across diverse industries. We are known as a “Cloud & Data” company involved in building and delivering managed services for technology projects. © 2026 Quadrant Technologies. All rights reserved. | Privacy Policy Services Application Services AI & ML Consulting & Advisory Cloud Services Cybersecurity Data and Analytics Services DevSecOps Engineering Services Enterprise Applications Embedded Services IP Services Sustainability Services Services Quality Management Modernization Services Migration Services Microsoft Fabric Solutions Enplify QMigrator Service Infinite Qrest AI Index Veriton IntervueX Azure Optimization Platform UC3 Resources Thought Leadership White Papers Case Study Events Downloadables About About Us CSR Leadership How can we help you? Welcome to Quadrant chat! Disclaimer: This bot only operates based on the provided content.",
+      "_enriched": true,
       "score": 45,
       "isMatch": false,
       "isEng": true,
@@ -2871,7 +2914,8 @@
       "location": "",
       "url": "https://www.quadranttechnologies.com/careers/azure-data-engineer/",
       "team": "",
-      "text": "Azure Data Engineer - Quadrant Technologies WHAT WE DO Services Solutions Industries Application Services AI & ML Consulting & Advisory Cloud Services Cybersecurity Data and Analytics DevSecOps Engineering Services Enterprise Applications Embedded Services IP Services Sustainability Services Quality Management Modernization Services Migration Services Microsoft Fabric Enplify QMigrator Service Infinite Qrest AI Index Veriton IntervueX Azure Optimization Platform UC3 Automotive Aviation BFSI Energy & Utilities Healthcare & Life Sciences High-tech Logistics & Supply Chain Manufacturing Public Sector Retail & Consumer Packaged Goods Telecommunication WHO WE ARE Our Story CSR Contact About Us Leadership RESOURCES Thought leadership White Papers Client Case Studies Events Downloadables Qrest AI Index: A... From Dashboards to AI... AI Tariff Intelligence Platform View All Blogs AI Without Guardrails Is... AI-Augmented Decision Making Transforming Competitive Market Intelligence... View All White Papers Transforming Inbound Logistics with... Reimagining Corporate Travel Analytics... Modernizing Enterprise Leasing &... Integration of advanced Graph... Transforming Healthcare with Azure:... Quadrant Technologies Cut Costs... Reimagining Data Analytics for... BI Automation Portal for... View All Case Studies Microsoft Power Platform Conference... GITEX GLOBAL 2025 Quadrant Technologies at Microsoft... View All Events Let's talk CAREERS EN LATAM - EN LATAM - ES What We Do Services AI & ML Application Services Consultancy and Advisory Cloud Services Cyber Security Data & Analytics DevSecOps Engineering Services Enterprise Applications Embedded Systems IP Services Sustainability Services Quality Assurance Microsoft Fabric Solutions QMigrator Enplify.ai Service Infinite Qrest AI Index Veriton IntervueX Azure Optimization Platform UC3 Industries Automotive Aviation BFSI Energy & Utilities Healthcare & Life Sciences High-tech Logistics & Supply Chain Manufacturing Public Sector Retail & Consumer Packaged Goods Telecommunication Who We Are Our Story About Us Leadership CSR Contact Resources Thought Leadership White Papers Client Case Studies Events Downloadables Region (Language) LATAM - EN LATAM - ES Careers Back to careers Azure Data Engineer Location: Hyderabad / Bangalore (Hybrid) Job Type: Full-time Salary: Negotiable Apply Now Position: Azure Data Engineer Experience: 5 – 8 years Job location: Hyderabad / Bangalore (Hybrid) Notice Period: 0 – 15 days MAX. As an Azure Data Engineer, you will be expected to design, implement, and manage data solutions on the Microsoft Azure cloud platform. The ideal candidate will have a proven track record of writing. complex SQL stored procedures with implementing OTLP database solutions (using Microsoft SQL Server). As well as experience with Azure Synapse / PySpark / Azure Databricks for big data processing. Key Responsibilities: • Collaborate with cross-functional teams to gather, analyze, and document business requirements for data integration projects. • Expertise in T-SQL, Dynamic SQL, Spark SQL, and ability to write complex stored procedures. • Write complex stored procedures to support data transformation and to implement business validation logic. • Experience in writing notebooks in Azure Synapse/Databricks using Spark SQL or PySpark to process and analyse large volumes of data • Develop and maintain robust data pipelines using Azure Data Factory ensuring seamless data flow between systems. • Strong algorithmic programming skills • Work closely with the team to ensure data quality, integrity, and accuracy across all systems. • Experience on OLTP (Online Transaction Processing) systems using SQL Server and contribute to their enhancement and optimization. Qualifications: Bachelor’s degree in Computer Science, Information Technology, or a related field. Hands-on experience in writing complex T-SQL queries and stored procedures Good experience in data integration and database development. Proficiency in T-SQL and Spark SQL/PySpark. (Synapse/ Databricks) Extensive experience with Azure Data Factory Excellent problem-solving skills and attention to detail Apply Now Apply for Azure Data Engineer Phone This field is for validation purposes and should be left unchanged. Name (Required) Email (Required) Phone (Required) Apply For Role Upload Resume (Required) Accepted file types: pdf, docx, Max. file size: 10 MB. Message Δ Close Quadrant Technologies is a global provider of IT services, products, and solutions to our clients across diverse industries. We are known as a “Cloud & Data” company involved in building and delivering managed services for technology projects. © 2026 Quadrant Technologies. All rights reserved. | Privacy Policy Services Application Services AI & ML Consulting & Advisory Cloud Services Cybersecurity Data and Analytics Services DevSecOps Engineering Services Enterprise Applications Embedded Services IP Services Sustainability Services Services Quality Management Modernization Services Migration Services Microsoft Fabric Solutions Enplify QMigrator Service Infinite Qrest AI Index Veriton IntervueX Azure Optimization Platform UC3 Resources Thought Leadership White Papers Case Study Events Downloadables About About Us CSR Leadership How can we help you? Welcome to Quadrant chat! Disclaimer: This bot only operates based on the provided content.",
+      "text": "Azure Data Engineer - Quadrant Technologies WHAT WE DO Services Solutions Industries Application Services AI & ML Consulting & Advisory Cloud Services Cybersecurity Data and Analytics DevSecOps Engineering Services Enterprise Applications Embedded Services IP Services Sustainability Services Quality Management Modernization Services Migration Services Microsoft Fabric Enplify QMigrator Service Infinite Qrest AI Index Veriton IntervueX Azure Optimization Platform UC3 Automotive Aviation BFSI Energy & Utilities Healthcare & Life Sciences High-tech Logistics & Supply Chain Manufacturing Public Sector Retail & Consumer Packaged Goods Telecommunication WHO WE ARE Our Story CSR Contact About Us Leadership RESOURCES Thought leadership White Papers Client Case Studies Events Downloadables Qrest AI Index: A... From Dashboards to AI... AI Tariff Intelligence Platform View All Blogs AI Without Guardrails Is... AI-Augmented Decision Making Transforming Competitive Market Intelligence... View All White Papers Transforming Inbound Logistics with... Reimagining Corporate Travel Analytics... Modernizing Enterprise Leasing &... Integration of advanced Graph... Transforming Healthcare with Azure:... Quadrant Technologies Cut Costs... Reimagining Data Analytics for... BI Automation Portal for... View All Case Studies Microsoft Power Platform Conference... GITEX GLOBAL 2025 Quadrant Technologies at Microsoft... View All Events Let's talk CAREERS EN LATAM - EN LATAM - ES What We Do Services AI & ML Application Services Consultancy and Advisory Cloud Services Cyber Security Data & Analytics DevSecOps Engineering Services Enterprise Applications Embedded Systems IP Services Sustainability Services Quality Assurance Microsoft Fabric Solutions QMigrator Enplify.ai Service Infinite Qrest AI Index Veriton IntervueX Azure Optimization Platform UC3 Industries Automotive Aviation BFSI Energy & Utilities Healthcare & Life Sciences High-tech Logistics & Supply Chain Manufacturing Public Sector Retail & Consumer Packaged Goods Telecommunication Who We Are Our Story About Us Leadership CSR Contact Resources Thought Leadership White Papers Client Case Studies Events Downloadables Region (Language) LATAM - EN LATAM - ES Careers Back to careers Azure Data Engineer Location: Hyderabad / Bangalore (Hybrid) Job Type: Full-time Salary: Negotiable Apply Now Position: Azure Data Engineer Experience: 5 – 8 years Job location: Hyderabad / Bangalore (Hybrid) Notice Period: 0 – 15 days MAX. As an Azure Data Engineer, you will be expected to design, implement, and manage data solutions on the Microsoft Azure cloud platform. The ideal candidate will have a proven track record of writing. complex SQL stored procedures with implementing OTLP database solutions (using Microsoft SQL Server). As well as experience with Azure Synapse / PySpark / Azure Databricks for big data processing. Key Responsibilities: • Collaborate with cross-functional teams to gather, analyze, and document business requirements for data integration projects. • Expertise in T-SQL, Dynamic SQL, Spark SQL, and ability to write complex stored procedures. • Write complex stored procedures to support data transformation and to implement business validation logic. • Experience in writing notebooks in Azure Synapse/Databricks using Spark SQL or PySpark to process and analyse large volumes of data • Develop and maintain robust data pipelines using Azure Data Factory ensuring seamless data flow between systems. • Strong algorithmic programming skills • Work closely with the team to ensure data quality, integrity, and accuracy across all systems. • Experience on OLTP (Online Transaction Processing) systems using SQL Server and contribute to their enhancement and optimization. Qualifications: Bachelor’s degree in Computer Science, Information Technology, or a related field. Hands-on experience in writing complex T-SQL queries and stored procedures Good experience in data integration and database development. Proficiency in T-SQL and Spark SQL/PySpark. (Synapse/ Databricks) Extensive experience with Azure Data Factory Excellent problem-solving skills and attention to detail Apply Now Apply for Azure Data Engineer X/Twitter This field is for validation purposes and should be left unchanged. Name (Required) Email (Required) Phone (Required) Apply For Role Upload Resume (Required) Accepted file types: pdf, docx, Max. file size: 10 MB. Message Δ Close Quadrant Technologies is a global provider of IT services, products, and solutions to our clients across diverse industries. We are known as a “Cloud & Data” company involved in building and delivering managed services for technology projects. © 2026 Quadrant Technologies. All rights reserved. | Privacy Policy Services Application Services AI & ML Consulting & Advisory Cloud Services Cybersecurity Data and Analytics Services DevSecOps Engineering Services Enterprise Applications Embedded Services IP Services Sustainability Services Services Quality Management Modernization Services Migration Services Microsoft Fabric Solutions Enplify QMigrator Service Infinite Qrest AI Index Veriton IntervueX Azure Optimization Platform UC3 Resources Thought Leadership White Papers Case Study Events Downloadables About About Us CSR Leadership How can we help you? Welcome to Quadrant chat! Disclaimer: This bot only operates based on the provided content.",
+      "_enriched": true,
       "score": 45,
       "isMatch": false,
       "isEng": true,
@@ -2930,7 +2974,7 @@
         {
           "url": "https://quadranttechnologies.com/company/careers",
           "status": 200,
-          "bytes": 138043
+          "bytes": 138044
         },
         {
           "url": "https://quadranttechnologies.com/about/careers",
@@ -2940,12 +2984,12 @@
         {
           "url": "https://quadranttechnologies.com/current-openings",
           "status": 404,
-          "bytes": 129369
+          "bytes": 129370
         },
         {
           "url": "https://quadranttechnologies.com/",
           "status": 200,
-          "bytes": 256298
+          "bytes": 256304
         }
       ],
       "candidates": [
@@ -2973,7 +3017,7 @@
         "workable:quadranttechnologies -> no board"
       ]
     },
-    "ms": 9706
+    "ms": 9046
   },
   {
     "company": "Quantum Phinance",
@@ -3061,7 +3105,7 @@
         "workable:quantumphinance -> no board"
       ]
     },
-    "ms": 12531
+    "ms": 12939
   },
   {
     "company": "Quarks Technosoft",
@@ -3169,7 +3213,7 @@
         "workable:quarks -> no board"
       ]
     },
-    "ms": 3565
+    "ms": 4314
   },
   {
     "company": "Qualitest India",
@@ -3226,7 +3270,7 @@
         "workable:qualitestgroup -> no board"
       ]
     },
-    "ms": 19615
+    "ms": 17142
   },
   {
     "company": "Qualys India",
@@ -5537,6 +5581,7 @@
       "text": "Come work at a place where innovation and teamwork come together to support the most exciting missions in the world! Data Platform Architect: We are seeking a highly motivated and talented Data Platform Architect to work on Qualys’ next-generation data platform and middleware. Working alongside a very talented team of engineers and architects, you will be responsible for prototyping, designing, developing and supporting a highly scalable SaaS based cloud security data platform. This is a great opportunity to be an integral part of a team building Qualys’ next generation microservices based technology platform processing over a 100 million transactions and terabytes of data per day, leverage open - source technologies, and work on challenging and business-impacting projects. Responsibilities As a platform architect, you will be responsible for the availability and scalability of Qualys’s relational and NoSQL databases, search engines, graph databases, caches , big data systems and message pipelines. This at the s cale of a million transactions per second in NoSQL databases, across trillions of datapoints in the search engine, billions of messages per day flowing through the message pipelines and scaling 100s of terabytes of data in relational databases all with sub - second latencies . Responsible for driving the data source and providing data platform as a service to all applications built in Qualys. You will be part of the architecture review board reviewing application s’ architecture and identifying the data scale needs. Investigate the cutting - edge technologies , do POC, and then be responsible for defining the guidelines for using the data technologies at scale . Be the face and developer advocate of the stack you own and contribute back to open - source community if any enhancement is needed to fit in the Qualys ecosystem. Applying Machine Learning and AI technologies to improve the availability and performance of data platform services while keeping the operational costs down . Conduct brown bag sessions with application development teams to share guidelines, POC findings and industry trends. You will be instrumenting both day 1 and day 2 operations on these data technologies, keeping the 100s of thousands if not millions of operations per second. Migrate or burst into cloud and scale the stack with zero downtime. You will also be responsible for reviewing the cloud-native architecture of data platform technologies. You will be constantly in the hunt for better solutions out there to resolve the current issues with scal e , availability, and costs across cloud platforms. Co-develop with a strong sense of ownership, Qualys’ big-data platform that scales to meet/exceed the demands of processing over 100 million transactions and terabytes of data per day. Architecture, performance, scalability, high availability, and security will be your primary goals for delivering a first-rate experience to our customers. Work closely with engineering teams, product management and operations to provide platform and infrastructure features and components to support Qualys’ business objectives . A day in the life… Apply advanced concepts, theories, and principles to create multi-disciplinary innovations and solutions for the most complex or risky data source related situations Contribute to the development of new data platform principles and concepts Collaborate with and suggest best practices to application teams in Qualys Provide thought leadership across multiple teams to ensure that systems and services are designed, and operating to achieve optimal levels of performance, reliability and sustainability interacting with data platform in Qualys Ensure security coding practices and security system fundamentals across multiple teams Demonstrate ability to identify important areas to instrument across multiple teams Who you are... A trendsetter. You thrive in an intellectually challenging environment with leading edge technologies. A teacher. You’re able to mentor your peers and help our team grow. A learner. You have an insatiable thirst for knowledge and greater understanding. A pragmatist. Your goal is to create useful products, not build technology for technology’s sake. An empath. You understand what the customer needs and use that perspective to create the best user experience. How we work... With others. We have remote pairing tools where engineers often work together, as well as virtual collaboration tools for building architecture solutions. With transparency. We encourage open dialog and discourse. We don’t encourage silos. With agility. We don’t believe in following a process for the sake of the process . We ship frequently and focus on delivering incremental value. With open minds . We are committed to building a diverse team of people with unique perspectives. This encourages a healthy and inclusive environment that builds a more sustainable, successful company. With pride. We value our people most of all. We invest in ourselves by applying our own strengths and interests to company needs. Qualifications BS/MS degree in Computer Science o r related field. 1 2 + years of hands-on experience with developing SaaS-based software products and solutions for service-oriented deployments in public (AWS, GCP, Azure, OCI, etc.) or private clouds. Prior experience as a lead engineer or architect. Prior experience with RDBMS systems and NoSQL databases. Proven expertise in data-driven critical thinking problem-solving Ability to debug systems of software and people Demonstrated ability to write high-quality, production-ready code (readable, well-tested, with well-designed APIs) Demonstrated passion for innovation with an ability to work within agile software development methodologies Experience with infrastructure orchestration and automation tools (Terraform) Hands-on experience using CI/CD pipelines Data platform design / build utilizing Cassandra, Redis, Elasticsearch, Kafka, Ceph , Flink , Spark or similar technologies Java programming skills including object-oriented design, prototyping, development, testing, profiling, etc. Knowledge of JVM concepts like garbage collection, heap, stack, profiling, class loading, etc. Strong in data structures and algorithms. Ability to clearly articulate and communicate technical concepts within and across teams. Knowledge of the below is a plus Built a data platform from the ground up is a huge plus . Contributions to any open - source technologies Experience with data encryption and data security standards. Experience with container and orchestration technologies such as Docker, Kubernetes, etc. Experience with monitoring tools such as Graphite, Grafana, and Prometheus. Experience with HashiCorp technologies such as Consul, Vault , and Terraform . Experience with configuration management tools such as Chef, Puppet, or Ansible. In-depth experience with continuous integration and continuous deployment pipelines. Exposure to Maven, Ant or Gradle for builds.",
       "_detail": "https://qualys.wd5.myworkdayjobs.com/wday/cxs/qualys/Careers/job/Pune/Architect-Software-Engineer_R0004911",
       "_detailKind": "workday",
+      "_enriched": true,
       "score": 78,
       "isMatch": false,
       "isEng": true,
@@ -5562,6 +5607,7 @@
       "text": "Come work at a place where innovation and teamwork come together to support the most exciting missions in the world! Data Platform Architect: We are seeking a highly motivated and talented Data Platform Architect to work on Qualys’ next-generation data platform and middleware. Working alongside a very talented team of engineers and architects, you will be responsible for prototyping, designing, developing and supporting a highly scalable SaaS based cloud security data platform. This is a great opportunity to be an integral part of a team building Qualys’ next generation microservices based technology platform processing over a 100 million transactions and terabytes of data per day, leverage open - source technologies, and work on challenging and business-impacting projects. Responsibilities As a platform architect, you will be responsible for the availability and scalability of Qualys’s relational and NoSQL databases, search engines, graph databases, caches , big data systems and message pipelines. This at the s cale of a million transactions per second in NoSQL databases, across trillions of datapoints in the search engine, billions of messages per day flowing through the message pipelines and scaling 100s of terabytes of data in relational databases all with sub - second latencies . Responsible for driving the data source and providing data platform as a service to all applications built in Qualys. You will be part of the architecture review board reviewing application s’ architecture and identifying the data scale needs. Investigate the cutting - edge technologies , do POC, and then be responsible for defining the guidelines for using the data technologies at scale . Be the face and developer advocate of the stack you own and contribute back to open - source community if any enhancement is needed to fit in the Qualys ecosystem. Applying Machine Learning and AI technologies to improve the availability and performance of data platform services while keeping the operational costs down . Conduct brown bag sessions with application development teams to share guidelines, POC findings and industry trends. You will be instrumenting both day 1 and day 2 operations on these data technologies, keeping the 100s of thousands if not millions of operations per second. Migrate or burst into cloud and scale the stack with zero downtime. You will also be responsible for reviewing the cloud-native architecture of data platform technologies. You will be constantly in the hunt for better solutions out there to resolve the current issues with scal e , availability, and costs across cloud platforms. Co-develop with a strong sense of ownership, Qualys’ big-data platform that scales to meet/exceed the demands of processing over 100 million transactions and terabytes of data per day. Architecture, performance, scalability, high availability, and security will be your primary goals for delivering a first-rate experience to our customers. Work closely with engineering teams, product management and operations to provide platform and infrastructure features and components to support Qualys’ business objectives . A day in the life… Apply advanced concepts, theories, and principles to create multi-disciplinary innovations and solutions for the most complex or risky data source related situations Contribute to the development of new data platform principles and concepts Collaborate with and suggest best practices to application teams in Qualys Provide thought leadership across multiple teams to ensure that systems and services are designed, and operating to achieve optimal levels of performance, reliability and sustainability interacting with data platform in Qualys Ensure security coding practices and security system fundamentals across multiple teams Demonstrate ability to identify important areas to instrument across multiple teams Who you are... A trendsetter. You thrive in an intellectually challenging environment with leading edge technologies. A teacher. You’re able to mentor your peers and help our team grow. A learner. You have an insatiable thirst for knowledge and greater understanding. A pragmatist. Your goal is to create useful products, not build technology for technology’s sake. An empath. You understand what the customer needs and use that perspective to create the best user experience. How we work... With others. We have remote pairing tools where engineers often work together, as well as virtual collaboration tools for building architecture solutions. With transparency. We encourage open dialog and discourse. We don’t encourage silos. With agility. We don’t believe in following a process for the sake of the process . We ship frequently and focus on delivering incremental value. With open minds . We are committed to building a diverse team of people with unique perspectives. This encourages a healthy and inclusive environment that builds a more sustainable, successful company. With pride. We value our people most of all. We invest in ourselves by applying our own strengths and interests to company needs. Qualifications BS/MS degree in Computer Science o r related field. 1 2 + years of hands-on experience with developing SaaS-based software products and solutions for service-oriented deployments in public (AWS, GCP, Azure, OCI, etc.) or private clouds. Prior experience as a lead engineer or architect. Prior experience with RDBMS systems and NoSQL databases. Proven expertise in data-driven critical thinking problem-solving Ability to debug systems of software and people Demonstrated ability to write high-quality, production-ready code (readable, well-tested, with well-designed APIs) Demonstrated passion for innovation with an ability to work within agile software development methodologies Experience with infrastructure orchestration and automation tools (Terraform) Hands-on experience using CI/CD pipelines Data platform design / build utilizing Cassandra, Redis, Elasticsearch, Kafka, Ceph , Flink , Spark or similar technologies Java programming skills including object-oriented design, prototyping, development, testing, profiling, etc. Knowledge of JVM concepts like garbage collection, heap, stack, profiling, class loading, etc. Strong in data structures and algorithms. Ability to clearly articulate and communicate technical concepts within and across teams. Knowledge of the below is a plus Built a data platform from the ground up is a huge plus . Contributions to any open - source technologies Experience with data encryption and data security standards. Experience with container and orchestration technologies such as Docker, Kubernetes, etc. Experience with monitoring tools such as Graphite, Grafana, and Prometheus. Experience with HashiCorp technologies such as Consul, Vault , and Terraform . Experience with configuration management tools such as Chef, Puppet, or Ansible. In-depth experience with continuous integration and continuous deployment pipelines. Exposure to Maven, Ant or Gradle for builds.",
       "_detail": "https://qualys.wd5.myworkdayjobs.com/wday/cxs/qualys/Careers/job/Pune/Architect-Software-Engineer_R0004911",
       "_detailKind": "workday",
+      "_enriched": true,
       "score": 78,
       "isMatch": false,
       "isEng": true,
@@ -5590,17 +5636,17 @@
         {
           "url": "https://qualys.com/careers",
           "status": 200,
-          "bytes": 121187
+          "bytes": 120819
         },
         {
           "url": "https://qualys.com/career",
           "status": 404,
-          "bytes": 54931
+          "bytes": 54974
         },
         {
           "url": "https://qualys.com/jobs",
           "status": 404,
-          "bytes": 54923
+          "bytes": 54964
         }
       ],
       "candidates": [
@@ -5615,7 +5661,7 @@
         "workday:qualys -> 148 jobs"
       ]
     },
-    "ms": 10559
+    "ms": 10396
   },
   {
     "company": "Quantsapp",
@@ -5791,14 +5837,14 @@
         "workable:quantzig -> no board"
       ]
     },
-    "ms": 29900
+    "ms": 29916
   },
   {
     "company": "Quest Software India",
     "country": "India",
     "source": "icims:quest",
     "error": null,
-    "totalJobs": 22,
+    "totalJobs": 23,
     "jobs": [
       {
         "title": "Salesforce Developer",
@@ -6043,6 +6089,21 @@
         "score": -3
       },
       {
+        "title": "Customer Success Manager (Cork, Ireland - Hybrid)",
+        "location": "",
+        "url": "https://careers-quest.icims.com/jobs/13600/customer-success-manager-%28cork%2c-ireland---hybrid%29/job",
+        "india": true,
+        "locationSaysIndia": false,
+        "hasLocation": false,
+        "isEng": false,
+        "java": false,
+        "flutter": false,
+        "senior": true,
+        "exp": [],
+        "expFits2": false,
+        "score": -3
+      },
+      {
         "title": "VP, Professional Services",
         "location": "",
         "url": "https://careers-quest.icims.com/jobs/13588/vp%2c-professional-services/job",
@@ -6174,6 +6235,7 @@
       "text": "Overview Quest Software is looking for a talented Salesforce Developer to join our Global IT team and help drive the evolution of our Salesforce ecosystem. In this role, you'll work on business-critical applications that support our global Go-To-Market organization, partnering with Sales, Customer Success, Marketing, Finance, and IT teams. You'll design and build scalable Salesforce solutions, develop integrations with enterprise platforms, and help shape the future of our commercial technology landscape. This is an excellent opportunity for someone who enjoys solving complex business challenges, working with modern Salesforce technologies, and making a direct impact on how a global software company operates. Responsibilities Design, develop, and enhance Salesforce solutions using Apex, Lightning Web Components (LWC), Visualforce, and declarative platform capabilities. Solve complex business challenges through a combination of configuration, custom development, and system integrations. Build scalable automation using Salesforce Flows and other platform tools. Develop and maintain integrations between Salesforce and enterprise platforms using APIs and middleware technologies such as Boomi. Partner closely with business stakeholders to understand requirements and translate them into effective technical solutions. Collaborate with cross-functional teams supporting Sales, Customer Success, Finance, and Operations to ensure end-to-end process alignment. Support Salesforce applications connected through managed packages and third-party GTM platforms. Follow development best practices, including code reviews, documentation, testing, and release management. Contribute to CI/CD processes using tools such as Copado and Azure DevOps. Troubleshoot and resolve complex technical issues while providing excellent support to internal users. Stay current with emerging Salesforce technologies, AI capabilities, and industry best practices. Qualifications Required Skills & Experience 4+ years of software development experience, including at least 2 years building and customizing solutions on the Salesforce Lightning Platform. Strong experience with: Apex Lightning Web Components (LWC) Lightning Experience Salesforce Flows Visualforce SOQL and Salesforce data management Experience integrating Salesforce with external applications through APIs and web services. Salesforce CPQ Service Cloud Experience Cloud Agentforce Slack for Salesforce Boomi integrations Eloqua Gainsight Gong Aviso Education Bachelor's degree in Computer Science, Information Systems, Engineering, or a related field, or equivalent professional experience. Preferred Certifications Salesforce Platform Developer I Salesforce Platform App Builder Salesforce Lightning Experience Specialist Salesforce Lightning Component Framework Specialist In compliance with the EU Pay Transparency Directive, the compensation for this role will start from €70,600 annually. Actual compensation will vary based on experience, qualifications, and performance. If eligible, commission or bonus is governed by a formal corporate plan. Benefit offering is based on a country-by-country basis Quest Software builds the foundation for enterprise AI with solutions in data governance, cybersecurity, and platform modernization . More than 45,000 companies, including 90% of the Fortune 500, trust Quest to solve their most critical IT challenges. From securing identities and modernizing platforms to preparing data for AI, we help enterprises unlock their full potential. Why Quest At Quest, your work makes an impact. You’ll help organizations get AI-ready while building your career with a global team of innovators. We offer: Competitive pay, annual bonuses, and top-performer recognition. Comprehensive health, family, and retirement benefits. Flexible work options, generous PTO, and wellness programs. Professional growth through learning platforms, mentorship, and leadership programs. Inclusive teams that reflect the world we serve, supported by Employee Resource Groups and our Equality & Inclusion Council. Quest is an Equal Opportunity Employer and Prohibits Discrimination and Harassment of Any Kind: Quest is committed to the principle of equal employment opportunity for all employees and to providing employees with a work environment free of discrimination and harassment. All employment decisions at Quest are based on business needs, job requirements, and individual qualifications, without regard to race, color, religion, or belief, national, social, or ethnic origin, sex (including pregnancy), age, physical, mental, or sensory disability, HIV Status, sexual orientation, gender identity and/or expression, marital, civil union, or domestic partnership status, past or present military service, family medical history or genetic information, family or parental status, or any other status protected by the laws or regulations in the locations where we operate. Quest will not tolerate discrimination or harassment based on any of these characteristics. Quest encourages applicants of all ages. Come join us. For more information, visit us on the web at Quest Careers Innovate.Collaborate.Grow Job seekers should be aware of fraudulent job offers from online scammers and only apply to roles listed on quest.com/careers using our applicant system. Note: We do not use text messaging or third-party messaging apps like Telegram to communicate with applicants, so please exercise caution if you are approached in this way and only interact with people claiming to be Quest employees if they have an email address ending in @quest.com. #LI-AT1",
       "_detail": "https://careers-quest.icims.com/jobs/13535/salesforce-developer/job?in_iframe=1",
       "_detailKind": "html",
+      "_enriched": true,
       "score": 60,
       "isMatch": false,
       "isEng": true,
@@ -6203,6 +6265,7 @@
       "text": "Overview Quest Software is looking for a talented Salesforce Developer to join our Global IT team and help drive the evolution of our Salesforce ecosystem. In this role, you'll work on business-critical applications that support our global Go-To-Market organization, partnering with Sales, Customer Success, Marketing, Finance, and IT teams. You'll design and build scalable Salesforce solutions, develop integrations with enterprise platforms, and help shape the future of our commercial technology landscape. This is an excellent opportunity for someone who enjoys solving complex business challenges, working with modern Salesforce technologies, and making a direct impact on how a global software company operates. Responsibilities Design, develop, and enhance Salesforce solutions using Apex, Lightning Web Components (LWC), Visualforce, and declarative platform capabilities. Solve complex business challenges through a combination of configuration, custom development, and system integrations. Build scalable automation using Salesforce Flows and other platform tools. Develop and maintain integrations between Salesforce and enterprise platforms using APIs and middleware technologies such as Boomi. Partner closely with business stakeholders to understand requirements and translate them into effective technical solutions. Collaborate with cross-functional teams supporting Sales, Customer Success, Finance, and Operations to ensure end-to-end process alignment. Support Salesforce applications connected through managed packages and third-party GTM platforms. Follow development best practices, including code reviews, documentation, testing, and release management. Contribute to CI/CD processes using tools such as Copado and Azure DevOps. Troubleshoot and resolve complex technical issues while providing excellent support to internal users. Stay current with emerging Salesforce technologies, AI capabilities, and industry best practices. Qualifications Required Skills & Experience 4+ years of software development experience, including at least 2 years building and customizing solutions on the Salesforce Lightning Platform. Strong experience with: Apex Lightning Web Components (LWC) Lightning Experience Salesforce Flows Visualforce SOQL and Salesforce data management Experience integrating Salesforce with external applications through APIs and web services. Salesforce CPQ Service Cloud Experience Cloud Agentforce Slack for Salesforce Boomi integrations Eloqua Gainsight Gong Aviso Education Bachelor's degree in Computer Science, Information Systems, Engineering, or a related field, or equivalent professional experience. Preferred Certifications Salesforce Platform Developer I Salesforce Platform App Builder Salesforce Lightning Experience Specialist Salesforce Lightning Component Framework Specialist In compliance with the EU Pay Transparency Directive, the compensation for this role will start from €70,600 annually. Actual compensation will vary based on experience, qualifications, and performance. If eligible, commission or bonus is governed by a formal corporate plan. Benefit offering is based on a country-by-country basis Quest Software builds the foundation for enterprise AI with solutions in data governance, cybersecurity, and platform modernization . More than 45,000 companies, including 90% of the Fortune 500, trust Quest to solve their most critical IT challenges. From securing identities and modernizing platforms to preparing data for AI, we help enterprises unlock their full potential. Why Quest At Quest, your work makes an impact. You’ll help organizations get AI-ready while building your career with a global team of innovators. We offer: Competitive pay, annual bonuses, and top-performer recognition. Comprehensive health, family, and retirement benefits. Flexible work options, generous PTO, and wellness programs. Professional growth through learning platforms, mentorship, and leadership programs. Inclusive teams that reflect the world we serve, supported by Employee Resource Groups and our Equality & Inclusion Council. Quest is an Equal Opportunity Employer and Prohibits Discrimination and Harassment of Any Kind: Quest is committed to the principle of equal employment opportunity for all employees and to providing employees with a work environment free of discrimination and harassment. All employment decisions at Quest are based on business needs, job requirements, and individual qualifications, without regard to race, color, religion, or belief, national, social, or ethnic origin, sex (including pregnancy), age, physical, mental, or sensory disability, HIV Status, sexual orientation, gender identity and/or expression, marital, civil union, or domestic partnership status, past or present military service, family medical history or genetic information, family or parental status, or any other status protected by the laws or regulations in the locations where we operate. Quest will not tolerate discrimination or harassment based on any of these characteristics. Quest encourages applicants of all ages. Come join us. For more information, visit us on the web at Quest Careers Innovate.Collaborate.Grow Job seekers should be aware of fraudulent job offers from online scammers and only apply to roles listed on quest.com/careers using our applicant system. Note: We do not use text messaging or third-party messaging apps like Telegram to communicate with applicants, so please exercise caution if you are approached in this way and only interact with people claiming to be Quest employees if they have an email address ending in @quest.com. #LI-AT1",
       "_detail": "https://careers-quest.icims.com/jobs/13535/salesforce-developer/job?in_iframe=1",
       "_detailKind": "html",
+      "_enriched": true,
       "score": 60,
       "isMatch": false,
       "isEng": true,
@@ -6257,10 +6320,10 @@
         "workable:quest(guess)"
       ],
       "attempts": [
-        "icims:quest -> 22 jobs"
+        "icims:quest -> 23 jobs"
       ]
     },
-    "ms": 11812
+    "ms": 12414
   },
   {
     "company": "Questmarketresearch",
@@ -6358,7 +6421,7 @@
         "workable:questmarketresearch -> no board"
       ]
     },
-    "ms": 2183
+    "ms": 2085
   },
   {
     "company": "Quicko",
@@ -6453,7 +6516,7 @@
         "workable:quicko -> no board"
       ]
     },
-    "ms": 4321
+    "ms": 4100
   },
   {
     "company": "Quikr",
@@ -7010,7 +7073,7 @@
         {
           "url": "https://quikr.com/careers",
           "status": 404,
-          "bytes": 39205
+          "bytes": 39204
         },
         {
           "url": "https://quikr.com/career",
@@ -7045,12 +7108,12 @@
         {
           "url": "https://quikr.com/about/careers",
           "status": 404,
-          "bytes": 39205
+          "bytes": 39204
         },
         {
           "url": "https://quikr.com/current-openings",
           "status": 404,
-          "bytes": 39205
+          "bytes": 39204
         },
         {
           "url": "https://quikr.com/",
@@ -7073,14 +7136,14 @@
         "workable:quikr -> no board"
       ]
     },
-    "ms": 15676
+    "ms": 15768
   },
   {
     "company": "Quinstreet India",
     "country": "India",
     "source": "greenhouse:quinstreet",
     "error": null,
-    "totalJobs": 31,
+    "totalJobs": 32,
     "jobs": [
       {
         "title": "Backend Engineer– Java",
@@ -7315,6 +7378,30 @@
         "score": 48
       },
       {
+        "title": "Marketing Operations Associate",
+        "location": "Monterrey, Mexico",
+        "url": "https://www.quinstreet.com/careers/?gh_jid=8105844",
+        "india": false,
+        "locationSaysIndia": false,
+        "hasLocation": true,
+        "isEng": false,
+        "java": false,
+        "flutter": false,
+        "senior": false,
+        "exp": [
+          [
+            2,
+            6
+          ],
+          [
+            20,
+            24
+          ]
+        ],
+        "expFits2": true,
+        "score": 42
+      },
+      {
         "title": "Sales Operations Associate",
         "location": "United States",
         "url": "https://www.quinstreet.com/careers/?gh_jid=8020016",
@@ -7365,7 +7452,7 @@
       {
         "title": "Mid-Market Sales Executive",
         "location": "United States",
-        "url": "https://www.quinstreet.com/careers/?gh_jid=8002330",
+        "url": "https://www.quinstreet.com/careers/?gh_jid=7914052",
         "india": false,
         "locationSaysIndia": false,
         "hasLocation": true,
@@ -7389,7 +7476,7 @@
       {
         "title": "Mid-Market Sales Executive",
         "location": "United States",
-        "url": "https://www.quinstreet.com/careers/?gh_jid=7914052",
+        "url": "https://www.quinstreet.com/careers/?gh_jid=8002330",
         "india": false,
         "locationSaysIndia": false,
         "hasLocation": true,
@@ -8044,10 +8131,10 @@
         "workable:quinstreet(guess)"
       ],
       "attempts": [
-        "greenhouse:quinstreet -> 31 jobs"
+        "greenhouse:quinstreet -> 32 jobs"
       ]
     },
-    "ms": 13765
+    "ms": 13838
   },
   {
     "company": "Qapita",
@@ -8135,7 +8222,7 @@
         "workable:qapita -> no board"
       ]
     },
-    "ms": 13029
+    "ms": 13605
   },
   {
     "company": "Qoala",
@@ -8198,7 +8285,7 @@
         "workable:qoala -> no board"
       ]
     },
-    "ms": 24081
+    "ms": 26905
   },
   {
     "company": "Qriocity",
@@ -8286,6 +8373,6 @@
         "workable:qriocity -> no board"
       ]
     },
-    "ms": 2716
+    "ms": 4217
   }
 ]

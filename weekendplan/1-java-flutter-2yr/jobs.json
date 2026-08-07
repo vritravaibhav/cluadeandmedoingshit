@@ -1,130 +1,5 @@
 [
  {
-  "letter": "e",
-  "company": "Etelligens Technologies",
-  "country": "India",
-  "board": "wordpress:https://www.etelligens.com",
-  "title": "React Native Developer",
-  "location": "",
-  "url": "https://www.etelligens.com/career/reactnativedeveloper/",
-  "india": true,
-  "isEng": true,
-  "senior": false,
-  "java": true,
-  "flutter": true,
-  "score": 128,
-  "exp": [
-   [
-    2,
-    6
-   ]
-  ],
-  "fits2": true,
-  "fits3": true,
-  "unstated": false,
-  "ambiguous": false
- },
- {
-  "letter": "e",
-  "company": "Etelligens Technologies",
-  "country": "India",
-  "board": "wordpress:https://www.etelligens.com",
-  "title": "Drupal Developer",
-  "location": "",
-  "url": "https://www.etelligens.com/career/phpdeveloper/",
-  "india": true,
-  "isEng": true,
-  "senior": false,
-  "java": true,
-  "flutter": true,
-  "score": 128,
-  "exp": [
-   [
-    2,
-    3
-   ]
-  ],
-  "fits2": true,
-  "fits3": true,
-  "unstated": false,
-  "ambiguous": false
- },
- {
-  "letter": "k",
-  "company": "Kody Technolab",
-  "country": "India",
-  "board": "wordpress:https://kodytechnolab.com",
-  "title": "Robotics Engineer – ROS2 Development",
-  "location": "",
-  "url": "https://kodytechnolab.com/career/robotics-engineer-ros2-development/",
-  "india": true,
-  "isEng": true,
-  "senior": false,
-  "java": true,
-  "flutter": true,
-  "score": 128,
-  "exp": [
-   [
-    2,
-    10
-   ]
-  ],
-  "fits2": true,
-  "fits3": true,
-  "unstated": false,
-  "ambiguous": false
- },
- {
-  "letter": "t",
-  "company": "TO THE NEW",
-  "country": "India",
-  "board": "html:https://www.tothenew.com/careers",
-  "title": "Software Engineer - Business Intelligence",
-  "location": "",
-  "url": "https://www.tothenew.com/careers/software_engineer_business_intelligence",
-  "india": true,
-  "isEng": true,
-  "senior": false,
-  "java": true,
-  "flutter": true,
-  "score": 128,
-  "exp": [
-   [
-    2,
-    4
-   ]
-  ],
-  "fits2": true,
-  "fits3": true,
-  "unstated": false,
-  "ambiguous": false
- },
- {
-  "letter": "t",
-  "company": "TO THE NEW",
-  "country": "India",
-  "board": "html:https://www.tothenew.com/careers",
-  "title": "Cloud Engineer",
-  "location": "",
-  "url": "https://www.tothenew.com/careers/cloud_engineer",
-  "india": true,
-  "isEng": true,
-  "senior": false,
-  "java": true,
-  "flutter": true,
-  "score": 128,
-  "exp": [
-   [
-    2,
-    4
-   ]
-  ],
-  "fits2": true,
-  "fits3": true,
-  "unstated": false,
-  "ambiguous": false
- },
- {
   "letter": "f",
   "company": "FloBiz",
   "country": "India",
@@ -192,35 +67,6 @@
    [
     1,
     3
-   ]
-  ],
-  "fits2": true,
-  "fits3": true,
-  "unstated": false,
-  "ambiguous": false
- },
- {
-  "letter": "g",
-  "company": "Grazitti Interactive",
-  "country": "India",
-  "board": "wordpress:https://www.grazitti.com",
-  "title": "Adobe Commerce (Magento) Junior Developer",
-  "location": "",
-  "url": "https://www.grazitti.com/job/adobe-commerce-magento-junior-developer/",
-  "india": true,
-  "isEng": true,
-  "senior": false,
-  "java": true,
-  "flutter": false,
-  "score": 112,
-  "exp": [
-   [
-    1,
-    3
-   ],
-   [
-    3,
-    4
    ]
   ],
   "fits2": true,
@@ -358,35 +204,6 @@
   "ambiguous": false
  },
  {
-  "letter": "w",
-  "company": "Wipro",
-  "country": "India",
-  "board": "successfactors:wipro",
-  "title": "AI ENGINEER L1",
-  "location": "Bengaluru, IND-29, IN, 560035",
-  "url": "https://careers.wipro.com/job/Bengaluru-AI-ENGINEER-L1-IND-560035/1354795355/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-  "india": true,
-  "isEng": true,
-  "senior": false,
-  "java": true,
-  "flutter": false,
-  "score": 112,
-  "exp": [
-   [
-    2,
-    5
-   ],
-   [
-    3,
-    5
-   ]
-  ],
-  "fits2": true,
-  "fits3": true,
-  "unstated": false,
-  "ambiguous": false
- },
- {
   "letter": "n",
   "company": "Nelito Systems",
   "country": "India",
@@ -479,6 +296,35 @@
    [
     2,
     4
+   ]
+  ],
+  "fits2": true,
+  "fits3": true,
+  "unstated": false,
+  "ambiguous": false
+ },
+ {
+  "letter": "a",
+  "company": "Autodesk",
+  "country": "United States",
+  "board": "workday:autodesk",
+  "title": "Software Engineer",
+  "location": "Pune, IND",
+  "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Pune-IND/Software-Engineer_26WD96707-1",
+  "india": true,
+  "isEng": true,
+  "senior": false,
+  "java": true,
+  "flutter": false,
+  "score": 100,
+  "exp": [
+   [
+    2,
+    6
+   ],
+   [
+    1,
+    5
    ]
   ],
   "fits2": true,
@@ -1636,47 +1482,6 @@
   "ambiguous": true
  },
  {
-  "letter": "y",
-  "company": "Yudiz Solutions",
-  "country": "India",
-  "board": "feed:https://www.yudiz.com",
-  "title": "React Native Developer",
-  "location": "",
-  "url": "https://www.yudiz.com/join-our-team/react-native-developer/",
-  "india": true,
-  "isEng": true,
-  "senior": false,
-  "java": true,
-  "flutter": true,
-  "score": 128,
-  "exp": [
-   [
-    1,
-    3
-   ],
-   [
-    5,
-    5
-   ],
-   [
-    5,
-    9
-   ],
-   [
-    2,
-    6
-   ],
-   [
-    3,
-    4
-   ]
-  ],
-  "fits2": true,
-  "fits3": true,
-  "unstated": false,
-  "ambiguous": true
- },
- {
   "letter": "i",
   "company": "iTech India",
   "country": "India",
@@ -1784,47 +1589,6 @@
    [
     12,
     13
-   ]
-  ],
-  "fits2": true,
-  "fits3": true,
-  "unstated": false,
-  "ambiguous": true
- },
- {
-  "letter": "y",
-  "company": "Yudiz Solutions",
-  "country": "India",
-  "board": "feed:https://www.yudiz.com",
-  "title": "NodeJS Developer",
-  "location": "",
-  "url": "https://www.yudiz.com/join-our-team/nodejs-developer/",
-  "india": true,
-  "isEng": true,
-  "senior": false,
-  "java": false,
-  "flutter": true,
-  "score": 103,
-  "exp": [
-   [
-    2,
-    4
-   ],
-   [
-    5,
-    5
-   ],
-   [
-    5,
-    9
-   ],
-   [
-    2,
-    6
-   ],
-   [
-    4,
-    5
    ]
   ],
   "fits2": true,
@@ -1996,8 +1760,8 @@
     15
    ],
    [
-    8,
-    10
+    1,
+    2
    ]
   ],
   "fits2": true,
@@ -2027,105 +1791,6 @@
    [
     5,
     6
-   ]
-  ],
-  "fits2": true,
-  "fits3": true,
-  "unstated": false,
-  "ambiguous": true
- },
- {
-  "letter": "n",
-  "company": "Nineleaps",
-  "country": "India",
-  "board": "feed:https://www.nineleaps.com",
-  "title": "Full Stack Developer",
-  "location": "",
-  "url": "https://www.nineleaps.com/job/full-stack-developer/",
-  "india": true,
-  "isEng": true,
-  "senior": false,
-  "java": true,
-  "flutter": false,
-  "score": 100,
-  "exp": [
-   [
-    2,
-    5
-   ],
-   [
-    5,
-    8
-   ],
-   [
-    5,
-    6
-   ]
-  ],
-  "fits2": true,
-  "fits3": true,
-  "unstated": false,
-  "ambiguous": true
- },
- {
-  "letter": "n",
-  "company": "Nineleaps",
-  "country": "India",
-  "board": "feed:https://www.nineleaps.com",
-  "title": "AI Engineer",
-  "location": "",
-  "url": "https://www.nineleaps.com/job/ai-engineer/",
-  "india": true,
-  "isEng": true,
-  "senior": false,
-  "java": true,
-  "flutter": false,
-  "score": 100,
-  "exp": [
-   [
-    2,
-    4
-   ],
-   [
-    5,
-    8
-   ]
-  ],
-  "fits2": true,
-  "fits3": true,
-  "unstated": false,
-  "ambiguous": true
- },
- {
-  "letter": "n",
-  "company": "Nineleaps",
-  "country": "India",
-  "board": "feed:https://www.nineleaps.com",
-  "title": "Software Developer (Golang)",
-  "location": "",
-  "url": "https://www.nineleaps.com/job/software-developer-golang/",
-  "india": true,
-  "isEng": true,
-  "senior": false,
-  "java": true,
-  "flutter": false,
-  "score": 100,
-  "exp": [
-   [
-    4,
-    6
-   ],
-   [
-    5,
-    8
-   ],
-   [
-    2,
-    6
-   ],
-   [
-    6,
-    7
    ]
   ],
   "fits2": true,
@@ -2349,24 +2014,45 @@
   "ambiguous": true
  },
  {
-  "letter": "e",
-  "company": "Etelligens Technologies",
+  "letter": "y",
+  "company": "Yudiz Solutions",
   "country": "India",
-  "board": "wordpress:https://www.etelligens.com",
-  "title": "Full Stack Developer",
+  "board": "feed:https://www.yudiz.com",
+  "title": "React Native Developer",
   "location": "",
-  "url": "https://www.etelligens.com/career/fullstackdeveloper/",
+  "url": "https://www.yudiz.com/join-our-team/react-native-developer/",
   "india": true,
   "isEng": true,
   "senior": false,
   "java": true,
-  "flutter": true,
-  "score": 102,
-  "exp": [],
-  "fits2": false,
-  "fits3": false,
-  "unstated": true,
-  "ambiguous": false
+  "flutter": false,
+  "score": 100,
+  "exp": [
+   [
+    1,
+    3
+   ],
+   [
+    5,
+    5
+   ],
+   [
+    5,
+    9
+   ],
+   [
+    2,
+    6
+   ],
+   [
+    3,
+    4
+   ]
+  ],
+  "fits2": true,
+  "fits3": true,
+  "unstated": false,
+  "ambiguous": true
  },
  {
   "letter": "h",
@@ -2873,9 +2559,9 @@
   "company": "Adobe",
   "country": "United States",
   "board": "phenom:_self",
-  "title": "Software Quality Engineer 2",
+  "title": "Software Development Engineer 3 - Native Android",
   "location": "Noida, Uttar Pradesh",
-  "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Software-Quality-Engineer-2_R169340/apply",
+  "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Software-Development-Engineer-3---Native-Android_R168159/apply",
   "india": true,
   "isEng": true,
   "senior": false,
@@ -2893,9 +2579,9 @@
   "company": "Adobe",
   "country": "United States",
   "board": "phenom:_self",
-  "title": "Software Development Engineer 3 - Native Android",
+  "title": "Software Quality Engineer 2",
   "location": "Noida, Uttar Pradesh",
-  "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Software-Development-Engineer-3---Native-Android_R168159/apply",
+  "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Software-Quality-Engineer-2_R169340/apply",
   "india": true,
   "isEng": true,
   "senior": false,
@@ -3153,9 +2839,9 @@
   "company": "eBay",
   "country": "United States",
   "board": "phenom:_self",
-  "title": "AI Platform Engineer",
+  "title": "MTS2, Software Engineer",
   "location": "Bengaluru, Karnātaka",
-  "url": "https://ebay.wd5.myworkdayjobs.com/apply/job/Bengaluru-India/AI-Platform-Engineer_R0074428/apply",
+  "url": "https://ebay.wd5.myworkdayjobs.com/apply/job/Bengaluru-India/MTS2--Software-Engineer_R0072717/apply",
   "india": true,
   "isEng": true,
   "senior": false,
@@ -3173,9 +2859,9 @@
   "company": "eBay",
   "country": "United States",
   "board": "phenom:_self",
-  "title": "MTS2, Software Engineer",
+  "title": "AI Platform Engineer",
   "location": "Bengaluru, Karnātaka",
-  "url": "https://ebay.wd5.myworkdayjobs.com/apply/job/Bengaluru-India/MTS2--Software-Engineer_R0072717/apply",
+  "url": "https://ebay.wd5.myworkdayjobs.com/apply/job/Bengaluru-India/AI-Platform-Engineer_R0074428/apply",
   "india": true,
   "isEng": true,
   "senior": false,
@@ -3253,106 +2939,6 @@
   "company": "eBay",
   "country": "United States",
   "board": "phenom:_self",
-  "title": "Software Engineer 3",
-  "location": "Bengaluru, Karnātaka",
-  "url": "https://ebay.wd5.myworkdayjobs.com/apply/job/Bengaluru-India/Software-Engineer-3_R0073246/apply",
-  "india": true,
-  "isEng": true,
-  "senior": false,
-  "java": true,
-  "flutter": false,
-  "score": 74,
-  "exp": [],
-  "fits2": false,
-  "fits3": false,
-  "unstated": true,
-  "ambiguous": false
- },
- {
-  "letter": "e",
-  "company": "eBay",
-  "country": "United States",
-  "board": "phenom:_self",
-  "title": "MTS 1, Full Stack Software Engineer",
-  "location": "Bengaluru, Karnātaka",
-  "url": "https://ebay.wd5.myworkdayjobs.com/apply/job/Bengaluru-India/MTS-1--Full-Stack-Software-Engineer_R0075066/apply",
-  "india": true,
-  "isEng": true,
-  "senior": false,
-  "java": true,
-  "flutter": false,
-  "score": 74,
-  "exp": [],
-  "fits2": false,
-  "fits3": false,
-  "unstated": true,
-  "ambiguous": false
- },
- {
-  "letter": "e",
-  "company": "eBay",
-  "country": "United States",
-  "board": "phenom:_self",
-  "title": "MTS 1 Software Engineer",
-  "location": "Bengaluru, Karnātaka",
-  "url": "https://ebay.wd5.myworkdayjobs.com/apply/job/Bengaluru-India/MTS-1-Software-Engineer_R0070168/apply",
-  "india": true,
-  "isEng": true,
-  "senior": false,
-  "java": true,
-  "flutter": false,
-  "score": 74,
-  "exp": [],
-  "fits2": false,
-  "fits3": false,
-  "unstated": true,
-  "ambiguous": false
- },
- {
-  "letter": "e",
-  "company": "eBay",
-  "country": "United States",
-  "board": "phenom:_self",
-  "title": "MTS 1, Software Engineer (Backend)",
-  "location": "Bengaluru, Karnātaka",
-  "url": "https://ebay.wd5.myworkdayjobs.com/apply/job/Bengaluru-India/MTS-1--Software-Engineer--Backend-_R0071873/apply",
-  "india": true,
-  "isEng": true,
-  "senior": false,
-  "java": true,
-  "flutter": false,
-  "score": 74,
-  "exp": [],
-  "fits2": false,
-  "fits3": false,
-  "unstated": true,
-  "ambiguous": false
- },
- {
-  "letter": "e",
-  "company": "eBay",
-  "country": "United States",
-  "board": "phenom:_self",
-  "title": "Software Engineer 2",
-  "location": "Bengaluru, Karnātaka",
-  "url": "https://ebay.wd5.myworkdayjobs.com/apply/job/Bengaluru-India/Software-Engineer-2_R0073183/apply",
-  "india": true,
-  "isEng": true,
-  "senior": false,
-  "java": true,
-  "flutter": false,
-  "score": 74,
-  "exp": [],
-  "fits2": false,
-  "fits3": false,
-  "unstated": true,
-  "ambiguous": false
- },
- {
-  "letter": "e",
-  "company": "eBay",
-  "country": "United States",
-  "board": "phenom:_self",
   "title": "Site Reliability Engineer 3",
   "location": "Bengaluru, Karnātaka",
   "url": "https://ebay.wd5.myworkdayjobs.com/apply/job/Bengaluru-India/Site-Reliability-Engineer-3_R0075331/apply",
@@ -3409,26 +2995,6 @@
   "ambiguous": false
  },
  {
-  "letter": "e",
-  "company": "Evernorth Health Services",
-  "country": "United States",
-  "board": "phenom:_self",
-  "title": "Software Engineering Advisor - HIH - Evernorth",
-  "location": "Hyderabad, Telangāna",
-  "url": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Hyderabad-India/Software-Engineering-Advisor---HIH---Evernorth_26001802/apply",
-  "india": true,
-  "isEng": true,
-  "senior": false,
-  "java": true,
-  "flutter": false,
-  "score": 74,
-  "exp": [],
-  "fits2": false,
-  "fits3": false,
-  "unstated": true,
-  "ambiguous": false
- },
- {
   "letter": "h",
   "company": "Hexanika",
   "country": "India",
@@ -3449,13 +3015,13 @@
   "ambiguous": false
  },
  {
-  "letter": "i",
-  "company": "Impelsys",
-  "country": "India",
-  "board": "feed:https://impelsys.com",
-  "title": "PHP Developer",
-  "location": "",
-  "url": "https://impelsys.com/jobs/php-developer/",
+  "letter": "h",
+  "company": "HighLevel",
+  "country": "United States",
+  "board": "lever:gohighlevel",
+  "title": "Software Development Engineer in Test Apprentice",
+  "location": "India",
+  "url": "https://jobs.lever.co/gohighlevel/cf728c57-0a8a-4ab6-909c-96bcad3624de",
   "india": true,
   "isEng": true,
   "senior": false,
@@ -3873,7 +3439,7 @@
   "company": "Mindera",
   "country": "Portugal",
   "board": "next-data:https://mindera.com/careers",
-  "title": "Salesforce Commerce Cloud - Backend Engineer",
+  "title": "PIM Engineer - Stibo STEP & Java Backend",
   "location": "Chennai",
   "url": "https://mindera.com/careers",
   "india": true,
@@ -3996,6 +3562,26 @@
   "title": "Software Engineer",
   "location": "Mumbai, IN",
   "url": "https://careers.nomura.com/Nomura/job/Mumbai-Software-Engineer/1350018600/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+  "india": true,
+  "isEng": true,
+  "senior": false,
+  "java": true,
+  "flutter": false,
+  "score": 74,
+  "exp": [],
+  "fits2": false,
+  "fits3": false,
+  "unstated": true,
+  "ambiguous": false
+ },
+ {
+  "letter": "o",
+  "company": "OpenText India",
+  "country": "India",
+  "board": "phenom:_self",
+  "title": "Premium Support Engineer- Fortify",
+  "location": "Bangalore, Karnataka",
+  "url": "https://careers.opentext.com/us/en/job/51960",
   "india": true,
   "isEng": true,
   "senior": false,
@@ -4136,6 +3722,26 @@
   "title": "Hadoop Developer- ZooKeeper Sqoop and Flume Video Tutorial | Simplilearn",
   "location": "",
   "url": "https://www.simplilearn.com/zookeeper-sqoop-and-flume-quick-tutorial-video",
+  "india": true,
+  "isEng": true,
+  "senior": false,
+  "java": true,
+  "flutter": false,
+  "score": 74,
+  "exp": [],
+  "fits2": false,
+  "fits3": false,
+  "unstated": true,
+  "ambiguous": false
+ },
+ {
+  "letter": "s",
+  "company": "Synechron",
+  "country": "US",
+  "board": "workday:synechron",
+  "title": "Java & Angular Developer – Spring, REST APIs & SQL",
+  "location": "Hyderabad Eco Park",
+  "url": "https://synechron.wd1.myworkdayjobs.com/SynechronCareers/job/Hyderabad--Eco-Park/Java---Angular-Developer---Spring--REST-APIs---SQL_JR1042426",
   "india": true,
   "isEng": true,
   "senior": false,

@@ -16,12 +16,12 @@
         {
           "url": "https://careers.jpmorganchase.com",
           "status": 200,
-          "bytes": 200324
+          "bytes": 200346
         },
         {
           "url": "https://jpmorganchase.com/careers",
           "status": 200,
-          "bytes": 200324
+          "bytes": 200346
         },
         {
           "url": "https://jpmorganchase.com/career",
@@ -46,7 +46,7 @@
         {
           "url": "https://jpmorganchase.com/careers.html",
           "status": 200,
-          "bytes": 200324
+          "bytes": 200346
         },
         {
           "url": "https://jpmorganchase.com/company/careers",
@@ -66,7 +66,7 @@
         {
           "url": "https://jpmorganchase.com/",
           "status": 200,
-          "bytes": 115005
+          "bytes": 115027
         }
       ],
       "candidates": [
@@ -84,7 +84,7 @@
         "workable:jpmorganchase -> no board"
       ]
     },
-    "ms": 26890
+    "ms": 35113
   },
   {
     "company": "Jio",
@@ -176,7 +176,7 @@
         {
           "url": "https://careers.jio.com",
           "status": 200,
-          "bytes": 79537
+          "bytes": 79536
         },
         {
           "url": "https://jio.com/careers",
@@ -249,7 +249,7 @@
       "candidates": [],
       "attempts": []
     },
-    "ms": 7754
+    "ms": 5682
   },
   {
     "company": "Jio Platforms",
@@ -337,7 +337,7 @@
         "workable:jioplatforms -> no board"
       ]
     },
-    "ms": 4835
+    "ms": 4862
   },
   {
     "company": "Juspay",
@@ -362,7 +362,7 @@
         {
           "url": "https://juspay.in/careers",
           "status": 200,
-          "bytes": 212895
+          "bytes": 212896
         },
         {
           "url": "https://juspay.in/career",
@@ -425,7 +425,7 @@
         "workable:juspay -> no board"
       ]
     },
-    "ms": 7527
+    "ms": 7127
   },
   {
     "company": "Jubilant FoodWorks",
@@ -523,7 +523,7 @@
         "workable:jubilantfoodworks -> no board"
       ]
     },
-    "ms": 4216
+    "ms": 4691
   },
   {
     "company": "Jumbotail",
@@ -858,7 +858,7 @@
         "workable:jumbotail -> no board"
       ]
     },
-    "ms": 16852
+    "ms": 12822
   },
   {
     "company": "Justdial",
@@ -888,12 +888,17 @@
         {
           "url": "https://justdial.com/career",
           "status": 200,
-          "bytes": 684952
+          "bytes": 684764
         },
         {
           "url": "https://justdial.com/jobs",
           "status": 200,
           "bytes": 30140
+        },
+        {
+          "url": "https://justdial.com/join-us",
+          "status": 200,
+          "bytes": 684952
         }
       ],
       "candidates": [
@@ -911,14 +916,14 @@
         "workable:justdial -> no board"
       ]
     },
-    "ms": 12697
+    "ms": 11602
   },
   {
     "company": "John Deere India",
     "country": "India",
     "source": "sitemap:https://careers.deere.com",
     "error": null,
-    "totalJobs": 27,
+    "totalJobs": 26,
     "jobs": [
       {
         "title": "JR Fullstack Engineer - Indaiatuba/SP",
@@ -1219,21 +1224,6 @@
         "score": 4
       },
       {
-        "title": "Shipping Coordinator",
-        "location": "Portland, OR,US",
-        "url": "http://careers.deere.com/careers/job/137482551376-shipping-coordinator-portland-oregon-united-states?domain=johndeere.com",
-        "india": false,
-        "locationSaysIndia": false,
-        "hasLocation": true,
-        "isEng": false,
-        "java": false,
-        "flutter": false,
-        "senior": false,
-        "exp": [],
-        "expFits2": false,
-        "score": 4
-      },
-      {
         "title": "On-site Training Specialist",
         "location": "Orlando, FL,US",
         "url": "http://careers.deere.com/careers/job/137481985353-on-site-training-specialist-orlando-florida-united-states?domain=johndeere.com",
@@ -1454,7 +1444,7 @@
         {
           "url": "https://careers.deere.com",
           "status": 200,
-          "bytes": 277067
+          "bytes": 278663
         },
         {
           "url": "https://deere.com/careers",
@@ -1463,8 +1453,8 @@
         },
         {
           "url": "https://deere.com/career",
-          "status": 503,
-          "bytes": 13
+          "status": 200,
+          "bytes": 178905
         },
         {
           "url": "https://deere.com/jobs",
@@ -1497,7 +1487,7 @@
         "workable:deere -> no board"
       ]
     },
-    "ms": 45693
+    "ms": 47822
   },
   {
     "company": "Johnson Controls India",
@@ -1506,30 +1496,6 @@
     "error": null,
     "totalJobs": 400,
     "jobs": [
-      {
-        "title": "Embedded Software Engineer I - Product Development",
-        "location": "New Freedom-Pennsylvania-United States of America",
-        "url": "https://jci.wd5.myworkdayjobs.com/JCI/job/New-Freedom-Pennsylvania-United-States-of-America/Embedded-Software-Engineer-I---Product-Development_WD30272369",
-        "india": false,
-        "locationSaysIndia": false,
-        "hasLocation": true,
-        "isEng": true,
-        "java": false,
-        "flutter": false,
-        "senior": false,
-        "exp": [
-          [
-            2,
-            6
-          ],
-          [
-            1,
-            5
-          ]
-        ],
-        "expFits2": true,
-        "score": 72
-      },
       {
         "title": "Application Engineer I",
         "location": "Bangalore-Karnataka-India",
@@ -1559,6 +1525,30 @@
         "exp": [],
         "expFits2": false,
         "score": 61
+      },
+      {
+        "title": "Controls Application Engineer II",
+        "location": "San Jose-San Jose-Costa Rica",
+        "url": "https://jci.wd5.myworkdayjobs.com/JCI/job/San-Jose-San-Jose-Costa-Rica/Controls-Application-Engineer-II_WD30275611",
+        "india": false,
+        "locationSaysIndia": false,
+        "hasLocation": true,
+        "isEng": true,
+        "java": false,
+        "flutter": false,
+        "senior": false,
+        "exp": [
+          [
+            2,
+            3
+          ],
+          [
+            3,
+            4
+          ]
+        ],
+        "expFits2": true,
+        "score": 60
       },
       {
         "title": "Controls Engineer",
@@ -1756,6 +1746,21 @@
         "score": 49
       },
       {
+        "title": "Embedded Software Engineer I - Product Development",
+        "location": "New Freedom-Pennsylvania-United States of America",
+        "url": "https://jci.wd5.myworkdayjobs.com/JCI/job/New-Freedom-Pennsylvania-United-States-of-America/Embedded-Software-Engineer-I---Product-Development_WD30272369",
+        "india": false,
+        "locationSaysIndia": false,
+        "hasLocation": true,
+        "isEng": true,
+        "java": false,
+        "flutter": false,
+        "senior": false,
+        "exp": [],
+        "expFits2": false,
+        "score": 46
+      },
+      {
         "title": "HVAC Application Engineer I",
         "location": "San Jose-San Jose-Costa Rica",
         "url": "https://jci.wd5.myworkdayjobs.com/JCI/job/San-Jose-San-Jose-Costa-Rica/HVAC-Application-Engineer-I_WD30275978",
@@ -1769,6 +1774,50 @@
         "exp": [],
         "expFits2": false,
         "score": 46
+      },
+      {
+        "title": "PLM Solution Developer",
+        "location": "Pune-Maharashtra-India",
+        "url": "https://jci.wd5.myworkdayjobs.com/JCI/job/Pune-Maharashtra-India/PLM-Solution-Developer_WD30272951",
+        "india": true,
+        "locationSaysIndia": true,
+        "hasLocation": true,
+        "isEng": true,
+        "java": false,
+        "flutter": false,
+        "senior": false,
+        "exp": [
+          [
+            10,
+            12
+          ],
+          [
+            12,
+            13
+          ]
+        ],
+        "expFits2": false,
+        "score": 45
+      },
+      {
+        "title": "HVAC Control Systems Engineer",
+        "location": "Indianapolis-Indiana-United States of America",
+        "url": "https://jci.wd5.myworkdayjobs.com/JCI/job/Indianapolis-Indiana-United-States-of-America/HVAC-Control-Systems-Engineer_WD30276522",
+        "india": false,
+        "locationSaysIndia": false,
+        "hasLocation": true,
+        "isEng": true,
+        "java": false,
+        "flutter": false,
+        "senior": false,
+        "exp": [
+          [
+            3,
+            7
+          ]
+        ],
+        "expFits2": false,
+        "score": 42
       },
       {
         "title": "Sr. Design Engineer",
@@ -1809,6 +1858,21 @@
         "title": "Security Engineer",
         "location": "Jakarta-Jakarta Raya-Indonesia",
         "url": "https://jci.wd5.myworkdayjobs.com/JCI/job/Jakarta-Jakarta-Raya-Indonesia/Security-Engineer_WD30274834",
+        "india": false,
+        "locationSaysIndia": false,
+        "hasLocation": true,
+        "isEng": true,
+        "java": false,
+        "flutter": false,
+        "senior": false,
+        "exp": [],
+        "expFits2": false,
+        "score": 34
+      },
+      {
+        "title": "Senor R&D Electrical Engineer (onsite)",
+        "location": "3 Locations",
+        "url": "https://jci.wd5.myworkdayjobs.com/JCI/job/Cranston-Rhode-Island-United-States-of-America/Senor-R-D-Electrical-Engineer--onsite-_WD30276079",
         "india": false,
         "locationSaysIndia": false,
         "hasLocation": true,
@@ -2091,21 +2155,6 @@
         "score": 34
       },
       {
-        "title": "Controls Engineer",
-        "location": "Trois-Rivieres - Quebec - Canada",
-        "url": "https://jci.wd5.myworkdayjobs.com/JCI/job/Trois-Rivieres---Quebec---Canada/Controls-Engineer_WD30273203-1",
-        "india": false,
-        "locationSaysIndia": false,
-        "hasLocation": true,
-        "isEng": true,
-        "java": false,
-        "flutter": false,
-        "senior": false,
-        "exp": [],
-        "expFits2": false,
-        "score": 34
-      },
-      {
         "title": "Junior Digital Analyst",
         "location": "Pune-Maharashtra-India",
         "url": "https://jci.wd5.myworkdayjobs.com/JCI/job/Pune-Maharashtra-India/Junior-Digital-Analyst_WD30276354",
@@ -2119,26 +2168,6 @@
         "exp": [],
         "expFits2": false,
         "score": 31
-      },
-      {
-        "title": "Senor R&D Electrical Engineer (onsite)",
-        "location": "3 Locations",
-        "url": "https://jci.wd5.myworkdayjobs.com/JCI/job/Cranston-Rhode-Island-United-States-of-America/Senor-R-D-Electrical-Engineer--onsite-_WD30276079",
-        "india": false,
-        "locationSaysIndia": false,
-        "hasLocation": true,
-        "isEng": true,
-        "java": false,
-        "flutter": false,
-        "senior": false,
-        "exp": [
-          [
-            5,
-            9
-          ]
-        ],
-        "expFits2": false,
-        "score": 30
       },
       {
         "title": "Sr.Design Engineer",
@@ -2318,6 +2347,21 @@
         ],
         "expFits2": false,
         "score": 23
+      },
+      {
+        "title": "",
+        "location": "",
+        "url": "https://jci.wd5.myworkdayjobs.com/JCI",
+        "india": true,
+        "locationSaysIndia": false,
+        "hasLocation": false,
+        "isEng": false,
+        "java": false,
+        "flutter": false,
+        "senior": false,
+        "exp": [],
+        "expFits2": false,
+        "score": 19
       },
       {
         "title": "Specialist Ops Data Analytics - BSNA",
@@ -3145,19 +3189,34 @@
         "score": 12
       },
       {
-        "title": "Senior Data Engineer",
-        "location": "Bratislava-Bratislava-Slovakia",
-        "url": "https://jci.wd5.myworkdayjobs.com/JCI/job/Bratislava-Bratislava-Slovakia/Senior-Data-Engineer_WD30275194-1",
-        "india": false,
-        "locationSaysIndia": false,
+        "title": "Technical Lead I (Electrical Eng III – HW Design Sustaining Engineering)",
+        "location": "Pune-Maharashtra-India",
+        "url": "https://jci.wd5.myworkdayjobs.com/JCI/job/Pune-Maharashtra-India/Technical-Lead-I--Electrical-Eng-III---HW-Design-Sustaining-Engineering-_WD30276279",
+        "india": true,
+        "locationSaysIndia": true,
         "hasLocation": true,
-        "isEng": true,
+        "isEng": false,
         "java": false,
         "flutter": false,
         "senior": true,
         "exp": [],
         "expFits2": false,
-        "score": 12
+        "score": 9
+      },
+      {
+        "title": "Test Lead I- SQA",
+        "location": "Pune-Maharashtra-India",
+        "url": "https://jci.wd5.myworkdayjobs.com/JCI/job/Pune-Maharashtra-India/Test-Lead-I--SQA_WD30276410-1",
+        "india": true,
+        "locationSaysIndia": true,
+        "hasLocation": true,
+        "isEng": false,
+        "java": false,
+        "flutter": false,
+        "senior": true,
+        "exp": [],
+        "expFits2": false,
+        "score": 9
       },
       {
         "title": "Technical Lead I",
@@ -3233,6 +3292,96 @@
         "exp": [],
         "expFits2": false,
         "score": 9
+      },
+      {
+        "title": "Fire Alarm Installer",
+        "location": "Orlando-Florida-United States of America",
+        "url": "https://jci.wd5.myworkdayjobs.com/JCI/job/Orlando-Florida-United-States-of-America/Fire-Alarm-Installer_WD30276332",
+        "india": false,
+        "locationSaysIndia": false,
+        "hasLocation": true,
+        "isEng": false,
+        "java": false,
+        "flutter": false,
+        "senior": false,
+        "exp": [],
+        "expFits2": false,
+        "score": 4
+      },
+      {
+        "title": "Warehouse Assistant",
+        "location": "Vallejo-Ciudad de Mexico-Mexico",
+        "url": "https://jci.wd5.myworkdayjobs.com/JCI/job/Vallejo-Ciudad-de-Mexico-Mexico/Warehouse-Assistant_WD30276245",
+        "india": false,
+        "locationSaysIndia": false,
+        "hasLocation": true,
+        "isEng": false,
+        "java": false,
+        "flutter": false,
+        "senior": false,
+        "exp": [],
+        "expFits2": false,
+        "score": 4
+      },
+      {
+        "title": "Warehouse Supervisor",
+        "location": "Cienega de Flores-Nuevo Leon-Mexico",
+        "url": "https://jci.wd5.myworkdayjobs.com/JCI/job/Cienega-de-Flores-Nuevo-Leon-Mexico/Warehouse-Supervisor_WD30276220",
+        "india": false,
+        "locationSaysIndia": false,
+        "hasLocation": true,
+        "isEng": false,
+        "java": false,
+        "flutter": false,
+        "senior": false,
+        "exp": [],
+        "expFits2": false,
+        "score": 4
+      },
+      {
+        "title": "Retail Security Systems Technician",
+        "location": "Memphis-Tennessee-United States of America",
+        "url": "https://jci.wd5.myworkdayjobs.com/JCI/job/Memphis-Tennessee-United-States-of-America/Retail-Security-Systems-Technician_WD30276446",
+        "india": false,
+        "locationSaysIndia": false,
+        "hasLocation": true,
+        "isEng": false,
+        "java": false,
+        "flutter": false,
+        "senior": false,
+        "exp": [],
+        "expFits2": false,
+        "score": 4
+      },
+      {
+        "title": "HVAC Operations & Maintenance Mechanic Apprentice (union)",
+        "location": "Metairie-Louisiana-United States of America",
+        "url": "https://jci.wd5.myworkdayjobs.com/JCI/job/Metairie-Louisiana-United-States-of-America/HVAC-Operations---Maintenance-Mechanic-Apprentice---union-_WD30275450",
+        "india": false,
+        "locationSaysIndia": false,
+        "hasLocation": true,
+        "isEng": false,
+        "java": false,
+        "flutter": false,
+        "senior": false,
+        "exp": [],
+        "expFits2": false,
+        "score": 4
+      },
+      {
+        "title": "Fire Area Service Support Coord",
+        "location": "Huntington Beach-California-United States of America",
+        "url": "https://jci.wd5.myworkdayjobs.com/JCI/job/Huntington-Beach-California-United-States-of-America/Fire-Area-Service-Support-Coord_WD30275927-1",
+        "india": false,
+        "locationSaysIndia": false,
+        "hasLocation": true,
+        "isEng": false,
+        "java": false,
+        "flutter": false,
+        "senior": false,
+        "exp": [],
+        "expFits2": false,
+        "score": 4
       },
       {
         "title": "Sales Executive - Marine Automation",
@@ -3673,21 +3822,6 @@
         "title": "Ejecutivo de Ventas en Terreno",
         "location": "Montevideo-Montevideo-Uruguay",
         "url": "https://jci.wd5.myworkdayjobs.com/JCI/job/Montevideo-Montevideo-Uruguay/Ejecutivo-de-Ventas-en-Terreno_WD30276289",
-        "india": false,
-        "locationSaysIndia": false,
-        "hasLocation": true,
-        "isEng": false,
-        "java": false,
-        "flutter": false,
-        "senior": false,
-        "exp": [],
-        "expFits2": false,
-        "score": 4
-      },
-      {
-        "title": "Fire Alarm Installer",
-        "location": "Orlando-Florida-United States of America",
-        "url": "https://jci.wd5.myworkdayjobs.com/JCI/job/Orlando-Florida-United-States-of-America/Fire-Alarm-Installer_WD30276332",
         "india": false,
         "locationSaysIndia": false,
         "hasLocation": true,
@@ -4240,21 +4374,6 @@
         "score": 4
       },
       {
-        "title": "HVAC Truck Base Chiller Mechanic (union)",
-        "location": "Tulsa-Oklahoma-United States of America",
-        "url": "https://jci.wd5.myworkdayjobs.com/JCI/job/Tulsa-Oklahoma-United-States-of-America/HVAC-Truck-Base-Mechanic--union-_WD30276108",
-        "india": false,
-        "locationSaysIndia": false,
-        "hasLocation": true,
-        "isEng": false,
-        "java": false,
-        "flutter": false,
-        "senior": false,
-        "exp": [],
-        "expFits2": false,
-        "score": 4
-      },
-      {
         "title": "Fire Detection Systems Technician",
         "location": "6 Locations",
         "url": "https://jci.wd5.myworkdayjobs.com/JCI/job/Lubbock-Texas-United-States-of-America/Fire-Detection-Systems-Technician-4_WD30268097",
@@ -4618,21 +4737,6 @@
         "title": "HVAC Service Sales Rep",
         "location": "Irving-Texas-United States of America",
         "url": "https://jci.wd5.myworkdayjobs.com/JCI/job/Irving-Texas-United-States-of-America/HVAC-Service-Sales-Rep_WD30270725",
-        "india": false,
-        "locationSaysIndia": false,
-        "hasLocation": true,
-        "isEng": false,
-        "java": false,
-        "flutter": false,
-        "senior": false,
-        "exp": [],
-        "expFits2": false,
-        "score": 4
-      },
-      {
-        "title": "Operations & Maintenance Specialist",
-        "location": "Glendale-Kentucky-United States of America",
-        "url": "https://jci.wd5.myworkdayjobs.com/JCI/job/Glendale-Kentucky-United-States-of-America/Operations---Maintenance-Specialist_WD30276217",
         "india": false,
         "locationSaysIndia": false,
         "hasLocation": true,
@@ -6085,141 +6189,6 @@
         "score": 4
       },
       {
-        "title": "Sprinkler Inspector",
-        "location": "Tempe-Arizona-United States of America",
-        "url": "https://jci.wd5.myworkdayjobs.com/JCI/job/Tempe-Arizona-United-States-of-America/Sprinkler-Inspector_WD30276003",
-        "india": false,
-        "locationSaysIndia": false,
-        "hasLocation": true,
-        "isEng": false,
-        "java": false,
-        "flutter": false,
-        "senior": false,
-        "exp": [],
-        "expFits2": false,
-        "score": 4
-      },
-      {
-        "title": "Material Handler (1st Shift)",
-        "location": "2 Locations",
-        "url": "https://jci.wd5.myworkdayjobs.com/JCI/job/Largo-Florida-United-States-of-America/Material-Handler--1st-Shift-_WD30276064",
-        "india": false,
-        "locationSaysIndia": false,
-        "hasLocation": true,
-        "isEng": false,
-        "java": false,
-        "flutter": false,
-        "senior": false,
-        "exp": [],
-        "expFits2": false,
-        "score": 4
-      },
-      {
-        "title": "Fire Detection Inspector",
-        "location": "Farmington Hills-Michigan-United States of America",
-        "url": "https://jci.wd5.myworkdayjobs.com/JCI/job/Farmington-Hills-Michigan-United-States-of-America/Fire-Detection-Inspector_WD30275912",
-        "india": false,
-        "locationSaysIndia": false,
-        "hasLocation": true,
-        "isEng": false,
-        "java": false,
-        "flutter": false,
-        "senior": false,
-        "exp": [],
-        "expFits2": false,
-        "score": 4
-      },
-      {
-        "title": "Fire Project Coordinator",
-        "location": "Lake Oswego-Oregon-United States of America",
-        "url": "https://jci.wd5.myworkdayjobs.com/JCI/job/Lake-Oswego-Oregon-United-States-of-America/Fire-Project-Coordinator_WD30275983",
-        "india": false,
-        "locationSaysIndia": false,
-        "hasLocation": true,
-        "isEng": false,
-        "java": false,
-        "flutter": false,
-        "senior": false,
-        "exp": [],
-        "expFits2": false,
-        "score": 4
-      },
-      {
-        "title": "Arquiteto de Soluções Digitais - São Paulo",
-        "location": "São Paulo-São Paulo-Brazil",
-        "url": "https://jci.wd5.myworkdayjobs.com/JCI/job/So-Paulo-So-Paulo-Brazil/Arquiteto-de-Solues-Digitais---So-Paulo_WD30275643",
-        "india": false,
-        "locationSaysIndia": false,
-        "hasLocation": true,
-        "isEng": false,
-        "java": false,
-        "flutter": false,
-        "senior": false,
-        "exp": [],
-        "expFits2": false,
-        "score": 4
-      },
-      {
-        "title": "Technicien SAV détection incendie Rhône-Alpes (H/F)",
-        "location": "Chassieu-Rhone Alpes-France",
-        "url": "https://jci.wd5.myworkdayjobs.com/JCI/job/Chassieu-Rhone-Alpes-France/Technicien-SAV-dtection-incendie-Rhne-Alpes--H-F-_WD30275766",
-        "india": false,
-        "locationSaysIndia": false,
-        "hasLocation": true,
-        "isEng": false,
-        "java": false,
-        "flutter": false,
-        "senior": false,
-        "exp": [],
-        "expFits2": false,
-        "score": 4
-      },
-      {
-        "title": "Technicien SAV détection incendie Ouest (H/F)",
-        "location": "Carquefou-Pays de la Loire-France",
-        "url": "https://jci.wd5.myworkdayjobs.com/JCI/job/Carquefou-Pays-de-la-Loire-France/TECHNICIAN-SAV_WD30257662",
-        "india": false,
-        "locationSaysIndia": false,
-        "hasLocation": true,
-        "isEng": false,
-        "java": false,
-        "flutter": false,
-        "senior": false,
-        "exp": [],
-        "expFits2": false,
-        "score": 4
-      },
-      {
-        "title": "Sprinkler Inspector",
-        "location": "Tempe-Arizona-United States of America",
-        "url": "https://jci.wd5.myworkdayjobs.com/JCI/job/Tempe-Arizona-United-States-of-America/Sprinkler-Inspector_WD30276002-1",
-        "india": false,
-        "locationSaysIndia": false,
-        "hasLocation": true,
-        "isEng": false,
-        "java": false,
-        "flutter": false,
-        "senior": false,
-        "exp": [],
-        "expFits2": false,
-        "score": 4
-      },
-      {
-        "title": "HVAC Service Technician",
-        "location": "Newcastle-Tyne and Wear-United Kingdom",
-        "url": "https://jci.wd5.myworkdayjobs.com/JCI/job/Newcastle-Tyne-and-Wear-United-Kingdom/HVAC-Service-Technician_WD30275554-1",
-        "india": false,
-        "locationSaysIndia": false,
-        "hasLocation": true,
-        "isEng": false,
-        "java": false,
-        "flutter": false,
-        "senior": false,
-        "exp": [],
-        "expFits2": false,
-        "score": 4
-      },
-      {
         "title": "PLM CAD Expert",
         "location": "Pune-Maharashtra-India",
         "url": "https://jci.wd5.myworkdayjobs.com/JCI/job/Pune-Maharashtra-India/PLM-CAD-Expert_WD30271439",
@@ -6520,6 +6489,81 @@
         "score": -6
       },
       {
+        "title": "Materials Manager",
+        "location": "Apodaca-Nuevo Leon-Mexico",
+        "url": "https://jci.wd5.myworkdayjobs.com/JCI/job/Apodaca-Nuevo-Leon-Mexico/Materials-manager_WD30275770-1",
+        "india": false,
+        "locationSaysIndia": false,
+        "hasLocation": true,
+        "isEng": false,
+        "java": false,
+        "flutter": false,
+        "senior": true,
+        "exp": [],
+        "expFits2": false,
+        "score": -18
+      },
+      {
+        "title": "IT Sr Analyst",
+        "location": "San Pedro Garza Garcia-Nuevo Leon-Mexico",
+        "url": "https://jci.wd5.myworkdayjobs.com/JCI/job/San-Pedro-Garza-Garcia-Nuevo-Leon-Mexico/IT-Sr-Analyst_WD30275605",
+        "india": false,
+        "locationSaysIndia": false,
+        "hasLocation": true,
+        "isEng": false,
+        "java": false,
+        "flutter": false,
+        "senior": true,
+        "exp": [],
+        "expFits2": false,
+        "score": -18
+      },
+      {
+        "title": "Fire Field Project Manager",
+        "location": "Hauppauge-New York-United States of America",
+        "url": "https://jci.wd5.myworkdayjobs.com/JCI/job/Hauppauge-New-York-United-States-of-America/Fire-Field-Project-Manager_WD30275909",
+        "india": false,
+        "locationSaysIndia": false,
+        "hasLocation": true,
+        "isEng": false,
+        "java": false,
+        "flutter": false,
+        "senior": true,
+        "exp": [],
+        "expFits2": false,
+        "score": -18
+      },
+      {
+        "title": "Fire Field Project Manager",
+        "location": "New Castle-Delaware-United States of America",
+        "url": "https://jci.wd5.myworkdayjobs.com/JCI/job/New-Castle-Delaware-United-States-of-America/Fire-Field-Project-Manager_WD30275992",
+        "india": false,
+        "locationSaysIndia": false,
+        "hasLocation": true,
+        "isEng": false,
+        "java": false,
+        "flutter": false,
+        "senior": true,
+        "exp": [],
+        "expFits2": false,
+        "score": -18
+      },
+      {
+        "title": "Custom Air Handling Unit (AHU) Product Manager",
+        "location": "York-Pennsylvania-United States of America",
+        "url": "https://jci.wd5.myworkdayjobs.com/JCI/job/York-Pennsylvania-United-States-of-America/Custom-Air-Handling-Unit--AHU--Product-Manager_WD30275956",
+        "india": false,
+        "locationSaysIndia": false,
+        "hasLocation": true,
+        "isEng": false,
+        "java": false,
+        "flutter": false,
+        "senior": true,
+        "exp": [],
+        "expFits2": false,
+        "score": -18
+      },
+      {
         "title": "EHS-Manager",
         "location": "5 Locations",
         "url": "https://jci.wd5.myworkdayjobs.com/JCI/job/Ratingen-North-Rhine-Westphalia-Germany/EHS-Manager_WD30276488",
@@ -6538,21 +6582,6 @@
         "title": "Service Manager Romandie (m/f/d) – Fire & Security",
         "location": "Mont sur Lausanne-Vaud-Switzerland",
         "url": "https://jci.wd5.myworkdayjobs.com/JCI/job/Mont-sur-Lausanne-Vaud-Switzerland/Security-Service-Operations-Manager--m-f-d-_WD30275549",
-        "india": false,
-        "locationSaysIndia": false,
-        "hasLocation": true,
-        "isEng": false,
-        "java": false,
-        "flutter": false,
-        "senior": true,
-        "exp": [],
-        "expFits2": false,
-        "score": -18
-      },
-      {
-        "title": "Custom Air Handling Unit (AHU) Product Manager",
-        "location": "York-Pennsylvania-United States of America",
-        "url": "https://jci.wd5.myworkdayjobs.com/JCI/job/York-Pennsylvania-United-States-of-America/Custom-Air-Handling-Unit--AHU--Product-Manager_WD30275956",
         "india": false,
         "locationSaysIndia": false,
         "hasLocation": true,
@@ -6763,21 +6792,6 @@
         "title": "Business Development Director - Sustainable Infrastructure",
         "location": "Arlington Heights-Illinois-United States of America",
         "url": "https://jci.wd5.myworkdayjobs.com/JCI/job/Arlington-Heights-Illinois-United-States-of-America/Business-Development-Director---Sustainable-Infrastructure_WD30242523",
-        "india": false,
-        "locationSaysIndia": false,
-        "hasLocation": true,
-        "isEng": false,
-        "java": false,
-        "flutter": false,
-        "senior": true,
-        "exp": [],
-        "expFits2": false,
-        "score": -18
-      },
-      {
-        "title": "Sr Director Business System, Global",
-        "location": "4 Locations",
-        "url": "https://jci.wd5.myworkdayjobs.com/JCI/job/Milwaukee-Wisconsin-United-States-of-America/Sr-Director-Business-System--Global_WD30273645",
         "india": false,
         "locationSaysIndia": false,
         "hasLocation": true,
@@ -7523,21 +7537,6 @@
         "exp": [],
         "expFits2": false,
         "score": -18
-      },
-      {
-        "title": "Director Software Quality Assurance",
-        "location": "Westford-Massachusetts-United States of America",
-        "url": "https://jci.wd5.myworkdayjobs.com/JCI/job/Westford-Massachusetts-United-States-of-America/Director-Software-Quality-Assurance_WD30274990-1",
-        "india": false,
-        "locationSaysIndia": false,
-        "hasLocation": true,
-        "isEng": false,
-        "java": false,
-        "flutter": false,
-        "senior": true,
-        "exp": [],
-        "expFits2": false,
-        "score": -18
       }
     ],
     "enriched": 10,
@@ -7551,6 +7550,7 @@
         "text": "Why Join Us: Johnson Controls is a global leader in thermal management, mission-critical building systems, energy efficiency, and decarbonization. We help customers use energy more productively, reduce carbon emissions, and operate with the precision and resilience required in demanding manufacturing and technical environments. Backed by advanced technology, lifecycle services, and an industry-leading field organization, Johnson Controls delivers performance where it really matters and helps move society forward. What You Will Do: We are seeking a Controls Engineer to support design, integrate, test, and support MES solutions in manufacturing operations, including MES-to-ERP connectivity and shop floor integration, while building practical knowledge of PLC systems and industrial automation. Design, configure, implement, and support MES solutions in manufacturing environments. Participate in MES-to-ERP and shop floor integration activities. Support Site Acceptance Testing (SAT) and relocation to customer or project sites as required . Develop and maintain custom MES applications, interfaces, and enhancements. Troubleshoot and resolve MES-related issues in production environments. Collaborate with IT, automation, and production teams to support successful deployment and operations. Assist in validation, testing, and deployment of MES solutions. Gain working knowledge of PLC systems and support integration between MES and shop floor equipment. Document system configurations, procedures, and best practices. Provide training and technical support to end users and stakeholders. How You Will Do It : Own the outcome by working with accountability, safety, and integrity from design through implementation and SAT support. Stay close to the work by partnering with production, automation, and IT teams to remove obstacles quickly and keep operations moving. Improve every day through clear troubleshooting, honest communication, and practical problem-solving that strengthens the MES environment. Win as one team by building trust across functions, sharing knowledge openly, and respecting diverse perspectives during integration and deployment. Use structured testing and documentation to support stable releases, repeatable support, and smooth handoffs. Approach new PLC and automation topics with curiosity and a hands-on mindset so you can expand your technical impact over time. What We Look For: Bachelor’s degree in Engineering , Computer Science, or a related field. Proven experience working with MES platforms . Strong background in application development such as .NET, Java, SQL, or similar technologies. Experience with system integration and industrial data exchange. Understanding of manufacturing processes and shop floor operations. Willingness to relocate temporarily or permanently for SAT activities. Ability to communicate effectively with technical and non-technical stakeholders. Exposure to PLC programming or industrial automation systems. Experience with IIoT , SCADA, or industrial connectivity solutions. Knowledge of validation processes in regulated industries . Strong problem-solving and analytical skills. Excellent communication and teamwork abilities. Wh at We Can Offer: Competitive salary plus travel time, overtime, standby and call-out payments. Company service vehicle, phone, tablet, PPE and specialist tools. EAP, referral bonuses, cycle-to- work and em ploy ee discounts. Industry-leading training and structured career progression. A supportive team culture where your ideas, skills and experience are valued.",
         "_detail": "https://jci.wd5.myworkdayjobs.com/wday/cxs/jci/JCI/job/Jakarta-Jakarta-Raya-Indonesia/Controls-Engineer_WD30274831-1",
         "_detailKind": "workday",
+        "_enriched": true,
         "score": 59,
         "isMatch": false,
         "isEng": true,
@@ -7565,62 +7565,44 @@
       }
     ],
     "closest": {
-      "title": "Embedded Software Engineer I - Product Development",
-      "location": "New Freedom-Pennsylvania-United States of America",
-      "url": "https://jci.wd5.myworkdayjobs.com/JCI/job/New-Freedom-Pennsylvania-United-States-of-America/Embedded-Software-Engineer-I---Product-Development_WD30272369",
+      "title": "Application Engineer I",
+      "location": "Bangalore-Karnataka-India",
+      "url": "https://jci.wd5.myworkdayjobs.com/JCI/job/Bangalore-Karnataka-India/Application-Engineer-I_WD30274623",
       "team": "",
-      "text": "Build your best future with the Johnson Controls team! Who we are: Johnson Controls is global leader in smart, healthy, and sustainable buildings. Our mission is to reimagine the performance of buildings to serve people, places, and the planet. Join a winning team that enables you to build your best future! Our teams are uniquely positioned to support a multitude of industries across the globe. You will have the opportunity to develop yourself through meaningful work projects and learning opportunities. We strive to provide our employees with an experience focused on supporting their physical, financial, and emotional wellbeing. Become a member of the Johnson Controls family and thrive in an empowering company culture where your voice and ideas will be heard – your next great opportunity is just a few clicks away! What We Offer: Competitive salary Paid vacation/holidays/sick time Comprehensive benefits package including 401K, medical, dental, and vision care. On-the-job/cross-training opportunities Encouraging and collaborative team environment Dedication to safety through our Zero Harm policy **To be considered for this role, candidates must be a U.S. Citizen or a U.S. Permanent Resident (Green Card holder). Position: Johnson Controls has a phenomenal opportunity for a Senior Software Test Engineer to join our dynamic in New Freedom, PA, to help ensure the reliability and performance of our cutting-edge Chiller products. Candidates must be commuting distance to New Freedom, PA, or able to relocate. What You Will Do: You will play a critical role in the development and testing of our exciting embedded software systems! You will have the opportunity to lead testing efforts, mentor, and collaborate with cross-functional teams to ensure that our products meet the highest standards of quality. If you have a strong background in software testing, a deep understanding of embedded systems, proven experience in automated testing, and a passion for excellence, then keep reading! How you will do it: Lead the development and execution of comprehensive test plans and test cases for embedded software. Design, implement, and maintain automated and manual test frameworks and scripts to enhance testing efficiency and coverage. Collaborate with software development teams to understand requirements and ensure testability. Conduct reviews of design and requirements to identify potential issues early in the development cycle. Analyze test results, report defects, and work closely with development teams to ensure timely resolution. Participate in root cause analysis and drive corrective actions for identified issues. Contribute to process improvements and the adoption of new testing tools and methodologies. What we look for: Required Bachelor’s degree in Computer Science, Electrical Engineering, or a related field. 2+ years of overall experience in software development and testing. 1+ years of hands-on experience specifically in manual testing, preferably automated testing. Proficiency in programming languages such as C/C++, Python, or similar. Familiarity with hardware testing and debugging using tools like oscilloscopes, logic analyzers, and JTAG. Prior experience in leading testing efforts for complex embedded systems. Must be a US citizen or permanent resident. We cannot provide sponsorship for this position. Preferred: Demonstrated experience in developing and implementing automated testing solutions and frameworks. SALARY RANGE: $65,000 - $80,000 (Salary to be determined by the education, experience, knowledge, skills, and abilities of the applicant, internal equity, and alignment with market data.) This position includes a competitive benefits package. The posted salary range reflects the target compensation for this role. However, we recognize that exceptional candidates may bring unique skills and experiences that exceed the typical profile. If you believe your background warrants consideration beyond the stated range, we encourage you to apply. To support an efficient and fair hiring process, we may use technology assisted tools, including artificial intelligence (AI), to help identify and evaluate candidates. All hiring decisions are ultimately made by human reviewers. For details, please visit the About Us tab on the Johnson Controls Careers site at https://jobs.johnsoncontrols.com/about-us Johnson Controls International plc. is an equal employment opportunity and affirmative action employer and all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, age, protected veteran status, genetic information, sexual orientation, gender identity, status as a qualified individual with a disability or any other characteristic protected by law. To view more information about your equal opportunity and non-discrimination rights as a candidate, visit EEO is the Law . If you are an individual with a disability and you require an accommodation during the application process, please visit here .",
-      "_detail": "https://jci.wd5.myworkdayjobs.com/wday/cxs/jci/JCI/job/New-Freedom-Pennsylvania-United-States-of-America/Embedded-Software-Engineer-I---Product-Development_WD30272369",
+      "text": "Application Engineer I",
+      "_detail": "https://jci.wd5.myworkdayjobs.com/wday/cxs/jci/JCI/job/Bangalore-Karnataka-India/Application-Engineer-I_WD30274623",
       "_detailKind": "workday",
-      "score": 72,
+      "score": 61,
       "isMatch": false,
       "isEng": true,
       "java": false,
       "flutter": false,
       "android": false,
-      "india": false,
+      "india": true,
       "senior": false,
       "junior": true,
-      "exp": [
-        [
-          2,
-          6
-        ],
-        [
-          1,
-          5
-        ]
-      ],
-      "expFits2": true
+      "exp": [],
+      "expFits2": false
     },
     "closestEng": {
-      "title": "Embedded Software Engineer I - Product Development",
-      "location": "New Freedom-Pennsylvania-United States of America",
-      "url": "https://jci.wd5.myworkdayjobs.com/JCI/job/New-Freedom-Pennsylvania-United-States-of-America/Embedded-Software-Engineer-I---Product-Development_WD30272369",
+      "title": "Application Engineer I",
+      "location": "Bangalore-Karnataka-India",
+      "url": "https://jci.wd5.myworkdayjobs.com/JCI/job/Bangalore-Karnataka-India/Application-Engineer-I_WD30274623",
       "team": "",
-      "text": "Build your best future with the Johnson Controls team! Who we are: Johnson Controls is global leader in smart, healthy, and sustainable buildings. Our mission is to reimagine the performance of buildings to serve people, places, and the planet. Join a winning team that enables you to build your best future! Our teams are uniquely positioned to support a multitude of industries across the globe. You will have the opportunity to develop yourself through meaningful work projects and learning opportunities. We strive to provide our employees with an experience focused on supporting their physical, financial, and emotional wellbeing. Become a member of the Johnson Controls family and thrive in an empowering company culture where your voice and ideas will be heard – your next great opportunity is just a few clicks away! What We Offer: Competitive salary Paid vacation/holidays/sick time Comprehensive benefits package including 401K, medical, dental, and vision care. On-the-job/cross-training opportunities Encouraging and collaborative team environment Dedication to safety through our Zero Harm policy **To be considered for this role, candidates must be a U.S. Citizen or a U.S. Permanent Resident (Green Card holder). Position: Johnson Controls has a phenomenal opportunity for a Senior Software Test Engineer to join our dynamic in New Freedom, PA, to help ensure the reliability and performance of our cutting-edge Chiller products. Candidates must be commuting distance to New Freedom, PA, or able to relocate. What You Will Do: You will play a critical role in the development and testing of our exciting embedded software systems! You will have the opportunity to lead testing efforts, mentor, and collaborate with cross-functional teams to ensure that our products meet the highest standards of quality. If you have a strong background in software testing, a deep understanding of embedded systems, proven experience in automated testing, and a passion for excellence, then keep reading! How you will do it: Lead the development and execution of comprehensive test plans and test cases for embedded software. Design, implement, and maintain automated and manual test frameworks and scripts to enhance testing efficiency and coverage. Collaborate with software development teams to understand requirements and ensure testability. Conduct reviews of design and requirements to identify potential issues early in the development cycle. Analyze test results, report defects, and work closely with development teams to ensure timely resolution. Participate in root cause analysis and drive corrective actions for identified issues. Contribute to process improvements and the adoption of new testing tools and methodologies. What we look for: Required Bachelor’s degree in Computer Science, Electrical Engineering, or a related field. 2+ years of overall experience in software development and testing. 1+ years of hands-on experience specifically in manual testing, preferably automated testing. Proficiency in programming languages such as C/C++, Python, or similar. Familiarity with hardware testing and debugging using tools like oscilloscopes, logic analyzers, and JTAG. Prior experience in leading testing efforts for complex embedded systems. Must be a US citizen or permanent resident. We cannot provide sponsorship for this position. Preferred: Demonstrated experience in developing and implementing automated testing solutions and frameworks. SALARY RANGE: $65,000 - $80,000 (Salary to be determined by the education, experience, knowledge, skills, and abilities of the applicant, internal equity, and alignment with market data.) This position includes a competitive benefits package. The posted salary range reflects the target compensation for this role. However, we recognize that exceptional candidates may bring unique skills and experiences that exceed the typical profile. If you believe your background warrants consideration beyond the stated range, we encourage you to apply. To support an efficient and fair hiring process, we may use technology assisted tools, including artificial intelligence (AI), to help identify and evaluate candidates. All hiring decisions are ultimately made by human reviewers. For details, please visit the About Us tab on the Johnson Controls Careers site at https://jobs.johnsoncontrols.com/about-us Johnson Controls International plc. is an equal employment opportunity and affirmative action employer and all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, age, protected veteran status, genetic information, sexual orientation, gender identity, status as a qualified individual with a disability or any other characteristic protected by law. To view more information about your equal opportunity and non-discrimination rights as a candidate, visit EEO is the Law . If you are an individual with a disability and you require an accommodation during the application process, please visit here .",
-      "_detail": "https://jci.wd5.myworkdayjobs.com/wday/cxs/jci/JCI/job/New-Freedom-Pennsylvania-United-States-of-America/Embedded-Software-Engineer-I---Product-Development_WD30272369",
+      "text": "Application Engineer I",
+      "_detail": "https://jci.wd5.myworkdayjobs.com/wday/cxs/jci/JCI/job/Bangalore-Karnataka-India/Application-Engineer-I_WD30274623",
       "_detailKind": "workday",
-      "score": 72,
+      "score": 61,
       "isMatch": false,
       "isEng": true,
       "java": false,
       "flutter": false,
       "android": false,
-      "india": false,
+      "india": true,
       "senior": false,
       "junior": true,
-      "exp": [
-        [
-          2,
-          6
-        ],
-        [
-          1,
-          5
-        ]
-      ],
-      "expFits2": true
+      "exp": [],
+      "expFits2": false
     },
     "trace": {
       "pages": [
@@ -7633,27 +7615,27 @@
         {
           "url": "https://johnsoncontrols.com/careers",
           "status": 200,
-          "bytes": 114378
+          "bytes": 114377
         },
         {
           "url": "https://johnsoncontrols.com/career",
           "status": 200,
-          "bytes": 239736
+          "bytes": 239740
         },
         {
           "url": "https://johnsoncontrols.com/jobs",
           "status": 200,
-          "bytes": 239736
+          "bytes": 239740
         },
         {
           "url": "https://johnsoncontrols.com/join-us",
           "status": 200,
-          "bytes": 239738
+          "bytes": 239739
         },
         {
           "url": "https://johnsoncontrols.com/join-our-team",
           "status": 200,
-          "bytes": 239736
+          "bytes": 239740
         },
         {
           "url": "https://johnsoncontrols.com/careers.html",
@@ -7663,22 +7645,22 @@
         {
           "url": "https://johnsoncontrols.com/company/careers",
           "status": 200,
-          "bytes": 239738
+          "bytes": 239741
         },
         {
           "url": "https://johnsoncontrols.com/about/careers",
           "status": 200,
-          "bytes": 239739
+          "bytes": 239740
         },
         {
           "url": "https://johnsoncontrols.com/current-openings",
           "status": 200,
-          "bytes": 239736
+          "bytes": 239741
         },
         {
           "url": "https://johnsoncontrols.com/",
           "status": 200,
-          "bytes": 253681
+          "bytes": 253482
         }
       ],
       "candidates": [
@@ -7693,7 +7675,7 @@
         "workday:jci -> 400 jobs"
       ]
     },
-    "ms": 44743
+    "ms": 46925
   },
   {
     "company": "Jaro Education",
@@ -7863,7 +7845,7 @@
         "workable:jaroeducation -> no board"
       ]
     },
-    "ms": 7396
+    "ms": 5025
   },
   {
     "company": "JSW Group",
@@ -7939,7 +7921,7 @@
       "candidates": [],
       "attempts": []
     },
-    "ms": 14203
+    "ms": 13049
   },
   {
     "company": "Jar",
@@ -8207,7 +8189,7 @@
         "jazzhr:changejar -> 11 jobs"
       ]
     },
-    "ms": 4277
+    "ms": 9503
   },
   {
     "company": "Jify",
@@ -8281,47 +8263,47 @@
         {
           "url": "https://jify.co/careers",
           "status": 404,
-          "bytes": 235293
+          "bytes": 235291
         },
         {
           "url": "https://jify.co/career",
           "status": 404,
-          "bytes": 235297
+          "bytes": 235290
         },
         {
           "url": "https://jify.co/jobs",
           "status": 404,
-          "bytes": 235296
+          "bytes": 235290
         },
         {
           "url": "https://jify.co/join-us",
           "status": 404,
-          "bytes": 235299
+          "bytes": 235292
         },
         {
           "url": "https://jify.co/join-our-team",
           "status": 404,
-          "bytes": 235305
+          "bytes": 235296
         },
         {
           "url": "https://jify.co/careers.html",
           "status": 404,
-          "bytes": 235304
+          "bytes": 235297
         },
         {
           "url": "https://jify.co/company/careers",
           "status": 404,
-          "bytes": 235305
+          "bytes": 235301
         },
         {
           "url": "https://jify.co/about/careers",
           "status": 404,
-          "bytes": 235302
+          "bytes": 235303
         },
         {
           "url": "https://jify.co/current-openings",
           "status": 404,
-          "bytes": 235302
+          "bytes": 235308
         },
         {
           "url": "https://jify.co/",
@@ -8344,7 +8326,7 @@
         "workable:jify -> no board"
       ]
     },
-    "ms": 26022
+    "ms": 33905
   },
   {
     "company": "JoulesToWatts",
@@ -8432,7 +8414,7 @@
         "workable:joulestowatts -> no board"
       ]
     },
-    "ms": 4556
+    "ms": 5799
   },
   {
     "company": "Jumio India",
@@ -8617,7 +8599,7 @@
         "workable:jumio -> no board"
       ]
     },
-    "ms": 24797
+    "ms": 21381
   },
   {
     "company": "Jupiter Money",
@@ -9018,7 +9000,7 @@
         "keka:jupiter -> 12 jobs"
       ]
     },
-    "ms": 1137
+    "ms": 927
   },
   {
     "company": "Josh Technology Group",
@@ -9177,6 +9159,7 @@
       "url": "https://www.joshtechnologygroup.com/careers/software-developer-php-magento/",
       "team": "",
       "text": "Software Developer (PHP & Magento) - Josh Technology Group What Solutions Industries Labs Who Our Values Timeline Leadership Team Social Careers Contact Current Openings Software Developer (PHP & Magento) Apply Now Qualifications: • B.E/B.Tech in CS/IT/ECE from a reputed college. Experience: • 1- 3 years of software development experience. Work Location: • Gurgaon (WFO) Job Description: ● Combine excellent abstract reasoning ability to document, architect, develop, and test software with the commitment to excellence/defect-freebefore being deployed. ● Write and implement low-latency applications & software solutions that integrate different systems. ● Work closely with mentors, team members, team leads, program managers, and stakeholders to investigate, fix, optimize, test, and deploy high-quality solutions. ● Drive the technical design, implementation, and maintenance of larger tech initiatives geared toward improving and scaling products. ● Accurately schedule & track the progress of self & team members. Create end-to-end WBS & estimates for modules being implemented. ● Participate in planning & recognizing inconsistencies (e.g., scope, resources, feasibility, usability, customer value, etc.) in product requirements and alert the Project Mentor. Handle independently or assist the Mentor in building, testing, and documenting product releases. ● Support the team in deploying product functionality & assist the TLs in troubleshooting in the production environment. ● Rapidly incorporate new technologies as required & deliver successfully by self. ● Proactively promote Tech Culture by writing blogs, and making presentations that will help you learn & grow. ● Effectively communicate one-on-one with on-shore / off-shore product teams/developers; gather and clarify requirements from technical folks/product managers/business teams. ● Proactively assist and serve as a role model for the team members to follow the team software development process; consistently innovate the team processes to improve team productivity and quality. Required Skill-Set ● Strong Analytical, and problem-solving skills and participates in all activities with urgency, a results orientation, and a strong work ethic. ● Must have technical knowledge of PHP. and Magento 2. ● Strong experience with relational (MySQL, Maria DB) databases. ● Strong experience with unit testing and test-driven development. ● Experience working with Linux/Unix Operating systems & comfortable with command line. ● Experience with modern software engineering workflows and too ● Knowledge of web technologies like HTML/CSS/JS would be an added advantage. ● Experience in all areas of SDLC, including architecture and design, development, and testing. ● Demonstrate proficiency in at least one product & technology of strategic importance to the organisation; incorporating new technologies as required. ● Extremely passionate about code reviews, engineering best practices, and mentoring/coaching the developers to make them successful. ● Excellent understanding of feature estimation and ability to communicate issues and risks that may impact timelines, budget, or resources. ● Experience with Agile development lifecycle. ● Can gather and clarify requirements from technical folks/product managers/business teams. ● Lead by example & act as a role model for the team. Apply Now Back Software Developer (PHP & Magento) Personal Details Please mention name. Please enter valid email address. Please enter valid phone number. Professional Details Attach Resume/CV Please attach valid resume. Thank You! Thank you for getting in touch! We’ll get back to you soon. Back to Software Developer (PHP & Magento) Back to Current Openings Back Have a question? We’d to Answer! Thank You! Thank you for getting in touch! We’ll get back to you soon. Back Let’s get started! connect@joshtechnologygroup.com What Solutions Industries Labs Who About Us Team Resource Centre Blogs Culture Get in Touch Contact Careers &copy; Copyright 2009- Josh Technology Group (JTG E-Business Software Private Limited). All Rights Reserved. Privacy Policy Terms of Use What we do Who we are Careers Contact Us +91-124-4376916 connect@joshtechnologygroup.com We're a technology company, we get it, privacy is extremely important. The cookies we use on this site are all aimed at delivering the best experience we possibly can, nothing more. Your settings can be changed at any time, otherwise, we'll assume you're fine with our cookie use. OK",
+      "_enriched": true,
       "score": 75,
       "isMatch": false,
       "isEng": true,
@@ -9200,6 +9183,7 @@
       "url": "https://www.joshtechnologygroup.com/careers/software-developer-php-magento/",
       "team": "",
       "text": "Software Developer (PHP & Magento) - Josh Technology Group What Solutions Industries Labs Who Our Values Timeline Leadership Team Social Careers Contact Current Openings Software Developer (PHP & Magento) Apply Now Qualifications: • B.E/B.Tech in CS/IT/ECE from a reputed college. Experience: • 1- 3 years of software development experience. Work Location: • Gurgaon (WFO) Job Description: ● Combine excellent abstract reasoning ability to document, architect, develop, and test software with the commitment to excellence/defect-freebefore being deployed. ● Write and implement low-latency applications & software solutions that integrate different systems. ● Work closely with mentors, team members, team leads, program managers, and stakeholders to investigate, fix, optimize, test, and deploy high-quality solutions. ● Drive the technical design, implementation, and maintenance of larger tech initiatives geared toward improving and scaling products. ● Accurately schedule & track the progress of self & team members. Create end-to-end WBS & estimates for modules being implemented. ● Participate in planning & recognizing inconsistencies (e.g., scope, resources, feasibility, usability, customer value, etc.) in product requirements and alert the Project Mentor. Handle independently or assist the Mentor in building, testing, and documenting product releases. ● Support the team in deploying product functionality & assist the TLs in troubleshooting in the production environment. ● Rapidly incorporate new technologies as required & deliver successfully by self. ● Proactively promote Tech Culture by writing blogs, and making presentations that will help you learn & grow. ● Effectively communicate one-on-one with on-shore / off-shore product teams/developers; gather and clarify requirements from technical folks/product managers/business teams. ● Proactively assist and serve as a role model for the team members to follow the team software development process; consistently innovate the team processes to improve team productivity and quality. Required Skill-Set ● Strong Analytical, and problem-solving skills and participates in all activities with urgency, a results orientation, and a strong work ethic. ● Must have technical knowledge of PHP. and Magento 2. ● Strong experience with relational (MySQL, Maria DB) databases. ● Strong experience with unit testing and test-driven development. ● Experience working with Linux/Unix Operating systems & comfortable with command line. ● Experience with modern software engineering workflows and too ● Knowledge of web technologies like HTML/CSS/JS would be an added advantage. ● Experience in all areas of SDLC, including architecture and design, development, and testing. ● Demonstrate proficiency in at least one product & technology of strategic importance to the organisation; incorporating new technologies as required. ● Extremely passionate about code reviews, engineering best practices, and mentoring/coaching the developers to make them successful. ● Excellent understanding of feature estimation and ability to communicate issues and risks that may impact timelines, budget, or resources. ● Experience with Agile development lifecycle. ● Can gather and clarify requirements from technical folks/product managers/business teams. ● Lead by example & act as a role model for the team. Apply Now Back Software Developer (PHP & Magento) Personal Details Please mention name. Please enter valid email address. Please enter valid phone number. Professional Details Attach Resume/CV Please attach valid resume. Thank You! Thank you for getting in touch! We’ll get back to you soon. Back to Software Developer (PHP & Magento) Back to Current Openings Back Have a question? We’d to Answer! Thank You! Thank you for getting in touch! We’ll get back to you soon. Back Let’s get started! connect@joshtechnologygroup.com What Solutions Industries Labs Who About Us Team Resource Centre Blogs Culture Get in Touch Contact Careers &copy; Copyright 2009- Josh Technology Group (JTG E-Business Software Private Limited). All Rights Reserved. Privacy Policy Terms of Use What we do Who we are Careers Contact Us +91-124-4376916 connect@joshtechnologygroup.com We're a technology company, we get it, privacy is extremely important. The cookies we use on this site are all aimed at delivering the best experience we possibly can, nothing more. Your settings can be changed at any time, otherwise, we'll assume you're fine with our cookie use. OK",
+      "_enriched": true,
       "score": 75,
       "isMatch": false,
       "isEng": true,
@@ -9316,7 +9300,7 @@
         "workable:joshtechnologygroup -> no board"
       ]
     },
-    "ms": 16999
+    "ms": 16566
   },
   {
     "company": "Jade Global",
@@ -13091,7 +13075,7 @@
         "workday:jadeglobal -> 237 jobs"
       ]
     },
-    "ms": 23117
+    "ms": 20529
   },
   {
     "company": "Jindal Steel",
@@ -13164,7 +13148,7 @@
         "workable:jindalsteelpower -> no board"
       ]
     },
-    "ms": 51172
+    "ms": 38777
   },
   {
     "company": "Jaguar Land Rover India",
@@ -13246,7 +13230,7 @@
         "workable:jaguarlandrover -> no board"
       ]
     },
-    "ms": 27541
+    "ms": 39341
   },
   {
     "company": "Jamboree Education",
@@ -13316,12 +13300,12 @@
         {
           "url": "https://jamboreeeducation.com/",
           "status": 200,
-          "bytes": 499921
+          "bytes": 499184
         },
         {
           "url": "https://www.jamboreeindia.com/career-counseling",
           "status": 200,
-          "bytes": 276450
+          "bytes": 277228
         },
         {
           "url": "https://www.jamboreeindia.com/work-with-us",
@@ -13344,7 +13328,7 @@
         "workable:jamboreeeducation -> no board"
       ]
     },
-    "ms": 15021
+    "ms": 15028
   },
   {
     "company": "Janitri",
@@ -13511,7 +13495,7 @@
         "workable:janitri -> no board"
       ]
     },
-    "ms": 8580
+    "ms": 4093
   },
   {
     "company": "Jaypee Group",
@@ -13529,7 +13513,7 @@
       "pages": [],
       "attempts": []
     },
-    "ms": 90001
+    "ms": 90004
   },
   {
     "company": "Jeavio",
@@ -13624,7 +13608,7 @@
         "workable:jeavio -> no board"
       ]
     },
-    "ms": 30892
+    "ms": 19263
   },
   {
     "company": "Jio Haptik",
@@ -13653,7 +13637,7 @@
         {
           "url": "https://haptik.ai/career",
           "status": 404,
-          "bytes": 89831
+          "bytes": 89828
         }
       ],
       "candidates": [
@@ -13683,7 +13667,7 @@
         "workable:haptik -> no board"
       ]
     },
-    "ms": 28320
+    "ms": 28473
   },
   {
     "company": "Jivox India",
@@ -13819,7 +13803,7 @@
         "workable:jivox -> no board"
       ]
     },
-    "ms": 24621
+    "ms": 24767
   },
   {
     "company": "JK Tech",
@@ -14040,7 +14024,7 @@
         "workable:jktech -> no board"
       ]
     },
-    "ms": 25158
+    "ms": 24574
   },
   {
     "company": "Jocata",
@@ -14128,7 +14112,7 @@
         "workable:jocata -> no board"
       ]
     },
-    "ms": 4650
+    "ms": 3692
   },
   {
     "company": "Jodo",
@@ -14326,7 +14310,7 @@
         "keka:jodo -> 6 jobs"
       ]
     },
-    "ms": 12612
+    "ms": 12303
   },
   {
     "company": "Josh Talks",
@@ -14749,7 +14733,7 @@
         "workable:joshtalks -> no board"
       ]
     },
-    "ms": 17005
+    "ms": 16745
   },
   {
     "company": "Joveo",
@@ -14889,7 +14873,7 @@
         "workable:joveo -> no board"
       ]
     },
-    "ms": 15143
+    "ms": 24018
   },
   {
     "company": "JTG Systems",
@@ -14977,7 +14961,7 @@
         "workable:jtgsystems -> no board"
       ]
     },
-    "ms": 14755
+    "ms": 16027
   },
   {
     "company": "Jungleworks",
@@ -15002,12 +14986,12 @@
         {
           "url": "https://jungleworks.com/careers",
           "status": 200,
-          "bytes": 198266
+          "bytes": 198265
         },
         {
           "url": "https://jungleworks.com/career",
           "status": 200,
-          "bytes": 198266
+          "bytes": 198265
         },
         {
           "url": "https://jungleworks.com/jobs",
@@ -15037,7 +15021,7 @@
         "workable:jungleworks -> no board"
       ]
     },
-    "ms": 8316
+    "ms": 8514
   },
   {
     "company": "Junglee Games",
@@ -15135,7 +15119,7 @@
         "workable:jungleegames -> no board"
       ]
     },
-    "ms": 2750
+    "ms": 3601
   },
   {
     "company": "Juniper Networks India",
@@ -15213,41 +15197,6 @@
         "score": 72
       },
       {
-        "title": "System Software Engineer",
-        "location": "Sunnyvale, California, United States of America",
-        "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Sunnyvale-California-United-States-of-America/System-Software-Engineer_1210331-2",
-        "india": false,
-        "locationSaysIndia": false,
-        "hasLocation": true,
-        "isEng": true,
-        "java": true,
-        "flutter": false,
-        "senior": false,
-        "exp": [
-          [
-            4,
-            8
-          ]
-        ],
-        "expFits2": false,
-        "score": 67
-      },
-      {
-        "title": "Graduate Software Engineer",
-        "location": "Bengaluru, Karnātaka, India",
-        "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Bengaluru-Karntaka-India/Graduate-Software-Engineer_1210218-2",
-        "india": true,
-        "locationSaysIndia": true,
-        "hasLocation": true,
-        "isEng": true,
-        "java": false,
-        "flutter": false,
-        "senior": false,
-        "exp": [],
-        "expFits2": false,
-        "score": 61
-      },
-      {
         "title": "Network Engineer - Software TAC",
         "location": "2 Locations",
         "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Bengaluru-Karntaka-India/Network-Engineer---Software-TAC_1208555-2",
@@ -15318,6 +15267,21 @@
         "score": 49
       },
       {
+        "title": "L1 Networking Support Engineer",
+        "location": "Bucharest, Romania",
+        "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Bucharest-Romania/Technical-Support-Engineer-Associate_1209187-2",
+        "india": false,
+        "locationSaysIndia": false,
+        "hasLocation": true,
+        "isEng": true,
+        "java": false,
+        "flutter": false,
+        "senior": false,
+        "exp": [],
+        "expFits2": false,
+        "score": 46
+      },
+      {
         "title": "Packet Forwarding Software Engineer",
         "location": "Bengaluru, Karnātaka, India",
         "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Bengaluru-Karntaka-India/Packet-Forwarding-Software-Engineer_1198240-2",
@@ -15341,6 +15305,21 @@
         "title": "System Engineer Networking Datacenter and Juniper Portfolio",
         "location": "Paco de Arcos, Lisbon, Portugal",
         "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Paco-de-Arcos-Lisbon-Portugal/System-Engineer-Networking-Datacenter-and-Juniper-Portfolio_1207823-2",
+        "india": false,
+        "locationSaysIndia": false,
+        "hasLocation": true,
+        "isEng": true,
+        "java": false,
+        "flutter": false,
+        "senior": false,
+        "exp": [],
+        "expFits2": false,
+        "score": 34
+      },
+      {
+        "title": "System Software Engineer",
+        "location": "Sunnyvale, California, United States of America",
+        "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Sunnyvale-California-United-States-of-America/System-Software-Engineer_1210331-2",
         "india": false,
         "locationSaysIndia": false,
         "hasLocation": true,
@@ -15812,6 +15791,7 @@
         "text": "Cloud Developer- Virtualization This role has been designed as 'Hybrid' with a requirement that you will work on average 2 days per week from an HPE office. Who We Are: Hewlett Packard Enterprise is the global edge-to-cloud company advancing the way people live and work. We help companies connect, protect, analyze, and act on their data and applications wherever they live, from edge to cloud, so they can turn insights into outcomes at the speed required to thrive in today’s complex world. Our culture thrives on finding new and better ways to accelerate what’s next. We know varied backgrounds are valued and succeed here. We have the flexibility to manage our work and personal needs. We make bold moves, together, and are a force for good. If you are looking to stretch and grow your career our culture will embrace you. Open up opportunities with HPE. Job Description: In HPE Hybrid Cloud, we lead the innovation agenda and technology roadmap for all of HPE. This includes managing the design, development, and product portfolio of our next-generation cloud platform, Green Lake. Working with customers, we help them reimagine their information technology needs to deliver a simple, consumable solution that helps them drive their business results. Join us redefine what’s next for you. Job Family Definition: The Cloud Developer builds from the ground up to meet the needs of mission-critical applications, and is always looking for innovative approaches to deliver end-to-end technical solutions to solve customer problems. Brings technical thinking to break down complex data and to engineer new ideas and methods for solving, prototyping, designing, and implementing cloud-based solutions. Collaborates with project managers and development partners to ensure effective and efficient delivery, deployment, operation, monitoring, and support of Cloud engagements. The Cloud Developer provides business value expertise to drive the development of innovative service offerings that enrich HPE's Cloud Services portfolio across multiple systems, platforms, and applications. Management Level Definition: Contributes to assignments of limited scope by applying technical concepts and theoretical knowledge acquired through specialized training, education, or previous experience. Acts as team member by providing information, analysis and recommendations in support of team efforts. Exercises independent judgment within defined parameters. What you’ll do: Responsibilities: Develops and maintains cloud application modules per feature specifications, adhering to security policies. Designs test plans and executes and automates test cases for assigned portions of the application. Deploys code and debugs issues. Shares and reviews innovative technical ideas with peers, high-level technical contributors, technical writers, and managers. Analyses science, engineering, business, and other data processing problems to develop and implement solutions to complex application problems, system administration issues, or network concerns. What you need to bring: Education and Experience Required: Bachelor's degree in computer science, engineering, information systems, or closely related quantitative discipline. Master’s desirable. Typically, 1-3 years’ experience. Knowledge and Skills: Programming skills in Python, Java, Golang, or JavaScript. Understanding of basic testing, coding, and debugging procedures. Ability to quickly learn new skills and technologies and work well with other team members. Good written and verbal communication skills. Understanding DevOps practices like continuous integration/continuous deployment (CI/CD). Cloud & Virtualization: Familiarity with cloud platforms (AWS, Azure) and virtualization technologies (KVM, OpenVZ) for hybrid deployments. Containers and Devops: Understanding microservice architecture and how they can be built in a containerized, Kubernetes managed environment, CI/CD using GitHub Actions. Evaluating forms and processes for software systems testing and methodology, including writing and executing test plans, debugging, and testing scripts and tools. What We Can Offer You: Health & Wellbeing We strive to provide our team members and their loved ones with a comprehensive suite of benefits that supports their physical, financial and emotional wellbeing. Personal & Professional Development We also invest in your career because the better you are, the better we all are. We have specific programs catered to helping you reach any career goals you have — whether you want to become a knowledge expert in your field or apply your skills to another division. Unconditional Inclusion We are unconditionally inclusive in the way we work and celebrate individual uniqueness. We know varied backgrounds are valued and succeed here. We have the flexibility to manage our work and personal needs. We make bold moves, together, and are a force for good. Let's Stay Connected: Follow @HPECareers on Instagram to see the latest on people, culture and tech at HPE. #india #hybridcloud Job: Engineering Job Level: TCP_01 HPE is an Equal Employment Opportunity/ Veterans/Disabled/LGBT employer. We do not discriminate on the basis of race, gender, or any other protected category, and all decisions we make are made on the basis of qualifications, merit, and business need. Our goal is to be one global team that is representative of our customers, in an inclusive environment where we can continue to innovate and grow together. Please click here: Equal Employment Opportunity . Hewlett Packard Enterprise is EEO Protected Veteran/ Individual with Disabilities. HPE will comply with all applicable laws related to employer use of arrest and conviction records, including laws requiring employers to consider for employment qualified applicants with criminal histories. Recruitment Fraud Alert We have become aware of an increase in fraudulent recruitment activities in which individuals impersonate our company or authorized recruitment agencies to offer fake employment opportunities. These scams may occur through false websites, emails, social media, or chat-based applications and often aim to obtain personal information or money. Please note that Hewlett Packard Enterprise (HPE), its direct and indirect subsidiaries and affiliated companies, and its authorized recruitment agencies/vendors will never charge a candidate a registration fee, hiring fee, or any other fee in connection with its recruitment and hiring process. We also never request personal information such as back account details, Social Security numbers, or national IDs via social media or chat applications. All legitimate job opportunities will come through official company channels, and candidates are responsible for verifying the credentials of any third party claiming to represent the company. Any reliance on fraudulent communication is at the individual’s own risk, and HPE disclaims legal liability for any resulting damages. If you suspect recruitment fraud, do not share personal information or make any payments and report the incident to your local authorities immediately.",
         "_detail": "https://hpe.wd5.myworkdayjobs.com/wday/cxs/hpe/Jobsathpe/job/Bengaluru-Karntaka-India/Cloud-Developer--Virtualization_1211072-2",
         "_detailKind": "workday",
+        "_enriched": true,
         "score": 100,
         "isMatch": true,
         "isEng": true,
@@ -15830,33 +15810,7 @@
         "expFits2": true
       }
     ],
-    "nearMatches": [
-      {
-        "title": "System Software Engineer",
-        "location": "Sunnyvale, California, United States of America",
-        "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Sunnyvale-California-United-States-of-America/System-Software-Engineer_1210331-2",
-        "team": "",
-        "text": "System Software Engineer This role has been designed as ‘’Onsite’ with an expectation that you will primarily work from an HPE office. Who We Are: Hewlett Packard Enterprise is the global edge-to-cloud company advancing the way people live and work. We help companies connect, protect, analyze, and act on their data and applications wherever they live, from edge to cloud, so they can turn insights into outcomes at the speed required to thrive in today’s complex world. Our culture thrives on finding new and better ways to accelerate what’s next. We know varied backgrounds are valued and succeed here. We have the flexibility to manage our work and personal needs. We make bold moves, together, and are a force for good. If you are looking to stretch and grow your career our culture will embrace you. Open up opportunities with HPE. Job Description: The Systems Software Engineer will design, develop, troubleshoot and debug software programs for software enhancements and new products. Design and develop software for large scale distributed systems. Gather system requirements from product managers, customers, architects, development engineers, system testers, and customer advocates for service platforms. The Sr. Systems Software Engineer c ontributions include applying developed subject matter expertise to solve common and sometimes complex technical problems and recommending alternatives where necessary. Might act as project lead and provide assistance to lower level professionals. Exercises independent judgment and consults with others to determine best method for accomplishing work and achieving objectives. Position Location: Sunnyvale, CA. office on a hybrid schedule to include at lease 3 days in office. Responsibilities: · Designs enhancements, updates, and programming changes for portions and subsystems of systems software, including operating systems, compliers, networking, utilities, databases, and Internet-related tools. · Analyzes design and determines coding, programming, and integration activities required based on general objectives and knowledge of overall architecture of product or solution. · Writes and executes complete testing plans, protocols, and documentation for assigned portion of application; identifies and debugs, and creates solutions for issues with code and integration into application architecture. · Leads a project team of other software systems engineers and internal and outsourced development partners to develop reliable, cost effective and high quality solutions for assigned systems portion or subsystem. · Collaborates and communicates with management, internal, and outsourced development partners regarding software systems design status, project progress, and issue resolution. · Represents the software systems engineering team for all phases of larger and more-complex development projects. Provides guidance and mentoring to less- experienced staff members. · Provides guidance and mentoring to less- experienced staff members. Education and Experience Required: · Bachelor's or Master's degree in Computer Science, Information Systems, or equivalent. · 4 + years of experience om software development. Knowledge and Skills: · Expertise in multiple software systems design tools and languages. · Strong analytical and problem solving skills. · Experience with one or more programming languages: Golang, Python, Java · Experience with Distributed systems and Microservice Architectures using technologies such as Docker, Kubernetes, Kafka. · Experience with RESTFUL APIs, RPC Frameworks, Web Sockets · Experience with Database and Big Data technologies like ElasticSearch, OpenSearch, Spark, Dynamo DB, Cassandra, MongoDB, PostgreSQL, and deep understanding of SQL and NoSQL Databases · Understanding of fundamental ML concepts and integration patterns for production systems · Experience with software development that interfaces with ML models and AI services · Knowledge of data preprocessing and feature engineering from a software implementation perspective What We Can Offer You: Health & Wellbeing We strive to provide our team members and their loved ones with a comprehensive suite of benefits that supports their physical, financial and emotional wellbeing. Personal & Professional Development We also invest in your career because the better you are, the better we all are. We have specific programs catered to helping you reach any career goals you have — whether you want to become a knowledge expert in your field or apply your skills to another division. Unconditional Inclusion We are unconditionally inclusive in the way we work and celebrate individual uniqueness. We know varied backgrounds are valued and succeed here. We have the flexibility to manage our work and personal needs. We make bold moves, together, and are a force for good. Let's Stay Connected: Follow @HPECareers on Instagram to see the latest on people, culture and tech at HPE. Job: Engineering Job Level: TCP_03 \"The expected salary/wage range for this position is provided below. Actual offer may vary from this range based upon geographic location, work experience, education/training, and/or skill level. – United States of America: Annual Salary USD 120,500 - 243,000 in California The listed salary range reflects base salary. Variable incentives may also be offered.\" Information about employee benefits offered in the US can be found at https://myhperewards.com/main/new-hire-enrollment.html HPE is an Equal Employment Opportunity/ Veterans/Disabled/LGBT employer. We do not discriminate on the basis of race, gender, or any other protected category, and all decisions we make are made on the basis of qualifications, merit, and business need. Our goal is to be one global team that is representative of our customers, in an inclusive environment where we can continue to innovate and grow together. Please click here: Equal Employment Opportunity . Hewlett Packard Enterprise is EEO Protected Veteran/ Individual with Disabilities. HPE will comply with all applicable laws related to employer use of arrest and conviction records, including laws requiring employers to consider for employment qualified applicants with criminal histories. Recruitment Fraud Alert We have become aware of an increase in fraudulent recruitment activities in which individuals impersonate our company or authorized recruitment agencies to offer fake employment opportunities. These scams may occur through false websites, emails, social media, or chat-based applications and often aim to obtain personal information or money. Please note that Hewlett Packard Enterprise (HPE), its direct and indirect subsidiaries and affiliated companies, and its authorized recruitment agencies/vendors will never charge a candidate a registration fee, hiring fee, or any other fee in connection with its recruitment and hiring process. We also never request personal information such as back account details, Social Security numbers, or national IDs via social media or chat applications. All legitimate job opportunities will come through official company channels, and candidates are responsible for verifying the credentials of any third party claiming to represent the company. Any reliance on fraudulent communication is at the individual’s own risk, and HPE disclaims legal liability for any resulting damages. If you suspect recruitment fraud, do not share personal information or make any payments and report the incident to your local authorities immediately.",
-        "_detail": "https://hpe.wd5.myworkdayjobs.com/wday/cxs/hpe/Jobsathpe/job/Sunnyvale-California-United-States-of-America/System-Software-Engineer_1210331-2",
-        "_detailKind": "workday",
-        "score": 67,
-        "isMatch": false,
-        "isEng": true,
-        "java": true,
-        "flutter": false,
-        "android": false,
-        "india": false,
-        "senior": false,
-        "junior": false,
-        "exp": [
-          [
-            4,
-            8
-          ]
-        ],
-        "expFits2": false
-      }
-    ],
+    "nearMatches": [],
     "closest": {
       "title": "Cloud Developer- Virtualization",
       "location": "Bengaluru, Karnātaka, India",
@@ -15865,6 +15819,7 @@
       "text": "Cloud Developer- Virtualization This role has been designed as 'Hybrid' with a requirement that you will work on average 2 days per week from an HPE office. Who We Are: Hewlett Packard Enterprise is the global edge-to-cloud company advancing the way people live and work. We help companies connect, protect, analyze, and act on their data and applications wherever they live, from edge to cloud, so they can turn insights into outcomes at the speed required to thrive in today’s complex world. Our culture thrives on finding new and better ways to accelerate what’s next. We know varied backgrounds are valued and succeed here. We have the flexibility to manage our work and personal needs. We make bold moves, together, and are a force for good. If you are looking to stretch and grow your career our culture will embrace you. Open up opportunities with HPE. Job Description: In HPE Hybrid Cloud, we lead the innovation agenda and technology roadmap for all of HPE. This includes managing the design, development, and product portfolio of our next-generation cloud platform, Green Lake. Working with customers, we help them reimagine their information technology needs to deliver a simple, consumable solution that helps them drive their business results. Join us redefine what’s next for you. Job Family Definition: The Cloud Developer builds from the ground up to meet the needs of mission-critical applications, and is always looking for innovative approaches to deliver end-to-end technical solutions to solve customer problems. Brings technical thinking to break down complex data and to engineer new ideas and methods for solving, prototyping, designing, and implementing cloud-based solutions. Collaborates with project managers and development partners to ensure effective and efficient delivery, deployment, operation, monitoring, and support of Cloud engagements. The Cloud Developer provides business value expertise to drive the development of innovative service offerings that enrich HPE's Cloud Services portfolio across multiple systems, platforms, and applications. Management Level Definition: Contributes to assignments of limited scope by applying technical concepts and theoretical knowledge acquired through specialized training, education, or previous experience. Acts as team member by providing information, analysis and recommendations in support of team efforts. Exercises independent judgment within defined parameters. What you’ll do: Responsibilities: Develops and maintains cloud application modules per feature specifications, adhering to security policies. Designs test plans and executes and automates test cases for assigned portions of the application. Deploys code and debugs issues. Shares and reviews innovative technical ideas with peers, high-level technical contributors, technical writers, and managers. Analyses science, engineering, business, and other data processing problems to develop and implement solutions to complex application problems, system administration issues, or network concerns. What you need to bring: Education and Experience Required: Bachelor's degree in computer science, engineering, information systems, or closely related quantitative discipline. Master’s desirable. Typically, 1-3 years’ experience. Knowledge and Skills: Programming skills in Python, Java, Golang, or JavaScript. Understanding of basic testing, coding, and debugging procedures. Ability to quickly learn new skills and technologies and work well with other team members. Good written and verbal communication skills. Understanding DevOps practices like continuous integration/continuous deployment (CI/CD). Cloud & Virtualization: Familiarity with cloud platforms (AWS, Azure) and virtualization technologies (KVM, OpenVZ) for hybrid deployments. Containers and Devops: Understanding microservice architecture and how they can be built in a containerized, Kubernetes managed environment, CI/CD using GitHub Actions. Evaluating forms and processes for software systems testing and methodology, including writing and executing test plans, debugging, and testing scripts and tools. What We Can Offer You: Health & Wellbeing We strive to provide our team members and their loved ones with a comprehensive suite of benefits that supports their physical, financial and emotional wellbeing. Personal & Professional Development We also invest in your career because the better you are, the better we all are. We have specific programs catered to helping you reach any career goals you have — whether you want to become a knowledge expert in your field or apply your skills to another division. Unconditional Inclusion We are unconditionally inclusive in the way we work and celebrate individual uniqueness. We know varied backgrounds are valued and succeed here. We have the flexibility to manage our work and personal needs. We make bold moves, together, and are a force for good. Let's Stay Connected: Follow @HPECareers on Instagram to see the latest on people, culture and tech at HPE. #india #hybridcloud Job: Engineering Job Level: TCP_01 HPE is an Equal Employment Opportunity/ Veterans/Disabled/LGBT employer. We do not discriminate on the basis of race, gender, or any other protected category, and all decisions we make are made on the basis of qualifications, merit, and business need. Our goal is to be one global team that is representative of our customers, in an inclusive environment where we can continue to innovate and grow together. Please click here: Equal Employment Opportunity . Hewlett Packard Enterprise is EEO Protected Veteran/ Individual with Disabilities. HPE will comply with all applicable laws related to employer use of arrest and conviction records, including laws requiring employers to consider for employment qualified applicants with criminal histories. Recruitment Fraud Alert We have become aware of an increase in fraudulent recruitment activities in which individuals impersonate our company or authorized recruitment agencies to offer fake employment opportunities. These scams may occur through false websites, emails, social media, or chat-based applications and often aim to obtain personal information or money. Please note that Hewlett Packard Enterprise (HPE), its direct and indirect subsidiaries and affiliated companies, and its authorized recruitment agencies/vendors will never charge a candidate a registration fee, hiring fee, or any other fee in connection with its recruitment and hiring process. We also never request personal information such as back account details, Social Security numbers, or national IDs via social media or chat applications. All legitimate job opportunities will come through official company channels, and candidates are responsible for verifying the credentials of any third party claiming to represent the company. Any reliance on fraudulent communication is at the individual’s own risk, and HPE disclaims legal liability for any resulting damages. If you suspect recruitment fraud, do not share personal information or make any payments and report the incident to your local authorities immediately.",
       "_detail": "https://hpe.wd5.myworkdayjobs.com/wday/cxs/hpe/Jobsathpe/job/Bengaluru-Karntaka-India/Cloud-Developer--Virtualization_1211072-2",
       "_detailKind": "workday",
+      "_enriched": true,
       "score": 100,
       "isMatch": true,
       "isEng": true,
@@ -15890,6 +15845,7 @@
       "text": "Cloud Developer- Virtualization This role has been designed as 'Hybrid' with a requirement that you will work on average 2 days per week from an HPE office. Who We Are: Hewlett Packard Enterprise is the global edge-to-cloud company advancing the way people live and work. We help companies connect, protect, analyze, and act on their data and applications wherever they live, from edge to cloud, so they can turn insights into outcomes at the speed required to thrive in today’s complex world. Our culture thrives on finding new and better ways to accelerate what’s next. We know varied backgrounds are valued and succeed here. We have the flexibility to manage our work and personal needs. We make bold moves, together, and are a force for good. If you are looking to stretch and grow your career our culture will embrace you. Open up opportunities with HPE. Job Description: In HPE Hybrid Cloud, we lead the innovation agenda and technology roadmap for all of HPE. This includes managing the design, development, and product portfolio of our next-generation cloud platform, Green Lake. Working with customers, we help them reimagine their information technology needs to deliver a simple, consumable solution that helps them drive their business results. Join us redefine what’s next for you. Job Family Definition: The Cloud Developer builds from the ground up to meet the needs of mission-critical applications, and is always looking for innovative approaches to deliver end-to-end technical solutions to solve customer problems. Brings technical thinking to break down complex data and to engineer new ideas and methods for solving, prototyping, designing, and implementing cloud-based solutions. Collaborates with project managers and development partners to ensure effective and efficient delivery, deployment, operation, monitoring, and support of Cloud engagements. The Cloud Developer provides business value expertise to drive the development of innovative service offerings that enrich HPE's Cloud Services portfolio across multiple systems, platforms, and applications. Management Level Definition: Contributes to assignments of limited scope by applying technical concepts and theoretical knowledge acquired through specialized training, education, or previous experience. Acts as team member by providing information, analysis and recommendations in support of team efforts. Exercises independent judgment within defined parameters. What you’ll do: Responsibilities: Develops and maintains cloud application modules per feature specifications, adhering to security policies. Designs test plans and executes and automates test cases for assigned portions of the application. Deploys code and debugs issues. Shares and reviews innovative technical ideas with peers, high-level technical contributors, technical writers, and managers. Analyses science, engineering, business, and other data processing problems to develop and implement solutions to complex application problems, system administration issues, or network concerns. What you need to bring: Education and Experience Required: Bachelor's degree in computer science, engineering, information systems, or closely related quantitative discipline. Master’s desirable. Typically, 1-3 years’ experience. Knowledge and Skills: Programming skills in Python, Java, Golang, or JavaScript. Understanding of basic testing, coding, and debugging procedures. Ability to quickly learn new skills and technologies and work well with other team members. Good written and verbal communication skills. Understanding DevOps practices like continuous integration/continuous deployment (CI/CD). Cloud & Virtualization: Familiarity with cloud platforms (AWS, Azure) and virtualization technologies (KVM, OpenVZ) for hybrid deployments. Containers and Devops: Understanding microservice architecture and how they can be built in a containerized, Kubernetes managed environment, CI/CD using GitHub Actions. Evaluating forms and processes for software systems testing and methodology, including writing and executing test plans, debugging, and testing scripts and tools. What We Can Offer You: Health & Wellbeing We strive to provide our team members and their loved ones with a comprehensive suite of benefits that supports their physical, financial and emotional wellbeing. Personal & Professional Development We also invest in your career because the better you are, the better we all are. We have specific programs catered to helping you reach any career goals you have — whether you want to become a knowledge expert in your field or apply your skills to another division. Unconditional Inclusion We are unconditionally inclusive in the way we work and celebrate individual uniqueness. We know varied backgrounds are valued and succeed here. We have the flexibility to manage our work and personal needs. We make bold moves, together, and are a force for good. Let's Stay Connected: Follow @HPECareers on Instagram to see the latest on people, culture and tech at HPE. #india #hybridcloud Job: Engineering Job Level: TCP_01 HPE is an Equal Employment Opportunity/ Veterans/Disabled/LGBT employer. We do not discriminate on the basis of race, gender, or any other protected category, and all decisions we make are made on the basis of qualifications, merit, and business need. Our goal is to be one global team that is representative of our customers, in an inclusive environment where we can continue to innovate and grow together. Please click here: Equal Employment Opportunity . Hewlett Packard Enterprise is EEO Protected Veteran/ Individual with Disabilities. HPE will comply with all applicable laws related to employer use of arrest and conviction records, including laws requiring employers to consider for employment qualified applicants with criminal histories. Recruitment Fraud Alert We have become aware of an increase in fraudulent recruitment activities in which individuals impersonate our company or authorized recruitment agencies to offer fake employment opportunities. These scams may occur through false websites, emails, social media, or chat-based applications and often aim to obtain personal information or money. Please note that Hewlett Packard Enterprise (HPE), its direct and indirect subsidiaries and affiliated companies, and its authorized recruitment agencies/vendors will never charge a candidate a registration fee, hiring fee, or any other fee in connection with its recruitment and hiring process. We also never request personal information such as back account details, Social Security numbers, or national IDs via social media or chat applications. All legitimate job opportunities will come through official company channels, and candidates are responsible for verifying the credentials of any third party claiming to represent the company. Any reliance on fraudulent communication is at the individual’s own risk, and HPE disclaims legal liability for any resulting damages. If you suspect recruitment fraud, do not share personal information or make any payments and report the incident to your local authorities immediately.",
       "_detail": "https://hpe.wd5.myworkdayjobs.com/wday/cxs/hpe/Jobsathpe/job/Bengaluru-Karntaka-India/Cloud-Developer--Virtualization_1211072-2",
       "_detailKind": "workday",
+      "_enriched": true,
       "score": 100,
       "isMatch": true,
       "isEng": true,
@@ -15983,7 +15939,7 @@
         "workday:hpe -> 40 jobs"
       ]
     },
-    "ms": 29216
+    "ms": 35310
   },
   {
     "company": "Jupiter Meta",
@@ -16071,6 +16027,6 @@
         "workable:jupitermeta -> no board"
       ]
     },
-    "ms": 2512
+    "ms": 3227
   }
 ]

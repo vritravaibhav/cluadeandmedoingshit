@@ -1,109 +1,109 @@
 Checking 100 companies (concurrency 8)
 
 [  1/100] Yubi (CredAvenue)             22 jobs  via zohorecruit:go-yubi
-[  2/100] Yellow.ai                      0 jobs  via zohorecruit:careers.yellow.ai (0 open)
-[  3/100] Yulu Bikes                     7 jobs  via headings:https://careers.yulu.bike/
-[  4/100] Yudiz Solutions               10 jobs  via feed:https://www.yudiz.com   ** 2 MATCH **
+[  2/100] Yulu Bikes                     7 jobs  via headings:https://careers.yulu.bike/
+[  3/100] Yellow.ai                      0 jobs  via zohorecruit:careers.yellow.ai (0 open)
+[  4/100] Yudiz Solutions               10 jobs  via feed:https://www.yudiz.com   ** 1 MATCH **
 [  5/100] YES Bank                     !! no-job-data-found
 [  6/100] Yatra Online                 !! no-job-data-found
-[  7/100] YASH Technologies             64 jobs  via successfactors:careers.yash.com
+[  7/100] Yalamanchili Software Export !! careers-page-unreachable
 [  8/100] Yugasa Software Labs         !! no-job-data-found
 [  9/100] YuppTV                         3 jobs  via feed:https://careers.yupptv.com
-[ 10/100] YourStory Media              !! blocked-or-error-response
-[ 11/100] YES Securities                 8 jobs  via html:https://yesinvest.in/careers
-[ 12/100] Yalamanchili Software Export !! careers-page-unreachable
+[ 10/100] YASH Technologies             66 jobs  via successfactors:careers.yash.com
+[ 11/100] YourStory Media              !! blocked-or-error-response
+[ 12/100] YES Securities                 8 jobs  via html:https://yesinvest.in/careers
 [ 13/100] Yotta Data Services            4 jobs  via headings:https://yotta.com/careers/
-[ 14/100] YOLO Bus                     !! no-job-data-found
-[ 15/100] Yaskawa India                !! careers-page-read-but-lists-no-openings
-[ 16/100] Yodlee (Envestnet)           !! blocked-or-error-response
-[ 17/100] YouGov India                 !! careers-page-read-but-lists-no-openings
-[ 18/100] Yuvasoft Solutions           !! careers-page-unreachable
-[ 19/100] Yes Madam                    !! no-job-data-found
-[ 20/100] Yash Highvoltage               8 jobs  via headings:https://www.yashhv.com/careers
-[ 21/100] Yara India                   !! careers-page-read-but-lists-no-openings
-[ 22/100] Yellow Slice                   9 jobs  via headings:https://www.yellowslice.in/career
-[ 23/100] Ysquare Technology             4 jobs  via headings:https://www.ysquaretechnology.com/careers
-[ 24/100] Yash Raj Films               !! careers-page-read-but-lists-no-openings
-[ 25/100] Ymgrad                       !! careers-page-read-but-lists-no-openings
-[ 26/100] Yodaplus Technologies          4 jobs  via headings:https://yodaplus.com/careers.html
-[ 27/100] YuktaMedia                   !! careers-page-unreachable
-[ 28/100] Yatharth Hospitals           !! careers-page-read-but-lists-no-openings
-[ 29/100] YNOS Venture Engine          !! no-job-data-found
+[ 14/100] Yodlee (Envestnet)           !! blocked-or-error-response
+[ 15/100] YOLO Bus                     !! no-job-data-found
+[ 16/100] YouGov India                 !! careers-page-read-but-lists-no-openings
+[ 17/100] Yash Highvoltage               8 jobs  via headings:https://www.yashhv.com/careers
+[ 18/100] Yes Madam                    !! no-job-data-found
+[ 19/100] Yuvasoft Solutions           !! careers-page-unreachable
+[ 20/100] Yaskawa India                !! careers-page-read-but-lists-no-openings
+[ 21/100] Ysquare Technology             4 jobs  via headings:https://www.ysquaretechnology.com/careers
+[ 22/100] Ymgrad                       !! careers-page-read-but-lists-no-openings
+[ 23/100] Yara India                   !! careers-page-read-but-lists-no-openings
+[ 24/100] YuktaMedia                   !! careers-page-unreachable
+[ 25/100] Yatharth Hospitals           !! careers-page-read-but-lists-no-openings
+[ 26/100] Yellow Slice                   9 jobs  via headings:https://www.yellowslice.in/career
+[ 27/100] Yodaplus Technologies        !! blocked-or-error-response
+[ 28/100] YNOS Venture Engine          !! no-job-data-found
+[ 29/100] Yash Raj Films               !! careers-page-read-but-lists-no-openings
 [ 30/100] Yumlane                      !! careers-page-unreachable
-[ 31/100] Yasho Industries             !! careers-page-read-but-lists-no-openings
-[ 32/100] Yash Pakka                   !! careers-page-read-but-lists-no-openings
-[ 33/100] Yaap Digital                 !! no-job-data-found
-[ 34/100] Yuken India                    5 jobs  via headings:https://www.yukenindia.com/career/
-[ 35/100] Yext                          22 jobs  via greenhouse:yext   ** 1 MATCH **
-[ 36/100] Yahoo                         40 jobs  via workday:ouryahoo
-[ 37/100] Ybrant Digital               !! careers-page-unreachable
+[ 31/100] Yaap Digital                 !! no-job-data-found
+[ 32/100] Yasho Industries             !! careers-page-read-but-lists-no-openings
+[ 33/100] Yash Pakka                   !! careers-page-read-but-lists-no-openings
+[ 34/100] Yext                          22 jobs  via greenhouse:yext   ** 1 MATCH **
+[ 35/100] Yuken India                    5 jobs  via headings:https://www.yukenindia.com/career/
+[ 36/100] Yotpo                         14 jobs  via greenhouse:yotpo   ** 1 MATCH **
+[ 37/100] Yubico                        14 jobs  via greenhouse:yubico
 [ 38/100] Yelp                          49 jobs  via phenom:www.yelp.careers   ** 1 MATCH **
-[ 39/100] Yubico                        14 jobs  via greenhouse:yubico
-[ 40/100] YipitData                     46 jobs  via greenhouse:yipitdata
-[ 41/100] Yardi Systems                 30 jobs  via headings:https://www.yardi.com/careers/
-[ 42/100] Yotpo                         14 jobs  via greenhouse:yotpo   ** 1 MATCH **
-[ 43/100] Yieldstreet                  !! blocked-or-error-response
-[ 44/100] Ylopo                          8 jobs  via greenhouse:ylopo
-[ 45/100] Yagna iQ                     !! blocked-or-error-response
-[ 46/100] Yellowbrick Data               2 jobs  via greenhouse:yellowbrickdata   ** 2 MATCH **
-[ 47/100] Yieldmo                        0 jobs  via greenhouse:yieldmo (0 open)
-[ 48/100] YCharts                      !! careers-page-read-but-lists-no-openings
-[ 49/100] YugabyteDB                    17 jobs  via greenhouse:yugabyte
-[ 50/100] Yoodli                        12 jobs  via greenhouse:yoodliinc
-[ 51/100] Yuvo Health                    1 jobs  via greenhouse:yuvohealthllc
-[ 52/100] Yendo                          4 jobs  via ashby:yendo
-[ 53/100] Yellow Class                 !! timed-out
-[ 54/100] Yembo                          2 jobs  via rippling:yembo
-[ 55/100] Yellow Systems                 3 jobs  via headings:https://yellow.systems/careers
-[ 56/100] Y Combinator                   7 jobs  via ashby:ycombinator
-[ 57/100] Yotascale                    !! careers-page-read-but-lists-no-openings
-[ 58/100] Yes Energy                    18 jobs  via greenhouse:yesenergy
-[ 59/100] Yum China                    !! careers-page-read-but-lists-no-openings
-[ 60/100] Yokogawa Electric            !! careers-page-read-but-lists-no-openings
+[ 39/100] Yahoo                         40 jobs  via workday:ouryahoo
+[ 40/100] Yagna iQ                     !! blocked-or-error-response
+[ 41/100] YugabyteDB                    17 jobs  via greenhouse:yugabyte
+[ 42/100] Ybrant Digital               !! careers-page-unreachable
+[ 43/100] YipitData                     46 jobs  via greenhouse:yipitdata
+[ 44/100] Yardi Systems                 30 jobs  via headings:https://www.yardi.com/careers/
+[ 45/100] Yieldstreet                  !! blocked-or-error-response
+[ 46/100] Ylopo                          8 jobs  via greenhouse:ylopo
+[ 47/100] Yembo                          2 jobs  via rippling:yembo
+[ 48/100] Yieldmo                        0 jobs  via greenhouse:yieldmo (0 open)
+[ 49/100] Yendo                          4 jobs  via ashby:yendo
+[ 50/100] YCharts                      !! careers-page-read-but-lists-no-openings
+[ 51/100] Yellow Systems                 3 jobs  via headings:https://yellow.systems/careers
+[ 52/100] Yellow Class                 !! timed-out
+[ 53/100] Y Combinator                   7 jobs  via ashby:ycombinator
+[ 54/100] Yes Energy                    18 jobs  via greenhouse:yesenergy
+[ 55/100] Yuvo Health                    1 jobs  via greenhouse:yuvohealthllc
+[ 56/100] Yellowbrick Data               2 jobs  via greenhouse:yellowbrickdata   ** 2 MATCH **
+[ 57/100] Yoodli                        12 jobs  via greenhouse:yoodliinc
+[ 58/100] Yum China                    !! careers-page-read-but-lists-no-openings
+[ 59/100] Yokogawa Electric            !! careers-page-read-but-lists-no-openings
+[ 60/100] Yotascale                    !! careers-page-read-but-lists-no-openings
 [ 61/100] Yamaha Motor                   7 jobs  via smartrecruiters:YamahaMotor
 [ 62/100] Ygrene Energy Fund             2 jobs  via wordpress:https://ygrene.com
-[ 63/100] Yum! Brands                    2 jobs  via headings:https://www.yum.com/wps/portal/yumbrands/Yumbrands/careers
-[ 64/100] YouGov                       200 jobs  via feed:https://yougov.com
-[ 65/100] Yokohama TWS                   3 jobs  via headings:https://www.yokohama-tws.com/en/careers
-[ 66/100] Ytel                          14 jobs  via sitemap:https://www.ytel.com
-[ 67/100] Yanmar                         8 jobs  via sitemap:https://www.yanmar.com
-[ 68/100] Yavar TechWorks              !! careers-page-unreachable
-[ 69/100] Yara International           !! careers-page-read-but-lists-no-openings
-[ 70/100] Yolo Group                   !! no-job-data-found
+[ 63/100] Ytel                          14 jobs  via sitemap:https://www.ytel.com
+[ 64/100] Yum! Brands                    2 jobs  via headings:https://www.yum.com/wps/portal/yumbrands/Yumbrands/careers
+[ 65/100] YouGov                       200 jobs  via feed:https://yougov.com
+[ 66/100] Yavar TechWorks              !! timed-out
+[ 67/100] Yokohama TWS                   3 jobs  via headings:https://www.yokohama-tws.com/en/careers
+[ 68/100] Yara International           !! careers-page-read-but-lists-no-openings
+[ 69/100] Yanmar                         8 jobs  via sitemap:https://www.yanmar.com
+[ 70/100] Yoti                         !! careers-page-read-but-lists-no-openings
 [ 71/100] Younited                       6 jobs  via lever:younited
-[ 72/100] Yoti                         !! careers-page-read-but-lists-no-openings
-[ 73/100] Yubo                           4 jobs  via ashby:yubo
-[ 74/100] YuLife                       !! careers-page-read-but-lists-no-openings
-[ 75/100] Yordex                       !! no-job-data-found
-[ 76/100] Yokoy                        !! careers-page-unreachable
-[ 77/100] Yousign                        2 jobs  via headings:https://www.welcometothejungle.com/en/companies-v1/yousign/jobs
-[ 78/100] Yoyo Wallet                    4 jobs  via wordpress:https://yoyorewards.com
-[ 79/100] Yousician                      0 jobs  via greenhouse:yousician (0 open)
-[ 80/100] Yuki                          18 jobs  via teamtailor:jobs.yukisoftware.com
-[ 81/100] Yopeso                        14 jobs  via recruitee:yopeso
-[ 82/100] Yuno                          43 jobs  via lever:yuno
-[ 83/100] Yodeck                        23 jobs  via headings:https://www.yodeck.com/careers/
-[ 84/100] Yassir                         5 jobs  via next-data:https://yassir.com/career
-[ 85/100] Younium                        1 jobs  via feed:https://careers.younium.com
-[ 86/100] Yellow Card                    6 jobs  via bamboohr:yellowcard
-[ 87/100] Yaskawa Electric             !! careers-page-read-but-lists-no-openings
-[ 88/100] Yalla Group                  !! no-job-data-found
-[ 89/100] Ypsomed                      !! careers-page-read-but-lists-no-openings
+[ 72/100] Yolo Group                   !! no-job-data-found
+[ 73/100] YuLife                       !! careers-page-read-but-lists-no-openings
+[ 74/100] Yordex                       !! no-job-data-found
+[ 75/100] Yubo                           4 jobs  via ashby:yubo
+[ 76/100] Yousign                        2 jobs  via headings:https://www.welcometothejungle.com/en/companies-v1/yousign/jobs
+[ 77/100] Yokoy                        !! careers-page-unreachable
+[ 78/100] Yousician                      0 jobs  via greenhouse:yousician (0 open)
+[ 79/100] Yoyo Wallet                    4 jobs  via wordpress:https://yoyorewards.com
+[ 80/100] Younium                        1 jobs  via feed:https://careers.younium.com
+[ 81/100] Yuno                          43 jobs  via lever:yuno
+[ 82/100] Yuki                          18 jobs  via teamtailor:jobs.yukisoftware.com
+[ 83/100] Yodeck                        22 jobs  via headings:https://www.yodeck.com/careers/
+[ 84/100] Yopeso                        14 jobs  via recruitee:yopeso
+[ 85/100] Yellow Card                    6 jobs  via bamboohr:yellowcard
+[ 86/100] Yassir                         5 jobs  via next-data:https://yassir.com/career
+[ 87/100] Ypsomed                      !! careers-page-read-but-lists-no-openings
+[ 88/100] Yourgene Health              !! no-job-data-found
+[ 89/100] Yaskawa Electric             !! careers-page-read-but-lists-no-openings
 [ 90/100] Yodo1                         15 jobs  via teamtailor:careers.yodo1.com
-[ 91/100] Yourgene Health              !! no-job-data-found
+[ 91/100] Yalla Group                  !! no-job-data-found
 [ 92/100] Yoco                         !! careers-page-read-but-lists-no-openings
-[ 93/100] Youverify                      3 jobs  via sitemap:https://youverify.co
-[ 94/100] Yellowfin BI                   5 jobs  via jazzhr:idera
-[ 95/100] Yandex                       !! careers-page-read-but-lists-no-openings
-[ 96/100] Yellow Pages Canada          !! careers-page-read-but-lists-no-openings
-[ 97/100] Yggdrasil Gaming               6 jobs  via smartrecruiters:YggdrasilSandbox   ** 1 MATCH **
-[ 98/100] Yuhu                         !! careers-page-read-but-lists-no-openings
-[ 99/100] Ynvisible Interactive        !! careers-page-read-but-lists-no-openings
-[100/100] Yves Rocher                  !! timed-out
+[ 93/100] Yellowfin BI                   5 jobs  via jazzhr:idera
+[ 94/100] Yellow Pages Canada          !! careers-page-read-but-lists-no-openings
+[ 95/100] Yuhu                         !! careers-page-read-but-lists-no-openings
+[ 96/100] Yggdrasil Gaming               6 jobs  via smartrecruiters:YggdrasilSandbox   ** 1 MATCH **
+[ 97/100] Yandex                       !! careers-page-read-but-lists-no-openings
+[ 98/100] Ynvisible Interactive        !! careers-page-read-but-lists-no-openings
+[ 99/100] Yves Rocher                  !! timed-out
+[100/100] Youverify                    !! timed-out
 
-  boards read with jobs : 51
+  boards read with jobs : 49
   boards read, 0 open   : 3
-  could not read        : 46
+  could not read        : 48
   companies w/ matches  : 6
 
 Wrote careers.txt + results.json

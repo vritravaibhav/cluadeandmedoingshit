@@ -2,13 +2,13 @@
 OPEN ROLES AT 36 "W" COMPANIES
 Looking for : Software Engineer, ~2 years experience
 Priority    : Java, Dart/Flutter        Location preference : India
-Generated   : 2026-08-07 13:19:26 UTC  by test.js
+Generated   : 2026-08-07 15:32:27 UTC  by test.js
 ==============================================================================
 
 Boards read with open roles : 18
 Boards read, currently empty: 2
 Could not read              : 16
-Total open roles seen       : 807
+Total open roles seen       : 806
 
 ##############################################################################
 # SECTION 1 — MATCHES: Software Engineer + Java/Dart/Flutter + ~2 yrs
@@ -35,11 +35,11 @@ Total open roles seen       : 807
 # SECTION 2 — INDIA: engineering, non-senior, ANY stack
 # 54 role(s). Java/Dart-Flutter still rank highest, but the brief allows
 # any tech stack, so these are the India roles worth a look regardless.
-# 2a: states a window covering ~2 yrs, or states none (51)
-# 2b: states a different window — usually 3-5 yrs (3)
+# 2a: states a window covering ~2 yrs, or states none (50)
+# 2b: states a different window — usually 3-5 yrs (4)
 ##############################################################################
 
--- 2a --------------------------------------------- fits ~2 years (51)
+-- 2a --------------------------------------------- fits ~2 years (50)
 
 >> Juniper Networks India
     Cloud Developer- Virtualization
@@ -65,11 +65,6 @@ Total open roles seen       : 807
       location : Pune-Maharashtra-India   [INDIA]
       exp req  : not stated    stack: —    score: 61
       url      : https://jci.wd5.myworkdayjobs.com/JCI/job/Pune-Maharashtra-India/Application-Engineer-I_WD30274740
->> Juniper Networks India
-    Graduate Software Engineer
-      location : Bengaluru, Karnātaka, India   [INDIA]
-      exp req  : not stated    stack: —    score: 61
-      url      : https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Bengaluru-Karntaka-India/Graduate-Software-Engineer_1210218-2
 >> Jumbotail
     Software Development Engineer
       location : n/a   [INDIA]
@@ -256,7 +251,7 @@ Total open roles seen       : 807
       exp req  : not stated    stack: —    score: 49
       url      : https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Bengaluru-Karntaka-India/Solution-Engineer-Storage-Domain_1208787-2
 
--- 2b ------------------------------------ states a wider window (3)
+-- 2b ------------------------------------ states a wider window (4)
 
 >> Jupiter Money
     Security Engineer 2
@@ -267,6 +262,11 @@ Total open roles seen       : 807
       location : Bengaluru, KA   [INDIA]
       exp req  : 3-7y    stack: —    score: 57
       url      : https://jupiter.keka.com/careers/jobdetails/134831
+>> Johnson Controls India
+    PLM Solution Developer
+      location : Pune-Maharashtra-India   [INDIA]
+      exp req  : 10-12y / 12-13y    stack: —    score: 45
+      url      : https://jci.wd5.myworkdayjobs.com/JCI/job/Pune-Maharashtra-India/PLM-Solution-Developer_WD30272951
 >> Juniper Networks India
     Packet Forwarding Software Engineer
       location : Bengaluru, Karnātaka, India   [INDIA]
@@ -300,12 +300,6 @@ Total open roles seen       : 807
       exp req  : not stated    stack: Java    score: 59
       url      : https://jadeglobal.wd5.myworkdayjobs.com/Jade_Careers/job/Pune-Maharashtra/Java-Backend---AI-Agent-Developer_R-104350
 
->> Juniper Networks India  [India]   via workday:hpe
-    System Software Engineer
-      location : Sunnyvale, California, United States of America
-      exp req  : 4-8y    stack: Java    score: 67
-      url      : https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Sunnyvale-California-United-States-of-America/System-Software-Engineer_1210331-2
-
 ##############################################################################
 # SECTION 4 — CLOSEST ROLE PER COMPANY  (fetch verification)
 # One live posting from every board the script could read. If a company
@@ -328,7 +322,7 @@ Total open roles seen       : 807
       url      : https://jumbotail.com/careers/
 
 >> John Deere India  [India]
-    board    : sitemap:https://careers.deere.com   —  27 open roles
+    board    : sitemap:https://careers.deere.com   —  26 open roles
     JR Fullstack Engineer - Indaiatuba/SP
       location : Indaiatuba, SP,BR
       exp req  : not stated    stack: Java    score: 71
@@ -336,10 +330,10 @@ Total open roles seen       : 807
 
 >> Johnson Controls India  [India]
     board    : workday:jci   —  400 open roles
-    Embedded Software Engineer I - Product Development
-      location : New Freedom-Pennsylvania-United States of America
-      exp req  : 2-6y / 1-5y    stack: —    score: 72
-      url      : https://jci.wd5.myworkdayjobs.com/JCI/job/New-Freedom-Pennsylvania-United-States-of-America/Embedded-Software-Engineer-I---Product-Development_WD30272369
+    Application Engineer I
+      location : Bangalore-Karnataka-India   [INDIA]
+      exp req  : not stated    stack: —    score: 61
+      url      : https://jci.wd5.myworkdayjobs.com/JCI/job/Bangalore-Karnataka-India/Application-Engineer-I_WD30274623
 
 >> Jaro Education  [India]
     board    : headings:https://www.jaroeducation.com/careers   —  3 open roles
@@ -472,7 +466,7 @@ Total open roles seen       : 807
 
 >> Justdial  [India]  — careers-page-read-but-lists-no-openings
     careers page : undefined
-    http status  : 0, 200, 200, 200
+    http status  : 0, 200, 200, 200, 200
     ATS tried    : greenhouse:justdial -> no board ; lever:justdial -> no board ; ashby:justdial -> no board ; recruitee:justdial -> no board
 
 >> JSW Group  [India]  — careers-page-read-but-lists-no-openings

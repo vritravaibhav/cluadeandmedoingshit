@@ -1695,13 +1695,43 @@ function expWindows(text) {
   });
 }
 
-function score(j, company) {
+/*
+ * Which stack keywords are page furniture rather than a real requirement.
+ *
+ * A dev shop's careers page carries a nav/footer listing every service it
+ * sells ("PHP Development, Java Development, Flutter App Development, ...").
+ * When we open a posting to read it, that whole chrome comes along, so a
+ * React Native role reads as Java + Flutter and lands in the priority bucket.
+ *
+ * A keyword in EVERY posting is site chrome; a real requirement varies role to
+ * role. Judge that only over the postings we actually opened — enrichment only
+ * opens engineering titles, so a sales role keeps its short listing text with
+ * no chrome in it, and counting those would mask the signal every time.
+ */
+function boilerplateStacks(jobs) {
+  const out = { java: false, flutter: false, android: false };
+  const full = jobs.filter((j) => j._enriched);
+  if (full.length < 3) return out;
+  const hit = { java: 0, flutter: 0, android: 0 };
+  for (const j of full) {
+    const t = `${j.team || ''} ${j.text || ''}`;
+    if (RE_JAVA.test(t)) hit.java++;
+    if (RE_FLUTTER.test(t)) hit.flutter++;
+    if (RE_ANDROID.test(t)) hit.android++;
+  }
+  for (const k of Object.keys(out)) out[k] = hit[k] === full.length;
+  return out;
+}
+
+function score(j, company, boiler = {}) {
   const title = j.title || '';
   const body = `${title} ${j.team} ${j.text}`;
   const isEng = RE_ENG_TITLE.test(title);
-  const java = RE_JAVA.test(body);
-  const flutter = RE_FLUTTER.test(body);
-  const android = RE_ANDROID.test(body);
+  // When a keyword is boilerplate for this board, only the title can earn it.
+  const stack = (re, isBoiler) => (isBoiler ? re.test(title) : re.test(body));
+  const java = stack(RE_JAVA, boiler.java);
+  const flutter = stack(RE_FLUTTER, boiler.flutter);
+  const android = stack(RE_ANDROID, boiler.android);
   const wins = expWindows(body);
   const fits2 = wins.some(([a, b]) => a <= 2 && b >= 2);
   const near2 = wins.some(([a, b]) => a <= 4 && b >= 1);
@@ -1750,7 +1780,7 @@ async function enrich(jobs, company) {
     if (j._detailKind === 'workday') {
       const r = await getJson(url, { timeout: 15000 });
       const d = r.ok && r.data && r.data.jobPostingInfo;
-      if (d) { j.text = stripHtml([d.jobDescription, d.jobRequirements].filter(Boolean).join(' ')).slice(0, 14000); n++; }
+      if (d) { j.text = stripHtml([d.jobDescription, d.jobRequirements].filter(Boolean).join(" ")).slice(0, 14000); j._enriched = true; n++; }
       return;
     }
     if (/api\.smartrecruiters\.com/.test(url)) {
@@ -1758,6 +1788,7 @@ async function enrich(jobs, company) {
       const s = r.ok && r.data && r.data.jobAd && r.data.jobAd.sections;
       if (s) {
         j.text = stripHtml(Object.values(s).map((x) => (x && x.text) || '').join(' ')).slice(0, 14000);
+        j._enriched = true;
         n++;
       }
       return;
@@ -1766,7 +1797,7 @@ async function enrich(jobs, company) {
     if (!r.ok) return;
     const ld = jsonLdJobs(r.text, url);
     const body = ld.length && ld[0].text ? ld[0].text : stripHtml(r.text);
-    if (body && body.length > (j.text || '').length) { j.text = body.slice(0, 14000); n++; }
+    if (body && body.length > (j.text || "").length) { j.text = body.slice(0, 14000); j._enriched = true; n++; }
     if (!j.location && ld.length && ld[0].location) j.location = ld[0].location;
   });
   return n;
@@ -1790,7 +1821,10 @@ async function run() {
     const enriched = d.jobs.length
       ? await withDeadline(enrich(d.jobs, company), ENRICH_MS, () => 0)
       : 0;
-    const scored = d.jobs.map((j) => ({ ...j, ...score(j, company) })).sort((a, b) => b.score - a.score);
+    const boiler = boilerplateStacks(d.jobs);
+    const scored = d.jobs
+      .map((j) => ({ ...j, ...score(j, company, boiler) }))
+      .sort((a, b) => b.score - a.score);
 
     const r = {
       company: company.name,

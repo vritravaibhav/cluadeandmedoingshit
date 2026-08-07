@@ -2,13 +2,13 @@
 OPEN ROLES AT 100 "W" COMPANIES
 Looking for : Software Engineer, ~2 years experience
 Priority    : Java, Dart/Flutter        Location preference : India
-Generated   : 2026-08-07 12:16:54 UTC  by test.js
+Generated   : 2026-08-07 15:50:54 UTC  by test.js
 ==============================================================================
 
-Boards read with open roles : 39
+Boards read with open roles : 40
 Boards read, currently empty: 0
-Could not read              : 61
-Total open roles seen       : 1035
+Could not read              : 60
+Total open roles seen       : 1042
 
 ##############################################################################
 # SECTION 1 — MATCHES: Software Engineer + Java/Dart/Flutter + ~2 yrs
@@ -191,7 +191,7 @@ Total open roles seen       : 1035
       url      : https://www.xavor.com/blog/enterprise-ai-governance-playbook/
 
 >> Xero  [New Zealand]
-    board    : ashby:xero   —  105 open roles
+    board    : ashby:xero   —  104 open roles
     Engineer
       location : CAN: British Columbia Remote
       exp req  : not stated    stack: Java    score: 59
@@ -219,7 +219,7 @@ Total open roles seen       : 1035
       url      : https://xylem.wd5.myworkdayjobs.com/xylem-careers/job/Bangalore/Software-Engineer_R49825
 
 >> Xactly  [USA]
-    board    : sitemap:https://careers.xactlycorp.com   —  17 open roles
+    board    : sitemap:https://careers.xactlycorp.com   —  20 open roles
     Senior AI Engineer
       location : Bengaluru, Karnataka, India   [INDIA]
       exp req  : not stated    stack: Java    score: 52
@@ -233,7 +233,7 @@ Total open roles seen       : 1035
       url      : https://job-boards.greenhouse.io/xometry/jobs/5185678007
 
 >> Xplor Technologies  [USA]
-    board    : smartrecruiters:Xplor   —  53 open roles
+    board    : smartrecruiters:Xplor   —  54 open roles
     Fullstack Software Engineer - Embedded Payments
       location : Pune, MH, in   [INDIA]
       exp req  : 4-8y    stack: —    score: 57
@@ -274,6 +274,13 @@ Total open roles seen       : 1035
       exp req  : 3-7y    stack: —    score: 42
       url      : https://job-boards.greenhouse.io/xealth/jobs/7496554003
 
+>> Xentral  [Germany]
+    board    : lever:xentral   —  3 open roles
+    Junior Finance & Accounting Manager (m/f/d) - Remote
+      location : Germany (Remote)
+      exp req  : not stated    stack: —    score: -6
+      url      : https://jobs.eu.lever.co/xentral/cb1282cf-5856-4d85-a7c8-77367c6e4abd
+
 >> Xepelin  [Chile]
     board    : lever:xepelin   —  20 open roles
     Growth Engineer Intern
@@ -296,7 +303,7 @@ Total open roles seen       : 1035
       url      : https://xtremepush.jobs.personio.com/
 
 >> Xceptor  [UK]
-    board    : greenhouse:xceptor   —  9 open roles
+    board    : greenhouse:xceptor   —  10 open roles
     Solutions Engineer
       location : Cape Town
       exp req  : 5-9y    stack: —    score: 30
@@ -415,7 +422,7 @@ Total open roles seen       : 1035
       url      : https://en.xtalpi.com/sureroute-toward-a-hallucination-free/
 
 ##############################################################################
-# SECTION 5 — NOT READ  (61 of 100)
+# SECTION 5 — NOT READ  (60 of 100)
 # lists-no-openings  = careers page loaded fine, published no vacancies
 # blocked-or-error    = bot wall / dead route (403, 404) — needs a browser
 # unreachable         = domain did not respond at all
@@ -440,11 +447,6 @@ Total open roles seen       : 1035
 >> xAI  [USA]  — blocked-or-error-response
     careers page : https://x.ai/careers
     http status  : 403, 0, 403, 403, 403, 403, 403, 403, 403, 403, 403
-
->> Xentral  [Germany]  — blocked-or-error-response
-    careers page : https://xentral.com/en/careers
-    http status  : 404, 0, 404, 404
-    ATS tried    : greenhouse:xentral -> no board ; lever:xentral -> REJECTED (board is "Not found – 404 error", not Xentral) ; ashby:xentral -> no board ; recruitee:xentral -> no board
 
 >> Xpand IT  [Portugal]  — blocked-or-error-response
     careers page : https://www.xpand-it.com/careers/
@@ -575,11 +577,6 @@ Total open roles seen       : 1035
     http status  : 200, 0, 200, 500, 200
     ATS tried    : greenhouse:xpressdocs -> no board ; lever:xpressdocs -> no board ; ashby:xpressdocs -> no board ; recruitee:xpressdocs -> no board
 
->> XiFin  [USA]  — careers-page-read-but-lists-no-openings
-    careers page : https://www.xifin.com/careers
-    http status  : 200, 200, 200, 200, 404
-    ATS tried    : greenhouse:xifin -> no board ; lever:xifin -> no board ; ashby:xifin -> no board ; recruitee:xifin -> no board
-
 >> XSOLIS  [USA]  — careers-page-read-but-lists-no-openings
     careers page : https://www.xsolis.com/careers/
     http status  : 404, 0, 404, 404, 404, 404, 404, 404, 200, 200, 404, 200
@@ -598,11 +595,6 @@ Total open roles seen       : 1035
     careers page : https://xolvis.com/careers/
     http status  : 200, 0, 200, 200, 200, 200, 200, 404, 200, 200, 200, 200
     ATS tried    : greenhouse:xolvis -> no board ; lever:xolvis -> no board ; ashby:xolvis -> no board ; recruitee:xolvis -> no board
-
->> XLPAT Labs  [India]  — careers-page-unreachable
-    careers page : https://xlpat.com/careers/
-    http status  : 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
-    ATS tried    : greenhouse:xlpat -> no board ; lever:xlpat -> no board ; ashby:xlpat -> no board ; recruitee:xlpat -> no board
 
 >> Xtranet Technologies  [India]  — careers-page-unreachable
     careers page : https://www.xtranet.co.in/careers
@@ -714,10 +706,18 @@ Total open roles seen       : 1035
     http status  : 200, 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
     ATS tried    : greenhouse:xtend -> no board ; lever:xtend -> no board ; ashby:xtend -> no board ; recruitee:xtend -> no board
 
+>> XLPAT Labs  [India]  — timed-out
+    careers page : https://xlpat.com/careers/
+    http status  : 
+
 >> XPay.Life  [India]  — timed-out
     careers page : https://www.xpay.life/life-at-xpay.html
     http status  : 
 
 >> XM Cyber  [Israel]  — timed-out
     careers page : https://xmcyber.com/careers/
+    http status  : 
+
+>> XiFin  [USA]  — timed-out
+    careers page : https://www.xifin.com/careers
     http status  : 

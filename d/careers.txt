@@ -2,13 +2,13 @@
 OPEN ROLES AT 131 "W" COMPANIES
 Looking for : Software Engineer, ~2 years experience
 Priority    : Java, Dart/Flutter        Location preference : India
-Generated   : 2026-08-07 13:11:42 UTC  by test.js
+Generated   : 2026-08-07 15:24:19 UTC  by test.js
 ==============================================================================
 
-Boards read with open roles : 59
+Boards read with open roles : 60
 Boards read, currently empty: 4
-Could not read              : 68
-Total open roles seen       : 2671
+Could not read              : 67
+Total open roles seen       : 2679
 
 ##############################################################################
 # SECTION 1 — MATCHES: Software Engineer + Java/Dart/Flutter + ~2 yrs
@@ -569,18 +569,6 @@ Total open roles seen       : 2671
       exp req  : 3-7y    stack: Java    score: 82
       url      : https://www.digicert.com/careers/?gh_jid=8628318002
 
->> DXC Technology  [United States]   via workday:dxctechnology
-    Java Developer with Italian
-      location : 2 Locations
-      exp req  : 4-8y    stack: Java    score: 67
-      url      : https://dxctechnology.wd1.myworkdayjobs.com/DXCJobs/job/BGR---SOFIA/Java-Developer-with-Italian_51584463
-
->> DBS Bank  [Singapore]   via workday:dbs
-    SA, Mobile Developer, Institutional Banking Group Technology, Group Technology
-      location : Singapore - East
-      exp req  : 3-5y / 5-6y    stack: Java + Android    score: 67
-      url      : https://dbs.wd3.myworkdayjobs.com/DBS_Careers/job/Singapore---East/SA--Mobile-Developer--Institutional-Banking-Group-Technology--Group-Technology_WD86666-1
-
 >> Databricks  [United States]   via greenhouse:databricks
     Software Engineer - Backend
       location : Belgrade, Serbia
@@ -872,8 +860,15 @@ Total open roles seen       : 2671
     board    : workday:dbs   —  40 open roles
     SA, Mobile Developer, Institutional Banking Group Technology, Group Technology
       location : Singapore - East
-      exp req  : 3-5y / 5-6y    stack: Java + Android    score: 67
+      exp req  : 3-5y / 5-6y    stack: Android    score: 50
       url      : https://dbs.wd3.myworkdayjobs.com/DBS_Careers/job/Singapore---East/SA--Mobile-Developer--Institutional-Banking-Group-Technology--Group-Technology_WD86666-1
+
+>> Danske Bank  [Denmark]
+    board    : headings:https://danskebank.com/careers   —  3 open roles
+    AML Officer in Welcoming and Orchestration
+      location : n/a
+      exp req  : not stated    stack: —    score: 4
+      url      : https://danskebank.com/careers
 
 >> Dun & Bradstreet  [United States]
     board    : lever:dnb   —  133 open roles
@@ -904,7 +899,7 @@ Total open roles seen       : 2671
       url      : https://duckcreek.wd1.myworkdayjobs.com/duckcreekcareers/job/Mumbai-India/Principal-Software-Architect_REQID54844-1
 
 >> Databricks  [United States]
-    board    : greenhouse:databricks   —  813 open roles
+    board    : greenhouse:databricks   —  814 open roles
     Software Engineer - Backend
       location : Amsterdam, Netherlands
       exp req  : 2-6y    stack: Java    score: 85
@@ -1030,14 +1025,14 @@ Total open roles seen       : 2671
       url      : https://dennemeyer.wd3.myworkdayjobs.com/dennemeyer_careers/job/Luxemburg/Software-Architect--f-m-d-_2026-0050-1
 
 >> Deere & Company  [United States]
-    board    : sitemap:https://careers.deere.com   —  27 open roles
+    board    : sitemap:https://careers.deere.com   —  26 open roles
     JR Fullstack Engineer - Indaiatuba/SP
       location : Indaiatuba, SP,BR
       exp req  : not stated    stack: Java    score: 71
       url      : http://careers.deere.com/careers/job/137482344077-jr-fullstack-engineer-indaiatuba-sp-indaiatuba-sao-paulo-brazil?domain=johndeere.com
 
 >> DuPont  [United States]
-    board    : phenom:_self   —  169 open roles
+    board    : phenom:_self   —  174 open roles
     Specialist(VBA & Python developer)
       location : Hyderabad, Telangāna   [INDIA]
       exp req  : not stated    stack: —    score: 49
@@ -1058,7 +1053,7 @@ Total open roles seen       : 2671
       url      : https://donaldson.wd115.myworkdayjobs.com/DonaldsonCareers/job/Bloomington-MN-USA/Field-Service-Engineer-II_JR-27312
 
 ##############################################################################
-# SECTION 5 — NOT READ  (68 of 131)
+# SECTION 5 — NOT READ  (67 of 131)
 # lists-no-openings  = careers page loaded fine, published no vacancies
 # blocked-or-error    = bot wall / dead route (403, 404) — needs a browser
 # unreachable         = domain did not respond at all
@@ -1132,7 +1127,7 @@ Total open roles seen       : 2671
 
 >> Digit Insurance  [India]  — careers-page-read-but-lists-no-openings
     careers page : https://www.godigit.com/careers
-    http status  : 200, 0, 200, 404, 404, 404, 404
+    http status  : 200, 0, 200, 404, 404, 404, 404, 200, 404, 404, 404, 200
     ATS tried    : darwinbox:godigit -> no board ; greenhouse:digitinsurance -> no board ; lever:digitinsurance -> no board ; ashby:digitinsurance -> no board
 
 >> Dezerv  [India]  — careers-page-read-but-lists-no-openings
@@ -1270,11 +1265,6 @@ Total open roles seen       : 2671
     http status  : 200, 200, 200, 404, 404, 404, 404, 404, 404, 404, 404, 200
     ATS tried    : greenhouse:deutsche -> no board ; lever:deutsche -> no board ; ashby:deutsche -> no board ; recruitee:deutsche -> no board
 
->> Danske Bank  [Denmark]  — careers-page-read-but-lists-no-openings
-    careers page : https://danskebank.com/careers
-    http status  : 200, 0, 200, 200, 200, 404
-    ATS tried    : greenhouse:danske -> no board ; lever:danske -> no board ; ashby:danske -> no board ; recruitee:danske -> no board
-
 >> Discover Financial Services  [United States]  — careers-page-read-but-lists-no-openings
     careers page : https://www.discover.com/careers/
     http status  : 200, 0, 200, 404, 404, 404, 404, 404, 0, 404, 404, 200
@@ -1322,7 +1312,7 @@ Total open roles seen       : 2671
 
 >> DP World  [United Arab Emirates]  — careers-page-read-but-lists-no-openings
     careers page : https://www.dpworld.com/en/careers
-    http status  : 200, 0, 200, 404, 404, 404, 404
+    http status  : 200, 0, 200, 404, 404, 404, 404, 404, 404, 404, 404, 200
     ATS tried    : greenhouse:dpworld -> no board ; lever:dpworld -> no board ; ashby:dpworld -> no board ; recruitee:dpworld -> no board
 
 >> Danaher  [United States]  — careers-page-read-but-lists-no-openings
@@ -1391,7 +1381,7 @@ Total open roles seen       : 2671
 
 >> Doubtnut  [India]  — no-job-data-found
     careers page : undefined
-    http status  : 0, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, skipped-off-domain, skipped-off-domain
+    http status  : 0, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, skipped-off-domain
     ATS tried    : smartapply:allendigital -> no board ; greenhouse:doubtnut -> no board ; lever:doubtnut -> no board ; ashby:doubtnut -> no board
 
 >> Dorleco  [India]  — timed-out

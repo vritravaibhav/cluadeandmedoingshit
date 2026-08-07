@@ -7,14 +7,18 @@
 - Rebuild folders anytime: `node weekendplan/build.js`
 - Rescan: `FORCE=1 ./weekendplan/run-letters.sh <letters>`  (scanning costs ~0 tokens; it is pure HTTP)
 
-## Known defect to fix when quota allows  (TOP PRIORITY)
-Stack tags (Java / Flutter) are matched against the WHOLE careers page on
-single-page boards, so every role on a `via wordpress:` / `via html:` /
-`via headings:` board inherits every keyword. Per-posting ATS boards
-(greenhouse/lever/keka/zoho/ashby) are correct.
-FIX: in w/test.js `score()`, only set java/flutter from `j.text` when that text
-is the posting's OWN text (enriched), not the board page. Then re-run build.js.
-Experience windows and India/seniority filters are NOT affected.
+## Stack-tag defect — FIXED 2026-08-07 (commit 6f30804)
+Root cause was NOT what was first recorded. Enrichment fetches a posting's
+whole page, which includes the site's services nav ("PHP Development, Java
+Development, Flutter App Development"), so agency boards tagged every role
+with every stack. Fix: boilerplateStacks() in w/test.js flags keywords that
+appear in ALL enriched postings and requires a title match for those.
+Only _enriched postings count — non-engineering roles are never opened, so
+their clean short text was masking the signal (this is why the first two
+attempts silently failed). Verified: Etelligens false tags gone, Wingify true
+positives intact (4/20).
+A full rescan of all 26 letters was launched after this fix; it self-commits
+and pushes when done. Check weekendplan/logs-rescan.log.
 
 ## Unfinished research (agents were killed at quota)
 Company lists were authored from model knowledge, not live research, so some

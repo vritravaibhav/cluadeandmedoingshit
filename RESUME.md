@@ -27,3 +27,10 @@ When quota resets, re-run live research per letter to (a) fix dead domains and
 2. At 80%: stop all agents/workflows, commit + push, then WAIT for reset.
 3. On reset (~4h): resume research, push again. Repeat indefinitely.
 4. Push to github.com/vritravaibhav/cluadeandmedoingshit every cycle.
+
+## Scheduled loops (session-only — recreate these if Claude was restarted)
+- 4h cycle, cron `13 */4 * * *`, recurring: quota-reset cycle. Fix stack-tag defect,
+  resume live research, stop at 80% quota, rebuild + push every time.
+- 14h chain, one-shot, self-rearming: `git pull`, read `vaibhavclaude.md` at repo root,
+  execute the prompt inside it, stop at 80% quota, rebuild + push, then CronCreate the
+  next one-shot at +14h with the same prompt. First fire: 2026-08-08 09:18 IST.

@@ -713,24 +713,15 @@ module.exports=[
   "site": "kaleyra.com"
  },
  {
-  "name": "Kellton Tech",
-  "country": "India",
-  "site": "kelltontech.com"
- },
- {
   "name": "Knowledge Lens",
   "country": "India",
   "site": "knowledgelens.com"
  },
  {
-  "name": "Krish Compusoft",
+  "name": "Rysun Labs",
   "country": "India",
-  "site": "kcsitglobal.com"
- },
- {
-  "name": "Kuliza",
-  "country": "India",
-  "site": "kuliza.com"
+  "site": "rysun.com",
+  "careers": "https://www.rysun.com/careers/"
  },
  {
   "name": "Karza Technologies",

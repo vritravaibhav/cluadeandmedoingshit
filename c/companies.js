@@ -993,11 +993,6 @@ module.exports=[
   "site": "crayondata.ai"
  },
  {
-  "name": "Crest Data Systems",
-  "country": "India",
-  "site": "crestdatasys.com"
- },
- {
   "name": "Circles.life",
   "country": "India",
   "site": "circles.life"
@@ -1006,11 +1001,6 @@ module.exports=[
   "name": "Clarisights",
   "country": "India",
   "site": "clarisights.com"
- },
- {
-  "name": "Classplus",
-  "country": "India",
-  "site": "classplus.co"
  },
  {
   "name": "Clearwater Analytics India",

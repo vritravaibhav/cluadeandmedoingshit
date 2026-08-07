@@ -939,11 +939,6 @@ module.exports=[
   "site": "antino.io"
  },
  {
-  "name": "Aricent",
-  "country": "India",
-  "site": "aricent.com"
- },
- {
   "name": "Ascendion",
   "country": "India",
   "site": "ascendion.com"

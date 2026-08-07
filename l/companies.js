@@ -272,8 +272,8 @@ module.exports=[
  {
   "name": "Lithium Urban Technologies",
   "country": "India",
-  "site": "lithium.energy",
-  "careers": "https://www.lithium.energy/careers"
+  "site": "project-lithium.com",
+  "careers": "https://project-lithium.com/career/"
  },
  {
   "name": "Litmus7",
@@ -446,8 +446,8 @@ module.exports=[
  {
   "name": "Lucas-TVS",
   "country": "India",
-  "site": "lucastvs.com",
-  "careers": "https://www.lucastvs.com/careers/"
+  "site": "lucas-tvs.com",
+  "careers": "https://career.lucas-tvs.com/"
  },
  {
   "name": "Lucent Innovation",
@@ -759,7 +759,7 @@ module.exports=[
   "name": "Lyra Network",
   "country": "France",
   "site": "lyra.com",
-  "careers": "https://www.lyra.com/careers/"
+  "careers": "https://www.lyra.com/in/jobs/"
  },
  {
   "name": "Lucid Motors India",

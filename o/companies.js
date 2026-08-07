@@ -40,11 +40,6 @@ module.exports=[
   "site": "olamgroup.com"
  },
  {
-  "name": "Omnipresent",
-  "country": "India",
-  "site": "omnipresent.com"
- },
- {
   "name": "OneCard",
   "country": "India",
   "site": "getonecard.app"
@@ -177,12 +172,14 @@ module.exports=[
  {
   "name": "Orbis Financial",
   "country": "India",
-  "site": "orbisfinancial.com"
+  "site": "orbisfinancial.in",
+  "careers": "https://orbisfinancial.in/career/"
  },
  {
   "name": "Orient Technologies",
   "country": "India",
-  "site": "orientindia.net"
+  "site": "orientindia.in",
+  "careers": "https://orientindia.in/careers"
  },
  {
   "name": "Origa Leasing",
@@ -210,8 +207,396 @@ module.exports=[
   "site": "outplayhq.com"
  },
  {
-  "name": "Overlay Analytics",
+  "name": "o9 Solutions India",
   "country": "India",
-  "site": "overlayanalytics.com"
+  "site": "o9solutions.com",
+  "careers": "https://o9solutions.com/careers"
+ },
+ {
+  "name": "Optym India",
+  "country": "India",
+  "site": "optym.com",
+  "careers": "https://www.optym.com/careers"
+ },
+ {
+  "name": "OneTrust India",
+  "country": "India",
+  "site": "onetrust.com",
+  "careers": "https://www.onetrust.com/careers/"
+ },
+ {
+  "name": "Outreach India",
+  "country": "India",
+  "site": "outreach.ai"
+ },
+ {
+  "name": "Optiv India",
+  "country": "India",
+  "site": "optiv.com",
+  "careers": "https://www.optiv.com/company/careers"
+ },
+ {
+  "name": "onsemi India",
+  "country": "India",
+  "site": "onsemi.com"
+ },
+ {
+  "name": "Oceaneering India",
+  "country": "India",
+  "site": "oceaneering.com",
+  "careers": "https://www.oceaneering.com/careers/"
+ },
+ {
+  "name": "Omnicell India",
+  "country": "India",
+  "site": "omnicell.com",
+  "careers": "https://careers.omnicell.com/"
+ },
+ {
+  "name": "Oracle NetSuite India",
+  "country": "India",
+  "site": "netsuite.com"
+ },
+ {
+  "name": "OneAdvanced India",
+  "country": "India",
+  "site": "oneadvanced.com",
+  "careers": "https://careers.oneadvanced.com/"
+ },
+ {
+  "name": "Onit India",
+  "country": "India",
+  "site": "onit.com",
+  "careers": "https://www.onit.com/careers/"
+ },
+ {
+  "name": "OpenGov India",
+  "country": "India",
+  "site": "opengov.com",
+  "careers": "https://opengov.com/careers/india/"
+ },
+ {
+  "name": "OSI Digital",
+  "country": "India",
+  "site": "osidigital.com",
+  "careers": "https://osidigital.com/careers/"
+ },
+ {
+  "name": "Onity Group India",
+  "country": "India",
+  "site": "onitygroup.com"
+ },
+ {
+  "name": "OPPO India",
+  "country": "India",
+  "site": "oppo.com"
+ },
+ {
+  "name": "Onward Technologies",
+  "country": "India",
+  "site": "onwardgroup.com",
+  "careers": "https://onwardgroup.com/careers"
+ },
+ {
+  "name": "OpenXcell",
+  "country": "India",
+  "site": "openxcell.com"
+ },
+ {
+  "name": "OrangeMantra",
+  "country": "India",
+  "site": "orangemantra.com",
+  "careers": "https://www.orangemantra.com/career/"
+ },
+ {
+  "name": "Oodles Technologies",
+  "country": "India",
+  "site": "oodles.com",
+  "careers": "https://oodles.com/careers"
+ },
+ {
+  "name": "OpenSense Labs",
+  "country": "India",
+  "site": "opensenselabs.com"
+ },
+ {
+  "name": "OptiSol Business Solutions",
+  "country": "India",
+  "site": "optisolbusiness.com",
+  "careers": "https://www.optisolbusiness.com/current-openings"
+ },
+ {
+  "name": "Openwave Computing",
+  "country": "India",
+  "site": "openwavecomp.com",
+  "careers": "https://openwavecomp.com/careers"
+ },
+ {
+  "name": "OneClick IT Consultancy",
+  "country": "India",
+  "site": "oneclickitsolution.com",
+  "careers": "https://www.oneclickitsolution.com/careers"
+ },
+ {
+  "name": "Orion eSolutions",
+  "country": "India",
+  "site": "orionesolutions.com",
+  "careers": "https://orionesolutions.com/we-are-hiring/"
+ },
+ {
+  "name": "Oyelabs",
+  "country": "India",
+  "site": "oyelabs.com",
+  "careers": "https://oyelabs.com/careers/"
+ },
+ {
+  "name": "Omninos Solutions",
+  "country": "India",
+  "site": "omninos.com"
+ },
+ {
+  "name": "Owebest Technologies",
+  "country": "India",
+  "site": "owebest.com"
+ },
+ {
+  "name": "Optimus Information",
+  "country": "India",
+  "site": "optimusinfo.com",
+  "careers": "https://optimusinfo.com/careers"
+ },
+ {
+  "name": "Osmosys Software Solutions",
+  "country": "India",
+  "site": "osmosys.co"
+ },
+ {
+  "name": "Oneture Technologies",
+  "country": "India",
+  "site": "oneture.com",
+  "careers": "https://oneture.com/careers"
+ },
+ {
+  "name": "Ospyn Technologies",
+  "country": "India",
+  "site": "ospyn.com",
+  "careers": "https://www.ospyn.com/careers/"
+ },
+ {
+  "name": "Octal IT Solution",
+  "country": "India",
+  "site": "octalsoftware.com"
+ },
+ {
+  "name": "Ozvid Technologies",
+  "country": "India",
+  "site": "ozvid.com",
+  "careers": "https://ozvid.com/careers"
+ },
+ {
+  "name": "OnGraph Technologies",
+  "country": "India",
+  "site": "ongraph.com",
+  "careers": "https://www.ongraph.com/careers/"
+ },
+ {
+  "name": "Octaware Technologies",
+  "country": "India",
+  "site": "octaware.com"
+ },
+ {
+  "name": "OmniMD",
+  "country": "India",
+  "site": "omnimd.com",
+  "careers": "https://omnimd.com/careers/"
+ },
+ {
+  "name": "Openweb Solutions",
+  "country": "India",
+  "site": "openwebsolutions.in"
+ },
+ {
+  "name": "Omnitech InfoSolutions",
+  "country": "India",
+  "site": "omnitech.co.in"
+ },
+ {
+  "name": "Odyssey Technologies",
+  "country": "India",
+  "site": "odysseytec.com"
+ },
+ {
+  "name": "Omnex India",
+  "country": "India",
+  "site": "omnex.com"
+ },
+ {
+  "name": "Opus Consulting Solutions",
+  "country": "India",
+  "site": "opustechglobal.com"
+ },
+ {
+  "name": "Osource Global",
+  "country": "India",
+  "site": "osourceglobal.com",
+  "careers": "https://osourceglobal.com/careers/"
+ },
+ {
+  "name": "Omega Healthcare Management",
+  "country": "India",
+  "site": "omegahealthcare.com"
+ },
+ {
+  "name": "OnMobile Global",
+  "country": "India",
+  "site": "onmobile.com",
+  "careers": "https://www.onmobile.com/career/job-openings"
+ },
+ {
+  "name": "Oorwin",
+  "country": "India",
+  "site": "oorwin.com"
+ },
+ {
+  "name": "Optimizory",
+  "country": "India",
+  "site": "optimizory.com",
+  "careers": "https://optimizory.com/careers"
+ },
+ {
+  "name": "OpsVeda",
+  "country": "India",
+  "site": "opsveda.com",
+  "careers": "https://opsveda.com/careers/"
+ },
+ {
+  "name": "Omnify",
+  "country": "India",
+  "site": "getomnify.com",
+  "careers": "https://www.getomnify.com/careers"
+ },
+ {
+  "name": "Orbo.ai",
+  "country": "India",
+  "site": "orbo.ai"
+ },
+ {
+  "name": "ORI (ORIserve)",
+  "country": "India",
+  "site": "oriserve.com",
+  "careers": "https://oriserve.com/careers"
+ },
+ {
+  "name": "OpenTurf Technologies",
+  "country": "India",
+  "site": "openturf.in"
+ },
+ {
+  "name": "Orangewood Labs",
+  "country": "India",
+  "site": "orangewood.co",
+  "careers": "https://orangewood.co/careers"
+ },
+ {
+  "name": "Oben Electric",
+  "country": "India",
+  "site": "obenelectric.com",
+  "careers": "https://careers.obenelectric.com/jobs/Careers"
+ },
+ {
+  "name": "Ola Krutrim",
+  "country": "India",
+  "site": "olakrutrim.com"
+ },
+ {
+  "name": "OkCredit",
+  "country": "India",
+  "site": "okcredit.in"
+ },
+ {
+  "name": "OneBanc",
+  "country": "India",
+  "site": "onebanc.ai",
+  "careers": "https://onebanc.ai/careers"
+ },
+ {
+  "name": "OneMoney",
+  "country": "India",
+  "site": "onemoney.in"
+ },
+ {
+  "name": "OnFinance AI",
+  "country": "India",
+  "site": "onfinance.ai"
+ },
+ {
+  "name": "OTO Capital",
+  "country": "India",
+  "site": "otocapital.in"
+ },
+ {
+  "name": "Oliveboard",
+  "country": "India",
+  "site": "oliveboard.in"
+ },
+ {
+  "name": "Orange Health Labs",
+  "country": "India",
+  "site": "orangehealth.in",
+  "careers": "https://www.orangehealth.in/careers"
+ },
+ {
+  "name": "OnGrid",
+  "country": "India",
+  "site": "ongrid.in"
+ },
+ {
+  "name": "Onco.com",
+  "country": "India",
+  "site": "onco.com"
+ },
+ {
+  "name": "OLX India",
+  "country": "India",
+  "site": "olx.in",
+  "careers": "https://www.olx.in/careers"
+ },
+ {
+  "name": "ONDC",
+  "country": "India",
+  "site": "ondc.org",
+  "careers": "https://www.ondc.org/careers/"
+ },
+ {
+  "name": "Onsitego",
+  "country": "India",
+  "site": "onsitego.com",
+  "careers": "https://onsitego.com/careers"
+ },
+ {
+  "name": "Oxane Partners",
+  "country": "India",
+  "site": "oxanepartners.com",
+  "careers": "https://www.oxanepartners.com/careers"
+ },
+ {
+  "name": "OnePlay",
+  "country": "India",
+  "site": "oneplay.in"
+ },
+ {
+  "name": "Obopay India",
+  "country": "India",
+  "site": "obopay.com"
+ },
+ {
+  "name": "Ohmium",
+  "country": "India",
+  "site": "ohmium.com"
+ },
+ {
+  "name": "Oye Rickshaw",
+  "country": "India",
+  "site": "oyerickshaw.com"
  }
 ];

@@ -854,8 +854,8 @@ module.exports=[
  {
   "name": "Emerio",
   "country": "Singapore",
-  "site": "emerio.com",
-  "careers": "https://www.emerio.com/careers/"
+  "site": "emeriocorp.com",
+  "careers": "https://emeriocorp.com/working-at-emerio/"
  },
  {
   "name": "Ema",
@@ -864,24 +864,15 @@ module.exports=[
   "careers": "https://www.ema.ai/careers"
  },
  {
-  "name": "Ecom Express",
-  "country": "India",
-  "site": "ecomexpress.in"
- },
- {
   "name": "Element5",
   "country": "India",
-  "site": "element5.ai"
+  "site": "e5.ai",
+  "careers": "https://www.e5.ai/careers"
  },
  {
   "name": "Emkay Global",
   "country": "India",
   "site": "emkayglobal.com"
- },
- {
-  "name": "Ericson Systems",
-  "country": "India",
-  "site": "ericson.co.in"
  },
  {
   "name": "Eucloid Data Solutions",

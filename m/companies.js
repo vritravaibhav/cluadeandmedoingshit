@@ -1008,7 +1008,8 @@ module.exports=[
  {
   "name": "Merilytics",
   "country": "India",
-  "site": "merilytics.com"
+  "site": "accordion.com",
+  "careers": "https://www.accordion.com/careers/"
  },
  {
   "name": "Metacube",

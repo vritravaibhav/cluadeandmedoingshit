@@ -731,11 +731,6 @@ module.exports=[
   "site": "pwc.com"
  },
  {
-  "name": "Perfios",
-  "country": "India",
-  "site": "perfios.com"
- },
- {
   "name": "Piramal",
   "country": "India",
   "site": "piramal.com"
@@ -744,11 +739,6 @@ module.exports=[
   "name": "Plivo",
   "country": "India",
   "site": "plivo.com"
- },
- {
-  "name": "Prescient",
-  "country": "India",
-  "site": "prescienthq.com"
  },
  {
   "name": "Proximity Works",

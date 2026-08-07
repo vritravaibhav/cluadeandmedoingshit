@@ -468,12 +468,6 @@ module.exports=[
   "careers": "https://ikshealth.com/careers/"
  },
  {
-  "name": "Involve Learning",
-  "country": "India",
-  "site": "involve.co.in",
-  "careers": "https://involve.co.in/careers"
- },
- {
   "name": "Ionixx Technologies",
   "country": "India",
   "site": "ionixxtech.com",
@@ -865,16 +859,12 @@ module.exports=[
  {
   "name": "Ivy Comptech",
   "country": "India",
-  "site": "ivycomptech.com"
+  "site": "entainindia.com",
+  "careers": "https://careers.entainindia.com/"
  },
  {
   "name": "Indium Software",
   "country": "India",
   "site": "indiumsoftware.com"
- },
- {
-  "name": "Ionic Health",
-  "country": "India",
-  "site": "ionichealth.in"
  }
 ];

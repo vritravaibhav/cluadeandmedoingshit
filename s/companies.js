@@ -912,12 +912,6 @@ module.exports=[
   "careers": "https://www.sophos.com/en-us/company/careers"
  },
  {
-  "name": "Spirent Communications",
-  "country": "UK",
-  "site": "spirent.com",
-  "careers": "https://www.spirent.com/careers"
- },
- {
   "name": "Springer Nature",
   "country": "Germany",
   "site": "springernature.com",

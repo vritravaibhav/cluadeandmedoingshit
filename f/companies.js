@@ -156,12 +156,6 @@ module.exports=[
   "careers": "https://www.focussoftnet.com/careers"
  },
  {
-  "name": "Fibonalabs",
-  "country": "India",
-  "site": "fibonalabs.com",
-  "careers": "https://fibonalabs.com/career"
- },
- {
   "name": "Fresh Gravity",
   "country": "India",
   "site": "freshgravity.com",
@@ -778,10 +772,5 @@ module.exports=[
   "name": "Fidelity National Financial India",
   "country": "India",
   "site": "fnf.com"
- },
- {
-  "name": "Finzoom",
-  "country": "India",
-  "site": "finzoom.com"
  }
 ];

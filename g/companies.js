@@ -12,12 +12,6 @@ module.exports=[
   "careers": "https://www.gupshup.ai/careers"
  },
  {
-  "name": "Gameskraft",
-  "country": "India",
-  "site": "gameskraft.com",
-  "careers": "https://www.gameskraft.com/careers"
- },
- {
   "name": "Games24x7",
   "country": "India",
   "site": "games24x7.com",
@@ -110,8 +104,8 @@ module.exports=[
  {
   "name": "GlobalEdge Software",
   "country": "India",
-  "site": "globaledgesoft.com",
-  "careers": "https://www.globaledgesoft.com/careers/"
+  "site": "globaledge-software.com",
+  "careers": "https://www.globaledge-software.com/careers/"
  },
  {
   "name": "Genisys Group",
@@ -200,8 +194,8 @@ module.exports=[
  {
   "name": "GSS Infotech",
   "country": "India",
-  "site": "gsstech.com",
-  "careers": "https://www.gsstech.com/careers/"
+  "site": "gssinfotech.com",
+  "careers": "https://www.gssinfotech.com/careers"
  },
  {
   "name": "Girmiti Software",
@@ -428,8 +422,7 @@ module.exports=[
  {
   "name": "GoodScore",
   "country": "India",
-  "site": "goodscore.ai",
-  "careers": "https://www.goodscore.ai/careers"
+  "site": "goodscore.app"
  },
  {
   "name": "Growth Natives",
@@ -741,11 +734,6 @@ module.exports=[
   "name": "Gupshup",
   "country": "India",
   "site": "gupshup.io"
- },
- {
-  "name": "GE India",
-  "country": "India",
-  "site": "ge.com"
  },
  {
   "name": "GoodRx India",

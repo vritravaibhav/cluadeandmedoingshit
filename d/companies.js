@@ -26,8 +26,8 @@ module.exports=[
  {
   "name": "DeHaat",
   "country": "India",
-  "site": "dehaat.com",
-  "careers": "https://www.dehaat.com/careers"
+  "site": "agrevolution.in",
+  "careers": "https://agrevolution.in/careers"
  },
  {
   "name": "DevRev",
@@ -374,8 +374,8 @@ module.exports=[
  {
   "name": "Digicorp",
   "country": "India",
-  "site": "digicorp.co",
-  "careers": "https://www.digicorp.co/careers"
+  "site": "digi-corp.com",
+  "careers": "https://www.digi-corp.com/careers/"
  },
  {
   "name": "Data Template",
@@ -731,11 +731,6 @@ module.exports=[
   "site": "dhani.com"
  },
  {
-  "name": "Dream11",
-  "country": "India",
-  "site": "dream11.com"
- },
- {
   "name": "Data Sutram",
   "country": "India",
   "site": "datasutram.com"
@@ -744,11 +739,6 @@ module.exports=[
   "name": "Dailyhunt",
   "country": "India",
   "site": "dailyhunt.in"
- },
- {
-  "name": "Danske IT India",
-  "country": "India",
-  "site": "danskeit.com"
  },
  {
   "name": "Dexian India",
@@ -764,11 +754,6 @@ module.exports=[
   "name": "Doubtnut",
   "country": "India",
   "site": "doubtnut.com"
- },
- {
-  "name": "Dunzo",
-  "country": "India",
-  "site": "dunzo.com"
  },
  {
   "name": "Dhruva Consultants",

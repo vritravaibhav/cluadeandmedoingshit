@@ -1,252 +1,103 @@
-module.exports=[
- {
-  "name": "Zoho",
-  "country": "India",
-  "site": "zoho.com"
- },
- {
-  "name": "Zomato",
-  "country": "India",
-  "site": "zomato.com"
- },
- {
-  "name": "Zepto",
-  "country": "India",
-  "site": "zeptonow.com"
- },
- {
-  "name": "Zeta",
-  "country": "India",
-  "site": "zeta.tech"
- },
- {
-  "name": "Zscaler India",
-  "country": "India",
-  "site": "zscaler.com"
- },
- {
-  "name": "Zebra Technologies India",
-  "country": "India",
-  "site": "zebra.com"
- },
- {
-  "name": "Zensar Technologies",
-  "country": "India",
-  "site": "zensar.com"
- },
- {
-  "name": "ZoomInfo India",
-  "country": "India",
-  "site": "zoominfo.com"
- },
- {
-  "name": "Zolo",
-  "country": "India",
-  "site": "zolostays.com"
- },
- {
-  "name": "Zetwerk",
-  "country": "India",
-  "site": "zetwerk.com"
- },
- {
-  "name": "Zluri",
-  "country": "India",
-  "site": "zluri.com"
- },
- {
-  "name": "Zopper",
-  "country": "India",
-  "site": "zopper.com"
- },
- {
-  "name": "Zwayam",
-  "country": "India",
-  "site": "zwayam.com"
- },
- {
-  "name": "Zuci Systems",
-  "country": "India",
-  "site": "zucisystems.com"
- },
- {
-  "name": "Zignuts Technolab",
-  "country": "India",
-  "site": "zignuts.com"
- },
- {
-  "name": "Zeliot",
-  "country": "India",
-  "site": "zeliot.in"
- },
- {
-  "name": "Zenoti",
-  "country": "India",
-  "site": "zenoti.com"
- },
- {
-  "name": "Zolvit",
-  "country": "India",
-  "site": "zolvit.com"
- },
- {
-  "name": "ZoomCar",
-  "country": "India",
-  "site": "zoomcar.com"
- },
- {
-  "name": "Zyoin",
-  "country": "India",
-  "site": "zyoin.com"
- },
- {
-  "name": "Zycus",
-  "country": "India",
-  "site": "zycus.com"
- },
- {
-  "name": "Zaggle",
-  "country": "India",
-  "site": "zaggle.in"
- },
- {
-  "name": "Zappyhire",
-  "country": "India",
-  "site": "zappyhire.com"
- },
- {
-  "name": "Zeb Consulting",
-  "country": "India",
-  "site": "zeb.co.in"
- },
- {
-  "name": "Zebi",
-  "country": "India",
-  "site": "zebi.io"
- },
- {
-  "name": "Zecurity",
-  "country": "India",
-  "site": "zecurity.in"
- },
- {
-  "name": "Zed Aerospace",
-  "country": "India",
-  "site": "zedaero.com"
- },
- {
-  "name": "Zell Education",
-  "country": "India",
-  "site": "zelleducation.com"
- },
- {
-  "name": "Zenatix",
-  "country": "India",
-  "site": "zenatix.com"
- },
- {
-  "name": "Zend Technologies India",
-  "country": "India",
-  "site": "zend.com"
- },
- {
-  "name": "Zenlayer India",
-  "country": "India",
-  "site": "zenlayer.com"
- },
- {
-  "name": "Zenskar",
-  "country": "India",
-  "site": "zenskar.com"
- },
- {
-  "name": "Zentek Infosoft",
-  "country": "India",
-  "site": "zentekinfosoft.com"
- },
- {
-  "name": "Zerodha",
-  "country": "India",
-  "site": "zerodha.com"
- },
- {
-  "name": "Zestmoney",
-  "country": "India",
-  "site": "zestmoney.com"
- },
- {
-  "name": "Zeus Learning",
-  "country": "India",
-  "site": "zeuslearning.com"
- },
- {
-  "name": "Zidbot",
-  "country": "India",
-  "site": "zidbot.com"
- },
- {
-  "name": "Ziff Davis India",
-  "country": "India",
-  "site": "ziffdavis.com"
- },
- {
-  "name": "Zigram",
-  "country": "India",
-  "site": "zigram.tech"
- },
- {
-  "name": "Zimyo",
-  "country": "India",
-  "site": "zimyo.com"
- },
- {
-  "name": "Zinnov",
-  "country": "India",
-  "site": "zinnov.com"
- },
- {
-  "name": "Zippee",
-  "country": "India",
-  "site": "zippee.delivery"
- },
- {
-  "name": "Zippserv",
-  "country": "India",
-  "site": "zippserv.com"
- },
- {
-  "name": "Zomentum",
-  "country": "India",
-  "site": "zomentum.com"
- },
- {
-  "name": "Zonka Feedback",
-  "country": "India",
-  "site": "zonkafeedback.com"
- },
- {
-  "name": "Zopsmart",
-  "country": "India",
-  "site": "zopsmart.com"
- },
- {
-  "name": "Zuddl",
-  "country": "India",
-  "site": "zuddl.com"
- },
- {
-  "name": "Zurich India",
-  "country": "India",
-  "site": "zurich.com"
- },
- {
-  "name": "Zwende",
-  "country": "India",
-  "site": "zwende.com"
- },
- {
-  "name": "Zykrr",
-  "country": "India",
-  "site": "zykrr.com"
- }
+module.exports = [
+ { "name": "Zoho", "country": "India", "site": "zoho.com" },
+ { "name": "Zomato", "country": "India", "site": "zomato.com" },
+ { "name": "Zepto", "country": "India", "site": "zeptonow.com" },
+ { "name": "Zeta", "country": "India", "site": "zeta.tech" },
+ { "name": "Zscaler India", "country": "United States", "site": "zscaler.com" },
+ { "name": "Zebra Technologies India", "country": "United States", "site": "zebra.com" },
+ { "name": "Zensar Technologies", "country": "India", "site": "zensar.com" },
+ { "name": "ZoomInfo India", "country": "United States", "site": "zoominfo.com" },
+ { "name": "Zolo", "country": "India", "site": "zolostays.com" },
+ { "name": "Zetwerk", "country": "India", "site": "zetwerk.com" },
+ { "name": "Zluri", "country": "India", "site": "zluri.com" },
+ { "name": "Zopper", "country": "India", "site": "zopper.com" },
+ { "name": "Zwayam", "country": "India", "site": "zwayam.com" },
+ { "name": "Zuci Systems", "country": "India", "site": "zucisystems.com" },
+ { "name": "Zignuts Technolab", "country": "India", "site": "zignuts.com" },
+ { "name": "Zeliot", "country": "India", "site": "zeliot.in" },
+ { "name": "Zenoti", "country": "India", "site": "zenoti.com" },
+ { "name": "Zolvit", "country": "India", "site": "zolvit.com" },
+ { "name": "ZoomCar", "country": "India", "site": "zoomcar.com" },
+ { "name": "Zyoin", "country": "India", "site": "zyoin.com" },
+ { "name": "Zycus", "country": "India", "site": "zycus.com" },
+ { "name": "Zaggle", "country": "India", "site": "zaggle.in" },
+ { "name": "Zappyhire", "country": "India", "site": "zappyhire.com" },
+ { "name": "Zeb", "country": "United States", "site": "zeb.co", "careers": "https://zeb.co/careers/" },
+ { "name": "Zell Education", "country": "India", "site": "zelleducation.com" },
+ { "name": "Zenatix", "country": "India", "site": "zenatix.com" },
+ { "name": "Zend Technologies India", "country": "United States", "site": "zend.com" },
+ { "name": "Zenlayer India", "country": "United States", "site": "zenlayer.com" },
+ { "name": "Zenskar", "country": "India", "site": "zenskar.com" },
+ { "name": "Zentek Infosoft", "country": "India", "site": "zentekinfosoft.com" },
+ { "name": "Zerodha", "country": "India", "site": "zerodha.com" },
+ { "name": "Zeus Learning", "country": "India", "site": "zeuslearning.com" },
+ { "name": "Ziff Davis India", "country": "United States", "site": "ziffdavis.com" },
+ { "name": "Zigram", "country": "India", "site": "zigram.tech" },
+ { "name": "Zimyo", "country": "India", "site": "zimyo.com" },
+ { "name": "Zinnov", "country": "India", "site": "zinnov.com" },
+ { "name": "Zippee", "country": "India", "site": "zippee.delivery" },
+ { "name": "Zippserv", "country": "India", "site": "zippserv.com" },
+ { "name": "Zomentum", "country": "India", "site": "zomentum.com" },
+ { "name": "Zonka Feedback", "country": "India", "site": "zonkafeedback.com" },
+ { "name": "Zopsmart", "country": "India", "site": "zopsmart.com" },
+ { "name": "Zuddl", "country": "India", "site": "zuddl.com" },
+ { "name": "Zurich India", "country": "Switzerland", "site": "zurich.com" },
+ { "name": "Zwende", "country": "India", "site": "zwende.com" },
+ { "name": "Zykrr", "country": "India", "site": "zykrr.com" },
+ { "name": "ZS", "country": "United States", "site": "zs.com", "careers": "https://www.zs.com/careers" },
+ { "name": "Zeotap", "country": "Germany", "site": "zeotap.com", "careers": "https://zeotap.com/careers/" },
+ { "name": "Zolve", "country": "India", "site": "zolve.com", "careers": "https://zolve.freshteam.com/jobs" },
+ { "name": "Zupee", "country": "India", "site": "zupee.com" },
+ { "name": "Zenduty", "country": "India", "site": "zenduty.com" },
+ { "name": "Zuper", "country": "United States", "site": "zuper.co", "careers": "https://www.zuper.co/careers" },
+ { "name": "Zinier", "country": "United States", "site": "zinier.com", "careers": "https://www.zinier.com/careers" },
+ { "name": "Zaloni", "country": "United States", "site": "zaloni.com" },
+ { "name": "ZeOmega", "country": "United States", "site": "zeomega.com" },
+ { "name": "Zolon Tech", "country": "United States", "site": "zolontech.com" },
+ { "name": "Zenwork", "country": "United States", "site": "zenwork.com", "careers": "https://www.zenwork.com/careers" },
+ { "name": "ZoomRx", "country": "United States", "site": "zoomrx.com" },
+ { "name": "Zifo", "country": "India", "site": "zifo.com", "careers": "https://careers.zifo.com/" },
+ { "name": "Zimetrics Technologies", "country": "India", "site": "zimetrics.com", "careers": "https://zimetrics.com/career/" },
+ { "name": "Zyxware Technologies", "country": "India", "site": "zyxware.com", "careers": "https://www.zyxware.com/careers" },
+ { "name": "Zerone Consulting", "country": "India", "site": "zerone-consulting.com", "careers": "https://www.zerone-consulting.com/career/" },
+ { "name": "Zealous System", "country": "India", "site": "zealousys.com", "careers": "https://zealousys.com/career/" },
+ { "name": "Zestard Technologies", "country": "India", "site": "zestard.com" },
+ { "name": "Zapbuild", "country": "India", "site": "zapbuild.com", "careers": "https://www.zapbuild.com/careers/" },
+ { "name": "Zeeve", "country": "India", "site": "zeeve.io" },
+ { "name": "Zvolv", "country": "India", "site": "zvolv.com", "careers": "https://zvolv.com/careers/" },
+ { "name": "Zoop.one", "country": "India", "site": "zoop.one" },
+ { "name": "ZipGrid", "country": "India", "site": "zipgrid.com", "careers": "https://zipgrid.com/careers" },
+ { "name": "Zoconut", "country": "India", "site": "zoconut.com" },
+ { "name": "ZebPay", "country": "Singapore", "site": "zebpay.com", "careers": "https://zebpay.com/careers" },
+ { "name": "Zithara", "country": "India", "site": "zithara.ai", "careers": "https://zithara.ai/careers" },
+ { "name": "ZestIOT", "country": "India", "site": "zestiot.com", "careers": "https://www.zestiot.com/careers/" },
+ { "name": "Zeus Numerix", "country": "India", "site": "zeusnumerix.com" },
+ { "name": "ZeroDrag", "country": "India", "site": "zerodrag.in" },
+ { "name": "Zamp", "country": "India", "site": "zamp.ai", "careers": "https://www.zamp.ai/careers" },
+ { "name": "Zynga India", "country": "United States", "site": "zynga.com" },
+ { "name": "Zuora India", "country": "United States", "site": "zuora.com", "careers": "https://www.zuora.com/careers/" },
+ { "name": "Zendesk India", "country": "United States", "site": "zendesk.com", "careers": "https://www.zendesk.com/jobs/" },
+ { "name": "Zeta Global India", "country": "United States", "site": "zetaglobal.com" },
+ { "name": "Zafin", "country": "Canada", "site": "zafin.com" },
+ { "name": "Zymr", "country": "United States", "site": "zymr.com", "careers": "https://www.zymr.com/careers" },
+ { "name": "Zestra Technologies", "country": "India", "site": "zestratech.com", "careers": "https://www.zestratech.com/careers" },
+ { "name": "ZealousWeb Technologies", "country": "India", "site": "zealousweb.com", "careers": "https://www.zealousweb.com/careers/" },
+ { "name": "Zaigo Infotech", "country": "India", "site": "zaigoinfotech.com", "careers": "https://zaigoinfotech.com/careers" },
+ { "name": "Zensark Technologies", "country": "India", "site": "zensark.com" },
+ { "name": "Zerozilla Infotech", "country": "India", "site": "zerozilla.com" },
+ { "name": "ZippyOps", "country": "India", "site": "zippyops.com", "careers": "https://www.zippyops.com/careers/" },
+ { "name": "Zithas Technologies", "country": "India", "site": "zithas.com" },
+ { "name": "Zinavo Technologies", "country": "India", "site": "zinavo.com", "careers": "https://www.zinavo.com/careers.html" },
+ { "name": "Zaptech Solutions", "country": "India", "site": "zaptechsolutions.com", "careers": "https://zaptechsolutions.com/career.php" },
+ { "name": "Zestminds Technologies", "country": "India", "site": "zestminds.com" },
+ { "name": "Zenkins Technologies", "country": "India", "site": "zenkins.com", "careers": "https://zenkins.com/careers/" },
+ { "name": "Zoftcares Solutions", "country": "India", "site": "zoftcares.com", "careers": "https://zoftcares.com/careers" },
+ { "name": "Zumen", "country": "India", "site": "zumen.com" },
+ { "name": "Zenesys", "country": "United States", "site": "zenesys.com" },
+ { "name": "ZEISS India", "country": "Germany", "site": "zeiss.com" },
+ { "name": "Zoom Communications India", "country": "United States", "site": "zoom.com" },
+ { "name": "Zyter", "country": "United States", "site": "zyter.ai" },
+ { "name": "Zype", "country": "India", "site": "getzype.com" },
+ { "name": "Zaakpay", "country": "India", "site": "zaakpay.com" },
+ { "name": "Zoxima Solutions", "country": "India", "site": "zoxima.com" }
 ];

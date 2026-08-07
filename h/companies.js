@@ -27,7 +27,7 @@ module.exports=[
   "name": "Hinduja Global Solutions",
   "country": "India",
   "site": "hgs.com",
-  "careers": "https://careers.joinhgs.com/"
+  "careers": "https://www.joinhgs.com/in/en"
  },
  {
   "name": "Hinduja Tech",
@@ -200,8 +200,8 @@ module.exports=[
  {
   "name": "Hubbler",
   "country": "India",
-  "site": "hubbler.com",
-  "careers": "https://www.hubbler.com/careers"
+  "site": "hubler.ai",
+  "careers": "https://www.hubler.ai/career"
  },
  {
   "name": "HostBooks",
@@ -410,8 +410,8 @@ module.exports=[
  {
   "name": "Head Digital Works",
   "country": "India",
-  "site": "headdigitalworks.com",
-  "careers": "https://www.headdigitalworks.com/careers"
+  "site": "hdworks.in",
+  "careers": "https://hdworks.in/join-our-team/"
  },
  {
   "name": "Hitwicket",
@@ -446,8 +446,8 @@ module.exports=[
  {
   "name": "Hindustan Unilever",
   "country": "India",
-  "site": "hindustanunilever.com",
-  "careers": "https://www.hindustanunilever.com/careers/"
+  "site": "hul.co.in",
+  "careers": "https://www.hul.co.in/careers/"
  },
  {
   "name": "Hero MotoCorp",
@@ -470,8 +470,8 @@ module.exports=[
  {
   "name": "Hindustan Zinc",
   "country": "India",
-  "site": "hindustanzinc.com",
-  "careers": "https://www.hindustanzinc.com/careers"
+  "site": "hzlindia.com",
+  "careers": "https://www.hzlindia.com/careers/join-us"
  },
  {
   "name": "Hindustan Petroleum",
@@ -496,12 +496,6 @@ module.exports=[
   "country": "India",
   "site": "hitachi-payments.com",
   "careers": "https://www.hitachi-payments.com/careers/"
- },
- {
-  "name": "Hindware Home Innovation",
-  "country": "India",
-  "site": "hindwarehomes.com",
-  "careers": "https://www.hindwarehomes.com/careers"
  },
  {
   "name": "Hero Future Energies",
@@ -560,8 +554,8 @@ module.exports=[
  {
   "name": "HyperTrack",
   "country": "United States",
-  "site": "hyper-track.com",
-  "careers": "https://www.hyper-track.com/careers"
+  "site": "hypertrack.com",
+  "careers": "https://hypertrack.com/jobs"
  },
  {
   "name": "HTC Global Services",
@@ -609,7 +603,7 @@ module.exports=[
   "name": "HARMAN International",
   "country": "United States",
   "site": "harman.com",
-  "careers": "https://jobs.harman.com/"
+  "careers": "https://jobsearch.harman.com/en_US/careers/SearchJobs"
  },
  {
   "name": "Hexagon",
@@ -736,11 +730,6 @@ module.exports=[
   "country": "Japan",
   "site": "hondacarindia.com",
   "careers": "https://www.hondacarindia.com/careers"
- },
- {
-  "name": "Hike",
-  "country": "India",
-  "site": "hike.in"
  },
  {
   "name": "Hinduja Global Solutions",

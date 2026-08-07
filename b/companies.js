@@ -766,7 +766,8 @@ module.exports=[
  {
   "name": "Brane Enterprises",
   "country": "India",
-  "site": "brane.co.in"
+  "site": "braneenterprises.com",
+  "careers": "https://www.braneenterprises.com/careers"
  },
  {
   "name": "Bugworks",

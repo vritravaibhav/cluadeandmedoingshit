@@ -29,14 +29,24 @@ were stripped before scanning. ALWAYS re-check for invented ats tokens after
 any research cycle:
   node -e "for(const L of 'abcdefghijklmnopqrstuvwxyz'.split('')){const c=require('/Users/longfloat/deletelater/jobs/'+L+'/companies.js');const n=c.filter(x=>x.ats).length;if(n)console.log(L,n)}"
 
+Cycle 3 (2026-08-08): built weekendplan/render-scan.js — a Playwright second
+pass for boards plain fetch cannot read. Probing 120 flagged boards found no
+dominant missing ATS (73% are SPAs that load jobs over XHR), so rendering is
+the only general fix. It captures XHR JSON first, falls back to the rendered
+DOM, and merges into each letter results.json in place (source="rendered").
+Scoring is imported from w/test.js so rendered jobs use identical rules.
+GUARDS (learned the hard way — verify any change against them):
+  - marketing sites serve blog/case-studies from the same content API, so a
+    title+location is NOT enough. Require a role noun (JOBBY) or a requisition
+    id, else a telecom vendor contributes 83 case studies.
+  - DOM anchors must have a job-ish href; the blog roll and services menu
+    ("Hire a Java developer") otherwise sail through.
+Run: node weekendplan/render-scan.js [--letters=a,b] [--limit=N]
+
 Next cycle should pick up:
-- 835 boards read but listing no openings, and 132 no-job-data-found. Some are
-  genuine, but the count is high enough that the extractors are likely missing
-  formats. Sample 10 by hand and check before assuming they are empty.
-- 121 blocked-or-error (bot walls) — would need a real browser (playwright is
-  already a dependency) rather than fetch.
 - Letters never expanded by live research: a-i, k-p, s, w, x, y were authored
   from model knowledge only.
+- Recheck for invented ats tokens after every research cycle (see above).
 
 ## Loop protocol requested by user
 1. Work until ~80% of quota consumed.

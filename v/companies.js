@@ -153,5 +153,180 @@ module.exports=[
   "name": "VeriPark India",
   "country": "India",
   "site": "veripark.com"
+ },
+ {
+  "name": "Valasys Media",
+  "country": "India",
+  "site": "valasys.com"
+ },
+ {
+  "name": "Valuefirst",
+  "country": "India",
+  "site": "valuefirst.com"
+ },
+ {
+  "name": "Vantage Circle",
+  "country": "India",
+  "site": "vantagecircle.com"
+ },
+ {
+  "name": "Varthana",
+  "country": "India",
+  "site": "varthana.com"
+ },
+ {
+  "name": "Vasitum",
+  "country": "India",
+  "site": "vasitum.com"
+ },
+ {
+  "name": "Vayana Network",
+  "country": "India",
+  "site": "vayana.com"
+ },
+ {
+  "name": "Vayu Robotics",
+  "country": "India",
+  "site": "vayurobotics.com"
+ },
+ {
+  "name": "Vconnexions",
+  "country": "India",
+  "site": "vconnexions.com"
+ },
+ {
+  "name": "Vectra AI India",
+  "country": "India",
+  "site": "vectra.ai"
+ },
+ {
+  "name": "Veersa Technologies",
+  "country": "India",
+  "site": "veersatech.com"
+ },
+ {
+  "name": "Vehant Technologies",
+  "country": "India",
+  "site": "vehant.com"
+ },
+ {
+  "name": "Velocity",
+  "country": "India",
+  "site": "velocity.in"
+ },
+ {
+  "name": "Velsera India",
+  "country": "India",
+  "site": "velsera.com"
+ },
+ {
+  "name": "Venwiz",
+  "country": "India",
+  "site": "venwiz.com"
+ },
+ {
+  "name": "Verifone India",
+  "country": "India",
+  "site": "verifone.com"
+ },
+ {
+  "name": "Veritas India",
+  "country": "India",
+  "site": "veritas.com"
+ },
+ {
+  "name": "Vernost",
+  "country": "India",
+  "site": "vernost.in"
+ },
+ {
+  "name": "Versa Networks India",
+  "country": "India",
+  "site": "versa-networks.com"
+ },
+ {
+  "name": "Vertiv India",
+  "country": "India",
+  "site": "vertiv.com"
+ },
+ {
+  "name": "Vestas India",
+  "country": "India",
+  "site": "vestas.com"
+ },
+ {
+  "name": "Vidhyaa",
+  "country": "India",
+  "site": "vidhyaa.in"
+ },
+ {
+  "name": "Vidooly",
+  "country": "India",
+  "site": "vidooly.com"
+ },
+ {
+  "name": "Vigilant Technologies",
+  "country": "India",
+  "site": "vigilanttech.in"
+ },
+ {
+  "name": "Vionsys",
+  "country": "India",
+  "site": "vionsys.com"
+ },
+ {
+  "name": "Virtual Galaxy",
+  "country": "India",
+  "site": "vgipl.com"
+ },
+ {
+  "name": "Vishay India",
+  "country": "India",
+  "site": "vishay.com"
+ },
+ {
+  "name": "Vistaar Systems",
+  "country": "India",
+  "site": "vistaarsystems.com"
+ },
+ {
+  "name": "Vistex India",
+  "country": "India",
+  "site": "vistex.com"
+ },
+ {
+  "name": "Vitech India",
+  "country": "India",
+  "site": "vitechinc.com"
+ },
+ {
+  "name": "Vodex",
+  "country": "India",
+  "site": "vodex.ai"
+ },
+ {
+  "name": "Volansys",
+  "country": "India",
+  "site": "volansys.com"
+ },
+ {
+  "name": "Voylla",
+  "country": "India",
+  "site": "voylla.com"
+ },
+ {
+  "name": "Vsplash",
+  "country": "India",
+  "site": "vsplash.com"
+ },
+ {
+  "name": "Vunet Systems",
+  "country": "India",
+  "site": "vunetsystems.com"
+ },
+ {
+  "name": "Vyapar",
+  "country": "India",
+  "site": "vyaparapp.in"
  }
 ];

@@ -93,5 +93,100 @@ module.exports=[
   "name": "Uplers",
   "country": "India",
   "site": "uplers.com"
+ },
+ {
+  "name": "Ubuy India",
+  "country": "India",
+  "site": "ubuy.co.in"
+ },
+ {
+  "name": "Udacity India",
+  "country": "India",
+  "site": "udacity.com"
+ },
+ {
+  "name": "Uengage",
+  "country": "India",
+  "site": "uengage.in"
+ },
+ {
+  "name": "Ultratech Cement",
+  "country": "India",
+  "site": "ultratechcement.com"
+ },
+ {
+  "name": "Umbrella Infocare",
+  "country": "India",
+  "site": "umbrellainfocare.com"
+ },
+ {
+  "name": "Unbound Security",
+  "country": "India",
+  "site": "unboundsecurity.com"
+ },
+ {
+  "name": "Uncia Technologies",
+  "country": "India",
+  "site": "unciatech.com"
+ },
+ {
+  "name": "Unifize",
+  "country": "India",
+  "site": "unifize.com"
+ },
+ {
+  "name": "Unify Technologies",
+  "country": "India",
+  "site": "unifytech.com"
+ },
+ {
+  "name": "Unilog",
+  "country": "India",
+  "site": "unilogcorp.com"
+ },
+ {
+  "name": "Uninstall.io",
+  "country": "India",
+  "site": "uninstall.io"
+ },
+ {
+  "name": "Unified Infotech",
+  "country": "India",
+  "site": "unifiedinfotech.net"
+ },
+ {
+  "name": "Unnati",
+  "country": "India",
+  "site": "unnati.co.in"
+ },
+ {
+  "name": "Upcurve Business",
+  "country": "India",
+  "site": "upcurvebusiness.com"
+ },
+ {
+  "name": "Uplift Labs",
+  "country": "India",
+  "site": "upliftlabs.io"
+ },
+ {
+  "name": "Upstack India",
+  "country": "India",
+  "site": "upstack.com"
+ },
+ {
+  "name": "Urbanpiper",
+  "country": "India",
+  "site": "urbanpiper.com"
+ },
+ {
+  "name": "Urja Global",
+  "country": "India",
+  "site": "urjaglobal.com"
+ },
+ {
+  "name": "Utopia Global",
+  "country": "India",
+  "site": "utopiaglobal.com"
  }
 ];

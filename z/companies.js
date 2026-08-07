@@ -103,5 +103,150 @@ module.exports=[
   "name": "Zycus",
   "country": "India",
   "site": "zycus.com"
+ },
+ {
+  "name": "Zaggle",
+  "country": "India",
+  "site": "zaggle.in"
+ },
+ {
+  "name": "Zappyhire",
+  "country": "India",
+  "site": "zappyhire.com"
+ },
+ {
+  "name": "Zeb Consulting",
+  "country": "India",
+  "site": "zeb.co.in"
+ },
+ {
+  "name": "Zebi",
+  "country": "India",
+  "site": "zebi.io"
+ },
+ {
+  "name": "Zecurity",
+  "country": "India",
+  "site": "zecurity.in"
+ },
+ {
+  "name": "Zed Aerospace",
+  "country": "India",
+  "site": "zedaero.com"
+ },
+ {
+  "name": "Zell Education",
+  "country": "India",
+  "site": "zelleducation.com"
+ },
+ {
+  "name": "Zenatix",
+  "country": "India",
+  "site": "zenatix.com"
+ },
+ {
+  "name": "Zend Technologies India",
+  "country": "India",
+  "site": "zend.com"
+ },
+ {
+  "name": "Zenlayer India",
+  "country": "India",
+  "site": "zenlayer.com"
+ },
+ {
+  "name": "Zenskar",
+  "country": "India",
+  "site": "zenskar.com"
+ },
+ {
+  "name": "Zentek Infosoft",
+  "country": "India",
+  "site": "zentekinfosoft.com"
+ },
+ {
+  "name": "Zerodha",
+  "country": "India",
+  "site": "zerodha.com"
+ },
+ {
+  "name": "Zestmoney",
+  "country": "India",
+  "site": "zestmoney.com"
+ },
+ {
+  "name": "Zeus Learning",
+  "country": "India",
+  "site": "zeuslearning.com"
+ },
+ {
+  "name": "Zidbot",
+  "country": "India",
+  "site": "zidbot.com"
+ },
+ {
+  "name": "Ziff Davis India",
+  "country": "India",
+  "site": "ziffdavis.com"
+ },
+ {
+  "name": "Zigram",
+  "country": "India",
+  "site": "zigram.tech"
+ },
+ {
+  "name": "Zimyo",
+  "country": "India",
+  "site": "zimyo.com"
+ },
+ {
+  "name": "Zinnov",
+  "country": "India",
+  "site": "zinnov.com"
+ },
+ {
+  "name": "Zippee",
+  "country": "India",
+  "site": "zippee.delivery"
+ },
+ {
+  "name": "Zippserv",
+  "country": "India",
+  "site": "zippserv.com"
+ },
+ {
+  "name": "Zomentum",
+  "country": "India",
+  "site": "zomentum.com"
+ },
+ {
+  "name": "Zonka Feedback",
+  "country": "India",
+  "site": "zonkafeedback.com"
+ },
+ {
+  "name": "Zopsmart",
+  "country": "India",
+  "site": "zopsmart.com"
+ },
+ {
+  "name": "Zuddl",
+  "country": "India",
+  "site": "zuddl.com"
+ },
+ {
+  "name": "Zurich India",
+  "country": "India",
+  "site": "zurich.com"
+ },
+ {
+  "name": "Zwende",
+  "country": "India",
+  "site": "zwende.com"
+ },
+ {
+  "name": "Zykrr",
+  "country": "India",
+  "site": "zykrr.com"
  }
 ];

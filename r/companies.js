@@ -148,5 +148,155 @@ module.exports=[
   "name": "Robosoft Technologies",
   "country": "India",
   "site": "robosoftin.com"
+ },
+ {
+  "name": "Radisys India",
+  "country": "India",
+  "site": "radisys.com"
+ },
+ {
+  "name": "Raksha Health",
+  "country": "India",
+  "site": "rakshatpa.com"
+ },
+ {
+  "name": "Rambus India",
+  "country": "India",
+  "site": "rambus.com"
+ },
+ {
+  "name": "Rapyder Cloud",
+  "country": "India",
+  "site": "rapyder.com"
+ },
+ {
+  "name": "Rasa India",
+  "country": "India",
+  "site": "rasa.com"
+ },
+ {
+  "name": "Ratnaafin",
+  "country": "India",
+  "site": "ratnaafin.com"
+ },
+ {
+  "name": "Rayonier India",
+  "country": "India",
+  "site": "rayonier.com"
+ },
+ {
+  "name": "Razer India",
+  "country": "India",
+  "site": "razer.com"
+ },
+ {
+  "name": "RCM Business",
+  "country": "India",
+  "site": "rcmbusiness.com"
+ },
+ {
+  "name": "Reckitt India",
+  "country": "India",
+  "site": "reckitt.com"
+ },
+ {
+  "name": "Recur Club",
+  "country": "India",
+  "site": "recurclub.com"
+ },
+ {
+  "name": "Redington India",
+  "country": "India",
+  "site": "redingtongroup.com"
+ },
+ {
+  "name": "RedSeer",
+  "country": "India",
+  "site": "redseer.com"
+ },
+ {
+  "name": "Refyne",
+  "country": "India",
+  "site": "refyne.co.in"
+ },
+ {
+  "name": "Regeneron India",
+  "country": "India",
+  "site": "regeneron.com"
+ },
+ {
+  "name": "Relevance Lab",
+  "country": "India",
+  "site": "relevancelab.com"
+ },
+ {
+  "name": "Reliance Retail",
+  "country": "India",
+  "site": "relianceretail.com"
+ },
+ {
+  "name": "Rely",
+  "country": "India",
+  "site": "rely.services"
+ },
+ {
+  "name": "Remedy Health",
+  "country": "India",
+  "site": "remedyhealth.com"
+ },
+ {
+  "name": "Renovite",
+  "country": "India",
+  "site": "renovite.com"
+ },
+ {
+  "name": "Resilinc India",
+  "country": "India",
+  "site": "resilinc.com"
+ },
+ {
+  "name": "Reveleer India",
+  "country": "India",
+  "site": "reveleer.com"
+ },
+ {
+  "name": "Rezo.ai",
+  "country": "India",
+  "site": "rezo.ai"
+ },
+ {
+  "name": "RIB Software India",
+  "country": "India",
+  "site": "rib-software.com"
+ },
+ {
+  "name": "Ridecell India",
+  "country": "India",
+  "site": "ridecell.com"
+ },
+ {
+  "name": "Rightpoint India",
+  "country": "India",
+  "site": "rightpoint.com"
+ },
+ {
+  "name": "Rishabh Software",
+  "country": "India",
+  "site": "rishabhsoft.com"
+ },
+ {
+  "name": "RSPL Group",
+  "country": "India",
+  "site": "rsplgroup.com"
+ },
+ {
+  "name": "RtCamp",
+  "country": "India",
+  "site": "rtcamp.com"
+ },
+ {
+  "name": "Ruptok",
+  "country": "India",
+  "site": "ruptok.com"
  }
 ];

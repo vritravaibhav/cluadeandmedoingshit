@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Resume Autofill — Answer my questions</title>
+
+  <!--
+    ask.html — the "the extension got stuck, please answer these" page.
+
+    HOW IT IS OPENED
+      Not a popup and not a content script. It is a full extension page opened in
+      its own tab with:
+
+          chrome.tabs.create({ url: chrome.runtime.getURL('ask.html') })
+
+      A whole tab (rather than the toolbar popup) is deliberate: the popup closes
+      the instant you click anywhere on the page behind it, which would throw away
+      a half-typed answer. A tab stays put until he closes it.
+
+    WHERE THE QUESTIONS COME FROM
+      chrome.storage.local, key 'pendingQuestions'. content.js writes that array
+      after a fill run: every field it could not answer confidently, already run
+      through AF.toSerialisable() so the entries are plain data (NO live DOM
+      nodes — DOM nodes cannot cross into another tab, and would be stale anyway).
+
+    WHY THE <script> TAGS ARE HERE INSTEAD OF IN manifest.json
+      manifest.json's "content_scripts" list only applies to web pages the
+      extension is injected into. An extension page like this one loads its own
+      dependencies, in dependency order, exactly like options.html does.
+
+    STYLING
+      ask.css sits next to this file. It is a local file, so the Manifest V3
+      Content Security Policy is happy with it. External stylesheets, Google
+      Fonts and CDN links are all blocked — do not add any.
+  -->
+  <link rel="stylesheet" href="ask.css">
+</head>
+
+<body>
+  <div class="wrap">
+
+    <!-- ---------- Page header ---------- -->
+    <header class="page-header">
+      <h1>A few things I could not answer</h1>
+      <p class="subtitle">
+        These are the boxes the extension was not confident about on the last form.
+        Answer them once and they are remembered — the same question fills itself in
+        from now on, on every site, even after a restart.
+      </p>
+    </header>
+
+    <!-- ---------- "Question 3 of 7" ---------- -->
+    <!-- role/aria-live so a screen reader announces the move to the next card. -->
+    <p id="progress" class="progress" role="status" aria-live="polite"></p>
+
+    <!-- ---------- The one visible question card ----------
+         Only ever ONE card exists in the DOM. Moving to the next question rebuilds
+         the contents of this same element rather than rendering the whole list,
+         which keeps him focused on one thing and keeps the code simple. -->
+    <section id="card" class="card" hidden>
+
+      <!-- Small grey line above the question: which section of which form this
+           came from ("Work authorisation", "Voluntary self-identification", ...). -->
+      <p id="cardContext" class="context"></p>
+
+      <!-- The question itself: the label the scraper resolved for the field. -->
+      <h2 id="cardLabel" class="question"></h2>
+
+      <!-- Badges: "Required", the control type, and so on. -->
+      <p id="cardMeta" class="meta"></p>
+
+      <!-- Where it came from, as a real clickable link. -->
+      <p class="source">
+        <a id="cardSource" class="source-link" href="#" target="_blank" rel="noopener noreferrer"></a>
+      </p>
+
+      <!-- The answer control(s) get built into here by ask.js, because the right
+           control depends on field.kind (textarea vs radios vs Yes/No). -->
+      <div id="answerArea" class="answer"></div>
+
+      <!-- Inline validation ("Type an answer first, or press Skip"). -->
+      <p id="cardError" class="error-line" role="alert"></p>
+
+      <!-- ---------- Actions ---------- -->
+      <div class="buttons">
+        <button id="btnSave"  class="btn primary" type="button">Save &amp; next</button>
+        <button id="btnSkip"  class="btn"         type="button">Skip this one</button>
+        <button id="btnNever" class="btn danger"  type="button">Never ask this again</button>
+      </div>
+
+      <p class="hint">
+        <strong>Skip this one</strong> leaves the question unanswered — it will come back
+        the next time a form asks it. <strong>Never ask this again</strong> silences it for
+        good.
+        <br>
+        Tip: <kbd>Ctrl</kbd>+<kbd>Enter</kbd> (<kbd>Cmd</kbd>+<kbd>Enter</kbd> on a Mac) saves
+        and moves on.
+      </p>
+
+    </section>
+
+    <!-- ---------- The end-of-queue summary ---------- -->
+    <section id="done" class="card done" hidden>
+      <h2 id="doneTitle" class="question"></h2>
+      <p id="doneBody" class="context"></p>
+      <div class="buttons">
+        <button id="btnClose" class="btn primary" type="button">Close</button>
+      </div>
+    </section>
+
+    <!-- ---------- Fatal problem (a missing library, unreadable storage) ---------- -->
+    <p id="fatal" class="fatal" role="alert" hidden></p>
+
+  </div>
+
+  <!--
+    LOAD ORDER MATTERS. Classic scripts, no modules, no build step.
+
+      lib/profile.js    creates the global AF namespace and AF.DEFAULT_PROFILE
+      lib/knowledge.js  hangs AF.knowledge (load / remember / ...) onto it
+      ask.js            this page's own logic, needs both of the above
+
+    Each file also starts with the same defensive
+        var AF = (globalThis.AF = globalThis.AF || {});
+    line, so a load failure in one of them degrades instead of exploding.
+  -->
+  <script src="lib/profile.js"></script>
+  <script src="lib/knowledge.js"></script>
+  <script src="ask.js"></script>
+</body>
+</html>

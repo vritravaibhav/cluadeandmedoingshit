@@ -1,0 +1,65 @@
+Divyanshu Vaibhav
+ +91-9576671336 |  divaibhavyanshu@gmail.com |  vritravaibhav.github.io/portfolio
+ github.com/vritravaibhav |  linkedin.com/in/divyanshu-vaibhav
+B.E. Electronics & Communication · Panjab University · 2020–2024
+Experience
+•Software Engineer Jan 2026 – Present
+Longfloat Information Technology Pvt. Ltd., Dubai
+– Designed and developed Spring Boot REST microservices (Spring Data JPA, Hibernate, Flyway migrations) powering AI
+features and core backend APIs consumed by Flutter clients.
+– Implemented stateless JWT authentication and role-based access control with Spring Security, plus centralized
+exception handling, DTO mapping, and request validation (Bean Validation).
+– Wrote unit and integration tests with JUnit 5 and Mockito; documented endpoints with Swagger/OpenAPI and
+containerized services with Docker for consistent environments.
+– Architected hardware-accelerated rendering pipelines on Android Native (NDK/JNI), cutting UI frame-drop rate by 40%;
+built C++/JNI bridges exposing hardware APIs to Flutter.
+– Resolved critical memory leaks and race conditions in production Flutter apps, reducing crash rates by 35%.
+•Software Developer Sep 2024 – Jan 2026
+Electromotion E-vidyut
+– Designed Spring Boot backend services for a production ride-hailing platform — trip lifecycle, fare calculation, and driver–
+rider matching — with layered architecture (Controller–Service–Repository).
+– Optimized JPA/MySQL indexing and query design for low-latency geo queries; profiled and eliminated N+1 query patterns
+to keep matching latency low under load.
+– Built a Google Maps routing engine and server-side tile-caching layer, reducing map API costs by 85% and total
+infrastructure spend by over 6×.
+– Developed 7+ native plugins (Android/iOS) for battery, overlay display, and geolocation to support the apps.
+– Led a 5-member team delivering 9+ production Flutter apps, including the Aamcha Chalak captain app and Aamcha
+Auto rider app (Uber/Rapido-style).
+– Improved crash-free rate from 67% to 94% via Firebase Crashlytics; shipped A/B Testing, Remote Config, and FCM
+campaigns to decouple releases from launches.
+•Flutter Developer Mar 2024 – Aug 2024
+Connect 4 Digital India
+– Integrated WebRTC P2P audio/video (ICE/STUN/TURN, WebSocket signaling), 130+ WooCommerce REST APIs, and
+Stripe SDK payments within Flutter apps; managed state with BLoC.
+Personal Projects
+•SalesPilot — AI-Powered Sales Outreach Suite
+Spring Boot backend + Flutter client — multi-agent AI email authoring, contact capture, and multi-product campaign pipelines.
+– Built the Spring Boot backend — REST APIs for contacts, templates, campaigns, and send-tracking history — with Spring
+Data JPA persistence and Gmail/SMTP integration for one-click outreach.
+– Orchestrated multiple AI agents (LLM APIs) to create and edit HTML email templates — one agent drafts copy, another
+refines layout — with live preview before send.
+– Developed a lightweight CRM layer to maintain client data — an embedded in-app browser auto-captures email IDs
+from visited pages, organized into contact profiles with interaction history, deal stage, and follow-up status (Spring Data JPA,
+per-product segmentation).
+– Added an AI sales advisor that analyzes campaign performance and client engagement (opens, replies, stage drop-offs) and
+recommends next actions to increase sales — who to follow up with, when, and with which template.
+– Stack: Spring Boot, Spring Data JPA, MySQL, Flutter, WebView, LLM APIs, Gmail/SMTP, Firebase.
+•DroopIt — P2P Collaboration Platform (Chrome Extension + App) GitHub ↗
+Team workspace where friends chat, share files P2P, and an AI project manager assigns tasks and follows up on progress.
+– Built real-time group chat with a Spring Boot WebSocket (STOMP) backend — message persistence via Spring Data
+JPA, delivery/read receipts, and multi-room support for project teams.
+– Implemented an AI project manager: breaks a project goal into tasks, assigns tasks to team members based on workload,
+and proactively follows up for progress updates via scheduled jobs (Spring Scheduler) and FCM notifications.
+– Engineered serverless P2P file transfer over WebRTC data channels (Chrome Extension, Flutter Wasm) — chunked
+streaming writes supporting files up to 1 TB, checkpoint-based resume, SHA-256 chunk verification.
+– Stack: Flutter (App + Wasm Extension), Spring Boot, WebSocket/STOMP, Spring Scheduler, MySQL, WebRTC, LLM APIs,
+FCM.
+Technical Skills
+Backend Java, Spring Boot, Spring Security (JWT), Spring Data JPA, Hibernate, Spring MVC, RESTful APIs,
+Microservices, RabbitMQ, Flyway, Maven
+Databases & Caching MySQL, MongoDB, Redis (caching, geo queries), query optimization & indexing, Firebase (Firestore,
+RTDB)
+Testing & DevOps JUnit 5, Mockito, Swagger/OpenAPI, Docker, Postman, Git, GitHub Actions (CI/CD)
+Mobile & Frontend Flutter, Dart, BLoC, Riverpod, Provider, Android Native (NDK/JNI, C++), WebRTC
+Other Stripe SDK, FCM, Crashlytics, A/B Testing, Remote Config, AI Agents (LLM APIs), Figma
+Problem Solving Solved 400+ DSA problems on LeetCode and Codeforces (Java / Dart)

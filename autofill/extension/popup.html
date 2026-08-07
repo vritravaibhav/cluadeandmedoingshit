@@ -1,0 +1,359 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Resume Autofill</title>
+
+  <!--
+    All styling lives in this file on purpose.
+    Manifest V3 blocks external stylesheets / fonts / CDNs, so everything is inline
+    and uses only fonts that ship with the operating system.
+
+    Colour scheme: two sets of CSS variables. The browser picks one automatically
+    based on the user's OS light/dark setting (prefers-color-scheme).
+    Think of the variables as constants: change one value, the whole popup follows.
+  -->
+  <style>
+    /* ---------- Colour constants: LIGHT mode (the default) ---------- */
+    :root {
+      --bg:            #ffffff;
+      --fg:            #1b1f24;
+      --fg-muted:      #5c6773;
+      --border:        #d8dee4;
+      --panel:         #f6f8fa;
+
+      --accent:        #2563eb;   /* primary button background          */
+      --accent-fg:     #ffffff;   /* primary button text                */
+      --accent-hover:  #1d4ed8;
+
+      --ok:            #1a7f37;   /* green: bridge online / deterministic */
+      --ai:            #8250df;   /* purple: filled by AI                 */
+      --warn:          #9a6700;   /* amber: skipped                       */
+      --bad:           #cf222e;   /* red: bridge offline / errors         */
+    }
+
+    /* ---------- Colour constants: DARK mode ---------- */
+    @media (prefers-color-scheme: dark) {
+      :root {
+        --bg:            #16191d;
+        --fg:            #e6edf3;
+        --fg-muted:      #9aa4b2;
+        --border:        #30363d;
+        --panel:         #1f242b;
+
+        --accent:        #3b82f6;
+        --accent-fg:     #ffffff;
+        --accent-hover:  #60a5fa;
+
+        --ok:            #3fb950;
+        --ai:            #a371f7;
+        --warn:          #d29922;
+        --bad:           #f85149;
+      }
+    }
+
+    /* ---------- Page shell ---------- */
+    html, body {
+      margin: 0;
+      padding: 0;
+    }
+
+    body {
+      /* A Chrome popup sizes itself to its content. 320px is the target width. */
+      width: 320px;
+      background: var(--bg);
+      color: var(--fg);
+      font-family: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+      font-size: 13px;
+      line-height: 1.45;
+    }
+
+    .wrap {
+      padding: 12px;
+    }
+
+    /* ---------- Header: title + bridge status ---------- */
+    header {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 8px;
+      margin-bottom: 10px;
+    }
+
+    h1 {
+      margin: 0;
+      font-size: 14px;
+      font-weight: 600;
+      letter-spacing: 0.1px;
+    }
+
+    /* The little coloured circle plus its caption. */
+    #bridgeStatus {
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      font-size: 11px;
+      color: var(--fg-muted);
+      /* Long captions must not push the layout wider than 320px. */
+      max-width: 170px;
+      text-align: right;
+    }
+
+    #bridgeDot {
+      width: 8px;
+      height: 8px;
+      border-radius: 50%;
+      flex: 0 0 auto;
+      background: var(--fg-muted);      /* grey until we know the answer */
+    }
+
+    #bridgeDot.online  { background: var(--ok); }
+    #bridgeDot.offline { background: var(--bad); }
+
+    /* ---------- Buttons ---------- */
+    .btn {
+      display: block;
+      width: 100%;
+      box-sizing: border-box;
+      padding: 8px 10px;
+      margin-bottom: 6px;
+      border: 1px solid var(--border);
+      border-radius: 6px;
+      background: var(--panel);
+      color: var(--fg);
+      font-family: inherit;
+      font-size: 13px;
+      font-weight: 500;
+      cursor: pointer;
+      text-align: center;
+    }
+
+    .btn:hover:not(:disabled) {
+      border-color: var(--fg-muted);
+    }
+
+    .btn:disabled {
+      opacity: 0.55;
+      cursor: default;
+    }
+
+    /* The one big blue call-to-action. */
+    .btn.primary {
+      background: var(--accent);
+      border-color: var(--accent);
+      color: var(--accent-fg);
+      font-weight: 600;
+      padding: 10px;
+    }
+
+    .btn.primary:hover:not(:disabled) {
+      background: var(--accent-hover);
+      border-color: var(--accent-hover);
+    }
+
+    /* Small, low-emphasis debug button. */
+    .btn.tiny {
+      padding: 5px 8px;
+      font-size: 11px;
+      color: var(--fg-muted);
+      font-weight: 400;
+    }
+
+    /* ---------- "N questions need your answer" ----------
+       Amber, so it reads as "there is something for you to do" rather than as
+       an error (red) or as the main action (blue). It starts hidden and
+       popup.js flips display to "block" only when the count is above zero —
+       an empty badge saying "0 questions" is just noise.
+
+       Note it must be `display: none` HERE rather than the HTML `hidden`
+       attribute: `.btn { display: block }` above would win against [hidden]. */
+    #btnAsk {
+      display: none;
+      border-color: var(--warn);
+      color: var(--warn);
+      font-weight: 600;
+    }
+
+    #btnAsk:hover:not(:disabled) {
+      background: var(--warn);
+      color: var(--bg);
+      border-color: var(--warn);
+    }
+
+    /* Two buttons sitting side by side (Fill without AI | Undo). */
+    .row {
+      display: flex;
+      gap: 6px;
+    }
+
+    .row .btn {
+      margin-bottom: 6px;
+    }
+
+    hr.sep {
+      border: 0;
+      border-top: 1px solid var(--border);
+      margin: 10px 0;
+    }
+
+    /* ---------- Results area ---------- */
+    #results {
+      /* Hidden until a run finishes; JS flips this to "block". */
+      display: none;
+      background: var(--panel);
+      border: 1px solid var(--border);
+      border-radius: 6px;
+      padding: 9px 10px;
+      font-size: 12px;
+    }
+
+    #resultMessage {
+      margin: 0 0 6px 0;
+      font-weight: 600;
+    }
+
+    /* Colour-coded one-line-per-count summary. */
+    .stat {
+      display: flex;
+      justify-content: space-between;
+      gap: 8px;
+      padding: 1px 0;
+    }
+
+    .stat .label { color: var(--fg-muted); }
+    .stat .num   { font-variant-numeric: tabular-nums; font-weight: 600; }
+
+    .num.det  { color: var(--ok); }
+    .num.ai   { color: var(--ai); }
+    .num.skip { color: var(--warn); }
+
+    /* One non-fatal warning, e.g. "the AI bridge is not running". It has its
+       own line so it is never mistaken for a file upload in the list below. */
+    #warningMessage {
+      display: none;                     /* shown only when there is a warning */
+      margin: 6px 0 0 0;
+      color: var(--warn);
+      overflow-wrap: anywhere;
+    }
+
+    /* The "these need manual attention" block. */
+    #manualBlock {
+      display: none;                     /* shown only when there is something to show */
+      margin-top: 8px;
+      padding-top: 8px;
+      border-top: 1px solid var(--border);
+    }
+
+    #manualTitle {
+      color: var(--warn);
+      font-weight: 600;
+      margin-bottom: 3px;
+    }
+
+    #manualList {
+      margin: 0;
+      padding-left: 16px;
+      color: var(--fg-muted);
+    }
+
+    #manualList li {
+      /* Long field labels wrap instead of stretching the popup. */
+      overflow-wrap: anywhere;
+      margin-bottom: 2px;
+    }
+
+    /* Error text (no content script, no tab, etc.). */
+    #resultMessage.error { color: var(--bad); }
+
+    footer {
+      margin-top: 10px;
+      text-align: center;
+    }
+
+    /* A plain text link that opens the options page. */
+    .linkish {
+      background: none;
+      border: 0;
+      padding: 0;
+      color: var(--fg-muted);
+      font-family: inherit;
+      font-size: 11px;
+      text-decoration: underline;
+      cursor: pointer;
+    }
+  </style>
+</head>
+
+<body>
+  <div class="wrap">
+
+    <header>
+      <h1>Resume Autofill</h1>
+      <div id="bridgeStatus">
+        <span id="bridgeDot"></span>
+        <span id="bridgeText">Checking bridge…</span>
+      </div>
+    </header>
+
+    <!-- Primary action: deterministic matching first, AI for whatever is left. -->
+    <button id="btnFillAll" class="btn primary" type="button">Fill this form</button>
+
+    <!--
+      The "ask me" badge. Hidden by CSS until popup.js finds questions waiting in
+      chrome.storage.local['pendingQuestions']; clicking it opens ask.html, where
+      he answers them once and the extension remembers the answers for ever.
+      The count text is rebuilt by popup.js, so this default never shows.
+    -->
+    <button id="btnAsk" class="btn" type="button"
+            title="Questions the extension could not answer. Answer them once and it will never ask again.">
+      Questions need your answer
+    </button>
+
+    <!-- Secondary actions, side by side. -->
+    <div class="row">
+      <button id="btnFillDet" class="btn" type="button" title="Profile matching only. Never contacts the AI bridge.">Fill without AI</button>
+      <button id="btnUndo"    class="btn" type="button" title="Put every field back the way it was before the last fill.">Undo</button>
+    </div>
+
+    <!-- The chatbot: type a plain sentence ("I moved to Pune") and the profile
+         updates. Opens chat.html in its own tab. -->
+    <button id="btnTeach" class="btn" type="button"
+            title="Tell it something in plain English — a new address, more years of experience — and it updates your profile.">Teach it something</button>
+
+    <button id="btnScan" class="btn tiny" type="button" title="Print the detected field inventory to the page's own DevTools console.">Scan only (debug)</button>
+
+    <hr class="sep">
+
+    <!-- Everything below is filled in by popup.js after a run. -->
+    <div id="results">
+      <p id="resultMessage"></p>
+
+      <div id="statBlock">
+        <div class="stat"><span class="label">Filled from your profile</span> <span id="numDet"     class="num det">0</span></div>
+        <div class="stat"><span class="label">Filled from what you taught</span><span id="numLearned" class="num det">0</span></div>
+        <div class="stat"><span class="label">Filled by AI</span>             <span id="numAi"      class="num ai">0</span></div>
+        <div class="stat"><span class="label">Skipped</span>                  <span id="numSkip"    class="num skip">0</span></div>
+        <!-- Only shown when there is at least one; popup.js hides the row otherwise. -->
+        <div class="stat" id="statPending"><span class="label">Waiting for your answer</span><span id="numPending" class="num skip">0</span></div>
+      </div>
+
+      <!-- Non-fatal warnings live here, NOT in the file-upload list below. -->
+      <p id="warningMessage"></p>
+
+      <div id="manualBlock">
+        <div id="manualTitle">Needs you (file uploads)</div>
+        <ul id="manualList"></ul>
+      </div>
+    </div>
+
+    <footer>
+      <button id="btnOptions" class="linkish" type="button">Edit profile &amp; settings</button>
+    </footer>
+
+  </div>
+
+  <!-- Classic script, no modules. MV3 forbids inline <script> bodies, so it is a file. -->
+  <script src="popup.js"></script>
+</body>
+</html>

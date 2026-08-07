@@ -1,0 +1,387 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Resume Autofill — Settings</title>
+
+  <!--
+    Same colour variables and same visual language as popup.html, just on a wider
+    page. Everything is inline: Manifest V3 blocks external CSS and fonts.
+  -->
+  <style>
+    /* ---------- Colour constants: LIGHT mode ---------- */
+    :root {
+      --bg:            #ffffff;
+      --fg:            #1b1f24;
+      --fg-muted:      #5c6773;
+      --border:        #d8dee4;
+      --panel:         #f6f8fa;
+
+      --accent:        #2563eb;
+      --accent-fg:     #ffffff;
+      --accent-hover:  #1d4ed8;
+
+      --ok:            #1a7f37;
+      --warn:          #9a6700;
+      --bad:           #cf222e;
+
+      --focus:         #2563eb;
+    }
+
+    /* ---------- Colour constants: DARK mode ---------- */
+    @media (prefers-color-scheme: dark) {
+      :root {
+        --bg:            #16191d;
+        --fg:            #e6edf3;
+        --fg-muted:      #9aa4b2;
+        --border:        #30363d;
+        --panel:         #1f242b;
+
+        --accent:        #3b82f6;
+        --accent-fg:     #ffffff;
+        --accent-hover:  #60a5fa;
+
+        --ok:            #3fb950;
+        --warn:          #d29922;
+        --bad:           #f85149;
+
+        --focus:         #60a5fa;
+      }
+    }
+
+    html, body { margin: 0; padding: 0; }
+
+    body {
+      background: var(--bg);
+      color: var(--fg);
+      font-family: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+      font-size: 14px;
+      line-height: 1.5;
+    }
+
+    .wrap {
+      max-width: 760px;
+      margin: 0 auto;
+      padding: 24px 20px 60px 20px;
+      box-sizing: border-box;
+    }
+
+    h1 {
+      font-size: 20px;
+      font-weight: 600;
+      margin: 0 0 4px 0;
+    }
+
+    .subtitle {
+      color: var(--fg-muted);
+      font-size: 13px;
+      margin: 0 0 22px 0;
+    }
+
+    /* ---------- One settings section ---------- */
+    section {
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      background: var(--panel);
+      padding: 14px 16px 16px 16px;
+      margin-bottom: 18px;
+    }
+
+    h2 {
+      font-size: 14px;
+      font-weight: 600;
+      margin: 0 0 3px 0;
+    }
+
+    .hint {
+      color: var(--fg-muted);
+      font-size: 12px;
+      margin: 0 0 10px 0;
+    }
+
+    /* ---------- Form controls ---------- */
+    textarea,
+    input[type="text"] {
+      width: 100%;
+      box-sizing: border-box;
+      background: var(--bg);
+      color: var(--fg);
+      border: 1px solid var(--border);
+      border-radius: 6px;
+      padding: 8px 10px;
+      font-size: 13px;
+      font-family: inherit;
+    }
+
+    textarea:focus,
+    input[type="text"]:focus {
+      outline: 2px solid var(--focus);
+      outline-offset: -1px;
+      border-color: var(--focus);
+    }
+
+    /* The JSON editor and the instructions box use a monospace face. */
+    .mono {
+      font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Courier New", monospace;
+      line-height: 1.45;
+      tab-size: 2;
+      white-space: pre;         /* no soft wrapping: JSON stays readable  */
+      overflow-x: auto;
+    }
+
+    #profileText {
+      min-height: 420px;
+      resize: vertical;
+    }
+
+    #instructionsText {
+      min-height: 110px;
+      resize: vertical;
+      white-space: pre-wrap;    /* prose, so wrapping IS wanted here */
+    }
+
+    /* Red border while the JSON does not parse. */
+    #profileText.invalid {
+      border-color: var(--bad);
+      outline-color: var(--bad);
+    }
+
+    /* ---------- Buttons ---------- */
+    .buttons {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      flex-wrap: wrap;
+      margin-top: 4px;
+    }
+
+    .btn {
+      padding: 8px 16px;
+      border: 1px solid var(--border);
+      border-radius: 6px;
+      background: var(--bg);
+      color: var(--fg);
+      font-family: inherit;
+      font-size: 13px;
+      font-weight: 500;
+      cursor: pointer;
+    }
+
+    .btn:hover { border-color: var(--fg-muted); }
+
+    .btn.primary {
+      background: var(--accent);
+      border-color: var(--accent);
+      color: var(--accent-fg);
+      font-weight: 600;
+    }
+
+    .btn.primary:hover {
+      background: var(--accent-hover);
+      border-color: var(--accent-hover);
+    }
+
+    .btn.danger { color: var(--warn); }
+
+    /* ---------- Inline validation / save message ---------- */
+    #message {
+      font-size: 13px;
+      min-height: 20px;           /* reserve the row so the layout never jumps */
+      margin-top: 10px;
+      overflow-wrap: anywhere;
+    }
+
+    #message.ok    { color: var(--ok); }
+    #message.error { color: var(--bad); }
+    #message.info  { color: var(--fg-muted); }
+
+    /* ---------- The "Learned answers" table ----------
+       One row per question he has answered in ask.html. The wrapper scrolls
+       rather than the page, so a hundred learned answers do not bury the
+       settings above them. */
+    .table-scroll {
+      max-height: 360px;
+      overflow-y: auto;
+      overflow-x: auto;
+      border: 1px solid var(--border);
+      border-radius: 6px;
+      background: var(--bg);
+    }
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 12px;
+    }
+
+    th, td {
+      text-align: left;
+      vertical-align: top;
+      padding: 7px 9px;
+      border-bottom: 1px solid var(--border);
+    }
+
+    /* The header stays visible while the body scrolls under it. */
+    thead th {
+      position: sticky;
+      top: 0;
+      background: var(--panel);
+      color: var(--fg-muted);
+      font-weight: 600;
+      z-index: 1;
+    }
+
+    tbody tr:last-child td { border-bottom: 0; }
+
+    /* Long questions and long answers wrap instead of stretching the page. */
+    td.question { overflow-wrap: anywhere; }
+    td.answer   { overflow-wrap: anywhere; color: var(--fg-muted); }
+
+    th.uses, td.uses {
+      text-align: right;
+      width: 74px;
+      font-variant-numeric: tabular-nums;
+    }
+
+    th.act, td.act { width: 74px; text-align: right; }
+
+    /* The per-row "Forget" button. */
+    .btn.mini {
+      padding: 3px 9px;
+      font-size: 11px;
+      font-weight: 500;
+      color: var(--warn);
+    }
+
+    /* Shown instead of the table when nothing has been learned yet. */
+    #learnedEmpty {
+      color: var(--fg-muted);
+      font-size: 13px;
+      margin: 0;
+      padding: 14px 4px;
+    }
+
+    #learnedMessage {
+      font-size: 12px;
+      min-height: 18px;
+      margin-top: 8px;
+    }
+
+    #learnedMessage.ok    { color: var(--ok); }
+    #learnedMessage.error { color: var(--bad); }
+    #learnedMessage.info  { color: var(--fg-muted); }
+  </style>
+</head>
+
+<body>
+  <div class="wrap">
+
+    <h1>Resume Autofill — Settings</h1>
+    <p class="subtitle">
+      Everything here is stored locally in the browser (chrome.storage.local). Nothing is uploaded anywhere
+      except to the bridge URL you set below, which is your own machine by default.
+    </p>
+
+    <!-- ---------- Section 1: the profile ---------- -->
+    <section>
+      <h2>Profile</h2>
+      <p class="hint">
+        Pretty-printed JSON. This is the source of truth for every deterministic fill, and it is also what
+        gets sent to the AI bridge as context. It must be valid JSON — Save refuses anything that does not parse.
+      </p>
+      <textarea id="profileText" class="mono" spellcheck="false" autocomplete="off"
+                aria-label="Profile JSON"></textarea>
+    </section>
+
+    <!-- ---------- Section 2: bridge URL ---------- -->
+    <section>
+      <h2>AI bridge URL</h2>
+      <p class="hint">
+        The local helper service that answers free-text questions. Default: <code>http://localhost:3111</code>.
+        If it is not running, the extension silently falls back to deterministic filling.
+      </p>
+      <input id="bridgeUrlInput" type="text" spellcheck="false" autocomplete="off"
+             placeholder="http://localhost:3111" aria-label="Bridge URL">
+    </section>
+
+    <!-- ---------- Section 3: extra prompt instructions ---------- -->
+    <section>
+      <h2>Extra model instructions</h2>
+      <p class="hint">
+        Free text appended to the AI prompt. Use it for standing preferences, e.g.
+        "Answer salary questions with 'Negotiable'." or "Never write more than 3 sentences in a cover-letter box."
+      </p>
+      <textarea id="instructionsText" class="mono" spellcheck="true"
+                placeholder="Optional. Leave blank if you have no special instructions."
+                aria-label="Extra model instructions"></textarea>
+    </section>
+
+    <!-- ---------- Actions ---------- -->
+    <div class="buttons">
+      <button id="btnSave"  class="btn primary" type="button">Save</button>
+      <button id="btnReset" class="btn danger"  type="button">Reset to bundled default</button>
+    </div>
+
+    <div id="message" class="info" role="status" aria-live="polite"></div>
+
+    <!-- ---------- Section 4: the learned answers ----------
+      This section manages itself. Forget and "Clear all" take effect the moment
+      you click them — the Save button above belongs to the three sections above
+      it and has nothing to do with this table.
+    -->
+    <section>
+      <h2>Learned answers</h2>
+      <p class="hint">
+        Every question you answered on the "questions need your answer" page. These are matched
+        BEFORE your profile and before the AI, because you typed them yourself. The question text
+        is normalised, so one answer covers the same question on every job site that asks it.
+        Forgetting one means you will be asked it again the next time it comes up.
+      </p>
+
+      <p id="learnedEmpty">Nothing learned yet.</p>
+
+      <div class="table-scroll" id="learnedTableWrap">
+        <table>
+          <thead>
+            <tr>
+              <th>Question</th>
+              <th>Your answer</th>
+              <th class="uses">Times used</th>
+              <!-- The Forget column needs no heading; the buttons say it. -->
+              <th class="act"></th>
+            </tr>
+          </thead>
+          <!-- Rows are built by options.js with createElement + textContent.
+               Never innerHTML: the question text came off a third-party job
+               site and must be treated as text, not as markup. -->
+          <tbody id="learnedBody"></tbody>
+        </table>
+      </div>
+
+      <div class="buttons">
+        <button id="btnClearLearned" class="btn danger" type="button">Clear all learned answers</button>
+      </div>
+
+      <div id="learnedMessage" class="info" role="status" aria-live="polite"></div>
+    </section>
+
+  </div>
+
+  <!--
+    Load order matters and is the whole reason these are two separate tags.
+
+    options.html is a normal extension page, NOT a content script, so the manifest's
+    content_scripts list does nothing for it. If we want AF.DEFAULT_PROFILE here we
+    must load lib/profile.js ourselves, and it must come FIRST so that the global
+    AF namespace already exists by the time options.js runs.
+
+    lib/knowledge.js is here for the same reason: the "Learned answers" table below
+    is drawn from AF.knowledge.all(), and without this tag AF.knowledge would simply
+    not exist on this page. It must also come before options.js.
+  -->
+  <script src="lib/profile.js"></script>
+  <script src="lib/knowledge.js"></script>
+  <script src="options.js"></script>
+</body>
+</html>

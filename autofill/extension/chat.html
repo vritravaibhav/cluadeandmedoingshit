@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Resume Autofill — Teach the extension</title>
+
+  <!--
+    chat.css is a LOCAL file inside the extension, so Manifest V3's content
+    security policy is happy with it. (The CSP blocks stylesheets, fonts and
+    scripts fetched from the internet, not files shipped in the extension.)
+  -->
+  <link rel="stylesheet" href="chat.css">
+</head>
+
+<body>
+  <div class="wrap">
+
+    <h1>Teach the extension</h1>
+    <p class="subtitle">
+      Type a fact in plain English — “my address changed to Pune”, “now I have 3 years of experience”,
+      “my notice period is 60 days”. The extension works out which part of your profile that touches,
+      shows you exactly what it wants to change, and changes nothing until you press <strong>Apply</strong>.
+      Everything is stored on this device only, and survives a browser or device restart.
+    </p>
+
+    <!-- ===================================================================
+         The conversation.
+
+         role="log" + aria-live="polite" makes a screen reader announce new
+         messages as they arrive without interrupting whatever it is reading.
+         The messages themselves are created by chat.js.
+         =================================================================== -->
+    <div id="transcript" class="transcript" role="log" aria-live="polite"
+         aria-label="Conversation"></div>
+
+    <!-- ===================================================================
+         Example chips. Clicking one drops its text into the textarea (it does
+         NOT send it) so he can edit the details before pressing Send.
+
+         The text that gets copied lives in data-text, which chat.js reads —
+         that keeps the wording in one place even if the visible label is
+         shortened later.
+         =================================================================== -->
+    <div id="chips" class="chips">
+      <button class="chip" type="button"
+              data-text="I now have 3 years of experience">I now have 3 years of experience</button>
+
+      <button class="chip" type="button"
+              data-text="My phone number is ">My phone number is …</button>
+
+      <button class="chip" type="button"
+              data-text="My notice period is 30 days">My notice period is 30 days</button>
+    </div>
+
+    <!-- ===================================================================
+         The composer. Enter sends, Shift+Enter makes a newline — chat.js wires
+         that up on the keydown event.
+         =================================================================== -->
+    <div class="composer">
+      <textarea id="input"
+                rows="2"
+                spellcheck="true"
+                autocomplete="off"
+                placeholder="Tell me what changed…  (Enter to send, Shift+Enter for a new line)"
+                aria-label="Message"></textarea>
+
+      <button id="btnSend" class="btn primary" type="button">Send</button>
+    </div>
+
+    <p class="composer-hint">
+      Enter sends · Shift+Enter starts a new line · nothing is saved until you press Apply
+    </p>
+
+    <!-- ===================================================================
+         Undo + one-line status.
+         "Undo last change" restores the profile snapshot taken just before the
+         most recent Apply. The last 10 snapshots are kept.
+         =================================================================== -->
+    <div class="toolbar">
+      <button id="btnUndo" class="btn danger" type="button" disabled>Undo last change</button>
+      <span id="status" class="info" role="status" aria-live="polite"></span>
+    </div>
+
+    <!-- ===================================================================
+         "What I've learned" — the answers the extension has picked up from
+         form questions it could not answer on its own (lib/knowledge.js).
+         Collapsed by default; open it to inspect or delete anything.
+         =================================================================== -->
+    <details id="learned" class="learned">
+      <summary>What I’ve learned</summary>
+
+      <p class="learned-hint">
+        Answers you gave the extension when it asked about a form question it could not work out on its own.
+        These are reused automatically the next time the same question appears. Press <em>Forget</em> on
+        anything that is wrong or out of date.
+      </p>
+
+      <div id="learnedList"></div>
+    </details>
+
+  </div>
+
+  <!--
+    LOAD ORDER MATTERS, and it is the reason these are three separate tags.
+
+    chat.html is a normal extension page, not a content script, so the
+    manifest's content_scripts list does nothing for it — this page has to load
+    its own dependencies, in dependency order:
+
+      1. lib/profile.js    creates the global AF namespace and AF.DEFAULT_PROFILE,
+                           used as the fallback profile when storage is empty.
+      2. lib/knowledge.js  adds AF.knowledge (addFact / all / forget), used by
+                           the "What I've learned" list and the audit log.
+      3. chat.js           this page's behaviour. It assumes both of the above
+                           are already defined, but degrades gracefully if
+                           lib/knowledge.js is missing.
+
+    No 'type="module"', no bundler, no imports anywhere: plain classic scripts,
+    exactly like every other page in this extension.
+  -->
+  <script src="lib/profile.js"></script>
+  <script src="lib/knowledge.js"></script>
+  <script src="chat.js"></script>
+</body>
+</html>

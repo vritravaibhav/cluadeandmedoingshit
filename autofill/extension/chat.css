@@ -1,0 +1,485 @@
+/* =============================================================================
+ * chat.css — styling for chat.html (the "teach the extension" knowledge chat).
+ * -----------------------------------------------------------------------------
+ * WHY A SEPARATE .css FILE HERE, WHEN popup.html AND options.html USE <style>?
+ *   Those two pages are small. This page has a chat transcript, message bubbles,
+ *   a diff renderer and a collapsible list, which is enough CSS that mixing it
+ *   into the HTML would bury the markup. A LOCAL stylesheet is perfectly legal
+ *   under Manifest V3 — the CSP only blocks stylesheets and fonts loaded from
+ *   somewhere else on the internet. Nothing in this file reaches the network:
+ *   no @import, no url(http...), no web fonts.
+ *
+ * The colour variables below are copied deliberately, name for name, from
+ * options.html and popup.html so all three pages look like one product. If you
+ * ever restyle the extension, change all three.
+ *
+ * ANALOGY FOR A SPRING DEVELOPER
+ *   The ":root { --xyz: ... }" block is just a map of constants, and
+ *   "var(--xyz)" reads one out. It is application.yml for colours.
+ * ========================================================================== */
+
+
+/* ---------------------------------------------------------------------------
+ * 1. Colour constants — LIGHT mode (the default).
+ * ------------------------------------------------------------------------ */
+:root {
+  --bg:            #ffffff;
+  --fg:            #1b1f24;
+  --fg-muted:      #5c6773;
+  --border:        #d8dee4;
+  --panel:         #f6f8fa;
+
+  --accent:        #2563eb;
+  --accent-fg:     #ffffff;
+  --accent-hover:  #1d4ed8;
+
+  --ok:            #1a7f37;
+  --warn:          #9a6700;
+  --bad:           #cf222e;
+
+  --focus:         #2563eb;
+
+  /* Chat-only extras. A very light tint behind the diff block so the
+   * "before -> after" lines read as a distinct panel inside the bubble. */
+  --diff-bg:       #f0f3f6;
+  --warn-bg:       #fff8e5;
+}
+
+/* ---------------------------------------------------------------------------
+ * 2. Colour constants — DARK mode.
+ * -------------------------------------------------------------------------
+ * prefers-color-scheme follows the operating system / browser setting. There is
+ * no manual theme switch in this extension; matching the OS is what the other
+ * two pages do, so this page does the same.
+ * ------------------------------------------------------------------------ */
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg:            #16191d;
+    --fg:            #e6edf3;
+    --fg-muted:      #9aa4b2;
+    --border:        #30363d;
+    --panel:         #1f242b;
+
+    --accent:        #3b82f6;
+    --accent-fg:     #ffffff;
+    --accent-hover:  #60a5fa;
+
+    --ok:            #3fb950;
+    --warn:          #d29922;
+    --bad:           #f85149;
+
+    --focus:         #60a5fa;
+
+    --diff-bg:       #14171b;
+    --warn-bg:       #2a2313;
+  }
+}
+
+
+/* ---------------------------------------------------------------------------
+ * 3. Page frame.
+ * ------------------------------------------------------------------------ */
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background: var(--bg);
+  color: var(--fg);
+  font-family: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  font-size: 14px;
+  line-height: 1.5;
+}
+
+.wrap {
+  max-width: 720px;
+  margin: 0 auto;
+  padding: 22px 18px 56px 18px;
+  box-sizing: border-box;
+}
+
+h1 {
+  font-size: 20px;
+  font-weight: 600;
+  margin: 0 0 4px 0;
+}
+
+.subtitle {
+  color: var(--fg-muted);
+  font-size: 13px;
+  margin: 0 0 16px 0;
+}
+
+
+/* ---------------------------------------------------------------------------
+ * 4. The transcript (the scrolling list of messages).
+ * -------------------------------------------------------------------------
+ * flex-direction: column + gap is the simplest way to stack bubbles with even
+ * spacing. The fixed max-height plus overflow-y keeps the composer and the
+ * "What I've learned" panel on screen no matter how long the conversation gets.
+ * ------------------------------------------------------------------------ */
+.transcript {
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  background: var(--panel);
+  padding: 12px;
+  box-sizing: border-box;
+
+  min-height: 220px;
+  max-height: 52vh;
+  overflow-y: auto;
+
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+/* One row = one message. The row is full width; the bubble inside it is pushed
+ * to the left or the right depending on who is speaking. */
+.row {
+  display: flex;
+}
+
+.row.user { justify-content: flex-end; }   /* his messages: right-aligned  */
+.row.bot  { justify-content: flex-start; } /* replies:      left-aligned   */
+
+.bubble {
+  max-width: 84%;
+  padding: 8px 11px;
+  border-radius: 12px;
+  font-size: 13px;
+  line-height: 1.45;
+
+  /* Long URLs and long unbroken words must wrap rather than stretch the page. */
+  overflow-wrap: anywhere;
+  /* Preserve newlines the user typed with Shift+Enter. */
+  white-space: pre-wrap;
+}
+
+.bubble.user {
+  background: var(--accent);
+  color: var(--accent-fg);
+  border-bottom-right-radius: 4px;   /* the little "tail" on his side */
+}
+
+.bubble.bot {
+  background: var(--bg);
+  color: var(--fg);
+  border: 1px solid var(--border);
+  border-bottom-left-radius: 4px;    /* tail on the assistant side */
+}
+
+/* A failed request (bridge down, bad reply) gets a red-outlined bubble. */
+.bubble.error {
+  border-color: var(--bad);
+  color: var(--bad);
+}
+
+/* A neutral "system" note, e.g. "Applied." or "Discarded." */
+.bubble.note {
+  background: transparent;
+  border: 1px dashed var(--border);
+  color: var(--fg-muted);
+  font-size: 12px;
+}
+
+/* The little "thinking..." bubble shown while the worker is busy. */
+.bubble.pending {
+  color: var(--fg-muted);
+  font-style: italic;
+}
+
+
+/* ---------------------------------------------------------------------------
+ * 5. The diff block inside an assistant bubble.
+ * -------------------------------------------------------------------------
+ * One line per changed profile path:
+ *     yearsOfExperience   2 -> 3
+ * Monospace, because aligned values are far easier to check at a glance, and
+ * this is the block that stops a bad AI parse from reaching the profile.
+ * ------------------------------------------------------------------------ */
+.diff {
+  margin-top: 9px;
+  padding: 8px 9px;
+  border-radius: 6px;
+  background: var(--diff-bg);
+  border: 1px solid var(--border);
+
+  font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Courier New", monospace;
+  font-size: 12px;
+  line-height: 1.5;
+
+  /* A very long array value scrolls sideways INSIDE this box rather than
+   * widening the whole page. */
+  overflow-x: auto;
+}
+
+.diff-line {
+  display: block;
+  padding: 2px 0;
+  white-space: pre-wrap;
+}
+
+/* The dot-notation path, e.g. "personal.city". */
+.diff-path {
+  font-weight: 600;
+}
+
+/* The value being replaced: muted and struck through. */
+.diff-old {
+  color: var(--fg-muted);
+  text-decoration: line-through;
+}
+
+/* The value going in: green, the same green as "Saved" elsewhere. */
+.diff-new {
+  color: var(--ok);
+  font-weight: 600;
+}
+
+/* The little "->" between them. */
+.diff-arrow {
+  color: var(--fg-muted);
+  padding: 0 4px;
+}
+
+/* Amber flag on a path that does not exist in the current profile. A key the
+ * model invented shows up here instead of disappearing into the JSON. */
+.badge-new {
+  display: inline-block;
+  margin-left: 6px;
+  padding: 0 5px;
+  border: 1px solid var(--warn);
+  border-radius: 4px;
+  background: var(--warn-bg);
+  color: var(--warn);
+  font-size: 10px;
+  font-weight: 600;
+  white-space: nowrap;
+}
+
+/* The "Apply these changes?" question above the two buttons. */
+.confirm-question {
+  margin-top: 10px;
+  font-size: 12px;
+  font-weight: 600;
+}
+
+.card-actions {
+  display: flex;
+  gap: 8px;
+  margin-top: 8px;
+  flex-wrap: wrap;
+}
+
+
+/* ---------------------------------------------------------------------------
+ * 6. Example chips (click to prefill the textarea).
+ * ------------------------------------------------------------------------ */
+.chips {
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+  margin: 14px 0 8px 0;
+}
+
+.chip {
+  padding: 5px 11px;
+  border: 1px solid var(--border);
+  border-radius: 999px;          /* pill shape */
+  background: var(--panel);
+  color: var(--fg-muted);
+  font-family: inherit;
+  font-size: 12px;
+  cursor: pointer;
+}
+
+.chip:hover {
+  border-color: var(--accent);
+  color: var(--fg);
+}
+
+
+/* ---------------------------------------------------------------------------
+ * 7. Composer (textarea + Send).
+ * ------------------------------------------------------------------------ */
+.composer {
+  display: flex;
+  gap: 8px;
+  align-items: stretch;
+}
+
+#input {
+  flex: 1;                       /* take all the width Send does not need */
+  box-sizing: border-box;
+  min-height: 58px;
+  resize: vertical;
+
+  background: var(--bg);
+  color: var(--fg);
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  padding: 8px 10px;
+
+  font-family: inherit;
+  font-size: 13px;
+  line-height: 1.45;
+}
+
+#input:focus {
+  outline: 2px solid var(--focus);
+  outline-offset: -1px;
+  border-color: var(--focus);
+}
+
+.composer-hint {
+  color: var(--fg-muted);
+  font-size: 11px;
+  margin: 6px 0 0 0;
+}
+
+
+/* ---------------------------------------------------------------------------
+ * 8. Buttons — same look as options.html / popup.html.
+ * ------------------------------------------------------------------------ */
+.btn {
+  padding: 8px 16px;
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  background: var(--bg);
+  color: var(--fg);
+  font-family: inherit;
+  font-size: 13px;
+  font-weight: 500;
+  cursor: pointer;
+}
+
+.btn:hover { border-color: var(--fg-muted); }
+
+.btn:disabled {
+  opacity: 0.5;
+  cursor: default;
+}
+
+.btn:disabled:hover { border-color: var(--border); }
+
+.btn.primary {
+  background: var(--accent);
+  border-color: var(--accent);
+  color: var(--accent-fg);
+  font-weight: 600;
+}
+
+.btn.primary:hover:not(:disabled) {
+  background: var(--accent-hover);
+  border-color: var(--accent-hover);
+}
+
+.btn.danger { color: var(--warn); }
+
+/* Small button used inside a bubble (Apply / Discard) and in the learned list
+ * (Forget). */
+.btn.small {
+  padding: 5px 11px;
+  font-size: 12px;
+}
+
+.btn.tiny {
+  padding: 3px 9px;
+  font-size: 11px;
+}
+
+/* Keyboard users must always be able to see where they are. */
+.btn:focus-visible,
+.chip:focus-visible,
+summary:focus-visible {
+  outline: 2px solid var(--focus);
+  outline-offset: 2px;
+}
+
+
+/* ---------------------------------------------------------------------------
+ * 9. Toolbar under the composer (Undo + status line).
+ * ------------------------------------------------------------------------ */
+.toolbar {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  flex-wrap: wrap;
+  margin-top: 12px;
+}
+
+#status {
+  font-size: 12px;
+  color: var(--fg-muted);
+  min-height: 18px;              /* reserve the row so nothing jumps around */
+  overflow-wrap: anywhere;
+}
+
+#status.ok    { color: var(--ok); }
+#status.error { color: var(--bad); }
+#status.info  { color: var(--fg-muted); }
+
+
+/* ---------------------------------------------------------------------------
+ * 10. "What I've learned" — the collapsible knowledge list.
+ * ------------------------------------------------------------------------ */
+.learned {
+  margin-top: 20px;
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  background: var(--panel);
+  padding: 10px 12px;
+}
+
+.learned > summary {
+  cursor: pointer;
+  font-size: 13px;
+  font-weight: 600;
+  list-style: revert;            /* keep the native disclosure triangle */
+}
+
+.learned-hint {
+  color: var(--fg-muted);
+  font-size: 12px;
+  margin: 8px 0 4px 0;
+}
+
+.learned-item {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 10px;
+  padding: 9px 0;
+  border-top: 1px solid var(--border);
+}
+
+.learned-text {
+  min-width: 0;                  /* lets the text shrink instead of overflowing */
+  flex: 1;
+}
+
+.learned-q {
+  font-size: 12px;
+  font-weight: 600;
+  overflow-wrap: anywhere;
+}
+
+.learned-a {
+  font-size: 12px;
+  color: var(--fg-muted);
+  overflow-wrap: anywhere;
+}
+
+.learned-meta {
+  font-size: 11px;
+  color: var(--fg-muted);
+  margin-top: 2px;
+}
+
+.empty {
+  color: var(--fg-muted);
+  font-size: 12px;
+  padding: 8px 0 2px 0;
+}

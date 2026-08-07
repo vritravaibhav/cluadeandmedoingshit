@@ -1,0 +1,944 @@
+[
+  {
+    "name": "freelancer.com",
+    "url": "https://www.freelancer.com/api/projects/0.1/projects/active/?query=flutter&limit=20&job_details=true",
+    "status": 200,
+    "ct": "application/json",
+    "bytes": 96522,
+    "error": null,
+    "shape": {
+      "kind": "json",
+      "items": 20,
+      "at": "result.projects"
+    },
+    "sample": "{\"status\":\"success\",\"result\":{\"projects\":[{\"id\":40631084,\"owner_id\":null,\"title\":\"Cross-Platform Booking & Video App\",\"status\":\"active\",\"sub_status\":null,\"seo_u",
+    "differential": {
+      "term2Bytes": 96136,
+      "identical": false,
+      "verdict": "query-honoured"
+    }
+  },
+  {
+    "name": "braintrust",
+    "url": "https://app.usebraintrust.com/api/jobs/?page=1",
+    "status": 200,
+    "ct": "application/json",
+    "bytes": 32807,
+    "error": null,
+    "shape": {
+      "kind": "json",
+      "items": 20,
+      "at": "results"
+    },
+    "sample": "{\"count\":126,\"next\":\"http://app.usebraintrust.com/api/jobs/?page=2\",\"previous\":null,\"results\":[{\"id\":17662,\"title\":\"Financial App Data Contributor, AI Training "
+  },
+  {
+    "name": "arc.dev",
+    "url": "https://arc.dev/remote-jobs/flutter",
+    "status": 200,
+    "ct": "text/html",
+    "bytes": 221574,
+    "error": null,
+    "shape": {
+      "kind": "html",
+      "nextData": true,
+      "nextBytes": 50731,
+      "ldjson": 1,
+      "hint": 0
+    },
+    "sample": "<!DOCTYPE html><html class=\"__variable_3d98de __variable_5db797 __variable_85985b __variable_dca949 __variable_4bba54\" lang=\"en\"><head><meta charSet=\"utf-8\" dat",
+    "differential": {
+      "term2Bytes": 210153,
+      "identical": false,
+      "verdict": "query-honoured"
+    }
+  },
+  {
+    "name": "torre",
+    "url": "https://search.torre.co/opportunities/_search/?offset=0&size=20&aggregate=false",
+    "status": 200,
+    "ct": "application/json",
+    "bytes": 183036,
+    "error": null,
+    "shape": {
+      "kind": "json",
+      "items": 20,
+      "at": "results"
+    },
+    "sample": "{\"total\":301,\"size\":20,\"results\":[{\"id\":\"ZW5y1XeW\",\"objective\":\"Desarrollador de Aplicaciones Móviles - FlutterFlow\",\"slug\":\"singular-agency-desarrollador-de-ap",
+    "differential": {
+      "term2Bytes": 41162,
+      "identical": false,
+      "verdict": "query-honoured"
+    }
+  },
+  {
+    "name": "jobgether",
+    "url": "https://jobgether.com/astroapi/ai/jobs?keyword=flutter",
+    "status": 200,
+    "ct": "text/plain",
+    "bytes": 3971,
+    "error": null,
+    "shape": {
+      "kind": "json",
+      "items": 10,
+      "at": "jobs",
+      "arrays": [
+        [
+          "jobs",
+          10
+        ]
+      ]
+    },
+    "sample": "{\"jobs\":[{\"id\":\"6a734901e9f5b786586b2977\",\"title\":\"Flutter Architect\",\"company\":\"IDS Comercial\",\"url\":\"https://jobgether.com/offer/6a734901e9f5b786586b2977-flut",
+    "differential": {
+      "term2Bytes": 3919,
+      "identical": false,
+      "verdict": "query-honoured"
+    }
+  },
+  {
+    "name": "hn-algolia-search",
+    "url": "https://hn.algolia.com/api/v1/search?query=flutter&tags=comment&hitsPerPage=20",
+    "status": 200,
+    "ct": "application/json",
+    "bytes": 58927,
+    "error": null,
+    "shape": {
+      "kind": "json",
+      "items": 20,
+      "at": "hits"
+    },
+    "sample": "{\"exhaustive\":{\"nbHits\":false,\"typo\":false},\"exhaustiveNbHits\":false,\"exhaustiveTypo\":false,\"hits\":[{\"_highlightResult\":{\"author\":{\"matchLevel\":\"none\",\"matchedW",
+    "differential": {
+      "term2Bytes": 55511,
+      "identical": false,
+      "verdict": "query-honoured"
+    }
+  },
+  {
+    "name": "hn-whoishiring-thread",
+    "url": "https://hn.algolia.com/api/v1/search?query=Freelancer%3F%20Seeking%20freelancer%3F&tags=story&hitsPerPage=5",
+    "status": 200,
+    "ct": "application/json",
+    "bytes": 13028,
+    "error": null,
+    "shape": {
+      "kind": "json",
+      "items": 5,
+      "at": "hits"
+    },
+    "sample": "{\"exhaustive\":{\"nbHits\":false,\"typo\":false},\"exhaustiveNbHits\":false,\"exhaustiveTypo\":false,\"hits\":[{\"_highlightResult\":{\"author\":{\"matchLevel\":\"none\",\"matchedW"
+  },
+  {
+    "name": "reddit-forhire",
+    "url": "https://www.reddit.com/r/forhire/new.json?limit=50",
+    "status": 403,
+    "ct": "text/html",
+    "bytes": 189906,
+    "error": null,
+    "shape": {
+      "kind": "unknown",
+      "items": 0
+    },
+    "sample": "<body class=theme-beta><div><style>.theme-light,:root{--rem360:22.5rem;--rem320:20rem;--rem192:12rem;--rem144:9rem;--rem128:8rem;--rem96:6rem;--rem90:5.625rem;-"
+  },
+  {
+    "name": "reddit-jobbit",
+    "url": "https://www.reddit.com/r/jobbit/new.json?limit=50",
+    "status": 403,
+    "ct": "text/html",
+    "bytes": 189906,
+    "error": null,
+    "shape": {
+      "kind": "unknown",
+      "items": 0
+    },
+    "sample": "<body class=theme-beta><div><style>.theme-light,:root{--rem360:22.5rem;--rem320:20rem;--rem192:12rem;--rem144:9rem;--rem128:8rem;--rem96:6rem;--rem90:5.625rem;-"
+  },
+  {
+    "name": "reddit-freelance-forhire",
+    "url": "https://www.reddit.com/r/freelance_forhire/new.json?limit=50",
+    "status": 403,
+    "ct": "text/html",
+    "bytes": 189906,
+    "error": null,
+    "shape": {
+      "kind": "unknown",
+      "items": 0
+    },
+    "sample": "<body class=theme-beta><div><style>.theme-light,:root{--rem360:22.5rem;--rem320:20rem;--rem192:12rem;--rem144:9rem;--rem128:8rem;--rem96:6rem;--rem90:5.625rem;-"
+  },
+  {
+    "name": "reddit-search-hiring",
+    "url": "https://www.reddit.com/search.json?q=flutter%20hiring&sort=new&limit=50",
+    "status": 403,
+    "ct": "text/html",
+    "bytes": 189906,
+    "error": null,
+    "shape": {
+      "kind": "unknown",
+      "items": 0
+    },
+    "sample": "<body class=theme-beta><div><style>.theme-light,:root{--rem360:22.5rem;--rem320:20rem;--rem192:12rem;--rem144:9rem;--rem128:8rem;--rem96:6rem;--rem90:5.625rem;-"
+  },
+  {
+    "name": "peopleperhour-html",
+    "url": "https://www.peopleperhour.com/freelance-jobs?q=flutter",
+    "status": 200,
+    "ct": "text/html",
+    "bytes": 323951,
+    "error": null,
+    "shape": {
+      "kind": "html",
+      "nextData": false,
+      "nextBytes": 0,
+      "ldjson": 0,
+      "hint": 228
+    },
+    "sample": "<!doctype html><html lang=\"en\"><head><meta data-react-helmet=\"true\" name=\"charset\" content=\"utf-8\"/><meta data-react-helmet=\"true\" name=\"viewport\" content=\"widt",
+    "differential": {
+      "term2Bytes": 323834,
+      "identical": false,
+      "verdict": "query-honoured"
+    }
+  },
+  {
+    "name": "truelancer-api",
+    "url": "https://www.truelancer.com/api/v1/projects?search=flutter",
+    "status": 429,
+    "ct": "text/html",
+    "bytes": 31042,
+    "error": null,
+    "shape": {
+      "kind": "html",
+      "nextData": false,
+      "nextBytes": 0,
+      "ldjson": 0,
+      "hint": 0
+    },
+    "sample": "<!DOCTYPE html><html lang=\"en\" data-astro-cid-nbv56vs3> <head><meta charset=\"utf-8\"><meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"><meta na"
+  },
+  {
+    "name": "truelancer-html",
+    "url": "https://www.truelancer.com/freelance-jobs?search=flutter",
+    "status": 429,
+    "ct": "text/html",
+    "bytes": 31046,
+    "error": null,
+    "shape": {
+      "kind": "html",
+      "nextData": false,
+      "nextBytes": 0,
+      "ldjson": 0,
+      "hint": 0
+    },
+    "sample": "<!DOCTYPE html><html lang=\"en\" data-astro-cid-nbv56vs3> <head><meta charset=\"utf-8\"><meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"><meta na"
+  },
+  {
+    "name": "workana-api",
+    "url": "https://www.workana.com/api/v2/projects?query=flutter",
+    "status": 403,
+    "ct": "text/html",
+    "bytes": 5849,
+    "error": null,
+    "shape": {
+      "kind": "html",
+      "nextData": false,
+      "nextBytes": 0,
+      "ldjson": 0,
+      "hint": 0
+    },
+    "sample": "<!DOCTYPE html><html lang=\"en-US\"><head><title>Just a moment...</title><meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\"><meta http-equiv=\"X-UA"
+  },
+  {
+    "name": "guru",
+    "url": "https://www.guru.com/d/jobs/?q=flutter",
+    "status": 200,
+    "ct": "text/html",
+    "bytes": 212,
+    "error": null,
+    "shape": {
+      "kind": "html",
+      "nextData": false,
+      "nextBytes": 0,
+      "ldjson": 0,
+      "hint": 0
+    },
+    "sample": "<html> <head> <META NAME=\"robots\" CONTENT=\"noindex,nofollow\"> <script src=\"/_Incapsula_Resource?SWJIYLWA=5074a744e2e3d891814e9a2dace20bd4,719d34d31c8e3a6e6ff",
+    "differential": {
+      "term2Bytes": 212,
+      "identical": true,
+      "verdict": "QUERY-IGNORED"
+    }
+  },
+  {
+    "name": "freelancermap-rss",
+    "url": "https://www.freelancermap.com/rss/projects.xml?query=flutter",
+    "status": 404,
+    "ct": "application/json",
+    "bytes": 123,
+    "error": null,
+    "shape": {
+      "kind": "json",
+      "items": 0,
+      "at": null,
+      "arrays": []
+    },
+    "sample": "{\"type\":\"https:\\/\\/tools.ietf.org\\/html\\/rfc2616#section-10\",\"title\":\"An error occurred\",\"status\":404,\"detail\":\"Not Found\"}"
+  },
+  {
+    "name": "freelancermap-html",
+    "url": "https://www.freelancermap.com/freelance-projects.html?query=flutter",
+    "status": 404,
+    "ct": "application/json",
+    "bytes": 123,
+    "error": null,
+    "shape": {
+      "kind": "json",
+      "items": 0,
+      "at": null,
+      "arrays": []
+    },
+    "sample": "{\"type\":\"https:\\/\\/tools.ietf.org\\/html\\/rfc2616#section-10\",\"title\":\"An error occurred\",\"status\":404,\"detail\":\"Not Found\"}"
+  },
+  {
+    "name": "useme-html",
+    "url": "https://useme.com/en/jobs/?search=flutter",
+    "status": 403,
+    "ct": "text/html",
+    "bytes": 5782,
+    "error": null,
+    "shape": {
+      "kind": "html",
+      "nextData": false,
+      "nextBytes": 0,
+      "ldjson": 0,
+      "hint": 3
+    },
+    "sample": "<!DOCTYPE html><html lang=\"en-US\"><head><title>Just a moment...</title><meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\"><meta http-equiv=\"X-UA"
+  },
+  {
+    "name": "codeur-rss",
+    "url": "https://www.codeur.com/projects.rss",
+    "status": 200,
+    "ct": "application/rss+xml",
+    "bytes": 27207,
+    "error": null,
+    "shape": {
+      "kind": "xml",
+      "items": 35
+    },
+    "sample": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <rss version=\"2.0\"> <channel> <title>Tous les projets</title> <description/> <lastBuildDate>Fri, 07 Aug 202"
+  },
+  {
+    "name": "twago-html",
+    "url": "https://www.twago.com/projects/?search=flutter",
+    "status": 403,
+    "ct": "text/html",
+    "bytes": 548,
+    "error": null,
+    "shape": {
+      "kind": "html",
+      "nextData": false,
+      "nextBytes": 0,
+      "ldjson": 0,
+      "hint": 0
+    },
+    "sample": "<html> <head><title>403 Forbidden</title></head> <body> <center><h1>403 Forbidden</h1></center> <hr><center>nginx</center> </body> </html> <!-- a padding"
+  },
+  {
+    "name": "golance-api",
+    "url": "https://golance.com/api/v1/jobs/search?query=flutter",
+    "status": 200,
+    "ct": "application/json",
+    "bytes": 20561,
+    "error": null,
+    "shape": {
+      "kind": "json",
+      "items": 5,
+      "at": "results",
+      "arrays": [
+        [
+          "results",
+          5
+        ]
+      ]
+    },
+    "sample": "{\"results\":[{\"_id\":\"6a5bc7a82abe5e56bef96b84\",\"createdOn\":\"2026-07-18T18:36:24.887Z\",\"user\":{\"_id\":\"6a4fb465dbcb48c9019c4fa2\",\"firstName\":\"goLance\",\"lastName\":\"",
+    "differential": {
+      "term2Bytes": 12743,
+      "identical": false,
+      "verdict": "query-honoured"
+    }
+  },
+  {
+    "name": "hubstaff-talent",
+    "url": "https://talent.hubstaff.com/search/jobs?search[keywords]=flutter",
+    "status": 200,
+    "ct": "text/html",
+    "bytes": 77349,
+    "error": null,
+    "shape": {
+      "kind": "html",
+      "nextData": false,
+      "nextBytes": 0,
+      "ldjson": 0,
+      "hint": 33
+    },
+    "sample": "<!DOCTYPE html><html><head><title>Flutter Jobs</title><meta content=\"Find Flutter Jobs for freelance and full time remote positions\" name=\"description\" /><meta ",
+    "differential": {
+      "term2Bytes": 77349,
+      "identical": false,
+      "verdict": "query-honoured"
+    }
+  },
+  {
+    "name": "outsourcely",
+    "url": "https://www.outsourcely.com/remote-jobs",
+    "status": 0,
+    "ct": "",
+    "bytes": 0,
+    "error": "fetch failed",
+    "shape": null,
+    "sample": ""
+  },
+  {
+    "name": "gun-io",
+    "url": "https://gun.io/find-work/",
+    "status": 200,
+    "ct": "text/html",
+    "bytes": 121013,
+    "error": null,
+    "shape": {
+      "kind": "html",
+      "nextData": false,
+      "nextBytes": 0,
+      "ldjson": 2,
+      "hint": 13
+    },
+    "sample": "<!doctype html> <html lang=\"en-US\"> <head> <meta charset=\"utf-8\"> <script> var gform;gform||(document.addEventListener(\"gform_main_scripts_loaded\",functio"
+  },
+  {
+    "name": "contra-api",
+    "url": "https://contra.com/api/search/opportunities?query=flutter",
+    "status": 404,
+    "ct": "application/json",
+    "bytes": 106,
+    "error": null,
+    "shape": {
+      "kind": "json",
+      "items": 0,
+      "at": null,
+      "arrays": []
+    },
+    "sample": "{\"message\":\"Route GET:/search/opportunities?query=flutter not found\",\"error\":\"Not Found\",\"statusCode\":404}"
+  },
+  {
+    "name": "lemon-io",
+    "url": "https://lemon.io/jobs/",
+    "status": 404,
+    "ct": "text/html",
+    "bytes": 64724,
+    "error": null,
+    "shape": {
+      "kind": "html",
+      "nextData": false,
+      "nextBytes": 0,
+      "ldjson": 1,
+      "hint": 61
+    },
+    "sample": " <!doctype html> <html lang=\"en-US\"> <head> <meta charset=\"UTF-8\"> <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"> <link rel=\""
+  },
+  {
+    "name": "twine-api",
+    "url": "https://www.twine.net/api/jobs?search=flutter",
+    "status": 404,
+    "ct": "application/json",
+    "bytes": 45,
+    "error": null,
+    "shape": {
+      "kind": "json",
+      "items": 0,
+      "at": null,
+      "arrays": []
+    },
+    "sample": "{\"message\":\"404 Not Found\",\"status_code\":404}"
+  },
+  {
+    "name": "kolabtree",
+    "url": "https://www.kolabtree.com/jobs",
+    "status": 404,
+    "ct": "text/html",
+    "bytes": 163417,
+    "error": null,
+    "shape": {
+      "kind": "html",
+      "nextData": false,
+      "nextBytes": 0,
+      "ldjson": 1,
+      "hint": 0
+    },
+    "sample": " <!DOCTYPE html> <!--[if IE 8 ]> <html class=\"ie ie8\" class=\"no-js\" lang=\"en\"> <![endif]--> <!--[if (gte IE 9)|!(IE)]><!--> <html class=\"no-js\" lang=\"en\" x"
+  },
+  {
+    "name": "wripple",
+    "url": "https://www.wripple.com/marketplace",
+    "status": 404,
+    "ct": "text/html",
+    "bytes": 14718,
+    "error": null,
+    "shape": {
+      "kind": "html",
+      "nextData": false,
+      "nextBytes": 0,
+      "ldjson": 0,
+      "hint": 0
+    },
+    "sample": "<!DOCTYPE html><!-- Last Published: Mon Jul 13 2026 21:26:56 GMT+0000 (Coordinated Universal Time) --><html data-wf-domain=\"www.wripple.com\" data-wf-page=\"64e79"
+  },
+  {
+    "name": "dribbble-jobs",
+    "url": "https://dribbble.com/jobs",
+    "status": 200,
+    "ct": "text/html",
+    "bytes": 274149,
+    "error": null,
+    "shape": {
+      "kind": "html",
+      "nextData": false,
+      "nextBytes": 0,
+      "ldjson": 0,
+      "hint": 931
+    },
+    "sample": "<!DOCTYPE html> <html lang=\"en\"> <head> <script id=\"cookieyes\" type=\"text/javascript\" src=\"https://cdn-cookieyes.com/client_data/780c76971bc38ef14edcd798/sc"
+  },
+  {
+    "name": "behance-joblist",
+    "url": "https://www.behance.net/joblist?search=flutter",
+    "status": 200,
+    "ct": "text/html",
+    "bytes": 381876,
+    "error": null,
+    "shape": {
+      "kind": "html",
+      "nextData": false,
+      "nextBytes": 0,
+      "ldjson": 0,
+      "hint": 423
+    },
+    "sample": " <!DOCTYPE html> <!--[if IE 7 ]> <html class=\"ie ie7\"> <![endif]--> <!--[if IE 8 ]> <html class=\"ie ie8\"> <![endif]--> <!--[if IE 9 ]> <html class=\"ie ie9\"> <![",
+    "differential": {
+      "term2Bytes": 611721,
+      "identical": false,
+      "verdict": "query-honoured"
+    }
+  },
+  {
+    "name": "blendermarket-jobs",
+    "url": "https://blendswap.com/",
+    "status": 200,
+    "ct": "text/html",
+    "bytes": 127164,
+    "error": null,
+    "shape": {
+      "kind": "html",
+      "nextData": false,
+      "nextBytes": 0,
+      "ldjson": 0,
+      "hint": 154
+    },
+    "sample": "<!DOCTYPE html> <html class=\"h-full scroll-smooth\" lang=\"en\"> <head> <title>BlendSwap - Free Blender 3D Models</title> <meta name=\"viewport\" content=\""
+  },
+  {
+    "name": "polycount-jobs-rss",
+    "url": "https://polycount.com/categories/freelance-job-postings/feed.rss",
+    "status": 403,
+    "ct": "text/html",
+    "bytes": 5935,
+    "error": null,
+    "shape": {
+      "kind": "html",
+      "nextData": false,
+      "nextBytes": 0,
+      "ldjson": 0,
+      "hint": 0
+    },
+    "sample": "<!DOCTYPE html><html lang=\"en-US\"><head><title>Just a moment...</title><meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\"><meta http-equiv=\"X-UA"
+  },
+  {
+    "name": "cgtrader-jobs",
+    "url": "https://www.cgtrader.com/freelance-3d-jobs",
+    "status": 404,
+    "ct": "text/html",
+    "bytes": 1154135,
+    "error": null,
+    "shape": {
+      "kind": "html",
+      "nextData": false,
+      "nextBytes": 0,
+      "ldjson": 0,
+      "hint": 20
+    },
+    "sample": "<!DOCTYPE html><html lang=\"en\"><head><meta charset=\"UTF-8\" /><meta name=\"csrf-param\" content=\"authenticity_token\" /> <meta name=\"csrf-token\" content=\"EBTrNO8aU6"
+  },
+  {
+    "name": "artstation-jobs",
+    "url": "https://www.artstation.com/api/v2/jobs/search.json?page=1",
+    "status": 500,
+    "ct": "",
+    "bytes": 77,
+    "error": null,
+    "shape": {
+      "kind": "unknown",
+      "items": 0
+    },
+    "sample": "An unhandled lowlevel error occurred. The application logs may have details. "
+  },
+  {
+    "name": "uxjobsboard-rss",
+    "url": "https://uxjobsboard.com/feed",
+    "status": 200,
+    "ct": "text/html",
+    "bytes": 2378,
+    "error": null,
+    "shape": {
+      "kind": "html",
+      "nextData": false,
+      "nextBytes": 0,
+      "ldjson": 0,
+      "hint": 0
+    },
+    "sample": "<!DOCTYPE html> <html lang=\"en\" dir=\"\"> <head> <meta charset=\"utf-8\"> <title>Job board unavailable - Niceboard</title> <meta name=\"d"
+  },
+  {
+    "name": "python-org-jobs-rss",
+    "url": "https://www.python.org/jobs/feed/rss/",
+    "status": 200,
+    "ct": "application/rss+xml",
+    "bytes": 70324,
+    "error": null,
+    "shape": {
+      "kind": "xml",
+      "items": 20
+    },
+    "sample": "<?xml version=\"1.0\" encoding=\"utf-8\"?> <rss version=\"2.0\" xmlns:atom=\"http://www.w3.org/2005/Atom\"><channel><title>Python.org Jobs Feed</title><link>https://www"
+  },
+  {
+    "name": "larajobs-rss",
+    "url": "https://larajobs.com/feed",
+    "status": 200,
+    "ct": "application/xml",
+    "bytes": 10599,
+    "error": null,
+    "shape": {
+      "kind": "xml",
+      "items": 9
+    },
+    "sample": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <rss version=\"2.0\" xmlns:content=\"http://purl.org/rss/1.0/modules/content/\" xmlns:wfw=\"http://wellformedweb.org"
+  },
+  {
+    "name": "web3career-api",
+    "url": "https://web3.career/api/v1?token=demo&q=flutter",
+    "status": 200,
+    "ct": "text/html",
+    "bytes": 31333,
+    "error": null,
+    "shape": {
+      "kind": "html",
+      "nextData": false,
+      "nextBytes": 0,
+      "ldjson": 0,
+      "hint": 0
+    },
+    "sample": "<!DOCTYPE html> <html lang=en-GB class=h-100> <head> <title>Web3 Jobs API</title> <meta name=description content=\"Access the largest aggregated Web3 jobs databa",
+    "differential": {
+      "term2Bytes": 31333,
+      "identical": false,
+      "verdict": "query-honoured"
+    }
+  },
+  {
+    "name": "cryptojobslist",
+    "url": "https://cryptojobslist.com/api/jobs?search=flutter",
+    "status": 403,
+    "ct": "text/html",
+    "bytes": 5834,
+    "error": null,
+    "shape": {
+      "kind": "html",
+      "nextData": false,
+      "nextBytes": 0,
+      "ldjson": 0,
+      "hint": 0
+    },
+    "sample": "<!DOCTYPE html><html lang=\"en-US\"><head><title>Just a moment...</title><meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\"><meta http-equiv=\"X-UA"
+  },
+  {
+    "name": "nodesk-rss",
+    "url": "https://nodesk.co/remote-jobs/index.xml",
+    "status": 200,
+    "ct": "application/xml",
+    "bytes": 10669,
+    "error": null,
+    "shape": {
+      "kind": "xml",
+      "items": 10
+    },
+    "sample": "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"yes\"?><rss version=\"2.0\" xmlns:atom=\"http://www.w3.org/2005/Atom\"><channel><atom:link href=\"https://nodesk.co/r"
+  },
+  {
+    "name": "remoteco-rss",
+    "url": "https://remote.co/remote-jobs/feed/",
+    "status": 403,
+    "ct": "text/html",
+    "bytes": 388,
+    "error": null,
+    "shape": {
+      "kind": "html",
+      "nextData": false,
+      "nextBytes": 0,
+      "ldjson": 0,
+      "hint": 0
+    },
+    "sample": "<HTML><HEAD> <TITLE>Access Denied</TITLE> </HEAD><BODY> <H1>Access Denied</H1> You don't have permission to access \"http&#58;&#47;&#47;remote&#46;co&#47;remot"
+  },
+  {
+    "name": "justremote",
+    "url": "https://justremote.co/api/remote-jobs",
+    "status": 200,
+    "ct": "text/html",
+    "bytes": 144564,
+    "error": null,
+    "shape": {
+      "kind": "html",
+      "nextData": false,
+      "nextBytes": 0,
+      "ldjson": 0,
+      "hint": 0
+    },
+    "sample": " <!DOCTYPE html> <html lang=\"en\"> <head> <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\" /> <meta charSet='utf-8' /> "
+  },
+  {
+    "name": "workingnomads-tags",
+    "url": "https://www.workingnomads.com/api/exposed_jobs/",
+    "status": 200,
+    "ct": "application/json",
+    "bytes": 212264,
+    "error": null,
+    "shape": {
+      "kind": "json",
+      "items": 44,
+      "at": "(root)",
+      "arrays": [
+        [
+          "",
+          44
+        ]
+      ]
+    },
+    "sample": "[{\"url\":\"https://www.workingnomads.com/job/go/1775657/\",\"title\":\"AI Content Analyst (No Experience Required)\",\"description\":\"<p><strong>Help Shape the Future of"
+  },
+  {
+    "name": "devitjobs-api",
+    "url": "https://devitjobs.uk/api/jobsLight",
+    "status": 200,
+    "ct": "text/html",
+    "bytes": 10187,
+    "error": null,
+    "shape": {
+      "kind": "html",
+      "nextData": true,
+      "nextBytes": 945,
+      "ldjson": 1,
+      "hint": 0
+    },
+    "sample": "<!DOCTYPE html><html><head><meta charSet=\"utf-8\"/><title>Sign Up</title><meta name=\"viewport\" content=\"initial-scale=1, width=device-width\"/><meta name=\"robots\""
+  },
+  {
+    "name": "okjob-api",
+    "url": "https://okjob.io/api/jobs",
+    "status": 404,
+    "ct": "text/html",
+    "bytes": 109304,
+    "error": null,
+    "shape": {
+      "kind": "html",
+      "nextData": false,
+      "nextBytes": 0,
+      "ldjson": 1,
+      "hint": 0
+    },
+    "sample": "<!doctype html><html lang=\"vi\" prefix=\"og: https://ogp.me/ns#\"><head><script data-no-optimize=\"1\">var litespeed_docref=sessionStorage.getItem(\"litespeed_docref\""
+  },
+  {
+    "name": "wellfound-html",
+    "url": "https://wellfound.com/role/r/flutter",
+    "status": 403,
+    "ct": "application/json",
+    "bytes": 441,
+    "error": null,
+    "shape": {
+      "kind": "json",
+      "items": 0,
+      "at": null,
+      "arrays": []
+    },
+    "sample": "{\"url\":\"https://geo.captcha-delivery.com/captcha/?initialCid=AHrlqAAAAAMAKegx_eFzRPgAt1ICMw==&cid=vCJhHjbIkG4nMT35AoIFaUotmcodVf47olyApCR6xWvkt6oMAzudI_jA183nkP"
+  },
+  {
+    "name": "weworkremotely-design-rss",
+    "url": "https://weworkremotely.com/categories/remote-design-jobs.rss",
+    "status": 200,
+    "ct": "application/rss+xml",
+    "bytes": 828302,
+    "error": null,
+    "shape": {
+      "kind": "xml",
+      "items": 89
+    },
+    "sample": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <rss version=\"2.0\" xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:media=\"http://search.yahoo.com/mrss\"> <channel> "
+  },
+  {
+    "name": "weworkremotely-all-rss",
+    "url": "https://weworkremotely.com/remote-jobs.rss",
+    "status": 200,
+    "ct": "application/rss+xml",
+    "bytes": 825826,
+    "error": null,
+    "shape": {
+      "kind": "xml",
+      "items": 100
+    },
+    "sample": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <rss version=\"2.0\" xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:media=\"http://search.yahoo.com/mrss\"> <channel> "
+  },
+  {
+    "name": "jobicy-all",
+    "url": "https://jobicy.com/api/v2/remote-jobs?count=50",
+    "status": 200,
+    "ct": "application/json",
+    "bytes": 404850,
+    "error": null,
+    "shape": {
+      "kind": "json",
+      "items": 50,
+      "at": "jobs"
+    },
+    "sample": "{\"apiVersion\":\"2.2.15\",\"documentationUrl\":\"https:\\/\\/jobi.cy\\/apidocs\",\"friendlyNotice\":\"Thanks for using Jobicy API! Please ensure Jobicy is clearly credited w"
+  },
+  {
+    "name": "himalayas-api",
+    "url": "https://himalayas.app/jobs/api?limit=20",
+    "status": 200,
+    "ct": "application/json",
+    "bytes": 129310,
+    "error": null,
+    "shape": {
+      "kind": "json",
+      "items": 20,
+      "at": "jobs"
+    },
+    "sample": "{\"comments\":\"13/03/2026: The API has been updated to include the companySlug field in the response.\",\"updatedAt\":1786075366,\"offset\":0,\"limit\":20,\"totalCount\":9"
+  },
+  {
+    "name": "adzuna-noauth",
+    "url": "https://api.adzuna.com/v1/api/jobs/in/search/1?what=flutter",
+    "status": 400,
+    "ct": "text/html",
+    "bytes": 1996,
+    "error": null,
+    "shape": {
+      "kind": "html",
+      "nextData": false,
+      "nextBytes": 0,
+      "ldjson": 0,
+      "hint": 0
+    },
+    "sample": "<!DOCTYPE html> <html> <!-- This file is managed by Chef --> <head> <meta charset=\"UTF-8\"> <title>Uh oh, something isn't right</title> "
+  },
+  {
+    "name": "jooble-noauth",
+    "url": "https://jooble.org/api/",
+    "status": 403,
+    "ct": "text/html",
+    "bytes": 5715,
+    "error": null,
+    "shape": {
+      "kind": "html",
+      "nextData": false,
+      "nextBytes": 0,
+      "ldjson": 0,
+      "hint": 0
+    },
+    "sample": "<!DOCTYPE html><html lang=\"en-US\"><head><title>Just a moment...</title><meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\"><meta http-equiv=\"X-UA"
+  },
+  {
+    "name": "findwork-dev",
+    "url": "https://findwork.dev/api/jobs/?search=flutter",
+    "status": 401,
+    "ct": "application/json",
+    "bytes": 58,
+    "error": null,
+    "shape": {
+      "kind": "json",
+      "items": 0,
+      "at": null,
+      "arrays": []
+    },
+    "sample": "{\"detail\":\"Authentication credentials were not provided.\"}"
+  },
+  {
+    "name": "jobdataapi",
+    "url": "https://jobdataapi.com/api/jobs/?title=flutter&max_age=30",
+    "status": 200,
+    "ct": "application/json",
+    "bytes": 600904,
+    "error": null,
+    "shape": {
+      "kind": "json",
+      "items": 100,
+      "at": "results"
+    },
+    "sample": "{\"count\":132,\"next\":\"https://jobdataapi.com/api/jobs/?max_age=30&page=2&title=flutter\",\"previous\":null,\"results\":[{\"id\":52090668,\"ext_id\":\"2243658\",\"company\":{\"",
+    "differential": {
+      "term2Bytes": 528303,
+      "identical": false,
+      "verdict": "query-honoured"
+    }
+  },
+  {
+    "name": "remoteok-api",
+    "url": "https://remoteok.com/api",
+    "status": 200,
+    "ct": "application/json",
+    "bytes": 245582,
+    "error": null,
+    "shape": {
+      "kind": "json",
+      "items": 101,
+      "at": "(root)",
+      "arrays": [
+        [
+          "",
+          101
+        ]
+      ]
+    },
+    "sample": "[{\"last_updated\":1786082579,\"legal\":\"API Terms of Service: Please link back (with follow, and without nofollow!) to the URL on Remote OK and mention Remote OK a"
+  },
+  {
+    "name": "openskills-usajobs",
+    "url": "https://data.usajobs.gov/api/search?Keyword=flutter",
+    "status": 401,
+    "ct": "application/problem+json",
+    "bytes": 165,
+    "error": null,
+    "shape": {
+      "kind": "json",
+      "items": 0,
+      "at": null,
+      "arrays": []
+    },
+    "sample": "{\"type\":\"https://tools.ietf.org/html/rfc9110#section-15.5.2\",\"title\":\"Unauthorized\",\"status\":401,\"traceId\":\"00-28f0ba5c8f051f02bbd77e708feae5ef-22122b4a5e4e542a"
+  }
+]

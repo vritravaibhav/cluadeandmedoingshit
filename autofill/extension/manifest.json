@@ -1,0 +1,40 @@
+{
+  "manifest_version": 3,
+  "name": "Resume Autofill",
+  "version": "0.1.0",
+  "description": "Fills job and freelance application forms (Greenhouse, Lever, Ashby, Workday, Freelancer, Upwork) from your resume profile, with an optional local AI bridge for the odd questions.",
+  "permissions": [
+    "activeTab",
+    "scripting",
+    "storage"
+  ],
+  "host_permissions": [
+    "http://localhost:3111/*"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "content_scripts": [
+    {
+      "matches": [
+        "<all_urls>"
+      ],
+      "all_frames": true,
+      "run_at": "document_idle",
+      "js": [
+        "lib/profile.js",
+        "lib/knowledge.js",
+        "lib/scrape.js",
+        "lib/fill.js",
+        "lib/widgets.js",
+        "lib/match.js",
+        "lib/screening.js",
+        "content.js"
+      ]
+    }
+  ],
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "options_page": "options.html"
+}

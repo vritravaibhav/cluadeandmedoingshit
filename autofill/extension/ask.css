@@ -1,0 +1,479 @@
+/* =============================================================================
+ * ask.css — styling for ask.html (the "answer my questions" page).
+ *
+ * SELF-CONTAINED ON PURPOSE
+ *   No @import, no CDN, no web fonts. The Manifest V3 Content Security Policy
+ *   blocks every one of those and the page would simply render unstyled. The
+ *   font stack below is "whatever this operating system already has", which is
+ *   what system-ui means.
+ *
+ * COLOURS
+ *   Declared once as CSS custom properties (variables) on :root, then swapped
+ *   wholesale inside the prefers-color-scheme: dark block. Every rule further
+ *   down uses var(--something) and therefore needs no dark-mode variant of its
+ *   own. Same variable names and same values as popup.html / options.html so
+ *   the three pages look like one product.
+ *
+ *   For a Flutter dev: :root is the page's ThemeData, and the dark block is the
+ *   darkTheme. Nothing below re-checks the brightness.
+ * ===========================================================================*/
+
+
+/* ---------------------------------------------------------------------------
+ * 1. Colour constants — LIGHT mode (the default).
+ * -------------------------------------------------------------------------*/
+:root {
+  --bg:            #ffffff;
+  --fg:            #1b1f24;
+  --fg-muted:      #5c6773;
+  --border:        #d8dee4;
+  --panel:         #f6f8fa;
+
+  --accent:        #2563eb;
+  --accent-fg:     #ffffff;
+  --accent-hover:  #1d4ed8;
+
+  --ok:            #1a7f37;
+  --warn:          #9a6700;
+  --bad:           #cf222e;
+
+  --focus:         #2563eb;
+
+  /* Very light tint used behind the "Other / type my own" box when it opens. */
+  --tint:          #eef3fb;
+}
+
+/* ---------------------------------------------------------------------------
+ * 2. Colour constants — DARK mode.
+ *    Chrome applies this automatically from the OS setting; there is no toggle
+ *    to build and nothing to persist.
+ * -------------------------------------------------------------------------*/
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg:            #16191d;
+    --fg:            #e6edf3;
+    --fg-muted:      #9aa4b2;
+    --border:        #30363d;
+    --panel:         #1f242b;
+
+    --accent:        #3b82f6;
+    --accent-fg:     #ffffff;
+    --accent-hover:  #60a5fa;
+
+    --ok:            #3fb950;
+    --warn:          #d29922;
+    --bad:           #f85149;
+
+    --focus:         #60a5fa;
+
+    --tint:          #1b2432;
+  }
+}
+
+
+/* ---------------------------------------------------------------------------
+ * 3. Page frame.
+ * -------------------------------------------------------------------------*/
+
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background: var(--bg);
+  color: var(--fg);
+  font-family: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  font-size: 14px;
+  line-height: 1.5;
+}
+
+/* One readable column, centred. 680px is about 90 characters of prose, which is
+ * as wide as a question should ever get. */
+.wrap {
+  max-width: 680px;
+  margin: 0 auto;
+  padding: 28px 20px 64px 20px;
+  box-sizing: border-box;
+}
+
+/* The HTML "hidden" attribute must beat the display rules further down, hence
+ * !important. ask.js shows and hides whole sections by toggling el.hidden. */
+[hidden] {
+  display: none !important;
+}
+
+
+/* ---------------------------------------------------------------------------
+ * 4. Header.
+ * -------------------------------------------------------------------------*/
+
+.page-header {
+  margin-bottom: 18px;
+}
+
+h1 {
+  font-size: 20px;
+  font-weight: 600;
+  margin: 0 0 6px 0;
+}
+
+.subtitle {
+  color: var(--fg-muted);
+  font-size: 13px;
+  margin: 0;
+}
+
+
+/* ---------------------------------------------------------------------------
+ * 5. "Question 3 of 7".
+ * -------------------------------------------------------------------------*/
+
+.progress {
+  font-size: 12px;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: var(--fg-muted);
+  margin: 0 0 8px 0;
+  /* Reserve the line even when it is empty so the card never jumps up a row. */
+  min-height: 18px;
+}
+
+
+/* ---------------------------------------------------------------------------
+ * 6. The question card.
+ * -------------------------------------------------------------------------*/
+
+.card {
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  background: var(--panel);
+  padding: 18px 20px 20px 20px;
+}
+
+/* Small grey line above the question: the surrounding heading or legend, so he
+ * can tell which part of which form the question belongs to. */
+.context {
+  color: var(--fg-muted);
+  font-size: 12px;
+  margin: 0 0 6px 0;
+  overflow-wrap: anywhere;
+}
+
+/* The question itself. Bigger than body text — it is the point of the page. */
+.question {
+  font-size: 17px;
+  font-weight: 600;
+  line-height: 1.35;
+  margin: 0 0 8px 0;
+  overflow-wrap: anywhere;
+}
+
+/* Badge row: "Required", "Multiple choice", ... */
+.meta {
+  margin: 0 0 10px 0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+}
+
+.badge {
+  display: inline-block;
+  font-size: 11px;
+  font-weight: 600;
+  line-height: 1.6;
+  padding: 0 8px;
+  border-radius: 999px;
+  border: 1px solid var(--border);
+  background: var(--bg);
+  color: var(--fg-muted);
+}
+
+.badge.required {
+  color: var(--warn);
+  border-color: var(--warn);
+}
+
+/* The source URL. */
+.source {
+  margin: 0 0 14px 0;
+  font-size: 12px;
+}
+
+.source-link {
+  color: var(--accent);
+  text-decoration: none;
+  overflow-wrap: anywhere;
+}
+
+.source-link:hover {
+  text-decoration: underline;
+}
+
+
+/* ---------------------------------------------------------------------------
+ * 7. The answer controls.
+ * -------------------------------------------------------------------------*/
+
+.answer {
+  margin: 0 0 4px 0;
+}
+
+/* --- free text --- */
+
+textarea,
+input[type="text"] {
+  width: 100%;
+  box-sizing: border-box;
+  background: var(--bg);
+  color: var(--fg);
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  padding: 9px 11px;
+  font-size: 14px;
+  font-family: inherit;
+  line-height: 1.5;
+}
+
+textarea {
+  resize: vertical;
+}
+
+textarea:focus,
+input[type="text"]:focus {
+  outline: 2px solid var(--focus);
+  outline-offset: -1px;
+  border-color: var(--focus);
+}
+
+/* --- choices (select / radio / checkbox) --- */
+
+/* The list of options. <fieldset> gives real grouping semantics for screen
+ * readers; the border/margin reset stops it looking like a 1996 form. */
+.choices {
+  border: 0;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+}
+
+/* One clickable row. The whole row is a <label>, so clicking the text selects
+ * the radio — much easier than hitting a 13px circle. */
+.choice {
+  display: flex;
+  align-items: flex-start;
+  gap: 9px;
+  padding: 7px 10px;
+  border: 1px solid transparent;
+  border-radius: 6px;
+  cursor: pointer;
+  overflow-wrap: anywhere;
+}
+
+.choice:hover {
+  background: var(--bg);
+  border-color: var(--border);
+}
+
+/* Highlight the row that is actually selected. :has() is supported in every
+ * Chrome that supports Manifest V3, and if it were ever missing the page would
+ * simply lose the tint — nothing breaks. */
+.choice:has(input:checked) {
+  background: var(--bg);
+  border-color: var(--accent);
+}
+
+.choice input[type="radio"] {
+  /* Nudge the circle down so it lines up with the first line of a long label. */
+  margin: 4px 0 0 0;
+  accent-color: var(--accent);
+  flex: 0 0 auto;
+}
+
+/* The "Other / type my own" text box that appears under the last radio. */
+.other-box {
+  margin: 6px 0 0 30px;   /* indented so it clearly belongs to the Other row */
+  padding: 8px;
+  background: var(--tint);
+  border-radius: 6px;
+}
+
+/* --- the "cannot answer this here" note (file uploads) --- */
+.note {
+  margin: 0;
+  padding: 10px 12px;
+  border: 1px dashed var(--border);
+  border-radius: 6px;
+  color: var(--fg-muted);
+  font-size: 13px;
+}
+
+
+/* ---------------------------------------------------------------------------
+ * 8. Inline error line.
+ * -------------------------------------------------------------------------*/
+
+.error-line {
+  color: var(--bad);
+  font-size: 13px;
+  /* Always reserve the row: showing an error must not shove the buttons down. */
+  min-height: 20px;
+  margin: 8px 0 4px 0;
+  overflow-wrap: anywhere;
+}
+
+
+/* ---------------------------------------------------------------------------
+ * 9. Buttons.
+ * -------------------------------------------------------------------------*/
+
+.buttons {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  flex-wrap: wrap;
+  margin-top: 6px;
+}
+
+.btn {
+  padding: 8px 16px;
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  background: var(--bg);
+  color: var(--fg);
+  font-family: inherit;
+  font-size: 13px;
+  font-weight: 500;
+  cursor: pointer;
+}
+
+.btn:hover {
+  border-color: var(--fg-muted);
+}
+
+.btn:focus-visible {
+  outline: 2px solid var(--focus);
+  outline-offset: 1px;
+}
+
+.btn:disabled {
+  opacity: 0.55;
+  cursor: default;
+}
+
+.btn.primary {
+  background: var(--accent);
+  border-color: var(--accent);
+  color: var(--accent-fg);
+  font-weight: 600;
+}
+
+.btn.primary:hover {
+  background: var(--accent-hover);
+  border-color: var(--accent-hover);
+}
+
+/* "Never ask this again" is not destructive to his data, but it IS permanent,
+ * so it gets the amber warning colour rather than plain body text. */
+.btn.danger {
+  color: var(--warn);
+}
+
+/* Push "Never ask this again" to the right-hand end, away from Save, so it is
+ * hard to hit by accident. margin-left:auto eats all the spare space. */
+#btnNever {
+  margin-left: auto;
+}
+
+
+/* ---------------------------------------------------------------------------
+ * 10. Helper text under the buttons.
+ * -------------------------------------------------------------------------*/
+
+.hint {
+  color: var(--fg-muted);
+  font-size: 12px;
+  margin: 14px 0 0 0;
+}
+
+kbd {
+  font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Courier New", monospace;
+  font-size: 11px;
+  padding: 1px 5px;
+  border: 1px solid var(--border);
+  border-bottom-width: 2px;
+  border-radius: 4px;
+  background: var(--bg);
+  color: var(--fg);
+}
+
+
+/* ---------------------------------------------------------------------------
+ * 11. The end-of-queue summary card.
+ * -------------------------------------------------------------------------*/
+
+.card.done {
+  text-align: center;
+  padding: 34px 24px 30px 24px;
+}
+
+.card.done .question {
+  margin-bottom: 8px;
+}
+
+.card.done .context {
+  margin-bottom: 18px;
+  font-size: 13px;
+}
+
+.card.done .buttons {
+  justify-content: center;
+}
+
+
+/* ---------------------------------------------------------------------------
+ * 12. Fatal error (missing library, unreadable storage).
+ * -------------------------------------------------------------------------*/
+
+.fatal {
+  color: var(--bad);
+  font-size: 13px;
+  border: 1px solid var(--bad);
+  border-radius: 8px;
+  padding: 12px 14px;
+  margin: 0;
+  overflow-wrap: anywhere;
+}
+
+
+/* ---------------------------------------------------------------------------
+ * 13. Narrow windows.
+ *     He may drag this tab into a small side-by-side window next to the job
+ *     form, so the button row has to survive about 360px of width.
+ * -------------------------------------------------------------------------*/
+@media (max-width: 420px) {
+  .wrap {
+    padding: 18px 12px 48px 12px;
+  }
+
+  .card {
+    padding: 14px 14px 16px 14px;
+  }
+
+  .buttons {
+    flex-direction: column;
+    align-items: stretch;
+  }
+
+  .btn {
+    width: 100%;
+  }
+
+  /* Stacked vertically, the auto margin would leave a gap instead of a shove. */
+  #btnNever {
+    margin-left: 0;
+  }
+}

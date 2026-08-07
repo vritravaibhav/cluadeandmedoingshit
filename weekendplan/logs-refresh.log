@@ -1,0 +1,23 @@
+Scanning 3 letter(s): w x y
+  3 letters in parallel, concurrency 8 each
+
+cp: /Users/longfloat/deletelater/jobs/w/test.js and /Users/longfloat/deletelater/jobs/w/test.js are identical (not copied).
+  -> w: 125 companies, starting
+  -> x: 100 companies, starting
+  -> y: 100 companies, starting
+  == y: done, boards read 51/100
+  == w: done, boards read 83/125
+  == x: done, boards read 39/100
+
+All scans finished. Building the four weekend folders...
+Loaded 3 letter(s): w x y
+  companies scanned : 325
+  raw postings      : 9101
+  India + eng + non-senior : 147
+
+  1-java-flutter-2yr         9 roles     6 companies
+  2-java-flutter-3yr        13 roles     7 companies
+  3-software-2yr            71 roles    32 companies
+  4-software-3yr            27 roles    18 companies
+
+Wrote weekendplan/INDEX.txt

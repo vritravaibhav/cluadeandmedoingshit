@@ -1,0 +1,75 @@
+Checking 66 companies (concurrency 8)
+
+[  1/66] Vymo                         !! careers-page-read-but-lists-no-openings
+[  2/66] Vodafone Idea                !! careers-page-read-but-lists-no-openings
+[  3/66] Vedantu                      !! careers-page-read-but-lists-no-openings
+[  4/66] Visa India                    40 jobs  via workday:visa
+[  5/66] Volvo India                   61 jobs  via successfactors:jobs.volvogroup.com   ** 1 MATCH **
+[  6/66] Varian India                  40 jobs  via workday:onehealthineers
+[  7/66] Vahan                        !! careers-page-read-but-lists-no-openings
+[  8/66] VMware India                 !! careers-page-read-but-lists-no-openings
+[  9/66] Virtusa                      !! careers-page-read-but-lists-no-openings
+[ 10/66] Vanguard India                 4 jobs  via html:https://www.vanguardjobs.com/
+[ 11/66] Vertafore India              !! careers-page-read-but-lists-no-openings
+[ 12/66] Vertex Inc India              21 jobs  via workday:vertexinc
+[ 13/66] Visteon India                !! blocked-or-error-response
+[ 14/66] Verizon India                !! no-job-data-found
+[ 15/66] Vogo                           4 jobs  via lever:vogo
+[ 16/66] Valuelabs                    !! careers-page-read-but-lists-no-openings
+[ 17/66] Voltas                       !! no-job-data-found
+[ 18/66] Veeva India                    2 jobs  via headings:https://www.veeva.com/join-us
+[ 19/66] Vahak                          5 jobs  via headings:https://www.vahak.in/careers
+[ 20/66] Vodafone Intelligent Solutio   2 jobs  via headings:https://www.vodafone.com/career
+[ 21/66] Vialto Partners India          3 jobs  via headings:https://vialtopartners.com/careers
+[ 22/66] Vidyalai                      12 jobs  via headings:https://erp.vidyalai.com/jobs
+[ 23/66] Vinculum                       6 jobs  via headings:https://www.vinculumgroup.com/career/
+[ 24/66] Velotio Technologies           0 jobs  via workable:velotio (0 open)
+[ 25/66] Verse Innovation             !! no-job-data-found
+[ 26/66] Vinsys                         0 jobs  via zohorecruit:careers.vinsys.com (0 open)
+[ 27/66] VeriPark India                29 jobs  via workday:veripark
+[ 28/66] VDoIT                        !! no-job-data-found
+[ 29/66] Valuefirst                   !! no-job-data-found
+[ 30/66] Varthana                       8 jobs  via headings:https://app79.workline.hr/Candidate/GeneralOpening.aspx
+[ 31/66] Vantage Circle               !! careers-page-read-but-lists-no-openings
+[ 32/66] Vuram                        !! blocked-or-error-response
+[ 33/66] Vasitum                      !! careers-page-read-but-lists-no-openings
+[ 34/66] Vayana Network               !! careers-page-read-but-lists-no-openings
+[ 35/66] Vertoz                         0 jobs  via zohorecruit:vertoz (0 open)
+[ 36/66] Vectra AI India               20 jobs  via greenhouse:vectranetworks
+[ 37/66] Vayu Robotics                  5 jobs  via headings:https://www.vayurobotics.com/company/careers
+[ 38/66] Velocity                       6 jobs  via ashby:velocity
+[ 39/66] Vconnexions                  !! careers-page-read-but-lists-no-openings
+[ 40/66] Venwiz                        14 jobs  via keka:venwiztechnologies
+[ 41/66] Vehant Technologies            9 jobs  via headings:https://www.vehant.com/careers/
+[ 42/66] Veersa Technologies          !! blocked-or-error-response
+[ 43/66] Verifone India                43 jobs  via greenhouse:verifone
+[ 44/66] Valasys Media                 13 jobs  via headings:https://valasys.com/careers/
+[ 45/66] Velsera India                 12 jobs  via feed:https://velsera.com
+[ 46/66] Vernost                      !! no-job-data-found
+[ 47/66] Vidooly                      !! blocked-or-error-response
+[ 48/66] Vertiv India                 303 jobs  via feed:https://www.vertiv.com
+[ 49/66] Vestas India                  46 jobs  via successfactors:careers.vestas.com
+[ 50/66] Vigilant Technologies        !! careers-page-unreachable
+[ 51/66] Virtual Galaxy                 3 jobs  via headings:https://www.vgipl.com/careers
+[ 52/66] Versa Networks India          11 jobs  via headings:https://versa-networks.com/careers/
+[ 53/66] Vistaar Systems              !! careers-page-unreachable
+[ 54/66] Vidhyaa                        2 jobs  via headings:https://www.vidhyaa.in/career
+[ 55/66] Vishay India                 !! careers-page-unreachable
+[ 56/66] Vionsys                      !! careers-page-read-but-lists-no-openings
+[ 57/66] Veritas India                !! careers-page-read-but-lists-no-openings
+[ 58/66] Voylla                         7 jobs  via headings:https://www.voylla.com/pages/careers
+[ 59/66] Vyapar                        70 jobs  via keka:vyaparapp
+[ 60/66] Vitech India                 !! careers-page-read-but-lists-no-openings
+[ 61/66] Vodex                        !! careers-page-read-but-lists-no-openings
+[ 62/66] Vistex India                 !! careers-page-read-but-lists-no-openings
+[ 63/66] Vegrow                       !! timed-out
+[ 64/66] Vunet Systems                  5 jobs  via headings:https://vunetsystems.com/company/careers
+[ 65/66] Vsplash                        5 jobs  via headings:https://www.vsplash.com/careers/
+[ 66/66] Volansys                     !! timed-out
+
+  boards read with jobs : 31
+  boards read, 0 open   : 3
+  could not read        : 32
+  companies w/ matches  : 1
+
+Wrote careers.txt + results.json

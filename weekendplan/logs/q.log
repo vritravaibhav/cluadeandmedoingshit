@@ -1,0 +1,36 @@
+Checking 27 companies (concurrency 8)
+
+[  1/27] Quinbay                      !! careers-page-unreachable
+[  2/27] Quantum Leap                 !! blocked-or-error-response
+[  3/27] QburstTechnologies           !! careers-page-read-but-lists-no-openings
+[  4/27] Quovantis                    !! no-job-data-found
+[  5/27] Qure.ai                      !! careers-page-read-but-lists-no-openings
+[  6/27] QuickHeal                    !! blocked-or-error-response
+[  7/27] Quadrant Resource            !! careers-page-unreachable
+[  8/27] Quantela                       4 jobs  via headings:https://careers.quantela.com/jobs
+[  9/27] Quest Global                 !! careers-page-read-but-lists-no-openings
+[ 10/27] Quantiphi                     40 jobs  via workday:quantiphi
+[ 11/27] Quarks Technosoft            !! careers-page-unreachable
+[ 12/27] QualiZeal                     10 jobs  via feed:https://qualizeal.com
+[ 13/27] Quantsapp                    !! careers-page-read-but-lists-no-openings
+[ 14/27] Quadrant Technologies          1 jobs  via feed:https://www.quadranttechnologies.com
+[ 15/27] Questmarketresearch          !! careers-page-unreachable
+[ 16/27] Quantum Phinance             !! careers-page-read-but-lists-no-openings
+[ 17/27] Quicko                         0 jobs  via zohorecruit:quicko (0 open)
+[ 18/27] Qualys India                 148 jobs  via workday:qualys
+[ 19/27] Quest Software India          22 jobs  via icims:quest
+[ 20/27] Qriocity                     !! careers-page-read-but-lists-no-openings
+[ 21/27] Qualcomm India                26 jobs  via sitemap:https://careers.qualcomm.com
+[ 22/27] Qualitest India              !! careers-page-read-but-lists-no-openings
+[ 23/27] Quikr                         33 jobs  via headings:https://www.quikr.com/jobs
+[ 24/27] Quinstreet India              31 jobs  via greenhouse:quinstreet
+[ 25/27] Qapita                       !! careers-page-read-but-lists-no-openings
+[ 26/27] Quantzig                     !! careers-page-read-but-lists-no-openings
+[ 27/27] Qoala                        !! blocked-or-error-response
+
+  boards read with jobs : 9
+  boards read, 0 open   : 1
+  could not read        : 17
+  companies w/ matches  : 0
+
+Wrote careers.txt + results.json

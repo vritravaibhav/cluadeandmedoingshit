@@ -1,0 +1,59 @@
+Checking 50 companies (concurrency 8)
+
+[  1/50] Zoho                         !! careers-page-read-but-lists-no-openings
+[  2/50] Zebra Technologies India      40 jobs  via workday:zebra   ** 1 MATCH **
+[  3/50] Zolo                         !! careers-page-read-but-lists-no-openings
+[  4/50] Zeta                          25 jobs  via lever:zeta   ** 1 MATCH **
+[  5/50] Zomato                       !! careers-page-read-but-lists-no-openings
+[  6/50] Zluri                          9 jobs  via keka:zluri
+[  7/50] ZoomInfo India               !! blocked-or-error-response
+[  8/50] Zscaler India                  3 jobs  via headings:https://www.zscaler.com/careers
+[  9/50] Zeliot                         4 jobs  via keka:zeliot
+[ 10/50] Zensar Technologies          !! careers-page-read-but-lists-no-openings
+[ 11/50] Zepto                        !! careers-page-read-but-lists-no-openings
+[ 12/50] Zwayam                       !! careers-page-read-but-lists-no-openings
+[ 13/50] Zignuts Technolab            !! careers-page-read-but-lists-no-openings
+[ 14/50] Zetwerk                       29 jobs  via headings:https://www.zetwerk.com/careers/
+[ 15/50] Zopper                         5 jobs  via headings:https://www.zopper.com/about-us/careers
+[ 16/50] ZoomCar                      !! careers-page-read-but-lists-no-openings
+[ 17/50] Zolvit                       !! no-job-data-found
+[ 18/50] Zenoti                        37 jobs  via greenhouse:zenoti
+[ 19/50] Zecurity                     !! careers-page-unreachable
+[ 20/50] Zeb Consulting               !! careers-page-unreachable
+[ 21/50] Zaggle                         4 jobs  via next-data:https://www.zaggle.in/careers
+[ 22/50] Zebi                         !! no-job-data-found
+[ 23/50] Zell Education               !! blocked-or-error-response
+[ 24/50] Zed Aerospace                !! careers-page-unreachable
+[ 25/50] Zyoin                        !! no-job-data-found
+[ 26/50] Zappyhire                    !! careers-page-read-but-lists-no-openings
+[ 27/50] Zerodha                      !! careers-page-read-but-lists-no-openings
+[ 28/50] Zentek Infosoft                4 jobs  via feed:https://zentekinfosoft.com
+[ 29/50] Zenlayer India                25 jobs  via bamboohr:zenlayer
+[ 30/50] Zestmoney                    !! careers-page-unreachable
+[ 31/50] Zend Technologies India      !! no-job-data-found
+[ 32/50] Zidbot                       !! careers-page-unreachable
+[ 33/50] Zenatix                      !! no-job-data-found
+[ 34/50] Zeus Learning                  2 jobs  via headings:https://zeuslearning.com/careers
+[ 35/50] Zippee                        55 jobs  via keka:zippee   ** 1 MATCH **
+[ 36/50] Zuci Systems                   0 jobs  via zohorecruit:zucisystems (0 open)
+[ 37/50] Zenskar                      !! no-job-data-found
+[ 38/50] Ziff Davis India             !! careers-page-read-but-lists-no-openings
+[ 39/50] Zippserv                     !! no-job-data-found
+[ 40/50] Zomentum                     !! careers-page-read-but-lists-no-openings
+[ 41/50] Zimyo                         60 jobs  via headings:https://www.zimyo.com/templates/job-descriptions/
+[ 42/50] Zuddl                         10 jobs  via keka:zuddl
+[ 43/50] Zurich India                  59 jobs  via successfactors:www.careers.zurich.com
+[ 44/50] Zwende                       !! no-job-data-found
+[ 45/50] Zykrr                        !! blocked-or-error-response
+[ 46/50] Zopsmart                     !! careers-page-read-but-lists-no-openings
+[ 47/50] Zycus                        !! timed-out
+[ 48/50] Zinnov                        40 jobs  via greenhouse:zinnov
+[ 49/50] Zigram                       !! careers-page-read-but-lists-no-openings
+[ 50/50] Zonka Feedback               !! no-job-data-found
+
+  boards read with jobs : 17
+  boards read, 0 open   : 1
+  could not read        : 32
+  companies w/ matches  : 3
+
+Wrote careers.txt + results.json

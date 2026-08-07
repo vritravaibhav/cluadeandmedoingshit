@@ -77,3 +77,69 @@ Checking 136 companies (concurrency 8)
 [ 75/136] Byteridge                     10 jobs  via feed:https://byteridge.com
 [ 76/136] BUSINESSNEXT                 !! careers-page-read-but-lists-no-openings
 [ 77/136] Bynry                        !! careers-page-read-but-lists-no-openings
+[ 78/136] Barco                        !! blocked-or-error-response
+[ 79/136] Baker Hughes                 !! careers-page-read-but-lists-no-openings
+[ 80/136] Bain & Company               !! careers-page-read-but-lists-no-openings
+[ 81/136] BYJU'S                       !! careers-page-read-but-lists-no-openings
+[ 82/136] Bristlecone                  !! careers-page-read-but-lists-no-openings
+[ 83/136] Barclays                     !! careers-page-read-but-lists-no-openings
+[ 84/136] Bytes Technolab              !! careers-page-read-but-lists-no-openings
+[ 85/136] BASF                          68 jobs  via successfactors:basf.jobs
+[ 86/136] Bentley Systems              !! blocked-or-error-response
+[ 87/136] Barracuda Networks           !! careers-page-read-but-lists-no-openings
+[ 88/136] Bayer                          3 jobs  via teamtailor:bayernordic
+[ 89/136] Bazaarvoice                   30 jobs  via lever:bazaarvoice
+[ 90/136] Bank of America              400 jobs  via workday:ghr
+[ 91/136] Birdeye                        3 jobs  via headings:https://birdeye.com/careers/
+[ 92/136] Blend360                       0 jobs  via zohorecruit:blend360 (0 open)
+[ 93/136] Bidgely                        8 jobs  via ashby:bidgely-inc
+[ 94/136] Becton Dickinson              40 jobs  via workday:bdx
+[ 95/136] Bitcot                        10 jobs  via feed:https://www.bitcot.com
+[ 96/136] BMC Software                   4 jobs  via headings:https://www.bmc.com/careers/careers.html?301=careers
+[ 97/136] BlueOptima                     2 jobs  via headings:https://www.blueoptima.com/company/careers
+[ 98/136] BlackRock                    !! careers-page-read-but-lists-no-openings
+[ 99/136] Bloomreach                    75 jobs  via greenhouse:bloomreach
+[100/136] Baxter                       !! timed-out
+[101/136] Best Buy                     !! timed-out
+[102/136] Blue Yonder                  !! timed-out
+[103/136] BNY                          !! timed-out
+[104/136] BOLD                         !! timed-out
+[105/136] Bombardier                   !! timed-out
+[106/136] Booking.com                  !! timed-out
+[107/136] Boeing                        40 jobs  via workday:boeing
+[108/136] Boomi                          4 jobs  via headings:https://boomi.com/company/careers/
+[109/136] Boston Scientific             43 jobs  via successfactors:jobs.bostonscientific.com
+[110/136] Bosch                        !! careers-page-read-but-lists-no-openings
+[111/136] BORN Group                   !! blocked-or-error-response
+[112/136] Bounteous                     21 jobs  via lever:bounteous   ** 1 MATCH **
+[113/136] BorgWarner                    11 jobs  via html:https://www.borgwarner.com/careers/job-search
+[114/136] BP                            40 jobs  via workday:bpinternational
+[115/136] Brightcove                     2 jobs  via next-data:https://www.brightcove.com/company/careers
+[116/136] Branch                        17 jobs  via greenhouse:branchmetrics
+[117/136] Boston Consulting Group      184 jobs  via phenom:_self
+[118/136] Bunge                        !! blocked-or-error-response
+[119/136] Bourntec Solutions           !! careers-page-read-but-lists-no-openings
+[120/136] BT Group                      41 jobs  via successfactors:jobs.bt.com
+[121/136] Bristol Myers Squibb          40 jobs  via workday:bristolmyerssquibb   ** 1 MATCH **
+[122/136] Buckman                       30 jobs  via jobvite:buckman-fr
+[123/136] Broadcom                     !! careers-page-read-but-lists-no-openings
+[124/136] Bounce                        16 jobs  via ashby:bounce
+[125/136] Brane Enterprises            !! careers-page-unreachable
+[126/136] Betterhalf                   !! no-job-data-found
+[127/136] BlackBuck                    !! no-job-data-found
+[128/136] Broadridge Financial Solutio  40 jobs  via workday:broadridge   ** 1 MATCH **
+[129/136] Bewakoof                     !! no-job-data-found
+[130/136] BiofuelCircle                 20 jobs  via wordpress:https://www.biofuelcircle.com
+[131/136] Biofourmis                   !! no-job-data-found
+[132/136] Boldare                       10 jobs  via breezy:boldare
+[133/136] Bluecopa                     !! no-job-data-found
+[134/136] Bugworks                     !! blocked-or-error-response
+[135/136] Bristlecone                  !! no-job-data-found
+[136/136] Borderless Access              6 jobs  via feed:https://borderlessaccess.com
+
+  boards read with jobs : 67
+  boards read, 0 open   : 5
+  could not read        : 64
+  companies w/ matches  : 4
+
+Wrote careers.txt + results.json

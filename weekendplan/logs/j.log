@@ -1,0 +1,45 @@
+Checking 36 companies (concurrency 8)
+
+[  1/36] Jubilant FoodWorks           !! careers-page-unreachable
+[  2/36] Jio Platforms                !! careers-page-unreachable
+[  3/36] Juspay                       !! careers-page-read-but-lists-no-openings
+[  4/36] Jio                            3 jobs  via headings:https://careers.jio.com/
+[  5/36] Jar                           11 jobs  via jazzhr:changejar
+[  6/36] Jaro Education                 3 jobs  via headings:https://www.jaroeducation.com/careers
+[  7/36] Justdial                     !! careers-page-read-but-lists-no-openings
+[  8/36] JoulesToWatts                !! blocked-or-error-response
+[  9/36] Jumbotail                     14 jobs  via headings:https://jumbotail.com/careers/
+[ 10/36] Jupiter Money                 12 jobs  via keka:jupiter
+[ 11/36] JSW Group                    !! careers-page-read-but-lists-no-openings
+[ 12/36] JPMorgan Chase India         !! careers-page-read-but-lists-no-openings
+[ 13/36] Josh Technology Group          7 jobs  via feed:https://www.joshtechnologygroup.com
+[ 14/36] Jumio India                    4 jobs  via headings:https://www.jumio.com/careers/
+[ 15/36] Jify                           2 jobs  via headings:https://www.jify.co/careers
+[ 16/36] Jade Global                  237 jobs  via workday:jadeglobal
+[ 17/36] John Deere India              27 jobs  via sitemap:https://careers.deere.com   ** 2 MATCH **
+[ 18/36] Janitri                        4 jobs  via headings:https://www.janitri.in/company/careers
+[ 19/36] Jamboree Education           !! careers-page-read-but-lists-no-openings
+[ 20/36] Johnson Controls India       400 jobs  via workday:jci
+[ 21/36] Jocata                       !! careers-page-read-but-lists-no-openings
+[ 22/36] Jaguar Land Rover India      !! careers-page-read-but-lists-no-openings
+[ 23/36] Jodo                           6 jobs  via keka:jodo
+[ 24/36] Jivox India                    2 jobs  via html:https://davincicommerce.ai/careers
+[ 25/36] Josh Talks                    23 jobs  via feed:https://www.joshtalks.com
+[ 26/36] Jeavio                         0 jobs  via zohorecruit:jeavio (0 open)
+[ 27/36] Jindal Steel                 !! careers-page-read-but-lists-no-openings
+[ 28/36] Jio Haptik                   !! careers-page-read-but-lists-no-openings
+[ 29/36] JK Tech                       10 jobs  via feed:https://jktech.com
+[ 30/36] Junglee Games                !! careers-page-unreachable
+[ 31/36] Jupiter Meta                 !! careers-page-unreachable
+[ 32/36] Jungleworks                    0 jobs  via zohorecruit:jungleworks (0 open)
+[ 33/36] Joveo                          2 jobs  via sitemap:https://careers.joveo.com
+[ 34/36] JTG Systems                  !! no-job-data-found
+[ 35/36] Juniper Networks India        40 jobs  via workday:hpe   ** 1 MATCH **
+[ 36/36] Jaypee Group                 !! timed-out
+
+  boards read with jobs : 18
+  boards read, 0 open   : 2
+  could not read        : 16
+  companies w/ matches  : 2
+
+Wrote careers.txt + results.json

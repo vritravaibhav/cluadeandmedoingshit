@@ -20,11 +20,23 @@ positives intact (4/20).
 A full rescan of all 26 letters was launched after this fix; it self-commits
 and pushes when done. Check weekendplan/logs-rescan.log.
 
-## Unfinished research (agents were killed at quota)
-Company lists were authored from model knowledge, not live research, so some
-domains are wrong -> those show as unreachable in weekendplan/INDEX.txt.
-When quota resets, re-run live research per letter to (a) fix dead domains and
-(b) add companies, especially thin letters: q(27) j(36) u(38) o(43) z(50) r(60) v(66).
+## Research status (updated 2026-08-08)
+Cycle 2 done: 3,455 companies (was 2,907). 8 agents expanded thin letters, 3
+repaired 59 wrong domains. Thin letters now j:91 o:112 q:90 r:152 t:177 u:92
+v:157 z:101.
+WARNING: those agents added 90 `ats` tokens despite being told not to; they
+were stripped before scanning. ALWAYS re-check for invented ats tokens after
+any research cycle:
+  node -e "for(const L of 'abcdefghijklmnopqrstuvwxyz'.split('')){const c=require('/Users/longfloat/deletelater/jobs/'+L+'/companies.js');const n=c.filter(x=>x.ats).length;if(n)console.log(L,n)}"
+
+Next cycle should pick up:
+- 835 boards read but listing no openings, and 132 no-job-data-found. Some are
+  genuine, but the count is high enough that the extractors are likely missing
+  formats. Sample 10 by hand and check before assuming they are empty.
+- 121 blocked-or-error (bot walls) — would need a real browser (playwright is
+  already a dependency) rather than fetch.
+- Letters never expanded by live research: a-i, k-p, s, w, x, y were authored
+  from model knowledge only.
 
 ## Loop protocol requested by user
 1. Work until ~80% of quota consumed.

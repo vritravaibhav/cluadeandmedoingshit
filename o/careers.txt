@@ -2,13 +2,13 @@
 OPEN ROLES AT 112 "W" COMPANIES
 Looking for : Software Engineer, ~2 years experience
 Priority    : Java, Dart/Flutter        Location preference : India
-Generated   : 2026-08-08 16:23:07 UTC  by test.js
+Generated   : 2026-08-08 19:07:51 UTC  by test.js
 ==============================================================================
 
-Boards read with open roles : 53
+Boards read with open roles : 51
 Boards read, currently empty: 5
-Could not read              : 54
-Total open roles seen       : 826
+Could not read              : 56
+Total open roles seen       : 762
 
 ##############################################################################
 # SECTION 1 — MATCHES: Software Engineer + Java/Dart/Flutter + ~2 yrs
@@ -55,10 +55,10 @@ Total open roles seen       : 826
 
 ##############################################################################
 # SECTION 2 — INDIA: engineering, non-senior, ANY stack
-# 65 role(s). Java/Dart-Flutter still rank highest, but the brief allows
+# 64 role(s). Java/Dart-Flutter still rank highest, but the brief allows
 # any tech stack, so these are the India roles worth a look regardless.
 # 2a: states a window covering ~2 yrs, or states none (44)
-# 2b: states a different window — usually 3-5 yrs (21)
+# 2b: states a different window — usually 3-5 yrs (20)
 ##############################################################################
 
 -- 2a --------------------------------------------- fits ~2 years (44)
@@ -270,13 +270,8 @@ Total open roles seen       : 826
       exp req  : not stated    stack: —    score: 49
       url      : https://www.olx.in/jobs_c4
 
--- 2b ------------------------------------ states a wider window (21)
+-- 2b ------------------------------------ states a wider window (20)
 
->> OpenText India
-    Software Developer
-      location : Bangalore, Karnataka   [INDIA]
-      exp req  : 3-5y    stack: Java    score: 82
-      url      : https://careers.opentext.com/us/en/job/52858
 >> Objectways
     Java Backend / Microservices Engineer
       location : n/a   [INDIA]
@@ -379,10 +374,6 @@ Total open roles seen       : 826
 ##############################################################################
 
 >> OpenText India  [India]   via phenom:_self
-    Software Developer
-      location : Bangalore, Karnataka   [INDIA]
-      exp req  : 3-5y    stack: Java    score: 82
-      url      : https://careers.opentext.com/us/en/job/52858
     Premium Support Engineer- Fortify
       location : Bangalore, Karnataka   [INDIA]
       exp req  : not stated    stack: Java    score: 74
@@ -456,19 +447,12 @@ Total open roles seen       : 826
       exp req  : 1-5y    stack: —    score: 75
       url      : https://www.observe.ai/position?gh_jid=5290390008
 
->> Olam India  [India]
-    board    : successfactors:careers.olamgroup.com   —  3 open roles
-    No jobs currently available - Check out our other opportunities.
-      location : n/a   [INDIA]
-      exp req  : not stated    stack: —    score: 19
-      url      : https://careers.olamgroup.com
-
 >> OpenText India  [India]
-    board    : phenom:_self   —  175 open roles
-    Software Developer
+    board    : phenom:_self   —  132 open roles
+    Premium Support Engineer- Fortify
       location : Bangalore, Karnataka   [INDIA]
-      exp req  : 3-5y    stack: Java    score: 82
-      url      : https://careers.opentext.com/us/en/job/52858
+      exp req  : not stated    stack: Java    score: 74
+      url      : https://careers.opentext.com/us/en/job/51960
 
 >> Optiver India  [India]
     board    : html:https://www.optiver.com/join-us/jobs/   —  12 open roles
@@ -561,7 +545,7 @@ Total open roles seen       : 826
       exp req  : 3-7y    stack: —    score: 57
       url      : https://www.omniful.ai/frontend-engineer
 
->> Onlinesales.ai  [India]
+>> Osmos (formerly Onlinesales.ai)  [India]
     board    : zohorecruit:osmos (0 open)   —  0 open roles
     (board reached successfully, but it has 0 open roles right now)
 
@@ -820,18 +804,11 @@ Total open roles seen       : 826
       url      : https://onebanc.ai/careers
 
 >> OLX India  [India]
-    board    : headings:https://www.olx.in/jobs_c4   —  6 open roles
+    board    : headings:https://www.olx.in/jobs_c4   —  5 open roles
     IT Engineer & Developer
       location : n/a   [INDIA]
       exp req  : not stated    stack: —    score: 49
       url      : https://www.olx.in/jobs_c4
-
->> Onsitego  [India]
-    board    : keka:onsitego   —  17 open roles
-    Customer Support Executive
-      location : Mumbai, MH   [INDIA]
-      exp req  : 1-5y    stack: —    score: 45
-      url      : https://onsitego.keka.com/careers/jobdetails/149623
 
 >> Ohmium  [India]
     board    : workday:ohmium   —  13 open roles
@@ -841,7 +818,7 @@ Total open roles seen       : 826
       url      : https://ohmium.wd12.myworkdayjobs.com/Ohmium_Careers/job/Bengaluru-India/Junior-Engineer--Quality_R-101100-1
 
 ##############################################################################
-# SECTION 5 — NOT READ  (54 of 112)
+# SECTION 5 — NOT READ  (56 of 112)
 # lists-no-openings  = careers page loaded fine, published no vacancies
 # blocked-or-error    = bot wall / dead route (403, 404) — needs a browser
 # unreachable         = domain did not respond at all
@@ -893,6 +870,11 @@ Total open roles seen       : 826
     http status  : 0, 200, 200, 200, 200, 200, 200, 200, 404
     ATS tried    : greenhouse:oxyzo -> no board ; lever:oxyzo -> no board ; ashby:oxyzo -> no board ; recruitee:oxyzo -> no board
 
+>> Olam India  [India]  — careers-page-read-but-lists-no-openings
+    careers page : undefined
+    http status  : 0, 200, 404, 404, 404, 404, 200, 404, 404, 404, 200
+    ATS tried    : greenhouse:olam -> no board ; lever:olam -> no board ; ashby:olam -> no board ; recruitee:olam -> no board
+
 >> OneCard  [India]  — careers-page-read-but-lists-no-openings
     careers page : undefined
     http status  : 0, 403, 403, 403, 403, 403, 403, 403, 403, 403, 200, 0, 403, 403, 403, 403, 403, 403, 403, 403, 403, 200, 200
@@ -920,7 +902,7 @@ Total open roles seen       : 826
 
 >> Oizom  [India]  — careers-page-read-but-lists-no-openings
     careers page : undefined
-    http status  : 0, 200, 200, 200, 200, 200
+    http status  : 0, 200, 200, 200, 200
     ATS tried    : greenhouse:oizom -> no board ; lever:oizom -> no board ; ashby:oizom -> no board ; recruitee:oizom -> no board
 
 >> Onclusive India  [India]  — careers-page-read-but-lists-no-openings
@@ -935,7 +917,7 @@ Total open roles seen       : 826
 
 >> Orbis Financial  [India]  — careers-page-read-but-lists-no-openings
     careers page : https://orbisfinancial.in/career/
-    http status  : 200, 0, 404, 200, 404, 404, 404, 404, 404
+    http status  : 200, 0, 404, 200, 404, 404, 404, 404, 404, 404, 404
     ATS tried    : greenhouse:orbisfinancial -> no board ; lever:orbisfinancial -> no board ; ashby:orbisfinancial -> no board ; recruitee:orbisfinancial -> no board
 
 >> Origa Leasing  [India]  — careers-page-read-but-lists-no-openings
@@ -1020,7 +1002,7 @@ Total open roles seen       : 826
 
 >> Orange Health Labs  [India]  — careers-page-read-but-lists-no-openings
     careers page : https://www.orangehealth.in/careers
-    http status  : 200, 0, 200, 200, 200, 200, 200
+    http status  : 200, 0, 200, 200, 200, 200
     ATS tried    : darwinbox:orangehealth -> no board ; greenhouse:orange -> no board ; lever:orange -> no board ; ashby:orange -> no board
 
 >> Onco.com  [India]  — careers-page-read-but-lists-no-openings
@@ -1032,6 +1014,11 @@ Total open roles seen       : 826
     careers page : https://www.ondc.org/careers/
     http status  : 200, 0, 200, 200, 404
     ATS tried    : greenhouse:ondc -> no board ; lever:ondc -> no board ; ashby:ondc -> no board ; recruitee:ondc -> no board
+
+>> Onsitego  [India]  — careers-page-read-but-lists-no-openings
+    careers page : https://onsitego.com/careers
+    http status  : 0, 0, 200, 200, 200, 200, 200, 404, 200
+    ATS tried    : greenhouse:onsitego -> no board ; lever:onsitego -> no board ; ashby:onsitego -> no board ; recruitee:onsitego -> no board
 
 >> Oxane Partners  [India]  — careers-page-read-but-lists-no-openings
     careers page : https://www.oxanepartners.com/careers
@@ -1045,7 +1032,7 @@ Total open roles seen       : 826
 
 >> OYO  [India]  — no-job-data-found
     careers page : undefined
-    http status  : 0, 200, 404, 404, 404, 404
+    http status  : 0, 200, 404, 404, 404
     ATS tried    : greenhouse:oyorooms -> no board ; lever:oyorooms -> no board ; ashby:oyorooms -> no board ; recruitee:oyorooms -> no board
 
 >> Olive Crypto  [India]  — no-job-data-found
@@ -1075,7 +1062,7 @@ Total open roles seen       : 826
 
 >> Ola Krutrim  [India]  — no-job-data-found
     careers page : undefined
-    http status  : 0, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
+    http status  : 0, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 0, 404
     ATS tried    : greenhouse:olakrutrim -> no board ; lever:olakrutrim -> no board ; ashby:olakrutrim -> no board ; recruitee:olakrutrim -> no board
 
 >> OkCredit  [India]  — no-job-data-found

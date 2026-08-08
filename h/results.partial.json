@@ -1,0 +1,66 @@
+[
+  {
+    "company": "Hexaware Technologies",
+    "country": "India",
+    "careers": "https://hexaware.com/careers/",
+    "source": null,
+    "error": "careers-page-read-but-lists-no-openings",
+    "totalJobs": 0,
+    "jobs": [],
+    "enriched": 0,
+    "matches": [],
+    "nearMatches": [],
+    "closest": null,
+    "closestEng": null,
+    "trace": {
+      "pages": [
+        {
+          "url": "https://hexaware.com/careers/",
+          "status": 200,
+          "bytes": 4680
+        },
+        {
+          "url": "https://careers.hexaware.com",
+          "status": 0,
+          "bytes": 0,
+          "error": "fetch failed"
+        },
+        {
+          "url": "https://hexaware.com/careers",
+          "status": 200,
+          "bytes": 4680
+        },
+        {
+          "url": "https://hexaware.com/career",
+          "status": 200,
+          "bytes": 134702
+        },
+        {
+          "url": "https://hexaware.com/jobs",
+          "status": 200,
+          "bytes": 4680
+        },
+        {
+          "url": "https://hexaware.com/join-us",
+          "status": 200,
+          "bytes": 133651
+        }
+      ],
+      "candidates": [
+        "greenhouse:hexaware(guess)",
+        "lever:hexaware(guess)",
+        "ashby:hexaware(guess)",
+        "recruitee:hexaware(guess)",
+        "workable:hexaware(guess)"
+      ],
+      "attempts": [
+        "greenhouse:hexaware -> no board",
+        "lever:hexaware -> no board",
+        "ashby:hexaware -> no board",
+        "recruitee:hexaware -> no board",
+        "workable:hexaware -> no board"
+      ]
+    },
+    "ms": 18488
+  }
+]

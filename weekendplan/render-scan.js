@@ -198,6 +198,51 @@ async function renderOne(ctx, company) {
 
   let jobs = dedupe(fromXhr);
 
+  /*
+   * Second hop: the careers page is very often just marketing, and the real
+   * board is one link away on a vendor domain — Delhivery -> darwinbox,
+   * Flipkart -> turbohire, Hexaware -> an Oracle Cloud board that literally
+   * advertises "All Jobs (293)". Those links usually do not exist in the raw
+   * HTML at all (the page is a SPA), which is why the fetch-based scanner
+   * cannot see them and only this rendered pass can.
+   *
+   * ENGINE.ownAtsBoard applies the asymmetric rule — the company's own slug
+   * must appear in the ATS URL — so a shared vendor host cannot hand us a
+   * stranger's postings.
+   */
+  if (!jobs.length) {
+    const atsLink = await page
+      .evaluate(() => [...document.querySelectorAll('a[href]')].map((a) => a.href).filter(Boolean).slice(0, 400))
+      .catch(() => []);
+    // slugs() wants a bare domain, not the full careers URL.
+    let site = '';
+    try { site = new URL(base).hostname.replace(/^www\./, ''); } catch { /* leave blank */ }
+    const sameDomainBoard = (u) => {
+      // jobs.hexaware.com / careers.<company>.com — the board on the company's
+      // OWN subdomain. Safe by construction: it is their domain, so no slug
+      // check is needed, and it is the other half of the landing-page pattern.
+      try {
+        const h = new URL(u).hostname.toLowerCase();
+        return site && h !== site && h !== `www.${site}` && h.endsWith(`.${site}`) &&
+          /^(jobs|careers|career|apply|hiring|recruit)\./.test(h);
+      } catch { return false; }
+    };
+    const target =
+      atsLink.find((u) => {
+        try { return ENGINE.ownAtsBoard(u, { name: company.company, site }); } catch { return false; }
+      }) || atsLink.find(sameDomainBoard);
+    if (target) {
+      try {
+        await page.goto(target, { waitUntil: 'domcontentloaded', timeout: PAGE_MS });
+        await page.waitForTimeout(3000);
+        await page.waitForLoadState('networkidle', { timeout: 8000 }).catch(() => {});
+        await page.evaluate(() => window.scrollBy(0, 2000)).catch(() => {});
+        await page.waitForTimeout(1200);
+      } catch { /* keep whatever the hop captured */ }
+      jobs = dedupe(fromXhr);
+    }
+  }
+
   if (!jobs.length) {
     // Fallback: read the rendered DOM.
     const dom = await page

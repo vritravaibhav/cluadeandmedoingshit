@@ -2,13 +2,13 @@
 OPEN ROLES AT 177 "W" COMPANIES
 Looking for : Software Engineer, ~2 years experience
 Priority    : Java, Dart/Flutter        Location preference : India
-Generated   : 2026-08-08 16:32:50 UTC  by test.js
+Generated   : 2026-08-08 19:18:25 UTC  by test.js
 ==============================================================================
 
-Boards read with open roles : 95
+Boards read with open roles : 96
 Boards read, currently empty: 4
-Could not read              : 78
-Total open roles seen       : 1996
+Could not read              : 77
+Total open roles seen       : 2159
 
 ##############################################################################
 # SECTION 1 — MATCHES: Software Engineer + Java/Dart/Flutter + ~2 yrs
@@ -65,13 +65,13 @@ Total open roles seen       : 1996
 
 ##############################################################################
 # SECTION 2 — INDIA: engineering, non-senior, ANY stack
-# 131 role(s). Java/Dart-Flutter still rank highest, but the brief allows
+# 132 role(s). Java/Dart-Flutter still rank highest, but the brief allows
 # any tech stack, so these are the India roles worth a look regardless.
-# 2a: states a window covering ~2 yrs, or states none (92)
+# 2a: states a window covering ~2 yrs, or states none (93)
 # 2b: states a different window — usually 3-5 yrs (39)
 ##############################################################################
 
--- 2a --------------------------------------------- fits ~2 years (92)
+-- 2a --------------------------------------------- fits ~2 years (93)
 
 >> Techugo
     React Native Developer Exp: 2 to 4 years
@@ -181,6 +181,11 @@ Total open roles seen       : 1996
       location : n/a   [INDIA]
       exp req  : 2-4y / 4-5y    stack: —    score: 75
       url      : https://techversantinfotech.com/jobs/web-developer/
+>> Toast India
+    Returnship Series: Meet Adam K., Software Engineer II
+      location : n/a   [INDIA]
+      exp req  : not stated    stack: Java    score: 74
+      url      : https://careers.toasttab.com/blogs/life-at-toast/returnship-series-meet-adam-k-software-engineer-ii
 >> Thinkitive
     Hire Dedicated Developer/Teams
       location : n/a   [INDIA]
@@ -688,6 +693,12 @@ Total open roles seen       : 1996
       exp req  : 10-14y    stack: Dart/Flutter + Android    score: 73
       url      : https://www.thoughtworks.com/careers/jobs/mobile-developer
 
+>> Toast India  [India]   via feed:https://careers.toasttab.com
+    Returnship Series: Meet Adam K., Software Engineer II
+      location : n/a   [INDIA]
+      exp req  : not stated    stack: Java    score: 74
+      url      : https://careers.toasttab.com/blogs/life-at-toast/returnship-series-meet-adam-k-software-engineer-ii
+
 >> Tekion  [India]   via ashby:tekion
     Software Development Test Engineer II
       location : Bangalore HQ   [INDIA]
@@ -832,6 +843,13 @@ Total open roles seen       : 1996
       location : n/a   [INDIA]
       exp req  : not stated    stack: —    score: 19
       url      : https://www.thoughtspot.com/careers
+
+>> Toast India  [India]
+    board    : feed:https://careers.toasttab.com   —  165 open roles
+    Returnship Series: Meet Adam K., Software Engineer II
+      location : n/a   [INDIA]
+      exp req  : not stated    stack: Java    score: 74
+      url      : https://careers.toasttab.com/blogs/life-at-toast/returnship-series-meet-adam-k-software-engineer-ii
 
 >> Tekion  [India]
     board    : ashby:tekion   —  71 open roles
@@ -1083,7 +1101,7 @@ Total open roles seen       : 1996
       url      : https://tyfone.com/careers/software-engineer-java-2026/
 
 >> Tata Consumer Products  [India]
-    board    : successfactors:careers.tataconsumer.com   —  34 open roles
+    board    : successfactors:careers.tataconsumer.com   —  33 open roles
     Operations Trainee
       location : IN   [INDIA]
       exp req  : 0-2y / 2-3y    stack: —    score: 57
@@ -1098,10 +1116,10 @@ Total open roles seen       : 1996
 
 >> Tata AIG General Insurance  [India]
     board    : successfactors:careers.tataaig.com   —  23 open roles
-    Channel Sales Manager - Agency Motor
-      location : Bangalore, Bangalore, IN   [INDIA]
-      exp req  : 1-2y / 2-3y    stack: —    score: 23
-      url      : https://careers.tataaig.com/job/Bangalore-Channel-Sales-Manager-Agency-Motor-Bang/1364616666/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS
+    Channel Sales Manager - Agency Health
+      location : Pune, Pune, IN   [INDIA]
+      exp req  : 1-2y / 3-4y / 2-3y / 4-5y    stack: —    score: 23
+      url      : https://careers.tataaig.com/job/Pune-Channel-Sales-Manager-Agency-Health-Pune/1365398966/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS
 
 >> Tata AIA Life Insurance  [India]
     board    : headings:https://www.tataaia.com/careers.html   —  2 open roles
@@ -1125,7 +1143,7 @@ Total open roles seen       : 1996
       url      : https://careers.tatapower.com
 
 >> Tata AutoComp Systems  [India]
-    board    : successfactors:careers.tataautocomp.com   —  13 open roles
+    board    : successfactors:careers.tataautocomp.com   —  12 open roles
     Engineer-2W Assembly
       location : Pune   [INDIA]
       exp req  : 4-6y / 3-6y    stack: —    score: 57
@@ -1459,7 +1477,7 @@ Total open roles seen       : 1996
     (board reached successfully, but it has 0 open roles right now)
 
 ##############################################################################
-# SECTION 5 — NOT READ  (78 of 177)
+# SECTION 5 — NOT READ  (77 of 177)
 # lists-no-openings  = careers page loaded fine, published no vacancies
 # blocked-or-error    = bot wall / dead route (403, 404) — needs a browser
 # unreachable         = domain did not respond at all
@@ -1506,11 +1524,6 @@ Total open roles seen       : 1996
     http status  : 200, 200, 404, 200, 404, 404, 404, 404, 404, 404, 200
     ATS tried    : greenhouse:texasinstruments -> no board ; lever:texasinstruments -> no board ; ashby:texasinstruments -> no board ; recruitee:texasinstruments -> no board
 
->> Toast India  [India]  — careers-page-read-but-lists-no-openings
-    careers page : undefined
-    http status  : 202, 403, 403, 403
-    ATS tried    : greenhouse:toast -> REJECTED (board is "Toast", not Toast India) ; lever:toast -> no board ; ashby:toast -> no board ; recruitee:toast -> no board
-
 >> Trendyol India  [India]  — careers-page-read-but-lists-no-openings
     careers page : undefined
     http status  : 403, 403, 403, 403, 403, 403, 200, 403, 403, 403, 403, 0, 403, 403, 403, 403, 403, 200, 403, 403, 403, 403
@@ -1526,10 +1539,9 @@ Total open roles seen       : 1996
     http status  : 0, 200, 200, 404
     ATS tried    : greenhouse:taskus -> no board ; lever:taskus -> no board ; ashby:taskus -> no board ; recruitee:taskus -> 0 jobs (guess, name-verified)
 
->> Teleperformance India  [India]  — careers-page-read-but-lists-no-openings
+>> TP (formerly Teleperformance)  [India]  — careers-page-read-but-lists-no-openings
     careers page : undefined
-    http status  : 0, 200, 404, 404, 404, 404, 404, 404
-    ATS tried    : greenhouse:teleperformance -> no board ; lever:teleperformance -> no board ; ashby:teleperformance -> no board ; recruitee:teleperformance -> REJECTED (board is "?", not Teleperformance India)
+    http status  : 0, 200, 404, 404
 
 >> Trukker  [India]  — careers-page-read-but-lists-no-openings
     careers page : undefined
@@ -1543,7 +1555,7 @@ Total open roles seen       : 1996
 
 >> Tally Solutions  [India]  — careers-page-read-but-lists-no-openings
     careers page : undefined
-    http status  : 0, 200, 404, 404, 404, 404, 404, 200, 200, 404, 200
+    http status  : 0, 200, 404, 404, 404, 404, 404, 200
     ATS tried    : greenhouse:tally -> no board ; lever:tally -> no board ; ashby:tally -> no board ; recruitee:tally -> no board
 
 >> Tanla Platforms  [India]  — careers-page-read-but-lists-no-openings
@@ -1571,9 +1583,14 @@ Total open roles seen       : 1996
     http status  : 200, 0, 200, 404, 404, 404, 404, 200, 404, 404, 404, 200
     ATS tried    : darwinbox:tdh -> no board ; greenhouse:thryve -> no board ; lever:thryve -> no board ; ashby:thryve -> no board
 
+>> Twixor  [India]  — careers-page-read-but-lists-no-openings
+    careers page : undefined
+    http status  : 0, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 0, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200
+    ATS tried    : greenhouse:twixor -> no board ; lever:twixor -> no board ; ashby:twixor -> no board ; recruitee:twixor -> no board
+
 >> Tata Motors  [India]  — careers-page-read-but-lists-no-openings
     careers page : undefined
-    http status  : 200, 403, 403, 403, 403, 403, 403, 403, 403, 403, 200, 0, 403, 403, 403, 403, 403, 403, 403, 200
+    http status  : 200, 200, 200, 403, 403, 403, 403, 200, 200, 403, 200
     ATS tried    : greenhouse:tatamotors -> no board ; lever:tatamotors -> no board ; ashby:tatamotors -> no board ; recruitee:tatamotors -> no board
 
 >> Tata Advanced Systems  [India]  — careers-page-read-but-lists-no-openings
@@ -1628,12 +1645,12 @@ Total open roles seen       : 1996
 
 >> Tektronix India  [India]  — careers-page-read-but-lists-no-openings
     careers page : undefined
-    http status  : 0, 200, 404, 404
+    http status  : 0, 200, 404, 404, 404
     ATS tried    : greenhouse:tektronix -> no board ; lever:tektronix -> no board ; ashby:tektronix -> no board ; recruitee:tektronix -> no board
 
 >> Thermo Fisher Scientific India  [India]  — careers-page-read-but-lists-no-openings
     careers page : undefined
-    http status  : 200, 200, 404, 200
+    http status  : 200, 200, 404
     ATS tried    : phenom:_self -> no board ; greenhouse:thermofisherscientific -> no board ; lever:thermofisherscientific -> no board ; ashby:thermofisherscientific -> no board
 
 >> Travelport India  [India]  — careers-page-read-but-lists-no-openings
@@ -1703,7 +1720,7 @@ Total open roles seen       : 1996
 
 >> Trane Technologies India  [India]  — careers-page-read-but-lists-no-openings
     careers page : undefined
-    http status  : 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 0, 200
+    http status  : 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 0, 200, 404
     ATS tried    : phenom:_self -> no board ; greenhouse:trane -> no board ; lever:trane -> no board ; ashby:trane -> no board
 
 >> Toyota Connected India  [India]  — careers-page-read-but-lists-no-openings
@@ -1771,10 +1788,10 @@ Total open roles seen       : 1996
     http status  : 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
     ATS tried    : greenhouse:tricentis -> no board ; lever:tricentis -> no board ; ashby:tricentis -> no board ; recruitee:tricentis -> no board
 
->> Techcurve  [India]  — no-job-data-found
+>> GRCTechX (formerly Techcurve)  [India]  — no-job-data-found
     careers page : undefined
     http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200, 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
-    ATS tried    : greenhouse:techcurve -> no board ; lever:techcurve -> no board ; ashby:techcurve -> no board ; recruitee:techcurve -> no board
+    ATS tried    : greenhouse:grctechx -> no board ; lever:grctechx -> no board ; ashby:grctechx -> no board ; recruitee:grctechx -> no board
 
 >> Techjockey  [India]  — no-job-data-found
     careers page : undefined
@@ -1818,7 +1835,7 @@ Total open roles seen       : 1996
 
 >> ToneTag  [India]  — no-job-data-found
     careers page : undefined
-    http status  : 0, 404, 200, 404, 404, 404, 404, 404, 404, 404, 200, 0, 404, 200
+    http status  : 0, 404, 200, 404, 404, 404, 404, 404, 404, 404, 200, 0, 404, 200, 404, 404, 404, 404, 404, 404, 404, 200
     ATS tried    : greenhouse:tonetag -> no board ; lever:tonetag -> no board ; ashby:tonetag -> no board ; recruitee:tonetag -> no board
 
 >> Traya Health  [India]  — no-job-data-found
@@ -1831,10 +1848,6 @@ Total open roles seen       : 1996
     http status  : 
 
 >> Trigent Software  [India]  — timed-out
-    careers page : undefined
-    http status  : 
-
->> Twixor  [India]  — timed-out
     careers page : undefined
     http status  : 
 

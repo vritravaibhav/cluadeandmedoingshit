@@ -2,7 +2,7 @@
 OPEN ROLES AT 1 "W" COMPANIES
 Looking for : Software Engineer, ~2 years experience
 Priority    : Java, Dart/Flutter        Location preference : India
-Generated   : 2026-08-08 15:34:25 UTC  by test.js
+Generated   : 2026-08-08 19:18:03 UTC  by test.js
 ==============================================================================
 
 Boards read with open roles : 0
@@ -53,7 +53,7 @@ Total open roles seen       : 0
 # timed-out           = board too slow to read inside the per-company cap
 ##############################################################################
 
->> Fujitsu  [Japan]  — careers-page-read-but-lists-no-openings
-    careers page : https://global.fujitsu/en-apac/careers/india
-    http status  : 200, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200
-    ATS tried    : greenhouse:fujitsu -> no board ; lever:fujitsu -> no board ; ashby:fujitsu -> no board ; recruitee:fujitsu -> no board
+>> Flipkart  [India]  — careers-page-read-but-lists-no-openings
+    careers page : https://www.flipkartcareers.com/
+    http status  : 200, 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 403
+    ATS tried    : greenhouse:flipkart -> no board ; lever:flipkart -> no board ; ashby:flipkart -> no board ; recruitee:flipkart -> no board

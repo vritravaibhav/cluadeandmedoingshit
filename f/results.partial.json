@@ -1,8 +1,8 @@
 [
   {
-    "company": "Fujitsu",
-    "country": "Japan",
-    "careers": "https://global.fujitsu/en-apac/careers/india",
+    "company": "Flipkart",
+    "country": "India",
+    "careers": "https://www.flipkartcareers.com/",
     "source": null,
     "error": "careers-page-read-but-lists-no-openings",
     "totalJobs": 0,
@@ -15,158 +15,82 @@
     "trace": {
       "pages": [
         {
-          "url": "https://global.fujitsu/en-apac/careers/india",
+          "url": "https://www.flipkartcareers.com/",
           "status": 200,
-          "bytes": 120083
+          "bytes": 32547
         },
         {
-          "url": "https://careers.fujitsu.com",
+          "url": "https://careers.flipkart.com",
           "status": 0,
           "bytes": 0,
           "error": "fetch failed"
         },
         {
-          "url": "https://fujitsu.com/careers",
-          "status": 0,
-          "bytes": 0,
-          "error": "fetch failed"
+          "url": "https://flipkart.com/careers",
+          "status": 404,
+          "bytes": 1780
         },
         {
-          "url": "https://fujitsu.com/career",
-          "status": 0,
-          "bytes": 0,
-          "error": "fetch failed"
+          "url": "https://flipkart.com/career",
+          "status": 404,
+          "bytes": 1780
         },
         {
-          "url": "https://fujitsu.com/jobs",
-          "status": 0,
-          "bytes": 0,
-          "error": "fetch failed"
+          "url": "https://flipkart.com/jobs",
+          "status": 404,
+          "bytes": 1780
         },
         {
-          "url": "https://fujitsu.com/join-us",
-          "status": 0,
-          "bytes": 0,
-          "error": "fetch failed"
+          "url": "https://flipkart.com/join-us",
+          "status": 404,
+          "bytes": 1780
         },
         {
-          "url": "https://fujitsu.com/join-our-team",
-          "status": 0,
-          "bytes": 0,
-          "error": "fetch failed"
+          "url": "https://flipkart.com/join-our-team",
+          "status": 404,
+          "bytes": 1780
         },
         {
-          "url": "https://fujitsu.com/careers.html",
-          "status": 0,
-          "bytes": 0,
-          "error": "fetch failed"
+          "url": "https://flipkart.com/careers.html",
+          "status": 404,
+          "bytes": 1780
         },
         {
-          "url": "https://fujitsu.com/company/careers",
-          "status": 0,
-          "bytes": 0,
-          "error": "fetch failed"
+          "url": "https://flipkart.com/company/careers",
+          "status": 404,
+          "bytes": 1780
         },
         {
-          "url": "https://fujitsu.com/about/careers",
-          "status": 0,
-          "bytes": 0,
-          "error": "fetch failed"
+          "url": "https://flipkart.com/about/careers",
+          "status": 404,
+          "bytes": 1780
         },
         {
-          "url": "https://fujitsu.com/current-openings",
-          "status": 0,
-          "bytes": 0,
-          "error": "fetch failed"
+          "url": "https://flipkart.com/current-openings",
+          "status": 404,
+          "bytes": 1780
         },
         {
-          "url": "https://fujitsu.com/",
-          "status": 0,
-          "bytes": 0,
-          "error": "fetch failed"
-        },
-        {
-          "url": "https://careers.www.fujitsu.com",
-          "status": 0,
-          "bytes": 0,
-          "error": "fetch failed"
-        },
-        {
-          "url": "https://www.fujitsu.com/careers",
-          "status": 200,
-          "bytes": 1142034
-        },
-        {
-          "url": "https://www.fujitsu.com/career",
-          "status": 200,
-          "bytes": 1142034
-        },
-        {
-          "url": "https://www.fujitsu.com/jobs",
-          "status": 200,
-          "bytes": 1142034
-        },
-        {
-          "url": "https://www.fujitsu.com/join-us",
-          "status": 200,
-          "bytes": 1142034
-        },
-        {
-          "url": "https://www.fujitsu.com/join-our-team",
-          "status": 200,
-          "bytes": 1142034
-        },
-        {
-          "url": "https://www.fujitsu.com/careers.html",
-          "status": 200,
-          "bytes": 1142034
-        },
-        {
-          "url": "https://www.fujitsu.com/company/careers",
-          "status": 200,
-          "bytes": 1142034
-        },
-        {
-          "url": "https://www.fujitsu.com/about/careers",
-          "status": 200,
-          "bytes": 1142034
-        },
-        {
-          "url": "https://www.fujitsu.com/current-openings",
-          "status": 200,
-          "bytes": 1142034
-        },
-        {
-          "url": "https://www.fujitsu.com/",
-          "status": 200,
-          "bytes": 1142034
-        },
-        {
-          "url": "https://global.fujitsu/en-apac/careers",
-          "status": 200,
-          "bytes": 98224
-        },
-        {
-          "url": "https://global.fujitsu/en-global/careers",
-          "status": 200,
-          "bytes": 152513
+          "url": "https://flipkart.com/",
+          "status": 403,
+          "bytes": 787
         }
       ],
       "candidates": [
-        "greenhouse:fujitsu(guess)",
-        "lever:fujitsu(guess)",
-        "ashby:fujitsu(guess)",
-        "recruitee:fujitsu(guess)",
-        "workable:fujitsu(guess)"
+        "greenhouse:flipkart(guess)",
+        "lever:flipkart(guess)",
+        "ashby:flipkart(guess)",
+        "recruitee:flipkart(guess)",
+        "workable:flipkart(guess)"
       ],
       "attempts": [
-        "greenhouse:fujitsu -> no board",
-        "lever:fujitsu -> no board",
-        "ashby:fujitsu -> no board",
-        "recruitee:fujitsu -> no board",
-        "workable:fujitsu -> 0 jobs (guess, name-verified)"
+        "greenhouse:flipkart -> no board",
+        "lever:flipkart -> no board",
+        "ashby:flipkart -> no board",
+        "recruitee:flipkart -> no board",
+        "workable:flipkart -> no board"
       ]
     },
-    "ms": 77720
+    "ms": 8289
   }
 ]

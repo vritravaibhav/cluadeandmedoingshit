@@ -2,13 +2,13 @@
 OPEN ROLES AT 157 "W" COMPANIES
 Looking for : Software Engineer, ~2 years experience
 Priority    : Java, Dart/Flutter        Location preference : India
-Generated   : 2026-08-08 16:36:07 UTC  by test.js
+Generated   : 2026-08-08 19:19:53 UTC  by test.js
 ==============================================================================
 
-Boards read with open roles : 78
+Boards read with open roles : 77
 Boards read, currently empty: 3
-Could not read              : 76
-Total open roles seen       : 1509
+Could not read              : 77
+Total open roles seen       : 1460
 
 ##############################################################################
 # SECTION 1 — MATCHES: Software Engineer + Java/Dart/Flutter + ~2 yrs
@@ -23,13 +23,13 @@ Total open roles seen       : 1509
 
 ##############################################################################
 # SECTION 2 — INDIA: engineering, non-senior, ANY stack
-# 122 role(s). Java/Dart-Flutter still rank highest, but the brief allows
+# 121 role(s). Java/Dart-Flutter still rank highest, but the brief allows
 # any tech stack, so these are the India roles worth a look regardless.
-# 2a: states a window covering ~2 yrs, or states none (95)
+# 2a: states a window covering ~2 yrs, or states none (94)
 # 2b: states a different window — usually 3-5 yrs (27)
 ##############################################################################
 
--- 2a --------------------------------------------- fits ~2 years (95)
+-- 2a --------------------------------------------- fits ~2 years (94)
 
 >> Vidyatech Solutions
     Junior Developer
@@ -368,11 +368,6 @@ Total open roles seen       : 1509
       location : n/a   [INDIA]
       exp req  : not stated    stack: —    score: 49
       url      : https://www.vindaloosofttech.com/careers/
->> Virtual Height IT Services
-    MERN Stack Developer
-      location : n/a   [INDIA]
-      exp req  : not stated    stack: —    score: 49
-      url      : https://www.virtualheight.com/career.php
 >> Volante Technologies
     Specialist, AI Engineer
       location : Pune   [INDIA]
@@ -662,12 +657,12 @@ Total open roles seen       : 1509
       exp req  : 5-8y / 8-9y    stack: —    score: 8
       url      : https://www.vanguardjobs.com/job/23341904/senior-ai-ml-engineer-philadelphia-pa/
 
->> Varian India  [India]
-    board    : workday:onehealthineers   —  40 open roles
-    Medical Imaging Field Engineer - Dallas / Fort Worth, TX
-      location : DAL A
-      exp req  : 2-6y    stack: —    score: 60
-      url      : https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/DAL-A/Medical-Imaging-Field-Engineer---Dallas---Fort-Worth--TX_R-29420-1
+>> Siemens Healthineers (Varian)  [India]
+    board    : headings:https://www.siemens-healthineers.com/careers   —  2 open roles
+    Adam, Research Scientist
+      location : n/a   [INDIA]
+      exp req  : not stated    stack: —    score: 19
+      url      : https://www.siemens-healthineers.com/careers
 
 >> Veeva India  [India]
     board    : headings:https://www.veeva.com/join-us   —  2 open roles
@@ -950,13 +945,6 @@ Total open roles seen       : 1509
       exp req  : not stated    stack: —    score: 49
       url      : https://www.vindaloosofttech.com/careers/
 
->> Virtual Height IT Services  [India]
-    board    : headings:https://www.virtualheight.com/career.php   —  11 open roles
-    MERN Stack Developer
-      location : n/a   [INDIA]
-      exp req  : not stated    stack: —    score: 49
-      url      : https://www.virtualheight.com/career.php
-
 >> VertexPlus Technologies  [India]
     board    : headings:https://www.vertexplus.com/career   —  2 open roles
     QA Strategies
@@ -1200,7 +1188,7 @@ Total open roles seen       : 1509
       url      : https://www.visionet.com/job/software-engineer-16
 
 ##############################################################################
-# SECTION 5 — NOT READ  (76 of 157)
+# SECTION 5 — NOT READ  (77 of 157)
 # lists-no-openings  = careers page loaded fine, published no vacancies
 # blocked-or-error    = bot wall / dead route (403, 404) — needs a browser
 # unreachable         = domain did not respond at all
@@ -1231,6 +1219,11 @@ Total open roles seen       : 1509
     careers page : undefined
     http status  : 0, 404, 404, 404, 404, 404
     ATS tried    : greenhouse:vsourz -> no board ; lever:vsourz -> no board ; ashby:vsourz -> no board ; recruitee:vsourz -> no board
+
+>> VideoVerse  [India]  — blocked-or-error-response
+    careers page : undefined
+    http status  : 0, 404, 404, 404, 404, 404
+    ATS tried    : greenhouse:videoverse -> no board ; lever:videoverse -> no board ; ashby:videoverse -> no board ; recruitee:videoverse -> no board
 
 >> Vaibhav Global  [India]  — blocked-or-error-response
     careers page : undefined
@@ -1317,10 +1310,10 @@ Total open roles seen       : 1509
     http status  : 200, 200, 404, 404, 404, 404, 200, 404, 404, 404, 200
     ATS tried    : greenhouse:vistex -> no board ; lever:vistex -> no board ; ashby:vistex -> no board ; recruitee:vistex -> no board
 
->> Vitech India  [India]  — careers-page-read-but-lists-no-openings
+>> Majesco (Vitech)  [India]  — careers-page-read-but-lists-no-openings
     careers page : undefined
-    http status  : 200, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200, 0, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200
-    ATS tried    : greenhouse:vitech -> no board ; lever:vitech -> no board ; ashby:vitech -> no board ; recruitee:vitech -> no board
+    http status  : 0, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 0, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200
+    ATS tried    : greenhouse:majesco -> no board ; lever:majesco -> no board ; ashby:majesco -> no board ; recruitee:majesco -> no board
 
 >> Vodex  [India]  — careers-page-read-but-lists-no-openings
     careers page : undefined
@@ -1429,7 +1422,7 @@ Total open roles seen       : 1509
 
 >> Verisk India  [India]  — careers-page-read-but-lists-no-openings
     careers page : https://www.verisk.com/company/careers/
-    http status  : 200, 0, 200, 404, 404, 404, 404, 404, 200, 404, 404, 200
+    http status  : 200, 0, 200, 404
     ATS tried    : greenhouse:verisk -> no board ; lever:verisk -> no board ; ashby:verisk -> no board ; recruitee:verisk -> no board
 
 >> Verint India  [India]  — careers-page-read-but-lists-no-openings
@@ -1444,7 +1437,7 @@ Total open roles seen       : 1509
 
 >> Volvo Cars India  [India]  — careers-page-read-but-lists-no-openings
     careers page : undefined
-    http status  : 0, 200, 404, 404, 404
+    http status  : 0, 200, 404, 404
     ATS tried    : greenhouse:volvocars -> no board ; lever:volvocars -> no board ; ashby:volvocars -> no board ; recruitee:volvocars -> no board
 
 >> Vivo India  [India]  — careers-page-read-but-lists-no-openings
@@ -1506,6 +1499,11 @@ Total open roles seen       : 1509
     careers page : undefined
     http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200, 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200, 200
     ATS tried    : greenhouse:vidhema -> no board ; lever:vidhema -> no board ; ashby:vidhema -> no board ; recruitee:vidhema -> no board
+
+>> Virtual Height IT Services  [India]  — no-job-data-found
+    careers page : undefined
+    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200, 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200, 409, 409, skipped-off-domain
+    ATS tried    : greenhouse:virtualheightit -> no board ; lever:virtualheightit -> no board ; ashby:virtualheightit -> no board ; recruitee:virtualheightit -> no board
 
 >> vPhrase Analytics  [India]  — no-job-data-found
     careers page : undefined
@@ -1573,9 +1571,5 @@ Total open roles seen       : 1509
     http status  : 
 
 >> V2Solutions  [India]  — timed-out
-    careers page : undefined
-    http status  : 
-
->> VideoVerse  [India]  — timed-out
     careers page : undefined
     http status  : 

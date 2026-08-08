@@ -2,13 +2,13 @@
 OPEN ROLES AT 91 "W" COMPANIES
 Looking for : Software Engineer, ~2 years experience
 Priority    : Java, Dart/Flutter        Location preference : India
-Generated   : 2026-08-08 16:07:15 UTC  by test.js
+Generated   : 2026-08-08 19:02:28 UTC  by test.js
 ==============================================================================
 
-Boards read with open roles : 42
+Boards read with open roles : 43
 Boards read, currently empty: 3
-Could not read              : 46
-Total open roles seen       : 1160
+Could not read              : 45
+Total open roles seen       : 1171
 
 ##############################################################################
 # SECTION 1 — MATCHES: Software Engineer + Java/Dart/Flutter + ~2 yrs
@@ -493,6 +493,13 @@ Total open roles seen       : 1160
     board    : zohorecruit:jeavio (0 open)   —  0 open roles
     (board reached successfully, but it has 0 open roles right now)
 
+>> JK Tech  [India]
+    board    : feed:https://jktech.com   —  10 open roles
+    These Prototype Glasses Could Let Humans See Infrared Light in Full Color
+      location : n/a   [INDIA]
+      exp req  : not stated    stack: —    score: 19
+      url      : https://jktech.com/blogs/these-prototype-glasses-could-let-humans-see-infrared-light-in-full-color/
+
 >> Jodo  [India]
     board    : keka:jodo   —  6 open roles
     Intern - Credit Analyst
@@ -519,10 +526,10 @@ Total open roles seen       : 1160
     (board reached successfully, but it has 0 open roles right now)
 
 >> JioSaavn  [India]
-    board    : headings:https://www.jiosaavn.com/corporate/careers   —  3 open roles
-    Associate Vice President, Strategy & Operations
+    board    : headings:https://www.jiosaavn.com/corporate/careers   —  4 open roles
+    Chief Operating Officer
       location : n/a   [INDIA]
-      exp req  : not stated    stack: —    score: 31
+      exp req  : not stated    stack: —    score: -3
       url      : https://www.jiosaavn.com/corporate/careers
 
 >> JioStar  [India]
@@ -662,7 +669,7 @@ Total open roles seen       : 1160
       exp req  : not stated    stack: —    score: 34
       url      : https://www.jumio.com/careers/
 
->> Jivox India  [United States]
+>> DaVinci Commerce (Jivox)  [United States]
     board    : html:https://davincicommerce.ai/careers   —  2 open roles
     ASSOCIATE ANALYST INTERN
       location : n/a
@@ -693,9 +700,9 @@ Total open roles seen       : 1160
 >> JLL India  [United States]
     board    : workday:jll   —  40 open roles
     Automation Engineer
-      location : Jacksonville, FL
+      location : Bondurant, IA
       exp req  : 2-6y    stack: —    score: 60
-      url      : https://jll.wd1.myworkdayjobs.com/jllcareers/job/Jacksonville-FL/Automation-Engineer_REQ504393
+      url      : https://jll.wd1.myworkdayjobs.com/jllcareers/job/Bondurant-IA/Automation-Engineer_REQ496872
 
 >> Jitterbit India  [United States]
     board    : feed:https://www.jitterbit.com   —  10 open roles
@@ -726,7 +733,7 @@ Total open roles seen       : 1160
       url      : https://jobs.jcp.com/careers-home/jobs/1126704?lang=en-us
 
 ##############################################################################
-# SECTION 5 — NOT READ  (46 of 91)
+# SECTION 5 — NOT READ  (45 of 91)
 # lists-no-openings  = careers page loaded fine, published no vacancies
 # blocked-or-error    = bot wall / dead route (403, 404) — needs a browser
 # unreachable         = domain did not respond at all
@@ -755,7 +762,7 @@ Total open roles seen       : 1160
 
 >> Justdial  [India]  — careers-page-read-but-lists-no-openings
     careers page : undefined
-    http status  : 0, 200, 200, 200
+    http status  : 0, 200, 200, 200, 200
     ATS tried    : greenhouse:justdial -> no board ; lever:justdial -> no board ; ashby:justdial -> no board ; recruitee:justdial -> no board
 
 >> JSW Group  [India]  — careers-page-read-but-lists-no-openings
@@ -767,10 +774,9 @@ Total open roles seen       : 1160
     http status  : 0, 200, 200, 200, 200, 200
     ATS tried    : greenhouse:jindalsteel -> no board ; lever:jindalsteel -> no board ; ashby:jindalsteel -> no board ; recruitee:jindalsteel -> no board
 
->> Jaguar Land Rover India  [United Kingdom]  — careers-page-read-but-lists-no-openings
+>> JLR (Jaguar Land Rover)  [United Kingdom]  — careers-page-read-but-lists-no-openings
     careers page : undefined
     http status  : 200, 404, 404, 404, 404, 404, 404, 404, 404, 404
-    ATS tried    : greenhouse:jaguarlandrover -> no board ; lever:jaguarlandrover -> no board ; ashby:jaguarlandrover -> no board ; recruitee:jaguarlandrover -> no board
 
 >> Jamboree Education  [India]  — careers-page-read-but-lists-no-openings
     careers page : undefined
@@ -886,11 +892,6 @@ Total open roles seen       : 1160
     http status  : 200, 503, 404
     ATS tried    : greenhouse:jktyre -> no board ; lever:jktyre -> no board ; ashby:jktyre -> no board ; recruitee:jktyre -> no board
 
->> JK Tech  [India]  — careers-page-unreachable
-    careers page : undefined
-    http status  : 0, 429, 429, 429, 429, 429, 429, 429, 429, 429, 429, 0, 429, 429, 429, 429, 429, 429, 429, 429, 429, 429
-    ATS tried    : greenhouse:jktech -> no board ; lever:jktech -> no board ; ashby:jktech -> no board ; recruitee:jktech -> no board
-
 >> Jain Software  [India]  — careers-page-unreachable
     careers page : https://www.jainsoftware.com/careers
     http status  : 200, 0, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 0, 200, 200, 200, 200, 200, 200, 200, 200, 200
@@ -923,7 +924,7 @@ Total open roles seen       : 1160
 
 >> Jai Kisan  [India]  — no-job-data-found
     careers page : undefined
-    http status  : 0, 0, 404, 404, 404, 404, 404, 404, 404, 404, 200, 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200, 200, 404, 200
+    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200, 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200, 200, 404, 200
     ATS tried    : greenhouse:jaikisan -> no board ; lever:jaikisan -> no board ; ashby:jaikisan -> no board ; recruitee:jaikisan -> no board
 
 >> Jiraaf  [India]  — no-job-data-found

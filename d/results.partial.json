@@ -1,9 +1,10 @@
 [
   {
-    "company": "Dream11",
+    "company": "Delhivery",
     "country": "India",
+    "careers": "https://www.delhivery.com/careers",
     "source": null,
-    "error": "no-job-data-found",
+    "error": "careers-page-read-but-lists-no-openings",
     "totalJobs": 0,
     "jobs": [],
     "enriched": 0,
@@ -14,143 +15,133 @@
     "trace": {
       "pages": [
         {
-          "url": "https://careers.dream11.com",
-          "status": 0,
-          "bytes": 0,
-          "error": "fetch failed"
-        },
-        {
-          "url": "https://dream11.com/careers",
-          "status": 0,
-          "bytes": 0,
-          "error": "fetch failed"
-        },
-        {
-          "url": "https://dream11.com/career",
-          "status": 0,
-          "bytes": 0,
-          "error": "fetch failed"
-        },
-        {
-          "url": "https://dream11.com/jobs",
-          "status": 0,
-          "bytes": 0,
-          "error": "fetch failed"
-        },
-        {
-          "url": "https://dream11.com/join-us",
-          "status": 0,
-          "bytes": 0,
-          "error": "fetch failed"
-        },
-        {
-          "url": "https://dream11.com/join-our-team",
-          "status": 0,
-          "bytes": 0,
-          "error": "fetch failed"
-        },
-        {
-          "url": "https://dream11.com/careers.html",
-          "status": 0,
-          "bytes": 0,
-          "error": "fetch failed"
-        },
-        {
-          "url": "https://dream11.com/company/careers",
-          "status": 0,
-          "bytes": 0,
-          "error": "fetch failed"
-        },
-        {
-          "url": "https://dream11.com/about/careers",
-          "status": 0,
-          "bytes": 0,
-          "error": "fetch failed"
-        },
-        {
-          "url": "https://dream11.com/current-openings",
-          "status": 0,
-          "bytes": 0,
-          "error": "fetch failed"
-        },
-        {
-          "url": "https://dream11.com/",
-          "status": 0,
-          "bytes": 0,
-          "error": "fetch failed"
-        },
-        {
-          "url": "https://careers.www.dream11.com",
-          "status": 0,
-          "bytes": 0,
-          "error": "fetch failed"
-        },
-        {
-          "url": "https://www.dream11.com/careers",
+          "url": "https://www.delhivery.com/careers",
           "status": 200,
-          "bytes": 83734
+          "bytes": 6946
         },
         {
-          "url": "https://www.dream11.com/career",
-          "status": 200,
-          "bytes": 83734
+          "url": "https://careers.delhivery.com",
+          "status": 0,
+          "bytes": 0,
+          "error": "fetch failed"
         },
         {
-          "url": "https://www.dream11.com/jobs",
+          "url": "https://delhivery.com/careers",
           "status": 200,
-          "bytes": 83734
+          "bytes": 6946
         },
         {
-          "url": "https://www.dream11.com/join-us",
+          "url": "https://delhivery.com/career",
           "status": 200,
-          "bytes": 83734
+          "bytes": 6968
         },
         {
-          "url": "https://www.dream11.com/join-our-team",
+          "url": "https://delhivery.com/jobs",
           "status": 200,
-          "bytes": 83734
+          "bytes": 6968
         },
         {
-          "url": "https://www.dream11.com/careers.html",
+          "url": "https://delhivery.com/join-us",
           "status": 200,
-          "bytes": 83734
+          "bytes": 6968
         },
         {
-          "url": "https://www.dream11.com/company/careers",
+          "url": "https://delhivery.com/join-our-team",
           "status": 200,
-          "bytes": 83734
+          "bytes": 6968
         },
         {
-          "url": "https://www.dream11.com/about/careers",
+          "url": "https://delhivery.com/careers.html",
           "status": 200,
-          "bytes": 83734
+          "bytes": 6968
         },
         {
-          "url": "https://www.dream11.com/current-openings",
+          "url": "https://delhivery.com/company/careers",
           "status": 200,
-          "bytes": 83734
+          "bytes": 6968
         },
         {
-          "url": "https://www.dream11.com/",
+          "url": "https://delhivery.com/about/careers",
           "status": 200,
-          "bytes": 83734
+          "bytes": 6968
+        },
+        {
+          "url": "https://delhivery.com/current-openings",
+          "status": 200,
+          "bytes": 6968
+        },
+        {
+          "url": "https://delhivery.com/",
+          "status": 200,
+          "bytes": 6968
+        },
+        {
+          "url": "https://careers.www.delhivery.com",
+          "status": 0,
+          "bytes": 0,
+          "error": "fetch failed"
+        },
+        {
+          "url": "https://www.delhivery.com/career",
+          "status": 200,
+          "bytes": 6968
+        },
+        {
+          "url": "https://www.delhivery.com/jobs",
+          "status": 200,
+          "bytes": 6968
+        },
+        {
+          "url": "https://www.delhivery.com/join-us",
+          "status": 200,
+          "bytes": 6968
+        },
+        {
+          "url": "https://www.delhivery.com/join-our-team",
+          "status": 200,
+          "bytes": 6968
+        },
+        {
+          "url": "https://www.delhivery.com/careers.html",
+          "status": 200,
+          "bytes": 6968
+        },
+        {
+          "url": "https://www.delhivery.com/company/careers",
+          "status": 200,
+          "bytes": 6968
+        },
+        {
+          "url": "https://www.delhivery.com/about/careers",
+          "status": 200,
+          "bytes": 6968
+        },
+        {
+          "url": "https://www.delhivery.com/current-openings",
+          "status": 200,
+          "bytes": 6968
+        },
+        {
+          "url": "https://www.delhivery.com/",
+          "status": 200,
+          "bytes": 6968
         }
       ],
       "candidates": [
-        "greenhouse:dream11(guess)",
-        "lever:dream11(guess)",
-        "ashby:dream11(guess)",
-        "recruitee:dream11(guess)",
-        "workable:dream11(guess)"
+        "greenhouse:delhivery(guess)",
+        "lever:delhivery(guess)",
+        "ashby:delhivery(guess)",
+        "recruitee:delhivery(guess)",
+        "workable:delhivery(guess)"
       ],
       "attempts": [
-        "greenhouse:dream11 -> no board",
-        "lever:dream11 -> no board",
-        "ashby:dream11 -> no board",
-        "recruitee:dream11 -> no board",
-        "workable:dream11 -> 0 jobs (guess, name-verified)"
+        "greenhouse:delhivery -> no board",
+        "lever:delhivery -> no board",
+        "ashby:delhivery -> no board",
+        "recruitee:delhivery -> no board",
+        "workable:delhivery -> no board"
       ]
     },
-    "ms": 6659
+    "ms": 5651
   }
 ]

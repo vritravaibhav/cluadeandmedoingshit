@@ -2,13 +2,13 @@
 OPEN ROLES AT 92 "W" COMPANIES
 Looking for : Software Engineer, ~2 years experience
 Priority    : Java, Dart/Flutter        Location preference : India
-Generated   : 2026-08-08 16:29:59 UTC  by test.js
+Generated   : 2026-08-08 19:17:01 UTC  by test.js
 ==============================================================================
 
 Boards read with open roles : 35
 Boards read, currently empty: 1
 Could not read              : 56
-Total open roles seen       : 620
+Total open roles seen       : 625
 
 ##############################################################################
 # SECTION 1 — MATCHES: Software Engineer + Java/Dart/Flutter + ~2 yrs
@@ -201,17 +201,17 @@ Total open roles seen       : 620
 ##############################################################################
 
 >> UnitedHealth Group India  [India]
-    board    : headings:https://careers.unitedhealthgroup.com/search-jobs   —  15 open roles
+    board    : headings:https://careers.unitedhealthgroup.com/search-jobs   —  17 open roles
     FDE Engineer
       location : n/a   [INDIA]
       exp req  : not stated    stack: —    score: 49
       url      : https://careers.unitedhealthgroup.com/search-jobs
 
 >> Upstox  [India]
-    board    : next-data:https://upstox.com/careers/   —  2 open roles
-    Associate Manager - Taxation
-      location : Mumbai, Maharashtra   [INDIA]
-      exp req  : not stated    stack: —    score: 9
+    board    : headings:https://upstox.com/careers/   —  6 open roles
+    Associate-Research & Insight
+      location : n/a   [INDIA]
+      exp req  : 1-2y / 2-3y    stack: —    score: 57
       url      : https://upstox.com/careers/
 
 >> UiPath India  [India]
@@ -316,6 +316,13 @@ Total open roles seen       : 620
     board    : zohorecruit:uniqusus (0 open)   —  0 open roles
     (board reached successfully, but it has 0 open roles right now)
 
+>> Unicommerce eSolutions  [India]
+    board    : keka:unicommerce   —  2 open roles
+    Lead Software Engineer - Backend
+      location : Gurugram   [INDIA]
+      exp req  : 6-8y    stack: Java    score: 48
+      url      : https://unicommerce.keka.com/careers/jobdetails/54313
+
 >> Uniqode  [India]
     board    : headings:https://www.uniqode.com/careers   —  3 open roles
     Collect Leads & Insights
@@ -385,13 +392,6 @@ Total open roles seen       : 620
       location : n/a
       exp req  : not stated    stack: —    score: -6
       url      : https://unitedlex.com/careers/
-
->> Upland Software  [United States]
-    board    : headings:https://uplandsoftware.com/careers/   —  3 open roles
-    Analyst Report
-      location : n/a
-      exp req  : not stated    stack: —    score: 4
-      url      : https://uplandsoftware.com/careers/
 
 >> Unravel Data  [United States]
     board    : headings:https://www.unraveldata.com/company/careers   —  2 open roles
@@ -474,7 +474,7 @@ Total open roles seen       : 620
 
 >> Uni Cards  [India]  — blocked-or-error-response
     careers page : undefined
-    http status  : 403, 403, 403, 403, 403, 403
+    http status  : 403, 403, 403, 403
     ATS tried    : greenhouse:unicards -> no board ; lever:unicards -> no board ; ashby:unicards -> no board ; recruitee:unicards -> no board
 
 >> uTrade Solutions  [India]  — blocked-or-error-response
@@ -482,9 +482,14 @@ Total open roles seen       : 620
     http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200, 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200, 404, 404
     ATS tried    : greenhouse:utrade -> no board ; lever:utrade -> no board ; ashby:utrade -> no board ; recruitee:utrade -> no board
 
+>> Upland Software  [United States]  — blocked-or-error-response
+    careers page : https://uplandsoftware.com/careers/
+    http status  : 307, 0, 307, 307, 307, 307, 307, 307, 307, 307, 307, 307, 0, 307, 307
+    ATS tried    : greenhouse:upland -> no board ; lever:upland -> no board ; ashby:upland -> no board ; recruitee:upland -> no board
+
 >> Ustraa  [India]  — blocked-or-error-response
     careers page : undefined
-    http status  : 0, 404, 404, 404, 404, 404
+    http status  : 0, 404, 404, 404
     ATS tried    : greenhouse:ustraa -> no board ; lever:ustraa -> no board ; ashby:ustraa -> no board ; recruitee:ustraa -> no board
 
 >> Udaan  [India]  — careers-page-read-but-lists-no-openings
@@ -499,13 +504,13 @@ Total open roles seen       : 620
 
 >> Urban Company  [India]  — careers-page-read-but-lists-no-openings
     careers page : undefined
-    http status  : 200, 404, 404
+    http status  : 200, 404, 404, 404
     ATS tried    : greenhouse:urban -> no board ; lever:urban -> no board ; ashby:urban -> no board ; recruitee:urban -> no board
 
->> Ugam Solutions  [India]  — careers-page-read-but-lists-no-openings
+>> Merkle (formerly Ugam)  [India]  — careers-page-read-but-lists-no-openings
     careers page : undefined
-    http status  : 0, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 0, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200
-    ATS tried    : greenhouse:ugam -> no board ; lever:ugam -> no board ; ashby:ugam -> no board ; recruitee:ugam -> no board
+    http status  : 0, 200, 404, 404, 404, 404, 404, 404, 404, 404, 200
+    ATS tried    : greenhouse:merkle -> no board ; lever:merkle -> no board ; ashby:merkle -> no board ; recruitee:merkle -> no board
 
 >> Ubuy India  [India]  — careers-page-read-but-lists-no-openings
     careers page : undefined
@@ -549,7 +554,7 @@ Total open roles seen       : 620
 
 >> Utkarsh Small Finance Bank  [India]  — careers-page-read-but-lists-no-openings
     careers page : https://www.utkarsh.bank.in/careers
-    http status  : 200, 0, 200, 404
+    http status  : 200, 0, 200, 404, 404
     ATS tried    : greenhouse:utkarshsmallfinance -> no board ; lever:utkarshsmallfinance -> no board ; ashby:utkarshsmallfinance -> no board ; recruitee:utkarshsmallfinance -> no board
 
 >> U GRO Capital  [India]  — careers-page-read-but-lists-no-openings
@@ -724,8 +729,4 @@ Total open roles seen       : 620
 
 >> Uninstall.io  [India]  — timed-out
     careers page : undefined
-    http status  : 
-
->> Unicommerce eSolutions  [India]  — timed-out
-    careers page : https://unicommerce.com/life-at-unicommerce/
     http status  : 

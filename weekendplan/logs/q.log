@@ -1,99 +1,98 @@
-Checking 90 companies (concurrency 8)
+Checking 89 companies (concurrency 8)
 
-[  1/90] Quinbay                      !! careers-page-unreachable
-[  2/90] Quantum Leap                 !! blocked-or-error-response
-[  3/90] QburstTechnologies           !! careers-page-read-but-lists-no-openings
-[  4/90] Quovantis                    !! no-job-data-found
-[  5/90] Qure.ai                      !! careers-page-read-but-lists-no-openings
-[  6/90] Quantiphi                     40 jobs  via workday:quantiphi
-[  7/90] QuickHeal                    !! blocked-or-error-response
-[  8/90] QualiZeal                     10 jobs  via feed:https://qualizeal.com
-[  9/90] Quest Global                 !! careers-page-read-but-lists-no-openings
-[ 10/90] Quantela                       4 jobs  via headings:https://careers.quantela.com/jobs
-[ 11/90] Quantsapp                    !! careers-page-read-but-lists-no-openings
-[ 12/90] Qualys India                 148 jobs  via workday:qualys
-[ 13/90] Quadrant Technologies          1 jobs  via feed:https://www.quadranttechnologies.com
-[ 14/90] Quantum Phinance             !! careers-page-read-but-lists-no-openings
-[ 15/90] Quicko                         0 jobs  via zohorecruit:quicko (0 open)
-[ 16/90] Quest Software India          22 jobs  via icims:quest
-[ 17/90] Qualitest India              !! careers-page-read-but-lists-no-openings
-[ 18/90] Quarks Technosoft            !! careers-page-read-but-lists-no-openings
-[ 19/90] Qualcomm India                35 jobs  via sitemap:https://careers.qualcomm.com
-[ 20/90] Qriocity                     !! careers-page-read-but-lists-no-openings
-[ 21/90] Qentelli                     !! blocked-or-error-response
-[ 22/90] Quinstreet India              33 jobs  via greenhouse:quinstreet
-[ 23/90] Qapita                       !! careers-page-read-but-lists-no-openings
-[ 24/90] Quantzig                     !! careers-page-read-but-lists-no-openings
-[ 25/90] QualMinds Technologies        15 jobs  via keka:qualminds   ** 1 MATCH **
-[ 26/90] Q3 Technologies                5 jobs  via headings:https://www.q3tech.com/careers/
-[ 27/90] Quytech                        4 jobs  via headings:https://www.quytech.com/careers.php
-[ 28/90] Quixy                         10 jobs  via feed:https://quixy.com
-[ 29/90] QualityKiosk Technologies     10 jobs  via feed:https://qualitykiosk.com
-[ 30/90] Quinnox                       18 jobs  via headings:https://www.quinnox.com/career/
-[ 31/90] Qoala                        !! blocked-or-error-response
-[ 32/90] Quizizz                        9 jobs  via lever:Wayground
-[ 33/90] Quolam Business Solutions    !! no-job-data-found
-[ 34/90] Quokka Labs                    4 jobs  via headings:https://quokkalabs.com/careers
-[ 35/90] Qandle                       !! no-job-data-found
-[ 36/90] QSS Technosoft                 8 jobs  via headings:https://www.qsstechnosoft.com/careers/
-[ 37/90] QuadLabs Technologies          2 jobs  via sitemap:https://quadlabs.com
-[ 38/90] Qoruz                        !! careers-page-read-but-lists-no-openings
-[ 39/90] Qlik                          10 jobs  via headings:https://www.qlik.com/us/company/careers
-[ 40/90] Qventus                       24 jobs  via greenhouse:qventus
-[ 41/90] Qorvo                         38 jobs  via successfactors:careers.qorvo.com
-[ 42/90] Quikr                         33 jobs  via headings:https://www.quikr.com/jobs
-[ 43/90] QpiAI                          9 jobs  via headings:https://www.qpiai.tech/careers
-[ 44/90] QAD                           58 jobs  via smartrecruiters:QADInc
-[ 45/90] Q2 Software                   40 jobs  via workday:q2ebanking
-[ 46/90] Qualtrics                     56 jobs  via greenhouse:qualtrics
-[ 47/90] Quantexa                      32 jobs  via ashby:quantexa   ** 1 MATCH **
-[ 48/90] QuestionPro                  !! careers-page-read-but-lists-no-openings
-[ 49/90] QuickSell                    !! no-job-data-found
-[ 50/90] Qwipo                        !! careers-page-read-but-lists-no-openings
-[ 51/90] Qualitia Software            !! careers-page-read-but-lists-no-openings
-[ 52/90] QAonCloud                    !! careers-page-read-but-lists-no-openings
-[ 53/90] Quest2Travel                 !! careers-page-unreachable
-[ 54/90] QNu Labs                     !! careers-page-read-but-lists-no-openings
-[ 55/90] Quest Informatics            !! blocked-or-error-response
-[ 56/90] Qube Health                    2 jobs  via headings:https://qubehealth.com/careers.html
-[ 57/90] Quadrafort Technologies        0 jobs  via zohorecruit:quadrafort (0 open)
-[ 58/90] QuickMetrix                  !! blocked-or-error-response
-[ 59/90] Quick Ride                     8 jobs  via headings:https://quickride.in/careers.php
-[ 60/90] Quilt.AI                       5 jobs  via greenhouse:quilt
-[ 61/90] QBrainX                      !! careers-page-unreachable
-[ 62/90] Quickwork                    !! no-job-data-found
-[ 63/90] Quadra Systems               !! careers-page-read-but-lists-no-openings
-[ 64/90] Quikchex                      10 jobs  via feed:https://quikchex.in
-[ 65/90] Qapitol QA                    12 jobs  via headings:https://qapitol.ai/careers
-[ 66/90] Quantum IT Innovation        !! careers-page-read-but-lists-no-openings
-[ 67/90] Qdesq                        !! careers-page-read-but-lists-no-openings
-[ 68/90] Qube Cinema                   25 jobs  via jazzhr:qubecinema
-[ 69/90] QodeNext                       1 jobs  via wordpress:https://qodenext.com
-[ 70/90] QWQER                          2 jobs  via next-data:https://www.qwqer.in/careers
-[ 71/90] Qode Advisors                !! careers-page-read-but-lists-no-openings
-[ 72/90] Qulabs Software              !! careers-page-read-but-lists-no-openings
-[ 73/90] QuoDeck                      !! no-job-data-found
-[ 74/90] Qualitrix Technologies        10 jobs  via feed:https://qualitrix.com
-[ 75/90] Quatrro Business Support Ser !! no-job-data-found
-[ 76/90] Qzense Labs                  !! no-job-data-found
-[ 77/90] QBotica                      !! careers-page-unreachable
-[ 78/90] Qualwebs                     !! careers-page-read-but-lists-no-openings
-[ 79/90] Quintype Technologies        !! careers-page-read-but-lists-no-openings
-[ 80/90] Qube Research & Technologies !! careers-page-read-but-lists-no-openings
-[ 81/90] QuantInsti                    15 jobs  via feed:https://www.quantinsti.com
-[ 82/90] Quanfluence                  !! no-job-data-found
-[ 83/90] Qyrus                          2 jobs  via headings:https://www.qyrus.com/post/join-us-api-days-india-at-booth-6/
-[ 84/90] Quorum Software              !! careers-page-read-but-lists-no-openings
-[ 85/90] QUEST Innovative Solutions   !! no-job-data-found
-[ 86/90] Qatalys                      !! careers-page-read-but-lists-no-openings
-[ 87/90] Quantumzyme                   22 jobs  via headings:https://quantumzyme.com/careers
-[ 88/90] Qvantel                      !! careers-page-read-but-lists-no-openings
-[ 89/90] Quadratyx                      5 jobs  via headings:https://quadratyx.com/we-are-hiring/
-[ 90/90] Qkrishi                      !! timed-out
+[  1/89] Quinbay                      !! careers-page-unreachable
+[  2/89] Quantum Leap                 !! blocked-or-error-response
+[  3/89] QburstTechnologies           !! careers-page-read-but-lists-no-openings
+[  4/89] Qure.ai                      !! careers-page-read-but-lists-no-openings
+[  5/89] QuickHeal                    !! blocked-or-error-response
+[  6/89] Quantela                       4 jobs  via headings:https://careers.quantela.com/jobs
+[  7/89] Quantiphi                     40 jobs  via workday:quantiphi
+[  8/89] Quest Global                 !! careers-page-read-but-lists-no-openings
+[  9/89] QualiZeal                     10 jobs  via feed:https://qualizeal.com
+[ 10/89] QualityAI (formerly Qualites  53 jobs  via successfactors:careers.quality-ai.com   ** 3 MATCH **
+[ 11/89] Quantsapp                    !! careers-page-read-but-lists-no-openings
+[ 12/89] Quadrant Technologies          1 jobs  via feed:https://www.quadranttechnologies.com
+[ 13/89] Qualys India                 148 jobs  via workday:qualys
+[ 14/89] Quantum Phinance             !! careers-page-read-but-lists-no-openings
+[ 15/89] Quicko                         0 jobs  via zohorecruit:quicko (0 open)
+[ 16/89] Quest Software India          22 jobs  via icims:quest
+[ 17/89] Qriocity                     !! careers-page-read-but-lists-no-openings
+[ 18/89] Quarks Technosoft            !! careers-page-read-but-lists-no-openings
+[ 19/89] Quikr                         33 jobs  via headings:https://www.quikr.com/jobs
+[ 20/89] Quinstreet India              33 jobs  via greenhouse:quinstreet
+[ 21/89] Qentelli                     !! blocked-or-error-response
+[ 22/89] Qualcomm India                35 jobs  via sitemap:https://careers.qualcomm.com
+[ 23/89] Qapita                       !! careers-page-read-but-lists-no-openings
+[ 24/89] QualMinds Technologies        15 jobs  via keka:qualminds   ** 1 MATCH **
+[ 25/89] Quantzig                     !! careers-page-read-but-lists-no-openings
+[ 26/89] Q3 Technologies                5 jobs  via headings:https://www.q3tech.com/careers/
+[ 27/89] Quinnox                       18 jobs  via headings:https://www.quinnox.com/career/
+[ 28/89] Qoala                        !! blocked-or-error-response
+[ 29/89] Quytech                        4 jobs  via headings:https://www.quytech.com/careers.php
+[ 30/89] Quolam Business Solutions    !! no-job-data-found
+[ 31/89] Quixy                         10 jobs  via feed:https://quixy.com
+[ 32/89] Quokka Labs                    4 jobs  via headings:https://quokkalabs.com/careers
+[ 33/89] Wayground (formerly Quizizz)   9 jobs  via lever:Wayground
+[ 34/89] QSS Technosoft                 8 jobs  via headings:https://www.qsstechnosoft.com/careers/
+[ 35/89] QualityKiosk Technologies     10 jobs  via feed:https://qualitykiosk.com
+[ 36/89] QuadLabs Technologies          2 jobs  via sitemap:https://quadlabs.com
+[ 37/89] Qandle                       !! no-job-data-found
+[ 38/89] Qlik                          10 jobs  via headings:https://www.qlik.com/us/company/careers
+[ 39/89] Qoruz                        !! careers-page-read-but-lists-no-openings
+[ 40/89] Qualtrics                     56 jobs  via greenhouse:qualtrics
+[ 41/89] Qventus                       24 jobs  via greenhouse:qventus
+[ 42/89] Q2 Software                   40 jobs  via workday:q2ebanking
+[ 43/89] QAD                           58 jobs  via smartrecruiters:QADInc
+[ 44/89] Qorvo                         38 jobs  via successfactors:careers.qorvo.com
+[ 45/89] QpiAI                          9 jobs  via headings:https://www.qpiai.tech/careers
+[ 46/89] Quantexa                      32 jobs  via ashby:quantexa   ** 1 MATCH **
+[ 47/89] Qwipo                        !! careers-page-read-but-lists-no-openings
+[ 48/89] QAonCloud                    !! careers-page-read-but-lists-no-openings
+[ 49/89] QuestionPro                  !! careers-page-read-but-lists-no-openings
+[ 50/89] Quest2Travel                 !! careers-page-unreachable
+[ 51/89] QNu Labs                     !! careers-page-read-but-lists-no-openings
+[ 52/89] QuickSell                    !! no-job-data-found
+[ 53/89] Quest Informatics            !! blocked-or-error-response
+[ 54/89] Qube Health                    2 jobs  via headings:https://qubehealth.com/careers.html
+[ 55/89] Quick Ride                     8 jobs  via headings:https://quickride.in/careers.php
+[ 56/89] QBrainX                      !! careers-page-unreachable
+[ 57/89] QuickMetrix                  !! blocked-or-error-response
+[ 58/89] Quadrafort Technologies        0 jobs  via zohorecruit:quadrafort (0 open)
+[ 59/89] Qualitia Software            !! careers-page-read-but-lists-no-openings
+[ 60/89] Quilt.AI                       5 jobs  via greenhouse:quilt
+[ 61/89] Quikchex                      10 jobs  via feed:https://quikchex.in
+[ 62/89] Quadra Systems               !! careers-page-read-but-lists-no-openings
+[ 63/89] Quantum IT Innovation        !! careers-page-read-but-lists-no-openings
+[ 64/89] Qapitol QA                    12 jobs  via headings:https://qapitol.ai/careers
+[ 65/89] Quickwork                    !! no-job-data-found
+[ 66/89] Qdesq                        !! careers-page-read-but-lists-no-openings
+[ 67/89] Qube Cinema                   25 jobs  via jazzhr:qubecinema
+[ 68/89] QWQER                          2 jobs  via next-data:https://www.qwqer.in/careers
+[ 69/89] QodeNext                       1 jobs  via wordpress:https://qodenext.com
+[ 70/89] QuoDeck                      !! no-job-data-found
+[ 71/89] Qulabs Software              !! careers-page-read-but-lists-no-openings
+[ 72/89] QBotica                      !! careers-page-unreachable
+[ 73/89] Qzense Labs                  !! no-job-data-found
+[ 74/89] Qode Advisors                !! careers-page-read-but-lists-no-openings
+[ 75/89] Qualitrix Technologies        10 jobs  via feed:https://qualitrix.com
+[ 76/89] Quatrro Business Support Ser !! no-job-data-found
+[ 77/89] Qualwebs                     !! careers-page-read-but-lists-no-openings
+[ 78/89] Quintype Technologies        !! careers-page-read-but-lists-no-openings
+[ 79/89] Qube Research & Technologies !! careers-page-read-but-lists-no-openings
+[ 80/89] Quanfluence                  !! no-job-data-found
+[ 81/89] Qyrus                          2 jobs  via headings:https://www.qyrus.com/post/join-us-api-days-india-at-booth-6/
+[ 82/89] Quorum Software              !! careers-page-read-but-lists-no-openings
+[ 83/89] Qvantel                      !! careers-page-read-but-lists-no-openings
+[ 84/89] QuantInsti                    15 jobs  via feed:https://www.quantinsti.com
+[ 85/89] Quantumzyme                   22 jobs  via headings:https://quantumzyme.com/careers
+[ 86/89] Qatalys                      !! careers-page-read-but-lists-no-openings
+[ 87/89] QUEST Innovative Solutions   !! no-job-data-found
+[ 88/89] Qkrishi                      !! timed-out
+[ 89/89] Quadratyx                    !! timed-out
 
   boards read with jobs : 40
   boards read, 0 open   : 2
-  could not read        : 48
-  companies w/ matches  : 2
+  could not read        : 47
+  companies w/ matches  : 3
 
 Wrote careers.txt + results.json

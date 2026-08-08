@@ -62,6 +62,43 @@ Next cycle should pick up:
   from model knowledge only.
 - Recheck for invented ats tokens after every research cycle (see above).
 
+
+## Domain verification (cycle 7, 2026-08-08)
+weekendplan/verify-domains.js checks every company domain still belongs to it.
+Result across 5,957: 5,873 ok, 54 redirect, 2 parked, 0 genuinely dead.
+The authored lists are far healthier than letter i suggested -- 98.6% clean.
+
+THREE false-positive classes were found and fixed while calibrating it. Keep
+them in mind before trusting ANY probe-based signal in this project:
+ 1. "fetch failed" != dead. IBM, Illumina, Innominds all refuse automated
+    fetches. DNS is the only authority on existence.
+ 2. "page title lacks the company name" != wrong domain. ICICI Lombard, InMobi
+    and IndiGo all use marketing titles. That heuristic was removed entirely.
+ 3. "apex does not resolve" != dead. Many large firms publish NO A record at
+    the apex, only on www: fujitsu.com, dream11.com, denso.com, schaeffler.com,
+    nri.com, safexpress.com and 21 more. Always try www before condemning.
+Calibrate against letter i (hand-verified) before running --apply on anything.
+
+## Scanner fix: www-only domains (cycle 7)
+Same root cause as (3) above, but in the SCANNER, and much more costly:
+careerUrls() built all 12 candidate URLs from the bare domain, so any company
+whose apex has no A record was permanently "unreachable" -- Dream11, Fujitsu,
+DENSO, Schaeffler etc. could never be scanned at all. It now probes the www
+form too. Verified: Dream11 unreachable -> no-job-data-found, Fujitsu
+unreachable -> careers page read.
+NOTE each letter dir holds its own copy of test.js; run-letters.sh re-copies
+w/test.js into each one, so edit w/test.js and let the runner propagate.
+
+## 54 redirecting domains -- unresolved, needs judgement
+weekendplan/domain-report.txt lists them. Most are real acquisitions/rebrands
+where the company still hires in India, so the right fix is usually to UPDATE
+name+site, not delete: Accolite->bounteous.com, Altair->siemens.com,
+Apisero->nttdata.com, Ameex->perficient.com, ALTEN Calsoft->acldigital.com,
+Doubtnut->allen.in, IGT->atain.com, Infibeam->avenuesai.com,
+Ineuron->pwskills.com. A few are false alarms (Federal Bank -> a Radware
+captcha; H&M -> www2.hm.com). These currently fail the asymmetric board-name
+check, so they produce no bad data -- only missed opportunities.
+
 ## Loop protocol requested by user
 1. Work until ~80% of quota consumed.
 2. At 80%: stop all agents/workflows, commit + push, then WAIT for reset.

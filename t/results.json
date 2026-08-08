@@ -85,37 +85,7 @@
     {
      "url": "https://tcs.com/join-us",
      "status": 404,
-     "bytes": 297709
-    },
-    {
-     "url": "https://tcs.com/join-our-team",
-     "status": 404,
-     "bytes": 297709
-    },
-    {
-     "url": "https://tcs.com/careers.html",
-     "status": 200,
-     "bytes": 393360
-    },
-    {
-     "url": "https://tcs.com/company/careers",
-     "status": 404,
-     "bytes": 297709
-    },
-    {
-     "url": "https://tcs.com/about/careers",
-     "status": 404,
-     "bytes": 297709
-    },
-    {
-     "url": "https://tcs.com/current-openings",
-     "status": 404,
-     "bytes": 297709
-    },
-    {
-     "url": "https://tcs.com/",
-     "status": 200,
-     "bytes": 422730
+     "bytes": 297277
     }
    ],
    "candidates": [
@@ -133,14 +103,14 @@
     "workable:tataconsultancy -> no board"
    ]
   },
-  "ms": 26851
+  "ms": 15565
  },
  {
   "company": "Tech Mahindra",
   "country": "India",
   "source": "headings:https://careers.techmahindra.com/",
   "error": null,
-  "totalJobs": 9,
+  "totalJobs": 8,
   "jobs": [
    {
     "title": "Manufacturing Engineer – to support NPI",
@@ -183,6 +153,26 @@
     "score": 27
    },
    {
+    "title": "Tech Lead",
+    "location": "",
+    "url": "https://careers.techmahindra.com/",
+    "india": true,
+    "locationSaysIndia": false,
+    "hasLocation": false,
+    "isEng": true,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [
+     [
+      8,
+      10
+     ]
+    ],
+    "expFits2": false,
+    "score": 23
+   },
+   {
     "title": "Quality Engineer/Manager",
     "location": "",
     "url": "https://careers.techmahindra.com/",
@@ -197,23 +187,7 @@
      [
       5,
       10
-     ]
-    ],
-    "expFits2": false,
-    "score": 23
-   },
-   {
-    "title": "Tech Lead",
-    "location": "",
-    "url": "https://careers.techmahindra.com/",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": true,
-    "java": false,
-    "flutter": false,
-    "senior": true,
-    "exp": [
+     ],
      [
       8,
       11
@@ -223,28 +197,28 @@
     "score": 23
    },
    {
-    "title": "Lead Bigdata Engineer - Chennai/ Bangalore Location",
+    "title": "Tech Specialist",
     "location": "",
     "url": "https://careers.techmahindra.com/",
     "india": true,
     "locationSaysIndia": false,
     "hasLocation": false,
-    "isEng": true,
+    "isEng": false,
     "java": false,
     "flutter": false,
-    "senior": true,
+    "senior": false,
     "exp": [
      [
-      8,
-      15
+      7,
+      10
      ],
      [
-      10,
-      20
+      9,
+      10
      ]
     ],
     "expFits2": false,
-    "score": 23
+    "score": 15
    },
    {
     "title": "L3 Database Administrator (DBA) – MS SQL Server",
@@ -309,26 +283,6 @@
     ],
     "expFits2": false,
     "score": -7
-   },
-   {
-    "title": "Senior Salesforce Functional Business Analyst",
-    "location": "",
-    "url": "https://careers.techmahindra.com/",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": true,
-    "exp": [
-     [
-      12,
-      20
-     ]
-    ],
-    "expFits2": false,
-    "score": -7
    }
   ],
   "enriched": 0,
@@ -387,7 +341,7 @@
     {
      "url": "https://careers.techmahindra.com",
      "status": 200,
-     "bytes": 228707
+     "bytes": 228523
     },
     {
      "url": "https://techmahindra.com/careers",
@@ -415,7 +369,7 @@
     "workable:techmahindra -> no board"
    ]
   },
-  "ms": 4422
+  "ms": 4871
  },
  {
   "company": "Tata Elxsi",
@@ -503,7 +457,7 @@
     "workable:tataelxsi -> no board"
    ]
   },
-  "ms": 6993
+  "ms": 7186
  },
  {
   "company": "Thoughtworks India",
@@ -875,7 +829,7 @@
     "workable:thoughtworks -> no board"
    ]
   },
-  "ms": 5898
+  "ms": 6788
  },
  {
   "company": "Tiger Analytics",
@@ -1289,7 +1243,7 @@
     "workable:tigeranalytics -> no board"
    ]
   },
-  "ms": 15412
+  "ms": 15261
  },
  {
   "company": "Trilogy India",
@@ -1509,7 +1463,7 @@
     "workable:trilogy -> no board"
    ]
   },
-  "ms": 8278
+  "ms": 8746
  },
  {
   "company": "Twilio India",
@@ -1601,7 +1555,7 @@
     {
      "url": "https://twilio.com/careers",
      "status": 200,
-     "bytes": 148454
+     "bytes": 146940
     },
     {
      "url": "https://twilio.com/career",
@@ -1611,7 +1565,7 @@
     {
      "url": "https://twilio.com/jobs",
      "status": 200,
-     "bytes": 148456
+     "bytes": 146940
     },
     {
      "url": "https://twilio.com/join-us",
@@ -1626,7 +1580,7 @@
     {
      "url": "https://twilio.com/careers.html",
      "status": 200,
-     "bytes": 148456
+     "bytes": 146940
     },
     {
      "url": "https://twilio.com/company/careers",
@@ -1664,7 +1618,7 @@
     "workable:twilio -> no board"
    ]
   },
-  "ms": 45190
+  "ms": 43778
  },
  {
   "company": "Target India",
@@ -1698,34 +1652,44 @@
     "score": 72
    },
    {
-    "title": "Seasonal Full Time Hourly Warehouse Associate Openings (T3842)",
-    "location": "1111 Macom Dr, Dekalb,IL 60115-8709",
-    "url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/1111-Macom-Dr-DekalbIL-60115-8709/Seasonal-Full-Time-Hourly-Warehouse-Associate-Openings--T3842-_R0000447655",
+    "title": "Lead Engineer - Cloud Security (Software Engineering)",
+    "location": "7000 Target Pkwy N,NCD-0375 Brooklyn Park,MN 55445",
+    "url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/7000-Target-Pkwy-NNCD-0375-Brooklyn-ParkMN-55445/Lead-Engineer---Cloud-Security--Software-Engineering-_R0000448693-1",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
-    "isEng": false,
-    "java": false,
+    "isEng": true,
+    "java": true,
     "flutter": false,
-    "senior": false,
-    "exp": [],
+    "senior": true,
+    "exp": [
+     [
+      7,
+      11
+     ]
+    ],
     "expFits2": false,
-    "score": 16
+    "score": 33
    },
    {
-    "title": "Seasonal Full Time Hourly Warehouse Associate Openings for Evening/Overnight Shifts (T3857)",
-    "location": "300 Creekview Ave, Bldg H, Logan Township,NJ 08085-2597",
-    "url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/300-Creekview-Ave-Bldg-H-Logan-TownshipNJ-08085-2597/Seasonal-Full-Time-Hourly-Warehouse-Associate-Openings-for-Evening-Overnight-Shifts--T3857-_R0000447654",
+    "title": "Lead Engineer - Cloud Security (Cloud Security Platform & CSPM)",
+    "location": "7000 Target Pkwy N,NCD-0375 Brooklyn Park,MN 55445",
+    "url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/7000-Target-Pkwy-NNCD-0375-Brooklyn-ParkMN-55445/Lead-Engineer---Cloud-Security--Cloud-Security-Platform---CSPM-_R0000448660",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
-    "isEng": false,
+    "isEng": true,
     "java": false,
     "flutter": false,
-    "senior": false,
-    "exp": [],
+    "senior": true,
+    "exp": [
+     [
+      7,
+      11
+     ]
+    ],
     "expFits2": false,
-    "score": 16
+    "score": 8
    },
    {
     "title": "Sr. Engineer US - Network Traffic Management DDI",
@@ -1746,6 +1710,51 @@
     ],
     "expFits2": false,
     "score": 8
+   },
+   {
+    "title": "Food Service Team Leader - Western Houston, TX",
+    "location": "8605 Westheimer Rd, Houston, TX 77063-4201",
+    "url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/8605-Westheimer-Rd-Houston-TX-77063-4201/Food-Service-Team-Leader---Western-Houston--TX_R0000448621",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 4
+   },
+   {
+    "title": "Closing Team Leader",
+    "location": "608 W Main St, American Fork,UT 84003-9762",
+    "url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/608-W-Main-St-American-ForkUT-84003-9762/Closing-Team-Leader_R0000448643-1",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 4
+   },
+   {
+    "title": "Food and Beverage Coordinator - San Jose, CA",
+    "location": "1061 Cochrane Rd, Morgan Hill,CA 95037-9305",
+    "url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/1061-Cochrane-Rd-Morgan-HillCA-95037-9305/Food-and-Beverage-Coordinator---San-Jose--CA_R0000448712",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 4
    },
    {
     "title": "Food & Beverage Team Leader",
@@ -2093,51 +2102,6 @@
     "score": 4
    },
    {
-    "title": "Permanent Full Time Hourly Warehouse Operations Openings (T3865)",
-    "location": "3501 S Pulaski Rd, Chicago,IL 60623-4926",
-    "url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/3501-S-Pulaski-Rd-ChicagoIL-60623-4926/Permanent-Full-Time-Hourly-Warehouse-Operations--Openings--T3865-_R0000447584",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 4
-   },
-   {
-    "title": "Permanent Full Time Hourly Warehouse Operations Openings Only (T3804)",
-    "location": "1 Walker Way, West Jefferson,OH 43162-9406",
-    "url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/1-Walker-Way-West-JeffersonOH-43162-9406/Permanent-Full-Time-Hourly-Warehouse-Operations-Openings-Only--T3804-_R0000447638",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 4
-   },
-   {
-    "title": "Seasonal Full Time Hourly Warehouse Operations Openings ( T0588)",
-    "location": "25 N 75th Ave, Phoenix,AZ 85043-2109",
-    "url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/25-N-75th-Ave-PhoenixAZ-85043-2109/Seasonal-Full-Time-Hourly-Warehouse-Operations-Openings---T0588-_R0000447642",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 4
-   },
-   {
     "title": "Ammonia Refrigeration Manager - Food DC - West Jefferson, OH",
     "location": "42 Commerce Pkwy, West Jefferson,OH 43162-9419",
     "url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/42-Commerce-Pkwy-West-JeffersonOH-43162-9419/Ammonia-Refrigeration-Manager---Food-DC---West-Jefferson--OH_R0000448633",
@@ -2288,7 +2252,7 @@
     "score": -18
    }
   ],
-  "enriched": 2,
+  "enriched": 4,
   "matches": [],
   "nearMatches": [],
   "closest": {
@@ -2407,7 +2371,7 @@
     {
      "url": "https://target.com/",
      "status": 200,
-     "bytes": 386569
+     "bytes": 388073
     }
    ],
    "candidates": [
@@ -2422,7 +2386,7 @@
     "workday:target -> 40 jobs"
    ]
   },
-  "ms": 11148
+  "ms": 9861
  },
  {
   "company": "Texas Instruments India",
@@ -2509,7 +2473,7 @@
     "workable:texasinstruments -> no board"
    ]
   },
-  "ms": 47763
+  "ms": 45150
  },
  {
   "company": "ThoughtSpot India",
@@ -2646,7 +2610,7 @@
     "workable:thoughtspot -> no board"
    ]
   },
-  "ms": 25067
+  "ms": 3706
  },
  {
   "company": "Toast India",
@@ -2708,14 +2672,14 @@
     "workable:toasttab -> no board"
    ]
   },
-  "ms": 12257
+  "ms": 8273
  },
  {
   "company": "Tekion",
   "country": "India",
   "source": "ashby:tekion",
   "error": null,
-  "totalJobs": 70,
+  "totalJobs": 71,
   "jobs": [
    {
     "title": "Software Development Test Engineer II",
@@ -3247,6 +3211,30 @@
      [
       3,
       7
+     ]
+    ],
+    "expFits2": true,
+    "score": 30
+   },
+   {
+    "title": "Implementation Specialist - Fixed Operations",
+    "location": "Virtual - Canada",
+    "url": "https://jobs.ashbyhq.com/tekion/e58f3b33-c37e-4a89-87b7-80749673903c",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [
+     [
+      2,
+      4
+     ],
+     [
+      4,
+      5
      ]
     ],
     "expFits2": true,
@@ -4457,10 +4445,10 @@
    "attempts": [
     "greenhouse:tekion -> no board",
     "lever:tekion -> no board",
-    "ashby:tekion -> 70 jobs (guess, name-verified)"
+    "ashby:tekion -> 71 jobs (guess, name-verified)"
    ]
   },
-  "ms": 6868
+  "ms": 6257
  },
  {
   "company": "Telstra India",
@@ -5149,7 +5137,7 @@
     {
      "url": "https://telstra.com/",
      "status": 200,
-     "bytes": 318334
+     "bytes": 318323
     }
    ],
    "candidates": [
@@ -5164,7 +5152,7 @@
     "workday:telstra -> 40 jobs"
    ]
   },
-  "ms": 13586
+  "ms": 13016
  },
  {
   "company": "Tesco Bengaluru",
@@ -5182,7 +5170,7 @@
    "pages": [],
    "attempts": []
   },
-  "ms": 90285
+  "ms": 90002
  },
  {
   "company": "Thomson Reuters India",
@@ -5234,6 +5222,30 @@
     ],
     "expFits2": true,
     "score": 65
+   },
+   {
+    "title": "Senior Machine Learning Engineer",
+    "location": "",
+    "url": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/Canada-Toronto-Ontario/Senior-Machine-Learning-Engineer_JREQ199836",
+    "india": true,
+    "locationSaysIndia": false,
+    "hasLocation": false,
+    "isEng": true,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [
+     [
+      2,
+      6
+     ],
+     [
+      2,
+      3
+     ]
+    ],
+    "expFits2": true,
+    "score": 53
    },
    {
     "title": "Lead Platform Engineer",
@@ -5340,6 +5352,30 @@
     "score": 31
    },
    {
+    "title": "Senior Director, Software Engineering – Customer Content Platform",
+    "location": "",
+    "url": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-Eagan-Minnesota/Senior-Director--Software-Engineering---Customer-Content-Platform_JREQ202819",
+    "india": true,
+    "locationSaysIndia": false,
+    "hasLocation": false,
+    "isEng": true,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [
+     [
+      12,
+      16
+     ],
+     [
+      5,
+      9
+     ]
+    ],
+    "expFits2": false,
+    "score": 23
+   },
+   {
     "title": "Data Scientist",
     "location": "",
     "url": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-McLean-Virginia/Data-Scientist_JREQ202807",
@@ -5433,21 +5469,6 @@
     "title": "Gerente de Backoffice",
     "location": "",
     "url": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/Brazil-Campinas-So-Paulo/Gerente-de-Backoffice_JREQ202196-1",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 19
-   },
-   {
-    "title": "Sales Development Representative",
-    "location": "",
-    "url": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/Mexico-Mexico-City/Sales-Development-Representative_JREQ202707-1",
     "india": true,
     "locationSaysIndia": false,
     "hasLocation": false,
@@ -5803,24 +5824,9 @@
     "exp": [],
     "expFits2": false,
     "score": -3
-   },
-   {
-    "title": "Sales Manager",
-    "location": "",
-    "url": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-Eagan-Minnesota/Manager--Sales_JREQ201644",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": true,
-    "exp": [],
-    "expFits2": false,
-    "score": -3
    }
   ],
-  "enriched": 4,
+  "enriched": 6,
   "matches": [],
   "nearMatches": [],
   "closest": {
@@ -5905,7 +5911,7 @@
     "workday:thomsonreuters -> 40 jobs"
    ]
   },
-  "ms": 11572
+  "ms": 29029
  },
  {
   "company": "Tide India",
@@ -7692,17 +7698,17 @@
     {
      "url": "https://tide.co/careers",
      "status": 200,
-     "bytes": 886975
+     "bytes": 886891
     },
     {
      "url": "https://tide.co/career",
      "status": 404,
-     "bytes": 792825
+     "bytes": 792796
     },
     {
      "url": "https://tide.co/jobs",
      "status": 404,
-     "bytes": 792795
+     "bytes": 792813
     }
    ],
    "candidates": [
@@ -7716,7 +7722,7 @@
     "greenhouse:tide -> 96 jobs"
    ]
   },
-  "ms": 6425
+  "ms": 5947
  },
  {
   "company": "Titan Company",
@@ -8062,7 +8068,7 @@
     "ashby:titan -> 10 jobs (guess, name-verified)"
    ]
   },
-  "ms": 21823
+  "ms": 1442
  },
  {
   "company": "TransUnion India",
@@ -8150,7 +8156,7 @@
     "workable:transunion -> no board"
    ]
   },
-  "ms": 24699
+  "ms": 25569
  },
  {
   "company": "Trellix India",
@@ -8376,52 +8382,52 @@
     {
      "url": "https://trellix.com/careers",
      "status": 404,
-     "bytes": 81179
+     "bytes": 81182
     },
     {
      "url": "https://trellix.com/career",
      "status": 404,
-     "bytes": 81179
+     "bytes": 81182
     },
     {
      "url": "https://trellix.com/jobs",
      "status": 404,
-     "bytes": 81179
+     "bytes": 81182
     },
     {
      "url": "https://trellix.com/join-us",
      "status": 404,
-     "bytes": 81179
+     "bytes": 81182
     },
     {
      "url": "https://trellix.com/join-our-team",
      "status": 404,
-     "bytes": 81179
+     "bytes": 81182
     },
     {
      "url": "https://trellix.com/careers.html",
      "status": 404,
-     "bytes": 81179
+     "bytes": 81181
     },
     {
      "url": "https://trellix.com/company/careers",
      "status": 404,
-     "bytes": 81179
+     "bytes": 81182
     },
     {
      "url": "https://trellix.com/about/careers",
      "status": 404,
-     "bytes": 81179
+     "bytes": 81181
     },
     {
      "url": "https://trellix.com/current-openings",
      "status": 404,
-     "bytes": 81179
+     "bytes": 81181
     },
     {
      "url": "https://trellix.com/",
      "status": 200,
-     "bytes": 170368
+     "bytes": 170365
     }
    ],
    "candidates": [
@@ -8439,7 +8445,7 @@
     "workable:trellix -> no board"
    ]
   },
-  "ms": 29936
+  "ms": 33208
  },
  {
   "company": "Trendyol India",
@@ -8526,7 +8532,7 @@
     "workable:trendyol -> no board"
    ]
   },
-  "ms": 19629
+  "ms": 23461
  },
  {
   "company": "TresVista",
@@ -8610,12 +8616,12 @@
     {
      "url": "https://tresvista.com/jobs",
      "status": 200,
-     "bytes": 795483
+     "bytes": 795480
     },
     {
      "url": "https://tresvista.com/join-us",
      "status": 404,
-     "bytes": 178343
+     "bytes": 178341
     }
    ],
    "candidates": [
@@ -8633,7 +8639,7 @@
     "workable:tresvista -> no board"
    ]
   },
-  "ms": 19456
+  "ms": 20813
  },
  {
   "company": "Turing",
@@ -9327,7 +9333,7 @@
     {
      "url": "https://turing.com/careers",
      "status": 404,
-     "bytes": 92125
+     "bytes": 92124
     },
     {
      "url": "https://turing.com/career",
@@ -9351,7 +9357,7 @@
     "greenhouse:turing -> 24 jobs (guess, name-verified)"
    ]
   },
-  "ms": 6692
+  "ms": 5818
  },
  {
   "company": "Tata Digital",
@@ -9376,52 +9382,52 @@
     {
      "url": "https://tatadigital.com/careers",
      "status": 200,
-     "bytes": 11841
+     "bytes": 11845
     },
     {
      "url": "https://tatadigital.com/career",
      "status": 200,
-     "bytes": 11841
+     "bytes": 11845
     },
     {
      "url": "https://tatadigital.com/jobs",
      "status": 200,
-     "bytes": 11841
+     "bytes": 11845
     },
     {
      "url": "https://tatadigital.com/join-us",
      "status": 200,
-     "bytes": 11841
+     "bytes": 11845
     },
     {
      "url": "https://tatadigital.com/join-our-team",
      "status": 200,
-     "bytes": 11841
+     "bytes": 11845
     },
     {
      "url": "https://tatadigital.com/careers.html",
      "status": 200,
-     "bytes": 11841
+     "bytes": 11845
     },
     {
      "url": "https://tatadigital.com/company/careers",
      "status": 200,
-     "bytes": 11841
+     "bytes": 11845
     },
     {
      "url": "https://tatadigital.com/about/careers",
      "status": 200,
-     "bytes": 11841
+     "bytes": 11845
     },
     {
      "url": "https://tatadigital.com/current-openings",
      "status": 200,
-     "bytes": 11841
+     "bytes": 11845
     },
     {
      "url": "https://tatadigital.com/",
      "status": 200,
-     "bytes": 339264
+     "bytes": 341230
     }
    ],
    "candidates": [
@@ -9449,7 +9455,7 @@
     "workable:tatadigital -> no board"
    ]
   },
-  "ms": 40789
+  "ms": 43589
  },
  {
   "company": "Tata Technologies",
@@ -9653,7 +9659,7 @@
     {
      "url": "https://www.tatatechnologies.com/career",
      "status": 404,
-     "bytes": 179013
+     "bytes": 179014
     },
     {
      "url": "https://www.tatatechnologies.com/jobs",
@@ -9663,12 +9669,32 @@
     {
      "url": "https://www.tatatechnologies.com/join-us",
      "status": 404,
-     "bytes": 179014
+     "bytes": 179015
     },
     {
      "url": "https://www.tatatechnologies.com/join-our-team",
      "status": 404,
      "bytes": 179021
+    },
+    {
+     "url": "https://www.tatatechnologies.com/careers.html",
+     "status": 404,
+     "bytes": 179020
+    },
+    {
+     "url": "https://www.tatatechnologies.com/company/careers",
+     "status": 200,
+     "bytes": 498831
+    },
+    {
+     "url": "https://www.tatatechnologies.com/about/careers",
+     "status": 200,
+     "bytes": 498831
+    },
+    {
+     "url": "https://www.tatatechnologies.com/current-openings",
+     "status": 404,
+     "bytes": 179024
     }
    ],
    "candidates": [
@@ -9696,7 +9722,7 @@
     "workable:tatatechnologies -> no board"
    ]
   },
-  "ms": 8595
+  "ms": 9292
  },
  {
   "company": "Tata 1mg",
@@ -9865,7 +9891,7 @@
     {
      "url": "https://1mg.com/",
      "status": 200,
-     "bytes": 586813
+     "bytes": 593914
     }
    ],
    "candidates": [
@@ -9885,7 +9911,7 @@
     "workable:tata1mg -> no board"
    ]
   },
-  "ms": 4019
+  "ms": 4306
  },
  {
   "company": "TaskUs India",
@@ -9910,7 +9936,7 @@
     {
      "url": "https://taskus.com/careers",
      "status": 200,
-     "bytes": 316168
+     "bytes": 313779
     },
     {
      "url": "https://taskus.com/career",
@@ -9920,7 +9946,7 @@
     {
      "url": "https://taskus.com/jobs",
      "status": 404,
-     "bytes": 228520
+     "bytes": 228871
     }
    ],
    "candidates": [
@@ -9938,7 +9964,7 @@
     "workable:taskus -> no board"
    ]
   },
-  "ms": 16688
+  "ms": 19282
  },
  {
   "company": "Teleperformance India",
@@ -9963,17 +9989,22 @@
     {
      "url": "https://teleperformance.com/careers",
      "status": 200,
-     "bytes": 442425
+     "bytes": 442451
     },
     {
      "url": "https://teleperformance.com/career",
      "status": 404,
-     "bytes": 396955
+     "bytes": 397118
     },
     {
      "url": "https://teleperformance.com/jobs",
      "status": 404,
-     "bytes": 397144
+     "bytes": 397113
+    },
+    {
+     "url": "https://teleperformance.com/join-us",
+     "status": 404,
+     "bytes": 397128
     }
    ],
    "candidates": [
@@ -9991,7 +10022,7 @@
     "workable:teleperformance -> no board"
    ]
   },
-  "ms": 29240
+  "ms": 31895
  },
  {
   "company": "Temenos India",
@@ -10310,7 +10341,7 @@
     "workday:temenos -> 16 jobs"
    ]
   },
-  "ms": 8367
+  "ms": 10466
  },
  {
   "company": "Tessell",
@@ -10417,7 +10448,7 @@
     {
      "url": "https://tessell.com/careers",
      "status": 200,
-     "bytes": 145198
+     "bytes": 145241
     },
     {
      "url": "https://tessell.com/career",
@@ -10432,12 +10463,7 @@
     {
      "url": "https://tessell.com/join-us",
      "status": 404,
-     "bytes": 54934
-    },
-    {
-     "url": "https://tessell.com/join-our-team",
-     "status": 404,
-     "bytes": 54989
+     "bytes": 55020
     }
    ],
    "candidates": [
@@ -10455,7 +10481,7 @@
     "workable:tessell -> no board"
    ]
   },
-  "ms": 4834
+  "ms": 3661
  },
  {
   "company": "ThoughtWin",
@@ -10627,7 +10653,7 @@
     {
      "url": "https://thoughtwin.com/career",
      "status": 200,
-     "bytes": 68808
+     "bytes": 68819
     },
     {
      "url": "https://thoughtwin.com/jobs",
@@ -10685,7 +10711,7 @@
     "workable:thoughtwin -> no board"
    ]
   },
-  "ms": 9440
+  "ms": 9197
  },
  {
   "company": "Tracxn",
@@ -10774,7 +10800,7 @@
     "workable:tracxn -> no board"
    ]
   },
-  "ms": 15080
+  "ms": 15246
  },
  {
   "company": "Trantor",
@@ -11483,7 +11509,7 @@
     "workable:trantorinc -> no board"
    ]
   },
-  "ms": 34479
+  "ms": 35286
  },
  {
   "company": "Trukker",
@@ -11536,7 +11562,7 @@
     "workable:trukker -> no board"
    ]
   },
-  "ms": 15847
+  "ms": 14155
  },
  {
   "company": "Turtlemint",
@@ -11628,7 +11654,7 @@
     "workable:turtlemint -> no board"
    ]
   },
-  "ms": 12985
+  "ms": 13022
  },
  {
   "company": "Tally Solutions",
@@ -11683,7 +11709,22 @@
     {
      "url": "https://tallysolutions.com/company/careers",
      "status": 200,
-     "bytes": 258412
+     "bytes": 259563
+    },
+    {
+     "url": "https://tallysolutions.com/about/careers",
+     "status": 200,
+     "bytes": 259563
+    },
+    {
+     "url": "https://tallysolutions.com/current-openings",
+     "status": 404,
+     "bytes": 213319
+    },
+    {
+     "url": "https://tallysolutions.com/",
+     "status": 200,
+     "bytes": 296195
     }
    ],
    "candidates": [
@@ -11711,7 +11752,7 @@
     "workable:tallysolutions -> no board"
    ]
   },
-  "ms": 26639
+  "ms": 34448
  },
  {
   "company": "Tanla Platforms",
@@ -11809,7 +11850,7 @@
     "workable:tanla -> no board"
    ]
   },
-  "ms": 15621
+  "ms": 15744
  },
  {
   "company": "Tavant Technologies",
@@ -11970,7 +12011,7 @@
     {
      "url": "https://careers.tavant.com",
      "status": 200,
-     "bytes": 8377
+     "bytes": 8337
     },
     {
      "url": "https://tavant.com/careers",
@@ -11980,7 +12021,7 @@
     {
      "url": "https://tavant.com/career",
      "status": 404,
-     "bytes": 635423
+     "bytes": 635627
     }
    ],
    "candidates": [
@@ -11998,7 +12039,7 @@
     "workable:tavant -> no board"
    ]
   },
-  "ms": 21006
+  "ms": 17002
  },
  {
   "company": "Team Computers",
@@ -12243,7 +12284,7 @@
     "workable:teamcomputers -> no board"
    ]
   },
-  "ms": 5465
+  "ms": 5571
  },
  {
   "company": "TeamLease",
@@ -13010,7 +13051,7 @@
     {
      "url": "https://teamlease.com/careers",
      "status": 500,
-     "bytes": 614323
+     "bytes": 614317
     },
     {
      "url": "https://teamlease.com/career",
@@ -13058,7 +13099,7 @@
     "workable:teamlease -> no board"
    ]
   },
-  "ms": 7077
+  "ms": 9461
  },
  {
   "company": "Techcurve",
@@ -13146,7 +13187,7 @@
     "workable:techcurve -> no board"
    ]
   },
-  "ms": 15015
+  "ms": 13674
  },
  {
   "company": "Techjockey",
@@ -13165,7 +13206,7 @@
     {
      "url": "https://careers.techjockey.com",
      "status": 200,
-     "bytes": 775605
+     "bytes": 775609
     },
     {
      "url": "https://techjockey.com/careers",
@@ -13193,7 +13234,7 @@
     "workable:techjockey -> no board"
    ]
   },
-  "ms": 13316
+  "ms": 12235
  },
  {
   "company": "Technoidentity",
@@ -13554,59 +13595,13 @@
     },
     {
      "url": "https://technoidentity.com/career",
-     "status": 0,
-     "bytes": 0,
-     "error": "fetch failed"
+     "status": 200,
+     "bytes": 156604
     },
     {
      "url": "https://technoidentity.com/jobs",
      "status": 200,
      "bytes": 217233
-    },
-    {
-     "url": "https://technoidentity.com/join-us",
-     "status": 200,
-     "bytes": 184953
-    },
-    {
-     "url": "https://technoidentity.com/join-our-team",
-     "status": 200,
-     "bytes": 184953
-    },
-    {
-     "url": "https://technoidentity.com/careers.html",
-     "status": 200,
-     "bytes": 184953
-    },
-    {
-     "url": "https://technoidentity.com/company/careers",
-     "status": 200,
-     "bytes": 184953
-    },
-    {
-     "url": "https://technoidentity.com/about/careers",
-     "status": 200,
-     "bytes": 184953
-    },
-    {
-     "url": "https://technoidentity.com/current-openings",
-     "status": 200,
-     "bytes": 184953
-    },
-    {
-     "url": "https://technoidentity.com/",
-     "status": 200,
-     "bytes": 184953
-    },
-    {
-     "url": "https://www.technoidentity.com/career/",
-     "status": 200,
-     "bytes": 156604
-    },
-    {
-     "url": "https://www.technoidentity.com/insights/what-cron-jobs-reveal-about-your-architecture/",
-     "status": 200,
-     "bytes": 167701
     }
    ],
    "candidates": [
@@ -13624,7 +13619,7 @@
     "workable:technoidentity -> no board"
    ]
   },
-  "ms": 33050
+  "ms": 23346
  },
  {
   "company": "Techolution",
@@ -13712,7 +13707,7 @@
     "workable:techolution -> no board"
    ]
   },
-  "ms": 9207
+  "ms": 10215
  },
  {
   "company": "Tekwissen",
@@ -13800,7 +13795,7 @@
     "workable:tekwissen -> no board"
    ]
   },
-  "ms": 26969
+  "ms": 31056
  },
  {
   "company": "Terralogic",
@@ -14051,7 +14046,7 @@
     "workable:terralogic -> no board"
    ]
   },
-  "ms": 12461
+  "ms": 13794
  },
  {
   "company": "Tessolve",
@@ -14239,7 +14234,7 @@
     {
      "url": "https://www.tessolve.com/careers/",
      "status": 200,
-     "bytes": 599214
+     "bytes": 598124
     },
     {
      "url": "https://careers.www.tessolve.com",
@@ -14250,12 +14245,12 @@
     {
      "url": "https://www.tessolve.com/careers",
      "status": 200,
-     "bytes": 599214
+     "bytes": 598124
     },
     {
      "url": "https://www.tessolve.com/career",
      "status": 200,
-     "bytes": 599214
+     "bytes": 598124
     },
     {
      "url": "https://www.tessolve.com/jobs",
@@ -14285,7 +14280,7 @@
     "workable:tessolve -> no board"
    ]
   },
-  "ms": 23326
+  "ms": 24153
  },
  {
   "company": "Thales India",
@@ -14451,27 +14446,12 @@
     {
      "url": "https://thalesgroup.com/company/careers",
      "status": 200,
-     "bytes": 212
+     "bytes": 1159
     },
     {
      "url": "https://thalesgroup.com/about/careers",
      "status": 200,
-     "bytes": 212
-    },
-    {
-     "url": "https://thalesgroup.com/current-openings",
-     "status": 200,
-     "bytes": 1159
-    },
-    {
-     "url": "https://thalesgroup.com/",
-     "status": 200,
-     "bytes": 1159
-    },
-    {
-     "url": "https://careers.thalesgroup.com/global/en/cookiesettings",
-     "status": 200,
-     "bytes": 90795
+     "bytes": 1151
     }
    ],
    "candidates": [
@@ -14501,7 +14481,7 @@
     "workable:thalesgroup -> no board"
    ]
   },
-  "ms": 25046
+  "ms": 27077
  },
  {
   "company": "The Hive",
@@ -16219,7 +16199,7 @@
     "lever:hive -> 76 jobs"
    ]
   },
-  "ms": 5774
+  "ms": 5614
  },
  {
   "company": "Thinkitive",
@@ -16695,7 +16675,7 @@
     "workable:thinkitive -> no board"
    ]
   },
-  "ms": 10278
+  "ms": 10305
  },
  {
   "company": "ThinkSys",
@@ -16807,7 +16787,7 @@
     {
      "url": "https://thinksys.com/career",
      "status": 200,
-     "bytes": 57121
+     "bytes": 57550
     },
     {
      "url": "https://thinksys.com/jobs",
@@ -16818,11 +16798,6 @@
      "url": "https://thinksys.com/join-us",
      "status": 200,
      "bytes": 57123
-    },
-    {
-     "url": "https://thinksys.com/join-our-team",
-     "status": 200,
-     "bytes": 57135
     }
    ],
    "candidates": [
@@ -16840,7 +16815,7 @@
     "workable:thinksys -> no board"
    ]
   },
-  "ms": 7562
+  "ms": 7002
  },
  {
   "company": "Third Wave Coffee",
@@ -16933,7 +16908,7 @@
     "workable:thirdwavecoffee -> no board"
    ]
   },
-  "ms": 11346
+  "ms": 11882
  },
  {
   "company": "Thoughtcoders",
@@ -17363,7 +17338,7 @@
     "workable:thoughtcoders -> no board"
    ]
   },
-  "ms": 9739
+  "ms": 9551
  },
  {
   "company": "ThreatModeler India",
@@ -17499,7 +17474,7 @@
     "workable:threatmodeler -> no board"
    ]
   },
-  "ms": 10864
+  "ms": 10802
  },
  {
   "company": "Thryve Digital",
@@ -17605,7 +17580,7 @@
     "workable:goengen -> no board"
    ]
   },
-  "ms": 21376
+  "ms": 22385
  },
  {
   "company": "Tiger Global India",
@@ -17678,7 +17653,7 @@
     "workable:tigerglobal -> no board"
    ]
   },
-  "ms": 13085
+  "ms": 12397
  },
  {
   "company": "Times Internet",
@@ -17815,7 +17790,7 @@
     "workable:timesinternet -> no board"
    ]
   },
-  "ms": 3066
+  "ms": 4068
  },
  {
   "company": "TO THE NEW",
@@ -18426,7 +18401,7 @@
     "workable:tothenew -> no board"
    ]
   },
-  "ms": 5403
+  "ms": 4904
  },
  {
   "company": "Toddle",
@@ -19000,7 +18975,7 @@
     "keka:toddle -> 25 jobs"
    ]
   },
-  "ms": 7209
+  "ms": 7478
  },
  {
   "company": "Torry Harris",
@@ -19266,7 +19241,7 @@
     {
      "url": "https://careers.torryharris.com",
      "status": 200,
-     "bytes": 40081
+     "bytes": 40040
     },
     {
      "url": "https://torryharris.com/careers",
@@ -19299,7 +19274,7 @@
     "workable:torryharris -> no board"
    ]
   },
-  "ms": 17936
+  "ms": 17004
  },
  {
   "company": "Toshiba India",
@@ -19486,7 +19461,7 @@
     "jazzhr:taec -> 3 jobs"
    ]
   },
-  "ms": 8892
+  "ms": 10523
  },
  {
   "company": "Travelopia India",
@@ -19553,7 +19528,7 @@
     "workable:travelopia -> no board"
    ]
   },
-  "ms": 6793
+  "ms": 9241
  },
  {
   "company": "Trigent Software",
@@ -19641,7 +19616,7 @@
     "workable:trigent -> no board"
    ]
   },
-  "ms": 61403
+  "ms": 67030
  },
  {
   "company": "Trinity Mobility",
@@ -19735,7 +19710,7 @@
     "workable:trinitymobility -> no board"
    ]
   },
-  "ms": 2344
+  "ms": 2957
  },
  {
   "company": "Triveni Turbine",
@@ -20007,7 +19982,7 @@
     "workable:triveniturbines -> no board"
    ]
   },
-  "ms": 8179
+  "ms": 8284
  },
  {
   "company": "TrueFoundry",
@@ -20586,7 +20561,7 @@
     "greenhouse:truefoundry -> 23 jobs (guess, name-verified)"
    ]
   },
-  "ms": 6274
+  "ms": 6042
  },
  {
   "company": "Trusting Social India",
@@ -20846,7 +20821,7 @@
     "workable:trustingsocial -> no board"
    ]
   },
-  "ms": 6316
+  "ms": 5272
  },
  {
   "company": "Twixor",
@@ -20939,7 +20914,7 @@
     "workable:twixor -> no board"
    ]
   },
-  "ms": 46560
+  "ms": 44528
  },
  {
   "company": "Tyfone",
@@ -21225,7 +21200,7 @@
     "workable:tyfone -> no board"
    ]
   },
-  "ms": 17667
+  "ms": 17320
  },
  {
   "company": "Tata Communications",
@@ -21295,7 +21270,7 @@
     {
      "url": "https://tatacommunications.com/",
      "status": 200,
-     "bytes": 1492135
+     "bytes": 1511749
     }
    ],
    "candidates": [
@@ -21313,14 +21288,14 @@
     "workable:tatacommunications -> no board"
    ]
   },
-  "ms": 54531
+  "ms": 41486
  },
  {
   "company": "Tata Consumer Products",
   "country": "India",
   "source": "successfactors:careers.tataconsumer.com",
   "error": null,
-  "totalJobs": 38,
+  "totalJobs": 36,
   "jobs": [
    {
     "title": "Operations Trainee",
@@ -21519,26 +21494,6 @@
     "score": 27
    },
    {
-    "title": "Territory Sales Executive - Pune",
-    "location": "IN",
-    "url": "https://careers.tataconsumer.com/job/Territory-Sales-Executive-Pune/1423842033/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [
-     [
-      4,
-      6
-     ]
-    ],
-    "expFits2": false,
-    "score": 27
-   },
-   {
     "title": "Senior Territory Sales Executive - Patna Upcountry",
     "location": "IN",
     "url": "https://careers.tataconsumer.com/job/Senior-Territory-Sales-Executive-Patna-Upcountry/1424205533/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
@@ -21596,21 +21551,6 @@
     "title": "Area Sales Executive - Surat",
     "location": "IN",
     "url": "https://careers.tataconsumer.com/job/Area-Sales-Executive-Surat/1424204733/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 19
-   },
-   {
-    "title": "Area Sales Executive - Delhi",
-    "location": "IN",
-    "url": "https://careers.tataconsumer.com/job/Area-Sales-Executive-Delhi/1423844733/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
     "india": true,
     "locationSaysIndia": false,
     "hasLocation": true,
@@ -21707,24 +21647,28 @@
     "score": 12
    },
    {
-    "title": "Territory Sales Executive - Goa",
+    "title": "Manager - Quality Assurance (OI)",
     "location": "IN",
-    "url": "https://careers.tataconsumer.com/job/Territory-Sales-Executive-Goa/1423248533/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+    "url": "https://careers.tataconsumer.com/job/Manager-Quality-Assurance-%28OI%29/1413719433/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
     "isEng": false,
     "java": false,
     "flutter": false,
-    "senior": false,
+    "senior": true,
     "exp": [
      [
-      4,
-      6
+      8,
+      10
+     ],
+     [
+      2,
+      3
      ]
     ],
-    "expFits2": false,
-    "score": 12
+    "expFits2": true,
+    "score": 8
    },
    {
     "title": "Senior Territory Sales Executive - Azamgarh",
@@ -21767,67 +21711,9 @@
     "score": 5
    },
    {
-    "title": "Senior Manager - Revenue Growth Management",
-    "location": "IN",
-    "url": "https://careers.tataconsumer.com/job/Senior-Manager-Revenue-Growth-Management/1412105733/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": true,
-    "exp": [
-     [
-      6,
-      8
-     ],
-     [
-      8,
-      9
-     ],
-     [
-      4,
-      5
-     ]
-    ],
-    "expFits2": false,
-    "score": 5
-   },
-   {
-    "title": "Learning & Development Specialist",
-    "location": "Eaglescliffe, GB",
-    "url": "https://careers.tataconsumer.com/job/Eaglescliffe-Learning-&-Development-Specialist/1418145633/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 4
-   },
-   {
     "title": "Territory Sales Executive - Varanasi, RTD",
     "location": "IN",
     "url": "https://careers.tataconsumer.com/job/Territory-Sales-Executive-Varanasi%2C-RTD/1413078733/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 4
-   },
-   {
-    "title": "Territory Sales Executive - Kota",
-    "location": "IN",
-    "url": "https://careers.tataconsumer.com/job/Territory-Sales-Executive-Kota/1424163633/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
@@ -21868,6 +21754,36 @@
     "exp": [],
     "expFits2": false,
     "score": 4
+   },
+   {
+    "title": "Territory Sales Manager - Metro - Delhi",
+    "location": "IN",
+    "url": "https://careers.tataconsumer.com/job/Territory-Sales-Manager-Metro-Delhi/1413715933/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+    "india": true,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [],
+    "expFits2": false,
+    "score": -3
+   },
+   {
+    "title": "Territory Sales Manager - Metro - Delhi",
+    "location": "IN",
+    "url": "https://careers.tataconsumer.com/job/Territory-Sales-Manager-Metro-Delhi/1413715033/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+    "india": true,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [],
+    "expFits2": false,
+    "score": -3
    },
    {
     "title": "General Manager - Modern Trade - National/Regional Accounts",
@@ -21915,6 +21831,30 @@
     "score": -3
    },
    {
+    "title": "General Manager - Digital, Sales Platforms & Intelligent Agents",
+    "location": "IN",
+    "url": "https://careers.tataconsumer.com/job/General-Manager-Digital%2C-Sales-Platforms-&-Intelligent-Agents/1413585533/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+    "india": true,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [
+     [
+      10,
+      18
+     ],
+     [
+      18,
+      19
+     ]
+    ],
+    "expFits2": false,
+    "score": -7
+   },
+   {
     "title": "Senior Manager - PM Procurement, Beverages",
     "location": "IN",
     "url": "https://careers.tataconsumer.com/job/Senior-Manager-PM-Procurement%2C-Beverages/1424220333/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
@@ -21929,30 +21869,6 @@
      [
       8,
       12
-     ]
-    ],
-    "expFits2": false,
-    "score": -7
-   },
-   {
-    "title": "Senior Manager - Consumer Insights, Packaged Beverages",
-    "location": "IN",
-    "url": "https://careers.tataconsumer.com/job/Senior-Manager-Consumer-Insights%2C-Packaged-Beverages/1390447033/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": true,
-    "exp": [
-     [
-      5,
-      8
-     ],
-     [
-      8,
-      9
      ]
     ],
     "expFits2": false,
@@ -21983,9 +21899,9 @@
     "score": -7
    },
    {
-    "title": "General Manager - Digital, Sales Platforms & Intelligent Agents",
+    "title": "Senior Manager - Consumer Insights, Packaged Beverages",
     "location": "IN",
-    "url": "https://careers.tataconsumer.com/job/General-Manager-Digital%2C-Sales-Platforms-&-Intelligent-Agents/1413585533/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+    "url": "https://careers.tataconsumer.com/job/Senior-Manager-Consumer-Insights%2C-Packaged-Beverages/1390447033/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
     "india": true,
     "locationSaysIndia": false,
     "hasLocation": true,
@@ -21995,12 +21911,12 @@
     "senior": true,
     "exp": [
      [
-      10,
-      18
+      5,
+      8
      ],
      [
-      18,
-      19
+      8,
+      9
      ]
     ],
     "expFits2": false,
@@ -22027,6 +21943,21 @@
     "score": -7
    },
    {
+    "title": "Business Manager",
+    "location": "Greenford, GB",
+    "url": "https://careers.tataconsumer.com/job/Greenford-Business-Manager/1413348633/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [],
+    "expFits2": false,
+    "score": -18
+   },
+   {
     "title": "Business Manager - Foodservice",
     "location": "Greenford, GB",
     "url": "https://careers.tataconsumer.com/job/Greenford-Business-Manager-Foodservice/1413270133/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
@@ -22042,9 +21973,9 @@
     "score": -18
    },
    {
-    "title": "Business Manager",
-    "location": "Greenford, GB",
-    "url": "https://careers.tataconsumer.com/job/Greenford-Business-Manager/1413348633/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+    "title": "Area Sales Manager",
+    "location": "IN",
+    "url": "https://careers.tataconsumer.com/job/Area-Sales-Manager/1413717633/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
@@ -22052,9 +21983,14 @@
     "java": false,
     "flutter": false,
     "senior": true,
-    "exp": [],
+    "exp": [
+     [
+      8,
+      12
+     ]
+    ],
     "expFits2": false,
-    "score": -18
+    "score": -22
    }
   ],
   "enriched": 0,
@@ -22108,17 +22044,17 @@
     {
      "url": "https://tataconsumer.com/jobs",
      "status": 404,
-     "bytes": 134554
+     "bytes": 134555
     },
     {
      "url": "https://tataconsumer.com/join-us",
      "status": 404,
-     "bytes": 134561
+     "bytes": 134562
     },
     {
      "url": "https://tataconsumer.com/join-our-team",
      "status": 404,
-     "bytes": 134573
+     "bytes": 134572
     }
    ],
    "candidates": [
@@ -22135,10 +22071,10 @@
     "workable:tataconsumer(guess)"
    ],
    "attempts": [
-    "successfactors:careers.tataconsumer.com -> 38 jobs"
+    "successfactors:careers.tataconsumer.com -> 36 jobs"
    ]
   },
-  "ms": 21653
+  "ms": 20740
  },
  {
   "company": "Tata Capital",
@@ -22273,7 +22209,7 @@
     "workable:tatacapital -> no board"
    ]
   },
-  "ms": 5391
+  "ms": 4867
  },
  {
   "company": "Tata AIG General Insurance",
@@ -22803,7 +22739,7 @@
     {
      "url": "https://careers.tataaig.com",
      "status": 200,
-     "bytes": 162289
+     "bytes": 162287
     },
     {
      "url": "https://tataaig.com/careers",
@@ -22813,17 +22749,17 @@
     {
      "url": "https://tataaig.com/career",
      "status": 404,
-     "bytes": 27245
+     "bytes": 27246
     },
     {
      "url": "https://tataaig.com/jobs",
      "status": 404,
-     "bytes": 27245
+     "bytes": 27247
     },
     {
      "url": "https://tataaig.com/join-us",
      "status": 404,
-     "bytes": 27247
+     "bytes": 27246
     },
     {
      "url": "https://tataaig.com/join-our-team",
@@ -22833,17 +22769,17 @@
     {
      "url": "https://tataaig.com/careers.html",
      "status": 404,
-     "bytes": 27244
+     "bytes": 27245
     },
     {
      "url": "https://tataaig.com/company/careers",
      "status": 404,
-     "bytes": 27245
+     "bytes": 27244
     },
     {
      "url": "https://tataaig.com/about/careers",
      "status": 404,
-     "bytes": 27248
+     "bytes": 27247
     },
     {
      "url": "https://tataaig.com/current-openings",
@@ -22873,7 +22809,7 @@
     "successfactors:careers.tataaig.com -> 23 jobs"
    ]
   },
-  "ms": 5188
+  "ms": 7027
  },
  {
   "company": "Tata AIA Life Insurance",
@@ -23020,7 +22956,7 @@
     "workable:tataaia -> no board"
    ]
   },
-  "ms": 6330
+  "ms": 7200
  },
  {
   "company": "Tata Play",
@@ -23108,7 +23044,7 @@
     "workable:tataplay -> no board"
    ]
   },
-  "ms": 6976
+  "ms": 3955
  },
  {
   "company": "Tata Motors",
@@ -23127,7 +23063,7 @@
     {
      "url": "https://careers.tatamotors.com",
      "status": 200,
-     "bytes": 27485
+     "bytes": 27484
     },
     {
      "url": "https://tatamotors.com/careers",
@@ -23195,7 +23131,7 @@
     "workable:tatamotors -> no board"
    ]
   },
-  "ms": 35411
+  "ms": 32105
  },
  {
   "company": "Tata Steel",
@@ -23367,643 +23303,27 @@
     "workable:tatasteel -> no board"
    ]
   },
-  "ms": 5249
+  "ms": 4463
  },
  {
   "company": "Tata Electronics",
   "country": "India",
-  "source": "successfactors:careers.tataelectronics.com",
-  "error": null,
-  "totalJobs": 26,
-  "jobs": [
-   {
-    "title": "Equipment Engineer",
-    "location": "Vemagal, KA, IN",
-    "url": "https://careers.tataelectronics.com/job/Vemagal-Equipment-Engineer-KA/58575144/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": true,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [
-     [
-      3,
-      5
-     ],
-     [
-      5,
-      6
-     ]
-    ],
-    "expFits2": false,
-    "score": 57
-   },
-   {
-    "title": "Equipment Engineer",
-    "location": "Vemagal, KA, IN",
-    "url": "https://careers.tataelectronics.com/job/Vemagal-Equipment-Engineer-KA/58575244/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": true,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [
-     [
-      3,
-      5
-     ],
-     [
-      5,
-      6
-     ]
-    ],
-    "expFits2": false,
-    "score": 57
-   },
-   {
-    "title": "Equipment Engineer",
-    "location": "Vemagal, KA, IN",
-    "url": "https://careers.tataelectronics.com/job/Vemagal-Equipment-Engineer-KA/57557244/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": true,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [
-     [
-      3,
-      5
-     ],
-     [
-      5,
-      6
-     ]
-    ],
-    "expFits2": false,
-    "score": 57
-   },
-   {
-    "title": "Test Prober Engineer",
-    "location": "Jagiroad, AS, IN",
-    "url": "https://careers.tataelectronics.com/job/Jagiroad-Test%C2%A0Prober%C2%A0Engineer-AS/57735044/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": true,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [
-     [
-      6,
-      8
-     ],
-     [
-      8,
-      9
-     ]
-    ],
-    "expFits2": false,
-    "score": 45
-   },
-   {
-    "title": "Manufacturing System Engineer",
-    "location": "Jagiroad, AS, IN",
-    "url": "https://careers.tataelectronics.com/job/Jagiroad-Manufacturing-System-Engineer-AS/57704344/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": true,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [
-     [
-      5,
-      10
-     ],
-     [
-      10,
-      14
-     ]
-    ],
-    "expFits2": false,
-    "score": 45
-   },
-   {
-    "title": "IPQC Engineer",
-    "location": "Vemagal, KA, IN",
-    "url": "https://careers.tataelectronics.com/job/Vemagal-IPQC-Engineer-KA/58616944/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": true,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [
-     [
-      5,
-      9
-     ],
-     [
-      5,
-      6
-     ]
-    ],
-    "expFits2": false,
-    "score": 45
-   },
-   {
-    "title": "IPQC Engineer",
-    "location": "Vemagal, KA, IN",
-    "url": "https://careers.tataelectronics.com/job/Vemagal-IPQC-Engineer-KA/58617044/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": true,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [
-     [
-      5,
-      9
-     ],
-     [
-      5,
-      6
-     ]
-    ],
-    "expFits2": false,
-    "score": 45
-   },
-   {
-    "title": "Test Development Engineer",
-    "location": "Jagiroad, AS, IN",
-    "url": "https://careers.tataelectronics.com/job/Jagiroad-Test-Development-Engineer-AS/54280144/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": true,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [
-     [
-      7,
-      10
-     ]
-    ],
-    "expFits2": false,
-    "score": 45
-   },
-   {
-    "title": "Process Engineer",
-    "location": "Jagiroad, AS, IN",
-    "url": "https://careers.tataelectronics.com/job/Jagiroad-Process-Engineer-AS/56804544/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": true,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [
-     [
-      8,
-      12
-     ]
-    ],
-    "expFits2": false,
-    "score": 30
-   },
-   {
-    "title": "QAQC Engineer - Structural",
-    "location": "Dholera, GJ, IN",
-    "url": "https://careers.tataelectronics.com/job/Dholera-QAQC-Engineer-Structural-GJ/57727844/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": true,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [
-     [
-      10,
-      14
-     ]
-    ],
-    "expFits2": false,
-    "score": 30
-   },
-   {
-    "title": "Wet Etch Process Engineer",
-    "location": "Dholera, GJ, IN",
-    "url": "https://careers.tataelectronics.com/job/Dholera-Wet-Etch-Process-Engineer-GJ/57700444/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": true,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [
-     [
-      5,
-      9
-     ]
-    ],
-    "expFits2": false,
-    "score": 30
-   },
-   {
-    "title": "Equipment Technician",
-    "location": "Jagiroad, AS, IN",
-    "url": "https://careers.tataelectronics.com/job/Jagiroad-Equipment-Technician-AS/56700644/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [
-     [
-      2,
-      6
-     ],
-     [
-      2,
-      3
-     ]
-    ],
-    "expFits2": true,
-    "score": 30
-   },
-   {
-    "title": "SMT Equipment Engineer",
-    "location": "Jagiroad, AS, IN",
-    "url": "https://careers.tataelectronics.com/job/Jagiroad-SMT-Equipment-Engineer-AS/58507444/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": true,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [
-     [
-      5,
-      9
-     ],
-     [
-      5,
-      6
-     ]
-    ],
-    "expFits2": false,
-    "score": 30
-   },
-   {
-    "title": "TLA Equipment Technician",
-    "location": "Jagiroad, AS, IN",
-    "url": "https://careers.tataelectronics.com/job/Jagiroad-TLA-Equipment-Technician-AS/55450944/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [
-     [
-      3,
-      6
-     ],
-     [
-      6,
-      7
-     ]
-    ],
-    "expFits2": false,
-    "score": 27
-   },
-   {
-    "title": "Equipment Technician",
-    "location": "Vemagal, KA, IN",
-    "url": "https://careers.tataelectronics.com/job/Vemagal-Equipment-Technician-KA/58574944/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [
-     [
-      3,
-      7
-     ],
-     [
-      3,
-      4
-     ]
-    ],
-    "expFits2": false,
-    "score": 27
-   },
-   {
-    "title": "Equipment Technician",
-    "location": "Vemagal, KA, IN",
-    "url": "https://careers.tataelectronics.com/job/Vemagal-Equipment-Technician-KA/58575044/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [
-     [
-      3,
-      7
-     ],
-     [
-      3,
-      4
-     ]
-    ],
-    "expFits2": false,
-    "score": 27
-   },
-   {
-    "title": "Equipment Technician",
-    "location": "Vemagal, KA, IN",
-    "url": "https://careers.tataelectronics.com/job/Vemagal-Equipment-Technician-KA/58574844/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [
-     [
-      3,
-      7
-     ],
-     [
-      3,
-      4
-     ]
-    ],
-    "expFits2": false,
-    "score": 27
-   },
-   {
-    "title": "Equipment Technician",
-    "location": "Vemagal, KA, IN",
-    "url": "https://careers.tataelectronics.com/job/Vemagal-Equipment-Technician-KA/58574544/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [
-     [
-      3,
-      7
-     ],
-     [
-      3,
-      4
-     ]
-    ],
-    "expFits2": false,
-    "score": 27
-   },
-   {
-    "title": "No jobs currently available - Check out our other opportunities.",
-    "location": "",
-    "url": "https://careers.tataelectronics.com",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 19
-   },
-   {
-    "title": "Technical Manager_PDK, Design Enablement & Design Services",
-    "location": "Ahmedabad, GJ, IN",
-    "url": "https://careers.tataelectronics.com/job/Ahmedabad-Technical-Manager_PDK%2C-Design-Enablement-&-Design-Services-GJ/57733544/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-    "india": true,
-    "locationSaysIndia": true,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 19
-   },
-   {
-    "title": "Section Manager_PDK, Design Enablement & Design Services",
-    "location": "Ahmedabad, GJ, IN",
-    "url": "https://careers.tataelectronics.com/job/Ahmedabad-Section-Manager_PDK%2C-Design-Enablement-&-Design-Services-GJ/57732544/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-    "india": true,
-    "locationSaysIndia": true,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [
-     [
-      8,
-      12
-     ]
-    ],
-    "expFits2": false,
-    "score": 15
-   },
-   {
-    "title": "Principal Engineer_Quality, Reliability & Assurance",
-    "location": "Ahmedabad, GJ, IN",
-    "url": "https://careers.tataelectronics.com/job/Ahmedabad-Principal-Engineer_Quality%2C-Reliability-&-Assurance-GJ/57716144/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-    "india": true,
-    "locationSaysIndia": true,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": true,
-    "exp": [
-     [
-      4,
-      10
-     ],
-     [
-      10,
-      11
-     ]
-    ],
-    "expFits2": false,
-    "score": 5
-   },
-   {
-    "title": "IC Test Process/ Test Cell Development Manager",
-    "location": "Vemagal, KA, IN",
-    "url": "https://careers.tataelectronics.com/job/Vemagal-IC-Test-Process-Test-Cell-Development-Manager-KA/55312144/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": true,
-    "exp": [
-     [
-      8,
-      12
-     ],
-     [
-      4,
-      8
-     ]
-    ],
-    "expFits2": false,
-    "score": 5
-   },
-   {
-    "title": "Flip Chip Technician",
-    "location": "Jagiroad, AS, IN",
-    "url": "https://careers.tataelectronics.com/job/Jagiroad-Flip-Chip-Technician-AS/54624144/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 4
-   },
-   {
-    "title": "Associate Program Manager",
-    "location": "Vemagal, KA, IN",
-    "url": "https://careers.tataelectronics.com/job/Vemagal-Associate-Program-Manager-KA/58505544/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": true,
-    "exp": [
-     [
-      5,
-      6
-     ]
-    ],
-    "expFits2": false,
-    "score": -10
-   },
-   {
-    "title": "Assistant Manager",
-    "location": "Uddanapalli, TN, IN",
-    "url": "https://careers.tataelectronics.com/job/Uddanapalli-Assistant%C2%A0-Manager-TN/57646744/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": true,
-    "exp": [],
-    "expFits2": false,
-    "score": -18
-   }
-  ],
+  "source": null,
+  "error": "no-job-data-found",
+  "totalJobs": 0,
+  "jobs": [],
   "enriched": 0,
   "matches": [],
   "nearMatches": [],
-  "closest": {
-   "title": "Equipment Engineer",
-   "location": "Vemagal, KA, IN",
-   "url": "https://careers.tataelectronics.com/job/Vemagal-Equipment-Engineer-KA/58575144/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-   "team": "",
-   "text": "About The Business: Tata Electronics Private Limited (TEPL) is a greenfield venture of the Tata Group with expertise in manufacturing precision components. Tata Electronics (a wholly owned subsidiary of Tata Sons Pvt. Ltd.) is building India’s first AI-enabled state-of-the-art Semiconductor Foundry. This facility will produce chips for applications such as power management IC, display drivers, microcontrollers (MCU) and high-performance computing logic, addressing the growing demand in markets such as automotive, computing and data storage, wireless communications and artificial intelligence. Tata Electronics is a subsidiary of the Tata group. The Tata Group operates in more than 100 countries across six continents, with the mission 'To improve the quality of life of the communities we serve globally, through long term stakeholder value creation based on leadership with Trust.’ Job Responsibilites: Machines Handled SPI,Fuji, GKG Printer, Reflow, and AOI. SMT Machine maintenance / Troubleshooting / Calibration. Skill knowledge in line Installation, Alignment and bring up activities. Skill in FUJI Mounter programming / Cycle time reduction. Skill in Breakdown analysis / Troubleshooting & Repair. Machine Tossing control and spare part management. New product development, CPK, GRR, Machine Installation. Coordinate daily SMT floor activities and assignments to SMT personnel. Monitor employee work performance relative to expectations and maintain material/workflow through the facility daily. Ensure all stations are producing product that meets the company s quality standards. Evaluate and modify the manufacturing material workflow for increased throughput and productivity if required. Develop, motivate and challenge all team members to perform to their full potential, timely feedback in formal and informal media With the line Engineers/Managers and supervisors, develop and maintain work schedules that support 100% on-time delivery to main lines. Work with the line managers, supervisors and direct employees on a daily basis to improve quality levels (Goal: Zero Defect product). Ensure that all manufacturing area personnel are thoroughly trained and certified in their specific functions. Provide meaningful training, guidance and nurturing to the supervisory staff Maintain a safe and clean work environment by educating and directing personnel. Ensure equipment and tools are in good working condition and available for use when required. Education: In related field. 3-5 years of experience in SMT.",
-   "score": 57,
-   "isMatch": false,
-   "isEng": true,
-   "java": false,
-   "flutter": false,
-   "android": false,
-   "india": true,
-   "senior": false,
-   "junior": false,
-   "exp": [
-    [
-     3,
-     5
-    ],
-    [
-     5,
-     6
-    ]
-   ],
-   "expFits2": false
-  },
-  "closestEng": {
-   "title": "Equipment Engineer",
-   "location": "Vemagal, KA, IN",
-   "url": "https://careers.tataelectronics.com/job/Vemagal-Equipment-Engineer-KA/58575144/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-   "team": "",
-   "text": "About The Business: Tata Electronics Private Limited (TEPL) is a greenfield venture of the Tata Group with expertise in manufacturing precision components. Tata Electronics (a wholly owned subsidiary of Tata Sons Pvt. Ltd.) is building India’s first AI-enabled state-of-the-art Semiconductor Foundry. This facility will produce chips for applications such as power management IC, display drivers, microcontrollers (MCU) and high-performance computing logic, addressing the growing demand in markets such as automotive, computing and data storage, wireless communications and artificial intelligence. Tata Electronics is a subsidiary of the Tata group. The Tata Group operates in more than 100 countries across six continents, with the mission 'To improve the quality of life of the communities we serve globally, through long term stakeholder value creation based on leadership with Trust.’ Job Responsibilites: Machines Handled SPI,Fuji, GKG Printer, Reflow, and AOI. SMT Machine maintenance / Troubleshooting / Calibration. Skill knowledge in line Installation, Alignment and bring up activities. Skill in FUJI Mounter programming / Cycle time reduction. Skill in Breakdown analysis / Troubleshooting & Repair. Machine Tossing control and spare part management. New product development, CPK, GRR, Machine Installation. Coordinate daily SMT floor activities and assignments to SMT personnel. Monitor employee work performance relative to expectations and maintain material/workflow through the facility daily. Ensure all stations are producing product that meets the company s quality standards. Evaluate and modify the manufacturing material workflow for increased throughput and productivity if required. Develop, motivate and challenge all team members to perform to their full potential, timely feedback in formal and informal media With the line Engineers/Managers and supervisors, develop and maintain work schedules that support 100% on-time delivery to main lines. Work with the line managers, supervisors and direct employees on a daily basis to improve quality levels (Goal: Zero Defect product). Ensure that all manufacturing area personnel are thoroughly trained and certified in their specific functions. Provide meaningful training, guidance and nurturing to the supervisory staff Maintain a safe and clean work environment by educating and directing personnel. Ensure equipment and tools are in good working condition and available for use when required. Education: In related field. 3-5 years of experience in SMT.",
-   "score": 57,
-   "isMatch": false,
-   "isEng": true,
-   "java": false,
-   "flutter": false,
-   "android": false,
-   "india": true,
-   "senior": false,
-   "junior": false,
-   "exp": [
-    [
-     3,
-     5
-    ],
-    [
-     5,
-     6
-    ]
-   ],
-   "expFits2": false
-  },
+  "closest": null,
+  "closestEng": null,
   "trace": {
    "pages": [
     {
      "url": "https://careers.tataelectronics.com",
-     "status": 200,
-     "bytes": 114084
+     "status": 0,
+     "bytes": 0,
+     "error": "fetch failed"
     },
     {
      "url": "https://tataelectronics.com/careers",
@@ -24014,10 +23334,14 @@
      "url": "https://tataelectronics.com/career",
      "status": 404,
      "bytes": 138031
+    },
+    {
+     "url": "https://tataelectronics.com/jobs",
+     "status": 404,
+     "bytes": 137993
     }
    ],
    "candidates": [
-    "successfactors:https://careers.tataelectronics.com(html)",
     "successfactors:https://www.tataelectronics.com(html)",
     "greenhouse:tataelectronics(guess)",
     "lever:tataelectronics(guess)",
@@ -24026,10 +23350,15 @@
     "workable:tataelectronics(guess)"
    ],
    "attempts": [
-    "successfactors:careers.tataelectronics.com -> 26 jobs"
+    "successfactors:https://www.tataelectronics.com -> no board",
+    "greenhouse:tataelectronics -> no board",
+    "lever:tataelectronics -> no board",
+    "ashby:tataelectronics -> no board",
+    "recruitee:tataelectronics -> no board",
+    "workable:tataelectronics -> no board"
    ]
   },
-  "ms": 2649
+  "ms": 9387
  },
  {
   "company": "Tata Power",
@@ -24131,7 +23460,7 @@
     {
      "url": "https://tatapower.com/",
      "status": 200,
-     "bytes": 320109
+     "bytes": 320432
     }
    ],
    "candidates": [
@@ -24146,7 +23475,7 @@
     "successfactors:careers.tatapower.com -> 1 jobs"
    ]
   },
-  "ms": 2916
+  "ms": 3387
  },
  {
   "company": "Tata AutoComp Systems",
@@ -24508,7 +23837,7 @@
     "successfactors:careers.tataautocomp.com -> 13 jobs"
    ]
   },
-  "ms": 2478
+  "ms": 2325
  },
  {
   "company": "Tata Advanced Systems",
@@ -24576,7 +23905,7 @@
     "workable:tataadvancedsystems -> no board"
    ]
   },
-  "ms": 9618
+  "ms": 10085
  },
  {
   "company": "Tata CLiQ",
@@ -24664,7 +23993,7 @@
     "workable:tatacliq -> no board"
    ]
   },
-  "ms": 3053
+  "ms": 2439
  },
  {
   "company": "TVS Motor Company",
@@ -24752,7 +24081,7 @@
     "workable:tvsmotor -> no board"
    ]
   },
-  "ms": 3147
+  "ms": 3558
  },
  {
   "company": "TVS Credit Services",
@@ -24782,7 +24111,7 @@
     {
      "url": "https://tvscredit.com/career",
      "status": 200,
-     "bytes": 126166
+     "bytes": 126077
     },
     {
      "url": "https://tvscredit.com/jobs",
@@ -24797,12 +24126,12 @@
     {
      "url": "https://tvscredit.com/join-our-team",
      "status": 200,
-     "bytes": 126077
+     "bytes": 126166
     },
     {
      "url": "https://tvscredit.com/careers.html",
      "status": 200,
-     "bytes": 126166
+     "bytes": 126167
     },
     {
      "url": "https://tvscredit.com/company/careers",
@@ -24817,7 +24146,7 @@
     {
      "url": "https://tvscredit.com/current-openings",
      "status": 200,
-     "bytes": 135332
+     "bytes": 135333
     }
    ],
    "candidates": [
@@ -24835,7 +24164,7 @@
     "workable:tvscredit -> no board"
    ]
   },
-  "ms": 14129
+  "ms": 15903
  },
  {
   "company": "TVS Next",
@@ -25388,7 +24717,7 @@
     {
      "url": "https://tvsnext.com/career",
      "status": 200,
-     "bytes": 341116
+     "bytes": 340912
     }
    ],
    "candidates": [
@@ -25403,7 +24732,7 @@
     "keka:tvsnext -> 21 jobs"
    ]
   },
-  "ms": 6725
+  "ms": 4511
  },
  {
   "company": "Tejas Networks",
@@ -25510,7 +24839,12 @@
     {
      "url": "https://tejasnetworks.com/join-us",
      "status": 404,
-     "bytes": 255120
+     "bytes": 255115
+    },
+    {
+     "url": "https://tejasnetworks.com/join-our-team",
+     "status": 404,
+     "bytes": 255124
     }
    ],
    "candidates": [
@@ -25528,7 +24862,7 @@
     "workable:tejasnetworks -> no board"
    ]
   },
-  "ms": 4996
+  "ms": 6483
  },
  {
   "company": "Tredence",
@@ -25626,7 +24960,7 @@
     "workable:tredence -> no board"
    ]
   },
-  "ms": 24771
+  "ms": 23162
  },
  {
   "company": "Trianz",
@@ -25740,7 +25074,7 @@
     {
      "url": "https://careers.trianz.com",
      "status": 200,
-     "bytes": 19940
+     "bytes": 19986
     },
     {
      "url": "https://trianz.com/careers",
@@ -25765,7 +25099,7 @@
     "jobvite:trianz -> 2 jobs"
    ]
   },
-  "ms": 2269
+  "ms": 4300
  },
  {
   "company": "TheMathCompany",
@@ -25784,7 +25118,7 @@
     {
      "url": "https://careers.mathco.com",
      "status": 200,
-     "bytes": 49871
+     "bytes": 49874
     },
     {
      "url": "https://mathco.com/careers",
@@ -25822,7 +25156,7 @@
     "workable:mathco -> no board"
    ]
   },
-  "ms": 16230
+  "ms": 16686
  },
  {
   "company": "Talentica Software",
@@ -26043,7 +25377,7 @@
     "workable:talentica -> no board"
    ]
   },
-  "ms": 7981
+  "ms": 7691
  },
  {
   "company": "TatvaSoft",
@@ -26175,7 +25509,7 @@
     "workable:tatvasoft -> no board"
    ]
   },
-  "ms": 17513
+  "ms": 17709
  },
  {
   "company": "Trigyn Technologies",
@@ -26273,7 +25607,7 @@
     "workable:trigyn -> no board"
    ]
   },
-  "ms": 7099
+  "ms": 9243
  },
  {
   "company": "Tecnotree India",
@@ -26420,7 +25754,7 @@
     "workable:tecnotree -> no board"
    ]
   },
-  "ms": 14477
+  "ms": 18325
  },
  {
   "company": "Tricon Infotech",
@@ -26512,17 +25846,17 @@
     {
      "url": "https://triconinfotech.com/careers",
      "status": 200,
-     "bytes": 580830
+     "bytes": 580887
     },
     {
      "url": "https://triconinfotech.com/career",
      "status": 404,
-     "bytes": 368399
+     "bytes": 368454
     },
     {
      "url": "https://triconinfotech.com/jobs",
      "status": 200,
-     "bytes": 385310
+     "bytes": 385365
     }
    ],
    "candidates": [
@@ -26540,7 +25874,7 @@
     "workable:triconinfotech -> no board"
    ]
   },
-  "ms": 33494
+  "ms": 33617
  },
  {
   "company": "Tarento Technologies",
@@ -26677,7 +26011,7 @@
     "workable:tarento -> no board"
    ]
   },
-  "ms": 32128
+  "ms": 12357
  },
  {
   "company": "Tudip Technologies",
@@ -26907,7 +26241,7 @@
     "workable:tudip -> no board"
    ]
   },
-  "ms": 39740
+  "ms": 30171
  },
  {
   "company": "TechAhead",
@@ -27124,12 +26458,12 @@
     {
      "url": "https://techaheadcorp.com/join-us",
      "status": 200,
-     "bytes": 748384
+     "bytes": 748383
     },
     {
      "url": "https://techaheadcorp.com/join-our-team",
      "status": 200,
-     "bytes": 748384
+     "bytes": 748383
     },
     {
      "url": "https://techaheadcorp.com/careers.html",
@@ -27159,7 +26493,7 @@
     {
      "url": "https://www.techaheadcorp.com/careers/",
      "status": 200,
-     "bytes": 323473
+     "bytes": 323476
     }
    ],
    "candidates": [
@@ -27179,7 +26513,7 @@
     "keka:techahead -> 4 jobs"
    ]
   },
-  "ms": 7187
+  "ms": 6316
  },
  {
   "company": "Techugo",
@@ -27509,7 +26843,7 @@
     "workable:techugo -> no board"
    ]
   },
-  "ms": 2953
+  "ms": 3105
  },
  {
   "company": "Tarams Software Technologies",
@@ -27771,7 +27105,7 @@
     {
      "url": "https://tarams.greythr.com/hire/jobs/",
      "status": 200,
-     "bytes": 5635
+     "bytes": 5701
     }
    ],
    "candidates": [
@@ -27789,7 +27123,7 @@
     "workable:tarams -> no board"
    ]
   },
-  "ms": 12341
+  "ms": 13337
  },
  {
   "company": "Tekdi Technologies",
@@ -27844,7 +27178,7 @@
     "workable:tekdi -> no board"
    ]
   },
-  "ms": 23539
+  "ms": 17234
  },
  {
   "company": "thinkbridge",
@@ -27893,7 +27227,7 @@
     "workable:thinkbridge -> no board"
    ]
   },
-  "ms": 7430
+  "ms": 6527
  },
  {
   "company": "ThoughtFocus",
@@ -28064,7 +27398,7 @@
     {
      "url": "https://thoughtfocus.com/careers/",
      "status": 307,
-     "bytes": 1303
+     "bytes": 1355
     },
     {
      "url": "https://careers.thoughtfocus.com",
@@ -28075,52 +27409,52 @@
     {
      "url": "https://thoughtfocus.com/careers",
      "status": 307,
-     "bytes": 1303
+     "bytes": 1327
     },
     {
      "url": "https://thoughtfocus.com/career",
      "status": 307,
-     "bytes": 1303
+     "bytes": 1327
     },
     {
      "url": "https://thoughtfocus.com/jobs",
      "status": 307,
-     "bytes": 1303
+     "bytes": 1327
     },
     {
      "url": "https://thoughtfocus.com/join-us",
      "status": 307,
-     "bytes": 1303
+     "bytes": 1327
     },
     {
      "url": "https://thoughtfocus.com/join-our-team",
      "status": 307,
-     "bytes": 1303
+     "bytes": 1327
     },
     {
      "url": "https://thoughtfocus.com/careers.html",
      "status": 307,
-     "bytes": 1303
+     "bytes": 1327
     },
     {
      "url": "https://thoughtfocus.com/company/careers",
      "status": 307,
-     "bytes": 1303
+     "bytes": 1327
     },
     {
      "url": "https://thoughtfocus.com/about/careers",
      "status": 307,
-     "bytes": 1303
+     "bytes": 1327
     },
     {
      "url": "https://thoughtfocus.com/current-openings",
      "status": 307,
-     "bytes": 1303
+     "bytes": 1327
     },
     {
      "url": "https://thoughtfocus.com/",
      "status": 307,
-     "bytes": 1303
+     "bytes": 1491
     }
    ],
    "candidates": [
@@ -28138,7 +27472,7 @@
     "workable:thoughtfocus -> no board"
    ]
   },
-  "ms": 19893
+  "ms": 26934
  },
  {
   "company": "ThinkPalm Technologies",
@@ -28275,7 +27609,7 @@
     {
      "url": "https://thinkpalm.com/career",
      "status": 404,
-     "bytes": 77611
+     "bytes": 77617
     },
     {
      "url": "https://thinkpalm.com/jobs",
@@ -28298,7 +27632,7 @@
     "workable:thinkpalm -> no board"
    ]
   },
-  "ms": 5414
+  "ms": 4525
  },
  {
   "company": "Techwave",
@@ -29431,7 +28765,7 @@
     "workday:techwave -> 63 jobs"
    ]
   },
-  "ms": 9087
+  "ms": 23826
  },
  {
   "company": "TekLink International",
@@ -29456,52 +28790,52 @@
     {
      "url": "https://teklink.com/careers",
      "status": 307,
-     "bytes": 1547
+     "bytes": 1303
     },
     {
      "url": "https://teklink.com/career",
      "status": 307,
-     "bytes": 1547
+     "bytes": 1303
     },
     {
      "url": "https://teklink.com/jobs",
      "status": 307,
-     "bytes": 1547
+     "bytes": 1303
     },
     {
      "url": "https://teklink.com/join-us",
      "status": 307,
-     "bytes": 1547
+     "bytes": 1303
     },
     {
      "url": "https://teklink.com/join-our-team",
      "status": 307,
-     "bytes": 1547
+     "bytes": 1303
     },
     {
      "url": "https://teklink.com/careers.html",
      "status": 307,
-     "bytes": 1547
+     "bytes": 1303
     },
     {
      "url": "https://teklink.com/company/careers",
      "status": 307,
-     "bytes": 1547
+     "bytes": 1303
     },
     {
      "url": "https://teklink.com/about/careers",
      "status": 307,
-     "bytes": 1547
+     "bytes": 1303
     },
     {
      "url": "https://teklink.com/current-openings",
      "status": 307,
-     "bytes": 1383
+     "bytes": 1303
     },
     {
      "url": "https://teklink.com/",
      "status": 307,
-     "bytes": 1383
+     "bytes": 1439
     }
    ],
    "candidates": [
@@ -29519,7 +28853,7 @@
     "workable:teklink -> no board"
    ]
   },
-  "ms": 7717
+  "ms": 6780
  },
  {
   "company": "TRooTech Business Solutions",
@@ -29774,7 +29108,7 @@
     "workable:trootech -> no board"
    ]
   },
-  "ms": 11003
+  "ms": 3966
  },
  {
   "company": "Third Rock Techkno",
@@ -29867,7 +29201,7 @@
     "workable:thirdrocktechkno -> no board"
    ]
   },
-  "ms": 6173
+  "ms": 4985
  },
  {
   "company": "Techtic Solutions",
@@ -29955,7 +29289,7 @@
     "workable:techtic -> no board"
    ]
   },
-  "ms": 29565
+  "ms": 9519
  },
  {
   "company": "Tridhya Tech",
@@ -30045,7 +29379,7 @@
     "workable:tridhyatech -> no board"
    ]
   },
-  "ms": 63769
+  "ms": 70865
  },
  {
   "company": "Talentelgia Technologies",
@@ -30118,7 +29452,7 @@
     "workable:talentelgia -> no board"
    ]
   },
-  "ms": 20144
+  "ms": 16415
  },
  {
   "company": "Truminds Software Systems",
@@ -30206,7 +29540,7 @@
     "workable:truminds -> no board"
    ]
   },
-  "ms": 3909
+  "ms": 3475
  },
  {
   "company": "Tectoro Consulting",
@@ -30309,7 +29643,7 @@
     "workable:tectoro -> no board"
    ]
   },
-  "ms": 14258
+  "ms": 8889
  },
  {
   "company": "Trimble India",
@@ -31096,22 +30430,22 @@
     {
      "url": "https://careers.trimble.com",
      "status": 200,
-     "bytes": 1795437
+     "bytes": 1790660
     },
     {
      "url": "https://trimble.com/careers",
      "status": 200,
-     "bytes": 1795437
+     "bytes": 1790660
     },
     {
      "url": "https://trimble.com/career",
      "status": 404,
-     "bytes": 1075386
+     "bytes": 1069626
     },
     {
      "url": "https://trimble.com/jobs",
      "status": 404,
-     "bytes": 1069622
+     "bytes": 1075382
     }
    ],
    "candidates": [
@@ -31129,7 +30463,7 @@
     "workable:trimble -> no board"
    ]
   },
-  "ms": 13719
+  "ms": 13456
  },
  {
   "company": "Teradata India",
@@ -31148,7 +30482,7 @@
     {
      "url": "https://careers.teradata.com",
      "status": 200,
-     "bytes": 108839
+     "bytes": 108677
     },
     {
      "url": "https://teradata.com/careers",
@@ -31224,11 +30558,6 @@
      "url": "https://careers.teradata.com/categories/6/fraud-alert/15/fraud-alert",
      "status": 404,
      "bytes": 4284
-    },
-    {
-     "url": "https://careers.teradata.com/jobs",
-     "status": 200,
-     "bytes": 108839
     }
    ],
    "candidates": [
@@ -31246,7 +30575,7 @@
     "workable:teradata -> no board"
    ]
   },
-  "ms": 32422
+  "ms": 37595
  },
  {
   "company": "Tektronix India",
@@ -31299,7 +30628,7 @@
     "workable:tektronix -> no board"
    ]
   },
-  "ms": 21953
+  "ms": 20449
  },
  {
   "company": "Trend Micro India",
@@ -32124,13 +31453,13 @@
     "workday:trendmicro -> 40 jobs"
    ]
   },
-  "ms": 16043
+  "ms": 14753
  },
  {
   "company": "Thermo Fisher Scientific India",
   "country": "India",
   "source": null,
-  "error": "timed-out",
+  "error": "careers-page-read-but-lists-no-openings",
   "totalJobs": 0,
   "jobs": [],
   "enriched": 0,
@@ -32139,17 +31468,98 @@
   "closest": null,
   "closestEng": null,
   "trace": {
-   "pages": [],
-   "attempts": []
+   "pages": [
+    {
+     "url": "https://careers.thermofisher.com",
+     "status": 200,
+     "bytes": 196796
+    },
+    {
+     "url": "https://thermofisher.com/careers",
+     "status": 200,
+     "bytes": 196796
+    },
+    {
+     "url": "https://thermofisher.com/career",
+     "status": 404,
+     "bytes": 497349
+    },
+    {
+     "url": "https://thermofisher.com/jobs",
+     "status": 200,
+     "bytes": 196796
+    },
+    {
+     "url": "https://thermofisher.com/join-us",
+     "status": 404,
+     "bytes": 497349
+    },
+    {
+     "url": "https://thermofisher.com/join-our-team",
+     "status": 404,
+     "bytes": 497349
+    },
+    {
+     "url": "https://thermofisher.com/careers.html",
+     "status": 200,
+     "bytes": 196796
+    },
+    {
+     "url": "https://thermofisher.com/company/careers",
+     "status": 404,
+     "bytes": 497349
+    },
+    {
+     "url": "https://thermofisher.com/about/careers",
+     "status": 404,
+     "bytes": 497349
+    },
+    {
+     "url": "https://thermofisher.com/current-openings",
+     "status": 404,
+     "bytes": 497349
+    },
+    {
+     "url": "https://thermofisher.com/",
+     "status": 200,
+     "bytes": 616711
+    }
+   ],
+   "candidates": [
+    "phenom:_self(html)",
+    "greenhouse:thermofisherscientific(guess)",
+    "lever:thermofisherscientific(guess)",
+    "ashby:thermofisherscientific(guess)",
+    "recruitee:thermofisherscientific(guess)",
+    "workable:thermofisherscientific(guess)",
+    "greenhouse:thermofisher(guess)",
+    "lever:thermofisher(guess)",
+    "ashby:thermofisher(guess)",
+    "recruitee:thermofisher(guess)",
+    "workable:thermofisher(guess)"
+   ],
+   "attempts": [
+    "phenom:_self -> no board",
+    "greenhouse:thermofisherscientific -> no board",
+    "lever:thermofisherscientific -> no board",
+    "ashby:thermofisherscientific -> no board",
+    "recruitee:thermofisherscientific -> no board",
+    "workable:thermofisherscientific -> no board",
+    "greenhouse:thermofisher -> no board",
+    "lever:thermofisher -> no board",
+    "ashby:thermofisher -> no board",
+    "recruitee:thermofisher -> no board",
+    "workable:thermofisher -> no board"
+   ]
   },
-  "ms": 90003
+  "ms": 66566
  },
  {
   "company": "TE Connectivity India",
   "country": "India",
   "source": "successfactors:careers.te.com",
   "error": null,
-  "totalJobs": 47,
+  "totalJobs": 49,
   "jobs": [
    {
     "title": "R&D/PRODUCT DVL ENGINEER II",
@@ -32224,9 +31634,9 @@
     "score": 57
    },
    {
-    "title": "R&D/PRODUCT DVL ENGINEER II",
+    "title": "ADVANCED QUALITY ENGINEER",
     "location": "DONGGUAN, GD, CN, 523071",
-    "url": "https://careers.te.com/job/DONGGUAN-R&DPRODUCT-DVL-ENGINEER-II-GD-523071/1407105400/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+    "url": "https://careers.te.com/job/DONGGUAN-ADVANCED-QUALITY-ENGINEER-GD-523071/1239611500/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
@@ -32239,9 +31649,29 @@
     "score": 34
    },
    {
-    "title": "ASSEMBLY OPERATOR V - 1st Shift Arden",
-    "location": "Arden, NC, US, 28704",
-    "url": "https://careers.te.com/job/Arden-ASSEMBLY-OPERATOR-V-1st-Shift-Arden-NC-28704/1398644500/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+    "title": "MANUFACTURING & PROCESS DEVELOPMENT ENGINEER- MOLDING",
+    "location": "MIDDLETOWN, PA, US, 17057",
+    "url": "https://careers.te.com/job/MIDDLETOWN-MANUFACTURING-&-PROCESS-DEVELOPMENT-ENGINEER-MOLDING-PA-17057/1407275800/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": true,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [
+     [
+      5,
+      10
+     ]
+    ],
+    "expFits2": false,
+    "score": 30
+   },
+   {
+    "title": "BUYER II",
+    "location": "San José, A, CR, 20108",
+    "url": "https://careers.te.com/job/San-Jos%C3%A9-BUYER-II-A-20108/1407345500/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
@@ -32255,8 +31685,8 @@
       6
      ],
      [
-      3,
-      7
+      2,
+      3
      ]
     ],
     "expFits2": true,
@@ -32309,21 +31739,6 @@
     ],
     "expFits2": true,
     "score": 30
-   },
-   {
-    "title": "SR R&D/PRODUCT DVL ENGINEER",
-    "location": "Bangalore, KA, IN, 560066",
-    "url": "https://careers.te.com/job/Bangalore-SR-R&DPRODUCT-DVL-ENGINEER-KA-560066/1407105300/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-    "india": true,
-    "locationSaysIndia": true,
-    "hasLocation": true,
-    "isEng": true,
-    "java": false,
-    "flutter": false,
-    "senior": true,
-    "exp": [],
-    "expFits2": false,
-    "score": 27
    },
    {
     "title": "Forward Deployed AI Strategist",
@@ -32413,51 +31828,6 @@
     "score": 19
    },
    {
-    "title": "OPERADOR DE PRODUÇÃO I",
-    "location": "Saint Rita Of Sapucai, MG, BR, 37540",
-    "url": "https://careers.te.com/job/Saint-Rita-Of-Sapucai-OPERADOR-DE-PRODU%C3%87%C3%83O-I-MG-37540/1398703200/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 16
-   },
-   {
-    "title": "ASSEMBLY OPERATOR I 2ND Shift M-Thur 2:15pm-12:45am",
-    "location": "HAMPTON, VA, US, 23666",
-    "url": "https://careers.te.com/job/HAMPTON-ASSEMBLY-OPERATOR-I-2ND-Shift-M-Thur-215pm-1245am-VA-23666/1398400000/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 16
-   },
-   {
-    "title": "ASSEMBLY OPERATOR I 1ST SHIFT M-F 6am-2:30pm",
-    "location": "HAMPTON, VA, US, 23666",
-    "url": "https://careers.te.com/job/HAMPTON-ASSEMBLY-OPERATOR-I-1ST-SHIFT-M-F-6am-230pm-VA-23666/1398400900/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 16
-   },
-   {
     "title": "SUPV QLTY & RELIABILITY ENGINEERING",
     "location": "BANGALORE, KA, IN, 560048",
     "url": "https://careers.te.com/job/BANGALORE-SUPV-QLTY-&-RELIABILITY-ENGINEERING-KA-560048/1398569000/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
@@ -32486,6 +31856,26 @@
     "score": 15
    },
    {
+    "title": "Customer Demand Specialist",
+    "location": "TIJUANA, BCN, MX, 92154",
+    "url": "https://careers.te.com/job/TIJUANA-Customer-Demand-Specialist-BCN-92154/1407408200/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [
+     [
+      3,
+      7
+     ]
+    ],
+    "expFits2": false,
+    "score": 12
+   },
+   {
     "title": "TECHNICAL SPECIALIST II",
     "location": "WINSTON SALEM, NC, US, 27101-2166",
     "url": "https://careers.te.com/job/WINSTON-SALEM-TECHNICAL-SPECIALIST-II-NC-27101-2166/1407404900/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
@@ -32510,9 +31900,9 @@
     "score": 12
    },
    {
-    "title": "MANUFACTURING TECHNICIAN V",
-    "location": "Prai, Penang, 07, MY, 13600",
-    "url": "https://careers.te.com/job/Prai%2C-Penang-MANUFACTURING-TECHNICIAN-V-07-13600/1407084800/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+    "title": "Customer Demand Specialist",
+    "location": "HERMOSILLO SONORA, SON, MX, 83118",
+    "url": "https://careers.te.com/job/HERMOSILLO-SONORA-Customer-Demand-Specialist-SON-83118/1407397800/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
@@ -32521,34 +31911,6 @@
     "flutter": false,
     "senior": false,
     "exp": [
-     [
-      4,
-      5
-     ]
-    ],
-    "expFits2": false,
-    "score": 12
-   },
-   {
-    "title": "Duty Mitigation Analyst (Remote)",
-    "location": "#, PA, US, 17057",
-    "url": "https://careers.te.com/job/Duty-Mitigation-Analyst-%28Remote%29-PA-17057/1398649600/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [
-     [
-      3,
-      5
-     ],
-     [
-      4,
-      8
-     ],
      [
       3,
       7
@@ -32556,6 +31918,109 @@
     ],
     "expFits2": false,
     "score": 12
+   },
+   {
+    "title": "MANUFACTURING TECHNICIAN",
+    "location": "Tanauan, BTG, PH, 4232",
+    "url": "https://careers.te.com/job/Tanauan-MANUFACTURING-TECHNICIAN-BTG-4232/1381606900/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [
+     [
+      3,
+      7
+     ],
+     [
+      3,
+      4
+     ]
+    ],
+    "expFits2": false,
+    "score": 12
+   },
+   {
+    "title": "Staff Supplier Quality Engineer (ISO 9001 & IATF 16949)",
+    "location": "Prai, Penang, 07, MY, 13600",
+    "url": "https://careers.te.com/job/Prai%2C-Penang-Staff-Supplier-Quality-Engineer-%28ISO-9001-&-IATF-16949%29-07-13600/1381613500/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": true,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [],
+    "expFits2": false,
+    "score": 12
+   },
+   {
+    "title": "AQ ENGINEER III 1",
+    "location": "ZHUHAI, GD, CN, 519030",
+    "url": "https://careers.te.com/job/ZHUHAI-AQ-ENGINEER-III-1-GD-519030/1381600800/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": true,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [
+     [
+      5,
+      9
+     ]
+    ],
+    "expFits2": false,
+    "score": 8
+   },
+   {
+    "title": "SR QLTY & RELIABILITY ENGINEER",
+    "location": "DONGGUAN, GD, CN, 523071",
+    "url": "https://careers.te.com/job/DONGGUAN-SR-QLTY-&-RELIABILITY-ENGINEER-GD-523071/1364997500/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": true,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [
+     [
+      5,
+      9
+     ]
+    ],
+    "expFits2": false,
+    "score": 8
+   },
+   {
+    "title": "ASSEMBLY OPERATOR III - 1st Shift Arden",
+    "location": "Arden, NC, US, 28704",
+    "url": "https://careers.te.com/job/Arden-ASSEMBLY-OPERATOR-III-1st-Shift-Arden-NC-28704/1398645500/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [
+     [
+      1,
+      5
+     ],
+     [
+      1,
+      2
+     ]
+    ],
+    "expFits2": true,
+    "score": 8
    },
    {
     "title": "SR MANUFACTURING ENGINEER",
@@ -32576,74 +32041,6 @@
     ],
     "expFits2": false,
     "score": 8
-   },
-   {
-    "title": "Maintenance Mechanic IV - 3rd Shift (11:00 PM - 7:00 AM)",
-    "location": "GREENSBORO, NC, US, 27409",
-    "url": "https://careers.te.com/job/GREENSBORO-Maintenance-Mechanic-IV-3rd-Shift-%281100-PM-700-AM%29-NC-27409/1398679700/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": true,
-    "exp": [
-     [
-      2,
-      6
-     ],
-     [
-      5,
-      9
-     ]
-    ],
-    "expFits2": true,
-    "score": 8
-   },
-   {
-    "title": "PROJECT MANAGER II",
-    "location": "BANGALORE, KA, IN, 560048",
-    "url": "https://careers.te.com/job/BANGALORE-PROJECT-MANAGER-II-KA-560048/1398574000/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-    "india": true,
-    "locationSaysIndia": true,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": true,
-    "exp": [
-     [
-      3,
-      7
-     ],
-     [
-      7,
-      8
-     ]
-    ],
-    "expFits2": false,
-    "score": 5
-   },
-   {
-    "title": "MOLDING OPERATOR IV",
-    "location": "PUNE, MH, IN, 412801",
-    "url": "https://careers.te.com/job/PUNE-MOLDING-OPERATOR-IV-MH-412801/1416930900/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-    "india": true,
-    "locationSaysIndia": true,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": true,
-    "exp": [
-     [
-      4,
-      8
-     ]
-    ],
-    "expFits2": false,
-    "score": 5
    },
    {
     "title": "Global Supply Chain Manager",
@@ -32670,9 +32067,9 @@
     "score": 5
    },
    {
-    "title": "MANAGER II DATA ENG",
-    "location": "Bangalore, KA, IN, 560076",
-    "url": "https://careers.te.com/job/Bangalore-MANAGER-II-DATA-ENG-KA-560076/1407108700/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+    "title": "MOLDING OPERATOR IV",
+    "location": "PUNE, MH, IN, 412801",
+    "url": "https://careers.te.com/job/PUNE-MOLDING-OPERATOR-IV-MH-412801/1416930900/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
     "india": true,
     "locationSaysIndia": true,
     "hasLocation": true,
@@ -32682,21 +32079,17 @@
     "senior": true,
     "exp": [
      [
-      10,
-      14
-     ],
-     [
-      3,
-      7
+      4,
+      8
      ]
     ],
     "expFits2": false,
     "score": 5
    },
    {
-    "title": "Verwaltungsassistenz (m/w/d) - Teilzeit (60-70%)",
-    "location": "Luterbach, SO, CH, 4542",
-    "url": "https://careers.te.com/job/Luterbach-Verwaltungsassistenz-%28mwd%29-Teilzeit-%2860-70%29-SO-4542/1407101600/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+    "title": "Functional Engineering Leader - NPI, Sustaining Engineering & Innovation (m/f/d)",
+    "location": "San Salvo, CH, IT, SN3 5HH",
+    "url": "https://careers.te.com/job/San-Salvo-Functional-Engineering-Leader-NPI%2C-Sustaining-Engineering-&-Innovation-%28mfd%29-CH-SN3-5HH/1407194600/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
@@ -32709,9 +32102,24 @@
     "score": 4
    },
    {
-    "title": "PLC Programátor (m/ž)",
-    "location": "TRUTNOV PORICI, 525, CZ, 54101",
-    "url": "https://careers.te.com/job/TRUTNOV-PORICI-PLC-Program%C3%A1tor-%28m%C5%BE%29-525-54101/1398447800/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+    "title": "MGR II QLTY & RELIABILITY ENGINEERING",
+    "location": "DONGGUAN, GD, CN, 523071",
+    "url": "https://careers.te.com/job/DONGGUAN-MGR-II-QLTY-&-RELIABILITY-ENGINEERING-GD-523071/1390107200/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 4
+   },
+   {
+    "title": "MGR II CQE",
+    "location": "KAKEGAWA SHIZUOKA, 22, JP, 436-0040",
+    "url": "https://careers.te.com/job/KAKEGAWA-SHIZUOKA-MGR-II-CQE-22-436-0040/1350711400/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
@@ -32739,9 +32147,9 @@
     "score": 4
    },
    {
-    "title": "MGR II STRATEGIC SOURCING (Mechanical)",
-    "location": "SHENZHEN, GD, CN, 200233",
-    "url": "https://careers.te.com/job/SHENZHEN-MGR-II-STRATEGIC-SOURCING-%28Mechanical%29-GD-200233/1407086300/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+    "title": "MGR II SUPPLY CHAIN 1",
+    "location": "SHANGHAI, SH, CN, 200233",
+    "url": "https://careers.te.com/job/SHANGHAI-MGR-II-SUPPLY-CHAIN-1-SH-200233/1239612600/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
@@ -32753,6 +32161,10 @@
      [
       15,
       19
+     ],
+     [
+      8,
+      12
      ]
     ],
     "expFits2": false,
@@ -32781,26 +32193,6 @@
     ],
     "expFits2": false,
     "score": -7
-   },
-   {
-    "title": "PRODUCT MANAGER III",
-    "location": "DONGGUAN, GD, CN, 523071",
-    "url": "https://careers.te.com/job/DONGGUAN-PRODUCT-MANAGER-III-GD-523071/1398385500/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": true,
-    "exp": [
-     [
-      4,
-      8
-     ]
-    ],
-    "expFits2": false,
-    "score": -10
    },
    {
     "title": "Sustaining Product Engineering Manager",
@@ -32875,9 +32267,9 @@
     "score": -10
    },
    {
-    "title": "OPERADOR DE PRODUÇÃO III",
-    "location": "Saint Rita Of Sapucai, MG, BR, 37540",
-    "url": "https://careers.te.com/job/Saint-Rita-Of-Sapucai-OPERADOR-DE-PRODU%C3%87%C3%83O-III-MG-37540/1398707700/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+    "title": "SR SALES DEVELOPMENT REPRESENTATIVE",
+    "location": "Santiago, RM, CL, 7550104",
+    "url": "https://careers.te.com/job/Santiago-SR-SALES-DEVELOPMENT-REPRESENTATIVE-RM-7550104/1390100400/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
@@ -32890,9 +32282,24 @@
     "score": -18
    },
    {
-    "title": "ASSEMBLY OPERATOR IV - 1st Shift Arden",
-    "location": "Arden, NC, US, 28704",
-    "url": "https://careers.te.com/job/Arden-ASSEMBLY-OPERATOR-IV-1st-Shift-Arden-NC-28704/1398644200/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+    "title": "MAINTENANCE MECHANIC III",
+    "location": "JUAREZ CHIHUAHUA, CHH, MX, 32599",
+    "url": "https://careers.te.com/job/JUAREZ-CHIHUAHUA-MAINTENANCE-MECHANIC-III-CHH-32599/1390080000/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [],
+    "expFits2": false,
+    "score": -18
+   },
+   {
+    "title": "STRATEGIC SOURCING ANALYST III",
+    "location": "#, KA, IN, _",
+    "url": "https://careers.te.com/job/STRATEGIC-SOURCING-ANALYST-III-KA-_/1398425900/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
@@ -32920,9 +32327,9 @@
     "score": -18
    },
    {
-    "title": "PRODUCT MANAGER IV",
-    "location": "SHANGHAI, SH, CN, 200233",
-    "url": "https://careers.te.com/job/SHANGHAI-PRODUCT-MANAGER-IV-SH-200233/1390092200/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+    "title": "MOLDING OPERATOR III",
+    "location": "HASTINGS, ESX, GB, TN38 9RF",
+    "url": "https://careers.te.com/job/HASTINGS-MOLDING-OPERATOR-III-ESX-TN38-9RF/1370438300/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
@@ -32935,9 +32342,9 @@
     "score": -18
    },
    {
-    "title": "Corporate Strategy Manager (f/m/d)",
-    "location": "#, SWD, GB, _",
-    "url": "https://careers.te.com/job/Corporate-Strategy-Manager-%28fmd%29-SWD-_/1407162300/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+    "title": "PRODUCT MANAGER IV",
+    "location": "SHANGHAI, SH, CN, 200233",
+    "url": "https://careers.te.com/job/SHANGHAI-PRODUCT-MANAGER-IV-SH-200233/1390092200/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
@@ -32970,9 +32377,9 @@
     "score": -22
    },
    {
-    "title": "Business Development Manager Smart Grid KSA",
-    "location": "Riyadh, 01, SA, 11574",
-    "url": "https://careers.te.com/job/Riyadh-Business-Development-Manager-Smart-Grid-KSA-01-11574/1398436300/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+    "title": "SR SALES DEVELOPMENT REPRESENTATIVE",
+    "location": "Taipei, TPQ, TW, _",
+    "url": "https://careers.te.com/job/Taipei-SR-SALES-DEVELOPMENT-REPRESENTATIVE-TPQ-_/1390091500/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
@@ -32982,12 +32389,48 @@
     "senior": true,
     "exp": [
      [
-      5,
-      9
-     ],
+      7,
+      11
+     ]
+    ],
+    "expFits2": false,
+    "score": -22
+   },
+   {
+    "title": "PRODUCT MANAGER V",
+    "location": "TAIPEI, TPE, TW, 11070",
+    "url": "https://careers.te.com/job/TAIPEI-PRODUCT-MANAGER-V-TPE-11070/1364999300/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [
      [
-      5,
-      6
+      10,
+      14
+     ]
+    ],
+    "expFits2": false,
+    "score": -22
+   },
+   {
+    "title": "SUPPLY CHAIN ANALYST IV",
+    "location": "SHANGHAI, SH, CN, 200233",
+    "url": "https://careers.te.com/job/SHANGHAI-SUPPLY-CHAIN-ANALYST-IV-SH-200233/1356884700/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [
+     [
+      8,
+      10
      ]
     ],
     "expFits2": false,
@@ -33014,49 +32457,53 @@
     "score": -22
    },
    {
-    "title": "SUPV III MOLDING",
-    "location": "Nantong, JS, CN, 226014",
-    "url": "https://careers.te.com/job/Nantong-SUPV-III-MOLDING-JS-226014/1398353000/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": true,
-    "exp": [
-     [
-      5,
-      9
-     ]
-    ],
-    "expFits2": false,
-    "score": -22
-   },
-   {
-    "title": "ACCOUNT MGR III",
-    "location": "SHANGHAI, SH, CN, 200233",
-    "url": "https://careers.te.com/job/SHANGHAI-ACCOUNT-MGR-III-SH-200233/1398386200/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": true,
-    "exp": [
-     [
-      5,
-      9
-     ]
-    ],
-    "expFits2": false,
-    "score": -22
-   },
-   {
     "title": "SR MGR R&D/PRODUCT DVL ENGINEERING",
     "location": "SHANGHAI, SH, CN, 200233",
     "url": "https://careers.te.com/job/SHANGHAI-SR-MGR-R&DPRODUCT-DVL-ENGINEERING-SH-200233/1390087400/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [
+     [
+      5,
+      9
+     ]
+    ],
+    "expFits2": false,
+    "score": -22
+   },
+   {
+    "title": "Business Development Manager Smart Grid KSA",
+    "location": "Riyadh, 01, SA, 11574",
+    "url": "https://careers.te.com/job/Riyadh-Business-Development-Manager-Smart-Grid-KSA-01-11574/1398436300/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [
+     [
+      5,
+      9
+     ],
+     [
+      5,
+      6
+     ]
+    ],
+    "expFits2": false,
+    "score": -22
+   },
+   {
+    "title": "SUPV III MOLDING",
+    "location": "Nantong, JS, CN, 226014",
+    "url": "https://careers.te.com/job/Nantong-SUPV-III-MOLDING-JS-226014/1398353000/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
@@ -33180,7 +32627,7 @@
     {
      "url": "https://careers.te.com",
      "status": 200,
-     "bytes": 72706
+     "bytes": 72707
     },
     {
      "url": "https://te.com/careers",
@@ -33202,10 +32649,10 @@
     "workable:teconnectivity(guess)"
    ],
    "attempts": [
-    "successfactors:careers.te.com -> 47 jobs"
+    "successfactors:careers.te.com -> 49 jobs"
    ]
   },
-  "ms": 8717
+  "ms": 12437
  },
  {
   "company": "TomTom India",
@@ -33297,7 +32744,7 @@
     {
      "url": "https://tomtom.com/careers",
      "status": 200,
-     "bytes": 316514
+     "bytes": 316513
     },
     {
      "url": "https://tomtom.com/career",
@@ -33322,7 +32769,7 @@
     {
      "url": "https://tomtom.com/careers.html",
      "status": 404,
-     "bytes": 106216
+     "bytes": 106215
     }
    ],
    "candidates": [
@@ -33340,7 +32787,7 @@
     "workable:tomtom -> no board"
    ]
   },
-  "ms": 23284
+  "ms": 22296
  },
  {
   "company": "Travelport India",
@@ -33428,7 +32875,7 @@
     "workable:travelport -> no board"
    ]
   },
-  "ms": 19424
+  "ms": 17334
  },
  {
   "company": "Truecaller India",
@@ -33515,7 +32962,7 @@
     "workable:truecaller -> no board"
    ]
   },
-  "ms": 5281
+  "ms": 5363
  },
  {
   "company": "TELUS Digital India",
@@ -33612,7 +33059,7 @@
     "workable:telusdigital -> no board"
    ]
   },
-  "ms": 5337
+  "ms": 6527
  },
  {
   "company": "Textron India",
@@ -33713,7 +33160,7 @@
     "workable:textron -> no board"
    ]
   },
-  "ms": 37433
+  "ms": 27591
  },
  {
   "company": "Tricentis India",
@@ -33811,7 +33258,7 @@
     "workable:tricentis -> no board"
    ]
   },
-  "ms": 5739
+  "ms": 6630
  },
  {
   "company": "Tenable India",
@@ -34787,12 +34234,12 @@
     {
      "url": "https://careers.tenable.com",
      "status": 200,
-     "bytes": 308958
+     "bytes": 308960
     },
     {
      "url": "https://tenable.com/careers",
      "status": 200,
-     "bytes": 308922
+     "bytes": 308924
     },
     {
      "url": "https://tenable.com/career",
@@ -34812,14 +34259,14 @@
     "greenhouse:tenableinc -> 44 jobs"
    ]
   },
-  "ms": 4498
+  "ms": 3655
  },
  {
   "company": "Teradyne India",
   "country": "India",
   "source": "successfactors:jobs.teradyne.com",
   "error": null,
-  "totalJobs": 55,
+  "totalJobs": 54,
   "jobs": [
    {
     "title": "DevOps Engineer (Universal Robots, India)",
@@ -34857,9 +34304,9 @@
     "score": 68
    },
    {
-    "title": "Hardware Test Engineer (Teradyne, San Jose CA)",
+    "title": "Calibration Engineer",
     "location": "San Jose, CA, US",
-    "url": "https://jobs.teradyne.com/Teradyne/job/San-Jose-Hardware-Test-Engineer-%28Teradyne%2C-San-Jose-CA%29-CA-95101/1416325700/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+    "url": "https://jobs.teradyne.com/Teradyne/job/San-Jose-Calibration-Engineer-CA-95101/1417182500/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
@@ -34869,8 +34316,16 @@
     "senior": false,
     "exp": [
      [
+      0,
+      2
+     ],
+     [
+      3,
+      7
+     ],
+     [
       2,
-      6
+      3
      ]
     ],
     "expFits2": true,
@@ -34901,9 +34356,9 @@
     "score": 60
    },
    {
-    "title": "Calibration Engineer",
+    "title": "Hardware Test Engineer (Teradyne, San Jose CA)",
     "location": "San Jose, CA, US",
-    "url": "https://jobs.teradyne.com/Teradyne/job/San-Jose-Calibration-Engineer-CA-95101/1417182500/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+    "url": "https://jobs.teradyne.com/Teradyne/job/San-Jose-Hardware-Test-Engineer-%28Teradyne%2C-San-Jose-CA%29-CA-95101/1416325700/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
@@ -34913,16 +34368,48 @@
     "senior": false,
     "exp": [
      [
-      0,
-      2
-     ],
-     [
-      3,
-      7
-     ],
+      2,
+      6
+     ]
+    ],
+    "expFits2": true,
+    "score": 60
+   },
+   {
+    "title": "Mechanical Engineer (Teradyne, North Reading, MA)",
+    "location": "North Reading, MA, US",
+    "url": "https://jobs.teradyne.com/Teradyne/job/North-Reading-Mechanical-Engineer-%28Teradyne%2C-North-Reading%2C-MA%29-MA/1396193800/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": true,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [
      [
       2,
-      3
+      6
+     ]
+    ],
+    "expFits2": true,
+    "score": 60
+   },
+   {
+    "title": "Mechanical Engineer (Teradyne, North Reading, MA)",
+    "location": "North Reading, MA, US",
+    "url": "https://jobs.teradyne.com/Teradyne/job/North-Reading-Mechanical-Engineer-%28Teradyne%2C-North-Reading%2C-MA%29-MA/1396191600/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": true,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [
+     [
+      2,
+      6
      ]
     ],
     "expFits2": true,
@@ -34962,46 +34449,6 @@
      [
       6,
       7
-     ]
-    ],
-    "expFits2": false,
-    "score": 57
-   },
-   {
-    "title": "Salesforce Developer (Universal Robots, Bangalore - India)",
-    "location": "Bangalore, IN",
-    "url": "https://jobs.teradyne.com/Universal-Robots/job/Bangalore-Salesforce-Developer-%28Universal-Robots%2C-Bangalore-India%29/1404773800/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-    "india": true,
-    "locationSaysIndia": true,
-    "hasLocation": true,
-    "isEng": true,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [
-     [
-      4,
-      8
-     ]
-    ],
-    "expFits2": false,
-    "score": 57
-   },
-   {
-    "title": "Salesforce Developer (Universal Robots, Bangalore - India)",
-    "location": "Bangalore, IN",
-    "url": "https://jobs.teradyne.com/Universal-Robots/job/Bangalore-Salesforce-Developer-%28Universal-Robots%2C-Bangalore-India%29/1404773900/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-    "india": true,
-    "locationSaysIndia": true,
-    "hasLocation": true,
-    "isEng": true,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [
-     [
-      4,
-      8
      ]
     ],
     "expFits2": false,
@@ -35058,7 +34505,7 @@
    {
     "title": "Field Application Engineer (SEG; Austin, TX)",
     "location": "Austin, TX, US",
-    "url": "https://jobs.teradyne.com/Teradyne/job/Austin-Field-Application-Engineer-%28SEG-Austin%2C-TX%29-TX-73301/1362533500/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+    "url": "https://jobs.teradyne.com/Teradyne/job/Austin-Field-Application-Engineer-%28SEG-Austin%2C-TX%29-TX-73301/1362533800/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
@@ -35082,7 +34529,7 @@
    {
     "title": "Field Application Engineer (SEG; Austin, TX)",
     "location": "Austin, TX, US",
-    "url": "https://jobs.teradyne.com/Teradyne/job/Austin-Field-Application-Engineer-%28SEG-Austin%2C-TX%29-TX-73301/1362533800/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+    "url": "https://jobs.teradyne.com/Teradyne/job/Austin-Field-Application-Engineer-%28SEG-Austin%2C-TX%29-TX-73301/1362533500/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
@@ -35318,21 +34765,6 @@
     "score": 34
    },
    {
-    "title": "Embedded Software Engineer (Integrated System Test, North Reading)",
-    "location": "North Reading, MA, US",
-    "url": "https://jobs.teradyne.com/Teradyne/job/North-Reading-Embedded-Software-Engineer-%28Integrated-System-Test%2C-North-Reading%29-MA/1415246700/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": true,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 34
-   },
-   {
     "title": "Software Engineering Co-Op, Fall 2026, (Teradyne, North Reading, MA)",
     "location": "North Reading, MA, US",
     "url": "https://jobs.teradyne.com/Teradyne/job/North-Reading-Software-Engineering-Co-Op%2C-Fall-2026%2C-%28Teradyne%2C-North-Reading%2C-MA%29-MA/1417196400/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
@@ -35348,9 +34780,9 @@
     "score": 34
    },
    {
-    "title": "Product Support Engineer",
-    "location": "Songpa-gu, Seoul, KR",
-    "url": "https://jobs.teradyne.com/Teradyne/job/Songpa-gu%2C-Seoul-Product-Support-Engineer/1398373700/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+    "title": "Embedded Software Engineer (Integrated System Test, North Reading)",
+    "location": "North Reading, MA, US",
+    "url": "https://jobs.teradyne.com/Teradyne/job/North-Reading-Embedded-Software-Engineer-%28Integrated-System-Test%2C-North-Reading%29-MA/1415246700/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
@@ -35358,34 +34790,9 @@
     "java": false,
     "flutter": false,
     "senior": false,
-    "exp": [
-     [
-      5,
-      15
-     ]
-    ],
+    "exp": [],
     "expFits2": false,
-    "score": 30
-   },
-   {
-    "title": "Strategic Account Mgr / Sales Engineer (Teradyne, San Jose, CA)",
-    "location": "San Jose, CA, US",
-    "url": "https://jobs.teradyne.com/Teradyne/job/San-Jose-Strategic-Account-Mgr-Sales-Engineer-%28Teradyne%2C-San-Jose%2C-CA%29-CA-95101/1398571500/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": true,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [
-     [
-      8,
-      12
-     ]
-    ],
-    "expFits2": false,
-    "score": 30
+    "score": 34
    },
    {
     "title": "Supplier Quality Engineer",
@@ -35422,6 +34829,46 @@
      [
       10,
       14
+     ]
+    ],
+    "expFits2": false,
+    "score": 30
+   },
+   {
+    "title": "Strategic Account Mgr / Sales Engineer (Teradyne, San Jose, CA)",
+    "location": "San Jose, CA, US",
+    "url": "https://jobs.teradyne.com/Teradyne/job/San-Jose-Strategic-Account-Mgr-Sales-Engineer-%28Teradyne%2C-San-Jose%2C-CA%29-CA-95101/1398571500/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": true,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [
+     [
+      8,
+      12
+     ]
+    ],
+    "expFits2": false,
+    "score": 30
+   },
+   {
+    "title": "Product Support Engineer",
+    "location": "Songpa-gu, Seoul, KR",
+    "url": "https://jobs.teradyne.com/Teradyne/job/Songpa-gu%2C-Seoul-Product-Support-Engineer/1398373700/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": true,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [
+     [
+      5,
+      15
      ]
     ],
     "expFits2": false,
@@ -35523,29 +34970,9 @@
     "score": 12
    },
    {
-    "title": "IT Solutions Analyst (GAA, Philippines: Cebu)",
-    "location": "Basak, Lapu-Lapu City, PH",
-    "url": "https://jobs.teradyne.com/Teradyne/job/Basak%2C-Lapu-Lapu-City-IT-Solutions-Analyst-%28GAA%2C-Philippines-Cebu%29/1416935100/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [
-     [
-      3,
-      7
-     ]
-    ],
-    "expFits2": false,
-    "score": 12
-   },
-   {
-    "title": "Senior AI/ML Engineer, Physical AI Solutions (UR & MiR, North Reading, MA)",
-    "location": "North Reading, MA, US",
-    "url": "https://jobs.teradyne.com/Teradyne/job/North-Reading-Senior-AIML-Engineer%2C-Physical-AI-Solutions-%28UR-&-MiR%2C-North-Reading%2C-MA%29-MA/1415912500/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+    "title": "Senior Calibration Engineer",
+    "location": "San Jose, CA, US",
+    "url": "https://jobs.teradyne.com/Teradyne/job/San-Jose-Senior-Calibration-Engineer-CA-95101/1417182000/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
@@ -35558,9 +34985,9 @@
     "score": 12
    },
    {
-    "title": "Senior Calibration Engineer",
-    "location": "San Jose, CA, US",
-    "url": "https://jobs.teradyne.com/Teradyne/job/San-Jose-Senior-Calibration-Engineer-CA-95101/1417182000/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+    "title": "Senior AI/ML Engineer, Physical AI Solutions (UR & MiR, North Reading, MA)",
+    "location": "North Reading, MA, US",
+    "url": "https://jobs.teradyne.com/Teradyne/job/North-Reading-Senior-AIML-Engineer%2C-Physical-AI-Solutions-%28UR-&-MiR%2C-North-Reading%2C-MA%29-MA/1415912500/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
@@ -35705,6 +35132,21 @@
     "score": 8
    },
    {
+    "title": "Software Release Coordinator (Teradyne, Costa Rica)",
+    "location": "Alajuela, CR",
+    "url": "https://jobs.teradyne.com/Teradyne/job/Alajuela-Software-Release-Coordinator-%28Teradyne%2C-Costa-Rica%29/1417291600/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 4
+   },
+   {
     "title": "Technical Support Representative: Teradyne Robotics(UR & MiR: Philippines: Cebu)",
     "location": "Basak, Lapu-Lapu City, PH",
     "url": "https://jobs.teradyne.com/Teradyne/job/Basak%2C-Lapu-Lapu-City-Technical-Support-Representative-Teradyne-Robotics%28UR-&-MiR-Philippines-Cebu%29/1398376300/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
@@ -35718,46 +35160,6 @@
     "exp": [],
     "expFits2": false,
     "score": 4
-   },
-   {
-    "title": "Administrative Assistant",
-    "location": "North Reading, MA, US",
-    "url": "https://jobs.teradyne.com/Teradyne/job/North-Reading-Administrative-Assistant-MA/1417081500/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [
-     [
-      8,
-      12
-     ]
-    ],
-    "expFits2": false,
-    "score": 0
-   },
-   {
-    "title": "Material Planning Manager (Teradyne Nextest, San Jose CA)",
-    "location": "San Jose, CA, US",
-    "url": "https://jobs.teradyne.com/Teradyne/job/San-Jose-Material-Planning-Manager-%28Teradyne-Nextest%2C-San-Jose-CA%29-CA-95101/1390341400/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": true,
-    "exp": [
-     [
-      3,
-      5
-     ]
-    ],
-    "expFits2": false,
-    "score": -10
    },
    {
     "title": "Customer Solutions Engineering Manager (IST, North Reading, MA)",
@@ -35778,6 +35180,26 @@
      [
       3,
       7
+     ]
+    ],
+    "expFits2": false,
+    "score": -10
+   },
+   {
+    "title": "Material Planning Manager (Teradyne Nextest, San Jose CA)",
+    "location": "San Jose, CA, US",
+    "url": "https://jobs.teradyne.com/Teradyne/job/San-Jose-Material-Planning-Manager-%28Teradyne-Nextest%2C-San-Jose-CA%29-CA-95101/1390341400/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [
+     [
+      3,
+      5
      ]
     ],
     "expFits2": false,
@@ -36008,7 +35430,7 @@
    {
     "title": "Field Application Engineer (SEG; Austin, TX)",
     "location": "Austin, TX, US",
-    "url": "https://jobs.teradyne.com/Teradyne/job/Austin-Field-Application-Engineer-%28SEG-Austin%2C-TX%29-TX-73301/1362533500/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+    "url": "https://jobs.teradyne.com/Teradyne/job/Austin-Field-Application-Engineer-%28SEG-Austin%2C-TX%29-TX-73301/1362533800/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
     "team": "",
     "text": "We are the global test and automation specialists, powering next-generation technologies through sophisticated solutions. Behind every electronic device you use, Teradyne's test technology ensures your device works right the first time, every time! Our portfolio of automation solutions help manufacturers to develop and deliver products quickly, efficiently and cost-effectively. Together, Teradyne companies deliver manufacturing automation across industries and applications around the world! We attract, develop, and retain a high-performance workforce, comprised of people with diverse backgrounds and a shared drive for excellence. We strive to foster a positive and inclusive work environment that helps employees, and communities, thrive. Our Purpose TERADYNE, where experience meets innovation and driving excellence in every connection. We are fueled by creativity and diversity of thought and in our workforce. Our employees are supported to innovate and learn something new every day. We cultivate a culture of inclusion for all employees that respects their individual strengths, views, and experiences. We believe that our differences enable us to be a better team – one that makes better decisions, drives innovation and delivers better business results. Opportunity Overview The Teradyne Field Applications team is looking for a highly-motivated, energetic and driven Field Application Engineer , who will work collaboratively with the team as well as independently to determine and develop imaginative, thorough, and practical application solutions. Develop, debug and deployment of test solutions for Digital, High-Speed Digital, System on Chip, Mixed Signal and Analog semiconductor devices. Test program software development, often done in collaborative environment Load board / probe card schematics design and layout review for a test solution Analyze problems and recommend solutions on Teradyne ATE platform to optimize customer throughput Able to work with test engineering customers to understand and improve test processes. Making recommendations to improve quality of test coverage. Release to production of the test solution involving production handler and prober equipment; including correlation and gauge R&R Discovery of customer requirements with focus on: a) Conceptual design of hardware, software and test cell integration. b) Electrical and mechanical H/W schematics. c) PCB & H/W design inputs and requirements for interface hardware Develop new techniques and designs for characterizing and testing semiconductor devices Demonstrate tester capability for customer evaluations Assist customers on tester operation and capability Provide training, technical exchanges and technical papers Develop strong customer relations at a technical level, to gain further insight to direction and needs of the customer. General understanding of ATE industry trends as well as competitive products and product positioning will be a plus. All About You We seek individuals who share our passion and determination. Our commitment to customer success drives us to go the extra mile. If you’re ready to join us in this mission, take a closer look at the minimum criteria for the position. Bachelor or higher degree in Electrical / Computer Engineering or related fields 5-8 years of experience of semiconductor testing Industry and hands on experience on IC component testing project development Must have Test / Product engineering experience in Digital, High-Speed Digital, High-Power Computing, System on Chip, Mixed Signal, or Analog testing and test development on ATE (Automated Test Equipment) platforms Preferred to have development experience on Teradyne or other semiconductor ATE platforms preferred, such as, Teradyne UltraFlex / UltraFlexPlus / IG-XL, Eagle Test Systems / EV / EV-MST, Advantest V93K / SmarTest 7 / SmarTest 8, or other test equipment Knowledge of Visual Basic, C, C++, Java, C#.NET programming Proficient in Windows and Excel Knowledge on handler and prober interface experience will be a plus Possess team skills and has ability to work independently as well Strong analytical skills and practical problem solving skills Solid presentation skills Strong proven interpersonal skills and commitment to teamwork and “can-do” spirit Outstanding written and verbal communication skills in both English and native language Proven technical record Demonstrate strong interpersonal and relationships-building skills Supervisory experience in leading teams (locally and globally) with past experience in employee management may qualify for senior position Ability to travel 25% or more, domestic and international. Must be able to carry auto liability or minimum insurance due to automotive responsibilities Compensation: The base salary range for this role is $126,800- 202,800. This range is a good faith estimate, and the amount of base salary will correspond with experience and skill set. This range can also fluctuate depending on demand and location. Incentive Plan: This job is eligible for discretionary bonus(es) based on financial performance. Benefits: Teradyne offers a variety of robust health and well-being benefit programs, including medical, dental, vision, Flexible Spending Accounts, retirement savings plans, life and disability insurance, paid vacation & holidays, tuition assistance programs, and more. Please click here to see details. #LI-NS1",
     "score": 55,
@@ -36035,7 +35457,7 @@
    {
     "title": "Field Application Engineer (SEG; Austin, TX)",
     "location": "Austin, TX, US",
-    "url": "https://jobs.teradyne.com/Teradyne/job/Austin-Field-Application-Engineer-%28SEG-Austin%2C-TX%29-TX-73301/1362533800/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+    "url": "https://jobs.teradyne.com/Teradyne/job/Austin-Field-Application-Engineer-%28SEG-Austin%2C-TX%29-TX-73301/1362533500/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
     "team": "",
     "text": "We are the global test and automation specialists, powering next-generation technologies through sophisticated solutions. Behind every electronic device you use, Teradyne's test technology ensures your device works right the first time, every time! Our portfolio of automation solutions help manufacturers to develop and deliver products quickly, efficiently and cost-effectively. Together, Teradyne companies deliver manufacturing automation across industries and applications around the world! We attract, develop, and retain a high-performance workforce, comprised of people with diverse backgrounds and a shared drive for excellence. We strive to foster a positive and inclusive work environment that helps employees, and communities, thrive. Our Purpose TERADYNE, where experience meets innovation and driving excellence in every connection. We are fueled by creativity and diversity of thought and in our workforce. Our employees are supported to innovate and learn something new every day. We cultivate a culture of inclusion for all employees that respects their individual strengths, views, and experiences. We believe that our differences enable us to be a better team – one that makes better decisions, drives innovation and delivers better business results. Opportunity Overview The Teradyne Field Applications team is looking for a highly-motivated, energetic and driven Field Application Engineer , who will work collaboratively with the team as well as independently to determine and develop imaginative, thorough, and practical application solutions. Develop, debug and deployment of test solutions for Digital, High-Speed Digital, System on Chip, Mixed Signal and Analog semiconductor devices. Test program software development, often done in collaborative environment Load board / probe card schematics design and layout review for a test solution Analyze problems and recommend solutions on Teradyne ATE platform to optimize customer throughput Able to work with test engineering customers to understand and improve test processes. Making recommendations to improve quality of test coverage. Release to production of the test solution involving production handler and prober equipment; including correlation and gauge R&R Discovery of customer requirements with focus on: a) Conceptual design of hardware, software and test cell integration. b) Electrical and mechanical H/W schematics. c) PCB & H/W design inputs and requirements for interface hardware Develop new techniques and designs for characterizing and testing semiconductor devices Demonstrate tester capability for customer evaluations Assist customers on tester operation and capability Provide training, technical exchanges and technical papers Develop strong customer relations at a technical level, to gain further insight to direction and needs of the customer. General understanding of ATE industry trends as well as competitive products and product positioning will be a plus. All About You We seek individuals who share our passion and determination. Our commitment to customer success drives us to go the extra mile. If you’re ready to join us in this mission, take a closer look at the minimum criteria for the position. Bachelor or higher degree in Electrical / Computer Engineering or related fields 5-8 years of experience of semiconductor testing Industry and hands on experience on IC component testing project development Must have Test / Product engineering experience in Digital, High-Speed Digital, High-Power Computing, System on Chip, Mixed Signal, or Analog testing and test development on ATE (Automated Test Equipment) platforms Preferred to have development experience on Teradyne or other semiconductor ATE platforms preferred, such as, Teradyne UltraFlex / UltraFlexPlus / IG-XL, Eagle Test Systems / EV / EV-MST, Advantest V93K / SmarTest 7 / SmarTest 8, or other test equipment Knowledge of Visual Basic, C, C++, Java, C#.NET programming Proficient in Windows and Excel Knowledge on handler and prober interface experience will be a plus Possess team skills and has ability to work independently as well Strong analytical skills and practical problem solving skills Solid presentation skills Strong proven interpersonal skills and commitment to teamwork and “can-do” spirit Outstanding written and verbal communication skills in both English and native language Proven technical record Demonstrate strong interpersonal and relationships-building skills Supervisory experience in leading teams (locally and globally) with past experience in employee management may qualify for senior position Ability to travel 25% or more, domestic and international. Must be able to carry auto liability or minimum insurance due to automotive responsibilities Compensation: The base salary range for this role is $126,800- 202,800. This range is a good faith estimate, and the amount of base salary will correspond with experience and skill set. This range can also fluctuate depending on demand and location. Incentive Plan: This job is eligible for discretionary bonus(es) based on financial performance. Benefits: Teradyne offers a variety of robust health and well-being benefit programs, including medical, dental, vision, Flexible Spending Accounts, retirement savings plans, life and disability insurance, paid vacation & holidays, tuition assistance programs, and more. Please click here to see details. #LI-NS1",
     "score": 55,
@@ -36156,7 +35578,7 @@
     {
      "url": "https://jobs.teradyne.com/",
      "status": 200,
-     "bytes": 103559
+     "bytes": 103558
     },
     {
      "url": "https://jobs.teradyne.com/?locale=en_US",
@@ -36166,7 +35588,7 @@
     {
      "url": "https://jobs.teradyne.com/?locale=ja_JP",
      "status": 200,
-     "bytes": 90378
+     "bytes": 90377
     }
    ],
    "candidates": [
@@ -36178,10 +35600,10 @@
     "workable:teradyne(guess)"
    ],
    "attempts": [
-    "successfactors:jobs.teradyne.com -> 55 jobs"
+    "successfactors:jobs.teradyne.com -> 54 jobs"
    ]
   },
-  "ms": 19097
+  "ms": 19120
  },
  {
   "company": "Teachmint",
@@ -37004,7 +36426,7 @@
     "keka:teachmint -> 29 jobs"
    ]
   },
-  "ms": 4586
+  "ms": 5476
  },
  {
   "company": "Testbook",
@@ -37069,7 +36491,7 @@
     "workable:testbook -> no board"
    ]
   },
-  "ms": 18034
+  "ms": 16565
  },
  {
   "company": "Truemeds",
@@ -37094,17 +36516,17 @@
     {
      "url": "https://truemeds.in/careers",
      "status": 404,
-     "bytes": 78103
+     "bytes": 78104
     },
     {
      "url": "https://truemeds.in/career",
      "status": 404,
-     "bytes": 78101
+     "bytes": 78103
     },
     {
      "url": "https://truemeds.in/jobs",
      "status": 404,
-     "bytes": 78102
+     "bytes": 78104
     },
     {
      "url": "https://truemeds.in/join-us",
@@ -37124,17 +36546,17 @@
     {
      "url": "https://truemeds.in/company/careers",
      "status": 404,
-     "bytes": 78130
+     "bytes": 78103
     },
     {
      "url": "https://truemeds.in/about/careers",
      "status": 404,
-     "bytes": 78104
+     "bytes": 78103
     },
     {
      "url": "https://truemeds.in/current-openings",
      "status": 404,
-     "bytes": 78104
+     "bytes": 78103
     },
     {
      "url": "https://truemeds.in/",
@@ -37157,7 +36579,7 @@
     "workable:truemeds -> no board"
    ]
   },
-  "ms": 7457
+  "ms": 4615
  },
  {
   "company": "Tricog Health",
@@ -37182,17 +36604,17 @@
     {
      "url": "https://tricog.com/careers",
      "status": 200,
-     "bytes": 395571
+     "bytes": 395567
     },
     {
      "url": "https://tricog.com/career",
      "status": 200,
-     "bytes": 395571
+     "bytes": 395563
     },
     {
      "url": "https://tricog.com/jobs",
      "status": 404,
-     "bytes": 288354
+     "bytes": 288352
     },
     {
      "url": "https://tricog.com/join-us",
@@ -37202,7 +36624,7 @@
     {
      "url": "https://tricog.com/join-our-team",
      "status": 404,
-     "bytes": 288366
+     "bytes": 288370
     }
    ],
    "candidates": [
@@ -37222,7 +36644,7 @@
     "workable:tricog -> no board"
    ]
   },
-  "ms": 15396
+  "ms": 22333
  },
  {
   "company": "Turno",
@@ -37484,7 +36906,7 @@
     "keka:turno -> 9 jobs"
    ]
   },
-  "ms": 7721
+  "ms": 8880
  },
  {
   "company": "Tonbo Imaging",
@@ -37888,7 +37310,7 @@
     "workable:tonboimaging -> no board"
    ]
   },
-  "ms": 36076
+  "ms": 17767
  },
  {
   "company": "TranZact",
@@ -38101,7 +37523,7 @@
     "keka:fcb -> 5 jobs"
    ]
   },
-  "ms": 1651
+  "ms": 1006
  },
  {
   "company": "Tartan",
@@ -38425,7 +37847,7 @@
     "keka:tartanhq -> 6 jobs"
    ]
   },
-  "ms": 2056
+  "ms": 2220
  },
  {
   "company": "TrusTrace",
@@ -38472,7 +37894,7 @@
     "workable:trustrace -> no board"
    ]
   },
-  "ms": 29669
+  "ms": 18359
  },
  {
   "company": "The Souled Store",
@@ -38560,7 +37982,7 @@
     "workable:thesouledstore -> no board"
    ]
   },
-  "ms": 5180
+  "ms": 4196
  },
  {
   "company": "TransUnion CIBIL",
@@ -38648,7 +38070,7 @@
     "workable:transunioncibil -> no board"
    ]
   },
-  "ms": 3246
+  "ms": 3153
  },
  {
   "company": "Toluna India",
@@ -38673,12 +38095,12 @@
     {
      "url": "https://toluna.com/careers",
      "status": 404,
-     "bytes": 102597
+     "bytes": 101287
     },
     {
      "url": "https://toluna.com/career",
      "status": 404,
-     "bytes": 102578
+     "bytes": 102176
     },
     {
      "url": "https://toluna.com/jobs",
@@ -38701,7 +38123,7 @@
     "workable:toluna -> no board"
    ]
   },
-  "ms": 18853
+  "ms": 22089
  },
  {
   "company": "TalentNeuron",
@@ -38894,7 +38316,7 @@
     "rippling:talentneuroncareers -> 6 jobs"
    ]
   },
-  "ms": 9452
+  "ms": 9548
  },
  {
   "company": "Tyler Technologies India",
@@ -38951,7 +38373,7 @@
     "workable:tylertech -> no board"
    ]
   },
-  "ms": 31021
+  "ms": 37769
  },
  {
   "company": "TIBCO Software India",
@@ -38976,12 +38398,12 @@
     {
      "url": "https://tibco.com/careers",
      "status": 404,
-     "bytes": 32187
+     "bytes": 32186
     },
     {
      "url": "https://tibco.com/career",
      "status": 404,
-     "bytes": 32187
+     "bytes": 32186
     },
     {
      "url": "https://tibco.com/jobs",
@@ -38991,27 +38413,27 @@
     {
      "url": "https://tibco.com/join-us",
      "status": 404,
-     "bytes": 32185
+     "bytes": 32186
     },
     {
      "url": "https://tibco.com/join-our-team",
      "status": 404,
-     "bytes": 32185
+     "bytes": 32186
     },
     {
      "url": "https://tibco.com/careers.html",
      "status": 404,
-     "bytes": 32187
+     "bytes": 32186
     },
     {
      "url": "https://tibco.com/company/careers",
      "status": 404,
-     "bytes": 32186
+     "bytes": 32185
     },
     {
      "url": "https://tibco.com/about/careers",
      "status": 404,
-     "bytes": 32185
+     "bytes": 32186
     },
     {
      "url": "https://tibco.com/current-openings",
@@ -39021,7 +38443,7 @@
     {
      "url": "https://tibco.com/",
      "status": 200,
-     "bytes": 194348
+     "bytes": 194350
     },
     {
      "url": "https://careers.cloud.com/",
@@ -39047,7 +38469,7 @@
     "workable:tibco -> no board"
    ]
   },
-  "ms": 19091
+  "ms": 17686
  },
  {
   "company": "Thence",
@@ -39140,7 +38562,7 @@
     "workable:thence -> no board"
    ]
   },
-  "ms": 10782
+  "ms": 7604
  },
  {
   "company": "Trustt",
@@ -39228,7 +38650,7 @@
     "workable:trustt -> no board"
    ]
   },
-  "ms": 10834
+  "ms": 6598
  },
  {
   "company": "Twid",
@@ -39253,7 +38675,7 @@
     {
      "url": "https://twid.co/careers",
      "status": 200,
-     "bytes": 34809
+     "bytes": 34808
     },
     {
      "url": "https://twid.co/career",
@@ -39263,7 +38685,12 @@
     {
      "url": "https://twid.co/jobs",
      "status": 200,
-     "bytes": 34787
+     "bytes": 34788
+    },
+    {
+     "url": "https://twid.co/join-us",
+     "status": 200,
+     "bytes": 34865
     }
    ],
    "candidates": [
@@ -39281,7 +38708,7 @@
     "workable:twid -> no board"
    ]
   },
-  "ms": 11227
+  "ms": 12065
  },
  {
   "company": "Techversant Infotech",
@@ -39566,7 +38993,7 @@
     "workable:techversantinfotech -> no board"
    ]
   },
-  "ms": 7848
+  "ms": 5815
  },
  {
   "company": "Techmango Technology Services",
@@ -39828,7 +39255,7 @@
     {
      "url": "https://www.techmango.net/careers/",
      "status": 200,
-     "bytes": 522318
+     "bytes": 522362
     }
    ],
    "candidates": [
@@ -39846,7 +39273,7 @@
     "workable:techmango -> no board"
    ]
   },
-  "ms": 26400
+  "ms": 23294
  },
  {
   "company": "Teksun",
@@ -40193,7 +39620,7 @@
     {
      "url": "https://teksun.com/career",
      "status": 404,
-     "bytes": 385341
+     "bytes": 385342
     }
    ],
    "candidates": [
@@ -40211,7 +39638,7 @@
     "workable:teksun -> no board"
    ]
   },
-  "ms": 7844
+  "ms": 7156
  },
  {
   "company": "Tenup Software Services",
@@ -40461,7 +39888,7 @@
     "workable:tenupsoft -> no board"
    ]
   },
-  "ms": 20915
+  "ms": 24478
  },
  {
   "company": "Tridiagonal Solutions",
@@ -40723,15 +40150,10 @@
     {
      "url": "https://tridiagonal.com/career",
      "status": 404,
-     "bytes": 53543
+     "bytes": 53537
     },
     {
      "url": "https://tridiagonal.com/jobs",
-     "status": 404,
-     "bytes": 53543
-    },
-    {
-     "url": "https://tridiagonal.com/join-us",
      "status": 404,
      "bytes": 53491
     }
@@ -40751,7 +40173,7 @@
     "workable:tridiagonal -> no board"
    ]
   },
-  "ms": 2675
+  "ms": 2576
  },
  {
   "company": "Techdome Solutions",
@@ -40819,7 +40241,7 @@
     "workable:techdome -> no board"
    ]
   },
-  "ms": 12813
+  "ms": 13325
  },
  {
   "company": "Truein",
@@ -40907,7 +40329,7 @@
     "workable:truein -> no board"
    ]
   },
-  "ms": 8899
+  "ms": 10269
  },
  {
   "company": "Trendlyne",
@@ -40995,7 +40417,7 @@
     "workable:trendlyne -> no board"
    ]
   },
-  "ms": 4585
+  "ms": 3694
  },
  {
   "company": "Tookitaki",
@@ -41083,7 +40505,7 @@
     "workable:tookitaki -> no board"
    ]
   },
-  "ms": 14235
+  "ms": 14227
  },
  {
   "company": "ToneTag",
@@ -41108,52 +40530,17 @@
     {
      "url": "https://tonetag.com/careers",
      "status": 404,
-     "bytes": 175471
+     "bytes": 175465
     },
     {
      "url": "https://tonetag.com/career",
      "status": 200,
-     "bytes": 394444
+     "bytes": 394441
     },
     {
      "url": "https://tonetag.com/jobs",
      "status": 404,
-     "bytes": 175471
-    },
-    {
-     "url": "https://tonetag.com/join-us",
-     "status": 404,
-     "bytes": 175469
-    },
-    {
-     "url": "https://tonetag.com/join-our-team",
-     "status": 404,
-     "bytes": 175469
-    },
-    {
-     "url": "https://tonetag.com/careers.html",
-     "status": 404,
-     "bytes": 175469
-    },
-    {
-     "url": "https://tonetag.com/company/careers",
-     "status": 404,
      "bytes": 175473
-    },
-    {
-     "url": "https://tonetag.com/about/careers",
-     "status": 404,
-     "bytes": 175469
-    },
-    {
-     "url": "https://tonetag.com/current-openings",
-     "status": 404,
-     "bytes": 175471
-    },
-    {
-     "url": "https://tonetag.com/",
-     "status": 200,
-     "bytes": 394444
     }
    ],
    "candidates": [
@@ -41171,7 +40558,7 @@
     "workable:tonetag -> no board"
    ]
   },
-  "ms": 11731
+  "ms": 12258
  },
  {
   "company": "Testsigma",
@@ -41259,7 +40646,7 @@
     "workable:testsigma -> no board"
    ]
   },
-  "ms": 31665
+  "ms": 29244
  },
  {
   "company": "Typeface",
@@ -41492,7 +40879,7 @@
     "score": -22
    },
    {
-    "title": "Senior Product Manager-Ads",
+    "title": "Senior Product Manager",
     "location": "Palo Alto, CA",
     "url": "https://job-boards.greenhouse.io/typeface/jobs/4685808007",
     "india": false,
@@ -41660,7 +41047,7 @@
     {
      "url": "https://typeface.ai/careers",
      "status": 200,
-     "bytes": 128157
+     "bytes": 128146
     },
     {
      "url": "https://typeface.ai/career",
@@ -41684,7 +41071,7 @@
     "greenhouse:typeface -> 16 jobs (guess, name-verified)"
    ]
   },
-  "ms": 5011
+  "ms": 2188
  },
  {
   "company": "Trane Technologies India",
@@ -41703,7 +41090,7 @@
     {
      "url": "https://careers.tranetechnologies.com",
      "status": 200,
-     "bytes": 163918
+     "bytes": 164089
     },
     {
      "url": "https://tranetechnologies.com/careers",
@@ -41793,7 +41180,7 @@
     "workable:tranetechnologies -> no board"
    ]
   },
-  "ms": 72030
+  "ms": 54834
  },
  {
   "company": "Toyota Connected India",
@@ -41883,7 +41270,7 @@
     "workable:toyotaconnected -> no board"
    ]
   },
-  "ms": 13084
+  "ms": 12602
  },
  {
   "company": "TransPerfect India",
@@ -41893,7 +41280,7 @@
   "totalJobs": 40,
   "jobs": [
    {
-    "title": "Customer Service Representative",
+    "title": "Temporary Customer Service Representative",
     "location": "US-Tempe, AZ (1725 Greentree)",
     "url": "https://transperfect.wd5.myworkdayjobs.com/transperfect/job/US-Tempe-AZ-1725-Greentree/Customer-Service-Representative_R2025-244408",
     "india": false,
@@ -42497,11 +41884,11 @@
   "matches": [],
   "nearMatches": [],
   "closest": {
-   "title": "Customer Service Representative",
+   "title": "Temporary Customer Service Representative",
    "location": "US-Tempe, AZ (1725 Greentree)",
    "url": "https://transperfect.wd5.myworkdayjobs.com/transperfect/job/US-Tempe-AZ-1725-Greentree/Customer-Service-Representative_R2025-244408",
    "team": "",
-   "text": "Customer Service Representative",
+   "text": "Temporary Customer Service Representative",
    "_detail": "https://transperfect.wd5.myworkdayjobs.com/wday/cxs/transperfect/transperfect/job/US-Tempe-AZ-1725-Greentree/Customer-Service-Representative_R2025-244408",
    "_detailKind": "workday",
    "score": 4,
@@ -42528,7 +41915,7 @@
     {
      "url": "https://transperfect.com/careers",
      "status": 200,
-     "bytes": 243686
+     "bytes": 243562
     },
     {
      "url": "https://transperfect.com/career",
@@ -42553,7 +41940,7 @@
     "workday:transperfect -> 40 jobs"
    ]
   },
-  "ms": 16195
+  "ms": 18059
  },
  {
   "company": "TCG Digital",
@@ -42814,7 +42201,7 @@
     "workable:tcgdigital -> no board"
    ]
   },
-  "ms": 9676
+  "ms": 9222
  },
  {
   "company": "The Digital Group",
@@ -43028,7 +42415,7 @@
     "workable:thedigitalgroup -> no board"
    ]
   },
-  "ms": 4821
+  "ms": 4848
  },
  {
   "company": "TAKE Solutions",
@@ -43126,7 +42513,7 @@
     "workable:takesolutions -> no board"
    ]
   },
-  "ms": 5653
+  "ms": 4987
  },
  {
   "company": "TrackWizz",
@@ -43444,7 +42831,7 @@
     "workable:trackwizz -> no board"
    ]
   },
-  "ms": 6540
+  "ms": 6214
  },
  {
   "company": "TradeIndia",
@@ -43496,7 +42883,7 @@
     "workable:tradeindia -> no board"
    ]
   },
-  "ms": 12680
+  "ms": 15311
  },
  {
   "company": "TravelTriangle",
@@ -43690,17 +43077,17 @@
     {
      "url": "https://traveltriangle.com/careers",
      "status": 200,
-     "bytes": 368652
+     "bytes": 369413
     },
     {
      "url": "https://traveltriangle.com/career",
      "status": 200,
-     "bytes": 376538
+     "bytes": 376999
     },
     {
      "url": "https://traveltriangle.com/jobs",
      "status": 404,
-     "bytes": 368668
+     "bytes": 367654
     }
    ],
    "candidates": [
@@ -43718,7 +43105,7 @@
     "workable:traveltriangle -> no board"
    ]
   },
-  "ms": 12728
+  "ms": 20539
  },
  {
   "company": "Treebo Hotels",
@@ -43989,7 +43376,7 @@
     "workable:treebo -> no board"
    ]
   },
-  "ms": 6417
+  "ms": 5290
  },
  {
   "company": "Techify Solutions",
@@ -44205,7 +43592,7 @@
     "workable:techifysolutions -> no board"
    ]
   },
-  "ms": 18775
+  "ms": 20571
  },
  {
   "company": "Trigma Solutions",
@@ -44347,17 +43734,27 @@
     {
      "url": "https://trigma.com/careers",
      "status": 200,
-     "bytes": 515133
+     "bytes": 360309
     },
     {
      "url": "https://trigma.com/career",
      "status": 404,
-     "bytes": 393127
+     "bytes": 393051
     },
     {
      "url": "https://trigma.com/jobs",
      "status": 404,
      "bytes": 393047
+    },
+    {
+     "url": "https://trigma.com/join-us",
+     "status": 404,
+     "bytes": 393053
+    },
+    {
+     "url": "https://trigma.com/join-our-team",
+     "status": 404,
+     "bytes": 393066
     }
    ],
    "candidates": [
@@ -44375,7 +43772,7 @@
     "workable:trigma -> no board"
    ]
   },
-  "ms": 17182
+  "ms": 16507
  },
  {
   "company": "ThoughtMate Systems",
@@ -44463,7 +43860,7 @@
     "workable:thoughtmate -> no board"
    ]
   },
-  "ms": 37321
+  "ms": 14898
  },
  {
   "company": "Toprankers",
@@ -46830,7 +46227,7 @@
     "keka:toprankers -> 113 jobs"
    ]
   },
-  "ms": 1946
+  "ms": 2037
  },
  {
   "company": "Tarnea Technology Solutions",
@@ -46918,7 +46315,7 @@
     "workable:tarnea -> no board"
    ]
   },
-  "ms": 6800
+  "ms": 6762
  },
  {
   "company": "Tekgeminus Solutions",
@@ -46986,14 +46383,14 @@
     "workable:tekgeminus -> no board"
    ]
   },
-  "ms": 30067
+  "ms": 29347
  },
  {
   "company": "Tenstorrent India",
   "country": "India",
   "source": "greenhouse:tenstorrent",
   "error": null,
-  "totalJobs": 126,
+  "totalJobs": 127,
   "jobs": [
    {
     "title": "SOC Emulation Engineer - Hardware Emulation Infrastructure",
@@ -48845,6 +48242,21 @@
     "score": -18
    },
    {
+    "title": "Sr. Product Manager, Platform",
+    "location": "United States",
+    "url": "https://job-boards.greenhouse.io/tenstorrent/jobs/5207111007",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [],
+    "expFits2": false,
+    "score": -18
+   },
+   {
     "title": "Sr. Staff Program Manager & Chief of Staff, Operations",
     "location": "Austin, Texas, United States; Boston, Massachusetts, United States; Santa Clara, California, United States; Toronto, Ontario, Canada",
     "url": "https://job-boards.greenhouse.io/tenstorrent/jobs/5185558007",
@@ -49237,7 +48649,7 @@
     {
      "url": "https://tenstorrent.com/careers",
      "status": 200,
-     "bytes": 1202810
+     "bytes": 1210884
     },
     {
      "url": "https://tenstorrent.com/career",
@@ -49293,10 +48705,10 @@
     "workable:tenstorrent(guess)"
    ],
    "attempts": [
-    "greenhouse:tenstorrent -> 126 jobs"
+    "greenhouse:tenstorrent -> 127 jobs"
    ]
   },
-  "ms": 3533
+  "ms": 3775
  },
  {
   "company": "Tower Research Capital India",
@@ -49359,7 +48771,7 @@
     "workable:towerresearch -> no board"
    ]
   },
-  "ms": 22380
+  "ms": 17871
  },
  {
   "company": "TIAA India",
@@ -49470,6 +48882,21 @@
     "exp": [],
     "expFits2": false,
     "score": 9
+   },
+   {
+    "title": "Business Strategy and Analysis",
+    "location": "3 Locations",
+    "url": "https://tiaa.wd1.myworkdayjobs.com/Search/job/Charlotte-NC-USA/Business-Strategy-and-Analysis_R260600277-2",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 4
    },
    {
     "title": "Wealth Planning Strategist",
@@ -49965,21 +49392,6 @@
     "exp": [],
     "expFits2": false,
     "score": -18
-   },
-   {
-    "title": "Director, Marketing Strategy",
-    "location": "3 Locations",
-    "url": "https://tiaa.wd1.myworkdayjobs.com/Search/job/Dallas-TX-USA/Director--Marketing-Strategy_R260600150-1",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": true,
-    "exp": [],
-    "expFits2": false,
-    "score": -18
    }
   ],
   "enriched": 1,
@@ -50068,22 +49480,22 @@
     {
      "url": "https://tiaa.org/career",
      "status": 404,
-     "bytes": 14752
+     "bytes": 14755
     },
     {
      "url": "https://tiaa.org/jobs",
      "status": 404,
-     "bytes": 14752
+     "bytes": 14755
     },
     {
      "url": "https://tiaa.org/join-us",
      "status": 404,
-     "bytes": 14752
+     "bytes": 14755
     },
     {
      "url": "https://tiaa.org/join-our-team",
      "status": 404,
-     "bytes": 14752
+     "bytes": 14755
     },
     {
      "url": "https://tiaa.org/careers.html",
@@ -50093,22 +49505,22 @@
     {
      "url": "https://tiaa.org/company/careers",
      "status": 404,
-     "bytes": 14752
+     "bytes": 14755
     },
     {
      "url": "https://tiaa.org/about/careers",
      "status": 404,
-     "bytes": 14752
+     "bytes": 14755
     },
     {
      "url": "https://tiaa.org/current-openings",
      "status": 404,
-     "bytes": 14752
+     "bytes": 14755
     },
     {
      "url": "https://tiaa.org/",
      "status": 200,
-     "bytes": 47939
+     "bytes": 47942
     }
    ],
    "candidates": [
@@ -50124,7 +49536,7 @@
     "workday:tiaa -> 40 jobs"
    ]
   },
-  "ms": 29465
+  "ms": 20156
  },
  {
   "company": "Traya Health",
@@ -50194,7 +49606,7 @@
     {
      "url": "https://traya.health/",
      "status": 200,
-     "bytes": 541697
+     "bytes": 541648
     }
    ],
    "candidates": [
@@ -50212,7 +49624,7 @@
     "workable:traya -> no board"
    ]
   },
-  "ms": 7471
+  "ms": 7220
  },
  {
   "company": "The Good Glamm Group",
@@ -50310,7 +49722,7 @@
     "workable:goodglamm -> no board"
    ]
   },
-  "ms": 33831
+  "ms": 34600
  },
  {
   "company": "Tazapay",
@@ -50399,6 +49811,6 @@
     "workable:tazapay -> no board"
    ]
   },
-  "ms": 2327
+  "ms": 2715
  }
 ]

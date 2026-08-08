@@ -91,3 +91,11 @@ Checking 92 companies (concurrency 8)
 [ 89/92] Unimoni India                !! careers-page-read-but-lists-no-openings
 [ 90/92] Upshot.ai                      2 jobs  via headings:https://careers.upshot.ai/
 [ 91/92] Unifynd Technologies         !! careers-page-read-but-lists-no-openings
+[ 92/92] Uniquify                     !! no-job-data-found
+
+  boards read with jobs : 34
+  boards read, 0 open   : 1
+  could not read        : 57
+  companies w/ matches  : 1
+
+Wrote careers.txt + results.json

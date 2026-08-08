@@ -994,18 +994,13 @@ module.exports=[
  },
  {
   "name": "Circles.life",
-  "country": "India",
+  "country": "Singapore",
   "site": "circles.life"
  },
  {
   "name": "Clarisights",
   "country": "India",
   "site": "clarisights.com"
- },
- {
-  "name": "Clearwater Analytics India",
-  "country": "India",
-  "site": "clearwateranalytics.com"
  },
  {
   "name": "Cred Avenue",
@@ -1016,5 +1011,820 @@ module.exports=[
   "name": "Cropdata",
   "country": "India",
   "site": "cropdata.in"
+ },
+ {
+  "name": "Cigniti Technologies",
+  "country": "India",
+  "site": "cigniti.com"
+ },
+ {
+  "name": "Cyfuture India",
+  "country": "India",
+  "site": "cyfuture.com"
+ },
+ {
+  "name": "Clari5",
+  "country": "India",
+  "site": "clari5.com"
+ },
+ {
+  "name": "Credencys Solutions",
+  "country": "India",
+  "site": "credencys.com"
+ },
+ {
+  "name": "Codiant Software Technologies",
+  "country": "India",
+  "site": "codiant.com"
+ },
+ {
+  "name": "Cerebrum Infotech",
+  "country": "India",
+  "site": "cerebruminfotech.com"
+ },
+ {
+  "name": "Codebrahma",
+  "country": "India",
+  "site": "codebrahma.com"
+ },
+ {
+  "name": "CodeVyasa",
+  "country": "India",
+  "site": "codevyasa.com"
+ },
+ {
+  "name": "Codiste",
+  "country": "India",
+  "site": "codiste.com"
+ },
+ {
+  "name": "Colan Infotech",
+  "country": "India",
+  "site": "colaninfotech.com"
+ },
+ {
+  "name": "CronJ IT Technologies",
+  "country": "India",
+  "site": "cronj.com"
+ },
+ {
+  "name": "Classic Informatics",
+  "country": "India",
+  "site": "classicinformatics.com"
+ },
+ {
+  "name": "ClaySys Technologies",
+  "country": "India",
+  "site": "claysys.com"
+ },
+ {
+  "name": "Cabot Solutions",
+  "country": "India",
+  "site": "cabotsolutions.com"
+ },
+ {
+  "name": "Cybrosys Technologies",
+  "country": "India",
+  "site": "cybrosys.com"
+ },
+ {
+  "name": "Comprinno Technologies",
+  "country": "India",
+  "site": "comprinno.net"
+ },
+ {
+  "name": "CloudNow Technologies",
+  "country": "India",
+  "site": "cloudnowtech.com"
+ },
+ {
+  "name": "CoffeeBeans Consulting",
+  "country": "India",
+  "site": "coffeebeans.io"
+ },
+ {
+  "name": "CodeCraft Technologies",
+  "country": "India",
+  "site": "codecrafttech.com"
+ },
+ {
+  "name": "Cloudi5 Technologies",
+  "country": "India",
+  "site": "cloudi5.com"
+ },
+ {
+  "name": "Capital Numbers Infotech",
+  "country": "India",
+  "site": "capitalnumbers.com"
+ },
+ {
+  "name": "CMARIX Technolabs",
+  "country": "India",
+  "site": "cmarix.com"
+ },
+ {
+  "name": "Communication Crafts",
+  "country": "India",
+  "site": "communicationcrafts.com"
+ },
+ {
+  "name": "Cybercom Creation",
+  "country": "India",
+  "site": "cybercom.co.in"
+ },
+ {
+  "name": "Cyblance Technologies",
+  "country": "India",
+  "site": "cyblance.com"
+ },
+ {
+  "name": "CSM Technologies",
+  "country": "India",
+  "site": "csm.tech"
+ },
+ {
+  "name": "Cognologix Technologies",
+  "country": "India",
+  "site": "cognologix.com"
+ },
+ {
+  "name": "Coriolis Technologies",
+  "country": "India",
+  "site": "coriolis.co.in"
+ },
+ {
+  "name": "Ceinsys Tech",
+  "country": "India",
+  "site": "ceinsys.com"
+ },
+ {
+  "name": "Cybernetik Technologies",
+  "country": "India",
+  "site": "cybernetik.com"
+ },
+ {
+  "name": "CMS IT Services",
+  "country": "India",
+  "site": "cmsitservices.com"
+ },
+ {
+  "name": "Cateina Technologies",
+  "country": "India",
+  "site": "cateina.com"
+ },
+ {
+  "name": "CEPTES Software",
+  "country": "India",
+  "site": "ceptes.com"
+ },
+ {
+  "name": "Coretus Technologies",
+  "country": "India",
+  "site": "coretus.com"
+ },
+ {
+  "name": "Crownstack Technologies",
+  "country": "India",
+  "site": "crownstack.com"
+ },
+ {
+  "name": "Crestech Software Systems",
+  "country": "India",
+  "site": "crestechsoftware.com"
+ },
+ {
+  "name": "CONTUS Tech",
+  "country": "India",
+  "site": "contus.com"
+ },
+ {
+  "name": "ComTec Information Systems",
+  "country": "India",
+  "site": "comtecinfo.com"
+ },
+ {
+  "name": "Cumulations Technologies",
+  "country": "India",
+  "site": "cumulations.com"
+ },
+ {
+  "name": "CodeToArt Technology",
+  "country": "India",
+  "site": "codetoart.com"
+ },
+ {
+  "name": "Codeflies Technologies",
+  "country": "India",
+  "site": "codeflies.com"
+ },
+ {
+  "name": "Codzgarage Infotech",
+  "country": "India",
+  "site": "codzgarage.com"
+ },
+ {
+  "name": "Cognisun Infotech",
+  "country": "India",
+  "site": "cognisun.com"
+ },
+ {
+  "name": "CodePlateau Technology",
+  "country": "India",
+  "site": "codeplateau.com"
+ },
+ {
+  "name": "CodeTrade India",
+  "country": "India",
+  "site": "codetrade.io"
+ },
+ {
+  "name": "Cliffex Digital",
+  "country": "India",
+  "site": "cliffex.com"
+ },
+ {
+  "name": "CereBulb",
+  "country": "India",
+  "site": "cerebulb.com"
+ },
+ {
+  "name": "CyberSapient",
+  "country": "India",
+  "site": "cybersapient.io"
+ },
+ {
+  "name": "Codoid Innovations",
+  "country": "India",
+  "site": "codoid.com"
+ },
+ {
+  "name": "ChromeInfo Technologies",
+  "country": "India",
+  "site": "chromeinfotech.net"
+ },
+ {
+  "name": "CDN Solutions Group",
+  "country": "India",
+  "site": "cdnsol.com"
+ },
+ {
+  "name": "Codetru",
+  "country": "India",
+  "site": "codetru.com"
+ },
+ {
+  "name": "Code Winglet",
+  "country": "India",
+  "site": "codewinglet.com"
+ },
+ {
+  "name": "CodeRower",
+  "country": "India",
+  "site": "coderower.com"
+ },
+ {
+  "name": "Chimera Technologies",
+  "country": "India",
+  "site": "chimeratechnologies.com"
+ },
+ {
+  "name": "CloudStakes Technology",
+  "country": "India",
+  "site": "cloudstakes.com"
+ },
+ {
+  "name": "Clustrex Data",
+  "country": "India",
+  "site": "clustrex.com"
+ },
+ {
+  "name": "Concept Infoway",
+  "country": "India",
+  "site": "conceptinfoway.net"
+ },
+ {
+  "name": "Compro Technologies",
+  "country": "India",
+  "site": "comprotechnologies.com"
+ },
+ {
+  "name": "Cynefian",
+  "country": "India",
+  "site": "cynefian.com"
+ },
+ {
+  "name": "Coyolia Technologies",
+  "country": "India",
+  "site": "coyolia.com"
+ },
+ {
+  "name": "Cognibotz",
+  "country": "India",
+  "site": "cognibotz.com"
+ },
+ {
+  "name": "Codemancers",
+  "country": "India",
+  "site": "codemancers.com"
+ },
+ {
+  "name": "Comsense Technologies",
+  "country": "India",
+  "site": "comsensetechnologies.com"
+ },
+ {
+  "name": "Cogniter Technologies",
+  "country": "India",
+  "site": "cogniter.com"
+ },
+ {
+  "name": "Code Brew Labs",
+  "country": "India",
+  "site": "code-brew.com"
+ },
+ {
+  "name": "Codelattice",
+  "country": "India",
+  "site": "codelattice.com"
+ },
+ {
+  "name": "Claritus",
+  "country": "India",
+  "site": "claritusconsulting.com"
+ },
+ {
+  "name": "CodeAegis",
+  "country": "India",
+  "site": "codeaegis.com"
+ },
+ {
+  "name": "Changepond Technologies",
+  "country": "India",
+  "site": "changepond.com"
+ },
+ {
+  "name": "Cybernetyx",
+  "country": "India",
+  "site": "cybernetyx.com"
+ },
+ {
+  "name": "CashFlo",
+  "country": "India",
+  "site": "cashflo.io"
+ },
+ {
+  "name": "Credgenics",
+  "country": "India",
+  "site": "credgenics.com"
+ },
+ {
+  "name": "CASHe",
+  "country": "India",
+  "site": "cashe.co.in"
+ },
+ {
+  "name": "CarTrade Tech",
+  "country": "India",
+  "site": "cartrade.com"
+ },
+ {
+  "name": "CarWale",
+  "country": "India",
+  "site": "carwale.com"
+ },
+ {
+  "name": "Clinikk",
+  "country": "India",
+  "site": "clinikk.com"
+ },
+ {
+  "name": "Connect and Heal",
+  "country": "India",
+  "site": "connectandheal.com"
+ },
+ {
+  "name": "Cloudphysician",
+  "country": "India",
+  "site": "cloudphysician.ai"
+ },
+ {
+  "name": "ConfirmTkt",
+  "country": "India",
+  "site": "confirmtkt.com"
+ },
+ {
+  "name": "Cityflo",
+  "country": "India",
+  "site": "cityflo.com"
+ },
+ {
+  "name": "Cuemath",
+  "country": "India",
+  "site": "cuemath.com"
+ },
+ {
+  "name": "Careers360",
+  "country": "India",
+  "site": "careers360.com"
+ },
+ {
+  "name": "CodeChef",
+  "country": "India",
+  "site": "codechef.com"
+ },
+ {
+  "name": "Coding Blocks",
+  "country": "India",
+  "site": "codingblocks.com"
+ },
+ {
+  "name": "Crio.Do",
+  "country": "India",
+  "site": "crio.do"
+ },
+ {
+  "name": "Convin",
+  "country": "India",
+  "site": "convin.ai"
+ },
+ {
+  "name": "CamCom",
+  "country": "India",
+  "site": "camcom.ai"
+ },
+ {
+  "name": "ClearFeed",
+  "country": "India",
+  "site": "clearfeed.ai"
+ },
+ {
+  "name": "Convertcart",
+  "country": "India",
+  "site": "convertcart.com"
+ },
+ {
+  "name": "CloudKeeper",
+  "country": "India",
+  "site": "cloudkeeper.com"
+ },
+ {
+  "name": "CredR",
+  "country": "India",
+  "site": "credr.com"
+ },
+ {
+  "name": "CogniTensor",
+  "country": "India",
+  "site": "cognitensor.com"
+ },
+ {
+  "name": "CoutLoot",
+  "country": "India",
+  "site": "coutloot.com"
+ },
+ {
+  "name": "CLIRNET",
+  "country": "India",
+  "site": "clirnet.com"
+ },
+ {
+  "name": "Clovia",
+  "country": "India",
+  "site": "clovia.com"
+ },
+ {
+  "name": "Creatiosoft",
+  "country": "India",
+  "site": "creatiosoft.com"
+ },
+ {
+  "name": "Codeyoung",
+  "country": "India",
+  "site": "codeyoung.com"
+ },
+ {
+  "name": "Chatwoot",
+  "country": "India",
+  "site": "chatwoot.com"
+ },
+ {
+  "name": "CityMall",
+  "country": "India",
+  "site": "citymall.in"
+ },
+ {
+  "name": "Captain Fresh",
+  "country": "India",
+  "site": "captainfresh.in"
+ },
+ {
+  "name": "Cashinvoice",
+  "country": "India",
+  "site": "cashinvoice.in"
+ },
+ {
+  "name": "ClearDekho",
+  "country": "India",
+  "site": "cleardekho.com"
+ },
+ {
+  "name": "Credit Fair",
+  "country": "India",
+  "site": "creditfair.in"
+ },
+ {
+  "name": "CustomerLabs",
+  "country": "India",
+  "site": "customerlabs.com"
+ },
+ {
+  "name": "Ctruh Technologies",
+  "country": "India",
+  "site": "ctruh.com"
+ },
+ {
+  "name": "CynLr",
+  "country": "India",
+  "site": "cynlr.com"
+ },
+ {
+  "name": "Calligo Technologies",
+  "country": "India",
+  "site": "calligotech.com"
+ },
+ {
+  "name": "Cirel Systems",
+  "country": "India",
+  "site": "cirelsystems.com"
+ },
+ {
+  "name": "CircuitSutra Technologies",
+  "country": "India",
+  "site": "circuitsutra.com"
+ },
+ {
+  "name": "Centum Electronics",
+  "country": "India",
+  "site": "centumelectronics.com"
+ },
+ {
+  "name": "Cyient DLM",
+  "country": "India",
+  "site": "cyientdlm.com"
+ },
+ {
+  "name": "Cranes Software International",
+  "country": "India",
+  "site": "cranessoftware.com"
+ },
+ {
+  "name": "Choice International",
+  "country": "India",
+  "site": "choiceindia.com"
+ },
+ {
+  "name": "CCAvenue",
+  "country": "India",
+  "site": "ccavenue.com"
+ },
+ {
+  "name": "Cholamandalam MS General Insurance",
+  "country": "India",
+  "site": "cholainsurance.com"
+ },
+ {
+  "name": "Canara HSBC Life Insurance",
+  "country": "India",
+  "site": "canarahsbclife.com"
+ },
+ {
+  "name": "City Union Bank",
+  "country": "India",
+  "site": "cityunionbank.com"
+ },
+ {
+  "name": "Capri Global Capital",
+  "country": "India",
+  "site": "capriglobal.in"
+ },
+ {
+  "name": "CreditAccess Grameen",
+  "country": "India",
+  "site": "creditaccessgrameen.in"
+ },
+ {
+  "name": "CoreCard Software",
+  "country": "United States",
+  "site": "corecard.com"
+ },
+ {
+  "name": "C2FO",
+  "country": "United States",
+  "site": "c2fo.com"
+ },
+ {
+  "name": "Charles Schwab",
+  "country": "United States",
+  "site": "schwab.com"
+ },
+ {
+  "name": "Computershare",
+  "country": "Australia",
+  "site": "computershare.com"
+ },
+ {
+  "name": "Cognite",
+  "country": "Norway",
+  "site": "cognite.com"
+ },
+ {
+  "name": "Celonis",
+  "country": "Germany",
+  "site": "celonis.com"
+ },
+ {
+  "name": "ConcertAI",
+  "country": "United States",
+  "site": "concertai.com"
+ },
+ {
+  "name": "Crayon",
+  "country": "Norway",
+  "site": "crayon.com"
+ },
+ {
+  "name": "C.H. Robinson",
+  "country": "United States",
+  "site": "chrobinson.com"
+ },
+ {
+  "name": "Capita",
+  "country": "United Kingdom",
+  "site": "capita.com"
+ },
+ {
+  "name": "Capco",
+  "country": "United Kingdom",
+  "site": "capco.com"
+ },
+ {
+  "name": "Colruyt Group",
+  "country": "Belgium",
+  "site": "colruytgroup.com"
+ },
+ {
+  "name": "Credit Agricole CIB",
+  "country": "France",
+  "site": "ca-cib.com"
+ },
+ {
+  "name": "Commonwealth Bank of Australia",
+  "country": "Australia",
+  "site": "commbank.com.au"
+ },
+ {
+  "name": "Codal",
+  "country": "United States",
+  "site": "codal.com"
+ },
+ {
+  "name": "Copper Digital",
+  "country": "United States",
+  "site": "copperdigital.com"
+ },
+ {
+  "name": "CareStack",
+  "country": "United States",
+  "site": "carestack.com"
+ },
+ {
+  "name": "CirrusLabs",
+  "country": "United States",
+  "site": "cirruslabs.io"
+ },
+ {
+  "name": "Ceremorphic",
+  "country": "United States",
+  "site": "ceremorphic.com"
+ },
+ {
+  "name": "Corridor Platforms",
+  "country": "United States",
+  "site": "corridorplatforms.com"
+ },
+ {
+  "name": "Coralogix",
+  "country": "Israel",
+  "site": "coralogix.com"
+ },
+ {
+  "name": "CYFIRMA",
+  "country": "Singapore",
+  "site": "cyfirma.com"
+ },
+ {
+  "name": "Cyber Sierra",
+  "country": "Singapore",
+  "site": "cybersierra.co"
+ },
+ {
+  "name": "Carelon Global Solutions",
+  "country": "United States",
+  "site": "carelon.com"
+ },
+ {
+  "name": "Cengage Group",
+  "country": "United States",
+  "site": "cengagegroup.com"
+ },
+ {
+  "name": "Clario",
+  "country": "United States",
+  "site": "clario.com"
+ },
+ {
+  "name": "Clean Harbors",
+  "country": "United States",
+  "site": "cleanharbors.com"
+ },
+ {
+  "name": "Copeland",
+  "country": "United States",
+  "site": "copeland.com"
+ },
+ {
+  "name": "Canonical",
+  "country": "United Kingdom",
+  "site": "canonical.com"
+ },
+ {
+  "name": "Copado",
+  "country": "United States",
+  "site": "copado.com"
+ },
+ {
+  "name": "Clavax Technologies",
+  "country": "United States",
+  "site": "clavax.com"
+ },
+ {
+  "name": "Crestron Electronics",
+  "country": "United States",
+  "site": "crestron.com"
+ },
+ {
+  "name": "CoEnterprise",
+  "country": "United States",
+  "site": "coenterprise.com"
+ },
+ {
+  "name": "Clovity",
+  "country": "United States",
+  "site": "clovity.com"
+ },
+ {
+  "name": "Cloudaeon",
+  "country": "United Kingdom",
+  "site": "cloudaeon.com"
+ },
+ {
+  "name": "CoreFlex Solutions",
+  "country": "United States",
+  "site": "coreflexsolutions.com"
+ },
+ {
+  "name": "Crowdbotics",
+  "country": "United States",
+  "site": "crowdbotics.com"
+ },
+ {
+  "name": "CG Infinity",
+  "country": "United States",
+  "site": "cginfinity.com"
+ },
+ {
+  "name": "Codemantra",
+  "country": "United States",
+  "site": "codemantra.com"
+ },
+ {
+  "name": "Cognex",
+  "country": "United States",
+  "site": "cognex.com"
+ },
+ {
+  "name": "Coherent Corp",
+  "country": "United States",
+  "site": "coherent.com"
+ },
+ {
+  "name": "Corning",
+  "country": "United States",
+  "site": "corning.com"
+ },
+ {
+  "name": "Cotality",
+  "country": "United States",
+  "site": "cotality.com"
  }
 ];

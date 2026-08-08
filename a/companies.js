@@ -894,11 +894,6 @@ module.exports=[
   "careers": "https://www.azentio.com/careers"
  },
  {
-  "name": "Amazon India",
-  "country": "India",
-  "site": "amazon.jobs"
- },
- {
   "name": "Ameyo",
   "country": "India",
   "site": "ameyo.com"
@@ -917,11 +912,6 @@ module.exports=[
   "name": "Agilisium",
   "country": "India",
   "site": "agilisium.com"
- },
- {
-  "name": "Allstate India",
-  "country": "India",
-  "site": "allstate.com"
  },
  {
   "name": "Ambit Software",
@@ -957,5 +947,1100 @@ module.exports=[
   "name": "Ajmera Infotech",
   "country": "India",
   "site": "ajmerainfotech.com"
+ },
+ {
+  "name": "Aalpha Information Systems",
+  "country": "India",
+  "site": "aalpha.net"
+ },
+ {
+  "name": "Ace Infoway",
+  "country": "India",
+  "site": "aceinfoway.com"
+ },
+ {
+  "name": "Acceldata",
+  "country": "United States",
+  "site": "acceldata.io"
+ },
+ {
+  "name": "Accelya",
+  "country": "India",
+  "site": "accelya.com"
+ },
+ {
+  "name": "Accolite Digital",
+  "country": "United States",
+  "site": "accolite.com"
+ },
+ {
+  "name": "Accord Software and Systems",
+  "country": "India",
+  "site": "accordsoft.com"
+ },
+ {
+  "name": "ACL Digital",
+  "country": "India",
+  "site": "acldigital.com"
+ },
+ {
+  "name": "Ackrolix Innovations",
+  "country": "India",
+  "site": "ackrolix.com"
+ },
+ {
+  "name": "Accely",
+  "country": "India",
+  "site": "accely.com"
+ },
+ {
+  "name": "Access Healthcare",
+  "country": "United States",
+  "site": "accesshealthcare.com"
+ },
+ {
+  "name": "Acquaint Softtech",
+  "country": "India",
+  "site": "acquaintsofttech.com"
+ },
+ {
+  "name": "Abacus Desk",
+  "country": "India",
+  "site": "abacusdesk.com"
+ },
+ {
+  "name": "Abservetech",
+  "country": "India",
+  "site": "abservetech.com"
+ },
+ {
+  "name": "Adaequare",
+  "country": "India",
+  "site": "adaequare.com"
+ },
+ {
+  "name": "Adda247",
+  "country": "India",
+  "site": "adda247.com"
+ },
+ {
+  "name": "Adequate Infosoft",
+  "country": "India",
+  "site": "adequateinfosoft.com"
+ },
+ {
+  "name": "Adit Microsys",
+  "country": "India",
+  "site": "aditmicrosys.com"
+ },
+ {
+  "name": "AddWeb Solution",
+  "country": "India",
+  "site": "addwebsolution.com"
+ },
+ {
+  "name": "Adroitent",
+  "country": "India",
+  "site": "adroitent.com"
+ },
+ {
+  "name": "Advaiya",
+  "country": "India",
+  "site": "advaiya.com"
+ },
+ {
+  "name": "Advantage Club",
+  "country": "India",
+  "site": "advantageclub.co"
+ },
+ {
+  "name": "Aegis Softtech",
+  "country": "India",
+  "site": "aegissofttech.com"
+ },
+ {
+  "name": "Aeologic Technologies",
+  "country": "India",
+  "site": "aeologic.com"
+ },
+ {
+  "name": "Aeon Software",
+  "country": "India",
+  "site": "aeonsoftware.in"
+ },
+ {
+  "name": "Aerchain",
+  "country": "India",
+  "site": "aerchain.io"
+ },
+ {
+  "name": "AFour Technologies",
+  "country": "India",
+  "site": "afourtech.com"
+ },
+ {
+  "name": "Agicent",
+  "country": "India",
+  "site": "agicent.com"
+ },
+ {
+  "name": "Agile Infoways",
+  "country": "India",
+  "site": "agileinfoways.com"
+ },
+ {
+  "name": "Agiliad",
+  "country": "India",
+  "site": "agiliad.com"
+ },
+ {
+  "name": "Agira Technologies",
+  "country": "India",
+  "site": "agiratech.com"
+ },
+ {
+  "name": "Agnito Technologies",
+  "country": "India",
+  "site": "agnitotechnologies.com"
+ },
+ {
+  "name": "Ahex Technologies",
+  "country": "India",
+  "site": "ahex.co.in"
+ },
+ {
+  "name": "AIMDek Technologies",
+  "country": "India",
+  "site": "aimdek.com"
+ },
+ {
+  "name": "Aissel Technologies",
+  "country": "India",
+  "site": "aissel.com"
+ },
+ {
+  "name": "Ajackus",
+  "country": "India",
+  "site": "ajackus.com"
+ },
+ {
+  "name": "Akeo",
+  "country": "India",
+  "site": "akeo.tech"
+ },
+ {
+  "name": "Akrity",
+  "country": "India",
+  "site": "akrity.com"
+ },
+ {
+  "name": "Alcax Solutions",
+  "country": "India",
+  "site": "alcax.com"
+ },
+ {
+  "name": "Alchemy Techsol",
+  "country": "India",
+  "site": "alchemytechsol.com"
+ },
+ {
+  "name": "Algoscale",
+  "country": "India",
+  "site": "algoscale.com"
+ },
+ {
+  "name": "Algoworks",
+  "country": "India",
+  "site": "algoworks.com"
+ },
+ {
+  "name": "Alian Software",
+  "country": "India",
+  "site": "aliansoftware.com"
+ },
+ {
+  "name": "Alkye Services",
+  "country": "United Kingdom",
+  "site": "alkye.com"
+ },
+ {
+  "name": "Allied Digital Services",
+  "country": "India",
+  "site": "allieddigital.net"
+ },
+ {
+  "name": "Allsoft Solutions",
+  "country": "India",
+  "site": "allsoftsolutions.in"
+ },
+ {
+  "name": "Alphabin",
+  "country": "India",
+  "site": "alphabin.co"
+ },
+ {
+  "name": "Alpixn Technologies",
+  "country": "India",
+  "site": "alpixn.com"
+ },
+ {
+  "name": "ALTEN Calsoft Labs",
+  "country": "India",
+  "site": "altencalsoftlabs.com"
+ },
+ {
+  "name": "Altiux Innovations",
+  "country": "India",
+  "site": "altiux.com"
+ },
+ {
+  "name": "Altruist Technologies",
+  "country": "India",
+  "site": "altruistindia.com"
+ },
+ {
+  "name": "Amaze Systems",
+  "country": "United States",
+  "site": "amazesystems.com"
+ },
+ {
+  "name": "Ameex Technologies",
+  "country": "India",
+  "site": "ameexusa.com"
+ },
+ {
+  "name": "Amigoways",
+  "country": "India",
+  "site": "amigoways.com"
+ },
+ {
+  "name": "Amnet Digital",
+  "country": "India",
+  "site": "amnetdigital.com"
+ },
+ {
+  "name": "Amplework Software",
+  "country": "India",
+  "site": "amplework.com"
+ },
+ {
+  "name": "Amzur Technologies",
+  "country": "United States",
+  "site": "amzur.com"
+ },
+ {
+  "name": "Anaptyss",
+  "country": "United States",
+  "site": "anaptyss.com"
+ },
+ {
+  "name": "Andolasoft",
+  "country": "India",
+  "site": "andolasoft.com"
+ },
+ {
+  "name": "Angular Minds",
+  "country": "India",
+  "site": "angularminds.com"
+ },
+ {
+  "name": "Apex CoVantage",
+  "country": "United States",
+  "site": "apexcovantage.com"
+ },
+ {
+  "name": "Appfoster",
+  "country": "India",
+  "site": "appfoster.com"
+ },
+ {
+  "name": "Appiness Interactive",
+  "country": "India",
+  "site": "appinessworld.com"
+ },
+ {
+  "name": "Appointy",
+  "country": "India",
+  "site": "appointy.com"
+ },
+ {
+  "name": "Apporio Infolabs",
+  "country": "India",
+  "site": "apporio.com"
+ },
+ {
+  "name": "AppSquadz",
+  "country": "India",
+  "site": "appsquadz.com"
+ },
+ {
+  "name": "Appsierra",
+  "country": "India",
+  "site": "appsierra.com"
+ },
+ {
+  "name": "Appstean Infotech",
+  "country": "India",
+  "site": "appstean.com"
+ },
+ {
+  "name": "AppsTek Corp",
+  "country": "United States",
+  "site": "appstekcorp.com"
+ },
+ {
+  "name": "Apptware",
+  "country": "India",
+  "site": "apptware.com"
+ },
+ {
+  "name": "Appventurez",
+  "country": "India",
+  "site": "appventurez.com"
+ },
+ {
+  "name": "Aptagrim",
+  "country": "India",
+  "site": "aptagrim.com"
+ },
+ {
+  "name": "Aptech",
+  "country": "India",
+  "site": "aptech-worldwide.com"
+ },
+ {
+  "name": "Aptonworks",
+  "country": "India",
+  "site": "aptonworks.com"
+ },
+ {
+  "name": "Aptus Data Labs",
+  "country": "India",
+  "site": "aptusdatalabs.com"
+ },
+ {
+  "name": "Aranca",
+  "country": "India",
+  "site": "aranca.com"
+ },
+ {
+  "name": "Arcgate",
+  "country": "India",
+  "site": "arcgate.com"
+ },
+ {
+  "name": "Argano",
+  "country": "United States",
+  "site": "argano.com"
+ },
+ {
+  "name": "Arham Technosoft",
+  "country": "India",
+  "site": "arhamtechnosoft.com"
+ },
+ {
+  "name": "Ariel Software Solutions",
+  "country": "India",
+  "site": "arielsoftwares.com"
+ },
+ {
+  "name": "Arka Softwares",
+  "country": "India",
+  "site": "arkasoftwares.com"
+ },
+ {
+  "name": "Arkenea",
+  "country": "India",
+  "site": "arkenea.com"
+ },
+ {
+  "name": "Armia Systems",
+  "country": "India",
+  "site": "armia.com"
+ },
+ {
+  "name": "Arokia IT",
+  "country": "India",
+  "site": "arokiait.com"
+ },
+ {
+  "name": "Arrk Group",
+  "country": "India",
+  "site": "arrkgroup.com"
+ },
+ {
+  "name": "Arrise Solutions",
+  "country": "India",
+  "site": "arrise.com"
+ },
+ {
+  "name": "Artoon Solutions",
+  "country": "India",
+  "site": "artoonsolutions.com"
+ },
+ {
+  "name": "Asahi Technologies",
+  "country": "United States",
+  "site": "asahitechnologies.com"
+ },
+ {
+  "name": "Ascendum Solutions",
+  "country": "United States",
+  "site": "ascendum.com"
+ },
+ {
+  "name": "Ascentt",
+  "country": "United States",
+  "site": "ascentt.com"
+ },
+ {
+  "name": "Ashnik",
+  "country": "India",
+  "site": "ashnik.com"
+ },
+ {
+  "name": "Ashutec Solutions",
+  "country": "India",
+  "site": "ashutec.com"
+ },
+ {
+  "name": "ASM Technologies",
+  "country": "India",
+  "site": "asmltd.com"
+ },
+ {
+  "name": "Aspire NXT",
+  "country": "India",
+  "site": "aspirenxt.com"
+ },
+ {
+  "name": "Astegic",
+  "country": "United States",
+  "site": "astegic.com"
+ },
+ {
+  "name": "Atharva System",
+  "country": "India",
+  "site": "atharvasystem.com"
+ },
+ {
+  "name": "Atidan Technologies",
+  "country": "India",
+  "site": "atidan.com"
+ },
+ {
+  "name": "Atrina Technologies",
+  "country": "India",
+  "site": "atrina.in"
+ },
+ {
+  "name": "Attinad Software",
+  "country": "India",
+  "site": "attinadsoftware.com"
+ },
+ {
+  "name": "Atyeti",
+  "country": "United States",
+  "site": "atyeti.com"
+ },
+ {
+  "name": "Aubergine Solutions",
+  "country": "India",
+  "site": "aubergine.co"
+ },
+ {
+  "name": "Autointelli",
+  "country": "India",
+  "site": "autointelli.com"
+ },
+ {
+  "name": "Avaali Solutions",
+  "country": "India",
+  "site": "avaali.com"
+ },
+ {
+  "name": "AVASOFT",
+  "country": "India",
+  "site": "avasoft.com"
+ },
+ {
+  "name": "Aventior",
+  "country": "United States",
+  "site": "aventior.com"
+ },
+ {
+  "name": "Avidus Solutions",
+  "country": "India",
+  "site": "avidus.in"
+ },
+ {
+  "name": "Avinash Technologies",
+  "country": "India",
+  "site": "avinashtech.com"
+ },
+ {
+  "name": "Avnovo",
+  "country": "India",
+  "site": "avnovo.com"
+ },
+ {
+  "name": "Axcess.io",
+  "country": "India",
+  "site": "axcess.io"
+ },
+ {
+  "name": "Axis Softech",
+  "country": "India",
+  "site": "axissoftech.com"
+ },
+ {
+  "name": "AXISCADES",
+  "country": "India",
+  "site": "axiscades.com"
+ },
+ {
+  "name": "AyanWorks",
+  "country": "India",
+  "site": "ayanworks.com"
+ },
+ {
+  "name": "Aziro",
+  "country": "India",
+  "site": "aziro.com"
+ },
+ {
+  "name": "Applied Cloud Computing",
+  "country": "India",
+  "site": "acc.ltd"
+ },
+ {
+  "name": "Arahas Technologies",
+  "country": "India",
+  "site": "arahas.com"
+ },
+ {
+  "name": "Aarna Networks",
+  "country": "India",
+  "site": "aarnanetworks.com"
+ },
+ {
+  "name": "Aavenir",
+  "country": "India",
+  "site": "aavenir.com"
+ },
+ {
+  "name": "Acsia Technologies",
+  "country": "India",
+  "site": "acsiatech.com"
+ },
+ {
+  "name": "Aayan Infotech",
+  "country": "India",
+  "site": "aayaninfotech.com"
+ },
+ {
+  "name": "Alldigi Tech",
+  "country": "India",
+  "site": "alldigitech.com"
+ },
+ {
+  "name": "Absolute",
+  "country": "India",
+  "site": "absolute.ag"
+ },
+ {
+  "name": "AbhiBus",
+  "country": "India",
+  "site": "abhibus.com"
+ },
+ {
+  "name": "AceVector",
+  "country": "India",
+  "site": "acevector.com"
+ },
+ {
+  "name": "Actyv.ai",
+  "country": "India",
+  "site": "actyv.ai"
+ },
+ {
+  "name": "Adani Digital Labs",
+  "country": "India",
+  "site": "adanidigitallabs.com"
+ },
+ {
+  "name": "AdOnMo",
+  "country": "India",
+  "site": "adonmo.com"
+ },
+ {
+  "name": "Affordplan",
+  "country": "India",
+  "site": "affordplan.com"
+ },
+ {
+  "name": "Agnikul Cosmos",
+  "country": "India",
+  "site": "agnikul.in"
+ },
+ {
+  "name": "Agrim",
+  "country": "India",
+  "site": "agrim.co"
+ },
+ {
+  "name": "AgroStar",
+  "country": "India",
+  "site": "agrostar.in"
+ },
+ {
+  "name": "Aidetic",
+  "country": "India",
+  "site": "aidetic.in"
+ },
+ {
+  "name": "Airblack",
+  "country": "India",
+  "site": "airblack.com"
+ },
+ {
+  "name": "Airpay",
+  "country": "India",
+  "site": "airpay.co.in"
+ },
+ {
+  "name": "AjnaLens",
+  "country": "India",
+  "site": "ajnalens.com"
+ },
+ {
+  "name": "Aknamed",
+  "country": "India",
+  "site": "aknamed.com"
+ },
+ {
+  "name": "Akrivia HCM",
+  "country": "India",
+  "site": "akriviahcm.com"
+ },
+ {
+  "name": "Algo8",
+  "country": "India",
+  "site": "algo8.ai"
+ },
+ {
+  "name": "All Events",
+  "country": "India",
+  "site": "allevents.in"
+ },
+ {
+  "name": "AlmaBetter",
+  "country": "India",
+  "site": "almabetter.com"
+ },
+ {
+  "name": "AlphaGrep",
+  "country": "India",
+  "site": "alphagrep.com"
+ },
+ {
+  "name": "Alt Mobility",
+  "country": "India",
+  "site": "alt-mobility.com"
+ },
+ {
+  "name": "Ambak",
+  "country": "India",
+  "site": "ambak.com"
+ },
+ {
+  "name": "Anaxee",
+  "country": "India",
+  "site": "anaxee.com"
+ },
+ {
+  "name": "Animall",
+  "country": "India",
+  "site": "animall.in"
+ },
+ {
+  "name": "ApnaComplex",
+  "country": "India",
+  "site": "apnacomplex.com"
+ },
+ {
+  "name": "Apnaklub",
+  "country": "India",
+  "site": "apnaklub.com"
+ },
+ {
+  "name": "Apollo 24|7",
+  "country": "India",
+  "site": "apollo247.com"
+ },
+ {
+  "name": "Appsmith",
+  "country": "India",
+  "site": "appsmith.com"
+ },
+ {
+  "name": "Aprecomm",
+  "country": "India",
+  "site": "aprecomm.com"
+ },
+ {
+  "name": "Aquaconnect",
+  "country": "India",
+  "site": "aquaconnect.blue"
+ },
+ {
+  "name": "ArisInfra",
+  "country": "India",
+  "site": "arisinfra.com"
+ },
+ {
+  "name": "Artivatic",
+  "country": "India",
+  "site": "artivatic.ai"
+ },
+ {
+  "name": "Arya.ag",
+  "country": "India",
+  "site": "arya.ag"
+ },
+ {
+  "name": "Arzooo",
+  "country": "India",
+  "site": "arzooo.com"
+ },
+ {
+  "name": "Atlys",
+  "country": "India",
+  "site": "atlys.com"
+ },
+ {
+  "name": "Atomicwork",
+  "country": "India",
+  "site": "atomicwork.com"
+ },
+ {
+  "name": "Aurassure",
+  "country": "India",
+  "site": "aurassure.com"
+ },
+ {
+  "name": "Aurum PropTech",
+  "country": "India",
+  "site": "aurumproptech.in"
+ },
+ {
+  "name": "AutoRABIT",
+  "country": "India",
+  "site": "autorabit.com"
+ },
+ {
+  "name": "Avegen",
+  "country": "United Kingdom",
+  "site": "avegenhealth.com"
+ },
+ {
+  "name": "Avishkaar",
+  "country": "India",
+  "site": "avishkaar.cc"
+ },
+ {
+  "name": "Aviz Networks",
+  "country": "United States",
+  "site": "aviznetworks.com"
+ },
+ {
+  "name": "Awfis",
+  "country": "India",
+  "site": "awfis.com"
+ },
+ {
+  "name": "Awiros",
+  "country": "India",
+  "site": "awiros.com"
+ },
+ {
+  "name": "Axestrack",
+  "country": "India",
+  "site": "axestrack.com"
+ },
+ {
+  "name": "Axio",
+  "country": "India",
+  "site": "axio.co.in"
+ },
+ {
+  "name": "Ayu Health",
+  "country": "India",
+  "site": "ayu.health"
+ },
+ {
+  "name": "AntWorks",
+  "country": "Singapore",
+  "site": "ant.works"
+ },
+ {
+  "name": "Airtel Payments Bank",
+  "country": "India",
+  "site": "airtelpaymentsbank.com"
+ },
+ {
+  "name": "Anand Rathi",
+  "country": "India",
+  "site": "anandrathi.com"
+ },
+ {
+  "name": "Arihant Capital",
+  "country": "India",
+  "site": "arihantcapital.com"
+ },
+ {
+  "name": "Arka Fincap",
+  "country": "India",
+  "site": "arkafincap.com"
+ },
+ {
+  "name": "Arvog",
+  "country": "India",
+  "site": "arvog.com"
+ },
+ {
+  "name": "Auxilo Finserve",
+  "country": "India",
+  "site": "auxilo.com"
+ },
+ {
+  "name": "Amara Raja",
+  "country": "India",
+  "site": "amararaja.com"
+ },
+ {
+  "name": "Amplus Solar",
+  "country": "India",
+  "site": "amplussolar.com"
+ },
+ {
+  "name": "Alembic Pharmaceuticals",
+  "country": "India",
+  "site": "alembic.co.in"
+ },
+ {
+  "name": "Aurobindo Pharma",
+  "country": "India",
+  "site": "aurobindo.com"
+ },
+ {
+  "name": "Anthem Biosciences",
+  "country": "India",
+  "site": "anthembio.com"
+ },
+ {
+  "name": "Astral Limited",
+  "country": "India",
+  "site": "astralpipes.com"
+ },
+ {
+  "name": "Asahi India Glass",
+  "country": "India",
+  "site": "aisglass.com"
+ },
+ {
+  "name": "Apollo Micro Systems",
+  "country": "India",
+  "site": "apollo-micro.com"
+ },
+ {
+  "name": "Avantel",
+  "country": "India",
+  "site": "avantel.in"
+ },
+ {
+  "name": "Azad Engineering",
+  "country": "India",
+  "site": "azad.in"
+ },
+ {
+  "name": "Abbott",
+  "country": "United States",
+  "site": "abbott.com"
+ },
+ {
+  "name": "AbbVie",
+  "country": "United States",
+  "site": "abbvie.com"
+ },
+ {
+  "name": "Adtran",
+  "country": "United States",
+  "site": "adtran.com"
+ },
+ {
+  "name": "Air Products",
+  "country": "United States",
+  "site": "airproducts.com"
+ },
+ {
+  "name": "AkzoNobel",
+  "country": "Netherlands",
+  "site": "akzonobel.com"
+ },
+ {
+  "name": "Albertsons",
+  "country": "United States",
+  "site": "albertsons.com"
+ },
+ {
+  "name": "Altair",
+  "country": "United States",
+  "site": "altair.com"
+ },
+ {
+  "name": "Altera",
+  "country": "United States",
+  "site": "altera.com"
+ },
+ {
+  "name": "Alteryx",
+  "country": "United States",
+  "site": "alteryx.com"
+ },
+ {
+  "name": "AMETEK",
+  "country": "United States",
+  "site": "ametek.com"
+ },
+ {
+  "name": "Ampere Computing",
+  "country": "United States",
+  "site": "amperecomputing.com"
+ },
+ {
+  "name": "Anteriad",
+  "country": "United States",
+  "site": "anteriad.com"
+ },
+ {
+  "name": "Anthology",
+  "country": "United States",
+  "site": "anthology.com"
+ },
+ {
+  "name": "AIG",
+  "country": "United States",
+  "site": "aig.com"
+ },
+ {
+  "name": "Airbase",
+  "country": "United States",
+  "site": "airbase.com"
+ },
+ {
+  "name": "Aisera",
+  "country": "United States",
+  "site": "aisera.com"
+ },
+ {
+  "name": "Alacriti",
+  "country": "United States",
+  "site": "alacriti.com"
+ },
+ {
+  "name": "Applause",
+  "country": "United States",
+  "site": "applause.com"
+ },
+ {
+  "name": "AppsFlyer",
+  "country": "Israel",
+  "site": "appsflyer.com"
+ },
+ {
+  "name": "Arctic Wolf",
+  "country": "United States",
+  "site": "arcticwolf.com"
+ },
+ {
+  "name": "Aristocrat",
+  "country": "Australia",
+  "site": "aristocrat.com"
+ },
+ {
+  "name": "Arthur J. Gallagher",
+  "country": "United States",
+  "site": "ajg.com"
+ },
+ {
+  "name": "Aryaka",
+  "country": "United States",
+  "site": "aryaka.com"
+ },
+ {
+  "name": "Assurant",
+  "country": "United States",
+  "site": "assurant.com"
+ },
+ {
+  "name": "Assystem",
+  "country": "France",
+  "site": "assystem.com"
+ },
+ {
+  "name": "Asurion",
+  "country": "United States",
+  "site": "asurion.com"
+ },
+ {
+  "name": "Autoliv",
+  "country": "Sweden",
+  "site": "autoliv.com"
+ },
+ {
+  "name": "Avanade",
+  "country": "United States",
+  "site": "avanade.com"
+ },
+ {
+  "name": "Avantor",
+  "country": "United States",
+  "site": "avantorsciences.com"
+ },
+ {
+  "name": "Avery Dennison",
+  "country": "United States",
+  "site": "averydennison.com"
+ },
+ {
+  "name": "Avetta",
+  "country": "United States",
+  "site": "avetta.com"
+ },
+ {
+  "name": "Aviva",
+  "country": "United Kingdom",
+  "site": "aviva.com"
+ },
+ {
+  "name": "Avnet",
+  "country": "United States",
+  "site": "avnet.com"
+ },
+ {
+  "name": "AXA",
+  "country": "France",
+  "site": "axa.com"
+ },
+ {
+  "name": "Axalta",
+  "country": "United States",
+  "site": "axalta.com"
+ },
+ {
+  "name": "Azul Systems",
+  "country": "United States",
+  "site": "azul.com"
  }
 ];

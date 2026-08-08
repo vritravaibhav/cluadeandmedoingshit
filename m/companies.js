@@ -1,4 +1,4 @@
-module.exports=[
+module.exports = [
  {
   "name": "MakeMyTrip",
   "country": "India",
@@ -200,8 +200,7 @@ module.exports=[
  {
   "name": "Medikabazaar",
   "country": "India",
-  "site": "medikabazaar.com",
-  "careers": "https://www.medikabazaar.com/careers"
+  "site": "medikabazaar.com"
  },
  {
   "name": "Mercer Mettl",
@@ -284,8 +283,7 @@ module.exports=[
  {
   "name": "MediaAgility",
   "country": "India",
-  "site": "mediaagility.com",
-  "careers": "https://www.mediaagility.com/careers/"
+  "site": "mediaagility.com"
  },
  {
   "name": "Mynd Integrated Solutions",
@@ -332,8 +330,7 @@ module.exports=[
  {
   "name": "Mobisoft Infotech",
   "country": "India",
-  "site": "mobisoftinfotech.com",
-  "careers": "https://mobisoftinfotech.com/careers/"
+  "site": "mobisoftinfotech.com"
  },
  {
   "name": "Maruti Techlabs",
@@ -416,8 +413,7 @@ module.exports=[
  {
   "name": "Multidots",
   "country": "India",
-  "site": "multidots.com",
-  "careers": "https://www.multidots.com/careers/"
+  "site": "multidots.com"
  },
  {
   "name": "Mindiii",
@@ -512,8 +508,7 @@ module.exports=[
  {
   "name": "Mankind Pharma",
   "country": "India",
-  "site": "mankindpharma.com",
-  "careers": "https://www.mankindpharma.com/careers"
+  "site": "mankindpharma.com"
  },
  {
   "name": "Macleods Pharmaceuticals",
@@ -776,8 +771,7 @@ module.exports=[
  {
   "name": "Mobcoder",
   "country": "United States",
-  "site": "mobcoder.com",
-  "careers": "https://mobcoder.com/careers/"
+  "site": "mobcoder.com"
  },
  {
   "name": "Mroads",
@@ -1015,5 +1009,576 @@ module.exports=[
   "name": "Metacube",
   "country": "India",
   "site": "metacube.com"
+ },
+ {
+  "name": "ManageEngine",
+  "country": "India",
+  "site": "manageengine.com"
+ },
+ {
+  "name": "Matrimony.com",
+  "country": "India",
+  "site": "matrimony.com",
+  "careers": "https://www.matrimony.com/careers"
+ },
+ {
+  "name": "MAQ Software",
+  "country": "United States",
+  "site": "maqsoftware.com"
+ },
+ {
+  "name": "MOURI Tech",
+  "country": "India",
+  "site": "mouritech.com",
+  "careers": "https://www.mouritech.com/careers"
+ },
+ {
+  "name": "Modak Analytics",
+  "country": "India",
+  "site": "modak.com"
+ },
+ {
+  "name": "Mirafra Technologies",
+  "country": "India",
+  "site": "mirafra.com",
+  "careers": "https://mirafra.com/career/"
+ },
+ {
+  "name": "Medha Servo Drives",
+  "country": "India",
+  "site": "medha.com",
+  "careers": "https://medha.com/careers/"
+ },
+ {
+  "name": "Mobile Premier League",
+  "country": "India",
+  "site": "mpl.live"
+ },
+ {
+  "name": "magicpin",
+  "country": "India",
+  "site": "magicpin.in",
+  "careers": "https://magicpin.in/careers"
+ },
+ {
+  "name": "Meritto",
+  "country": "India",
+  "site": "meritto.com"
+ },
+ {
+  "name": "Melonleaf Consulting",
+  "country": "India",
+  "site": "melonleaf.com",
+  "careers": "https://melonleaf.com/careers/"
+ },
+ {
+  "name": "Mobulous Technologies",
+  "country": "India",
+  "site": "mobulous.com"
+ },
+ {
+  "name": "MobileCoderz",
+  "country": "India",
+  "site": "mobilecoderz.com",
+  "careers": "https://mobilecoderz.com/career"
+ },
+ {
+  "name": "Mobzway Technologies",
+  "country": "India",
+  "site": "mobzway.com",
+  "careers": "https://www.mobzway.com/careers"
+ },
+ {
+  "name": "Marktine",
+  "country": "India",
+  "site": "marktine.com"
+ },
+ {
+  "name": "Mobisy Technologies",
+  "country": "India",
+  "site": "mobisy.com"
+ },
+ {
+  "name": "mFilterIt",
+  "country": "India",
+  "site": "mfilterit.com"
+ },
+ {
+  "name": "Mobavenue",
+  "country": "India",
+  "site": "mobavenue.com",
+  "careers": "https://www.mobavenue.com/careers/"
+ },
+ {
+  "name": "MobME Wireless Solutions",
+  "country": "India",
+  "site": "mobme.in"
+ },
+ {
+  "name": "Mobiotics",
+  "country": "India",
+  "site": "mobiotics.com",
+  "careers": "https://www.mobiotics.com/careers"
+ },
+ {
+  "name": "Mediology Software",
+  "country": "India",
+  "site": "mediologysoftware.com"
+ },
+ {
+  "name": "Mallow Technologies",
+  "country": "India",
+  "site": "mallow-tech.com",
+  "careers": "https://mallow-tech.com/join-our-team/"
+ },
+ {
+  "name": "MitrahSoft",
+  "country": "India",
+  "site": "mitrahsoft.com"
+ },
+ {
+  "name": "Mindnotix Technologies",
+  "country": "India",
+  "site": "mindnotix.com",
+  "careers": "https://mindnotix.com/career/"
+ },
+ {
+  "name": "MindMade Technologies",
+  "country": "India",
+  "site": "mindmade.in",
+  "careers": "https://www.mindmade.in/careers/"
+ },
+ {
+  "name": "ManekTech",
+  "country": "India",
+  "site": "manektech.com",
+  "careers": "https://www.manektech.com/career"
+ },
+ {
+  "name": "Marmeto",
+  "country": "India",
+  "site": "marmeto.com"
+ },
+ {
+  "name": "Metayb",
+  "country": "India",
+  "site": "metayb.ai",
+  "careers": "https://metayb.ai/careers"
+ },
+ {
+  "name": "Marg ERP",
+  "country": "India",
+  "site": "margcompusoft.com",
+  "careers": "https://margcompusoft.com/careers"
+ },
+ {
+  "name": "Manipal Technologies",
+  "country": "India",
+  "site": "manipaltechnologies.com",
+  "careers": "https://manipaltechnologies.com/who-we-are/careers/"
+ },
+ {
+  "name": "Melorra",
+  "country": "India",
+  "site": "melorra.com"
+ },
+ {
+  "name": "Mamaearth",
+  "country": "India",
+  "site": "mamaearth.in"
+ },
+ {
+  "name": "Milkbasket",
+  "country": "India",
+  "site": "milkbasket.com"
+ },
+ {
+  "name": "MX Player",
+  "country": "India",
+  "site": "mxplayer.in"
+ },
+ {
+  "name": "Mosaic Wellness",
+  "country": "India",
+  "site": "mosaicwellness.in"
+ },
+ {
+  "name": "MyMoneyMantra",
+  "country": "India",
+  "site": "mymoneymantra.com"
+ },
+ {
+  "name": "Muthoot Microfin",
+  "country": "India",
+  "site": "muthootmicrofin.com",
+  "careers": "https://muthootmicrofin.com/careers/"
+ },
+ {
+  "name": "Mylab Discovery Solutions",
+  "country": "India",
+  "site": "mylabglobal.com",
+  "careers": "https://mylabglobal.com/careers/"
+ },
+ {
+  "name": "Mindler",
+  "country": "India",
+  "site": "mindler.com"
+ },
+ {
+  "name": "Mesh",
+  "country": "India",
+  "site": "mesh.ai"
+ },
+ {
+  "name": "MiQ",
+  "country": "United Kingdom",
+  "site": "wearemiq.com",
+  "careers": "https://www.wearemiq.com/careers"
+ },
+ {
+  "name": "Merkle",
+  "country": "United States",
+  "site": "merkle.com"
+ },
+ {
+  "name": "MRI Software",
+  "country": "United States",
+  "site": "mrisoftware.com",
+  "careers": "https://www.mrisoftware.com/about/careers/"
+ },
+ {
+  "name": "Mindbody",
+  "country": "United States",
+  "site": "mindbodyonline.com"
+ },
+ {
+  "name": "Merative",
+  "country": "United States",
+  "site": "merative.com",
+  "careers": "https://www.merative.com/careers"
+ },
+ {
+  "name": "Movius Interactive",
+  "country": "United States",
+  "site": "movius.ai",
+  "careers": "https://movius.ai/careers/"
+ },
+ {
+  "name": "Milestone Technologies",
+  "country": "United States",
+  "site": "milestone.tech",
+  "careers": "https://milestone.tech/careers/"
+ },
+ {
+  "name": "Macquarie Group",
+  "country": "Australia",
+  "site": "macquarie.com",
+  "careers": "https://www.macquarie.com/in/en/careers.html"
+ },
+ {
+  "name": "McKesson",
+  "country": "United States",
+  "site": "mckesson.com"
+ },
+ {
+  "name": "Medline Industries",
+  "country": "United States",
+  "site": "medline.com"
+ },
+ {
+  "name": "Merck Group",
+  "country": "Germany",
+  "site": "merckgroup.com"
+ },
+ {
+  "name": "Molex",
+  "country": "United States",
+  "site": "molex.com"
+ },
+ {
+  "name": "Marelli",
+  "country": "Japan",
+  "site": "marelli.com",
+  "careers": "https://marelli.com/en/careers.html"
+ },
+ {
+  "name": "Melexis",
+  "country": "Belgium",
+  "site": "melexis.com"
+ },
+ {
+  "name": "Moneycontrol",
+  "country": "India",
+  "site": "moneycontrol.com",
+  "careers": "https://www.moneycontrol.com/jobs/"
+ },
+ {
+  "name": "myKaarma",
+  "country": "United States",
+  "site": "mykaarma.com",
+  "careers": "https://mykaarma.com/careers/"
+ },
+ {
+  "name": "MaxVal Group",
+  "country": "United States",
+  "site": "maxval.com",
+  "careers": "https://www.maxval.com/careers/"
+ },
+ {
+  "name": "Mantra Softech",
+  "country": "India",
+  "site": "mantratec.com",
+  "careers": "https://www.mantratec.com/careers"
+ },
+ {
+  "name": "Minda Corporation",
+  "country": "India",
+  "site": "sparkminda.com",
+  "careers": "https://sparkminda.com/career"
+ },
+ {
+  "name": "MyCaptain",
+  "country": "India",
+  "site": "mycaptain.in",
+  "careers": "https://mycaptain.in/career"
+ },
+ {
+  "name": "Max Financial Services",
+  "country": "India",
+  "site": "maxfinancialservices.com"
+ },
+ {
+  "name": "Moneyboxx Finance",
+  "country": "India",
+  "site": "moneyboxxfinance.com",
+  "careers": "https://moneyboxxfinance.com/careers"
+ },
+ {
+  "name": "Midland Microfin",
+  "country": "India",
+  "site": "midlandmicrofin.com",
+  "careers": "https://midlandmicrofin.com/careers-opportunities/"
+ },
+ {
+  "name": "Metropolis Healthcare",
+  "country": "India",
+  "site": "metropolisindia.com"
+ },
+ {
+  "name": "Manipal Hospitals",
+  "country": "India",
+  "site": "manipalhospitals.com"
+ },
+ {
+  "name": "Meditab Software",
+  "country": "United States",
+  "site": "meditab.com",
+  "careers": "https://www.meditab.com/company/our-careers"
+ },
+ {
+  "name": "Mindmatrix",
+  "country": "United States",
+  "site": "mindmatrix.net"
+ },
+ {
+  "name": "MoreYeahs",
+  "country": "India",
+  "site": "moreyeahs.com",
+  "careers": "https://moreyeahs.com/careers"
+ },
+ {
+  "name": "MSBC Group",
+  "country": "United Kingdom",
+  "site": "msbcgroup.com",
+  "careers": "https://msbcgroup.com/careers/"
+ },
+ {
+  "name": "Mavlers",
+  "country": "India",
+  "site": "mavlers.com"
+ },
+ {
+  "name": "MagniGeeks Technologies",
+  "country": "India",
+  "site": "magnigeeks.com",
+  "careers": "https://www.magnigeeks.com/career/"
+ },
+ {
+  "name": "Mind Digital Group",
+  "country": "India",
+  "site": "minddigital.com",
+  "careers": "https://www.minddigital.com/career/"
+ },
+ {
+  "name": "Maantic",
+  "country": "United States",
+  "site": "maantic.com",
+  "careers": "https://maantic.com/careers"
+ },
+ {
+  "name": "Moback",
+  "country": "United States",
+  "site": "moback.com",
+  "careers": "https://www.moback.com/careers"
+ },
+ {
+  "name": "MyClassboard",
+  "country": "India",
+  "site": "myclassboard.com",
+  "careers": "https://www.myclassboard.com/careers/"
+ },
+ {
+  "name": "Mylo",
+  "country": "India",
+  "site": "mylofamily.com"
+ },
+ {
+  "name": "Mudrex",
+  "country": "India",
+  "site": "mudrex.com"
+ },
+ {
+  "name": "myBillBook",
+  "country": "India",
+  "site": "mybillbook.in",
+  "careers": "https://mybillbook.in/careers"
+ },
+ {
+  "name": "Moloco",
+  "country": "United States",
+  "site": "moloco.com",
+  "careers": "https://www.moloco.com/careers"
+ },
+ {
+  "name": "Millennium Management",
+  "country": "United States",
+  "site": "mlp.com",
+  "careers": "https://www.mlp.com/careers/"
+ },
+ {
+  "name": "Mizuho",
+  "country": "Japan",
+  "site": "mizuhogroup.com",
+  "careers": "https://www.mizuhogroup.com/careers"
+ },
+ {
+  "name": "MetaDesign Solutions",
+  "country": "India",
+  "site": "metadesignsolutions.com",
+  "careers": "https://metadesignsolutions.com/career"
+ },
+ {
+  "name": "MakeWebBetter",
+  "country": "India",
+  "site": "makewebbetter.com"
+ },
+ {
+  "name": "MageAnts",
+  "country": "India",
+  "site": "mageants.com"
+ },
+ {
+  "name": "MageDelight",
+  "country": "India",
+  "site": "magedelight.com"
+ },
+ {
+  "name": "MoogleLabs",
+  "country": "India",
+  "site": "mooglelabs.com"
+ },
+ {
+  "name": "Matrix Marketers",
+  "country": "India",
+  "site": "matrixmarketers.com"
+ },
+ {
+  "name": "Mobmaxime",
+  "country": "India",
+  "site": "mobmaxime.com"
+ },
+ {
+  "name": "MindCraft Software",
+  "country": "India",
+  "site": "mindcraft.in"
+ },
+ {
+  "name": "Morphing Machines",
+  "country": "India",
+  "site": "morphing.in",
+  "careers": "https://www.morphing.in/about/careers"
+ },
+ {
+  "name": "Meslova Systems",
+  "country": "India",
+  "site": "meslova.com",
+  "careers": "https://meslova.com/careers/"
+ },
+ {
+  "name": "Mirketa",
+  "country": "United States",
+  "site": "mirketa.com",
+  "careers": "https://mirketa.com/career/"
+ },
+ {
+  "name": "Maxbyte Technologies",
+  "country": "India",
+  "site": "maxbyte.co",
+  "careers": "https://maxbyte.co/careers/"
+ },
+ {
+  "name": "Mobiezy",
+  "country": "India",
+  "site": "mobiezy.com",
+  "careers": "https://mobiezy.com/career/"
+ },
+ {
+  "name": "Mobile Programming",
+  "country": "United States",
+  "site": "mobileprogramming.com",
+  "careers": "https://www.mobileprogramming.com/careers"
+ },
+ {
+  "name": "MTX Group",
+  "country": "United States",
+  "site": "www.mtxb2b.com"
+ },
+ {
+  "name": "Mobitrail",
+  "country": "India",
+  "site": "mobitrail.com"
+ },
+ {
+  "name": "Medvarsity Online",
+  "country": "India",
+  "site": "medvarsity.com",
+  "careers": "https://www.medvarsity.com/careers"
+ },
+ {
+  "name": "MyAnatomy",
+  "country": "India",
+  "site": "myanatomy.ai",
+  "careers": "https://myanatomy.ai/career"
+ },
+ {
+  "name": "Mercurius IT",
+  "country": "United Kingdom",
+  "site": "mercuriusit.com"
+ },
+ {
+  "name": "Marquee Semiconductor",
+  "country": "United States",
+  "site": "marqueesemi.com",
+  "careers": "https://marqueesemi.com/careers"
+ },
+ {
+  "name": "Miracle Studios",
+  "country": "India",
+  "site": "miraclestudios.ai"
+ },
+ {
+  "name": "Mindpool Technologies",
+  "country": "India",
+  "site": "mindpooltech.com"
  }
 ];

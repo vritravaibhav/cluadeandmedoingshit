@@ -1,132 +1,274 @@
-Checking 123 companies (concurrency 8)
+Checking 265 companies (concurrency 8)
 
-[  1/123] Wingify (VWO)                 20 jobs  via keka:wingify   ** 1 MATCH **
-[  2/123] WazirX                       !! careers-page-read-but-lists-no-openings
-[  3/123] Wissen Technology              0 jobs  via zohorecruit:wissen (0 open)
-[  4/123] Wakefit                      !! careers-page-read-but-lists-no-openings
-[  5/123] Whatfix                       28 jobs  via recruiterbox:whatfix101
-[  6/123] WheelsEye                    !! careers-page-read-but-lists-no-openings
-[  7/123] Webkul Software               10 jobs  via headings:https://webkul.com/careers/
-[  8/123] WNS Global Services          356 jobs  via smartrecruiters:WNSGlobalServices144
-[  9/123] Winjit Technologies            3 jobs  via headings:https://winjit.hire.trakstar.com/jobs
-[ 10/123] WinZO Games                  !! careers-page-read-but-lists-no-openings
-[ 11/123] Wobot AI                     !! careers-page-read-but-lists-no-openings
-[ 12/123] Wipro                         78 jobs  via successfactors:careers.wipro.com   ** 4 MATCH **
-[ 13/123] Webandcrafts                  32 jobs  via next-data:https://webandcrafts.com/careers
-[ 14/123] WebEngage                     20 jobs  via keka:webklipper
-[ 15/123] Wibmo (PayU)                 !! no-job-data-found
-[ 16/123] Wolken Software              !! careers-page-read-but-lists-no-openings
-[ 17/123] WovV Technologies              9 jobs  via headings:https://www.wovvtech.com/careers/
-[ 18/123] WorkIndia                      4 jobs  via html:https://www.workindia.in/jobs/
-[ 19/123] Wysa                         !! careers-page-read-but-lists-no-openings
-[ 20/123] Wonderla Holidays              9 jobs  via next-data:https://www.wonderla.com/careers
-[ 21/123] Welspun World                !! careers-page-read-but-lists-no-openings
-[ 22/123] Wonderchef                   !! no-job-data-found
-[ 23/123] Wizikey                        2 jobs  via smartrecruiters:Wizikey
-[ 24/123] Weekday.works                 60 jobs  via lever:weekdayworks
-[ 25/123] Wadhwani AI                   24 jobs  via zohorecruit:wadhwaniai
-[ 26/123] Wow! Momo Foods              !! blocked-or-error-response
-[ 27/123] Wellthy Therapeutics           0 jobs  via zohorecruit:wellthytherapeutics (0 open)
-[ 28/123] Waterfield Advisors            6 jobs  via headings:https://waterfieldadvisors.com/careers
-[ 29/123] Wint Wealth                  !! no-job-data-found
-[ 30/123] WeMakeScholars                 4 jobs  via headings:https://www.wemakescholars.com/hiring
-[ 31/123] WoodenStreet                   2 jobs  via zohorecruit:woodenstreet
-[ 32/123] Wow Skin Science             !! blocked-or-error-response
-[ 33/123] Whirlpool of India            20 jobs  via sitemap:https://jobs.whirlpool.com
-[ 34/123] Wingreens World              !! no-job-data-found
-[ 35/123] WeWork India                  85 jobs  via smartapply:weworkindia
-[ 36/123] Winman Software               14 jobs  via html:https://www.winmansoftware.com/careers/
-[ 37/123] Wiom                         !! careers-page-read-but-lists-no-openings
-[ 38/123] Wockhardt                      2 jobs  via headings:https://www.wockhardt.com/careers/
-[ 39/123] Wizcraft                     !! no-job-data-found
-[ 40/123] Wholsum Foods (Slurrp)       !! no-job-data-found
-[ 41/123] Wells Fargo                   40 jobs  via workday:wf
-[ 42/123] Western Digital              369 jobs  via smartrecruiters:WesternDigital
-[ 43/123] Walmart Global Tech            3 jobs  via headings:https://careers.walmart.com/us/en/home/careers-areas/technology
-[ 44/123] Wolters Kluwer                40 jobs  via workday:wk
-[ 45/123] Wipro PARI                   !! careers-page-read-but-lists-no-openings
-[ 46/123] Workday                       40 jobs  via workday:workday
-[ 47/123] WTW (Willis Towers Watson)   156 jobs  via feed:https://careers.wtwco.com
-[ 48/123] Warner Bros. Discovery        40 jobs  via workday:warnerbros
-[ 49/123] Western Union                 40 jobs  via workday:westernunion
-[ 50/123] Wheelocity                   !! blocked-or-error-response
-[ 51/123] Wabtec                        10 jobs  via headings:https://careers.wabtec.com/
-[ 52/123] Waters Corporation           136 jobs  via icims:uscareers-waters
-[ 53/123] WSP                          !! no-job-data-found
-[ 54/123] Wood                         !! blocked-or-error-response
-[ 55/123] Worley                         2 jobs  via html:https://www.worley.com/en/careers
-[ 56/123] Wiley                         40 jobs  via workday:wiley
-[ 57/123] Wayfair                      !! blocked-or-error-response
-[ 58/123] Wärtsilä                      44 jobs  via successfactors:careers.wartsila.com
-[ 59/123] Wistron                      !! careers-page-read-but-lists-no-openings
-[ 60/123] Woodward                      40 jobs  via workday:woodward
-[ 61/123] Whirlpool Corporation         20 jobs  via sitemap:https://jobs.whirlpool.com
-[ 62/123] Welocalize                   633 jobs  via lever:weloglobal
-[ 63/123] Wacker Chemie                 37 jobs  via successfactors:jobs.wacker.com
-[ 64/123] WPP                          !! careers-page-read-but-lists-no-openings
-[ 65/123] World Wide Technology        !! careers-page-read-but-lists-no-openings
-[ 66/123] Wavelabs Technologies        !! timed-out
-[ 67/123] Workhuman                      9 jobs  via workday:workhuman
-[ 68/123] Westinghouse Electric         52 jobs  via successfactors:careers.westinghousenuclear.com   ** 1 MATCH **
-[ 69/123] Weir Group                    40 jobs  via workday:weir
-[ 70/123] WEX Inc.                      41 jobs  via phenom:_self
-[ 71/123] Woodside Energy               28 jobs  via successfactors:careers.woodside.com.au
-[ 72/123] Würth Group                   72 jobs  via successfactors:career.witglobal.net   ** 1 MATCH **
-[ 73/123] Williams-Sonoma              !! careers-page-read-but-lists-no-openings
-[ 74/123] Winnebago Industries         !! careers-page-read-but-lists-no-openings
-[ 75/123] Wolfspeed                     40 jobs  via workday:cree
-[ 76/123] Warner Music Group            22 jobs  via lever:wmg
-[ 77/123] Wienerberger                 !! careers-page-read-but-lists-no-openings
-[ 78/123] WM (Waste Management)        !! careers-page-read-but-lists-no-openings
-[ 79/123] Wacom                          9 jobs  via html:https://www.wacom.com/en-us/about-wacom/careers-at-wacom
-[ 80/123] WAGO                         !! careers-page-read-but-lists-no-openings
-[ 81/123] Webhelp (Concentrix)          40 jobs  via workday:cnx
-[ 82/123] Wolseley                      65 jobs  via workday:wolseleyuk
-[ 83/123] Wesco International          !! careers-page-read-but-lists-no-openings
-[ 84/123] Westlake Corporation          40 jobs  via workday:westlake
-[ 85/123] Watts Water Technologies      40 jobs  via workday:wattswater
-[ 86/123] Whitbread                      3 jobs  via headings:https://www.whitbreadcareers.com/search-and-apply/
-[ 87/123] Wendy's                      !! careers-page-read-but-lists-no-openings
-[ 88/123] Wingstop                     !! careers-page-read-but-lists-no-openings
-[ 89/123] Wiz                            4 jobs  via headings:https://www.wiz.io/careers
-[ 90/123] WestRock (Smurfit)             4 jobs  via html:https://smurfitwestrockta.avature.net/en_US/careers/SearchJobs
-[ 91/123] Workato                      158 jobs  via greenhouse:workato   ** 7 MATCH **
-[ 92/123] WHOOP                        177 jobs  via ashby:whoop   ** 9 MATCH **
-[ 93/123] Willdan Group                  2 jobs  via headings:https://www.willdan.com/join-us
-[ 94/123] Wesfarmers                   !! careers-page-read-but-lists-no-openings
-[ 95/123] Wealthfront                   17 jobs  via lever:wealthfront   ** 2 MATCH **
-[ 96/123] Webflow                       29 jobs  via greenhouse:webflow
-[ 97/123] Wistia                         1 jobs  via ashby:wistia
-[ 98/123] Workiva                       40 jobs  via workday:workiva
-[ 99/123] Wrike                         82 jobs  via greenhouse:wrike
-[100/123] Wattpad                       23 jobs  via lever:wattpad
-[101/123] WP Engine                     11 jobs  via workday:wpengine
-[102/123] WalkMe                        50 jobs  via lever:walkme
-[103/123] Wolt (DoorDash)              244 jobs  via greenhouse:wolt
-[104/123] Wise                          19 jobs  via html:https://wise.jobs/
-[105/123] Wix.com                      !! careers-page-read-but-lists-no-openings
-[106/123] Wallarm                      !! blocked-or-error-response
-[107/123] WeTransfer (Bending Spoons)  !! careers-page-read-but-lists-no-openings
-[108/123] WEKA                          18 jobs  via headings:https://www.weka.io/careers/
-[109/123] WeWork                        40 jobs  via workday:wework
-[110/123] Weights & Biases             !! careers-page-read-but-lists-no-openings
-[111/123] Workvivo (Zoom)              !! careers-page-read-but-lists-no-openings
-[112/123] Waymo                        393 jobs  via greenhouse:waymo   ** 2 MATCH **
-[113/123] Wayve                        106 jobs  via greenhouse:wayve
-[114/123] WatchGuard Technologies       36 jobs  via lever:watchguard
-[115/123] Workleap                      12 jobs  via greenhouse:workleap
-[116/123] Wallbox                      !! no-job-data-found
-[117/123] Withings                     !! blocked-or-error-response
-[118/123] Wildlife Studios              18 jobs  via greenhouse:wildlifestudios
-[119/123] Wefox                        !! careers-page-read-but-lists-no-openings
-[120/123] Wooga                          1 jobs  via greenhouse:wooga
-[121/123] WH Smith                     !! timed-out
-[122/123] Westpac                      !! timed-out
-[123/123] Wolfram Research             !! timed-out
+[  1/265] WazirX                       !! careers-page-read-but-lists-no-openings
+[  2/265] Wingify (VWO)                 20 jobs  via keka:wingify   ** 1 MATCH **
+[  3/265] Wakefit                      !! careers-page-read-but-lists-no-openings
+[  4/265] Wissen Technology              0 jobs  via zohorecruit:wissen (0 open)
+[  5/265] Whatfix                       28 jobs  via recruiterbox:whatfix101
+[  6/265] Webkul Software               10 jobs  via headings:https://webkul.com/careers/
+[  7/265] WNS Global Services          356 jobs  via smartrecruiters:WNSGlobalServices144
+[  8/265] WheelsEye                    !! careers-page-read-but-lists-no-openings
+[  9/265] Winjit Technologies            3 jobs  via smartapply:Winjit
+[ 10/265] WinZO Games                  !! careers-page-read-but-lists-no-openings
+[ 11/265] Webandcrafts                  32 jobs  via next-data:https://webandcrafts.com/careers
+[ 12/265] Wipro                         80 jobs  via successfactors:careers.wipro.com   ** 2 MATCH **
+[ 13/265] Wobot AI                     !! careers-page-read-but-lists-no-openings
+[ 14/265] Wolken Software              !! careers-page-read-but-lists-no-openings
+[ 15/265] WebEngage                     20 jobs  via keka:webklipper
+[ 16/265] Wysa                         !! careers-page-read-but-lists-no-openings
+[ 17/265] WovV Technologies              9 jobs  via headings:https://www.wovvtech.com/careers/
+[ 18/265] WorkIndia                      7 jobs  via html:https://www.workindia.in/jobs/
+[ 19/265] Wonderla Holidays              9 jobs  via next-data:https://www.wonderla.com/careers
+[ 20/265] Wibmo (PayU)                 !! no-job-data-found
+[ 21/265] Welspun World                !! careers-page-read-but-lists-no-openings
+[ 22/265] Wow! Momo Foods              !! careers-page-unreachable
+[ 23/265] Wizikey                        2 jobs  via smartrecruiters:Wizikey
+[ 24/265] Wonderchef                   !! no-job-data-found
+[ 25/265] Weekday.works                 60 jobs  via lever:weekdayworks
+[ 26/265] Wadhwani AI                   24 jobs  via zohorecruit:wadhwaniai
+[ 27/265] Waterfield Advisors            6 jobs  via headings:https://waterfieldadvisors.com/careers
+[ 28/265] Wellthy Therapeutics           0 jobs  via zohorecruit:wellthytherapeutics (0 open)
+[ 29/265] WeMakeScholars                 4 jobs  via headings:https://www.wemakescholars.com/hiring
+[ 30/265] Wow Skin Science             !! blocked-or-error-response
+[ 31/265] Wint Wealth                  !! no-job-data-found
+[ 32/265] WoodenStreet                   2 jobs  via zohorecruit:woodenstreet
+[ 33/265] Whirlpool of India            29 jobs  via sitemap:https://jobs.whirlpool.com
+[ 34/265] Wingreens World              !! no-job-data-found
+[ 35/265] WeWork India                  85 jobs  via smartapply:weworkindia
+[ 36/265] Winman Software               14 jobs  via html:https://www.winmansoftware.com/careers/
+[ 37/265] Wiom                         !! careers-page-read-but-lists-no-openings
+[ 38/265] Wizcraft                     !! no-job-data-found
+[ 39/265] Wockhardt                      2 jobs  via headings:https://www.wockhardt.com/careers/
+[ 40/265] Wholsum Foods (Slurrp)       !! no-job-data-found
+[ 41/265] Wells Fargo                   40 jobs  via workday:wf
+[ 42/265] Wipro PARI                   !! careers-page-read-but-lists-no-openings
+[ 43/265] Wolters Kluwer                40 jobs  via workday:wk
+[ 44/265] Wheelocity                   !! blocked-or-error-response
+[ 45/265] Walmart Global Tech            3 jobs  via headings:https://careers.walmart.com/us/en/home/careers-areas/technology
+[ 46/265] Western Digital              368 jobs  via smartrecruiters:WesternDigital
+[ 47/265] Workday                       40 jobs  via workday:workday
+[ 48/265] WTW (Willis Towers Watson)   156 jobs  via feed:https://careers.wtwco.com
+[ 49/265] Warner Bros. Discovery        40 jobs  via workday:warnerbros
+[ 50/265] Western Union                 40 jobs  via workday:westernunion
+[ 51/265] Wabtec                        10 jobs  via headings:https://careers.wabtec.com/
+[ 52/265] Waters Corporation           137 jobs  via icims:uscareers-waters
+[ 53/265] Wiley                         40 jobs  via workday:wiley
+[ 54/265] WSP                          !! no-job-data-found
+[ 55/265] Wayfair                      !! blocked-or-error-response
+[ 56/265] Worley                         2 jobs  via html:https://www.worley.com/en/careers
+[ 57/265] Wood                         !! blocked-or-error-response
+[ 58/265] Wistron                      !! careers-page-read-but-lists-no-openings
+[ 59/265] Wärtsilä                      43 jobs  via successfactors:careers.wartsila.com
+[ 60/265] Woodward                      40 jobs  via workday:woodward
+[ 61/265] WEX Inc.                      10 jobs  via phenom:_self
+[ 62/265] WPP                          !! careers-page-read-but-lists-no-openings
+[ 63/265] Wacker Chemie                 37 jobs  via successfactors:jobs.wacker.com
+[ 64/265] Workhuman                      9 jobs  via workday:workhuman
+[ 65/265] Whirlpool Corporation         29 jobs  via sitemap:https://jobs.whirlpool.com
+[ 66/265] Westinghouse Electric         52 jobs  via successfactors:careers.westinghousenuclear.com   ** 1 MATCH **
+[ 67/265] Wavelabs Technologies        !! timed-out
+[ 68/265] Woodside Energy               30 jobs  via successfactors:careers.woodside.com.au
+[ 69/265] Weir Group                    40 jobs  via workday:weir
+[ 70/265] World Wide Technology        !! careers-page-read-but-lists-no-openings
+[ 71/265] Würth Group                   69 jobs  via successfactors:career.witglobal.net   ** 1 MATCH **
+[ 72/265] Winnebago Industries         !! careers-page-read-but-lists-no-openings
+[ 73/265] Wolfspeed                     40 jobs  via workday:cree
+[ 74/265] Welocalize                   !! no-job-data-found
+[ 75/265] Williams-Sonoma              !! careers-page-read-but-lists-no-openings
+[ 76/265] Wienerberger                 !! careers-page-read-but-lists-no-openings
+[ 77/265] WAGO                         !! careers-page-read-but-lists-no-openings
+[ 78/265] WM (Waste Management)        !! careers-page-read-but-lists-no-openings
+[ 79/265] Warner Music Group            22 jobs  via lever:wmg
+[ 80/265] Webhelp (Concentrix)          40 jobs  via workday:cnx
+[ 81/265] Wolseley                      64 jobs  via workday:wolseleyuk
+[ 82/265] Wacom                          9 jobs  via html:https://www.wacom.com/en-us/about-wacom/careers-at-wacom
+[ 83/265] Wesco International          !! careers-page-read-but-lists-no-openings
+[ 84/265] Westlake Corporation          40 jobs  via workday:westlake
+[ 85/265] Watts Water Technologies      40 jobs  via workday:wattswater
+[ 86/265] Wingstop                     !! careers-page-read-but-lists-no-openings
+[ 87/265] Whitbread                      3 jobs  via headings:https://www.whitbreadcareers.com/search-and-apply/
+[ 88/265] Wiz                            4 jobs  via headings:https://www.wiz.io/careers
+[ 89/265] Wendy's                      !! careers-page-read-but-lists-no-openings
+[ 90/265] Workato                      158 jobs  via greenhouse:workato   ** 7 MATCH **
+[ 91/265] WestRock (Smurfit)             2 jobs  via html:https://smurfitwestrockta.avature.net/en_US/careers/SearchJobs
+[ 92/265] WHOOP                        178 jobs  via ashby:whoop   ** 9 MATCH **
+[ 93/265] Wealthfront                   17 jobs  via lever:wealthfront   ** 2 MATCH **
+[ 94/265] Willdan Group                  2 jobs  via headings:https://www.willdan.com/join-us
+[ 95/265] Wesfarmers                   !! careers-page-read-but-lists-no-openings
+[ 96/265] Wistia                         1 jobs  via ashby:wistia
+[ 97/265] Webflow                       29 jobs  via greenhouse:webflow
+[ 98/265] Wrike                         82 jobs  via greenhouse:wrike
+[ 99/265] WP Engine                     11 jobs  via workday:wpengine
+[100/265] Wattpad                       23 jobs  via lever:wattpad
+[101/265] Wise                          19 jobs  via html:https://wise.jobs/
+[102/265] Wolt (DoorDash)              244 jobs  via greenhouse:wolt
+[103/265] Workiva                       40 jobs  via workday:workiva
+[104/265] Wix.com                      !! careers-page-read-but-lists-no-openings
+[105/265] Wallarm                      !! blocked-or-error-response
+[106/265] WalkMe                        50 jobs  via lever:walkme
+[107/265] WeTransfer (Bending Spoons)  !! careers-page-read-but-lists-no-openings
+[108/265] WEKA                          18 jobs  via headings:https://www.weka.io/careers/
+[109/265] WeWork                        40 jobs  via workday:wework
+[110/265] Weights & Biases             !! careers-page-read-but-lists-no-openings
+[111/265] Workvivo (Zoom)              !! careers-page-read-but-lists-no-openings
+[112/265] Waymo                        396 jobs  via greenhouse:waymo   ** 2 MATCH **
+[113/265] Wayve                        107 jobs  via greenhouse:wayve
+[114/265] Wallbox                      !! no-job-data-found
+[115/265] WatchGuard Technologies       36 jobs  via lever:watchguard
+[116/265] Workleap                      12 jobs  via greenhouse:workleap
+[117/265] Wefox                        !! careers-page-read-but-lists-no-openings
+[118/265] WH Smith                     !! timed-out
+[119/265] Wooqer                       !! careers-page-read-but-lists-no-openings
+[120/265] Withings                     !! blocked-or-error-response
+[121/265] Wildlife Studios              19 jobs  via greenhouse:wildlifestudios
+[122/265] Wooga                          1 jobs  via greenhouse:wooga
+[123/265] Webskitters                   10 jobs  via feed:https://www.webskitters.com
+[124/265] WebGuru Infosystems          !! careers-page-unreachable
+[125/265] WeblineIndia                  31 jobs  via zohorecruit:weblineindia
+[126/265] WebClues Infotech            !! careers-page-read-but-lists-no-openings
+[127/265] WalkingTree Technologies      10 jobs  via feed:https://walkingtree.tech
+[128/265] Wappnet Systems                6 jobs  via headings:https://wappnet.com/career
+[129/265] Westpac                      !! timed-out
+[130/265] WeDoWebApps                   10 jobs  via feed:https://www.wedowebapps.com
+[131/265] W3villa Technologies           3 jobs  via headings:https://www.w3villa.com/careers
+[132/265] WisdmLabs                      1 jobs  via keka:wisdmlabs
+[133/265] W2S Solutions                !! no-job-data-found
+[134/265] Way2Smile Solutions          !! no-job-data-found
+[135/265] WPWeb Infotech                 9 jobs  via feed:https://wpwebinfotech.com
+[136/265] Webdura Technologies           4 jobs  via headings:https://www.webdura.in/webdura-careers/
+[137/265] WebOccult Technologies         6 jobs  via headings:https://weboccult.com/career/
+[138/265] Wildnet Technologies          16 jobs  via keka:wildnet
+[139/265] Webnexs                      !! no-job-data-found
+[140/265] WeeTech Solution              10 jobs  via feed:https://www.weetechsolution.com
+[141/265] W3care Technologies            7 jobs  via json-ld:https://www.w3care.com/company/career
+[142/265] WonderBiz Technologies        10 jobs  via feed:https://wonderbiz.in
+[143/265] WiSilica                     !! careers-page-read-but-lists-no-openings
+[144/265] Webs Optimization Software S !! careers-page-read-but-lists-no-openings
+[145/265] WebCodeGenie                  11 jobs  via headings:https://webcodegenie.com/career
+[146/265] WebSenor                      10 jobs  via feed:https://websenor.com
+[147/265] Webnyxa Technologies         !! no-job-data-found
+[148/265] Winklix                        2 jobs  via headings:https://winklix.com/careers
+[149/265] Websym Solutions             !! no-job-data-found
+[150/265] Webmyne Systems               11 jobs  via headings:https://www.webmyne.com/career.php
+[151/265] Wisitech InfoSolutions       !! careers-page-unreachable
+[152/265] Web Spiders                    1 jobs  via json-ld:https://webspiders.com/careers
+[153/265] Wolfram Research             !! timed-out
+[154/265] Webgarh Solutions              2 jobs  via headings:https://webgarh.com/pages/careers
+[155/265] webdew                        10 jobs  via feed:https://careers.webdew.com
+[156/265] WeDigTech                    !! careers-page-read-but-lists-no-openings
+[157/265] Wysetek Systems               10 jobs  via feed:https://wysetek.com
+[158/265] Wegile                        13 jobs  via headings:https://wegile.com/jobs
+[159/265] Wow Labz                       0 jobs  via zohorecruit:wowlabz (0 open)
+[160/265] Webkorps Services            !! careers-page-read-but-lists-no-openings
+[161/265] Wizard Infoways              !! no-job-data-found
+[162/265] World Web Technology          10 jobs  via feed:https://worldwebtechnology.com
+[163/265] Wishtree Technologies          5 jobs  via headings:https://wishtreetech.com/careers/
+[164/265] WittyBrains Software Technol !! no-job-data-found
+[165/265] Whizzystack                   10 jobs  via feed:https://whizzystack.co
+[166/265] West Agile Labs              !! blocked-or-error-response
+[167/265] Webwing Technologies           9 jobs  via feed:https://webwingtechnologies.com
+[168/265] WebMobTech                    17 jobs  via headings:https://webmobtech.com/career/
+[169/265] WOWinfotech                  !! careers-page-read-but-lists-no-openings
+[170/265] WowMakers                     25 jobs  via feed:https://www.wowmakers.com
+[171/265] White Lotus Corporation        3 jobs  via feed:https://www.whitelotuscorporation.com
+[172/265] WebPlanex Infotech             5 jobs  via headings:https://www.webplanex.com/jobs/
+[173/265] Winsoft Solution             !! blocked-or-error-response
+[174/265] Wits Innovation Lab            2 jobs  via headings:https://thewitslab.com/careers
+[175/265] WinfoGlobal Technologies     !! no-job-data-found
+[176/265] Winsoft Technologies          10 jobs  via feed:https://winsoftech.com
+[177/265] Wattlecorp Cybersecurity Lab  16 jobs  via wordpress:https://www.wattlecorp.com
+[178/265] Websoftex Software           !! no-job-data-found
+[179/265] Wilco Source                   4 jobs  via headings:https://wilcosource.com/careers/
+[180/265] Wama Technology              !! timed-out
+[181/265] Winspire Solutions           !! no-job-data-found
+[182/265] WeframeTech                    9 jobs  via headings:https://careers.weframetech.com/
+[183/265] Wondersoft                     5 jobs  via headings:https://www.wondersoft.com/jobs
+[184/265] WyzMindz Solutions           !! no-job-data-found
+[185/265] WebbyTemplate                !! careers-page-read-but-lists-no-openings
+[186/265] Whizible                     !! no-job-data-found
+[187/265] WareIQ                         2 jobs  via headings:https://wareiq.com/careers
+[188/265] Wonderslate                  !! no-job-data-found
+[189/265] Wealthy                      !! careers-page-read-but-lists-no-openings
+[190/265] WizKlub                      !! no-job-data-found
+[191/265] Wiingy                       !! blocked-or-error-response
+[192/265] WNS-Vuram                    !! blocked-or-error-response
+[193/265] Way2Wealth                   !! blocked-or-error-response
+[194/265] Writer Information             3 jobs  via headings:https://writerinformation.com/careers/
+[195/265] Wishfin                        3 jobs  via headings:https://www.wishfin.com/careers
+[196/265] Winvesta                     !! careers-page-read-but-lists-no-openings
+[197/265] Wonder Home Finance          !! careers-page-unreachable
+[198/265] Wizely                       !! no-job-data-found
+[199/265] WotNot                       !! no-job-data-found
+[200/265] Wegofin                      !! blocked-or-error-response
+[201/265] Wizzy                          3 jobs  via headings:https://wizzy.ai/careers
+[202/265] WhiteCoats                   !! no-job-data-found
+[203/265] WizCommerce                    2 jobs  via headings:https://wizcommerce.com/careers/
+[204/265] Workstatus                    28 jobs  via keka:vinove
+[205/265] Wisemonk                       2 jobs  via json-ld:https://www.wisemonk.io/careers
+[206/265] WeRize                       !! careers-page-read-but-lists-no-openings
+[207/265] Wizr AI                       10 jobs  via feed:https://wizr.ai
+[208/265] Weblizar                     !! timed-out
+[209/265] Wobb                         !! careers-page-read-but-lists-no-openings
+[210/265] Winni                          0 jobs  via zohorecruit:winni (0 open)
+[211/265] WedMeGood                      2 jobs  via headings:https://www.wedmegood.com/careers
+[212/265] WhistleDrive                 !! careers-page-read-but-lists-no-openings
+[213/265] WeVOIS Labs                  !! careers-page-read-but-lists-no-openings
+[214/265] Wify                         !! careers-page-read-but-lists-no-openings
+[215/265] Whrrl                        !! no-job-data-found
+[216/265] Waybeo                         4 jobs  via headings:https://www.waybeo.com/career/
+[217/265] Wynk Music                   !! blocked-or-error-response
+[218/265] WattMonk Technologies        !! no-job-data-found
+[219/265] WayCool Foods                !! careers-page-unreachable
+[220/265] WisdomCircle                 !! careers-page-read-but-lists-no-openings
+[221/265] Wondrlab                     !! blocked-or-error-response
+[222/265] WorkInSync                   !! no-job-data-found
+[223/265] Wildcraft                    !! careers-page-read-but-lists-no-openings
+[224/265] WEGoT Utility Solutions      !! blocked-or-error-response
+[225/265] Wolkus Technology Solutions  !! no-job-data-found
+[226/265] Westlife Foodworld           !! careers-page-unreachable
+[227/265] worXogo                      !! careers-page-read-but-lists-no-openings
+[228/265] Woodland                       3 jobs  via headings:https://woodlandworldwide.com/career
+[229/265] The Whole Truth Foods        !! careers-page-read-but-lists-no-openings
+[230/265] Wellness Forever             !! blocked-or-error-response
+[231/265] Wheels India                  10 jobs  via feed:https://wheelsindia.com
+[232/265] Wonder Cement                !! careers-page-read-but-lists-no-openings
+[233/265] Wardwizard Innovations & Mob  60 jobs  via feed:https://wardwizard.in
+[234/265] Wipro Enterprises             21 jobs  via successfactors:jobs.wiproenterprises.com
+[235/265] Welspun Living               !! no-job-data-found
+[236/265] Walchandnagar Industries       4 jobs  via headings:https://walchand.com/career/
+[237/265] Windlas Biotech                3 jobs  via headings:https://windlas.com/career/
+[238/265] Westside (Trent)             !! blocked-or-error-response
+[239/265] Wendt India                    2 jobs  via feed:https://wendtindia.com
+[240/265] Westernacher Consulting       73 jobs  via lever:westernacher
+[241/265] West Coast Paper Mills       !! no-job-data-found
+[242/265] Webtel Electrosoft           !! careers-page-read-but-lists-no-openings
+[243/265] WPIL Limited                 !! careers-page-read-but-lists-no-openings
+[244/265] Walgreens Boots Alliance     !! no-job-data-found
+[245/265] Worldline                     43 jobs  via successfactors:jobs.worldline.com   ** 3 MATCH **
+[246/265] Wiz Freight                  !! timed-out
+[247/265] Wavicle Data Solutions         6 jobs  via lever:wavicledata
+[248/265] Witzeal Technologies         !! timed-out
+[249/265] WorkSpan                       3 jobs  via headings:https://www.workspan.com/company/careers
+[250/265] Westcon-Comstor                3 jobs  via headings:https://www.westconcomstor.com/global/en/about-us/careers.html
+[251/265] Woolworths Group             !! careers-page-read-but-lists-no-openings
+[252/265] Worldpay                     !! blocked-or-error-response
+[253/265] Waaree Energies              !! timed-out
+[254/265] West Pharmaceutical Services  54 jobs  via successfactors:careers.westpharma.com
+[255/265] Wilo                         !! careers-page-read-but-lists-no-openings
+[256/265] WorkForce Software           !! careers-page-read-but-lists-no-openings
+[257/265] WIKA                         !! blocked-or-error-response
+[258/265] Wilhelmsen                   !! careers-page-read-but-lists-no-openings
+[259/265] Worksoft                     !! no-job-data-found
+[260/265] Webasto                      !! careers-page-read-but-lists-no-openings
+[261/265] Weidmüller                   !! careers-page-read-but-lists-no-openings
+[262/265] WEG                          !! careers-page-unreachable
+[263/265] Wieland Electric               3 jobs  via headings:https://www.wieland-electric.com/en/career/wieland-employer/
+[264/265] Watlow                         2 jobs  via headings:https://www.watlow.com/careers
+[265/265] Wipfli                       !! timed-out
 
-  boards read with jobs : 75
-  boards read, 0 open   : 2
-  could not read        : 46
-  companies w/ matches  : 8
+  boards read with jobs : 136
+  boards read, 0 open   : 4
+  could not read        : 125
+  companies w/ matches  : 9
 
 Wrote careers.txt + results.json

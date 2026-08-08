@@ -67,7 +67,7 @@
     {
      "url": "https://myvi.in/",
      "status": 200,
-     "bytes": 215870
+     "bytes": 215827
     }
    ],
    "candidates": [
@@ -95,7 +95,7 @@
     "workable:myvi -> no board"
    ]
   },
-  "ms": 8865
+  "ms": 8825
  },
  {
   "company": "Virtusa",
@@ -142,7 +142,7 @@
     "workable:virtusa -> no board"
    ]
   },
-  "ms": 31110
+  "ms": 23549
  },
  {
   "company": "VMware India",
@@ -172,7 +172,7 @@
     {
      "url": "https://vmware.com/career",
      "status": 404,
-     "bytes": 4375
+     "bytes": 4376
     },
     {
      "url": "https://vmware.com/jobs",
@@ -210,7 +210,7 @@
     "workable:vmware -> no board"
    ]
   },
-  "ms": 30819
+  "ms": 26525
  },
  {
   "company": "Visa India",
@@ -256,37 +256,9 @@
     "score": 78
    },
    {
-    "title": "Sr. SW Engineer",
-    "location": "US - Denver, CO",
-    "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Denver-CO/Sr-SW-Engineer_REF076199W-1",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": true,
-    "java": true,
-    "flutter": false,
-    "senior": true,
-    "exp": [
-     [
-      2,
-      6
-     ],
-     [
-      5,
-      9
-     ],
-     [
-      2,
-      3
-     ]
-    ],
-    "expFits2": true,
-    "score": 63
-   },
-   {
     "title": "Staff SW Engineer",
-    "location": "US - Austin, TX",
-    "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/Staff-SW-Engineer_REF084658W",
+    "location": "US - Denver, CO",
+    "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Denver-CO/Staff-SW-Engineer_REF076196W-1",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
@@ -314,6 +286,34 @@
      [
       0,
       1
+     ]
+    ],
+    "expFits2": true,
+    "score": 63
+   },
+   {
+    "title": "Sr. SW Engineer",
+    "location": "US - Denver, CO",
+    "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Denver-CO/Sr-SW-Engineer_REF076199W-1",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": true,
+    "java": true,
+    "flutter": false,
+    "senior": true,
+    "exp": [
+     [
+      2,
+      6
+     ],
+     [
+      5,
+      9
+     ],
+     [
+      2,
+      3
      ]
     ],
     "expFits2": true,
@@ -404,6 +404,42 @@
     "score": 42
    },
    {
+    "title": "Staff Software Engineer",
+    "location": "US - Denver, CO",
+    "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Denver-CO/Staff-Software-Engineer_REF082266W",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": true,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [
+     [
+      5,
+      9
+     ],
+     [
+      8,
+      12
+     ],
+     [
+      2,
+      6
+     ],
+     [
+      2,
+      3
+     ],
+     [
+      0,
+      1
+     ]
+    ],
+    "expFits2": true,
+    "score": 38
+   },
+   {
     "title": "Staff Site Reliability Engineer, CMDB",
     "location": "US - Denver, CO",
     "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Denver-CO/Staff-Site-Reliability-Engineer--CMDB_REF087210W",
@@ -484,30 +520,6 @@
     "score": 33
    },
    {
-    "title": "Sr. Manager, Software Engineering",
-    "location": "US - Bellevue, WA",
-    "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Bellevue-WA/Sr-Manager--Software-Engineering_REF087097W",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": true,
-    "java": true,
-    "flutter": false,
-    "senior": true,
-    "exp": [
-     [
-      8,
-      12
-     ],
-     [
-      11,
-      15
-     ]
-    ],
-    "expFits2": false,
-    "score": 33
-   },
-   {
     "title": "Analyst",
     "location": "IN - Bengaluru, India",
     "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/IN---Bengaluru-India/Analyst_REF087243W",
@@ -568,6 +580,36 @@
     "score": 16
    },
    {
+    "title": "Sr. Manager, Software Engineering",
+    "location": "US - Bellevue, WA",
+    "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Bellevue-WA/Sr-Manager--Software-Engineering_REF087097W",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": true,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [],
+    "expFits2": false,
+    "score": 12
+   },
+   {
+    "title": "Staff SW Engineer",
+    "location": "US - Austin, TX",
+    "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/Staff-SW-Engineer_REF084658W",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": true,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [],
+    "expFits2": false,
+    "score": 12
+   },
+   {
     "title": "Sr. Director, Director Software Engineering",
     "location": "US - Austin, TX",
     "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/Sr-Director--Director-Software-Engineering_REF083479W",
@@ -598,6 +640,21 @@
     ],
     "expFits2": false,
     "score": 8
+   },
+   {
+    "title": "Business Analyst, Sales & Commercial Operations",
+    "location": "CO - Bogota, Colombia",
+    "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/CO---Bogota-Colombia/Business-Analyst--Sales---Commercial-Operations_REF085224W-1",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 4
    },
    {
     "title": "Compliance & Risk Consultant",
@@ -688,6 +745,21 @@
     "exp": [],
     "expFits2": false,
     "score": -3
+   },
+   {
+    "title": "Program Manager Sr. Consultant",
+    "location": "US - Foster City, CA",
+    "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Foster-City-CA/Program-Manager-Sr-Consultant_REF087194W",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [],
+    "expFits2": false,
+    "score": -18
    },
    {
     "title": "Director, Global Sales Excellence and Strategy",
@@ -928,66 +1000,6 @@
     "exp": [],
     "expFits2": false,
     "score": -18
-   },
-   {
-    "title": "Client Consulting Manager",
-    "location": "AM - Remote - Armenia",
-    "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/AM---Remote---Armenia/Client-Consulting-Manager_REF080577W",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": true,
-    "exp": [],
-    "expFits2": false,
-    "score": -18
-   },
-   {
-    "title": "Product Manager, Innovation",
-    "location": "GB - London, United Kingdom",
-    "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/GB---London-United-Kingdom/Product-Manager--Innovation_REF082060W",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": true,
-    "exp": [],
-    "expFits2": false,
-    "score": -18
-   },
-   {
-    "title": "Acquirer Engagement Director (B2B A)",
-    "location": "AE - Dubai, United Arab Emirates",
-    "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/AE---Dubai-United-Arab-Emirates/Acquirer-Engagement-Director--B2B-A-_REF083174W",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": true,
-    "exp": [],
-    "expFits2": false,
-    "score": -18
-   },
-   {
-    "title": "Director, LAC Regional Marketing, Visa Commercial Solutions",
-    "location": "US - Miami, FL",
-    "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Miami-FL/Director--LAC-Regional-Marketing--Visa-Commercial-Solutions_REF083265W",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": true,
-    "exp": [],
-    "expFits2": false,
-    "score": -18
    }
   ],
   "enriched": 10,
@@ -1164,14 +1176,14 @@
     "workday:visa -> 40 jobs"
    ]
   },
-  "ms": 11317
+  "ms": 12218
  },
  {
   "company": "Volvo India",
   "country": "India",
   "source": "successfactors:jobs.volvogroup.com",
   "error": null,
-  "totalJobs": 57,
+  "totalJobs": 55,
   "jobs": [
    {
     "title": "Developer Platform Engineer",
@@ -1228,9 +1240,9 @@
     "score": 48
    },
    {
-    "title": "Environmental Engineer",
-    "location": "Hallsberg, SE, 694 82",
-    "url": "https://jobs.volvogroup.com/job/Hallsberg-Environmental-Engineer-694-82/1359939855/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+    "title": "Professional Software Engineer",
+    "location": "Göteborg, SE, 417 55",
+    "url": "https://jobs.volvogroup.com/job/G%C3%B6teborg-Professional-Software-Engineer-417-55/1360043155/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
@@ -1243,9 +1255,9 @@
     "score": 34
    },
    {
-    "title": "Internship opportunity: Solution Engineer",
-    "location": "Göteborg, SE, 417 56",
-    "url": "https://jobs.volvogroup.com/job/G%C3%B6teborg-Internship-opportunity-Solution-Engineer-417-56/1351295555/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+    "title": "Environmental Engineer",
+    "location": "Hallsberg, SE, 694 82",
+    "url": "https://jobs.volvogroup.com/job/Hallsberg-Environmental-Engineer-694-82/1359939855/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
@@ -1342,26 +1354,6 @@
     "score": 16
    },
    {
-    "title": "Solution Consultant IT - SAP CO",
-    "location": "Bangalore, IN, 562122",
-    "url": "https://jobs.volvogroup.com/job/Bangalore-Solution-Consultant-IT-SAP-CO-562122/1337144555/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-    "india": true,
-    "locationSaysIndia": true,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [
-     [
-      7,
-      11
-     ]
-    ],
-    "expFits2": false,
-    "score": 15
-   },
-   {
     "title": "Business Controller",
     "location": "Greensboro, NC, US, 27409",
     "url": "https://jobs.volvogroup.com/job/Greensboro-Business-Controller-NC-27409/1363228455/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
@@ -1420,6 +1412,66 @@
     ],
     "expFits2": false,
     "score": 8
+   },
+   {
+    "title": "Mechatroniker (m/w/d) Nutzfahrzeugtechnik",
+    "location": "Hemmingstedt, DE, 25770",
+    "url": "https://jobs.volvogroup.com/job/Hemmingstedt-Mechatroniker-%28mwd%29-Nutzfahrzeugtechnik-25770/963472455/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 4
+   },
+   {
+    "title": "Ingénieur Produit Électrique",
+    "location": "Sainte-Claire, Quebec, CA, G0R 2V0",
+    "url": "https://jobs.volvogroup.com/job/Sainte-Claire-Ing%C3%A9nieur-Produit-%C3%89lectrique-Queb-G0R-2V0/1335476755/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 4
+   },
+   {
+    "title": "Superviseur(e) de Maintenance et outillage",
+    "location": "Saint-François-du-Lac, Quebec, CA, J0G 1M0",
+    "url": "https://jobs.volvogroup.com/job/Saint-Fran%C3%A7ois-du-Lac-Superviseur%28e%29-de-Maintenance-et-outillage-Queb-J0G-1M0/1352212155/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 4
+   },
+   {
+    "title": "310T Coach Mechanic - Mississauga",
+    "location": "Mississauga, ON, CA, L5S 1L4",
+    "url": "https://jobs.volvogroup.com/job/Mississauga-310T-Coach-Mechanic-Mississauga-ON-L5S-1L4/1352185755/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 4
    },
    {
     "title": "Transfer Pricing Compliance Professional - Volvo Group",
@@ -1482,9 +1534,9 @@
     "score": 4
    },
    {
-    "title": "Remote Parts Call Center Agent",
-    "location": "Greensboro, NC, US, 27409",
-    "url": "https://jobs.volvogroup.com/job/Greensboro-Remote-Parts-Call-Center-Agent-NC-27409/1359721955/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+    "title": "Mechatroniker (m/w/d) Nutzfahrzeugtechnik",
+    "location": "Marne, DE, 25709",
+    "url": "https://jobs.volvogroup.com/job/Marne-Mechatroniker-%28mwd%29-Nutzfahrzeugtechnik-25709/963471555/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
@@ -1497,9 +1549,9 @@
     "score": 4
    },
    {
-    "title": "Maintenance Tech with PLC/Robotic Exp. 2nd Shift",
-    "location": "Grover, NC, US, 28086",
-    "url": "https://jobs.volvogroup.com/job/Grover-Maintenance-Tech-with-PLCRobotic-Exp_-2nd-Shift-NC-28086/1345319655/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+    "title": "Mechatroniker (m/w/d) Nutzfahrzeugtechnik",
+    "location": "Essen, DE, 45326",
+    "url": "https://jobs.volvogroup.com/job/Essen-Mechatroniker-%28mwd%29-Nutzfahrzeugtechnik-45326/1160455655/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
@@ -1512,39 +1564,129 @@
     "score": 4
    },
    {
-    "title": "Maintenance Technician 2nd Shift",
-    "location": "Grover, NC, US, 28086",
-    "url": "https://jobs.volvogroup.com/job/Grover-Maintenance-Technician-2nd-Shift-NC-28086/1345316955/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 4
-   },
-   {
-    "title": "Stagiaire - Procédés Mécanique",
-    "location": "Sainte-Claire, Quebec, CA, G0R 2V0",
-    "url": "https://jobs.volvogroup.com/job/Sainte-Claire-Stagiaire-Proc%C3%A9d%C3%A9s-M%C3%A9canique-Queb-G0R-2V0/1354763755/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 4
-   },
-   {
-    "title": "Master Thesis Electromobility Purchasing",
+    "title": "Total Rewards Specialist Sweden",
     "location": "Göteborg, SE, 417 15",
-    "url": "https://jobs.volvogroup.com/job/G%C3%B6teborg-Master-Thesis-Electromobility-Purchasing-417-15/1359914855/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+    "url": "https://jobs.volvogroup.com/job/G%C3%B6teborg-Total-Rewards-Specialist-Sweden-417-15/1360085455/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 4
+   },
+   {
+    "title": "Payroll Specialist Sweden",
+    "location": "Göteborg, SE, 417 15",
+    "url": "https://jobs.volvogroup.com/job/G%C3%B6teborg-Payroll-Specialist-Sweden-417-15/1360082955/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 4
+   },
+   {
+    "title": "Aviseur(e) Technique",
+    "location": "Saint-Nicolas, Quebec, CA, G7A 2N1",
+    "url": "https://jobs.volvogroup.com/job/Saint-Nicolas-Aviseur%28e%29-Technique-Queb-G7A-2N1/1360112655/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 4
+   },
+   {
+    "title": "VIE - Financial Data Analyst H/F",
+    "location": "Zingonia, IT, 24040",
+    "url": "https://jobs.volvogroup.com/job/Zingonia-VIE-Financial-Data-Analyst-HF-24040/1360061255/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 4
+   },
+   {
+    "title": "Gestionnaire - Planification et performance ingénierie",
+    "location": "Saint-Eustache, Quebec, CA, J7R 5A5",
+    "url": "https://jobs.volvogroup.com/job/Saint-Eustache-Gestionnaire-Planification-et-performance-ing%C3%A9nierie-Queb-J7R-5A5/1352231455/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 4
+   },
+   {
+    "title": "Estágio em Engenharia de Manufatura",
+    "location": "Pederneiras, BR, 17280-000",
+    "url": "https://jobs.volvogroup.com/job/Pederneiras-Est%C3%A1gio-em-Engenharia-de-Manufatura-17280-000/1356237255/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 4
+   },
+   {
+    "title": "Superviseur des Opérations",
+    "location": "Sainte-Claire, Quebec, CA, G0R 2V0",
+    "url": "https://jobs.volvogroup.com/job/Sainte-Claire-Superviseur-des-Op%C3%A9rations-Queb-G0R-2V0/1355182555/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 4
+   },
+   {
+    "title": "Customs admin",
+    "location": "Oostakker, BE, 9041",
+    "url": "https://jobs.volvogroup.com/job/Oostakker-Customs-admin-9041/1360098155/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 4
+   },
+   {
+    "title": "Parts Spider",
+    "location": "Mira Loma, CA, US, 91752",
+    "url": "https://jobs.volvogroup.com/job/Mira-Loma-Parts-Spider-CA-91752/1358847655/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
@@ -1587,156 +1729,6 @@
     "score": 4
    },
    {
-    "title": "Volvosteget 2026-2027 Eskilstuna",
-    "location": "Eskilstuna, SE, 405 08",
-    "url": "https://jobs.volvogroup.com/job/Eskilstuna-Volvosteget-2026-2027-Eskilstuna-405-08/1356185555/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 4
-   },
-   {
-    "title": "Volvosteget 2026-2027 Skövde",
-    "location": "Skövde, SE, 541 87",
-    "url": "https://jobs.volvogroup.com/job/Sk%C3%B6vde-Volvosteget-2026-2027-Sk%C3%B6vde-541-87/1356188055/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 4
-   },
-   {
-    "title": "Volvosteget 2026-2027 Flen",
-    "location": "Flen, SE, 405 08",
-    "url": "https://jobs.volvogroup.com/job/Flen-Volvosteget-2026-2027-Flen-405-08/1356186455/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 4
-   },
-   {
-    "title": "Volvosteget 2026-2027 Umeå",
-    "location": "Umeå, SE, 901 24",
-    "url": "https://jobs.volvogroup.com/job/Ume%C3%A5-Volvosteget-2026-2027-Ume%C3%A5-901-24/1356179955/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 4
-   },
-   {
-    "title": "Volvosteget 2026-2027 Vara",
-    "location": "Vara, SE, 534 91",
-    "url": "https://jobs.volvogroup.com/job/Vara-Volvosteget-2026-2027-Vara-534-91/1355819955/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 4
-   },
-   {
-    "title": "Jobstudent Assistent Legal & Verzekeringen",
-    "location": "Oostakker, BE, 9041",
-    "url": "https://jobs.volvogroup.com/job/Oostakker-Jobstudent-Assistent-Legal-&-Verzekeringen-9041/1359947855/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 4
-   },
-   {
-    "title": "Automobil-Mechatroniker:in oder Automobil-Fachmann:frau LKW",
-    "location": "Winterthur, CH, 8408",
-    "url": "https://jobs.volvogroup.com/job/Winterthur-Automobil-Mechatronikerin-oder-Automobil-Fachmannfrau-LKW-8408/1161381955/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 4
-   },
-   {
-    "title": "Automobil-Mechatroniker:in oder Automobil-Fachmann:frau LKW",
-    "location": "Inwil, CH, 6034",
-    "url": "https://jobs.volvogroup.com/job/Inwil-Automobil-Mechatronikerin-oder-Automobil-Fachmannfrau-LKW-6034/993965755/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 4
-   },
-   {
-    "title": "Mechatroniker (m/w/d) Nutzfahrzeugtechnik im Neuwagenzentrum",
-    "location": "Hemmingstedt, DE, 25770",
-    "url": "https://jobs.volvogroup.com/job/Hemmingstedt-Mechatroniker-%28mwd%29-Nutzfahrzeugtechnik-im-Neuwagenzentrum-25770/1330390355/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 4
-   },
-   {
-    "title": "Volvosteget 2026-2027 Köping",
-    "location": "Köping, SE, 731 80",
-    "url": "https://jobs.volvogroup.com/job/K%C3%B6ping-Volvosteget-2026-2027-K%C3%B6ping-731-80/1355819055/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 4
-   },
-   {
     "title": "Retail Sales Consultant",
     "location": "North Little Rock, AR, US, 72117",
     "url": "https://jobs.volvogroup.com/job/North-Little-Rock-Retail-Sales-Consultant-AR-72117/1348687155/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
@@ -1752,9 +1744,9 @@
     "score": 4
    },
    {
-    "title": "Starszy Mechanik Maszyn Budowlanych (K/M)",
-    "location": "Szczecin, PL, 70-812",
-    "url": "https://jobs.volvogroup.com/job/Szczecin-Starszy-Mechanik-Maszyn-Budowlanych-%28KM%29-70-812/1354936455/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+    "title": "Master Thesis Electromobility Purchasing",
+    "location": "Göteborg, SE, 417 15",
+    "url": "https://jobs.volvogroup.com/job/G%C3%B6teborg-Master-Thesis-Electromobility-Purchasing-417-15/1359914855/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
@@ -1770,6 +1762,36 @@
     "title": "Operations Specialist",
     "location": "Bolintin Deal, RO, 87015",
     "url": "https://jobs.volvogroup.com/job/Bolintin-Deal-Operations-Specialist-87015/1363285355/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 4
+   },
+   {
+    "title": "Accountant",
+    "location": "Bolintin Deal, RO, 87015",
+    "url": "https://jobs.volvogroup.com/job/Bolintin-Deal-Accountant-87015/1363286055/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 4
+   },
+   {
+    "title": "Shop Foreman",
+    "location": "Corona, CA, US, 92883",
+    "url": "https://jobs.volvogroup.com/job/Corona-Shop-Foreman-CA-92883/1363346655/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
@@ -1887,51 +1909,6 @@
     "score": 4
    },
    {
-    "title": "HGV Technician - Broxburn",
-    "location": "Broxburn, GB, EH52 5ND",
-    "url": "https://jobs.volvogroup.com/job/Broxburn-HGV-Technician-Broxburn-EH52-5ND/1344987055/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 4
-   },
-   {
-    "title": "Accountant",
-    "location": "Bolintin Deal, RO, 87015",
-    "url": "https://jobs.volvogroup.com/job/Bolintin-Deal-Accountant-87015/1363286055/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 4
-   },
-   {
-    "title": "Warehouse Clerk",
-    "location": "Goodlettsville, TN, US, 37072",
-    "url": "https://jobs.volvogroup.com/job/Goodlettsville-Warehouse-Clerk-TN-37072/1363330155/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 4
-   },
-   {
     "title": "Purchasing Development Analyst",
     "location": "Shanghai, CN, 201206",
     "url": "https://jobs.volvogroup.com/job/Shanghai-Purchasing-Development-Analyst-201206/1359750255/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
@@ -1954,6 +1931,50 @@
     ],
     "expFits2": false,
     "score": 0
+   },
+   {
+    "title": "Senior Technology Consultant - SAP FIORI",
+    "location": "Bangalore, IN, 562122",
+    "url": "https://jobs.volvogroup.com/job/Bangalore-Senior-Technology-Consultant-SAP-FIORI-562122/1159933955/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+    "india": true,
+    "locationSaysIndia": true,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [
+     [
+      8,
+      10
+     ],
+     [
+      10,
+      11
+     ]
+    ],
+    "expFits2": false,
+    "score": -7
+   },
+   {
+    "title": "Senior Accountant",
+    "location": "Bangalore, IN, 562122",
+    "url": "https://jobs.volvogroup.com/job/Bangalore-Senior-Accountant-562122/1360054555/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+    "india": true,
+    "locationSaysIndia": true,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [
+     [
+      5,
+      9
+     ]
+    ],
+    "expFits2": false,
+    "score": -7
    },
    {
     "title": "Head of CDC Capability & Operations Enablement",
@@ -2001,9 +2022,9 @@
     "score": -18
    },
    {
-    "title": "Stagiaire Expert-produit électrique",
-    "location": "Sainte-Claire, Quebec, CA, G0R 2V0",
-    "url": "https://jobs.volvogroup.com/job/Sainte-Claire-Stagiaire-Expert-produit-%C3%A9lectrique-Queb-G0R-2V0/1354764955/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+    "title": "Product Manager",
+    "location": "Istanbul, TR, 34771",
+    "url": "https://jobs.volvogroup.com/job/Istanbul-Product-Manager-34771/1360035455/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
@@ -2011,14 +2032,23 @@
     "java": false,
     "flutter": false,
     "senior": true,
-    "exp": [],
+    "exp": [
+     [
+      5,
+      9
+     ],
+     [
+      5,
+      6
+     ]
+    ],
     "expFits2": false,
-    "score": -18
+    "score": -22
    },
    {
-    "title": "Manager Direct Sales",
-    "location": "Beesd, NL, 4153 RD",
-    "url": "https://jobs.volvogroup.com/job/Beesd-Manager-Direct-Sales-4153-RD/1351970355/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+    "title": "Truck Sales Director",
+    "location": "Quilicura, CL, 8710004",
+    "url": "https://jobs.volvogroup.com/job/Quilicura-Truck-Sales-Director-8710004/1363348655/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
@@ -2026,9 +2056,14 @@
     "java": false,
     "flutter": false,
     "senior": true,
-    "exp": [],
+    "exp": [
+     [
+      5,
+      6
+     ]
+    ],
     "expFits2": false,
-    "score": -18
+    "score": -22
    },
    {
     "title": "Team Lead - Business Control",
@@ -2045,50 +2080,6 @@
      [
       5,
       9
-     ]
-    ],
-    "expFits2": false,
-    "score": -22
-   },
-   {
-    "title": "Area Product Competence Manager - West",
-    "location": "Toronto, ON, CA, M9W 4K2",
-    "url": "https://jobs.volvogroup.com/job/Toronto-Area-Product-Competence-Manager-West-ON-M9W-4K2/1350909355/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": true,
-    "exp": [
-     [
-      10,
-      11
-     ]
-    ],
-    "expFits2": false,
-    "score": -22
-   },
-   {
-    "title": "Sr. Counsel, Commercial & Operations",
-    "location": "Göteborg, SE, 417 15",
-    "url": "https://jobs.volvogroup.com/job/G%C3%B6teborg-Sr_-Counsel%2C-Commercial-&-Operations-417-15/1359751755/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": true,
-    "exp": [
-     [
-      10,
-      12
-     ],
-     [
-      12,
-      16
      ]
     ],
     "expFits2": false,
@@ -2182,52 +2173,52 @@
     {
      "url": "https://volvo.com/careers",
      "status": 200,
-     "bytes": 99147
+     "bytes": 99148
     },
     {
      "url": "https://volvo.com/career",
      "status": 200,
-     "bytes": 99147
+     "bytes": 99148
     },
     {
      "url": "https://volvo.com/jobs",
      "status": 200,
-     "bytes": 99147
+     "bytes": 99148
     },
     {
      "url": "https://volvo.com/join-us",
      "status": 200,
-     "bytes": 99147
+     "bytes": 99148
     },
     {
      "url": "https://volvo.com/join-our-team",
      "status": 200,
-     "bytes": 99147
+     "bytes": 99148
     },
     {
      "url": "https://volvo.com/careers.html",
      "status": 200,
-     "bytes": 99147
+     "bytes": 99148
     },
     {
      "url": "https://volvo.com/company/careers",
      "status": 200,
-     "bytes": 99147
+     "bytes": 99148
     },
     {
      "url": "https://volvo.com/about/careers",
      "status": 200,
-     "bytes": 99147
+     "bytes": 99148
     },
     {
      "url": "https://volvo.com/current-openings",
      "status": 200,
-     "bytes": 99147
+     "bytes": 99148
     },
     {
      "url": "https://volvo.com/",
      "status": 200,
-     "bytes": 99147
+     "bytes": 99148
     },
     {
      "url": "https://jobs.volvogroup.com/",
@@ -2237,12 +2228,12 @@
     {
      "url": "https://jobs.volvocars.com/",
      "status": 200,
-     "bytes": 103129
+     "bytes": 103130
     },
     {
      "url": "https://www.volvogroup.com/en/careers/job-openings.html",
      "status": 200,
-     "bytes": 66360
+     "bytes": 66359
     }
    ],
    "candidates": [
@@ -2255,10 +2246,10 @@
     "workable:volvo(guess)"
    ],
    "attempts": [
-    "successfactors:jobs.volvogroup.com -> 57 jobs"
+    "successfactors:jobs.volvogroup.com -> 55 jobs"
    ]
   },
-  "ms": 13810
+  "ms": 18846
  },
  {
   "company": "Vedantu",
@@ -2346,7 +2337,7 @@
     "workable:vedantu -> no board"
    ]
   },
-  "ms": 7794
+  "ms": 8464
  },
  {
   "company": "Vymo",
@@ -2434,7 +2425,7 @@
     "workable:vymo -> no board"
    ]
   },
-  "ms": 5714
+  "ms": 6234
  },
  {
   "company": "Vahan",
@@ -2487,7 +2478,7 @@
     "workable:vahan -> no board"
    ]
   },
-  "ms": 22458
+  "ms": 31022
  },
  {
   "company": "Valuelabs",
@@ -2545,14 +2536,14 @@
     "workable:valuelabs -> no board"
    ]
   },
-  "ms": 41757
+  "ms": 43707
  },
  {
   "company": "Vanguard India",
   "country": "India",
   "source": "html:https://www.vanguardjobs.com/",
   "error": null,
-  "totalJobs": 2,
+  "totalJobs": 4,
   "jobs": [
    {
     "title": "Associate General Counsel, Artificial Intelligence",
@@ -2568,6 +2559,36 @@
     "exp": [],
     "expFits2": false,
     "score": 31
+   },
+   {
+    "title": "Account Approval Operations Specialist, New Accounts",
+    "location": "",
+    "url": "https://www.vanguardjobs.com/job/23598173/account-approval-operations-specialist-new-accounts-scottsdale-az/",
+    "india": true,
+    "locationSaysIndia": false,
+    "hasLocation": false,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 19
+   },
+   {
+    "title": "Solutions Consultant, Specialist",
+    "location": "",
+    "url": "https://www.vanguardjobs.com/job/23674888/solutions-consultant-specialist-dallas-tx/",
+    "india": true,
+    "locationSaysIndia": false,
+    "hasLocation": false,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 19
    },
    {
     "title": "Senior AI/ML Engineer",
@@ -2699,12 +2720,12 @@
     {
      "url": "https://vanguard.com/",
      "status": 200,
-     "bytes": 28564
+     "bytes": 28565
     },
     {
      "url": "https://www.vanguardjobs.com/",
      "status": 200,
-     "bytes": 1529912
+     "bytes": 1529768
     }
    ],
    "candidates": [
@@ -2722,7 +2743,7 @@
     "workable:vanguard -> no board"
    ]
   },
-  "ms": 23977
+  "ms": 33975
  },
  {
   "company": "Varian India",
@@ -3451,52 +3472,52 @@
     {
      "url": "https://varian.com/careers",
      "status": 200,
-     "bytes": 152637
+     "bytes": 152641
     },
     {
      "url": "https://varian.com/career",
      "status": 404,
-     "bytes": 147147
+     "bytes": 146689
     },
     {
      "url": "https://varian.com/jobs",
      "status": 404,
-     "bytes": 147147
+     "bytes": 146689
     },
     {
      "url": "https://varian.com/join-us",
      "status": 404,
-     "bytes": 147147
+     "bytes": 146689
     },
     {
      "url": "https://varian.com/join-our-team",
      "status": 404,
-     "bytes": 147147
+     "bytes": 146689
     },
     {
      "url": "https://varian.com/careers.html",
      "status": 404,
-     "bytes": 147147
+     "bytes": 146689
     },
     {
      "url": "https://varian.com/company/careers",
      "status": 404,
-     "bytes": 147147
+     "bytes": 146689
     },
     {
      "url": "https://varian.com/about/careers",
      "status": 200,
-     "bytes": 152637
+     "bytes": 152641
     },
     {
      "url": "https://varian.com/current-openings",
      "status": 404,
-     "bytes": 147147
+     "bytes": 146689
     },
     {
      "url": "https://varian.com/",
      "status": 200,
-     "bytes": 168301
+     "bytes": 169851
     }
    ],
    "candidates": [
@@ -3511,7 +3532,7 @@
     "workday:onehealthineers -> 40 jobs"
    ]
   },
-  "ms": 8581
+  "ms": 9789
  },
  {
   "company": "Veeva India",
@@ -3599,7 +3620,7 @@
     {
      "url": "https://veeva.com/join-us",
      "status": 404,
-     "bytes": 281973
+     "bytes": 281618
     },
     {
      "url": "https://veeva.com/join-our-team",
@@ -3622,7 +3643,7 @@
     "workable:veeva -> no board"
    ]
   },
-  "ms": 38245
+  "ms": 37354
  },
  {
   "company": "Verizon India",
@@ -3669,7 +3690,7 @@
     "workable:verizon -> no board"
    ]
   },
-  "ms": 22326
+  "ms": 24291
  },
  {
   "company": "Vertafore India",
@@ -3752,7 +3773,7 @@
     "workable:vertafore -> no board"
    ]
   },
-  "ms": 11847
+  "ms": 10877
  },
  {
   "company": "Vertex Inc India",
@@ -4221,7 +4242,7 @@
     "workday:vertexinc -> 21 jobs"
    ]
   },
-  "ms": 8644
+  "ms": 9912
  },
  {
   "company": "Vialto Partners India",
@@ -4372,7 +4393,7 @@
     "workable:vialtopartners -> no board"
    ]
   },
-  "ms": 22780
+  "ms": 29540
  },
  {
   "company": "Vinculum",
@@ -4549,7 +4570,7 @@
     "workable:vinculumgroup -> no board"
    ]
   },
-  "ms": 11275
+  "ms": 10433
  },
  {
   "company": "Visteon India",
@@ -4612,7 +4633,7 @@
     "workable:visteon -> no board"
    ]
   },
-  "ms": 5231
+  "ms": 4544
  },
  {
   "company": "Vodafone Intelligent Solutions",
@@ -4685,7 +4706,7 @@
     {
      "url": "https://vodafone.com/careers",
      "status": 200,
-     "bytes": 179473
+     "bytes": 179474
     },
     {
      "url": "https://vodafone.com/career",
@@ -4710,7 +4731,7 @@
     {
      "url": "https://vodafone.com/careers.html",
      "status": 200,
-     "bytes": 179474
+     "bytes": 179473
     },
     {
      "url": "https://vodafone.com/company/careers",
@@ -4743,7 +4764,7 @@
     "workable:vodafone -> no board"
    ]
   },
-  "ms": 20430
+  "ms": 21332
  },
  {
   "company": "Vogo",
@@ -4974,7 +4995,7 @@
     "lever:vogo -> 4 jobs (guess, name-verified)"
    ]
   },
-  "ms": 11245
+  "ms": 9448
  },
  {
   "company": "Voltas",
@@ -5004,47 +5025,47 @@
     {
      "url": "https://voltas.com/career",
      "status": 404,
-     "bytes": 1917362
+     "bytes": 1917444
     },
     {
      "url": "https://voltas.com/jobs",
      "status": 404,
-     "bytes": 1917362
+     "bytes": 1917444
     },
     {
      "url": "https://voltas.com/join-us",
      "status": 404,
-     "bytes": 1917362
+     "bytes": 1917444
     },
     {
      "url": "https://voltas.com/join-our-team",
      "status": 404,
-     "bytes": 1917362
+     "bytes": 1917444
     },
     {
      "url": "https://voltas.com/careers.html",
      "status": 404,
-     "bytes": 1917362
+     "bytes": 1917444
     },
     {
      "url": "https://voltas.com/company/careers",
      "status": 404,
-     "bytes": 1917362
+     "bytes": 1917444
     },
     {
      "url": "https://voltas.com/about/careers",
      "status": 404,
-     "bytes": 1917362
+     "bytes": 1917444
     },
     {
      "url": "https://voltas.com/current-openings",
      "status": 404,
-     "bytes": 1917362
+     "bytes": 1917444
     },
     {
      "url": "https://voltas.com/",
      "status": 200,
-     "bytes": 2073548
+     "bytes": 2073630
     }
    ],
    "candidates": [
@@ -5062,13 +5083,13 @@
     "workable:voltas -> no board"
    ]
   },
-  "ms": 11688
+  "ms": 11963
  },
  {
   "company": "Vuram",
   "country": "India",
   "source": null,
-  "error": "no-job-data-found",
+  "error": "blocked-or-error-response",
   "totalJobs": 0,
   "jobs": [],
   "enriched": 0,
@@ -5087,12 +5108,12 @@
     {
      "url": "https://vuram.com/careers",
      "status": 404,
-     "bytes": 42815
+     "bytes": 42880
     },
     {
      "url": "https://vuram.com/career",
      "status": 404,
-     "bytes": 42815
+     "bytes": 42878
     },
     {
      "url": "https://vuram.com/jobs",
@@ -5102,37 +5123,12 @@
     {
      "url": "https://vuram.com/join-us",
      "status": 404,
-     "bytes": 42816
+     "bytes": 42815
     },
     {
      "url": "https://vuram.com/join-our-team",
      "status": 404,
-     "bytes": 42821
-    },
-    {
-     "url": "https://vuram.com/careers.html",
-     "status": 404,
-     "bytes": 42821
-    },
-    {
-     "url": "https://vuram.com/company/careers",
-     "status": 404,
-     "bytes": 42824
-    },
-    {
-     "url": "https://vuram.com/about/careers",
-     "status": 404,
      "bytes": 42822
-    },
-    {
-     "url": "https://vuram.com/current-openings",
-     "status": 404,
-     "bytes": 42825
-    },
-    {
-     "url": "https://vuram.com/",
-     "status": 200,
-     "bytes": 225710
     }
    ],
    "candidates": [
@@ -5150,7 +5146,7 @@
     "workable:vuram -> no board"
    ]
   },
-  "ms": 39088
+  "ms": 37548
  },
  {
   "company": "Vahak",
@@ -5350,7 +5346,7 @@
     "workable:vahak -> no board"
    ]
   },
-  "ms": 3497
+  "ms": 4745
  },
  {
   "company": "Vegrow",
@@ -5368,7 +5364,7 @@
    "pages": [],
    "attempts": []
   },
-  "ms": 90001
+  "ms": 90002
  },
  {
   "company": "Velotio Technologies",
@@ -6016,7 +6012,7 @@
     "recruitee:velotio -> no board"
    ]
   },
-  "ms": 13010
+  "ms": 13146
  },
  {
   "company": "Verse Innovation",
@@ -6118,7 +6114,7 @@
     "workable:verse -> no board"
    ]
   },
-  "ms": 8890
+  "ms": 9740
  },
  {
   "company": "Vertoz",
@@ -6142,12 +6138,12 @@
     {
      "url": "https://vertoz.com/careers",
      "status": 200,
-     "bytes": 763564
+     "bytes": 763569
     },
     {
      "url": "https://vertoz.com/career",
      "status": 404,
-     "bytes": 333259
+     "bytes": 333261
     }
    ],
    "candidates": [
@@ -6169,7 +6165,7 @@
     "workable:vertoz -> no board"
    ]
   },
-  "ms": 23409
+  "ms": 23529
  },
  {
   "company": "Vidyalai",
@@ -6459,7 +6455,7 @@
     "workable:vidyalai -> no board"
    ]
   },
-  "ms": 4731
+  "ms": 5201
  },
  {
   "company": "Vinsys",
@@ -6508,7 +6504,7 @@
     "workable:vinsys -> no board"
    ]
   },
-  "ms": 5882
+  "ms": 5637
  },
  {
   "company": "VDoIT",
@@ -6596,7 +6592,7 @@
     "workable:vdoit -> no board"
    ]
   },
-  "ms": 6542
+  "ms": 7888
  },
  {
   "company": "VeriPark India",
@@ -7172,7 +7168,7 @@
     "workday:veripark -> 29 jobs"
    ]
   },
-  "ms": 6088
+  "ms": 6748
  },
  {
   "company": "Valasys Media",
@@ -7524,7 +7520,7 @@
     "workable:valasys -> no board"
    ]
   },
-  "ms": 38951
+  "ms": 42089
  },
  {
   "company": "ValueFirst",
@@ -7676,7 +7672,7 @@
     "workable:vfirst -> no board"
    ]
   },
-  "ms": 14116
+  "ms": 16380
  },
  {
   "company": "Vantage Circle",
@@ -7723,7 +7719,7 @@
     "workable:vantagecircle -> no board"
    ]
   },
-  "ms": 5150
+  "ms": 6213
  },
  {
   "company": "Varthana",
@@ -7968,7 +7964,7 @@
     "workable:varthana -> no board"
    ]
   },
-  "ms": 6652
+  "ms": 6811
  },
  {
   "company": "Vasitum",
@@ -8041,7 +8037,7 @@
     "workable:vasitum -> no board"
    ]
   },
-  "ms": 7306
+  "ms": 9902
  },
  {
   "company": "Vayana Network",
@@ -8139,7 +8135,7 @@
     "workable:vayana -> no board"
    ]
   },
-  "ms": 11060
+  "ms": 11249
  },
  {
   "company": "Vayu Robotics",
@@ -8339,7 +8335,7 @@
     "workable:vayurobotics -> no board"
    ]
   },
-  "ms": 12636
+  "ms": 13382
  },
  {
   "company": "Vectra AI India",
@@ -8864,7 +8860,7 @@
     "greenhouse:vectranetworks -> 21 jobs"
    ]
   },
-  "ms": 9285
+  "ms": 9649
  },
  {
   "company": "Veersa Technologies",
@@ -8947,7 +8943,7 @@
     "workable:veersatech -> no board"
    ]
   },
-  "ms": 9960
+  "ms": 11744
  },
  {
   "company": "Vehant Technologies",
@@ -9144,17 +9140,17 @@
     {
      "url": "https://vehant.com/careers",
      "status": 200,
-     "bytes": 88263
+     "bytes": 88059
     },
     {
      "url": "https://vehant.com/career",
      "status": 404,
-     "bytes": 67047
+     "bytes": 66843
     },
     {
      "url": "https://vehant.com/jobs",
      "status": 200,
-     "bytes": 105036
+     "bytes": 104832
     }
    ],
    "candidates": [
@@ -9172,7 +9168,7 @@
     "workable:vehant -> no board"
    ]
   },
-  "ms": 15191
+  "ms": 14337
  },
  {
   "company": "Velocity",
@@ -9362,7 +9358,7 @@
     {
      "url": "https://velocity.in/careers",
      "status": 404,
-     "bytes": 278
+     "bytes": 298
     },
     {
      "url": "https://velocity.in/career",
@@ -9372,22 +9368,22 @@
     {
      "url": "https://velocity.in/jobs",
      "status": 404,
-     "bytes": 275
+     "bytes": 295
     },
     {
      "url": "https://velocity.in/join-us",
      "status": 404,
-     "bytes": 298
+     "bytes": 278
     },
     {
      "url": "https://velocity.in/join-our-team",
      "status": 404,
-     "bytes": 284
+     "bytes": 304
     },
     {
      "url": "https://velocity.in/careers.html",
      "status": 404,
-     "bytes": 283
+     "bytes": 303
     },
     {
      "url": "https://velocity.in/company/careers",
@@ -9397,12 +9393,12 @@
     {
      "url": "https://velocity.in/about/careers",
      "status": 404,
-     "bytes": 304
+     "bytes": 284
     },
     {
      "url": "https://velocity.in/current-openings",
      "status": 404,
-     "bytes": 307
+     "bytes": 287
     },
     {
      "url": "https://velocity.in/",
@@ -9417,7 +9413,7 @@
     {
      "url": "https://velocity.freshteam.com/jobs",
      "status": 200,
-     "bytes": 17197
+     "bytes": 17261
     }
    ],
    "candidates": [
@@ -9437,7 +9433,7 @@
     "ashby:velocity -> 6 jobs (guess, name-verified)"
    ]
   },
-  "ms": 9295
+  "ms": 8198
  },
  {
   "company": "Velsera India",
@@ -9723,7 +9719,7 @@
     "recruitee:velsera -> no board"
    ]
   },
-  "ms": 26799
+  "ms": 24061
  },
  {
   "company": "Venwiz",
@@ -10205,14 +10201,14 @@
     "keka:venwiztechnologies -> 14 jobs"
    ]
   },
-  "ms": 11782
+  "ms": 13358
  },
  {
   "company": "Verifone India",
   "country": "India",
   "source": "greenhouse:verifone",
   "error": null,
-  "totalJobs": 43,
+  "totalJobs": 44,
   "jobs": [
    {
     "title": "Lead MySQL Database Engineer",
@@ -10541,6 +10537,21 @@
     "score": 4
    },
    {
+    "title": "People Analytics Analyst",
+    "location": "Atlanta, Georgia, United States",
+    "url": "https://job-boards.greenhouse.io/verifone/jobs/7812087003",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 4
+   },
+   {
     "title": "Risikomanager",
     "location": "Bad Hersfeld, Hesse, Germany; München, Bavaria, Germany",
     "url": "https://job-boards.greenhouse.io/verifone/jobs/6693099003",
@@ -10572,8 +10583,8 @@
    },
    {
     "title": "Compliance Officer",
-    "location": "Singapore; Sydney, New South Wales, Australia",
-    "url": "https://job-boards.greenhouse.io/verifone/jobs/7781214003",
+    "location": "Sydney, New South Wales, Australia",
+    "url": "https://job-boards.greenhouse.io/verifone/jobs/7781213003",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
@@ -10592,8 +10603,8 @@
    },
    {
     "title": "Compliance Officer",
-    "location": "Sydney, New South Wales, Australia",
-    "url": "https://job-boards.greenhouse.io/verifone/jobs/7781213003",
+    "location": "Singapore; Sydney, New South Wales, Australia",
+    "url": "https://job-boards.greenhouse.io/verifone/jobs/7781214003",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
@@ -11220,10 +11231,10 @@
     "workable:verifone(guess)"
    ],
    "attempts": [
-    "greenhouse:verifone -> 43 jobs"
+    "greenhouse:verifone -> 44 jobs"
    ]
   },
-  "ms": 9087
+  "ms": 9301
  },
  {
   "company": "Veritas India",
@@ -11293,7 +11304,7 @@
     {
      "url": "https://veritas.com/",
      "status": 200,
-     "bytes": 100068
+     "bytes": 100029
     }
    ],
    "candidates": [
@@ -11311,7 +11322,7 @@
     "workable:veritas -> no board"
    ]
   },
-  "ms": 37419
+  "ms": 47821
  },
  {
   "company": "Vernost",
@@ -11403,7 +11414,7 @@
     "workable:vernost -> no board"
    ]
   },
-  "ms": 13937
+  "ms": 15612
  },
  {
   "company": "Versa Networks India",
@@ -11658,7 +11669,7 @@
     "workable:versanetworks -> no board"
    ]
   },
-  "ms": 20480
+  "ms": 21924
  },
  {
   "company": "Vertiv India",
@@ -16255,52 +16266,52 @@
     {
      "url": "https://vertiv.com/careers",
      "status": 200,
-     "bytes": 414136
+     "bytes": 414428
     },
     {
      "url": "https://vertiv.com/career",
      "status": 404,
-     "bytes": 367131
+     "bytes": 367215
     },
     {
      "url": "https://vertiv.com/jobs",
      "status": 404,
-     "bytes": 367131
+     "bytes": 367215
     },
     {
      "url": "https://vertiv.com/join-us",
      "status": 404,
-     "bytes": 367131
+     "bytes": 367215
     },
     {
      "url": "https://vertiv.com/join-our-team",
      "status": 404,
-     "bytes": 367131
+     "bytes": 367215
     },
     {
      "url": "https://vertiv.com/careers.html",
      "status": 404,
-     "bytes": 367131
+     "bytes": 367215
     },
     {
      "url": "https://vertiv.com/company/careers",
      "status": 404,
-     "bytes": 367131
+     "bytes": 367215
     },
     {
      "url": "https://vertiv.com/about/careers",
      "status": 404,
-     "bytes": 367131
+     "bytes": 367215
     },
     {
      "url": "https://vertiv.com/current-openings",
      "status": 404,
-     "bytes": 367131
+     "bytes": 367215
     },
     {
      "url": "https://vertiv.com/",
      "status": 200,
-     "bytes": 461309
+     "bytes": 461393
     }
    ],
    "candidates": [
@@ -16318,14 +16329,14 @@
     "workable:vertiv -> no board"
    ]
   },
-  "ms": 12975
+  "ms": 10934
  },
  {
   "company": "Vestas India",
   "country": "India",
   "source": "successfactors:careers.vestas.com",
   "error": null,
-  "totalJobs": 47,
+  "totalJobs": 48,
   "jobs": [
    {
     "title": "Backend Developer",
@@ -16368,26 +16379,6 @@
     "score": 60
    },
    {
-    "title": "Converter Control Engineer",
-    "location": "Leça do Balio, Grande Porto, PT, 4465-671",
-    "url": "https://careers.vestas.com/job/Le%C3%A7a-do-Balio-Converter-Control-Engineer-Gran-4465-671/1424416533/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": true,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [
-     [
-      4,
-      8
-     ]
-    ],
-    "expFits2": false,
-    "score": 42
-   },
-   {
     "title": "Lean Engineer",
     "location": "Windsor, CO, US",
     "url": "https://careers.vestas.com/job/Windsor-Lean-Engineer-CO-80528/1424449533/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
@@ -16412,6 +16403,46 @@
     "score": 42
    },
    {
+    "title": "Converter Control Engineer",
+    "location": "Leça do Balio, Grande Porto, PT, 4465-671",
+    "url": "https://careers.vestas.com/job/Le%C3%A7a-do-Balio-Converter-Control-Engineer-Gran-4465-671/1424416533/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": true,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [
+     [
+      4,
+      8
+     ]
+    ],
+    "expFits2": false,
+    "score": 42
+   },
+   {
+    "title": "A2R Analyst I (General Ledger)",
+    "location": "Pasay, 00, PH, 1300",
+    "url": "https://careers.vestas.com/job/Pasay-A2R-Analyst-I-%28General-Ledger%29-00-1300/1393537433/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [
+     [
+      2,
+      5
+     ]
+    ],
+    "expFits2": true,
+    "score": 42
+   },
+   {
     "title": "Civil Engineer",
     "location": "Taranto, TA, IT, 74123",
     "url": "https://careers.vestas.com/job/Taranto-Civil-Engineer-TA-74123/1392907733/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
@@ -16427,9 +16458,24 @@
     "score": 34
    },
    {
-    "title": "RTR General Ledger Accounting Analyst",
-    "location": "Pasay, 00, PH, 1300",
-    "url": "https://careers.vestas.com/job/Pasay-RTR-General-Ledger-Accounting-Analyst-00-1300/1402656633/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+    "title": "BOP (Balance of Plant) Engineer",
+    "location": "BURGOS, Ilocos, PH",
+    "url": "https://careers.vestas.com/job/BURGOS-BOP-%28Balance-of-Plant%29-Engineer-Iloc/1403162233/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": true,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 34
+   },
+   {
+    "title": "Service Planner",
+    "location": "Tokyo, Tokyo, JP, 107-0062",
+    "url": "https://careers.vestas.com/job/Tokyo-Service-Planner-Toky-107-0062/1403161433/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
@@ -16440,36 +16486,16 @@
     "exp": [
      [
       2,
-      5
+      6
      ]
     ],
     "expFits2": true,
     "score": 30
    },
    {
-    "title": "General Ledger Accounting Analyst",
-    "location": "Pasay, 00, PH, 1300",
-    "url": "https://careers.vestas.com/job/Pasay-General-Ledger-Accounting-Analyst-00-1300/1402812733/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [
-     [
-      2,
-      5
-     ]
-    ],
-    "expFits2": true,
-    "score": 30
-   },
-   {
-    "title": "Production Engineering Technician",
-    "location": "Windsor, CO, US",
-    "url": "https://careers.vestas.com/job/Windsor-Production-Engineering-Technician-CO-80528/1392532233/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+    "title": "Inventory Coordinator (m/f/d)",
+    "location": "Hannover, NI, DE",
+    "url": "https://careers.vestas.com/job/Hannover-Inventory-Coordinator-%28mfd%29-NI/1413650833/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
@@ -16482,42 +16508,18 @@
       2,
       6
      ],
-     [
-      4,
-      5
-     ]
-    ],
-    "expFits2": true,
-    "score": 30
-   },
-   {
-    "title": "Stock Keeper",
-    "location": "Matheson, CO, US",
-    "url": "https://careers.vestas.com/job/Matheson-Stock-Keeper-CO-80830/1424078533/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [
      [
       2,
       3
-     ],
-     [
-      3,
-      4
      ]
     ],
     "expFits2": true,
     "score": 30
    },
    {
-    "title": "Stock Keeper - Kozani",
-    "location": "Drepano, 58, GR",
-    "url": "https://careers.vestas.com/job/Drepano-Stock-Keeper-Kozani-58/1412374333/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+    "title": "Quality Inspector (m/f/d)",
+    "location": "Hannover, NI, DE",
+    "url": "https://careers.vestas.com/job/Hannover-Quality-Inspector-%28mfd%29-NI/1413661633/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
@@ -16528,63 +16530,15 @@
     "exp": [
      [
       2,
-      3
+      6
      ],
      [
-      3,
-      4
+      2,
+      3
      ]
     ],
     "expFits2": true,
     "score": 30
-   },
-   {
-    "title": "Finish & Paint Process Engineering - Professional",
-    "location": "Chennai, TN, IN, 600 117",
-    "url": "https://careers.vestas.com/job/Chennai-Finish-&-Paint-Process-Engineering-Professional-TN-600-117/1401198633/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-    "india": true,
-    "locationSaysIndia": true,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [
-     [
-      4,
-      5
-     ],
-     [
-      5,
-      6
-     ]
-    ],
-    "expFits2": false,
-    "score": 27
-   },
-   {
-    "title": "Finish & Paint Documentation - Professional",
-    "location": "Chennai, TN, IN, 600 117",
-    "url": "https://careers.vestas.com/job/Chennai-Finish-&-Paint-Documentation-Professional-TN-600-117/1401203833/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-    "india": true,
-    "locationSaysIndia": true,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [
-     [
-      3,
-      5
-     ],
-     [
-      5,
-      6
-     ]
-    ],
-    "expFits2": false,
-    "score": 27
    },
    {
     "title": "Service Operations Planner",
@@ -16611,52 +16565,28 @@
     "score": 27
    },
    {
-    "title": "Lead Process Developer (w/m/d)",
-    "location": "Aarhus N, Region Central Jutland, DK, 8200",
-    "url": "https://careers.vestas.com/job/Aarhus-N-Lead-Process-Developer-%28wmd%29-Regi-8200/1381286033/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-    "india": false,
-    "locationSaysIndia": false,
+    "title": "Finish & Paint Process Engineering - Professional",
+    "location": "Chennai, TN, IN, 600 117",
+    "url": "https://careers.vestas.com/job/Chennai-Finish-&-Paint-Process-Engineering-Professional-TN-600-117/1401198633/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+    "india": true,
+    "locationSaysIndia": true,
     "hasLocation": true,
-    "isEng": true,
+    "isEng": false,
     "java": false,
     "flutter": false,
-    "senior": true,
+    "senior": false,
     "exp": [
      [
-      3,
-      7
+      4,
+      5
      ],
      [
-      3,
-      4
+      5,
+      6
      ]
     ],
     "expFits2": false,
-    "score": 20
-   },
-   {
-    "title": "(Lead) Process Developer",
-    "location": "Aarhus N, Region Central Jutland, DK, 8200",
-    "url": "https://careers.vestas.com/job/Aarhus-N-%28Lead%29-Process-Developer-Regi-8200/1366258233/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": true,
-    "java": false,
-    "flutter": false,
-    "senior": true,
-    "exp": [
-     [
-      3,
-      7
-     ],
-     [
-      3,
-      4
-     ]
-    ],
-    "expFits2": false,
-    "score": 20
+    "score": 27
    },
    {
     "title": "Lead Engineer (with Microsoft 365 expertise)",
@@ -16696,41 +16626,6 @@
     "exp": [],
     "expFits2": false,
     "score": 19
-   },
-   {
-    "title": "Technicien éolienne I / Wind Turbine Technician I - Port Cartier, Quebec",
-    "location": "Riviere-Pentecote, Quebec, CA, G0H 1R0",
-    "url": "https://careers.vestas.com/job/Riviere-Pentecote-Technicien-%C3%A9olienne-I-Wind-Turbine-Technician-I-Port-Cartier%2C-Quebec-Queb-G0H-1R0/1392912233/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 16
-   },
-   {
-    "title": "Digital Product Designer",
-    "location": "Leça do Balio, Grande Porto, PT, 4465-671",
-    "url": "https://careers.vestas.com/job/Le%C3%A7a-do-Balio-Digital-Product-Designer-Gran-4465-671/1424387933/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [
-     [
-      3,
-      7
-     ]
-    ],
-    "expFits2": false,
-    "score": 12
    },
    {
     "title": "Production Supervisor",
@@ -16777,32 +16672,124 @@
     "score": 12
    },
    {
-    "title": "Lead Development Professional - Roma",
-    "location": "Roma, Rome, IT, 187",
-    "url": "https://careers.vestas.com/job/Roma-Lead-Development-Professional-Roma-Rome-187/1401804233/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+    "title": "Technician II",
+    "location": "Gage, OK, US",
+    "url": "https://careers.vestas.com/job/Gage-Technician-II-OK/1403550133/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
     "isEng": false,
     "java": false,
     "flutter": false,
-    "senior": true,
-    "exp": [
-     [
-      1,
-      2
-     ],
-     [
-      4,
-      5
-     ],
-     [
-      2,
-      3
-     ]
-    ],
-    "expFits2": true,
-    "score": 8
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 4
+   },
+   {
+    "title": "Electrical Supervisor",
+    "location": "Taipei, Taiwan, TW",
+    "url": "https://careers.vestas.com/job/Taipei-Electrical-Supervisor-Taiw/1413575233/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 4
+   },
+   {
+    "title": "Technical Bid Specialist",
+    "location": "Tokyo, Tokyo, JP, 107-0062",
+    "url": "https://careers.vestas.com/job/Tokyo-Technical-Bid-Specialist-Toky-107-0062/1393131233/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 4
+   },
+   {
+    "title": "Technician II",
+    "location": "Montezuma, IA, US",
+    "url": "https://careers.vestas.com/job/Montezuma-Technician-II-IA-50171/1403556333/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 4
+   },
+   {
+    "title": "Technician II",
+    "location": "Gage, OK, US",
+    "url": "https://careers.vestas.com/job/Gage-Technician-II-OK/1403548433/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 4
+   },
+   {
+    "title": "Offshore Stock Keeper (m/f/d) Deutsche Bucht",
+    "location": "Hamburg, HH, DE",
+    "url": "https://careers.vestas.com/job/Hamburg-Offshore-Stock-Keeper-%28mfd%29-Deutsche-Bucht-HH/1413325733/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 4
+   },
+   {
+    "title": "Service Technician (f/m/d) - Beerse",
+    "location": "Maldegem, VOV, BE",
+    "url": "https://careers.vestas.com/job/Maldegem-Service-Technician-%28fmd%29-Beerse-VOV/1413736433/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 4
+   },
+   {
+    "title": "Service Technician (m/f/d) for Wind Turbines in Erfurt",
+    "location": "Erfurt, TH, DE",
+    "url": "https://careers.vestas.com/job/Erfurt-Service-Technician-%28mfd%29-for-Wind-Turbines-in-Erfurt-TH/1413632233/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 4
    },
    {
     "title": "Service Technician (m/f/d) for Wind Turbines in Prenzlau",
@@ -16835,144 +16822,9 @@
     "score": 4
    },
    {
-    "title": "Blades Technician - Patras",
-    "location": "Livadeia, 03, GR",
-    "url": "https://careers.vestas.com/job/Livadeia-Blades-Technician-Patras-03/1413227133/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 4
-   },
-   {
-    "title": "Warehouse Handler",
-    "location": "Taichung City, Taiwan, TW",
-    "url": "https://careers.vestas.com/job/Taichung-City-Warehouse-Handler-Taiw/1276966101/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 4
-   },
-   {
-    "title": "Offshore Stock Keeper (m/f/d) Deutsche Bucht",
-    "location": "Hamburg, HH, DE",
-    "url": "https://careers.vestas.com/job/Hamburg-Offshore-Stock-Keeper-%28mfd%29-Deutsche-Bucht-HH/1413325733/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 4
-   },
-   {
-    "title": "T&E Analyst II",
-    "location": "Pasay, 00, PH, 1300",
-    "url": "https://careers.vestas.com/job/Pasay-T&E-Analyst-II-00-1300/1413374633/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 4
-   },
-   {
-    "title": "Wind Technician II Kingfisher-Okache, OK",
-    "location": "Okarche, OK, US",
-    "url": "https://careers.vestas.com/job/Okarche-Wind-Technician-II-Kingfisher-Okache%2C-OK-OK-73762/1413527433/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 4
-   },
-   {
-    "title": "Offshore Stock Keeper (m/w/d) Deutsche Bucht",
-    "location": "Hamburg, HH, DE",
-    "url": "https://careers.vestas.com/job/Hamburg-Offshore-Stock-Keeper-%28mwd%29-Deutsche-Bucht-HH/1413325533/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 4
-   },
-   {
-    "title": "Servicetechniker (m/w/d) für Windenergie in Prenzlau",
-    "location": "Potsdam, BE, DE",
-    "url": "https://careers.vestas.com/job/Potsdam-Servicetechniker-%28mwd%29-f%C3%BCr-Windenergie-in-Prenzlau-BE/1402851933/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 4
-   },
-   {
-    "title": "Wind Site Technician II - Cisco, TX",
-    "location": "Cisco, TX, US",
-    "url": "https://careers.vestas.com/job/Cisco-Wind-Site-Technician-II-Cisco%2C-TX-TX-76437/1407655333/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 4
-   },
-   {
-    "title": "Service Technician",
-    "location": "Wiesbaden, HE, DE",
-    "url": "https://careers.vestas.com/job/Wiesbaden-Service-Technician-HE/1424276333/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 4
-   },
-   {
-    "title": "Service Technician (m/w/d) in Nienburg",
+    "title": "Transport Coordinator (m/f/d)",
     "location": "Hannover, NI, DE",
-    "url": "https://careers.vestas.com/job/Hannover-Service-Technician-%28mwd%29-in-Nienburg-NI/1424270833/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+    "url": "https://careers.vestas.com/job/Hannover-Transport-Coordinator-%28mfd%29-NI/1413655933/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
@@ -16985,9 +16837,9 @@
     "score": 4
    },
    {
-    "title": "Service Technician (m/f/d) for Offshore Wind Energy - Arcadis Ost",
-    "location": "Hamburg, HH, DE",
-    "url": "https://careers.vestas.com/job/Hamburg-Service-Technician-%28mfd%29-for-Offshore-Wind-Energy-Arcadis-Ost-HH/1424403533/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+    "title": "Servicetechniker (m/w/d) für Windenergie bei Erfurt",
+    "location": "Erfurt, TH, DE",
+    "url": "https://careers.vestas.com/job/Erfurt-Servicetechniker-%28mwd%29-f%C3%BCr-Windenergie-bei-Erfurt-TH/1413632333/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
@@ -17000,9 +16852,9 @@
     "score": 4
    },
    {
-    "title": "Quality Inspector",
-    "location": "Taichung City, Taiwan, TW, 43508",
-    "url": "https://careers.vestas.com/job/Taichung-City-Quality-Inspector-Taiw-43508/1412575133/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+    "title": "Service Technician San Marco dei Cavotti",
+    "location": "San Marco dei Cavoti, PI, IT",
+    "url": "https://careers.vestas.com/job/San-Marco-dei-Cavoti-Service-Technician-San-Marco-dei-Cavotti-PI/1393307333/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
@@ -17015,9 +16867,9 @@
     "score": 4
    },
    {
-    "title": "CPX Technical Supervisor",
-    "location": "Toronto, ON, CA",
-    "url": "https://careers.vestas.com/job/Toronto-CPX-Technical-Supervisor-ON/1424034833/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+    "title": "Gestionnaire de site",
+    "location": "Degelis, Quebec, CA, G5T 0C1",
+    "url": "https://careers.vestas.com/job/Degelis-Gestionnaire-de-site-Queb-G5T-0C1/1393571833/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
@@ -17030,9 +16882,9 @@
     "score": 4
    },
    {
-    "title": "Lifting Supervisor",
-    "location": "Taichung City, Taiwan, TW",
-    "url": "https://careers.vestas.com/job/Taichung-City-Lifting-Supervisor-Taiw/1423779933/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+    "title": "Service Technician (f/m/d) - North Holland",
+    "location": "Noord Scharwoude, NH, NL",
+    "url": "https://careers.vestas.com/job/Noord-Scharwoude-Service-Technician-%28fmd%29-North-Holland-NH/1393472933/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
@@ -17043,6 +16895,75 @@
     "exp": [],
     "expFits2": false,
     "score": 4
+   },
+   {
+    "title": "Team Leader",
+    "location": "Lem St, Region Central Jutland, DK, 6940",
+    "url": "https://careers.vestas.com/job/Lem-St-Team-Leader-Regi-6940/1413698533/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 4
+   },
+   {
+    "title": "Qualitätsprüfer (m/w/d) Warehouse & Logistics",
+    "location": "Hannover, NI, DE",
+    "url": "https://careers.vestas.com/job/Hannover-Qualit%C3%A4tspr%C3%BCfer-%28mwd%29-Warehouse-&-Logistics-NI/1413661733/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 4
+   },
+   {
+    "title": "Inspektor/ka ds. Jakości",
+    "location": "Szczecin, Zachodniopomorskie, PL",
+    "url": "https://careers.vestas.com/job/Szczecin-Inspektorka-ds_-Jako%C5%9Bci-Zach/1378515833/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 4
+   },
+   {
+    "title": "Supervisor Settingiano e Pisticci",
+    "location": "Taranto, TA, IT",
+    "url": "https://careers.vestas.com/job/Taranto-Supervisor-Settingiano-e-Pisticci-TA/1393376033/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [
+     [
+      5,
+      6
+     ],
+     [
+      6,
+      7
+     ]
+    ],
+    "expFits2": false,
+    "score": 0
    },
    {
     "title": "Site Administration",
@@ -17069,6 +16990,26 @@
     "score": 0
    },
    {
+    "title": "Corporate Counsel",
+    "location": "Houston, TX, US, 77002",
+    "url": "https://careers.vestas.com/job/Houston-Corporate-Counsel-TX-77002/1403581733/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [
+     [
+      7,
+      11
+     ]
+    ],
+    "expFits2": false,
+    "score": 0
+   },
+   {
     "title": "Shift Lead Offshore (f/m/d) - HKW VII, Den Helder",
     "location": "Noord Scharwoude, NH, NL",
     "url": "https://careers.vestas.com/job/Noord-Scharwoude-Shift-Lead-Offshore-%28fmd%29-HKW-VII%2C-Den-Helder-NH/1390822733/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
@@ -17084,9 +17025,39 @@
     "score": -18
    },
    {
-    "title": "Portfolio Risk Repository Senior Manager",
-    "location": "Aarhus N, Region Central Jutland, DK, 8200",
-    "url": "https://careers.vestas.com/job/Aarhus-N-Portfolio-Risk-Repository-Senior-Manager-Regi-8200/1413363733/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+    "title": "Technician III",
+    "location": "Staceyville, IA, US",
+    "url": "https://careers.vestas.com/job/Staceyville-Technician-III-IA-50225/1403559233/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [],
+    "expFits2": false,
+    "score": -18
+   },
+   {
+    "title": "Cyber Services Program and Product Lead (m/f/d)",
+    "location": "Hamburg, HH, DE, 20097",
+    "url": "https://careers.vestas.com/job/Hamburg-Cyber-Services-Program-and-Product-Lead-%28mfd%29-HH-20097/1413640233/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [],
+    "expFits2": false,
+    "score": -18
+   },
+   {
+    "title": "Quality Manager",
+    "location": "Szczecin, Zachodniopomorskie, PL, 71-700",
+    "url": "https://careers.vestas.com/job/Szczecin-Quality-Manager-Zach-71-700/1373081733/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
@@ -17114,9 +17085,9 @@
     "score": -18
    },
    {
-    "title": "Global SCADA Project Manager",
-    "location": "Aarhus N, Region Central Jutland, DK, 8200",
-    "url": "https://careers.vestas.com/job/Aarhus-N-Global-SCADA-Project-Manager-Regi-8200/1424374733/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+    "title": "Service Sales Manager (Professional) (m/w/d)",
+    "location": "Hamburg, HH, DE, 20097",
+    "url": "https://careers.vestas.com/job/Hamburg-Service-Sales-Manager-%28Professional%29-%28mwd%29-HH-20097/1413866933/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
@@ -17129,9 +17100,9 @@
     "score": -18
    },
    {
-    "title": "Site Manager -QLD",
-    "location": "Walkamin, QLD, AU, 4880",
-    "url": "https://careers.vestas.com/job/Walkamin-Site-Manager-QLD-QLD-4880/1423657333/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+    "title": "Service Sales Manager (Specialist) (m/w/d)",
+    "location": "Hamburg, HH, DE, 20097",
+    "url": "https://careers.vestas.com/job/Hamburg-Service-Sales-Manager-%28Specialist%29-%28mwd%29-HH-20097/1413905033/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
@@ -17144,9 +17115,9 @@
     "score": -18
    },
    {
-    "title": "Lead Technician (M/F), Châteauroux",
-    "location": "Châteauroux, 36, FR",
-    "url": "https://careers.vestas.com/job/Ch%C3%A2teauroux-Lead-Technician-%28MF%29%2C-Ch%C3%A2teauroux-36/1175649601/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+    "title": "Lead Technician",
+    "location": "Fraserburgh, ABD, GB",
+    "url": "https://careers.vestas.com/job/Fraserburgh-Lead-Technician-ABD/1413704433/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
@@ -17159,9 +17130,61 @@
     "score": -18
    },
    {
-    "title": "Risk Excellence & Concept Senior Manager",
-    "location": "Aarhus N, Region Central Jutland, DK, 8200",
-    "url": "https://careers.vestas.com/job/Aarhus-N-Risk-Excellence-&-Concept-Senior-Manager-Regi-8200/1413367533/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+    "title": "Quality Manager",
+    "location": "Newport, IOW, GB, PO30 5TR",
+    "url": "https://careers.vestas.com/job/Newport-Quality-Manager-IOW-PO30-5TR/1413842433/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [
+     [
+      5,
+      9
+     ],
+     [
+      5,
+      6
+     ]
+    ],
+    "expFits2": false,
+    "score": -22
+   },
+   {
+    "title": "Sales Manager",
+    "location": "Century, WC, ZA",
+    "url": "https://careers.vestas.com/job/Century-Sales-Manager-WC/1403480933/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [
+     [
+      10,
+      14
+     ],
+     [
+      10,
+      11
+     ],
+     [
+      20,
+      21
+     ]
+    ],
+    "expFits2": false,
+    "score": -22
+   },
+   {
+    "title": "Purchasing Manager",
+    "location": "Seoul, Seoul-teukpyolsi, KR, 04323",
+    "url": "https://careers.vestas.com/job/Seoul-Purchasing-Manager-Seou-04323/1413558133/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
@@ -17173,34 +17196,6 @@
      [
       8,
       12
-     ],
-     [
-      12,
-      13
-     ]
-    ],
-    "expFits2": false,
-    "score": -22
-   },
-   {
-    "title": "Finance Transformation Senior Project Manager",
-    "location": "Copenhagen S, Region Capital of Denmark, DK, 2300",
-    "url": "https://careers.vestas.com/job/Copenhagen-S-Finance-Transformation-Senior-Project-Manager-Regi-2300/1397190533/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": true,
-    "exp": [
-     [
-      7,
-      11
-     ],
-     [
-      7,
-      8
      ]
     ],
     "expFits2": false,
@@ -17285,7 +17280,7 @@
     {
      "url": "https://careers.vestas.com",
      "status": 200,
-     "bytes": 239840
+     "bytes": 239841
     },
     {
      "url": "https://vestas.com/careers",
@@ -17307,10 +17302,10 @@
     "workable:vestas(guess)"
    ],
    "attempts": [
-    "successfactors:careers.vestas.com -> 47 jobs"
+    "successfactors:careers.vestas.com -> 48 jobs"
    ]
   },
-  "ms": 14528
+  "ms": 14719
  },
  {
   "company": "Vidhyaa",
@@ -17384,17 +17379,17 @@
     {
      "url": "https://vidhyaa.in/careers",
      "status": 200,
-     "bytes": 1138067
+     "bytes": 1138087
     },
     {
      "url": "https://vidhyaa.in/career",
      "status": 200,
-     "bytes": 540881
+     "bytes": 540882
     },
     {
      "url": "https://vidhyaa.in/jobs",
      "status": 200,
-     "bytes": 1138079
+     "bytes": 1138078
     }
    ],
    "candidates": [
@@ -17412,7 +17407,7 @@
     "workable:vidhyaa -> no board"
    ]
   },
-  "ms": 16728
+  "ms": 18771
  },
  {
   "company": "Vidooly",
@@ -17500,7 +17495,7 @@
     "workable:vidooly -> no board"
    ]
   },
-  "ms": 1987
+  "ms": 2226
  },
  {
   "company": "Vigilant Technologies",
@@ -17766,7 +17761,7 @@
     "workable:vigilantinc -> no board"
    ]
   },
-  "ms": 17847
+  "ms": 16915
  },
  {
   "company": "Vionsys",
@@ -17854,7 +17849,7 @@
     "workable:vionsys -> no board"
    ]
   },
-  "ms": 14189
+  "ms": 12471
  },
  {
   "company": "Virtual Galaxy",
@@ -17996,7 +17991,7 @@
     "workable:vgipl -> no board"
    ]
   },
-  "ms": 4978
+  "ms": 6501
  },
  {
   "company": "Vishay India",
@@ -18698,7 +18693,7 @@
     {
      "url": "https://jobs.vishay.com/jobs/",
      "status": 200,
-     "bytes": 68542
+     "bytes": 68540
     },
     {
      "url": "https://careers.vishay.com",
@@ -18769,17 +18764,17 @@
     {
      "url": "https://jobs.vishay.com/locations/",
      "status": 200,
-     "bytes": 50628
+     "bytes": 50746
     },
     {
      "url": "https://jobs.vishay.com/locations/europe/",
      "status": 200,
-     "bytes": 141397
+     "bytes": 141282
     },
     {
      "url": "https://jobs.vishay.com/locations/israel/",
      "status": 200,
-     "bytes": 83421
+     "bytes": 83049
     }
    ],
    "candidates": [
@@ -18794,7 +18789,7 @@
     "workday:vishay -> 40 jobs"
    ]
   },
-  "ms": 17480
+  "ms": 14059
  },
  {
   "company": "Vistaar Technologies",
@@ -19024,7 +19019,7 @@
     "workable:vistaar -> no board"
    ]
   },
-  "ms": 14762
+  "ms": 13061
  },
  {
   "company": "Vistex India",
@@ -19111,7 +19106,7 @@
     "workable:vistex -> no board"
    ]
   },
-  "ms": 25475
+  "ms": 18641
  },
  {
   "company": "Vitech India",
@@ -19180,7 +19175,7 @@
     {
      "url": "https://vitechinc.com/",
      "status": 200,
-     "bytes": 833
+     "bytes": 212
     },
     {
      "url": "https://careers.vitechinc.com/?scroll_to=js-careers-jobs-block",
@@ -19218,7 +19213,7 @@
     "workable:vitechinc -> no board"
    ]
   },
-  "ms": 19867
+  "ms": 14241
  },
  {
   "company": "Vodex",
@@ -19305,7 +19300,7 @@
     "workable:vodex -> no board"
    ]
   },
-  "ms": 16173
+  "ms": 18557
  },
  {
   "company": "Volansys",
@@ -19323,7 +19318,7 @@
    "pages": [],
    "attempts": []
   },
-  "ms": 90001
+  "ms": 90004
  },
  {
   "company": "Voylla",
@@ -19635,7 +19630,7 @@
     "workable:voylla -> no board"
    ]
   },
-  "ms": 8701
+  "ms": 8466
  },
  {
   "company": "Vsplash",
@@ -19786,7 +19781,7 @@
     {
      "url": "https://vsplash.com/career",
      "status": 404,
-     "bytes": 177783
+     "bytes": 184324
     },
     {
      "url": "https://vsplash.com/jobs",
@@ -19796,32 +19791,32 @@
     {
      "url": "https://vsplash.com/join-us",
      "status": 404,
-     "bytes": 177783
+     "bytes": 184324
     },
     {
      "url": "https://vsplash.com/join-our-team",
      "status": 404,
-     "bytes": 177783
+     "bytes": 184324
     },
     {
      "url": "https://vsplash.com/careers.html",
      "status": 404,
-     "bytes": 177783
+     "bytes": 184324
     },
     {
      "url": "https://vsplash.com/company/careers",
      "status": 404,
-     "bytes": 177783
+     "bytes": 184324
     },
     {
      "url": "https://vsplash.com/about/careers",
      "status": 404,
-     "bytes": 177783
+     "bytes": 184324
     },
     {
      "url": "https://vsplash.com/current-openings",
      "status": 404,
-     "bytes": 177783
+     "bytes": 184324
     },
     {
      "url": "https://vsplash.com/",
@@ -19844,7 +19839,7 @@
     "workable:vsplash -> no board"
    ]
   },
-  "ms": 73939
+  "ms": 73648
  },
  {
   "company": "Vunet Systems",
@@ -20054,7 +20049,7 @@
     "workable:vunetsystems -> no board"
    ]
   },
-  "ms": 10316
+  "ms": 11468
  },
  {
   "company": "Vyapar",
@@ -21655,7 +21650,7 @@
     "keka:vyaparapp -> 70 jobs"
    ]
   },
-  "ms": 988
+  "ms": 654
  },
  {
   "company": "ValueMomentum",
@@ -21912,7 +21907,7 @@
     "workable:valuemomentum -> no board"
    ]
   },
-  "ms": 10036
+  "ms": 10585
  },
  {
   "company": "Veritis Group",
@@ -21937,52 +21932,52 @@
     {
      "url": "https://veritis.com/careers",
      "status": 307,
-     "bytes": 1439
+     "bytes": 1355
     },
     {
      "url": "https://veritis.com/career",
      "status": 307,
-     "bytes": 1359
+     "bytes": 1355
     },
     {
      "url": "https://veritis.com/jobs",
      "status": 307,
-     "bytes": 1359
+     "bytes": 1355
     },
     {
      "url": "https://veritis.com/join-us",
      "status": 307,
-     "bytes": 1359
+     "bytes": 1355
     },
     {
      "url": "https://veritis.com/join-our-team",
      "status": 307,
-     "bytes": 1359
+     "bytes": 1355
     },
     {
      "url": "https://veritis.com/careers.html",
      "status": 307,
-     "bytes": 1359
+     "bytes": 1355
     },
     {
      "url": "https://veritis.com/company/careers",
      "status": 307,
-     "bytes": 1359
+     "bytes": 1303
     },
     {
      "url": "https://veritis.com/about/careers",
      "status": 307,
-     "bytes": 1359
+     "bytes": 1303
     },
     {
      "url": "https://veritis.com/current-openings",
      "status": 307,
-     "bytes": 1359
+     "bytes": 1303
     },
     {
      "url": "https://veritis.com/",
      "status": 307,
-     "bytes": 1359
+     "bytes": 1303
     }
    ],
    "candidates": [
@@ -22000,7 +21995,7 @@
     "workable:veritis -> no board"
    ]
   },
-  "ms": 58396
+  "ms": 60304
  },
  {
   "company": "Veltris",
@@ -22096,7 +22091,7 @@
     "workable:veltris -> no board"
    ]
   },
-  "ms": 43832
+  "ms": 57792
  },
  {
   "company": "VVDN Technologies",
@@ -22214,7 +22209,7 @@
     "workable:vvdntech -> no board"
    ]
   },
-  "ms": 14741
+  "ms": 10965
  },
  {
   "company": "V2Solutions",
@@ -22239,52 +22234,52 @@
     {
      "url": "https://v2solutions.com/careers",
      "status": 307,
-     "bytes": 1463
+     "bytes": 1435
     },
     {
      "url": "https://v2solutions.com/career",
      "status": 307,
-     "bytes": 1463
+     "bytes": 1435
     },
     {
      "url": "https://v2solutions.com/jobs",
      "status": 307,
-     "bytes": 1463
+     "bytes": 1435
     },
     {
      "url": "https://v2solutions.com/join-us",
      "status": 307,
-     "bytes": 1463
+     "bytes": 1435
     },
     {
      "url": "https://v2solutions.com/join-our-team",
      "status": 307,
-     "bytes": 1463
+     "bytes": 1435
     },
     {
      "url": "https://v2solutions.com/careers.html",
      "status": 307,
-     "bytes": 1463
+     "bytes": 1435
     },
     {
      "url": "https://v2solutions.com/company/careers",
      "status": 307,
-     "bytes": 1487
+     "bytes": 1435
     },
     {
      "url": "https://v2solutions.com/about/careers",
      "status": 307,
-     "bytes": 1487
+     "bytes": 1435
     },
     {
      "url": "https://v2solutions.com/current-openings",
      "status": 307,
-     "bytes": 1487
+     "bytes": 1435
     },
     {
      "url": "https://v2solutions.com/",
      "status": 307,
-     "bytes": 1487
+     "bytes": 1435
     }
    ],
    "candidates": [
@@ -22302,7 +22297,7 @@
     "workable:v2solutions -> no board"
    ]
   },
-  "ms": 30003
+  "ms": 18208
  },
  {
   "company": "Virtuos Digital",
@@ -22445,7 +22440,7 @@
     "workable:virtuos -> no board"
    ]
   },
-  "ms": 8172
+  "ms": 4131
  },
  {
   "company": "Vayavya Labs",
@@ -22815,7 +22810,7 @@
     {
      "url": "https://vayavyalabs.com/careers/",
      "status": 200,
-     "bytes": 185192
+     "bytes": 185193
     },
     {
      "url": "https://careers.vayavyalabs.com",
@@ -22826,7 +22821,7 @@
     {
      "url": "https://vayavyalabs.com/careers",
      "status": 200,
-     "bytes": 185192
+     "bytes": 185193
     },
     {
      "url": "https://vayavyalabs.com/career",
@@ -22864,7 +22859,7 @@
     "workable:vayavyalabs -> no board"
    ]
   },
-  "ms": 56363
+  "ms": 50791
  },
  {
   "company": "Vidhema Technologies",
@@ -22957,7 +22952,7 @@
     "workable:vidhema -> no board"
    ]
   },
-  "ms": 14718
+  "ms": 12416
  },
  {
   "company": "Volumetree",
@@ -23045,7 +23040,7 @@
     "workable:volumetree -> no board"
    ]
   },
-  "ms": 3130
+  "ms": 3395
  },
  {
   "company": "Vofox Solutions",
@@ -23301,7 +23296,7 @@
     "workable:vofox -> no board"
    ]
   },
-  "ms": 10145
+  "ms": 9997
  },
  {
   "company": "Vyrazu Labs",
@@ -23395,7 +23390,7 @@
     "workable:vyrazu -> no board"
    ]
   },
-  "ms": 4879
+  "ms": 4382
  },
  {
   "company": "Vayuz Technologies",
@@ -23994,7 +23989,7 @@
     "workable:vayuz -> no board"
    ]
   },
-  "ms": 19828
+  "ms": 19865
  },
  {
   "company": "Vrinsoft Technology",
@@ -24251,7 +24246,7 @@
     "workable:vrinsofts -> no board"
    ]
   },
-  "ms": 40467
+  "ms": 36187
  },
  {
   "company": "Vasundhara Infotech",
@@ -24566,7 +24561,7 @@
     "workable:vasundhara -> no board"
    ]
   },
-  "ms": 14827
+  "ms": 6540
  },
  {
   "company": "VerveLogic",
@@ -24811,7 +24806,7 @@
     "workable:vervelogic -> no board"
    ]
   },
-  "ms": 8795
+  "ms": 13996
  },
  {
   "company": "Vega Moon Technologies",
@@ -25092,7 +25087,7 @@
     "workable:vegamoontech -> no board"
    ]
   },
-  "ms": 16089
+  "ms": 17869
  },
  {
   "company": "Vindaloo Softtech",
@@ -25233,7 +25228,7 @@
     "workable:vindaloosofttech -> no board"
    ]
   },
-  "ms": 25574
+  "ms": 29071
  },
  {
   "company": "Virtual Height IT Services",
@@ -25596,7 +25591,7 @@
     "workable:virtualheight -> no board"
    ]
   },
-  "ms": 22312
+  "ms": 22776
  },
  {
   "company": "Vibidsoft",
@@ -25826,7 +25821,7 @@
     "workable:vibidsoft -> no board"
    ]
   },
-  "ms": 35677
+  "ms": 28353
  },
  {
   "company": "VertexPlus Technologies",
@@ -25963,7 +25958,7 @@
     "workable:vertexplus -> no board"
    ]
   },
-  "ms": 6588
+  "ms": 5114
  },
  {
   "company": "Vertace",
@@ -26051,7 +26046,7 @@
     "workable:vertace -> no board"
    ]
   },
-  "ms": 4076
+  "ms": 5170
  },
  {
   "company": "VSoft Technologies",
@@ -26244,7 +26239,7 @@
     {
      "url": "https://www.vsoftcorp.com/careers/",
      "status": 200,
-     "bytes": 175781
+     "bytes": 175776
     },
     {
      "url": "https://careers.vsoftcorp.com",
@@ -26255,12 +26250,12 @@
     {
      "url": "https://vsoftcorp.com/careers",
      "status": 200,
-     "bytes": 175781
+     "bytes": 175780
     },
     {
      "url": "https://vsoftcorp.com/career",
      "status": 200,
-     "bytes": 175781
+     "bytes": 175780
     },
     {
      "url": "https://vsoftcorp.com/jobs",
@@ -26298,7 +26293,7 @@
     "workable:vsoftcorp -> no board"
    ]
   },
-  "ms": 13827
+  "ms": 13550
  },
  {
   "company": "Vtiger",
@@ -26445,7 +26440,7 @@
     "workable:vtiger -> no board"
    ]
   },
-  "ms": 11746
+  "ms": 10903
  },
  {
   "company": "Volante Technologies",
@@ -26959,22 +26954,22 @@
     {
      "url": "https://volantetech.com/jobs",
      "status": 404,
-     "bytes": 103143
+     "bytes": 101624
     },
     {
      "url": "https://volantetech.com/join-us",
      "status": 404,
-     "bytes": 103143
+     "bytes": 101624
     },
     {
      "url": "https://volantetech.com/join-our-team",
      "status": 404,
-     "bytes": 103143
+     "bytes": 101624
     },
     {
      "url": "https://volantetech.com/careers.html",
      "status": 404,
-     "bytes": 103143
+     "bytes": 101624
     },
     {
      "url": "https://volantetech.com/company/careers",
@@ -26989,7 +26984,7 @@
     {
      "url": "https://volantetech.com/current-openings",
      "status": 404,
-     "bytes": 103143
+     "bytes": 101624
     },
     {
      "url": "https://volantetech.com/",
@@ -27014,7 +27009,7 @@
     "bamboohr:volanteoneteam -> 24 jobs"
    ]
   },
-  "ms": 28714
+  "ms": 27747
  },
  {
   "company": "Valuebound",
@@ -27160,7 +27155,7 @@
     "workable:valuebound -> no board"
    ]
   },
-  "ms": 10011
+  "ms": 8856
  },
  {
   "company": "Vidyatech Solutions",
@@ -27505,7 +27500,7 @@
     "workable:vidyatech -> no board"
    ]
   },
-  "ms": 3981
+  "ms": 3480
  },
  {
   "company": "Vaanam Technologies",
@@ -27603,7 +27598,7 @@
     "workable:vaanamtech -> no board"
    ]
   },
-  "ms": 12816
+  "ms": 12232
  },
  {
   "company": "Vinsol",
@@ -27733,7 +27728,7 @@
     "zohorecruit:vinsol -> 1 jobs"
    ]
   },
-  "ms": 11707
+  "ms": 13857
  },
  {
   "company": "Vmoksha Technologies",
@@ -27821,7 +27816,7 @@
     "workable:vmoksha -> no board"
    ]
   },
-  "ms": 2335
+  "ms": 3030
  },
  {
   "company": "Vertex Infosoft Solutions",
@@ -27923,7 +27918,7 @@
     {
      "url": "https://vertexinfosoft.com/careers/",
      "status": 200,
-     "bytes": 196206
+     "bytes": 196204
     },
     {
      "url": "https://careers.vertexinfosoft.com",
@@ -27934,7 +27929,7 @@
     {
      "url": "https://vertexinfosoft.com/careers",
      "status": 200,
-     "bytes": 196204
+     "bytes": 196208
     },
     {
      "url": "https://vertexinfosoft.com/career",
@@ -27944,7 +27939,7 @@
     {
      "url": "https://vertexinfosoft.com/jobs",
      "status": 404,
-     "bytes": 103677
+     "bytes": 103679
     }
    ],
    "candidates": [
@@ -27962,7 +27957,7 @@
     "workable:vertexinfosoft -> no board"
    ]
   },
-  "ms": 10594
+  "ms": 10484
  },
  {
   "company": "Vibrant Info",
@@ -28184,7 +28179,7 @@
     "workable:vibrantinfo -> no board"
    ]
   },
-  "ms": 6266
+  "ms": 5985
  },
  {
   "company": "Vinove Software",
@@ -28278,7 +28273,7 @@
     "workable:vinove -> no board"
    ]
   },
-  "ms": 11245
+  "ms": 11693
  },
  {
   "company": "ValueCoders",
@@ -29046,7 +29041,7 @@
     "keka:vinove -> 28 jobs"
    ]
   },
-  "ms": 7724
+  "ms": 1241
  },
  {
   "company": "Vervali Systems",
@@ -29302,269 +29297,26 @@
     "workable:vervali -> no board"
    ]
   },
-  "ms": 13367
+  "ms": 12684
  },
  {
   "company": "VT Netzwelt",
   "country": "India",
   "careers": "https://www.vtnetzwelt.com/careers/",
-  "source": "feed:https://www.vtnetzwelt.com",
-  "error": null,
-  "totalJobs": 10,
-  "jobs": [
-   {
-    "title": "Swift vs React Native: 10 Reasons to Choose Swift for iOS in 2026",
-    "location": "",
-    "url": "https://www.vtnetzwelt.com/swift-ios-app-development/swift-vs-react-native-ios-2026/",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 19
-   },
-   {
-    "title": "How to Increase App Downloads by Fixing These 9 Common Issues",
-    "location": "",
-    "url": "https://www.vtnetzwelt.com/app-store-optimization/why-app-not-getting-downloads-reasons-and-fixes/",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 19
-   },
-   {
-    "title": "Salesforce to HubSpot Migration: Step-by-Step Guide (2026)",
-    "location": "",
-    "url": "https://www.vtnetzwelt.com/hubspot-consulting/salesforce-to-hubspot-migration-guide/",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 19
-   },
-   {
-    "title": "10 AWS Cost Optimization Strategies to Cut Your Cloud Bill",
-    "location": "",
-    "url": "https://www.vtnetzwelt.com/aws-consulting/aws-cost-optimization-strategies/",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 19
-   },
-   {
-    "title": "How Much Does an iOS App Cost in 2026? Budgeting Guide",
-    "location": "",
-    "url": "https://www.vtnetzwelt.com/mobile-app-development/how-much-does-an-ios-app-cost-in-2026-budgeting-guide/",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 19
-   },
-   {
-    "title": "VT Netzwelt Wins HR Excellence Award for Learning & Development at the PHDCCI HR Conclave 2026",
-    "location": "",
-    "url": "https://www.vtnetzwelt.com/events/vt-netzwelt-hr-excellence-award-phdcci-2026/",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 19
-   },
-   {
-    "title": "Magento 2 ERP Integration: A Practical Guide for Scaling Ecommerce Brands",
-    "location": "",
-    "url": "https://www.vtnetzwelt.com/magento-development/magento-2-erp-integration-practical-guide-ecommerce-brands/",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 19
-   },
-   {
-    "title": "From Olympia to Tobacco Dock: VT Netzwelt’s Takeaways from London’s Biggest Tech Events",
-    "location": "",
-    "url": "https://www.vtnetzwelt.com/events/from-olympia-to-tobacco-dock-vt-netzwelts-takeaways-from-londons-biggest-tech-events/",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 19
-   },
-   {
-    "title": "Salesforce Clouds Explained: Types, Pricing, and What Changed in 2026",
-    "location": "",
-    "url": "https://www.vtnetzwelt.com/salesforce/types-of-salesforce-clouds/",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 19
-   },
-   {
-    "title": "Magento 1 to Magento 2 Migration Cost in 2026 (USA Guide)",
-    "location": "",
-    "url": "https://www.vtnetzwelt.com/magento-development/magento-1-to-magento-2-migration-cost-2026-usa-guide/",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 19
-   }
-  ],
+  "source": null,
+  "error": "timed-out",
+  "totalJobs": 0,
+  "jobs": [],
   "enriched": 0,
   "matches": [],
   "nearMatches": [],
-  "closest": {
-   "title": "Swift vs React Native: 10 Reasons to Choose Swift for iOS in 2026",
-   "location": "",
-   "url": "https://www.vtnetzwelt.com/swift-ios-app-development/swift-vs-react-native-ios-2026/",
-   "team": "",
-   "text": "Swift vs React Native in 2026: compare performance, Apple features, security, maintenance, cost, and use cases to choose the right framework for your app.",
-   "score": 19,
-   "isMatch": false,
-   "isEng": false,
-   "java": false,
-   "flutter": false,
-   "android": false,
-   "india": true,
-   "senior": false,
-   "junior": false,
-   "exp": [],
-   "expFits2": false
-  },
+  "closest": null,
   "closestEng": null,
   "trace": {
-   "pages": [
-    {
-     "url": "https://www.vtnetzwelt.com/careers/",
-     "status": 200,
-     "bytes": 412392
-    },
-    {
-     "url": "https://careers.vtnetzwelt.com",
-     "status": 0,
-     "bytes": 0,
-     "error": "fetch failed"
-    },
-    {
-     "url": "https://vtnetzwelt.com/careers",
-     "status": 200,
-     "bytes": 412392
-    },
-    {
-     "url": "https://vtnetzwelt.com/career",
-     "status": 404,
-     "bytes": 247522
-    },
-    {
-     "url": "https://vtnetzwelt.com/jobs",
-     "status": 404,
-     "bytes": 247522
-    },
-    {
-     "url": "https://vtnetzwelt.com/join-us",
-     "status": 404,
-     "bytes": 247522
-    },
-    {
-     "url": "https://vtnetzwelt.com/join-our-team",
-     "status": 404,
-     "bytes": 247522
-    },
-    {
-     "url": "https://vtnetzwelt.com/careers.html",
-     "status": 404,
-     "bytes": 247522
-    },
-    {
-     "url": "https://vtnetzwelt.com/company/careers",
-     "status": 404,
-     "bytes": 247522
-    },
-    {
-     "url": "https://vtnetzwelt.com/about/careers",
-     "status": 404,
-     "bytes": 247522
-    },
-    {
-     "url": "https://vtnetzwelt.com/current-openings",
-     "status": 404,
-     "bytes": 247522
-    },
-    {
-     "url": "https://vtnetzwelt.com/",
-     "status": 200,
-     "bytes": 405910
-    }
-   ],
-   "candidates": [
-    "greenhouse:vtnetzwelt(guess)",
-    "lever:vtnetzwelt(guess)",
-    "ashby:vtnetzwelt(guess)",
-    "recruitee:vtnetzwelt(guess)",
-    "workable:vtnetzwelt(guess)"
-   ],
-   "attempts": [
-    "greenhouse:vtnetzwelt -> no board",
-    "lever:vtnetzwelt -> no board",
-    "ashby:vtnetzwelt -> no board",
-    "recruitee:vtnetzwelt -> no board",
-    "workable:vtnetzwelt -> no board"
-   ]
+   "pages": [],
+   "attempts": []
   },
-  "ms": 38830
+  "ms": 90126
  },
  {
   "company": "Vsourz",
@@ -29627,7 +29379,7 @@
     "workable:vsourz -> no board"
    ]
   },
-  "ms": 48684
+  "ms": 49861
  },
  {
   "company": "Vitrana",
@@ -29978,7 +29730,7 @@
     "workable:vitrana -> no board"
    ]
   },
-  "ms": 11225
+  "ms": 13002
  },
  {
   "company": "VSM Software",
@@ -30067,249 +29819,26 @@
     "workable:vsmsoftware -> no board"
    ]
   },
-  "ms": 4656
+  "ms": 3742
  },
  {
   "company": "Vardhaman Infotech",
   "country": "India",
   "careers": "https://www.vardhamaninfotech.com/careers/",
-  "source": "feed:https://www.vardhamaninfotech.com",
-  "error": null,
-  "totalJobs": 10,
-  "jobs": [
-   {
-    "title": "Comment on How to Establish Brand and Retain Customers in Gems and Jewelry with Mobile App? by Dai Software",
-    "location": "",
-    "url": "https://www.vardhamaninfotech.com/blog/gems-jewelry-ecommerce-website-mobile-app/#comment-84",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 19
-   },
-   {
-    "title": "Comment on What are the most popular business mobile apps? by Bhanu",
-    "location": "",
-    "url": "https://www.vardhamaninfotech.com/blog/what-most-popular-business-mobile-apps/#comment-79",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 19
-   },
-   {
-    "title": "Comment on How to Establish Brand and Retain Customers in Gems and Jewelry with Mobile App? by tom lincoln",
-    "location": "",
-    "url": "https://www.vardhamaninfotech.com/blog/gems-jewelry-ecommerce-website-mobile-app/#comment-83",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 19
-   },
-   {
-    "title": "Comment on How to Establish Brand and Retain Customers in Gems and Jewelry with Mobile App? by Bupita Ransom",
-    "location": "",
-    "url": "https://www.vardhamaninfotech.com/blog/gems-jewelry-ecommerce-website-mobile-app/#comment-82",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 19
-   },
-   {
-    "title": "Comment on How to Establish Brand and Retain Customers in Gems and Jewelry with Mobile App? by srijith",
-    "location": "",
-    "url": "https://www.vardhamaninfotech.com/blog/gems-jewelry-ecommerce-website-mobile-app/#comment-80",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 19
-   },
-   {
-    "title": "Comment on Blockchain Technology And Business Applications Trends by Denish Muniz",
-    "location": "",
-    "url": "https://www.vardhamaninfotech.com/blog/blockchain-technology-business-applications/#comment-78",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 19
-   },
-   {
-    "title": "Comment on Web Development: Top 8 Trends You Should Know in 2018 by Web Site Design",
-    "location": "",
-    "url": "https://www.vardhamaninfotech.com/blog/web-development-trends-2018/#comment-45",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 19
-   },
-   {
-    "title": "Comment on On-Demand Mobile Apps Like Taxi And Food Delivery by helena",
-    "location": "",
-    "url": "https://www.vardhamaninfotech.com/blog/on-demand-mobile-apps-taxi-food-delivery/#comment-74",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 19
-   },
-   {
-    "title": "Comment on On-Demand Mobile Apps Like Taxi And Food Delivery by Nitin Patel",
-    "location": "",
-    "url": "https://www.vardhamaninfotech.com/blog/on-demand-mobile-apps-taxi-food-delivery/#comment-73",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 19
-   },
-   {
-    "title": "Comment on Web Development: Top 8 Trends You Should Know in 2018 by Low Cost Website Design Company",
-    "location": "",
-    "url": "https://www.vardhamaninfotech.com/blog/web-development-trends-2018/#comment-44",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 19
-   }
-  ],
+  "source": null,
+  "error": "timed-out",
+  "totalJobs": 0,
+  "jobs": [],
   "enriched": 0,
   "matches": [],
   "nearMatches": [],
-  "closest": {
-   "title": "Comment on How to Establish Brand and Retain Customers in Gems and Jewelry with Mobile App? by Dai Software",
-   "location": "",
-   "url": "https://www.vardhamaninfotech.com/blog/gems-jewelry-ecommerce-website-mobile-app/#comment-84",
-   "team": "",
-   "text": "Pleasant post, Thank you for sharing profitable data. I appreciated perusing this post. The entire blog is extremely pleasant discovered some well done. Thanks for sharing... :)",
-   "score": 19,
-   "isMatch": false,
-   "isEng": false,
-   "java": false,
-   "flutter": false,
-   "android": false,
-   "india": true,
-   "senior": false,
-   "junior": false,
-   "exp": [],
-   "expFits2": false
-  },
+  "closest": null,
   "closestEng": null,
   "trace": {
-   "pages": [
-    {
-     "url": "https://www.vardhamaninfotech.com/careers/",
-     "status": 200,
-     "bytes": 774127
-    },
-    {
-     "url": "https://careers.vardhamaninfotech.com",
-     "status": 0,
-     "bytes": 0,
-     "error": "fetch failed"
-    },
-    {
-     "url": "https://vardhamaninfotech.com/careers",
-     "status": 200,
-     "bytes": 774127
-    },
-    {
-     "url": "https://vardhamaninfotech.com/career",
-     "status": 404,
-     "bytes": 977003
-    },
-    {
-     "url": "https://vardhamaninfotech.com/jobs",
-     "status": 404,
-     "bytes": 977003
-    },
-    {
-     "url": "https://vardhamaninfotech.com/join-us",
-     "status": 404,
-     "bytes": 977003
-    },
-    {
-     "url": "https://vardhamaninfotech.com/join-our-team",
-     "status": 404,
-     "bytes": 977003
-    },
-    {
-     "url": "https://vardhamaninfotech.com/careers.html",
-     "status": 404,
-     "bytes": 977125
-    }
-   ],
-   "candidates": [
-    "greenhouse:vardhamaninfotech(guess)",
-    "lever:vardhamaninfotech(guess)",
-    "ashby:vardhamaninfotech(guess)",
-    "recruitee:vardhamaninfotech(guess)",
-    "workable:vardhamaninfotech(guess)"
-   ],
-   "attempts": [
-    "greenhouse:vardhamaninfotech -> no board",
-    "lever:vardhamaninfotech -> no board",
-    "ashby:vardhamaninfotech -> no board",
-    "recruitee:vardhamaninfotech -> no board",
-    "workable:vardhamaninfotech -> no board"
-   ]
+   "pages": [],
+   "attempts": []
   },
-  "ms": 50535
+  "ms": 90003
  },
  {
   "company": "Visionet Systems",
@@ -30805,7 +30334,7 @@
     "workable:visionet -> no board"
    ]
   },
-  "ms": 35565
+  "ms": 41838
  },
  {
   "company": "Vitraya Technologies",
@@ -31039,7 +30568,7 @@
     {
      "url": "https://vitraya.com/careers.html",
      "status": 404,
-     "bytes": 1793
+     "bytes": 1792
     },
     {
      "url": "https://vitraya.com/company/careers",
@@ -31054,7 +30583,7 @@
     {
      "url": "https://vitraya.com/current-openings",
      "status": 404,
-     "bytes": 1792
+     "bytes": 1793
     },
     {
      "url": "https://vitraya.com/",
@@ -31077,7 +30606,7 @@
     "workable:vitraya -> no board"
    ]
   },
-  "ms": 2955
+  "ms": 3119
  },
  {
   "company": "Vecmocon Technologies",
@@ -31429,7 +30958,7 @@
     {
      "url": "https://vecmocon.com/career/",
      "status": 200,
-     "bytes": 170020
+     "bytes": 578506
     },
     {
      "url": "https://careers.vecmocon.com",
@@ -31440,52 +30969,57 @@
     {
      "url": "https://vecmocon.com/careers",
      "status": 404,
-     "bytes": 102767
+     "bytes": 13
     },
     {
      "url": "https://vecmocon.com/career",
      "status": 200,
-     "bytes": 170020
+     "bytes": 578506
     },
     {
      "url": "https://vecmocon.com/jobs",
      "status": 404,
-     "bytes": 102767
+     "bytes": 13
     },
     {
      "url": "https://vecmocon.com/join-us",
      "status": 404,
-     "bytes": 102767
+     "bytes": 13
     },
     {
      "url": "https://vecmocon.com/join-our-team",
      "status": 404,
-     "bytes": 102767
+     "bytes": 13
     },
     {
      "url": "https://vecmocon.com/careers.html",
      "status": 404,
-     "bytes": 102767
+     "bytes": 13
     },
     {
      "url": "https://vecmocon.com/company/careers",
      "status": 404,
-     "bytes": 102767
+     "bytes": 13
     },
     {
      "url": "https://vecmocon.com/about/careers",
      "status": 404,
-     "bytes": 102767
+     "bytes": 13
     },
     {
      "url": "https://vecmocon.com/current-openings",
      "status": 404,
-     "bytes": 102767
+     "bytes": 13
     },
     {
      "url": "https://vecmocon.com/",
      "status": 200,
      "bytes": 214979
+    },
+    {
+     "url": "https://vecmocon.com/https://vecmocon.com/career/",
+     "status": 404,
+     "bytes": 13
     }
    ],
    "candidates": [
@@ -31500,7 +31034,7 @@
     "keka:vecmocon -> 15 jobs"
    ]
   },
-  "ms": 8906
+  "ms": 2635
  },
  {
   "company": "Voiro Technologies",
@@ -31731,7 +31265,7 @@
     "workable:voiro -> no board"
    ]
   },
-  "ms": 19599
+  "ms": 14799
  },
  {
   "company": "Volopay",
@@ -31779,7 +31313,7 @@
     "workable:volopay -> no board"
    ]
   },
-  "ms": 11764
+  "ms": 9746
  },
  {
   "company": "Vested Finance",
@@ -31813,7 +31347,7 @@
     {
      "url": "https://vestedfinance.com/jobs",
      "status": 404,
-     "bytes": 174099
+     "bytes": 173985
     }
    ],
    "candidates": [
@@ -31831,7 +31365,7 @@
     "workable:vestedfinance -> no board"
    ]
   },
-  "ms": 46270
+  "ms": 59523
  },
  {
   "company": "Vivriti Capital",
@@ -31999,7 +31533,7 @@
     "workable:vivriticapital -> no board"
    ]
   },
-  "ms": 8761
+  "ms": 8179
  },
  {
   "company": "Veefin Solutions",
@@ -32092,7 +31626,7 @@
     "workable:veefin -> no board"
    ]
   },
-  "ms": 3337
+  "ms": 4237
  },
  {
   "company": "Vegapay",
@@ -32375,7 +31909,7 @@
     "keka:vegapay -> 7 jobs"
    ]
   },
-  "ms": 1104
+  "ms": 1990
  },
  {
   "company": "Vakilsearch",
@@ -32662,7 +32196,7 @@
     "workable:vakilsearch -> no board"
    ]
   },
-  "ms": 4536
+  "ms": 8244
  },
  {
   "company": "Veranda Learning",
@@ -32770,7 +32304,7 @@
     "workable:verandalearning -> no board"
    ]
   },
-  "ms": 5183
+  "ms": 11736
  },
  {
   "company": "Virohan",
@@ -32878,7 +32412,7 @@
     "workable:virohan -> no board"
    ]
   },
-  "ms": 2955
+  "ms": 6285
  },
  {
   "company": "Vidyakul",
@@ -32932,7 +32466,7 @@
     "workable:vidyakul -> no board"
    ]
   },
-  "ms": 7806
+  "ms": 13958
  },
  {
   "company": "Vetic",
@@ -33001,7 +32535,7 @@
     "workable:vetic -> no board"
    ]
   },
-  "ms": 4751
+  "ms": 16125
  },
  {
   "company": "Visit Health",
@@ -34084,52 +33618,52 @@
     {
      "url": "https://getvisitapp.com/careers",
      "status": 404,
-     "bytes": 22844
+     "bytes": 22860
     },
     {
      "url": "https://getvisitapp.com/career",
      "status": 404,
-     "bytes": 22843
+     "bytes": 22859
     },
     {
      "url": "https://getvisitapp.com/jobs",
      "status": 404,
-     "bytes": 22841
+     "bytes": 22857
     },
     {
      "url": "https://getvisitapp.com/join-us",
      "status": 404,
-     "bytes": 22844
+     "bytes": 22860
     },
     {
      "url": "https://getvisitapp.com/join-our-team",
      "status": 404,
-     "bytes": 22850
+     "bytes": 22866
     },
     {
      "url": "https://getvisitapp.com/careers.html",
      "status": 404,
-     "bytes": 22844
+     "bytes": 22860
     },
     {
      "url": "https://getvisitapp.com/company/careers",
      "status": 404,
-     "bytes": 22856
+     "bytes": 22872
     },
     {
      "url": "https://getvisitapp.com/about/careers",
      "status": 404,
-     "bytes": 22854
+     "bytes": 22870
     },
     {
      "url": "https://getvisitapp.com/current-openings",
      "status": 404,
-     "bytes": 22853
+     "bytes": 22869
     },
     {
      "url": "https://getvisitapp.com/",
      "status": 200,
-     "bytes": 59358
+     "bytes": 59390
     }
    ],
    "candidates": [
@@ -34149,7 +33683,7 @@
     "keka:getvisitapp -> 47 jobs"
    ]
   },
-  "ms": 1041
+  "ms": 1610
  },
  {
   "company": "VMock",
@@ -34237,7 +33771,7 @@
     "workable:vmock -> no board"
    ]
   },
-  "ms": 2960
+  "ms": 3343
  },
  {
   "company": "vPhrase Analytics",
@@ -34339,7 +33873,7 @@
     "workable:vphrase -> no board"
    ]
   },
-  "ms": 9406
+  "ms": 11190
  },
  {
   "company": "Verloop.io",
@@ -34401,7 +33935,7 @@
     "workable:verloop -> no board"
    ]
   },
-  "ms": 8342
+  "ms": 9967
  },
  {
   "company": "Volody",
@@ -34489,7 +34023,7 @@
     "workable:volody -> no board"
    ]
   },
-  "ms": 5463
+  "ms": 4104
  },
  {
   "company": "VideoKen",
@@ -34577,7 +34111,7 @@
     "workable:videoken -> no board"
    ]
   },
-  "ms": 10591
+  "ms": 9811
  },
  {
   "company": "VideoVerse",
@@ -34640,7 +34174,7 @@
     "workable:videoverse -> no board"
    ]
   },
-  "ms": 49143
+  "ms": 80814
  },
  {
   "company": "Vamaship",
@@ -34736,7 +34270,7 @@
     "workable:vamaship -> no board"
    ]
   },
-  "ms": 8003
+  "ms": 4317
  },
  {
   "company": "Volt Money",
@@ -34824,7 +34358,7 @@
     "workable:voltmoney -> no board"
    ]
   },
-  "ms": 6407
+  "ms": 4807
  },
  {
   "company": "Vivifi India Finance",
@@ -34922,7 +34456,7 @@
     "workable:vivifi -> no board"
    ]
   },
-  "ms": 26096
+  "ms": 4522
  },
  {
   "company": "Veritas Finance",
@@ -35025,7 +34559,7 @@
     "workable:veritasfin -> no board"
    ]
   },
-  "ms": 17035
+  "ms": 19262
  },
  {
   "company": "Vastu Housing Finance",
@@ -35134,7 +34668,7 @@
     "workable:vastuhfc -> no board"
    ]
   },
-  "ms": 10451
+  "ms": 10890
  },
  {
   "company": "Varuna Group",
@@ -35208,7 +34742,7 @@
     "workable:varuna -> no board"
    ]
   },
-  "ms": 3367
+  "ms": 4058
  },
  {
   "company": "Vaidam Health",
@@ -35296,7 +34830,7 @@
     "workable:vaidam -> no board"
    ]
   },
-  "ms": 24466
+  "ms": 27359
  },
  {
   "company": "Vidal Health",
@@ -35394,7 +34928,7 @@
     "workable:vidalhealth -> no board"
    ]
   },
-  "ms": 5144
+  "ms": 5499
  },
  {
   "company": "Virinchi",
@@ -35503,7 +35037,7 @@
     "workable:virinchi -> no board"
    ]
   },
-  "ms": 6502
+  "ms": 7735
  },
  {
   "company": "Vakrangee",
@@ -35601,7 +35135,7 @@
     "workable:vakrangee -> no board"
    ]
   },
-  "ms": 6512
+  "ms": 6886
  },
  {
   "company": "Vigyanlabs",
@@ -35689,7 +35223,7 @@
     "workable:vigyanlabs -> no board"
    ]
   },
-  "ms": 2590
+  "ms": 3679
  },
  {
   "company": "Voxel Busters",
@@ -35777,7 +35311,7 @@
     "workable:voxelbusters -> no board"
    ]
   },
-  "ms": 9970
+  "ms": 8772
  },
  {
   "company": "Vecros Technologies",
@@ -35865,7 +35399,7 @@
     "workable:vecros -> no board"
    ]
   },
-  "ms": 6704
+  "ms": 2366
  },
  {
   "company": "Ventura Securities",
@@ -36275,7 +35809,7 @@
     "workable:ventura1 -> no board"
    ]
   },
-  "ms": 13225
+  "ms": 16588
  },
  {
   "company": "Vaibhav Global",
@@ -36363,7 +35897,7 @@
     "workable:vaibhavglobal -> no board"
    ]
   },
-  "ms": 4121
+  "ms": 4519
  },
  {
   "company": "VE Commercial Vehicles",
@@ -36382,7 +35916,7 @@
     {
      "url": "https://careers.vecv.in",
      "status": 403,
-     "bytes": 5619
+     "bytes": 5597
     },
     {
      "url": "https://vecv.in/careers",
@@ -36398,6 +35932,16 @@
      "url": "https://vecv.in/jobs",
      "status": 403,
      "bytes": 5601
+    },
+    {
+     "url": "https://vecv.in/join-us",
+     "status": 403,
+     "bytes": 5610
+    },
+    {
+     "url": "https://vecv.in/join-our-team",
+     "status": 403,
+     "bytes": 5628
     }
    ],
    "candidates": [
@@ -36425,7 +35969,7 @@
     "workable:vecv -> no board"
    ]
   },
-  "ms": 7192
+  "ms": 5245
  },
  {
   "company": "Verisk India",
@@ -36445,7 +35989,7 @@
     {
      "url": "https://www.verisk.com/company/careers/",
      "status": 200,
-     "bytes": 171089
+     "bytes": 175556
     },
     {
      "url": "https://careers.verisk.com",
@@ -36456,52 +36000,12 @@
     {
      "url": "https://verisk.com/careers",
      "status": 200,
-     "bytes": 171089
+     "bytes": 175422
     },
     {
      "url": "https://verisk.com/career",
      "status": 404,
-     "bytes": 146575
-    },
-    {
-     "url": "https://verisk.com/jobs",
-     "status": 404,
-     "bytes": 146577
-    },
-    {
-     "url": "https://verisk.com/join-us",
-     "status": 404,
-     "bytes": 146577
-    },
-    {
-     "url": "https://verisk.com/join-our-team",
-     "status": 404,
-     "bytes": 146577
-    },
-    {
-     "url": "https://verisk.com/careers.html",
-     "status": 404,
-     "bytes": 146576
-    },
-    {
-     "url": "https://verisk.com/company/careers",
-     "status": 200,
-     "bytes": 171089
-    },
-    {
-     "url": "https://verisk.com/about/careers",
-     "status": 404,
-     "bytes": 146578
-    },
-    {
-     "url": "https://verisk.com/current-openings",
-     "status": 404,
-     "bytes": 146578
-    },
-    {
-     "url": "https://verisk.com/",
-     "status": 200,
-     "bytes": 190249
+     "bytes": 150910
     }
    ],
    "candidates": [
@@ -36519,7 +36023,7 @@
     "workable:verisk -> no board"
    ]
   },
-  "ms": 47374
+  "ms": 33755
  },
  {
   "company": "Viasat India",
@@ -36718,6 +36222,30 @@
     "score": 33
    },
    {
+    "title": "Embedded SW Engineer",
+    "location": "Tempe, Arizona, United States",
+    "url": "https://careers.viasat.com/jobs/6623?lang=en-us",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": true,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [
+     [
+      5,
+      9
+     ],
+     [
+      5,
+      6
+     ]
+    ],
+    "expFits2": false,
+    "score": 30
+   },
+   {
     "title": "Financial Analyst, Global Fixed Broadband",
     "location": "Carlsbad, California, United States",
     "url": "https://careers.viasat.com/jobs/6636?lang=en-us",
@@ -36826,26 +36354,6 @@
     "score": 30
    },
    {
-    "title": "RF Engineer, Transceiver Design",
-    "location": "Carlsbad, California, United States",
-    "url": "https://careers.viasat.com/jobs/6438?lang=en-us",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": true,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [
-     [
-      5,
-      9
-     ]
-    ],
-    "expFits2": false,
-    "score": 30
-   },
-   {
     "title": "Senior Data Engineer",
     "location": "Chennai, UNAVAILABLE, India",
     "url": "https://careers.viasat.com/jobs/6618?lang=en-us",
@@ -36930,6 +36438,26 @@
     "score": 12
    },
    {
+    "title": "Staff Cyber Security Engineer",
+    "location": "Carlsbad, California, United States",
+    "url": "https://careers.viasat.com/jobs/6181?lang=en-us",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": true,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [
+     [
+      5,
+      9
+     ]
+    ],
+    "expFits2": false,
+    "score": 8
+   },
+   {
     "title": "Senior Phased Array Test Engineer",
     "location": "Tempe, Arizona, United States",
     "url": "https://careers.viasat.com/jobs/5942?lang=en-us",
@@ -36964,26 +36492,6 @@
      [
       10,
       14
-     ]
-    ],
-    "expFits2": false,
-    "score": 8
-   },
-   {
-    "title": "Staff Cyber Security Engineer",
-    "location": "Carlsbad, California, United States",
-    "url": "https://careers.viasat.com/jobs/6181?lang=en-us",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": true,
-    "java": false,
-    "flutter": false,
-    "senior": true,
-    "exp": [
-     [
-      5,
-      9
      ]
     ],
     "expFits2": false,
@@ -37127,6 +36635,26 @@
     "score": -18
    },
    {
+    "title": "Senior Manager - Customer Operations",
+    "location": "Carlsbad, California, United States",
+    "url": "https://careers.viasat.com/jobs/6585?lang=en-us",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [
+     [
+      5,
+      9
+     ]
+    ],
+    "expFits2": false,
+    "score": -22
+   },
+   {
     "title": "Senior Financial Analyst",
     "location": "London, UNAVAILABLE, United Kingdom",
     "url": "https://careers.viasat.com/jobs/6560?lang=en-us",
@@ -37202,30 +36730,6 @@
     "flutter": false,
     "senior": true,
     "exp": [
-     [
-      5,
-      9
-     ]
-    ],
-    "expFits2": false,
-    "score": -22
-   },
-   {
-    "title": "Senior PCB Designer",
-    "location": "Tempe, Arizona, United States",
-    "url": "https://careers.viasat.com/jobs/5979?lang=en-us",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": true,
-    "exp": [
-     [
-      5,
-      8
-     ],
      [
       5,
       9
@@ -37352,17 +36856,17 @@
     {
      "url": "https://viasat.com/career",
      "status": 404,
-     "bytes": 222042
+     "bytes": 226170
     },
     {
      "url": "https://viasat.com/jobs",
      "status": 404,
-     "bytes": 222042
+     "bytes": 226170
     },
     {
      "url": "https://viasat.com/join-us",
      "status": 404,
-     "bytes": 88985
+     "bytes": 222042
     }
    ],
    "candidates": [
@@ -37386,7 +36890,7 @@
     "workable:viasat -> no board"
    ]
   },
-  "ms": 45914
+  "ms": 48825
  },
  {
   "company": "Veeam Software India",
@@ -37394,10 +36898,25 @@
   "careers": "https://careers.veeam.com/",
   "source": "headings:https://careers.veeam.com/",
   "error": null,
-  "totalJobs": 7,
+  "totalJobs": 9,
   "jobs": [
    {
-    "title": "Software Developer in Test (JavaScript)",
+    "title": "Systems Engineer Belgium & Luxembourg",
+    "location": "",
+    "url": "https://careers.veeam.com/",
+    "india": true,
+    "locationSaysIndia": false,
+    "hasLocation": false,
+    "isEng": true,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 49
+   },
+   {
+    "title": "Sales Systems Engineer",
     "location": "",
     "url": "https://careers.veeam.com/",
     "india": true,
@@ -37500,17 +37019,32 @@
     "exp": [],
     "expFits2": false,
     "score": 19
+   },
+   {
+    "title": "Senior Technical Alliances Lead, Security & AI",
+    "location": "",
+    "url": "https://careers.veeam.com/",
+    "india": true,
+    "locationSaysIndia": false,
+    "hasLocation": false,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [],
+    "expFits2": false,
+    "score": -3
    }
   ],
   "enriched": 0,
   "matches": [],
   "nearMatches": [],
   "closest": {
-   "title": "Software Developer in Test (JavaScript)",
+   "title": "Systems Engineer Belgium & Luxembourg",
    "location": "",
    "url": "https://careers.veeam.com/",
    "team": "",
-   "text": "Software Developer in Test (JavaScript) Product Engineering Warsaw, Remote Save/Unsave Job Software Developer in Test (JavaScript) Product Engineering Prague, Remote Save/Unsave Job Senior Technical Alliances Lead, Security & AI (Remote: San Fran/West Coast) Field Sales San Francisco, CA, Remote Save/Unsave Job More Jobs Career areas Technology <img src=\"https://tbcdn.talentbrew.com/company/22",
+   "text": "Systems Engineer Belgium & Luxembourg Sales Engineering Belgium, Remote Save/Unsave Job",
    "_noEnrich": true,
    "score": 49,
    "isMatch": false,
@@ -37525,11 +37059,11 @@
    "expFits2": false
   },
   "closestEng": {
-   "title": "Software Developer in Test (JavaScript)",
+   "title": "Systems Engineer Belgium & Luxembourg",
    "location": "",
    "url": "https://careers.veeam.com/",
    "team": "",
-   "text": "Software Developer in Test (JavaScript) Product Engineering Warsaw, Remote Save/Unsave Job Software Developer in Test (JavaScript) Product Engineering Prague, Remote Save/Unsave Job Senior Technical Alliances Lead, Security & AI (Remote: San Fran/West Coast) Field Sales San Francisco, CA, Remote Save/Unsave Job More Jobs Career areas Technology <img src=\"https://tbcdn.talentbrew.com/company/22",
+   "text": "Systems Engineer Belgium & Luxembourg Sales Engineering Belgium, Remote Save/Unsave Job",
    "_noEnrich": true,
    "score": 49,
    "isMatch": false,
@@ -37548,12 +37082,12 @@
     {
      "url": "https://careers.veeam.com/",
      "status": 200,
-     "bytes": 193238
+     "bytes": 193145
     },
     {
      "url": "https://careers.veeam.com",
      "status": 200,
-     "bytes": 193238
+     "bytes": 193145
     },
     {
      "url": "https://veeam.com/careers",
@@ -37621,7 +37155,7 @@
     "workable:veeam -> no board"
    ]
   },
-  "ms": 15100
+  "ms": 18940
  },
  {
   "company": "Vonage India",
@@ -37684,7 +37218,7 @@
     "workable:vonage -> no board"
    ]
   },
-  "ms": 6202
+  "ms": 6666
  },
  {
   "company": "Veradigm India",
@@ -38478,7 +38012,7 @@
     "workday:veradigm -> 40 jobs"
    ]
   },
-  "ms": 22180
+  "ms": 22291
  },
  {
   "company": "Verint India",
@@ -38514,12 +38048,12 @@
     {
      "url": "https://verint.com/career",
      "status": 404,
-     "bytes": 116372
+     "bytes": 116366
     },
     {
      "url": "https://verint.com/jobs",
      "status": 404,
-     "bytes": 116349
+     "bytes": 116348
     }
    ],
    "candidates": [
@@ -38537,7 +38071,7 @@
     "workable:verint -> no board"
    ]
   },
-  "ms": 19715
+  "ms": 18704
  },
  {
   "company": "Viavi Solutions India",
@@ -38606,7 +38140,7 @@
     "workable:viavisolutions -> no board"
    ]
   },
-  "ms": 18595
+  "ms": 18516
  },
  {
   "company": "Vector Informatik India",
@@ -38837,7 +38371,7 @@
     "workable:vector -> no board"
    ]
   },
-  "ms": 24784
+  "ms": 29887
  },
  {
   "company": "Volvo Cars India",
@@ -38862,17 +38396,27 @@
     {
      "url": "https://volvocars.com/careers",
      "status": 200,
-     "bytes": 421555
+     "bytes": 421607
     },
     {
      "url": "https://volvocars.com/career",
      "status": 404,
-     "bytes": 182559
+     "bytes": 182320
     },
     {
      "url": "https://volvocars.com/jobs",
      "status": 404,
-     "bytes": 182307
+     "bytes": 182316
+    },
+    {
+     "url": "https://volvocars.com/join-us",
+     "status": 404,
+     "bytes": 182322
+    },
+    {
+     "url": "https://volvocars.com/join-our-team",
+     "status": 404,
+     "bytes": 182582
     }
    ],
    "candidates": [
@@ -38890,7 +38434,7 @@
     "workable:volvocars -> no board"
    ]
   },
-  "ms": 37690
+  "ms": 41168
  },
  {
   "company": "Vivo India",
@@ -38983,7 +38527,7 @@
     "workable:vivo -> no board"
    ]
   },
-  "ms": 13591
+  "ms": 10986
  },
  {
   "company": "VFS Global",
@@ -39077,7 +38621,7 @@
     "workable:vfsglobal -> no board"
    ]
   },
-  "ms": 12661
+  "ms": 12383
  },
  {
   "company": "Vistaprint India",
@@ -39166,52 +38710,57 @@
     {
      "url": "https://vistaprint.in/careers",
      "status": 404,
-     "bytes": 408774
+     "bytes": 408789
     },
     {
      "url": "https://vistaprint.in/career",
      "status": 404,
-     "bytes": 408768
+     "bytes": 408784
     },
     {
      "url": "https://vistaprint.in/jobs",
      "status": 404,
-     "bytes": 408774
+     "bytes": 408793
     },
     {
      "url": "https://vistaprint.in/join-us",
      "status": 404,
-     "bytes": 408768
+     "bytes": 408791
     },
     {
      "url": "https://vistaprint.in/join-our-team",
      "status": 404,
-     "bytes": 408772
+     "bytes": 408787
     },
     {
      "url": "https://vistaprint.in/careers.html",
      "status": 404,
-     "bytes": 408773
+     "bytes": 408782
     },
     {
      "url": "https://vistaprint.in/company/careers",
      "status": 404,
-     "bytes": 408773
+     "bytes": 408795
     },
     {
      "url": "https://vistaprint.in/about/careers",
      "status": 404,
-     "bytes": 408769
+     "bytes": 408788
     },
     {
      "url": "https://vistaprint.in/current-openings",
      "status": 404,
-     "bytes": 408766
+     "bytes": 408789
     },
     {
      "url": "https://vistaprint.in/",
      "status": 200,
-     "bytes": 809513
+     "bytes": 809087
+    },
+    {
+     "url": "https://careers.vistaprint.com/",
+     "status": 200,
+     "bytes": 51780
     }
    ],
    "candidates": [
@@ -39229,7 +38778,7 @@
     "workable:vistaprint -> no board"
    ]
   },
-  "ms": 9230
+  "ms": 10642
  },
  {
   "company": "Valeo India",
@@ -39956,7 +39505,7 @@
     "workday:valeo -> 40 jobs"
    ]
   },
-  "ms": 20389
+  "ms": 19813
  },
  {
   "company": "Viatris India",
@@ -40327,21 +39876,6 @@
     "score": -18
    },
    {
-    "title": "Senior District Manager, Pain - Virginia-Tennessee",
-    "location": "Virginia, USA; United States Remote Office; Tennessee, USA",
-    "url": "https://viatris.wd5.myworkdayjobs.com/External/job/United-States-Remote-Office/Senior-District-Manager--Pain---Virginia-Tennessee_R5672512",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": true,
-    "exp": [],
-    "expFits2": false,
-    "score": -18
-   },
-   {
     "title": "District Manager, Pain - Great Lakes",
     "location": "United States Remote Office; Indiana, USA; Michigan, USA",
     "url": "https://viatris.wd5.myworkdayjobs.com/External/job/United-States-Remote-Office/District-Manager--Pain---Great-Lakes_R5670545",
@@ -40565,6 +40099,21 @@
     "exp": [],
     "expFits2": false,
     "score": -18
+   },
+   {
+    "title": "Senior QA Executive (3 Year FTC)",
+    "location": "Inverin, County Galway, Ireland",
+    "url": "https://viatris.wd5.myworkdayjobs.com/External/job/Inverin-County-Galway-Ireland/Senior-QA-Executive--3-Year-FTC-_R5672080",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [],
+    "expFits2": false,
+    "score": -18
    }
   ],
   "enriched": 0,
@@ -40647,7 +40196,7 @@
     "workday:viatris -> 40 jobs"
    ]
   },
-  "ms": 15984
+  "ms": 16559
  },
  {
   "company": "Vanderlande India",
@@ -40659,7 +40208,7 @@
    {
     "title": "Mechanical Project Engineer-I",
     "location": "Pune I",
-    "url": "https://vanderlande.wd3.myworkdayjobs.com/careers/job/Pune-I/Mechanical-Project-Engineer-I_JR36845-2",
+    "url": "https://vanderlande.wd3.myworkdayjobs.com/careers/job/Pune-I/Mechanical-Project-Engineer-I_JR36846-1",
     "india": true,
     "locationSaysIndia": true,
     "hasLocation": true,
@@ -40667,23 +40216,14 @@
     "java": false,
     "flutter": false,
     "senior": false,
-    "exp": [
-     [
-      5,
-      6
-     ],
-     [
-      1,
-      5
-     ]
-    ],
-    "expFits2": true,
-    "score": 87
+    "exp": [],
+    "expFits2": false,
+    "score": 61
    },
    {
     "title": "Mechanical Project Engineer-I",
     "location": "Pune I",
-    "url": "https://vanderlande.wd3.myworkdayjobs.com/careers/job/Pune-I/Mechanical-Project-Engineer-I_JR36846-1",
+    "url": "https://vanderlande.wd3.myworkdayjobs.com/careers/job/Pune-I/Mechanical-Project-Engineer-I_JR36845-2",
     "india": true,
     "locationSaysIndia": true,
     "hasLocation": true,
@@ -40750,34 +40290,6 @@
     "score": 60
    },
    {
-    "title": "Automation Support Engineer (Controls)",
-    "location": "Marietta, GA USA",
-    "url": "https://vanderlande.wd3.myworkdayjobs.com/careers/job/Marietta-GA-USA/Senior-Automation-Support-Engineer--Controls-_JR36340-1",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": true,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [
-     [
-      1,
-      2
-     ],
-     [
-      1,
-      5
-     ],
-     [
-      2,
-      3
-     ]
-    ],
-    "expFits2": true,
-    "score": 60
-   },
-   {
     "title": "Controls Project Engineer I",
     "location": "Pune I",
     "url": "https://vanderlande.wd3.myworkdayjobs.com/careers/job/Pune-I/Controls-Project-Engineer-I_JR36851-1",
@@ -40816,6 +40328,30 @@
     ],
     "expFits2": false,
     "score": 57
+   },
+   {
+    "title": "Controls Support Engineer",
+    "location": "Marietta, GA USA",
+    "url": "https://vanderlande.wd3.myworkdayjobs.com/careers/job/Marietta-GA-USA/Controls-Support-Engineer_JR36412-1",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": true,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [
+     [
+      3,
+      7
+     ],
+     [
+      3,
+      4
+     ]
+    ],
+    "expFits2": false,
+    "score": 42
    },
    {
     "title": "Mechanical Project Engineer I",
@@ -40862,6 +40398,21 @@
     "score": 42
    },
    {
+    "title": "Automation Support Engineer (Controls)",
+    "location": "Marietta, GA USA",
+    "url": "https://vanderlande.wd3.myworkdayjobs.com/careers/job/Marietta-GA-USA/Senior-Automation-Support-Engineer--Controls-_JR36340-1",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": true,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 34
+   },
+   {
     "title": "Software Support Engineer",
     "location": "Hong Kong",
     "url": "https://vanderlande.wd3.myworkdayjobs.com/careers/job/Hong-Kong/Software-Support-Engineer_JR37200-1",
@@ -40890,6 +40441,61 @@
     "exp": [],
     "expFits2": false,
     "score": 34
+   },
+   {
+    "title": "Service Sales Engineer",
+    "location": "Chile Las Condes",
+    "url": "https://vanderlande.wd3.myworkdayjobs.com/careers/job/Chile-Las-Condes/Service-Sales-Engineer_JR35700",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": true,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [
+     [
+      5,
+      9
+     ]
+    ],
+    "expFits2": false,
+    "score": 30
+   },
+   {
+    "title": "Specialist Mechanical Project Engineer",
+    "location": "3 Locations",
+    "url": "https://vanderlande.wd3.myworkdayjobs.com/careers/job/Marietta-Atlanta/Specialist-Mechanical-Project-Engineer_JR37348-1",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": true,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [
+     [
+      12,
+      16
+     ]
+    ],
+    "expFits2": false,
+    "score": 30
+   },
+   {
+    "title": "Sr. Structural Project Engineer",
+    "location": "Pune I",
+    "url": "https://vanderlande.wd3.myworkdayjobs.com/careers/job/Pune-I/Mechanical-Project-Engineer-I_JR36844-1",
+    "india": true,
+    "locationSaysIndia": true,
+    "hasLocation": true,
+    "isEng": true,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [],
+    "expFits2": false,
+    "score": 27
    },
    {
     "title": "Senior Controls Project Engineer",
@@ -40921,30 +40527,6 @@
      [
       8,
       12
-     ]
-    ],
-    "expFits2": false,
-    "score": 23
-   },
-   {
-    "title": "Sr. Structural Project Engineer",
-    "location": "Pune I",
-    "url": "https://vanderlande.wd3.myworkdayjobs.com/careers/job/Pune-I/Mechanical-Project-Engineer-I_JR36844-1",
-    "india": true,
-    "locationSaysIndia": true,
-    "hasLocation": true,
-    "isEng": true,
-    "java": false,
-    "flutter": false,
-    "senior": true,
-    "exp": [
-     [
-      5,
-      9
-     ],
-     [
-      9,
-      10
      ]
     ],
     "expFits2": false,
@@ -41014,36 +40596,6 @@
     "title": "ICT SOC Analyst",
     "location": "Pune I",
     "url": "https://vanderlande.wd3.myworkdayjobs.com/careers/job/Pune-I/ICT-SOC-Analyst_JR35878-1",
-    "india": true,
-    "locationSaysIndia": true,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 19
-   },
-   {
-    "title": "Business Domain Data Steward",
-    "location": "Pune I",
-    "url": "https://vanderlande.wd3.myworkdayjobs.com/careers/job/Pune-I/Business-Domain-Data-Steward_JR36767-1",
-    "india": true,
-    "locationSaysIndia": true,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 19
-   },
-   {
-    "title": "IT License Administrator",
-    "location": "Pune I",
-    "url": "https://vanderlande.wd3.myworkdayjobs.com/careers/job/Pune-I/IT-License-Administrator_JR35884-1",
     "india": true,
     "locationSaysIndia": true,
     "hasLocation": true,
@@ -41206,21 +40758,6 @@
     "score": 4
    },
    {
-    "title": "Integration CO-OP",
-    "location": "Vancouver",
-    "url": "https://vanderlande.wd3.myworkdayjobs.com/careers/job/Vancouver/Integration-CO-OP_JR35558-1",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 4
-   },
-   {
     "title": "Sr. Accountant- General Ledger (R2R)",
     "location": "Pune I",
     "url": "https://vanderlande.wd3.myworkdayjobs.com/careers/job/Pune-I/Sr-Accountant--General-Ledger--R2R-_JR37398-2",
@@ -41236,11 +40773,11 @@
     "score": -3
    },
    {
-    "title": "Senior ICT Specialist",
-    "location": "Pune I",
-    "url": "https://vanderlande.wd3.myworkdayjobs.com/careers/job/Pune-I/Senior-ICT-Specialist_JR34030",
-    "india": true,
-    "locationSaysIndia": true,
+    "title": "Project Manager II",
+    "location": "Marietta (Atlanta)",
+    "url": "https://vanderlande.wd3.myworkdayjobs.com/careers/job/Marietta-Atlanta/Project-Manager-II_JR33340",
+    "india": false,
+    "locationSaysIndia": false,
     "hasLocation": true,
     "isEng": false,
     "java": false,
@@ -41248,7 +40785,7 @@
     "senior": true,
     "exp": [],
     "expFits2": false,
-    "score": -3
+    "score": -18
    },
    {
     "title": "Senior Project Manager",
@@ -41332,13 +40869,13 @@
   "closest": {
    "title": "Mechanical Project Engineer-I",
    "location": "Pune I",
-   "url": "https://vanderlande.wd3.myworkdayjobs.com/careers/job/Pune-I/Mechanical-Project-Engineer-I_JR36845-2",
+   "url": "https://vanderlande.wd3.myworkdayjobs.com/careers/job/Pune-I/Mechanical-Project-Engineer-I_JR36846-1",
    "team": "",
-   "text": "Job Title Mechanical Project Engineer-I Job Description Revit Layout Engineer | Pune | Full-time We are seeking a senior-level Revit Layout Engineer who can take ownership of modelling, clash coordination, and interface management. You will work closely with multi-disciplinary teams, lead small layout teams, and act as the go-to person for Revit and BIM issues. This role also involves mentoring others, improving modelling workflows, and actively resolving complex coordination issues. Conveyor system knowledge is a plus but not a must. What you will do System & Layout Design Lead Revit layout efforts during engineering and pre-sales phase. Translate functional requirements into efficient mechanical designs. Optimize layouts for safety, maintenance, and access. Coordinate interfaces with buildings, operators, equipment, and procurement. Contribute to layout standards and process improvements. 3D Modeling, 2D Drafting & Documentation Create and manage 3D conveyor models in Revit based on design inputs and extract 2D drawings. Review Revit and BIM deliverables and Maintain Documentation. Incorporate functional attributes and prepare equipment specifications. Ensure drawing and documentation quality across the team. Sound knowledge on BIM 360 Documentation Project Execution & Coordination Lead layout engineering teams and liaise with clients and suppliers. Support site activities including installation files, test plans, and as-built documentation. Planning & Budgeting Estimate timelines, resources, and budgets for mechanical scope. Define mechanical work packages and manage delivery tracking. Continuous Improvement & Knowledge Sharing Act as Revit lead for the team; resolve advanced issues. Mentor new engineers and share project learnings. Suggest improvements in modeling workflows and template content. Create Training materials, transfer knowledge between teams and across projects. Should take ownership in work. What you bring Technical Skills Advanced proficiency in Revit modeling and parametric families Experienced in Navisworks clash detection and resolution Familiarity with MS Office Strong understanding of mechanical systems, layouts, and site coordination Good knowledge of Revit templates, view control, and documentation standards Understanding of engineering processes Ability to guide standardization of modeling practices Sound knowledge on BIM 360 Workflow System Integration Coordination across mechanical, electrical, and controls disciplines Interface understanding (building, operator, procurement) Project Execution Work breakdown and prioritization Takes initiative in model delivery and helps in project planning Change/risk management and site readiness Works directly with customers and other disciplines when needed Communication & Collaboration Strong cross-functional teamwork Fluent in English communication Client/supplier coordination in BIM Able to guide junior engineers and clearly explain modeling logic Quality & Safety Design for safety, ergonomics, and standards compliance Maintains high design quality and documentation consistency Continuous Improvement Leads knowledge transfer and supports training for new tools or practices Analytical thinking and problem-solving Process/tooling optimization Soft Skills Requirements Communication Clear, structured communication Ability to explain technical concepts to non-technical audiences Collaboration Strong team player across multidisciplinary teams Builds effective working relationships with internal and external partners Leadership & Ownership Takes initiative, leads tasks, and makes sound decisions Acts as go-to person; leads modeling-related topics Problem Solving Analytical mindset and solutions-oriented under pressure Quickly identifies and resolves advanced Revit issues Adaptability Manages changing priorities and dynamic work environments Attention to Detail Maintains high quality and accuracy in designs Delivers clean, accurate, and clash-free models Time Management Delivers on time, multitasks effectively Preferred Qualifications Bachelor’s degree in mechanical engineering or related field. Experience in baggage/logistics automation or material handling systems (preferred) 5–6 years of Revit and BIM experience in layout or coordination 1+ years in team support, mentoring, or leading small team. Fluent in English – written and verbal About Vanderlande: Vanderlande makes automated systems that handle baggage at airports and sort parcels in logistics networks around the world. At airports, our technology manages the complete bag journey: from check-in and security screening through to the reclaim belt. In parcel logistics, our systems power the networks that get packages to customers' doors. At Vanderlande, you will find the space to aspire, to grow, and to achieve something that matters, with people who bring out the best in each other. Website: www.vanderlande.com What we offer: Working at Vanderlande comes with the support and space to grow, achieve, and enjoy the journey. Here is what that looks like in practice: Competitive Salary Package 30 days of annual leave (pro-rated from the start of the financial year), including: 22 paid leave days 8 sick/casual leave days Applicable government holidays Flexible and hybrid working model that promotes work-life balance. Access to Vanderlande Academy and a wide range of learning and development programs to enhance your skills. Comprehensive medical insurance coverage, including parental coverage. Opportunities to participate in diverse Vanderlande communities, networks, and employee initiatives Opportunity to collaborate globally. How we work We work by three values: Every day better, we care, and Team play. In practice, this means we drive customer success, lead with transparency, celebrate what we achieve together, and do what we say. Ready to apply? Are you interested in this position? Apply directly via our careers page with your CV/Resume. Diversity & inclusion Vanderlande is an equal opportunity/affirmative action employer. Qualified applicants will be considered without regards to race, religion, colour, national origin, gender, sexual orientation, age, marital status, or disability status.",
-   "_detail": "https://vanderlande.wd3.myworkdayjobs.com/wday/cxs/vanderlande/careers/job/Pune-I/Mechanical-Project-Engineer-I_JR36845-2",
+   "text": "Job Title Mechanical Project Engineer-I Job Description Mechanical Project Engineer | Pune | Full-time We are seeking a Mechanical Engineer to support the design, development, and delivery of advanced Baggage Handling Systems (BHS). The role involves creating 3D conveyor models, coordinating multidisciplinary interfaces, and supporting the full project lifecycle from concept to commissioning, with a strong focus on quality, safety, and efficiency. What you will do System & Layout Design Review and optimize system layouts during sales and engineering phases. Translate functional requirements into efficient mechanical designs. Integrate safety, ergonomics, and accessibility into layouts. Coordinate interfaces with buildings, operators, equipment, and procurement. 3D Modeling, 2D Drafting & Documentation Create and manage 3D conveyor models based on design inputs. Develop 2D drawings and maintain consistent design documentation. Incorporate functional attributes and prepare equipment specifications. Project Execution & Coordination Coordinate with steelwork, resale equipment, and building interface teams. Lead layout engineering teams and liaise with clients and suppliers. Support site activities including installation files, test plans, and as-built documentation. Planning & Budgeting Estimate timelines, resources, and budgets for mechanical scope. Define mechanical work packages and manage delivery tracking. Continuous Improvement & Knowledge Sharing Initiate process improvements and tooling upgrades. Mentor new engineers and share project learnings. Collaborate with product managers on design standardization. What you bring Technical Skills Proficiency in AutoCAD (3D modeling and 2D drafting) Knowledge of SolidWorks and REVIT Familiarity with MS Office Conveyor/mechanical system design expertise Layout planning and specification writing Understanding of engineering processes System Integration Coordination across mechanical, electrical, and controls disciplines Interface understanding (building, operator, procurement) Project Execution Budgeting and timeline estimation Work breakdown and prioritization Change/risk management and site readiness Communication & Collaboration Strong cross-functional teamwork Client/supplier coordination Leadership and team mentoring Quality & Safety Design for safety, ergonomics, and standards compliance Continuous Improvement Analytical thinking and problem-solving Process/tooling optimization Knowledge transfer and training Soft Skills Requirements Communication Clear, structured communication Ability to explain technical concepts to non-technical audiences Collaboration Strong team player across multidisciplinary teams Builds effective working relationships with internal and external partners Leadership & Ownership Takes initiative, leads tasks, and makes sound decisions Problem Solving Analytical mindset and solutions-oriented under pressure Adaptability Manages changing priorities and dynamic work environments Attention to Detail Maintains high quality and accuracy in designs Time Management Delivers on time, multitasks effectively Target Industries for Recruitment Preferred Qualifications Bachelor’s degree in mechanical engineering or related field. Experience in baggage/logistics automation or material handling systems (preferred) About Vanderlande: Vanderlande makes automated systems that handle baggage at airports and sort parcels in logistics networks around the world. At airports, our technology manages the complete bag journey: from check-in and security screening through to the reclaim belt. In parcel logistics, our systems power the networks that get packages to customers' doors. At Vanderlande, you will find the space to aspire, to grow, and to achieve something that matters, with people who bring out the best in each other. Website: www.vanderlande.com What we offer: Working at Vanderlande comes with the support and space to grow, achieve, and enjoy the journey. Here is what that looks like in practice: Competitive Salary Package 30 days of annual leave (pro-rated from the start of the financial year), including: 22 paid leave days 8 sick/casual leave days Applicable government holidays Flexible and hybrid working model that promotes work-life balance. Access to Vanderlande Academy and a wide range of learning and development programs to enhance your skills. Comprehensive medical insurance coverage, including parental coverage. Opportunities to participate in diverse Vanderlande communities, networks, and employee initiatives Opportunity to collaborate globally. How we work We work by three values: Every day better, we care, and Team play. In practice, this means we drive customer success, lead with transparency, celebrate what we achieve together, and do what we say. Ready to apply? Are you interested in this position? Apply directly via our careers page with your CV/Resume. Diversity & inclusion Vanderlande is an equal opportunity/affirmative action employer. Qualified applicants will be considered without regards to race, religion, colour, national origin, gender, sexual orientation, age, marital status, or disability status.",
+   "_detail": "https://vanderlande.wd3.myworkdayjobs.com/wday/cxs/vanderlande/careers/job/Pune-I/Mechanical-Project-Engineer-I_JR36846-1",
    "_detailKind": "workday",
    "_enriched": true,
-   "score": 87,
+   "score": 61,
    "isMatch": false,
    "isEng": true,
    "java": false,
@@ -41347,28 +40884,19 @@
    "india": true,
    "senior": false,
    "junior": true,
-   "exp": [
-    [
-     5,
-     6
-    ],
-    [
-     1,
-     5
-    ]
-   ],
-   "expFits2": true
+   "exp": [],
+   "expFits2": false
   },
   "closestEng": {
    "title": "Mechanical Project Engineer-I",
    "location": "Pune I",
-   "url": "https://vanderlande.wd3.myworkdayjobs.com/careers/job/Pune-I/Mechanical-Project-Engineer-I_JR36845-2",
+   "url": "https://vanderlande.wd3.myworkdayjobs.com/careers/job/Pune-I/Mechanical-Project-Engineer-I_JR36846-1",
    "team": "",
-   "text": "Job Title Mechanical Project Engineer-I Job Description Revit Layout Engineer | Pune | Full-time We are seeking a senior-level Revit Layout Engineer who can take ownership of modelling, clash coordination, and interface management. You will work closely with multi-disciplinary teams, lead small layout teams, and act as the go-to person for Revit and BIM issues. This role also involves mentoring others, improving modelling workflows, and actively resolving complex coordination issues. Conveyor system knowledge is a plus but not a must. What you will do System & Layout Design Lead Revit layout efforts during engineering and pre-sales phase. Translate functional requirements into efficient mechanical designs. Optimize layouts for safety, maintenance, and access. Coordinate interfaces with buildings, operators, equipment, and procurement. Contribute to layout standards and process improvements. 3D Modeling, 2D Drafting & Documentation Create and manage 3D conveyor models in Revit based on design inputs and extract 2D drawings. Review Revit and BIM deliverables and Maintain Documentation. Incorporate functional attributes and prepare equipment specifications. Ensure drawing and documentation quality across the team. Sound knowledge on BIM 360 Documentation Project Execution & Coordination Lead layout engineering teams and liaise with clients and suppliers. Support site activities including installation files, test plans, and as-built documentation. Planning & Budgeting Estimate timelines, resources, and budgets for mechanical scope. Define mechanical work packages and manage delivery tracking. Continuous Improvement & Knowledge Sharing Act as Revit lead for the team; resolve advanced issues. Mentor new engineers and share project learnings. Suggest improvements in modeling workflows and template content. Create Training materials, transfer knowledge between teams and across projects. Should take ownership in work. What you bring Technical Skills Advanced proficiency in Revit modeling and parametric families Experienced in Navisworks clash detection and resolution Familiarity with MS Office Strong understanding of mechanical systems, layouts, and site coordination Good knowledge of Revit templates, view control, and documentation standards Understanding of engineering processes Ability to guide standardization of modeling practices Sound knowledge on BIM 360 Workflow System Integration Coordination across mechanical, electrical, and controls disciplines Interface understanding (building, operator, procurement) Project Execution Work breakdown and prioritization Takes initiative in model delivery and helps in project planning Change/risk management and site readiness Works directly with customers and other disciplines when needed Communication & Collaboration Strong cross-functional teamwork Fluent in English communication Client/supplier coordination in BIM Able to guide junior engineers and clearly explain modeling logic Quality & Safety Design for safety, ergonomics, and standards compliance Maintains high design quality and documentation consistency Continuous Improvement Leads knowledge transfer and supports training for new tools or practices Analytical thinking and problem-solving Process/tooling optimization Soft Skills Requirements Communication Clear, structured communication Ability to explain technical concepts to non-technical audiences Collaboration Strong team player across multidisciplinary teams Builds effective working relationships with internal and external partners Leadership & Ownership Takes initiative, leads tasks, and makes sound decisions Acts as go-to person; leads modeling-related topics Problem Solving Analytical mindset and solutions-oriented under pressure Quickly identifies and resolves advanced Revit issues Adaptability Manages changing priorities and dynamic work environments Attention to Detail Maintains high quality and accuracy in designs Delivers clean, accurate, and clash-free models Time Management Delivers on time, multitasks effectively Preferred Qualifications Bachelor’s degree in mechanical engineering or related field. Experience in baggage/logistics automation or material handling systems (preferred) 5–6 years of Revit and BIM experience in layout or coordination 1+ years in team support, mentoring, or leading small team. Fluent in English – written and verbal About Vanderlande: Vanderlande makes automated systems that handle baggage at airports and sort parcels in logistics networks around the world. At airports, our technology manages the complete bag journey: from check-in and security screening through to the reclaim belt. In parcel logistics, our systems power the networks that get packages to customers' doors. At Vanderlande, you will find the space to aspire, to grow, and to achieve something that matters, with people who bring out the best in each other. Website: www.vanderlande.com What we offer: Working at Vanderlande comes with the support and space to grow, achieve, and enjoy the journey. Here is what that looks like in practice: Competitive Salary Package 30 days of annual leave (pro-rated from the start of the financial year), including: 22 paid leave days 8 sick/casual leave days Applicable government holidays Flexible and hybrid working model that promotes work-life balance. Access to Vanderlande Academy and a wide range of learning and development programs to enhance your skills. Comprehensive medical insurance coverage, including parental coverage. Opportunities to participate in diverse Vanderlande communities, networks, and employee initiatives Opportunity to collaborate globally. How we work We work by three values: Every day better, we care, and Team play. In practice, this means we drive customer success, lead with transparency, celebrate what we achieve together, and do what we say. Ready to apply? Are you interested in this position? Apply directly via our careers page with your CV/Resume. Diversity & inclusion Vanderlande is an equal opportunity/affirmative action employer. Qualified applicants will be considered without regards to race, religion, colour, national origin, gender, sexual orientation, age, marital status, or disability status.",
-   "_detail": "https://vanderlande.wd3.myworkdayjobs.com/wday/cxs/vanderlande/careers/job/Pune-I/Mechanical-Project-Engineer-I_JR36845-2",
+   "text": "Job Title Mechanical Project Engineer-I Job Description Mechanical Project Engineer | Pune | Full-time We are seeking a Mechanical Engineer to support the design, development, and delivery of advanced Baggage Handling Systems (BHS). The role involves creating 3D conveyor models, coordinating multidisciplinary interfaces, and supporting the full project lifecycle from concept to commissioning, with a strong focus on quality, safety, and efficiency. What you will do System & Layout Design Review and optimize system layouts during sales and engineering phases. Translate functional requirements into efficient mechanical designs. Integrate safety, ergonomics, and accessibility into layouts. Coordinate interfaces with buildings, operators, equipment, and procurement. 3D Modeling, 2D Drafting & Documentation Create and manage 3D conveyor models based on design inputs. Develop 2D drawings and maintain consistent design documentation. Incorporate functional attributes and prepare equipment specifications. Project Execution & Coordination Coordinate with steelwork, resale equipment, and building interface teams. Lead layout engineering teams and liaise with clients and suppliers. Support site activities including installation files, test plans, and as-built documentation. Planning & Budgeting Estimate timelines, resources, and budgets for mechanical scope. Define mechanical work packages and manage delivery tracking. Continuous Improvement & Knowledge Sharing Initiate process improvements and tooling upgrades. Mentor new engineers and share project learnings. Collaborate with product managers on design standardization. What you bring Technical Skills Proficiency in AutoCAD (3D modeling and 2D drafting) Knowledge of SolidWorks and REVIT Familiarity with MS Office Conveyor/mechanical system design expertise Layout planning and specification writing Understanding of engineering processes System Integration Coordination across mechanical, electrical, and controls disciplines Interface understanding (building, operator, procurement) Project Execution Budgeting and timeline estimation Work breakdown and prioritization Change/risk management and site readiness Communication & Collaboration Strong cross-functional teamwork Client/supplier coordination Leadership and team mentoring Quality & Safety Design for safety, ergonomics, and standards compliance Continuous Improvement Analytical thinking and problem-solving Process/tooling optimization Knowledge transfer and training Soft Skills Requirements Communication Clear, structured communication Ability to explain technical concepts to non-technical audiences Collaboration Strong team player across multidisciplinary teams Builds effective working relationships with internal and external partners Leadership & Ownership Takes initiative, leads tasks, and makes sound decisions Problem Solving Analytical mindset and solutions-oriented under pressure Adaptability Manages changing priorities and dynamic work environments Attention to Detail Maintains high quality and accuracy in designs Time Management Delivers on time, multitasks effectively Target Industries for Recruitment Preferred Qualifications Bachelor’s degree in mechanical engineering or related field. Experience in baggage/logistics automation or material handling systems (preferred) About Vanderlande: Vanderlande makes automated systems that handle baggage at airports and sort parcels in logistics networks around the world. At airports, our technology manages the complete bag journey: from check-in and security screening through to the reclaim belt. In parcel logistics, our systems power the networks that get packages to customers' doors. At Vanderlande, you will find the space to aspire, to grow, and to achieve something that matters, with people who bring out the best in each other. Website: www.vanderlande.com What we offer: Working at Vanderlande comes with the support and space to grow, achieve, and enjoy the journey. Here is what that looks like in practice: Competitive Salary Package 30 days of annual leave (pro-rated from the start of the financial year), including: 22 paid leave days 8 sick/casual leave days Applicable government holidays Flexible and hybrid working model that promotes work-life balance. Access to Vanderlande Academy and a wide range of learning and development programs to enhance your skills. Comprehensive medical insurance coverage, including parental coverage. Opportunities to participate in diverse Vanderlande communities, networks, and employee initiatives Opportunity to collaborate globally. How we work We work by three values: Every day better, we care, and Team play. In practice, this means we drive customer success, lead with transparency, celebrate what we achieve together, and do what we say. Ready to apply? Are you interested in this position? Apply directly via our careers page with your CV/Resume. Diversity & inclusion Vanderlande is an equal opportunity/affirmative action employer. Qualified applicants will be considered without regards to race, religion, colour, national origin, gender, sexual orientation, age, marital status, or disability status.",
+   "_detail": "https://vanderlande.wd3.myworkdayjobs.com/wday/cxs/vanderlande/careers/job/Pune-I/Mechanical-Project-Engineer-I_JR36846-1",
    "_detailKind": "workday",
    "_enriched": true,
-   "score": 87,
+   "score": 61,
    "isMatch": false,
    "isEng": true,
    "java": false,
@@ -41377,24 +40905,15 @@
    "india": true,
    "senior": false,
    "junior": true,
-   "exp": [
-    [
-     5,
-     6
-    ],
-    [
-     1,
-     5
-    ]
-   ],
-   "expFits2": true
+   "exp": [],
+   "expFits2": false
   },
   "trace": {
    "pages": [
     {
      "url": "https://careers.vanderlande.com",
      "status": 200,
-     "bytes": 85854
+     "bytes": 86238
     },
     {
      "url": "https://vanderlande.com/careers",
@@ -41459,7 +40978,7 @@
     "workday:vanderlande -> 40 jobs"
    ]
   },
-  "ms": 17107
+  "ms": 19980
  },
  {
   "company": "VWG Digital Solutions India",
@@ -41564,6 +41083,6 @@
     "workable:vwgdigitalsolutions -> no board"
    ]
   },
-  "ms": 7255
+  "ms": 6811
  }
 ]

@@ -682,12 +682,12 @@
  },
  {
   "letter": "i",
-  "company": "Icreon",
-  "country": "United States",
-  "board": "rendered",
-  "title": "Associate Software Engineer - Sitecore",
-  "location": "Noida",
-  "url": "https://www.icreon.com/careers",
+  "company": "Indusface",
+  "country": "India",
+  "board": "wordpress:http://www.indusface.com",
+  "title": "Associate Engineer, Managed Security Services",
+  "location": "",
+  "url": "https://www.indusface.com/careers/current-openings/associate-engineer-managed-security-services/",
   "india": true,
   "isEng": true,
   "senior": false,
@@ -697,15 +697,11 @@
   "exp": [
    [
     1,
-    2
-   ],
-   [
-    1,
-    5
-   ],
-   [
-    2,
     3
+   ],
+   [
+    3,
+    4
    ]
   ],
   "fits2": true,
@@ -731,6 +727,60 @@
    [
     1,
     3
+   ]
+  ],
+  "fits2": true,
+  "fits3": true,
+  "unstated": false,
+  "ambiguous": false
+ },
+ {
+  "letter": "i",
+  "company": "Intangles Lab",
+  "country": "India",
+  "board": "keka:intangles",
+  "title": "Associate Hardware Design Engineer",
+  "location": "Pune, MH",
+  "url": "https://intangles.keka.com/careers/jobdetails/129155",
+  "india": true,
+  "isEng": true,
+  "senior": false,
+  "java": false,
+  "flutter": false,
+  "score": 87,
+  "exp": [
+   [
+    1,
+    5
+   ]
+  ],
+  "fits2": true,
+  "fits3": true,
+  "unstated": false,
+  "ambiguous": false
+ },
+ {
+  "letter": "i",
+  "company": "iSteer Technologies",
+  "country": "India",
+  "board": "headings:https://isteer.com/careers/",
+  "title": "Junior Apigee Developer + Admin",
+  "location": "",
+  "url": "https://isteer.com/careers/",
+  "india": true,
+  "isEng": true,
+  "senior": false,
+  "java": false,
+  "flutter": false,
+  "score": 87,
+  "exp": [
+   [
+    2,
+    4
+   ],
+   [
+    4,
+    5
    ]
   ],
   "fits2": true,
@@ -5546,12 +5596,12 @@
  },
  {
   "letter": "i",
-  "company": "Intellinet Systems",
+  "company": "Ideal IT Techno",
   "country": "India",
-  "board": "headings:https://www.intellinetsystem.com/career",
-  "title": "Artificial Intelligence Engineer (Job Code: PM00)",
+  "board": "headings:https://www.idealittechno.com/careers",
+  "title": "Full Stack Developer (MERN + AWS + AI)",
   "location": "",
-  "url": "https://www.intellinetsystem.com/career",
+  "url": "https://www.idealittechno.com/careers",
   "india": true,
   "isEng": true,
   "senior": false,
@@ -5561,61 +5611,7 @@
   "exp": [
    [
     2,
-    5
-   ]
-  ],
-  "fits2": true,
-  "fits3": true,
-  "unstated": false,
-  "ambiguous": false
- },
- {
-  "letter": "i",
-  "company": "IRIS RegTech Solutions",
-  "country": "India",
-  "board": "keka:irsl",
-  "title": "Desktop Support Engineer",
-  "location": "Navi Mumbai, MH",
-  "url": "https://irsl.keka.com/careers/jobdetails/133285",
-  "india": true,
-  "isEng": true,
-  "senior": false,
-  "java": false,
-  "flutter": false,
-  "score": 75,
-  "exp": [
-   [
-    2,
-    3
-   ]
-  ],
-  "fits2": true,
-  "fits3": true,
-  "unstated": false,
-  "ambiguous": false
- },
- {
-  "letter": "i",
-  "company": "IRIS RegTech Solutions",
-  "country": "India",
-  "board": "keka:irsl",
-  "title": "Full Stack Developer",
-  "location": "Navi Mumbai, MH",
-  "url": "https://irsl.keka.com/careers/jobdetails/103675",
-  "india": true,
-  "isEng": true,
-  "senior": false,
-  "java": false,
-  "flutter": false,
-  "score": 75,
-  "exp": [
-   [
-    3,
-    5
-   ],
-   [
-    2,
-    5
+    6
    ]
   ],
   "fits2": true,
@@ -5699,6 +5695,463 @@
    [
     2,
     6
+   ]
+  ],
+  "fits2": true,
+  "fits3": true,
+  "unstated": false,
+  "ambiguous": false
+ },
+ {
+  "letter": "i",
+  "company": "Innovature",
+  "country": "India",
+  "board": "feed:https://innovature.ai",
+  "title": "DevOps Engineer",
+  "location": "",
+  "url": "https://innovature.ai/jobs/devops-engineer/",
+  "india": true,
+  "isEng": true,
+  "senior": false,
+  "java": false,
+  "flutter": false,
+  "score": 75,
+  "exp": [
+   [
+    2,
+    3
+   ]
+  ],
+  "fits2": true,
+  "fits3": true,
+  "unstated": false,
+  "ambiguous": false
+ },
+ {
+  "letter": "i",
+  "company": "Innovature",
+  "country": "India",
+  "board": "feed:https://innovature.ai",
+  "title": "DevOps Engineer – GCP",
+  "location": "",
+  "url": "https://innovature.ai/jobs/devops-engineer-gcp/",
+  "india": true,
+  "isEng": true,
+  "senior": false,
+  "java": false,
+  "flutter": false,
+  "score": 75,
+  "exp": [
+   [
+    2,
+    4
+   ],
+   [
+    4,
+    5
+   ]
+  ],
+  "fits2": true,
+  "fits3": true,
+  "unstated": false,
+  "ambiguous": false
+ },
+ {
+  "letter": "i",
+  "company": "Innovature",
+  "country": "India",
+  "board": "feed:https://innovature.ai",
+  "title": "Software Engineer(PHP)",
+  "location": "",
+  "url": "https://innovature.ai/jobs/software-engineerphp/",
+  "india": true,
+  "isEng": true,
+  "senior": false,
+  "java": false,
+  "flutter": false,
+  "score": 75,
+  "exp": [
+   [
+    2,
+    4
+   ]
+  ],
+  "fits2": true,
+  "fits3": true,
+  "unstated": false,
+  "ambiguous": false
+ },
+ {
+  "letter": "i",
+  "company": "Inntot Technologies",
+  "country": "India",
+  "board": "headings:https://www.inntot.com/careers/",
+  "title": "DSP Engineer",
+  "location": "",
+  "url": "https://www.inntot.com/careers/",
+  "india": true,
+  "isEng": true,
+  "senior": false,
+  "java": false,
+  "flutter": false,
+  "score": 75,
+  "exp": [
+   [
+    0,
+    3
+   ]
+  ],
+  "fits2": true,
+  "fits3": true,
+  "unstated": false,
+  "ambiguous": false
+ },
+ {
+  "letter": "i",
+  "company": "Inspiredge IT Solutions",
+  "country": "India",
+  "board": "feed:https://inspiredgeit.com",
+  "title": "DaaS Support Engineer",
+  "location": "",
+  "url": "https://inspiredgeit.com/jobs/daas-support-engineer-2/",
+  "india": true,
+  "isEng": true,
+  "senior": false,
+  "java": false,
+  "flutter": false,
+  "score": 75,
+  "exp": [
+   [
+    2,
+    3
+   ],
+   [
+    3,
+    7
+   ]
+  ],
+  "fits2": true,
+  "fits3": true,
+  "unstated": false,
+  "ambiguous": false
+ },
+ {
+  "letter": "i",
+  "company": "InstaAstro",
+  "country": "India",
+  "board": "headings:https://instaastro.com/careers/",
+  "title": "React Native Developer",
+  "location": "",
+  "url": "https://instaastro.com/careers/",
+  "india": true,
+  "isEng": true,
+  "senior": false,
+  "java": false,
+  "flutter": false,
+  "score": 75,
+  "exp": [
+   [
+    2,
+    6
+   ]
+  ],
+  "fits2": true,
+  "fits3": true,
+  "unstated": false,
+  "ambiguous": false
+ },
+ {
+  "letter": "i",
+  "company": "Intangles Lab",
+  "country": "India",
+  "board": "keka:intangles",
+  "title": "Hardware Test & Validation Engineer",
+  "location": "Pune, MH",
+  "url": "https://intangles.keka.com/careers/jobdetails/129153",
+  "india": true,
+  "isEng": true,
+  "senior": false,
+  "java": false,
+  "flutter": false,
+  "score": 75,
+  "exp": [
+   [
+    1,
+    3
+   ],
+   [
+    3,
+    4
+   ]
+  ],
+  "fits2": true,
+  "fits3": true,
+  "unstated": false,
+  "ambiguous": false
+ },
+ {
+  "letter": "i",
+  "company": "Intangles Lab",
+  "country": "India",
+  "board": "keka:intangles",
+  "title": "DevSecOps Engineer",
+  "location": "Pune",
+  "url": "https://intangles.keka.com/careers/jobdetails/117983",
+  "india": true,
+  "isEng": true,
+  "senior": false,
+  "java": false,
+  "flutter": false,
+  "score": 75,
+  "exp": [
+   [
+    2,
+    6
+   ]
+  ],
+  "fits2": true,
+  "fits3": true,
+  "unstated": false,
+  "ambiguous": false
+ },
+ {
+  "letter": "i",
+  "company": "Intangles Lab",
+  "country": "India",
+  "board": "keka:intangles",
+  "title": "Engineer-QA (Manual)",
+  "location": "Pune",
+  "url": "https://intangles.keka.com/careers/jobdetails/40424",
+  "india": true,
+  "isEng": true,
+  "senior": false,
+  "java": false,
+  "flutter": false,
+  "score": 75,
+  "exp": [
+   [
+    2,
+    3
+   ]
+  ],
+  "fits2": true,
+  "fits3": true,
+  "unstated": false,
+  "ambiguous": false
+ },
+ {
+  "letter": "i",
+  "company": "Intangles Lab",
+  "country": "India",
+  "board": "keka:intangles",
+  "title": "Developer-Full Stack",
+  "location": "Pune, MH",
+  "url": "https://intangles.keka.com/careers/jobdetails/36515",
+  "india": true,
+  "isEng": true,
+  "senior": false,
+  "java": false,
+  "flutter": false,
+  "score": 75,
+  "exp": [
+   [
+    2,
+    3
+   ],
+   [
+    3,
+    7
+   ]
+  ],
+  "fits2": true,
+  "fits3": true,
+  "unstated": false,
+  "ambiguous": false
+ },
+ {
+  "letter": "i",
+  "company": "Intangles Lab",
+  "country": "India",
+  "board": "keka:intangles",
+  "title": "Software Development Engineer in Test (SDET)",
+  "location": "Pune, MH",
+  "url": "https://intangles.keka.com/careers/jobdetails/31800",
+  "india": true,
+  "isEng": true,
+  "senior": false,
+  "java": false,
+  "flutter": false,
+  "score": 75,
+  "exp": [
+   [
+    4,
+    8
+   ],
+   [
+    2,
+    6
+   ]
+  ],
+  "fits2": true,
+  "fits3": true,
+  "unstated": false,
+  "ambiguous": false
+ },
+ {
+  "letter": "i",
+  "company": "Intangles Lab",
+  "country": "India",
+  "board": "keka:intangles",
+  "title": "Engineer - Embedded Hardware Testing",
+  "location": "Pune",
+  "url": "https://intangles.keka.com/careers/jobdetails/20265",
+  "india": true,
+  "isEng": true,
+  "senior": false,
+  "java": false,
+  "flutter": false,
+  "score": 75,
+  "exp": [
+   [
+    2,
+    3
+   ],
+   [
+    3,
+    4
+   ]
+  ],
+  "fits2": true,
+  "fits3": true,
+  "unstated": false,
+  "ambiguous": false
+ },
+ {
+  "letter": "i",
+  "company": "Intangles Lab",
+  "country": "India",
+  "board": "keka:intangles",
+  "title": "Engineer - Embedded Software",
+  "location": "Pune",
+  "url": "https://intangles.keka.com/careers/jobdetails/19505",
+  "india": true,
+  "isEng": true,
+  "senior": false,
+  "java": false,
+  "flutter": false,
+  "score": 75,
+  "exp": [
+   [
+    2,
+    5
+   ]
+  ],
+  "fits2": true,
+  "fits3": true,
+  "unstated": false,
+  "ambiguous": false
+ },
+ {
+  "letter": "i",
+  "company": "IntegriChain",
+  "country": "United States",
+  "board": "smartrecruiters:IntegriChain1",
+  "title": "Data Integration Engineer (Reltio MDM Configurator)",
+  "location": "Pune, MH, in",
+  "url": "https://jobs.smartrecruiters.com/IntegriChain1/744000134959664",
+  "india": true,
+  "isEng": true,
+  "senior": false,
+  "java": false,
+  "flutter": false,
+  "score": 75,
+  "exp": [
+   [
+    5,
+    9
+   ],
+   [
+    2,
+    6
+   ]
+  ],
+  "fits2": true,
+  "fits3": true,
+  "unstated": false,
+  "ambiguous": false
+ },
+ {
+  "letter": "i",
+  "company": "Intellinet Systems",
+  "country": "India",
+  "board": "headings:https://www.intellinetsystem.com/career",
+  "title": "Artificial Intelligence Engineer (Job Code: PM00)",
+  "location": "",
+  "url": "https://www.intellinetsystem.com/career",
+  "india": true,
+  "isEng": true,
+  "senior": false,
+  "java": false,
+  "flutter": false,
+  "score": 75,
+  "exp": [
+   [
+    2,
+    5
+   ]
+  ],
+  "fits2": true,
+  "fits3": true,
+  "unstated": false,
+  "ambiguous": false
+ },
+ {
+  "letter": "i",
+  "company": "IRIS RegTech Solutions",
+  "country": "India",
+  "board": "keka:irsl",
+  "title": "Desktop Support Engineer",
+  "location": "Navi Mumbai, MH",
+  "url": "https://irsl.keka.com/careers/jobdetails/133285",
+  "india": true,
+  "isEng": true,
+  "senior": false,
+  "java": false,
+  "flutter": false,
+  "score": 75,
+  "exp": [
+   [
+    2,
+    3
+   ]
+  ],
+  "fits2": true,
+  "fits3": true,
+  "unstated": false,
+  "ambiguous": false
+ },
+ {
+  "letter": "i",
+  "company": "IRIS RegTech Solutions",
+  "country": "India",
+  "board": "keka:irsl",
+  "title": "Full Stack Developer",
+  "location": "Navi Mumbai, MH",
+  "url": "https://irsl.keka.com/careers/jobdetails/103675",
+  "india": true,
+  "isEng": true,
+  "senior": false,
+  "java": false,
+  "flutter": false,
+  "score": 75,
+  "exp": [
+   [
+    3,
+    5
+   ],
+   [
+    2,
+    5
    ]
   ],
   "fits2": true,
@@ -13283,35 +13736,6 @@
  },
  {
   "letter": "i",
-  "company": "Inito",
-  "country": "India",
-  "board": "keka:inito",
-  "title": "ML - Computer Vision and NLP Engineer",
-  "location": "Bengaluru, KA",
-  "url": "https://inito.keka.com/careers/jobdetails/7391",
-  "india": true,
-  "isEng": true,
-  "senior": false,
-  "java": false,
-  "flutter": false,
-  "score": 57,
-  "exp": [
-   [
-    3,
-    5
-   ],
-   [
-    5,
-    6
-   ]
-  ],
-  "fits2": false,
-  "fits3": true,
-  "unstated": false,
-  "ambiguous": false
- },
- {
-  "letter": "i",
   "company": "Ibexlabs",
   "country": "United States",
   "board": "keka:ibexlabs",
@@ -13382,6 +13806,89 @@
    [
     3,
     4
+   ]
+  ],
+  "fits2": false,
+  "fits3": true,
+  "unstated": false,
+  "ambiguous": false
+ },
+ {
+  "letter": "i",
+  "company": "Inito",
+  "country": "India",
+  "board": "keka:inito",
+  "title": "ML - Computer Vision and NLP Engineer",
+  "location": "Bengaluru, KA",
+  "url": "https://inito.keka.com/careers/jobdetails/7391",
+  "india": true,
+  "isEng": true,
+  "senior": false,
+  "java": false,
+  "flutter": false,
+  "score": 57,
+  "exp": [
+   [
+    3,
+    5
+   ],
+   [
+    5,
+    6
+   ]
+  ],
+  "fits2": false,
+  "fits3": true,
+  "unstated": false,
+  "ambiguous": false
+ },
+ {
+  "letter": "i",
+  "company": "Innovature",
+  "country": "India",
+  "board": "feed:https://innovature.ai",
+  "title": "Database Developer",
+  "location": "",
+  "url": "https://innovature.ai/jobs/database-developer/",
+  "india": true,
+  "isEng": true,
+  "senior": false,
+  "java": false,
+  "flutter": false,
+  "score": 57,
+  "exp": [
+   [
+    3,
+    5
+   ],
+   [
+    5,
+    6
+   ]
+  ],
+  "fits2": false,
+  "fits3": true,
+  "unstated": false,
+  "ambiguous": false
+ },
+ {
+  "letter": "i",
+  "company": "Innovature",
+  "country": "India",
+  "board": "feed:https://innovature.ai",
+  "title": "Full Stack Developer (PHP & Vue.js/React.js)",
+  "location": "",
+  "url": "https://innovature.ai/jobs/full-stack-developer-php-vue-js-react-js/",
+  "india": true,
+  "isEng": true,
+  "senior": false,
+  "java": false,
+  "flutter": false,
+  "score": 57,
+  "exp": [
+   [
+    3,
+    5
    ]
   ],
   "fits2": false,
@@ -18348,6 +18855,39 @@
    [
     6,
     7
+   ]
+  ],
+  "fits2": false,
+  "fits3": true,
+  "unstated": false,
+  "ambiguous": true
+ },
+ {
+  "letter": "i",
+  "company": "Inspiredge IT Solutions",
+  "country": "India",
+  "board": "feed:https://inspiredgeit.com",
+  "title": "AI Engineer",
+  "location": "",
+  "url": "https://inspiredgeit.com/jobs/ai-engineer/",
+  "india": true,
+  "isEng": true,
+  "senior": false,
+  "java": false,
+  "flutter": false,
+  "score": 57,
+  "exp": [
+   [
+    3,
+    7
+   ],
+   [
+    5,
+    9
+   ],
+   [
+    7,
+    11
    ]
   ],
   "fits2": false,

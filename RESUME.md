@@ -199,10 +199,39 @@ The hop accepts two shapes, both safe by construction:
     stranger's postings.
  2. a jobs./careers./apply. subdomain of the company's OWN domain.
 
+
+## Marketing content in the job folders (cycle 10) — FIXED
+Auditing folder 1 (the one the user actually works from) found FOUR OF THE TOP
+FIVE entries were blog posts, not jobs — "How Much Does It Cost to Hire an App
+Developer?", "Cost to Hire a Developer in India (2026)", "RAG vs Fine-Tuning".
+All arrived `via feed:` and `via sitemap:`.
+
+Cause: RSS feeds and sitemaps are SITE-WIDE, so a dev shop's marketing blog
+comes through the same pipe as its vacancies. And because those posts are all
+*about hiring*, every keyword filter waved them through. render-scan.js already
+had a guard for this; the main engine's feed/sitemap/wordpress extractors never
+got one. isMarketingContent() now filters URL first (/blog/, /insights/,
+/resources/) with headline shape as backstop. Applied ONLY to those three
+extractors — an ATS never serves a blog through its jobs API.
+LESSON: fixing a class of bug in one extractor is not fixing it. When a filter
+is added to one path, check every other path that produces the same objects.
+
+## Board attribution — how to read a trace
+w/test.js records candidates as `provider:token(html)` or `(guess)`.
+`(html)` = the token was found in the company's OWN page, which is strong
+evidence even for providers with no board-name check. `(guess)` = constructed
+from the company slug, and only greenhouse/lever/ashby/workable are name-checked
+(NAME_CHECK). Investigated FloBiz -> keka:valorem and it is legitimate: the
+token came from FloBiz's own HTML, i.e. their Keka tenant is named for their
+registered entity. Not a mis-attribution.
+
 ## Next cycle
-1. Measure what the second hop recovered (weekendplan/logs-hop.log). If the
-   yield is good, the same landing-page pattern likely explains much of the
-   remaining unread set — extend ATS_HOSTS with whatever vendors show up.
-2. Boards that fail to load at all in Chromium: Coforge (ERR_HTTP2_PROTOCOL_ERROR)
+1. Re-audit folder 1 by hand after the marketing filter lands. That audit is
+   what found this bug, and it is worth repeating every few cycles — it is the
+   only check that looks at what the user actually reads.
+2. Extending ATS_HOSTS is EXHAUSTED: sampling 60 still-unread boards for unknown
+   job-board hosts returned only noise (whatsapp.com and two self-references).
+   The remaining ~695 unread boards are not hiding behind an unknown vendor.
+3. Boards that fail to load at all in Chromium: Coforge (ERR_HTTP2_PROTOCOL_ERROR)
    and MakeMyTrip (timeout). Small in number; may need a retry with HTTP/1.1.
-3. Periodic re-verification of domains (cheap, no quota).
+4. Periodic re-verification of domains (cheap, no quota).

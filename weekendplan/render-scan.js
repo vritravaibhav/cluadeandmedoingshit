@@ -40,7 +40,23 @@ const LETTERS = (argVal('letters', 'abcdefghijklmnopqrstuvwxyz') || '').split(/[
 const LIMIT = parseInt(argVal('limit', '0'), 10) || 0;
 const CONCURRENCY = parseInt(argVal('concurrency', '6'), 10);
 const PAGE_MS = parseInt(argVal('pagems', '30000'), 10);
+/*
+ * A hard ceiling per board, independent of Playwright's own timeouts.
+ * Those are per-operation, and a response handler awaiting res.json() on a
+ * body that never finishes streaming is not covered by any of them — a first
+ * run hung 4h40m at 0% CPU on the last 4 of 1064 boards because of exactly
+ * that. Nothing below is allowed to outlive this.
+ */
+const BOARD_MS = parseInt(argVal('boardms', '75000'), 10);
 const HEADED = ARGS.includes('--headed');
+const MERGE_ONLY = ARGS.includes('--merge-only');
+/*
+ * Every board is appended here the moment it finishes. The merge reads this
+ * file, not memory, so a kill/crash costs only the board in flight — the
+ * earlier design held everything in memory until the end and lost all 163
+ * recovered boards when the run had to be killed.
+ */
+const JSONL = path.join(__dirname, 'rendered.jsonl');
 
 const RETRY = /lists-no-openings|no-job-data-found|blocked-or-error|timed-out|unreachable/;
 
@@ -267,21 +283,53 @@ async function main() {
     while (idx < list.length) {
       const t = list[idx++];
       let jobs = [];
+      let timedOut = false;
       try {
-        jobs = await renderOne(ctx, t.company);
-      } catch (e) {
+        // Race the render against a hard wall clock. If the render wins we use
+        // it; if the clock wins we move on and let the orphaned page leak —
+        // the browser is torn down at the end anyway, and a leaked page costs
+        // far less than a worker wedged forever.
+        jobs = await Promise.race([
+          renderOne(ctx, t.company),
+          new Promise((res) => setTimeout(() => { timedOut = true; res([]); }, BOARD_MS)),
+        ]);
+      } catch {
         jobs = [];
       }
       done++;
-      if (jobs.length) found.set(`${t.L}:${t.i}`, jobs);
-      const tag = jobs.length ? `${String(jobs.length).padStart(3)} jobs` : '  -    ';
+      if (jobs.length) {
+        found.set(`${t.L}:${t.i}`, jobs);
+        // Persist immediately — see JSONL comment above.
+        try {
+          fs.appendFileSync(JSONL, JSON.stringify({ L: t.L, i: t.i, company: t.company.company, jobs }) + '\n');
+        } catch { /* disk hiccup must not kill the run */ }
+      }
+      const tag = jobs.length ? `${String(jobs.length).padStart(3)} jobs` : timedOut ? ' timeout' : '  -    ';
       console.log(`[${String(done).padStart(4)}/${list.length}] ${tag}  ${t.company.company}`);
     }
   };
   await Promise.all(Array.from({ length: CONCURRENCY }, worker));
   await browser.close();
 
-  // Merge back into each letter's results.json, scoring with the engine's rules.
+  mergeFromDisk(list.length);
+}
+
+/*
+ * Merge whatever has been persisted into each letter's results.json, scoring
+ * with the engine's rules. Reads the JSONL rather than memory so it can be
+ * re-run on its own (--merge-only) after an interrupted render.
+ */
+function mergeFromDisk(attempted = 0) {
+  const found = new Map();
+  if (fs.existsSync(JSONL)) {
+    for (const line of fs.readFileSync(JSONL, 'utf8').split('\n')) {
+      if (!line.trim()) continue;
+      try {
+        const r = JSON.parse(line);
+        if (r && r.jobs && r.jobs.length) found.set(`${r.L}:${r.i}`, r.jobs);
+      } catch { /* truncated final line after a kill — skip it */ }
+    }
+  }
   let updatedCompanies = 0;
   let addedJobs = 0;
   for (const L of LETTERS) {
@@ -322,11 +370,11 @@ async function main() {
     if (touched) fs.writeFileSync(f, JSON.stringify(data, null, 1));
   }
 
-  console.log(`\n  boards recovered : ${updatedCompanies} of ${list.length}`);
+  console.log(`\n  boards recovered : ${updatedCompanies}${attempted ? " of " + attempted : ""}`);
   console.log(`  postings added   : ${addedJobs}`);
 }
 
-main().catch((e) => {
+if (MERGE_ONLY) { mergeFromDisk(); } else main().catch((e) => {
   console.error(e);
   process.exit(1);
 });

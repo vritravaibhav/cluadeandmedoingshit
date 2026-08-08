@@ -60,3 +60,22 @@ Next cycle should pick up:
 - 14h chain, one-shot, self-rearming: `git pull`, read `vaibhavclaude.md` at repo root,
   execute the prompt inside it, stop at 80% quota, rebuild + push, then CronCreate the
   next one-shot at +14h with the same prompt. First fire: 2026-08-08 09:18 IST.
+
+## Freelance track (added cycle 4, 2026-08-08)
+weekendplan_freelance/build.js reads freelance/results.json (written by
+freelance/test.js) and emits a CAPPED, ranked bid list — deliberately unlike
+the jobs build. Bids are the scarce resource (Freelancer free tier = 6/month,
+Plus = 100), so precision beats recall: 1-bid-now is capped at 60.
+  node freelance/test.js && node weekendplan_freelance/build.js
+KNOWN DEAD END: generic remote-job boards. An earlier sweep pulled 875 postings
+from remoteok/remotive/arbeitnow/jobicy/himalayas/workingnomads/wwr/jobspresso
+and got 7 usable, 0 contract. Do NOT add more of those. Only freelancer.com has
+had an open gig API. New sources must be probed for an accessible feed first
+(see freelance_20260807/probe.js for the pattern) before wiring into
+freelance/sources.js.
+
+## User-facing status file
+claudevaibhav.md is the report the user reads to track progress from a
+distance. Update it EVERY cycle alongside RESUME.md. RESUME.md is engineering
+state; claudevaibhav.md is for them — what was asked, what got done, what is
+next, what is broken.

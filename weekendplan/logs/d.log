@@ -1,137 +1,82 @@
-Checking 128 companies (concurrency 8)
+Checking 252 companies (concurrency 8)
 
-[  1/128] DevRev                        42 jobs  via greenhouse:devrev
-[  2/128] Delhivery                    !! careers-page-read-but-lists-no-openings
-[  3/128] Dream Sports                 !! no-job-data-found
-[  4/128] Darwinbox                    !! careers-page-read-but-lists-no-openings
-[  5/128] DeHaat                       !! careers-page-read-but-lists-no-openings
-[  6/128] Draup                          6 jobs  via headings:https://draup.com/job-openings
-[  7/128] Dashtoon                     !! careers-page-read-but-lists-no-openings
-[  8/128] DocPlexus                    !! careers-page-read-but-lists-no-openings
-[  9/128] DocOnline                      2 jobs  via headings:https://www.doconline.com/career
-[ 10/128] DailyRounds                  !! careers-page-read-but-lists-no-openings
-[ 11/128] Droom                         22 jobs  via headings:https://droom.in/career
-[ 12/128] Druva                         29 jobs  via greenhouse:druva
-[ 13/128] Docsumo                        7 jobs  via lever:docsumo
-[ 14/128] Doceree                       16 jobs  via next-data:https://doceree.com/careers
-[ 15/128] DaMENSCH                     !! careers-page-read-but-lists-no-openings
-[ 16/128] Dreamcast                      9 jobs  via headings:https://www.dreamcast.in/careers
-[ 17/128] Daalchini Technologies       !! careers-page-read-but-lists-no-openings
-[ 18/128] DeepThought                  !! careers-page-read-but-lists-no-openings
-[ 19/128] DrinkPrime                   !! careers-page-read-but-lists-no-openings
-[ 20/128] Digital Green                !! careers-page-read-but-lists-no-openings
-[ 21/128] Digit Insurance              !! careers-page-read-but-lists-no-openings
-[ 22/128] Dhan                         !! careers-page-read-but-lists-no-openings
-[ 23/128] DPDzero                      !! careers-page-read-but-lists-no-openings
-[ 24/128] Dezerv                       !! careers-page-read-but-lists-no-openings
-[ 25/128] Decentro                     !! careers-page-read-but-lists-no-openings
-[ 26/128] Datacultr                    !! careers-page-read-but-lists-no-openings
-[ 27/128] Dukaan                       !! careers-page-read-but-lists-no-openings
-[ 28/128] Dvara                          3 jobs  via wordpress:https://dvara.com
-[ 29/128] Digantara                    !! careers-page-read-but-lists-no-openings
-[ 30/128] Detect Technologies            4 jobs  via wordpress:https://detecttechnologies.com
-[ 31/128] Dhruva Space                  13 jobs  via headings:https://www.dhruvaspace.com/careers
-[ 32/128] Devnagri                     !! careers-page-read-but-lists-no-openings
-[ 33/128] DriveU                       !! careers-page-read-but-lists-no-openings
-[ 34/128] DATOMS                       !! careers-page-read-but-lists-no-openings
-[ 35/128] Datamatics Global Services    40 jobs  via headings:https://www.datamatics.com/human-resources/job-openings
-[ 36/128] Digilytics AI                 10 jobs  via feed:https://digilytics.ai
-[ 37/128] Deqode                       !! careers-page-read-but-lists-no-openings
-[ 38/128] Drip Capital                 !! careers-page-read-but-lists-no-openings
-[ 39/128] Debut Infotech                 4 jobs  via headings:https://www.debutinfotech.com/career
-[ 40/128] Digimantra Labs               13 jobs  via keka:digimantra
-[ 41/128] DSP Asset Managers             3 jobs  via headings:https://www.dspim.com/careers
-[ 42/128] Dolat Capital                !! careers-page-read-but-lists-no-openings
-[ 43/128] DhiWise                      !! careers-page-read-but-lists-no-openings
-[ 44/128] Dev Technosys                 59 jobs  via headings:https://devtechnosys.com/careers.php
-[ 45/128] Damco Solutions                5 jobs  via headings:https://www.damcogroup.com/careers
-[ 46/128] Dev Information Technology    12 jobs  via feed:https://devitpl.com
-[ 47/128] DianApps                      25 jobs  via headings:https://dianapps.com/career
-[ 48/128] Dhanush InfoTech             !! careers-page-read-but-lists-no-openings
-[ 49/128] Digitide Solutions           !! careers-page-read-but-lists-no-openings
-[ 50/128] Digital Aptech                 0 jobs  via zohorecruit:digitalaptech.zohorecruit.in (0 open)
-[ 51/128] doodleblue Innovations         5 jobs  via headings:https://www.doodleblue.com/careers/openings/
-[ 52/128] Daffodil Software            !! careers-page-read-but-lists-no-openings
-[ 53/128] Datawrkz                       0 jobs  via zohorecruit:datawrkz (0 open)
-[ 54/128] DCKAP                        !! careers-page-read-but-lists-no-openings
-[ 55/128] DoubleTick                     8 jobs  via headings:https://www.doubletick.io/careers-at-doubletick
-[ 56/128] Dexlock                       10 jobs  via feed:https://dexlock.com
-[ 57/128] Data Template                 13 jobs  via headings:https://www.datatemplate.com/en/careers/
-[ 58/128] Dreamsoft4u                    4 jobs  via headings:https://www.dreamsoft4u.com/career
-[ 59/128] Dorleco                      !! timed-out
-[ 60/128] Digital Avenues              !! careers-page-read-but-lists-no-openings
-[ 61/128] Dot Com Infoway              !! careers-page-read-but-lists-no-openings
-[ 62/128] Divami Design Labs             0 jobs  via zohorecruit:divami (0 open)
-[ 63/128] Diacto Technologies           10 jobs  via feed:https://www.diacto.com
-[ 64/128] Dev Labs                     !! careers-page-read-but-lists-no-openings
-[ 65/128] Digicorp                     !! careers-page-read-but-lists-no-openings
-[ 66/128] Diaspark                     !! careers-page-read-but-lists-no-openings
-[ 67/128] Denave                         2 jobs  via headings:https://www.denave.com/careers/
-[ 68/128] DigiValet                      8 jobs  via headings:https://www.digivalet.com/careers
-[ 69/128] Deuglo Infosystem            !! careers-page-read-but-lists-no-openings
-[ 70/128] Dhruvsoft Services             0 jobs  via zohorecruit:dhruvsoft (0 open)
-[ 71/128] Dr Lal PathLabs              !! careers-page-read-but-lists-no-openings
-[ 72/128] DMart                        !! careers-page-read-but-lists-no-openings
-[ 73/128] Deloitte                     288 jobs  via smartrecruiters:Deloitte6
-[ 74/128] DeltaX                       !! careers-page-read-but-lists-no-openings
-[ 75/128] DBS Bank                      40 jobs  via workday:dbs
-[ 76/128] Deutsche Telekom Digital Lab !! no-job-data-found
-[ 77/128] DXC Technology                40 jobs  via workday:dxctechnology
-[ 78/128] Dr. Reddy's Laboratories      23 jobs  via sitemap:https://careers.drreddys.com
-[ 79/128] Dalmia Bharat                !! careers-page-read-but-lists-no-openings
-[ 80/128] Danske Bank                    3 jobs  via headings:https://danskebank.com/careers
-[ 81/128] Dassault Systemes             14 jobs  via headings:https://www.3ds.com/careers/jobs
-[ 82/128] Deutsche Bank                !! careers-page-read-but-lists-no-openings
-[ 83/128] Discover Financial Services  !! careers-page-read-but-lists-no-openings
-[ 84/128] D. E. Shaw & Co               60 jobs  via headings:https://www.deshaw.com/careers
-[ 85/128] Databricks                   818 jobs  via greenhouse:databricks   ** 2 MATCH **
-[ 86/128] Duck Creek Technologies       13 jobs  via workday:duckcreek
-[ 87/128] Dun & Bradstreet             133 jobs  via lever:dnb
-[ 88/128] DigitalOcean                   2 jobs  via headings:https://www.digitalocean.com/careers
-[ 89/128] Diligent                       5 jobs  via greenhouse:diligent
-[ 90/128] Digital.ai                     4 jobs  via headings:https://digital.ai/why-digital-ai/careers/
-[ 91/128] DigiCert                      61 jobs  via greenhouse:digicert   ** 2 MATCH **
-[ 92/128] Dell Technologies            !! careers-page-read-but-lists-no-openings
-[ 93/128] Dimagi                         1 jobs  via greenhouse:dimagi
-[ 94/128] Dremio                         2 jobs  via greenhouse:dremio
-[ 95/128] Dayforce                     !! careers-page-read-but-lists-no-openings
-[ 96/128] Dolby Laboratories            40 jobs  via successfactors:careers.dolby.com
-[ 97/128] Delinea                       72 jobs  via ashby:delinea
-[ 98/128] dunnhumby                     69 jobs  via greenhouse:dunnhumby
-[ 99/128] Denodo                       !! careers-page-read-but-lists-no-openings
-[100/128] DeepSource                   !! careers-page-read-but-lists-no-openings
-[101/128] Datavail                       2 jobs  via headings:https://www.datavail.com/career
-[102/128] Dotsquares                    33 jobs  via headings:https://careers.dotsquares.com/
-[103/128] Diageo                        40 jobs  via workday:diageo
-[104/128] DAZN                         136 jobs  via pinpoint:dazn
-[105/128] Diebold Nixdorf              !! careers-page-read-but-lists-no-openings
-[106/128] DNV                            5 jobs  via headings:https://jobs.dnv.com/
-[107/128] Dentsu                        40 jobs  via workday:dentsuaegis
-[108/128] DENSO                        !! careers-page-read-but-lists-no-openings
-[109/128] Decathlon                    !! careers-page-read-but-lists-no-openings
-[110/128] Daimler Truck                  2 jobs  via headings:https://www.daimlertruck.com/en/career
-[111/128] Dennemeyer                    20 jobs  via workday:dennemeyer
-[112/128] Danfoss                      !! careers-page-read-but-lists-no-openings
-[113/128] DTCC                         !! timed-out
-[114/128] DHL                          !! careers-page-read-but-lists-no-openings
-[115/128] Dhani                        !! no-job-data-found
-[116/128] Dow                          !! careers-page-read-but-lists-no-openings
-[117/128] Dover Corporation             48 jobs  via successfactors:careers.dovercorporation.com
-[118/128] Data Sutram                  !! no-job-data-found
-[119/128] Donaldson                     40 jobs  via workday:donaldson
-[120/128] Dexian India                 !! blocked-or-error-response
-[121/128] Dailyhunt                    !! no-job-data-found
-[122/128] Disney Star India             40 jobs  via workday:jiostar   ** 1 MATCH **
-[123/128] Doubtnut                     !! no-job-data-found
-[124/128] DuPont                       174 jobs  via phenom:_self
-[125/128] Dhruva Consultants           !! careers-page-read-but-lists-no-openings
-[126/128] Deere & Company               26 jobs  via sitemap:https://careers.deere.com   ** 2 MATCH **
-[127/128] Danaher                      !! careers-page-read-but-lists-no-openings
-[128/128] DP World                     !! careers-page-read-but-lists-no-openings
-
-  boards read with jobs : 60
-  boards read, 0 open   : 4
-  could not read        : 64
-  companies w/ matches  : 4
-
-Wrote careers.txt + results.json
+[  1/252] DevRev                        42 jobs  via greenhouse:devrev
+[  2/252] Delhivery                    !! careers-page-read-but-lists-no-openings
+[  3/252] Dream Sports                 !! no-job-data-found
+[  4/252] DeHaat                       !! careers-page-read-but-lists-no-openings
+[  5/252] Draup                          6 jobs  via headings:https://draup.com/job-openings
+[  6/252] Dashtoon                     !! careers-page-read-but-lists-no-openings
+[  7/252] DocPlexus                    !! careers-page-read-but-lists-no-openings
+[  8/252] Droom                         22 jobs  via headings:https://droom.in/career
+[  9/252] Druva                         29 jobs  via greenhouse:druva
+[ 10/252] DocOnline                      2 jobs  via headings:https://www.doconline.com/career
+[ 11/252] Docsumo                        7 jobs  via lever:docsumo
+[ 12/252] DailyRounds                  !! careers-page-read-but-lists-no-openings
+[ 13/252] DrinkPrime                   !! careers-page-read-but-lists-no-openings
+[ 14/252] Darwinbox                    !! careers-page-read-but-lists-no-openings
+[ 15/252] Doceree                       16 jobs  via next-data:https://doceree.com/careers
+[ 16/252] Dreamcast                      9 jobs  via headings:https://www.dreamcast.in/careers
+[ 17/252] Daalchini Technologies       !! careers-page-read-but-lists-no-openings
+[ 18/252] DaMENSCH                     !! careers-page-read-but-lists-no-openings
+[ 19/252] DeepThought                  !! careers-page-read-but-lists-no-openings
+[ 20/252] Dhan                         !! careers-page-read-but-lists-no-openings
+[ 21/252] Digital Green                !! careers-page-read-but-lists-no-openings
+[ 22/252] Dezerv                       !! careers-page-read-but-lists-no-openings
+[ 23/252] Digit Insurance              !! careers-page-read-but-lists-no-openings
+[ 24/252] Decentro                     !! careers-page-read-but-lists-no-openings
+[ 25/252] DPDzero                      !! careers-page-read-but-lists-no-openings
+[ 26/252] Datacultr                    !! careers-page-read-but-lists-no-openings
+[ 27/252] Dvara                          3 jobs  via wordpress:https://dvara.com
+[ 28/252] Dukaan                       !! careers-page-read-but-lists-no-openings
+[ 29/252] Digantara                    !! careers-page-read-but-lists-no-openings
+[ 30/252] Dhruva Space                  13 jobs  via headings:https://www.dhruvaspace.com/careers
+[ 31/252] Detect Technologies            4 jobs  via wordpress:https://detecttechnologies.com
+[ 32/252] DriveU                       !! careers-page-read-but-lists-no-openings
+[ 33/252] Devnagri                     !! careers-page-read-but-lists-no-openings
+[ 34/252] DATOMS                       !! careers-page-read-but-lists-no-openings
+[ 35/252] Digilytics AI                 10 jobs  via feed:https://digilytics.ai
+[ 36/252] Drip Capital                 !! careers-page-read-but-lists-no-openings
+[ 37/252] Datamatics Global Services    40 jobs  via headings:https://www.datamatics.com/human-resources/job-openings
+[ 38/252] DSP Asset Managers             3 jobs  via headings:https://www.dspim.com/careers
+[ 39/252] Deqode                       !! careers-page-read-but-lists-no-openings
+[ 40/252] Debut Infotech                 4 jobs  via headings:https://www.debutinfotech.com/career
+[ 41/252] Digimantra Labs               13 jobs  via keka:digimantra
+[ 42/252] DhiWise                      !! careers-page-read-but-lists-no-openings
+[ 43/252] Dolat Capital                !! careers-page-read-but-lists-no-openings
+[ 44/252] Damco Solutions                5 jobs  via headings:https://www.damcogroup.com/careers
+[ 45/252] Dev Technosys                 59 jobs  via headings:https://devtechnosys.com/careers.php
+[ 46/252] Dev Information Technology    12 jobs  via feed:https://devitpl.com
+[ 47/252] DianApps                      25 jobs  via headings:https://dianapps.com/career
+[ 48/252] Dhanush InfoTech             !! careers-page-read-but-lists-no-openings
+[ 49/252] Digitide Solutions           !! careers-page-read-but-lists-no-openings
+[ 50/252] Digital Aptech                 0 jobs  via zohorecruit:digitalaptech.zohorecruit.in (0 open)
+[ 51/252] doodleblue Innovations         5 jobs  via headings:https://www.doodleblue.com/careers/openings/
+[ 52/252] Daffodil Software            !! careers-page-read-but-lists-no-openings
+[ 53/252] Dexlock                       10 jobs  via feed:https://dexlock.com
+[ 54/252] Datawrkz                       0 jobs  via zohorecruit:datawrkz (0 open)
+[ 55/252] DoubleTick                     8 jobs  via headings:https://www.doubletick.io/careers-at-doubletick
+[ 56/252] DCKAP                        !! careers-page-read-but-lists-no-openings
+[ 57/252] Dreamsoft4u                    4 jobs  via headings:https://www.dreamsoft4u.com/career
+[ 58/252] Dorleco                      !! timed-out
+[ 59/252] Dot Com Infoway              !! careers-page-read-but-lists-no-openings
+[ 60/252] Data Template                 13 jobs  via headings:https://www.datatemplate.com/en/careers/
+[ 61/252] Diacto Technologies           10 jobs  via feed:https://www.diacto.com
+[ 62/252] Digicorp                     !! careers-page-read-but-lists-no-openings
+[ 63/252] Digital Avenues              !! careers-page-read-but-lists-no-openings
+[ 64/252] Dev Labs                     !! careers-page-read-but-lists-no-openings
+[ 65/252] Divami Design Labs             0 jobs  via zohorecruit:divami (0 open)
+[ 66/252] Dhruvsoft Services             0 jobs  via zohorecruit:dhruvsoft (0 open)
+[ 67/252] Denave                         2 jobs  via headings:https://www.denave.com/careers/
+[ 68/252] Diaspark                     !! careers-page-read-but-lists-no-openings
+[ 69/252] Deuglo Infosystem            !! careers-page-read-but-lists-no-openings
+[ 70/252] Dr Lal PathLabs              !! careers-page-read-but-lists-no-openings
+[ 71/252] DMart                        !! careers-page-read-but-lists-no-openings
+[ 72/252] DeltaX                       !! careers-page-read-but-lists-no-openings
+[ 73/252] DigiValet                      8 jobs  via headings:https://www.digivalet.com/careers
+[ 74/252] Deloitte                     288 jobs  via smartrecruiters:Deloitte6
+[ 75/252] Deutsche Telekom Digital Lab !! no-job-data-found
+[ 76/252] DBS Bank                      40 jobs  via workday:dbs
+[ 77/252] DXC Technology                40 jobs  via workday:dxctechnology
+[ 78/252] Dr. Reddy's Laboratories      25 jobs  via sitemap:https://careers.drreddys.com
+[ 79/252] Dalmia Bharat                !! careers-page-read-but-lists-no-openings
+[ 80/252] Dun & Bradstreet             133 jobs  via lever:dnb

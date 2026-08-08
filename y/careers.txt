@@ -2,13 +2,13 @@
 OPEN ROLES AT 257 "W" COMPANIES
 Looking for : Software Engineer, ~2 years experience
 Priority    : Java, Dart/Flutter        Location preference : India
-Generated   : 2026-08-08 04:58:59 UTC  by test.js
+Generated   : 2026-08-08 16:45:11 UTC  by test.js
 ==============================================================================
 
-Boards read with open roles : 85
+Boards read with open roles : 87
 Boards read, currently empty: 2
-Could not read              : 170
-Total open roles seen       : 1132
+Could not read              : 168
+Total open roles seen       : 1141
 
 ##############################################################################
 # SECTION 1 — MATCHES: Software Engineer + Java/Dart/Flutter + ~2 yrs
@@ -63,13 +63,13 @@ Total open roles seen       : 1132
 
 ##############################################################################
 # SECTION 2 — INDIA: engineering, non-senior, ANY stack
-# 62 role(s). Java/Dart-Flutter still rank highest, but the brief allows
+# 64 role(s). Java/Dart-Flutter still rank highest, but the brief allows
 # any tech stack, so these are the India roles worth a look regardless.
-# 2a: states a window covering ~2 yrs, or states none (57)
+# 2a: states a window covering ~2 yrs, or states none (59)
 # 2b: states a different window — usually 3-5 yrs (5)
 ##############################################################################
 
--- 2a --------------------------------------------- fits ~2 years (57)
+-- 2a --------------------------------------------- fits ~2 years (59)
 
 >> Yudiz Solutions
     React Native Developer
@@ -91,6 +91,11 @@ Total open roles seen       : 1132
       location : n/a   [INDIA]
       exp req  : not stated    stack: Java    score: 86
       url      : https://www.yashilabs.com/career/
+>> YASH Technologies
+    Software Engineer - K2 Job
+      location : Bangalore, KA, IN   [INDIA]
+      exp req  : 5-9y / 1-3y / 3-4y    stack: —    score: 75
+      url      : https://careers.yash.com/job/Bangalore-Software-Engineer-K2-Job-KA/1364126966/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS
 >> Yudiz Solutions
     NodeJS Developer
       location : n/a   [INDIA]
@@ -203,6 +208,11 @@ Total open roles seen       : 1132
       location : n/a   [INDIA]
       exp req  : not stated    stack: —    score: 49
       url      : https://www.yashhv.com/careers
+>> Yodaplus Technologies
+    Django Developer
+      location : n/a   [INDIA]
+      exp req  : not stated    stack: —    score: 49
+      url      : https://yodaplus.com/careers.html
 >> Yantrik Technologies
     1. Design Engineer
       location : n/a   [INDIA]
@@ -425,7 +435,7 @@ Total open roles seen       : 1132
       url      : https://go-yubi.zohorecruit.in/jobs/Careers/66789000031544005/Full-Stack-Software-Engineer
 
 >> YASH Technologies  [India]
-    board    : successfactors:careers.yash.com   —  58 open roles
+    board    : successfactors:careers.yash.com   —  57 open roles
     Sr. Software Engineer - Java Job
       location : Pune, IN   [INDIA]
       exp req  : 6-8y / 5-9y / 2-6y    stack: Java    score: 78
@@ -494,6 +504,13 @@ Total open roles seen       : 1132
       exp req  : 0-1y / 1-2y    stack: —    score: 45
       url      : https://www.yellowslice.in/career
 
+>> Yodaplus Technologies  [India]
+    board    : headings:https://yodaplus.com/careers.html   —  4 open roles
+    Django Developer
+      location : n/a   [INDIA]
+      exp req  : not stated    stack: —    score: 49
+      url      : https://yodaplus.com/careers.html
+
 >> Yuken India  [India]
     board    : headings:https://www.yukenindia.com/career/   —  5 open roles
     Design Engineer requirements and qualifications
@@ -521,6 +538,13 @@ Total open roles seen       : 1132
       location : n/a   [INDIA]
       exp req  : not stated    stack: —    score: 19
       url      : https://yashaswitechnologies.in/careers/
+
+>> Yash Infosystems  [India]
+    board    : feed:https://www.yashinfosystems.com   —  6 open roles
+    Enhancing Event Experience with Temporary Internet Solutions
+      location : n/a   [INDIA]
+      exp req  : not stated    stack: —    score: 19
+      url      : https://www.yashinfosystems.com/2024/05/13/enhancing-event-experience-with-temporary-internet-solutions/
 
 >> Yashi Labs  [India]
     board    : headings:https://www.yashilabs.com/career/   —  4 open roles
@@ -1017,7 +1041,7 @@ Total open roles seen       : 1132
       url      : https://yesdevs.com/job/senior-full-stack-developer-m-f-d/
 
 ##############################################################################
-# SECTION 5 — NOT READ  (170 of 257)
+# SECTION 5 — NOT READ  (168 of 257)
 # lists-no-openings  = careers page loaded fine, published no vacancies
 # blocked-or-error    = bot wall / dead route (403, 404) — needs a browser
 # unreachable         = domain did not respond at all
@@ -1026,18 +1050,13 @@ Total open roles seen       : 1132
 
 >> Yodlee (Envestnet)  [India]  — blocked-or-error-response
     careers page : https://www.envestnet.com/careers
-    http status  : 403, 0, 403, 403, 403, 403, 403, 403, 403, 403, 403, 403
+    http status  : 403, 0, 403, 403, 403, 403, 403, 403, 403, 403, 403, 403, 0, 403, 403, 403, 403, 403, 403, 403, 403, 403, 403
     ATS tried    : greenhouse:yodlee -> no board ; lever:yodlee -> no board ; ashby:yodlee -> no board ; recruitee:yodlee -> no board
 
 >> YourStory Media  [India]  — blocked-or-error-response
     careers page : https://yourstory.com/careers
     http status  : 403, 403, 403, 403
     ATS tried    : greenhouse:yourstory -> no board ; lever:yourstory -> no board ; ashby:yourstory -> no board ; recruitee:yourstory -> no board
-
->> Yodaplus Technologies  [India]  — blocked-or-error-response
-    careers page : https://yodaplus.com/careers.html
-    http status  : 307, 0, 307, 307, 307, 307, 307, 307, 307, 307, 307
-    ATS tried    : greenhouse:yodaplus -> no board ; lever:yodaplus -> no board ; ashby:yodaplus -> no board ; recruitee:yodaplus -> no board
 
 >> Yagna iQ  [India]  — blocked-or-error-response
     careers page : undefined
@@ -1046,17 +1065,12 @@ Total open roles seen       : 1132
 
 >> Yieldstreet  [USA]  — blocked-or-error-response
     careers page : https://www.yieldstreet.com/careers/
-    http status  : 403, 0, 403, 403, 403, 403, 403, 403, 403, 403, 403, 403
+    http status  : 403, 0, 403, 403, 403, 403, 403, 403, 403, 403, 403, 403, 0, 403, 403, 403, 403, 403, 403, 403, 403, 403, 403
     ATS tried    : greenhouse:yieldstreet -> no board ; lever:yieldstreet -> no board ; ashby:yieldstreet -> no board ; recruitee:yieldstreet -> no board
-
->> Yashaswi InfoTech  [India]  — blocked-or-error-response
-    careers page : undefined
-    http status  : 0, 404, 404, 404, 404, 404, 404, 404
-    ATS tried    : greenhouse:yashaswiinfotech -> no board ; lever:yashaswiinfotech -> no board ; ashby:yashaswiinfotech -> no board ; recruitee:yashaswiinfotech -> no board
 
 >> Yash Infosolutions  [India]  — blocked-or-error-response
     careers page : undefined
-    http status  : 0, 404, 404, 404, 404, 404, 404, 404
+    http status  : 0, 404, 404, 404, 500, 404
     ATS tried    : greenhouse:yashinfosolutions -> no board ; lever:yashinfosolutions -> no board ; ashby:yashinfosolutions -> no board ; recruitee:yashinfosolutions -> no board
 
 >> Yashvi Infosys  [India]  — blocked-or-error-response
@@ -1071,7 +1085,7 @@ Total open roles seen       : 1132
 
 >> Yoddha Digital  [India]  — blocked-or-error-response
     careers page : undefined
-    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
+    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200, 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
     ATS tried    : greenhouse:yoddha -> no board ; lever:yoddha -> no board ; ashby:yoddha -> no board ; recruitee:yoddha -> no board
 
 >> Young Web Solutions  [India]  — blocked-or-error-response
@@ -1096,7 +1110,7 @@ Total open roles seen       : 1132
 
 >> Yaskawa India  [India]  — careers-page-read-but-lists-no-openings
     careers page : undefined
-    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200, 200
+    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200, 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200, 200
     ATS tried    : greenhouse:yaskawa -> no board ; lever:yaskawa -> no board ; ashby:yaskawa -> no board ; recruitee:yaskawa -> no board
 
 >> Yara India  [India]  — careers-page-read-but-lists-no-openings
@@ -1121,7 +1135,7 @@ Total open roles seen       : 1132
 
 >> Yash Pakka  [India]  — careers-page-read-but-lists-no-openings
     careers page : https://yashpakka.com/careers/
-    http status  : 404, 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200, 200, skipped-off-domain
+    http status  : 404, 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200, 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200, 200, skipped-off-domain
     ATS tried    : greenhouse:yash -> no board ; lever:yash -> no board ; ashby:yash -> no board ; recruitee:yash -> no board
 
 >> Yahoo  [USA]  — careers-page-read-but-lists-no-openings
@@ -1136,17 +1150,17 @@ Total open roles seen       : 1132
 
 >> Yotascale  [USA]  — careers-page-read-but-lists-no-openings
     careers page : undefined
-    http status  : 0, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200
+    http status  : 0, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 404
     ATS tried    : greenhouse:yotascale -> no board ; lever:yotascale -> no board ; ashby:yotascale -> no board ; recruitee:yotascale -> no board
 
 >> Yum China  [China]  — careers-page-read-but-lists-no-openings
     careers page : https://www.yumchina.com/en/careers
-    http status  : 200, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+    http status  : 200, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200
     ATS tried    : greenhouse:yumchina -> no board ; lever:yumchina -> no board ; ashby:yumchina -> no board ; recruitee:yumchina -> no board
 
 >> Yokogawa Electric  [Japan]  — careers-page-read-but-lists-no-openings
     careers page : https://www.yokogawa.com/careers/
-    http status  : 202, 0, 202, 202, 202, 202, 202, 202, 202, 202, 202, 202
+    http status  : 202, 0, 202, 202, 202, 202, 202, 202, 202, 202, 202, 202, 0, 202, 202, 202, 202, 202, 202, 202, 202, 202, 202
     ATS tried    : greenhouse:yokogawa -> no board ; lever:yokogawa -> no board ; ashby:yokogawa -> no board ; recruitee:yokogawa -> no board
 
 >> Yamaha Motor  [Japan]  — careers-page-read-but-lists-no-openings
@@ -1191,17 +1205,17 @@ Total open roles seen       : 1132
 
 >> Yandex  [Global]  — careers-page-read-but-lists-no-openings
     careers page : https://yandex.com/jobs/
-    http status  : 200, 404, 404, 404, 200
+    http status  : 200, 404, 404, 404, 200, 404, 404, 404, 404
     ATS tried    : greenhouse:yandex -> no board ; lever:yandex -> no board ; ashby:yandex -> no board ; recruitee:yandex -> no board
 
 >> Yellow Pages Canada  [Canada]  — careers-page-read-but-lists-no-openings
     careers page : https://corporate.yp.ca/yellow-pages-careers
-    http status  : 200, 504, 504, 404
+    http status  : 200, 200, 404
     ATS tried    : greenhouse:yellowpagescanada -> no board ; lever:yellowpagescanada -> no board ; ashby:yellowpagescanada -> no board ; recruitee:yellowpagescanada -> no board
 
 >> Yuhu  [Canada]  — careers-page-read-but-lists-no-openings
     careers page : https://yuhu.io/careers/
-    http status  : 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200
+    http status  : 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 0, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200
     ATS tried    : greenhouse:yuhu -> no board ; lever:yuhu -> no board ; ashby:yuhu -> no board ; recruitee:yuhu -> no board
 
 >> Ynvisible Interactive  [Portugal]  — careers-page-read-but-lists-no-openings
@@ -1216,7 +1230,7 @@ Total open roles seen       : 1132
 
 >> Yamuna Technologies  [India]  — careers-page-read-but-lists-no-openings
     careers page : undefined
-    http status  : 0, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200
+    http status  : 0, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 0, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200
     ATS tried    : greenhouse:yamuna -> no board ; lever:yamuna -> no board ; ashby:yamuna -> no board ; recruitee:yamuna -> no board
 
 >> YantraLab  [India]  — careers-page-read-but-lists-no-openings
@@ -1229,11 +1243,6 @@ Total open roles seen       : 1132
     http status  : 200, 0, 404, 200, 404, 404, 404, 404, 404, 404, 404, 200
     ATS tried    : greenhouse:yantrainnovations -> no board ; lever:yantrainnovations -> no board ; ashby:yantrainnovations -> no board ; recruitee:yantrainnovations -> no board
 
->> Yash Infosystems  [India]  — careers-page-read-but-lists-no-openings
-    careers page : undefined
-    http status  : 0, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200
-    ATS tried    : greenhouse:yashinfosystems -> no board ; lever:yashinfosystems -> no board ; ashby:yashinfosystems -> no board ; recruitee:yashinfosystems -> no board
-
 >> Yash Infotech Pvt Ltd  [India]  — careers-page-read-but-lists-no-openings
     careers page : https://yashinfotech.co.in/career/
     http status  : 200, 0, 404, 200, 404, 404, 404, 404
@@ -1241,17 +1250,17 @@ Total open roles seen       : 1132
 
 >> Yatra Softech  [India]  — careers-page-read-but-lists-no-openings
     careers page : undefined
-    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200, 200
+    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200, 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200, 200
     ATS tried    : greenhouse:yatrasoftech -> no board ; lever:yatrasoftech -> no board ; ashby:yatrasoftech -> no board ; recruitee:yatrasoftech -> no board
 
 >> YBYTE Technologies  [India]  — careers-page-read-but-lists-no-openings
     careers page : https://ybytetechnologies.com/careers
-    http status  : 200, 0, 404, 404, 404, 404, 200, 404, 404, 404, 200
+    http status  : 200, 0, 404, 404, 404, 404, 200, 404, 404, 404, 200, 0, 200, 404, 404, 404, 404, 200, 404, 404, 404, 200
     ATS tried    : greenhouse:ybyte -> no board ; lever:ybyte -> no board ; ashby:ybyte -> no board ; recruitee:ybyte -> no board
 
 >> Yethi Consulting  [India]  — careers-page-read-but-lists-no-openings
     careers page : https://yethi.in/careers/
-    http status  : 200, 0, 200, 404, 404, 404, 404, 404, 404, 404, 404, 200
+    http status  : 200, 0, 200, 404, 404, 404, 404, 404, 404, 404, 404, 200, 0, 200, 404, 404, 404, 404, 404, 404, 404, 404, 200
     ATS tried    : greenhouse:yethiconsulting -> no board ; lever:yethiconsulting -> no board ; ashby:yethiconsulting -> no board ; recruitee:yethiconsulting -> no board
 
 >> YM Global Technologies  [India]  — careers-page-read-but-lists-no-openings
@@ -1286,12 +1295,12 @@ Total open roles seen       : 1132
 
 >> YourSoft  [India]  — careers-page-read-but-lists-no-openings
     careers page : undefined
-    http status  : 0, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200
+    http status  : 0, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 0, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200
     ATS tried    : greenhouse:yoursoft -> no board ; lever:yoursoft -> no board ; ashby:yoursoft -> no board ; recruitee:yoursoft -> no board
 
 >> YSoft Solution  [India]  — careers-page-read-but-lists-no-openings
     careers page : https://ysoftsolution.com/careers/
-    http status  : 200, 0, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200
+    http status  : 200, 0, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 0, 200
     ATS tried    : greenhouse:ysoftsolution -> no board ; lever:ysoftsolution -> no board ; ashby:ysoftsolution -> no board ; recruitee:ysoftsolution -> no board
 
 >> Yugam Group  [India]  — careers-page-read-but-lists-no-openings
@@ -1311,7 +1320,7 @@ Total open roles seen       : 1132
 
 >> YugAntar Technologies  [India]  — careers-page-read-but-lists-no-openings
     careers page : undefined
-    http status  : 0, 200, 200, 200, 200, 200, 404, 200, 200, 200, 200
+    http status  : 0, 200, 200, 200, 200, 200, 404, 200, 200, 200, 200, 0, 200, 200, 200, 200, 200, 404, 200, 200, 200, 200
     ATS tried    : greenhouse:yugantar -> no board ; lever:yugantar -> no board ; ashby:yugantar -> no board ; recruitee:yugantar -> no board
 
 >> Yukta Software Solutions  [India]  — careers-page-read-but-lists-no-openings
@@ -1321,12 +1330,12 @@ Total open roles seen       : 1132
 
 >> Yukti Solutions  [India]  — careers-page-read-but-lists-no-openings
     careers page : undefined
-    http status  : 200, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200, 500
+    http status  : 200, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200, 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200, 500
     ATS tried    : greenhouse:yukti -> no board ; lever:yukti -> no board ; ashby:yukti -> no board ; recruitee:yukti -> no board
 
 >> Yukthi Labs  [India]  — careers-page-read-but-lists-no-openings
     careers page : undefined
-    http status  : 0, 200, 200, 200, 200, 200, 404, 200, 200, 200, 200
+    http status  : 0, 200, 200, 200, 200, 200, 404, 200, 200, 200, 200, 0, 200, 200, 200, 200, 200, 404, 200, 200, 200, 200
     ATS tried    : greenhouse:yukthi -> no board ; lever:yukthi -> no board ; ashby:yukthi -> no board ; recruitee:yukthi -> no board
 
 >> Yukthi Software  [India]  — careers-page-read-but-lists-no-openings
@@ -1341,7 +1350,7 @@ Total open roles seen       : 1132
 
 >> YuSa Infotech  [India]  — careers-page-read-but-lists-no-openings
     careers page : https://yusainfotech.com/careers/
-    http status  : 200, 0, 200, 200, 404, 404, 404, 404, 200, 200, 404, 200
+    http status  : 200, 0, 200, 200, 404
     ATS tried    : greenhouse:yusainfotech -> no board ; lever:yusainfotech -> no board ; ashby:yusainfotech -> no board ; recruitee:yusainfotech -> no board
 
 >> Yappes  [India]  — careers-page-read-but-lists-no-openings
@@ -1351,7 +1360,7 @@ Total open roles seen       : 1132
 
 >> Yamaha Motor India  [India]  — careers-page-read-but-lists-no-openings
     careers page : https://www.yamaha-motor-india.com/career-home.html
-    http status  : 200, 0, 404, 200, 404, 404, 404, 404, 404, 404, 404, 200, 200, 200, 200, 200, 200
+    http status  : 200, 0, 404, 200, 404, 404, 404, 404, 404, 404, 404, 200, 0, 404, 200, 404, 404, 404, 404, 404, 404, 404, 200, 200, 200, 200, 200, 200
     ATS tried    : greenhouse:yamaha -> no board ; lever:yamaha -> no board ; ashby:yamaha -> no board ; recruitee:yamaha -> no board
 
 >> YKK India  [India]  — careers-page-read-but-lists-no-openings
@@ -1361,12 +1370,12 @@ Total open roles seen       : 1132
 
 >> Yanmar India  [India]  — careers-page-read-but-lists-no-openings
     careers page : undefined
-    http status  : 0, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200
+    http status  : 0, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 0, 522, 522, 522, 522, 522, 522, 522, 522, 522, 522
     ATS tried    : greenhouse:yanmar -> no board ; lever:yanmar -> no board ; ashby:yanmar -> no board ; recruitee:yanmar -> no board
 
 >> Yokohama Off-Highway Tires  [India]  — careers-page-read-but-lists-no-openings
     careers page : https://www.yokohama-atg.com/en-in/careers
-    http status  : 200, 0, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200
+    http status  : 200, 0, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 0, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200
     ATS tried    : greenhouse:yokohamaoffhighwaytires -> no board ; lever:yokohamaoffhighwaytires -> no board ; ashby:yokohamaoffhighwaytires -> no board ; recruitee:yokohamaoffhighwaytires -> no board
 
 >> Yseop  [France]  — careers-page-read-but-lists-no-openings
@@ -1376,12 +1385,12 @@ Total open roles seen       : 1132
 
 >> YY Inc  [China]  — careers-page-read-but-lists-no-openings
     careers page : undefined
-    http status  : 200, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433
+    http status  : 200, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 0, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433
 
->> Yonyou  [China]  — careers-page-read-but-lists-no-openings
+>> Yidu Tech  [China]  — careers-page-read-but-lists-no-openings
     careers page : undefined
-    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200, 200
-    ATS tried    : greenhouse:yonyou -> no board ; lever:yonyou -> no board ; ashby:yonyou -> no board ; recruitee:yonyou -> no board
+    http status  : 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 404, 404, 404, 404, 404, 404, 404, 200, 404, 200
+    ATS tried    : greenhouse:yidutech -> no board ; lever:yidutech -> no board ; ashby:yidutech -> no board ; recruitee:yidutech -> no board
 
 >> Yapily  [UK]  — careers-page-read-but-lists-no-openings
     careers page : https://www.yapily.com/company/careers
@@ -1398,6 +1407,11 @@ Total open roles seen       : 1132
     http status  : 0, 200, 200, 200, 200, 200, 200, 200
     ATS tried    : greenhouse:ycode -> no board ; lever:ycode -> no board ; ashby:ycode -> no board ; recruitee:ycode -> no board
 
+>> Yusen Logistics  [Japan]  — careers-page-read-but-lists-no-openings
+    careers page : undefined
+    http status  : 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 202, 202, 202, 202, 202, 202, 202, 202, 202, 202
+    ATS tried    : greenhouse:yusenlogistics -> no board ; lever:yusenlogistics -> no board ; ashby:yusenlogistics -> no board ; recruitee:yusenlogistics -> no board
+
 >> Yash Global  [India]  — careers-page-read-but-lists-no-openings
     careers page : undefined
     http status  : 0, 404, 200, 404, 404, 404
@@ -1410,62 +1424,52 @@ Total open roles seen       : 1132
 
 >> YellowSense  [India]  — careers-page-unreachable
     careers page : undefined
-    http status  : 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+    http status  : 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
     ATS tried    : greenhouse:yellowsense -> no board ; lever:yellowsense -> no board ; ashby:yellowsense -> no board ; recruitee:yellowsense -> no board
 
 >> Yitro Global  [India]  — careers-page-unreachable
     careers page : https://yitro.com/careers/
-    http status  : 200, 0, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200
+    http status  : 200, 0, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 0, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200
     ATS tried    : greenhouse:yitroglobal -> no board ; lever:yitroglobal -> no board ; ashby:yitroglobal -> no board ; recruitee:yitroglobal -> no board
 
 >> YottaLab India  [India]  — careers-page-unreachable
     careers page : undefined
-    http status  : 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+    http status  : 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
     ATS tried    : greenhouse:yottalab -> no board ; lever:yottalab -> no board ; ashby:yottalab -> no board ; recruitee:yottalab -> no board
 
 >> YOU Broadband  [India]  — careers-page-unreachable
     careers page : https://youbroadband.co.in/career.php
-    http status  : 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+    http status  : 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
     ATS tried    : greenhouse:youbroadband -> no board ; lever:youbroadband -> no board ; ashby:youbroadband -> no board ; recruitee:youbroadband -> no board
 
 >> YuktaMedia  [India]  — careers-page-unreachable
     careers page : undefined
-    http status  : 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+    http status  : 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
     ATS tried    : greenhouse:yuktamedia -> no board ; lever:yuktamedia -> no board ; ashby:yuktamedia -> no board ; recruitee:yuktamedia -> no board
 
 >> Yuvaan Tech  [India]  — careers-page-unreachable
     careers page : undefined
-    http status  : 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+    http status  : 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
     ATS tried    : greenhouse:yuvaantech -> no board ; lever:yuvaantech -> no board ; ashby:yuvaantech -> no board ; recruitee:yuvaantech -> no board
-
->> Yidu Tech  [China]  — careers-page-unreachable
-    careers page : undefined
-    http status  : 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
-    ATS tried    : greenhouse:yidutech -> no board ; lever:yidutech -> no board ; ashby:yidutech -> no board ; recruitee:yidutech -> no board
 
 >> Youdao  [China]  — careers-page-unreachable
     careers page : undefined
-    http status  : 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+    http status  : 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
     ATS tried    : greenhouse:youdao -> no board ; lever:youdao -> no board ; ashby:youdao -> no board ; recruitee:youdao -> no board
 
 >> Yonder  [Romania]  — careers-page-unreachable
     careers page : undefined
-    http status  : 0, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200
+    http status  : 0, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 0, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200
     ATS tried    : greenhouse:yonder -> no board ; lever:yonder -> no board ; ashby:yonder -> no board ; recruitee:yonder -> no board
-
->> Yusen Logistics  [Japan]  — careers-page-unreachable
-    careers page : undefined
-    http status  : 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
-    ATS tried    : greenhouse:yusenlogistics -> no board ; lever:yusenlogistics -> no board ; ashby:yusenlogistics -> no board ; recruitee:yusenlogistics -> no board
 
 >> Yatra Online  [India]  — no-job-data-found
     careers page : https://www.yatra.com/corporate/careers
-    http status  : 404, 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
+    http status  : 404, 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200, 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
     ATS tried    : greenhouse:yatra -> no board ; lever:yatra -> no board ; ashby:yatra -> no board ; recruitee:yatra -> no board
 
 >> YES Bank  [India]  — no-job-data-found
     careers page : undefined
-    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
+    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200, 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
     ATS tried    : greenhouse:yesbank -> no board ; lever:yesbank -> no board ; ashby:yesbank -> no board ; recruitee:yesbank -> no board
 
 >> Yugasa Software Labs  [India]  — no-job-data-found
@@ -1475,97 +1479,102 @@ Total open roles seen       : 1132
 
 >> Yalamanchili Software Exports  [India]  — no-job-data-found
     careers page : https://www.ysppayments.com/
-    http status  : 200, 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
+    http status  : 200, 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200, 0, 404, 404, 404, 404, 404, 404, 404, 404, 404
     ATS tried    : greenhouse:yalamanchiliexports -> no board ; lever:yalamanchiliexports -> no board ; ashby:yalamanchiliexports -> no board ; recruitee:yalamanchiliexports -> no board
 
 >> YOLO Bus  [India]  — no-job-data-found
     careers page : undefined
-    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
+    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200, 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
     ATS tried    : greenhouse:yolo -> no board ; lever:yolo -> no board ; ashby:yolo -> no board ; recruitee:yolo -> no board
 
 >> Yes Madam  [India]  — no-job-data-found
     careers page : https://www.yesmadam.com/careers
-    http status  : 200, 0, 200, 200, 200, 200, 200, 404, 200, 200, 200, 200
+    http status  : 200, 0, 200, 200, 200, 200, 200, 404, 200, 200, 200, 200, 0, 200, 200, 200, 200, 404, 200, 200, 200, 200
     ATS tried    : greenhouse:yesmadam -> no board ; lever:yesmadam -> no board ; ashby:yesmadam -> no board ; recruitee:yesmadam -> no board
 
 >> YNOS Venture Engine  [India]  — no-job-data-found
     careers page : undefined
-    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
+    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200, 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
     ATS tried    : greenhouse:ynos -> no board ; lever:ynos -> no board ; ashby:ynos -> no board ; recruitee:ynos -> no board
 
 >> Yaap Digital  [India]  — no-job-data-found
     careers page : undefined
-    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
+    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200, 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
     ATS tried    : greenhouse:yaap -> no board ; lever:yaap -> no board ; ashby:yaap -> no board ; recruitee:yaap -> no board
 
 >> Yolo Group  [Estonia]  — no-job-data-found
     careers page : https://yolo.com/careers/
-    http status  : 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200
+    http status  : 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 0, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200
     ATS tried    : greenhouse:yolo -> no board ; lever:yolo -> no board ; ashby:yolo -> no board ; recruitee:yolo -> no board
 
 >> Yordex  [UK]  — no-job-data-found
     careers page : undefined
-    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
+    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200, 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
     ATS tried    : greenhouse:yordex -> no board ; lever:yordex -> no board ; ashby:yordex -> no board ; recruitee:yordex -> no board
 
 >> Yourgene Health  [UK]  — no-job-data-found
     careers page : https://yourgene-health.com/careers
-    http status  : 200, 0, 200, 200, 200, 200, 200, 200, 200, 200, 200, skipped-off-domain
+    http status  : 200, 0, 200, 200, 200, 200, 200, 200, 200, 200, 200, 0, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, skipped-off-domain
     ATS tried    : greenhouse:yourgene -> no board ; lever:yourgene -> no board ; ashby:yourgene -> no board ; recruitee:yourgene -> no board
 
 >> Yalla Group  [UAE]  — no-job-data-found
     careers page : undefined
-    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
+    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200, 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
     ATS tried    : greenhouse:yalla -> no board ; lever:yalla -> no board ; ashby:yalla -> no board ; recruitee:yalla -> no board
 
 >> Yaali Bizappln Solutions  [India]  — no-job-data-found
     careers page : undefined
-    http status  : 0, 404, 404, 404, 404, 404, 400, 404, 404, 404, 200
+    http status  : 0, 404, 404, 404, 404, 404, 400, 404, 404, 404, 200, 0, 404, 404, 404, 404, 404, 400, 404, 404, 404, 200
     ATS tried    : greenhouse:yaalibizappln -> no board ; lever:yaalibizappln -> no board ; ashby:yaalibizappln -> no board ; recruitee:yaalibizappln -> no board
 
 >> Yagna Technologies  [India]  — no-job-data-found
     careers page : undefined
-    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
+    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200, 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
     ATS tried    : greenhouse:yagna -> no board ; lever:yagna -> no board ; ashby:yagna -> no board ; recruitee:yagna -> no board
 
 >> Yantrasoft  [India]  — no-job-data-found
     careers page : undefined
-    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
+    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200, 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
     ATS tried    : greenhouse:yantrasoft -> no board ; lever:yantrasoft -> no board ; ashby:yantrasoft -> no board ; recruitee:yantrasoft -> no board
 
 >> Yantra Technologies  [India]  — no-job-data-found
     careers page : undefined
-    http status  : 0, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200
+    http status  : 0, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 0, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200
     ATS tried    : greenhouse:yantra -> no board ; lever:yantra -> no board ; ashby:yantra -> no board ; recruitee:yantra -> no board
 
 >> Yash Apps and Software Services  [India]  — no-job-data-found
     careers page : undefined
-    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
+    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200, 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
     ATS tried    : greenhouse:yashappsand -> no board ; lever:yashappsand -> no board ; ashby:yashappsand -> no board ; recruitee:yashappsand -> no board
+
+>> Yashaswi InfoTech  [India]  — no-job-data-found
+    careers page : undefined
+    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
+    ATS tried    : greenhouse:yashaswiinfotech -> no board ; lever:yashaswiinfotech -> no board ; ashby:yashaswiinfotech -> no board ; recruitee:yashaswiinfotech -> no board
 
 >> Yash CompuTech  [India]  — no-job-data-found
     careers page : undefined
-    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
+    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200, 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
     ATS tried    : greenhouse:yashcomputech -> no board ; lever:yashcomputech -> no board ; ashby:yashcomputech -> no board ; recruitee:yashcomputech -> no board
 
 >> Yashi Consulting  [India]  — no-job-data-found
     careers page : undefined
-    http status  : 0, 404, 0, 404, 404, 404, 0, 404, 404, 404, 200
+    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200, 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
     ATS tried    : greenhouse:yashiconsulting -> no board ; lever:yashiconsulting -> no board ; ashby:yashiconsulting -> no board ; recruitee:yashiconsulting -> no board
 
 >> Yashi Technologies  [India]  — no-job-data-found
     careers page : undefined
-    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
+    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200, 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
     ATS tried    : greenhouse:yashi -> no board ; lever:yashi -> no board ; ashby:yashi -> no board ; recruitee:yashi -> no board
 
 >> Yash Infotech  [India]  — no-job-data-found
     careers page : undefined
-    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
+    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200, 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
     ATS tried    : greenhouse:yashinfotech -> no board ; lever:yashinfotech -> no board ; ashby:yashinfotech -> no board ; recruitee:yashinfotech -> no board
 
 >> Yashvi Global  [India]  — no-job-data-found
     careers page : undefined
-    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
+    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200, 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
     ATS tried    : greenhouse:yashviglobal -> no board ; lever:yashviglobal -> no board ; ashby:yashviglobal -> no board ; recruitee:yashviglobal -> no board
 
 >> Yatra Labs  [India]  — no-job-data-found
@@ -1575,7 +1584,7 @@ Total open roles seen       : 1132
 
 >> Yathartha Technologies  [India]  — no-job-data-found
     careers page : undefined
-    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
+    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200, 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
     ATS tried    : greenhouse:yathartha -> no board ; lever:yathartha -> no board ; ashby:yathartha -> no board ; recruitee:yathartha -> no board
 
 >> Yashraj Tech  [India]  — no-job-data-found
@@ -1585,27 +1594,27 @@ Total open roles seen       : 1132
 
 >> Yahvi Technologies  [India]  — no-job-data-found
     careers page : undefined
-    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
+    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200, 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
     ATS tried    : greenhouse:yahvi -> no board ; lever:yahvi -> no board ; ashby:yahvi -> no board ; recruitee:yahvi -> no board
 
 >> Ycore Technologies  [India]  — no-job-data-found
     careers page : undefined
-    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
+    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200, 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
     ATS tried    : greenhouse:ycore -> no board ; lever:ycore -> no board ; ashby:ycore -> no board ; recruitee:ycore -> no board
 
 >> YellowBee AI  [India]  — no-job-data-found
     careers page : undefined
-    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
+    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200, 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
     ATS tried    : greenhouse:yellowbeeai -> no board ; lever:yellowbeeai -> no board ; ashby:yellowbeeai -> no board ; recruitee:yellowbeeai -> no board
 
 >> Yellowspot  [India]  — no-job-data-found
     careers page : undefined
-    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
+    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200, 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
     ATS tried    : greenhouse:yellowspot -> no board ; lever:yellowspot -> no board ; ashby:yellowspot -> no board ; recruitee:yellowspot -> no board
 
 >> YellowSphere  [India]  — no-job-data-found
     careers page : undefined
-    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
+    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200, 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
     ATS tried    : greenhouse:yellowsphere -> no board ; lever:yellowsphere -> no board ; ashby:yellowsphere -> no board ; recruitee:yellowsphere -> no board
 
 >> Yellow Pixel Studio  [India]  — no-job-data-found
@@ -1615,72 +1624,77 @@ Total open roles seen       : 1132
 
 >> Yellowtail Solutions  [India]  — no-job-data-found
     careers page : undefined
-    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
+    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200, 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
     ATS tried    : greenhouse:yellowtail -> no board ; lever:yellowtail -> no board ; ashby:yellowtail -> no board ; recruitee:yellowtail -> REJECTED (board is "?", not Yellowtail Solutions)
 
 >> Yesha Software  [India]  — no-job-data-found
     careers page : undefined
-    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
+    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200, 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
     ATS tried    : greenhouse:yesha -> no board ; lever:yesha -> no board ; ashby:yesha -> no board ; recruitee:yesha -> no board
 
 >> YES Softech  [India]  — no-job-data-found
     careers page : undefined
-    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
+    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200, 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
     ATS tried    : greenhouse:yessoftech -> no board ; lever:yessoftech -> no board ; ashby:yessoftech -> no board ; recruitee:yessoftech -> no board
+
+>> Yez Studio  [India]  — no-job-data-found
+    careers page : undefined
+    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200, 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
+    ATS tried    : greenhouse:yezstudio -> no board ; lever:yezstudio -> no board ; ashby:yezstudio -> no board ; recruitee:yezstudio -> no board
 
 >> Yenmo  [India]  — no-job-data-found
     careers page : undefined
-    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
+    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200, 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
     ATS tried    : greenhouse:yenmo -> no board ; lever:yenmo -> no board ; ashby:yenmo -> no board ; recruitee:yenmo -> no board
 
 >> Yin Solutions  [India]  — no-job-data-found
     careers page : undefined
-    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
+    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200, 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
     ATS tried    : greenhouse:yinsolutions -> no board ; lever:yinsolutions -> no board ; ashby:yinsolutions -> no board ; recruitee:yinsolutions -> no board
 
 >> Yobitech  [India]  — no-job-data-found
     careers page : undefined
-    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
+    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200, 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
     ATS tried    : greenhouse:yobitech -> no board ; lever:yobitech -> no board ; ashby:yobitech -> no board ; recruitee:yobitech -> no board
 
 >> YOCO Labs  [India]  — no-job-data-found
     careers page : undefined
-    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
+    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200, 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
     ATS tried    : greenhouse:yoco -> no board ; lever:yoco -> no board ; ashby:yoco -> no board ; recruitee:yoco -> no board
 
 >> Yoddha Labs  [India]  — no-job-data-found
     careers page : undefined
-    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
+    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200, 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
     ATS tried    : greenhouse:yoddha -> no board ; lever:yoddha -> no board ; ashby:yoddha -> no board ; recruitee:yoddha -> no board
 
 >> Yodha AI  [India]  — no-job-data-found
     careers page : undefined
-    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
+    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200, 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
     ATS tried    : greenhouse:yodhaai -> no board ; lever:yodhaai -> no board ; ashby:yodhaai -> no board ; recruitee:yodhaai -> no board
 
 >> Yogi Innovations  [India]  — no-job-data-found
     careers page : undefined
-    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
+    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200, 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
     ATS tried    : greenhouse:yogiinnovations -> no board ; lever:yogiinnovations -> no board ; ashby:yogiinnovations -> no board ; recruitee:yogiinnovations -> no board
 
 >> Yogik Solutions  [India]  — no-job-data-found
     careers page : undefined
-    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
+    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200, 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
     ATS tried    : greenhouse:yogik -> no board ; lever:yogik -> no board ; ashby:yogik -> no board ; recruitee:yogik -> no board
 
 >> Yogi Solutions  [India]  — no-job-data-found
     careers page : undefined
-    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
+    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200, 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
     ATS tried    : greenhouse:yogi -> no board ; lever:yogi -> no board ; ashby:yogi -> no board ; recruitee:yogi -> no board
 
 >> Yoop Tech  [India]  — no-job-data-found
     careers page : undefined
-    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
+    http status  : 0, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 0, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200
     ATS tried    : greenhouse:yooptech -> no board ; lever:yooptech -> no board ; ashby:yooptech -> no board ; recruitee:yooptech -> no board
 
 >> Yoro Technologies  [India]  — no-job-data-found
     careers page : undefined
-    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
+    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200, 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
     ATS tried    : greenhouse:yoro -> no board ; lever:yoro -> no board ; ashby:yoro -> no board ; recruitee:yoro -> no board
 
 >> YOTECH Code Craft  [India]  — no-job-data-found
@@ -1690,7 +1704,7 @@ Total open roles seen       : 1132
 
 >> YourWayIT  [India]  — no-job-data-found
     careers page : undefined
-    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
+    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200, 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
     ATS tried    : greenhouse:yourwayit -> no board ; lever:yourwayit -> no board ; ashby:yourwayit -> no board ; recruitee:yourwayit -> no board
 
 >> YouTech IT Solutions  [India]  — no-job-data-found
@@ -1705,32 +1719,32 @@ Total open roles seen       : 1132
 
 >> Y-Tech Innovations  [India]  — no-job-data-found
     careers page : undefined
-    http status  : 0, 500, 500, 500, 500, 500, 500, 500, 500, 500, 200, 500
+    http status  : 0, 500, 500, 500, 500, 500, 500, 500, 500, 500, 200, 0, 500, 500, 500, 500, 500, 500, 500, 500, 500, 200, 500
     ATS tried    : greenhouse:ytechinnovations -> no board ; lever:ytechinnovations -> no board ; ashby:ytechinnovations -> no board ; recruitee:ytechinnovations -> no board
 
 >> YUDI Infotech  [India]  — no-job-data-found
     careers page : undefined
-    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
+    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200, 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
     ATS tried    : greenhouse:yudiinfotech -> no board ; lever:yudiinfotech -> no board ; ashby:yudiinfotech -> no board ; recruitee:yudiinfotech -> no board
 
 >> Yuga Infotech  [India]  — no-job-data-found
     careers page : undefined
-    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
+    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200, 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
     ATS tried    : greenhouse:yugainfotech -> no board ; lever:yugainfotech -> no board ; ashby:yugainfotech -> no board ; recruitee:yugainfotech -> no board
 
 >> Yugensys  [India]  — no-job-data-found
     careers page : undefined
-    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
+    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200, 0, 200, 200, 200, 200, 200, 404, 200, 200, 200, 200
     ATS tried    : greenhouse:yugensys -> no board ; lever:yugensys -> no board ; ashby:yugensys -> no board ; recruitee:yugensys -> no board
 
 >> Yug Technologies  [India]  — no-job-data-found
     careers page : https://yugtechnologies.com/career.php
-    http status  : 409, 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
+    http status  : 409, 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200, 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
     ATS tried    : greenhouse:yugtechnologies -> no board ; lever:yugtechnologies -> no board ; ashby:yugtechnologies -> no board ; recruitee:yugtechnologies -> no board
 
 >> Yuki Software Solutions  [India]  — no-job-data-found
     careers page : undefined
-    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
+    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200, 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
     ATS tried    : greenhouse:yuki -> no board ; lever:yuki -> no board ; ashby:yuki -> no board ; recruitee:yuki -> no board
 
 >> Yukti Intelligent Systems  [India]  — no-job-data-found
@@ -1740,57 +1754,57 @@ Total open roles seen       : 1132
 
 >> YuktiTechnology  [India]  — no-job-data-found
     careers page : undefined
-    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
+    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200, 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
     ATS tried    : greenhouse:yuktitechnology -> no board ; lever:yuktitechnology -> no board ; ashby:yuktitechnology -> no board ; recruitee:yuktitechnology -> no board
 
 >> Yukti Tech Solutions  [India]  — no-job-data-found
     careers page : undefined
-    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
+    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200, 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
     ATS tried    : greenhouse:yuktitech -> no board ; lever:yuktitech -> no board ; ashby:yuktitech -> no board ; recruitee:yuktitech -> no board
 
 >> YunaCloud  [India]  — no-job-data-found
     careers page : undefined
-    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
+    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200, 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
     ATS tried    : greenhouse:yunacloud -> no board ; lever:yunacloud -> no board ; ashby:yunacloud -> no board ; recruitee:yunacloud -> no board
 
 >> Yuppie Infotech  [India]  — no-job-data-found
     careers page : undefined
-    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
+    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200, 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
     ATS tried    : greenhouse:yuppieinfotech -> no board ; lever:yuppieinfotech -> no board ; ashby:yuppieinfotech -> no board ; recruitee:yuppieinfotech -> no board
 
 >> YuvApps  [India]  — no-job-data-found
     careers page : undefined
-    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200, 404
+    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 404
     ATS tried    : greenhouse:yuvapps -> no board ; lever:yuvapps -> no board ; ashby:yuvapps -> no board ; recruitee:yuvapps -> no board
 
 >> Yuvasoft Technologies  [India]  — no-job-data-found
     careers page : undefined
-    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
+    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200, 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
     ATS tried    : greenhouse:yuvasoft -> no board ; lever:yuvasoft -> no board ; ashby:yuvasoft -> no board ; recruitee:yuvasoft -> no board
 
 >> Yuva Software  [India]  — no-job-data-found
     careers page : undefined
-    http status  : 0, 404, 404, 404, 404, 404, 400, 404, 404, 404, 200
+    http status  : 0, 404, 404, 404, 404, 404, 400, 404, 404, 404, 200, 0, 404, 404, 404, 404, 404, 400, 404, 404, 404, 200
     ATS tried    : greenhouse:yuva -> no board ; lever:yuva -> no board ; ashby:yuva -> no board ; recruitee:yuva -> no board
 
 >> YuvaTech Labs  [India]  — no-job-data-found
     careers page : undefined
-    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
+    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200, 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
     ATS tried    : greenhouse:yuvatech -> no board ; lever:yuvatech -> no board ; ashby:yuvatech -> no board ; recruitee:yuvatech -> no board
 
 >> Yuvatech Solutions  [India]  — no-job-data-found
     careers page : undefined
-    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
+    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200, 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
     ATS tried    : greenhouse:yuvatech -> no board ; lever:yuvatech -> no board ; ashby:yuvatech -> no board ; recruitee:yuvatech -> no board
 
 >> Yadu Tech Solutions  [India]  — no-job-data-found
     careers page : undefined
-    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200, 200
+    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200, 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200, 200
     ATS tried    : greenhouse:yadutech -> no board ; lever:yadutech -> no board ; ashby:yadutech -> no board ; recruitee:yadutech -> no board
 
 >> Yaantra  [India]  — no-job-data-found
     careers page : undefined
-    http status  : 0, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200
+    http status  : 0, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 0, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200
     ATS tried    : greenhouse:yaantra -> no board ; lever:yaantra -> no board ; ashby:yaantra -> no board ; recruitee:yaantra -> no board
 
 >> Yanolja  [South Korea]  — no-job-data-found
@@ -1800,47 +1814,47 @@ Total open roles seen       : 1132
 
 >> Yeahka  [China]  — no-job-data-found
     careers page : undefined
-    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
+    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200, 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
     ATS tried    : greenhouse:yeahka -> no board ; lever:yeahka -> no board ; ashby:yeahka -> no board ; recruitee:yeahka -> no board
 
 >> Yusys Technologies  [China]  — no-job-data-found
     careers page : undefined
-    http status  : 0, 404, 404, 404, 404, 404, 500, 404, 404, 404, 200
+    http status  : 0, 404, 404, 404, 404, 404, 500, 404, 404, 404, 200, 0, 404, 404, 404, 404, 404, 500, 404, 404, 404, 200
     ATS tried    : greenhouse:yusys -> no board ; lever:yusys -> no board ; ashby:yusys -> no board ; recruitee:yusys -> no board
+
+>> Yonyou  [China]  — no-job-data-found
+    careers page : undefined
+    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200, 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
+    ATS tried    : greenhouse:yonyou -> no board ; lever:yonyou -> no board ; ashby:yonyou -> no board ; recruitee:yonyou -> no board
 
 >> Yoello  [UK]  — no-job-data-found
     careers page : undefined
-    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200, 200
+    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200, 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
     ATS tried    : greenhouse:yoello -> no board ; lever:yoello -> no board ; ashby:yoello -> no board ; recruitee:yoello -> no board
-
->> Yeeply  [Spain]  — no-job-data-found
-    careers page : undefined
-    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
-    ATS tried    : greenhouse:yeeply -> no board ; lever:yeeply -> no board ; ashby:yeeply -> no board ; recruitee:yeeply -> no board
 
 >> Yumasoft  [India]  — no-job-data-found
     careers page : undefined
-    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
+    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200, 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
     ATS tried    : greenhouse:yumasoft -> no board ; lever:yumasoft -> no board ; ashby:yumasoft -> no board ; recruitee:yumasoft -> no board
 
 >> Yagna Labs  [India]  — no-job-data-found
     careers page : undefined
-    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
+    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200, 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
     ATS tried    : greenhouse:yagna -> no board ; lever:yagna -> no board ; ashby:yagna -> no board ; recruitee:yagna -> no board
 
 >> Yamuna Network  [India]  — no-job-data-found
     careers page : undefined
-    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
+    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200, 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
     ATS tried    : greenhouse:yamunanetwork -> no board ; lever:yamunanetwork -> no board ; ashby:yamunanetwork -> no board ; recruitee:yamunanetwork -> no board
 
 >> Yatra Info  [India]  — no-job-data-found
     careers page : undefined
-    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
+    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200, 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
     ATS tried    : greenhouse:yatrainfo -> no board ; lever:yatrainfo -> no board ; ashby:yatrainfo -> no board ; recruitee:yatrainfo -> no board
 
 >> Yellowfin Digital  [USA]  — no-job-data-found
     careers page : undefined
-    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
+    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200, 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
     ATS tried    : greenhouse:yellowfin -> no board ; lever:yellowfin -> no board ; ashby:yellowfin -> no board ; recruitee:yellowfin -> no board
 
 >> Yellow Class  [India]  — timed-out
@@ -1855,7 +1869,7 @@ Total open roles seen       : 1132
     careers page : undefined
     http status  : 
 
->> Yez Studio  [India]  — timed-out
+>> Yeeply  [Spain]  — timed-out
     careers page : undefined
     http status  : 
 

@@ -2,13 +2,13 @@
 OPEN ROLES AT 92 "W" COMPANIES
 Looking for : Software Engineer, ~2 years experience
 Priority    : Java, Dart/Flutter        Location preference : India
-Generated   : 2026-08-08 04:45:09 UTC  by test.js
+Generated   : 2026-08-08 16:29:59 UTC  by test.js
 ==============================================================================
 
-Boards read with open roles : 34
+Boards read with open roles : 35
 Boards read, currently empty: 1
-Could not read              : 57
-Total open roles seen       : 619
+Could not read              : 56
+Total open roles seen       : 620
 
 ##############################################################################
 # SECTION 1 — MATCHES: Software Engineer + Java/Dart/Flutter + ~2 yrs
@@ -201,7 +201,7 @@ Total open roles seen       : 619
 ##############################################################################
 
 >> UnitedHealth Group India  [India]
-    board    : headings:https://careers.unitedhealthgroup.com/search-jobs   —  19 open roles
+    board    : headings:https://careers.unitedhealthgroup.com/search-jobs   —  15 open roles
     FDE Engineer
       location : n/a   [INDIA]
       exp req  : not stated    stack: —    score: 49
@@ -306,7 +306,7 @@ Total open roles seen       : 619
       url      : https://job-boards.greenhouse.io/upstack/jobs/5239447008
 
 >> UPL Limited  [India]
-    board    : successfactors:careers.upl-ltd.com   —  25 open roles
+    board    : successfactors:careers.upl-ltd.com   —  27 open roles
     PLC Programmer & Industrial Technician
       location : Yakima, Washington, United States
       exp req  : 1-3y / 3-4y    stack: —    score: 60
@@ -315,13 +315,6 @@ Total open roles seen       : 619
 >> Uniqus Consultech  [India]
     board    : zohorecruit:uniqusus (0 open)   —  0 open roles
     (board reached successfully, but it has 0 open roles right now)
-
->> Unicommerce eSolutions  [India]
-    board    : keka:unicommerce   —  2 open roles
-    Lead Software Engineer - Backend
-      location : Gurugram   [INDIA]
-      exp req  : 6-8y    stack: Java    score: 48
-      url      : https://unicommerce.keka.com/careers/jobdetails/54313
 
 >> Uniqode  [India]
     board    : headings:https://www.uniqode.com/careers   —  3 open roles
@@ -372,6 +365,13 @@ Total open roles seen       : 619
       exp req  : not stated    stack: —    score: 19
       url      : https://www.uplogictech.com/blog/carpooling-app-development-guide-create-ride-sharing-app/
 
+>> Ummeed Housing Finance  [India]
+    board    : headings:https://www.ummeedhfc.com/careers   —  2 open roles
+    Lead Referral from Existing Customers
+      location : n/a   [INDIA]
+      exp req  : not stated    stack: —    score: -3
+      url      : https://www.ummeedhfc.com/careers
+
 >> Upshot.ai  [India]
     board    : headings:https://careers.upshot.ai/   —  2 open roles
     A dedicated Success Manager
@@ -385,6 +385,13 @@ Total open roles seen       : 619
       location : n/a
       exp req  : not stated    stack: —    score: -6
       url      : https://unitedlex.com/careers/
+
+>> Upland Software  [United States]
+    board    : headings:https://uplandsoftware.com/careers/   —  3 open roles
+    Analyst Report
+      location : n/a
+      exp req  : not stated    stack: —    score: 4
+      url      : https://uplandsoftware.com/careers/
 
 >> Unravel Data  [United States]
     board    : headings:https://www.unraveldata.com/company/careers   —  2 open roles
@@ -443,7 +450,7 @@ Total open roles seen       : 619
       url      : https://jobs.lever.co/unlimit/b172b5c0-d94c-443c-9552-ac877458fb27
 
 ##############################################################################
-# SECTION 5 — NOT READ  (57 of 92)
+# SECTION 5 — NOT READ  (56 of 92)
 # lists-no-openings  = careers page loaded fine, published no vacancies
 # blocked-or-error    = bot wall / dead route (403, 404) — needs a browser
 # unreachable         = domain did not respond at all
@@ -457,7 +464,7 @@ Total open roles seen       : 619
 
 >> UST Global  [India]  — blocked-or-error-response
     careers page : undefined
-    http status  : 0, 403, 403, 403, 403, 403, 403, 403, 403, 403, 403
+    http status  : 0, 403, 403, 403, 403, 403, 403, 403, 403, 403, 403, 0, 403, 403, 403, 403, 403, 403, 403, 403, 403, 403
     ATS tried    : greenhouse:ustglobal -> no board ; lever:ustglobal -> no board ; ashby:ustglobal -> no board ; recruitee:ustglobal -> no board
 
 >> Unilog  [India]  — blocked-or-error-response
@@ -472,22 +479,17 @@ Total open roles seen       : 619
 
 >> uTrade Solutions  [India]  — blocked-or-error-response
     careers page : undefined
-    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200, 404, 404
+    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200, 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200, 404, 404
     ATS tried    : greenhouse:utrade -> no board ; lever:utrade -> no board ; ashby:utrade -> no board ; recruitee:utrade -> no board
-
->> Upland Software  [United States]  — blocked-or-error-response
-    careers page : https://uplandsoftware.com/careers/
-    http status  : 307, 0, 307, 307, 307, 307, 307, 307, 307, 307, 307, 307
-    ATS tried    : greenhouse:upland -> no board ; lever:upland -> no board ; ashby:upland -> no board ; recruitee:upland -> no board
 
 >> Ustraa  [India]  — blocked-or-error-response
     careers page : undefined
-    http status  : 0, 404, 404, 404, 404, 404, 404
+    http status  : 0, 404, 404, 404, 404, 404
     ATS tried    : greenhouse:ustraa -> no board ; lever:ustraa -> no board ; ashby:ustraa -> no board ; recruitee:ustraa -> no board
 
 >> Udaan  [India]  — careers-page-read-but-lists-no-openings
     careers page : undefined
-    http status  : 0, 0, 200, 200, 200, 200, 404, 200, 200, 200, 200
+    http status  : 0, 0, 200, 200, 200, 200, 404, 200, 200, 200, 200, 0, 0, 200, 200, 200, 200, 404, 200, 200, 200, 200
     ATS tried    : greenhouse:udaan -> no board ; lever:udaan -> no board ; ashby:udaan -> no board ; recruitee:udaan -> no board
 
 >> Unacademy  [India]  — careers-page-read-but-lists-no-openings
@@ -502,7 +504,7 @@ Total open roles seen       : 619
 
 >> Ugam Solutions  [India]  — careers-page-read-but-lists-no-openings
     careers page : undefined
-    http status  : 0, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200
+    http status  : 0, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 0, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200
     ATS tried    : greenhouse:ugam -> no board ; lever:ugam -> no board ; ashby:ugam -> no board ; recruitee:ugam -> no board
 
 >> Ubuy India  [India]  — careers-page-read-but-lists-no-openings
@@ -512,7 +514,7 @@ Total open roles seen       : 619
 
 >> Ultratech Cement  [India]  — careers-page-read-but-lists-no-openings
     careers page : undefined
-    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200, 200
+    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200, 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200, 200
     ATS tried    : greenhouse:ultratechcement -> no board ; lever:ultratechcement -> no board ; ashby:ultratechcement -> no board ; recruitee:ultratechcement -> no board
 
 >> Unify Technologies  [India]  — careers-page-read-but-lists-no-openings
@@ -522,7 +524,7 @@ Total open roles seen       : 619
 
 >> udChalo (UpCurve Business Services)  [India]  — careers-page-read-but-lists-no-openings
     careers page : https://www.udchalo.com/careers
-    http status  : 200, 0, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200
+    http status  : 200, 0, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 0, 200, 200, 200, 200, 200, 200, 200, 200, 200
     ATS tried    : greenhouse:udchalo -> no board ; lever:udchalo -> no board ; ashby:udchalo -> no board ; recruitee:udchalo -> no board
 
 >> Urbanpiper  [India]  — careers-page-read-but-lists-no-openings
@@ -547,7 +549,7 @@ Total open roles seen       : 619
 
 >> Utkarsh Small Finance Bank  [India]  — careers-page-read-but-lists-no-openings
     careers page : https://www.utkarsh.bank.in/careers
-    http status  : 200, 0, 200, 404, 404
+    http status  : 200, 0, 200, 404
     ATS tried    : greenhouse:utkarshsmallfinance -> no board ; lever:utkarshsmallfinance -> no board ; ashby:utkarshsmallfinance -> no board ; recruitee:utkarshsmallfinance -> no board
 
 >> U GRO Capital  [India]  — careers-page-read-but-lists-no-openings
@@ -557,7 +559,7 @@ Total open roles seen       : 619
 
 >> Union Bank of India  [India]  — careers-page-read-but-lists-no-openings
     careers page : undefined
-    http status  : 0, 200, 200, 200, 200, 200, 404, 200, 200, 200, 200, 200
+    http status  : 0, 200, 200, 200, 200, 200, 404, 200, 200, 200, 200, 0, 200, 200, 200, 200, 200, 404, 200, 200, 200, 200, 200
     ATS tried    : greenhouse:unionof -> no board ; lever:unionof -> no board ; ashby:unionof -> no board ; recruitee:unionof -> no board
 
 >> Uno Minda  [India]  — careers-page-read-but-lists-no-openings
@@ -567,7 +569,7 @@ Total open roles seen       : 619
 
 >> Unbox Robotics  [India]  — careers-page-read-but-lists-no-openings
     careers page : https://unboxrobotics.com/careers/
-    http status  : 200, 0, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200
+    http status  : 200, 0, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 0, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200
     ATS tried    : greenhouse:unboxrobotics -> no board ; lever:unboxrobotics -> no board ; ashby:unboxrobotics -> no board ; recruitee:unboxrobotics -> no board
 
 >> Unimity Solutions  [India]  — careers-page-read-but-lists-no-openings
@@ -577,7 +579,7 @@ Total open roles seen       : 619
 
 >> Uolo  [India]  — careers-page-read-but-lists-no-openings
     careers page : https://uolo.com/careers
-    http status  : 200, 0, 200, 200, 200, 200, 200, 200, 200, 200, 200, skipped-off-domain
+    http status  : 200, 0, 200, 200, 200, 200, 200, 200, 200, 200, 200, 0, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, skipped-off-domain
     ATS tried    : greenhouse:uolo -> no board ; lever:uolo -> no board ; ashby:uolo -> no board ; recruitee:uolo -> no board
 
 >> USEReady  [United States]  — careers-page-read-but-lists-no-openings
@@ -600,7 +602,7 @@ Total open roles seen       : 619
 
 >> Universal Sompo General Insurance  [India]  — careers-page-read-but-lists-no-openings
     careers page : undefined
-    http status  : 0, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200
+    http status  : 0, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 0, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200
     ATS tried    : greenhouse:universalsompogeneralinsurance -> no board ; lever:universalsompogeneralinsurance -> no board ; ashby:universalsompogeneralinsurance -> no board ; recruitee:universalsompogeneralinsurance -> no board
 
 >> Unifynd Technologies  [India]  — careers-page-read-but-lists-no-openings
@@ -615,22 +617,17 @@ Total open roles seen       : 619
 
 >> Unimoni India  [India]  — careers-page-read-but-lists-no-openings
     careers page : https://unimoni.in/careers
-    http status  : 200, 200, 200, 200
+    http status  : 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 0, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200
     ATS tried    : greenhouse:unimoni -> no board ; lever:unimoni -> no board ; ashby:unimoni -> no board ; recruitee:unimoni -> no board
-
->> Uninstall.io  [India]  — careers-page-unreachable
-    careers page : undefined
-    http status  : 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
-    ATS tried    : greenhouse:uninstallio -> no board ; lever:uninstallio -> no board ; ashby:uninstallio -> no board ; recruitee:uninstallio -> no board
 
 >> Unlu  [India]  — careers-page-unreachable
     careers page : undefined
-    http status  : 0, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200
+    http status  : 0, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 0, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200
     ATS tried    : greenhouse:unlu -> no board ; lever:unlu -> no board ; ashby:unlu -> no board ; recruitee:unlu -> no board
 
 >> UrbanMatrix Technologies  [India]  — careers-page-unreachable
     careers page : undefined
-    http status  : 0, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200
+    http status  : 0, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 0, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200
     ATS tried    : greenhouse:urbanmatrix -> no board ; lever:urbanmatrix -> no board ; ashby:urbanmatrix -> no board ; recruitee:urbanmatrix -> no board
 
 >> Ubisoft India  [India]  — no-job-data-found
@@ -640,11 +637,11 @@ Total open roles seen       : 619
 
 >> Ula  [India]  — no-job-data-found
     careers page : undefined
-    http status  : 0, 403, 403, 403, 403, 403, 403, 403, 403, 403, 200
+    http status  : 0, 403, 403, 403, 403, 403, 403, 403, 403, 403, 200, 0, 403, 403, 403, 403, 403, 403, 403, 403, 403, 200
 
 >> Unbxd  [India]  — no-job-data-found
     careers page : undefined
-    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
+    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200, 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
     ATS tried    : greenhouse:unbxd -> no board ; lever:unbxd -> no board ; ashby:unbxd -> no board ; recruitee:unbxd -> no board
 
 >> Uengage  [India]  — no-job-data-found
@@ -654,27 +651,27 @@ Total open roles seen       : 619
 
 >> Unnati  [India]  — no-job-data-found
     careers page : undefined
-    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
+    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200, 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
     ATS tried    : greenhouse:unnati -> no board ; lever:unnati -> no board ; ashby:unnati -> no board ; recruitee:unnati -> no board
 
 >> Uplift Labs  [India]  — no-job-data-found
     careers page : undefined
-    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
+    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
     ATS tried    : greenhouse:uplift -> REJECTED (board is "UpLift", not Uplift Labs) ; lever:uplift -> no board ; ashby:uplift -> no board ; recruitee:uplift -> no board
 
 >> Urja Global  [India]  — no-job-data-found
     careers page : undefined
-    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
+    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200, 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
     ATS tried    : greenhouse:urjaglobal -> no board ; lever:urjaglobal -> no board ; ashby:urjaglobal -> no board ; recruitee:urjaglobal -> no board
 
 >> Ultrahuman  [India]  — no-job-data-found
     careers page : undefined
-    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
+    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200, 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
     ATS tried    : greenhouse:ultrahuman -> no board ; lever:ultrahuman -> no board ; ashby:ultrahuman -> no board ; recruitee:ultrahuman -> no board
 
 >> UTI Asset Management  [India]  — no-job-data-found
     careers page : undefined
-    http status  : 0, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200
+    http status  : 0, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 0, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200
     ATS tried    : greenhouse:utiassetmanagement -> no board ; lever:utiassetmanagement -> no board ; ashby:utiassetmanagement -> no board ; recruitee:utiassetmanagement -> no board
 
 >> UnifyApps  [India]  — no-job-data-found
@@ -684,17 +681,17 @@ Total open roles seen       : 619
 
 >> Unolo  [India]  — no-job-data-found
     careers page : undefined
-    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
+    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
     ATS tried    : greenhouse:unolo -> no board ; lever:unolo -> no board ; ashby:unolo -> no board ; recruitee:unolo -> no board
 
 >> uFaber Edutech  [India]  — no-job-data-found
     careers page : undefined
-    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
+    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200, 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
     ATS tried    : greenhouse:ufaberedutech -> no board ; lever:ufaberedutech -> no board ; ashby:ufaberedutech -> no board ; recruitee:ufaberedutech -> no board
 
 >> Urbanic  [India]  — no-job-data-found
     careers page : undefined
-    http status  : 0, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200
+    http status  : 0, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 0, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200
     ATS tried    : greenhouse:urbanic -> no board ; lever:urbanic -> no board ; ashby:urbanic -> no board ; recruitee:urbanic -> no board
 
 >> UPS  [United States]  — no-job-data-found
@@ -703,7 +700,7 @@ Total open roles seen       : 619
 
 >> Univariety  [India]  — no-job-data-found
     careers page : undefined
-    http status  : 200, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200, skipped-off-domain
+    http status  : 200, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200, 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200, skipped-off-domain
     ATS tried    : greenhouse:univariety -> no board ; lever:univariety -> no board ; ashby:univariety -> no board ; recruitee:univariety -> no board
 
 >> Ultroneous Technologies  [India]  — no-job-data-found
@@ -711,21 +708,24 @@ Total open roles seen       : 619
     http status  : 0, 500, 200, 200, 200, 200, 200, 404
     ATS tried    : greenhouse:ultroneous -> no board ; lever:ultroneous -> no board ; ashby:ultroneous -> no board ; recruitee:ultroneous -> no board
 
->> Ummeed Housing Finance  [India]  — no-job-data-found
-    careers page : undefined
-    http status  : 0, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, skipped-off-domain
-    ATS tried    : greenhouse:ummeedhousingfinance -> no board ; lever:ummeedhousingfinance -> no board ; ashby:ummeedhousingfinance -> no board ; recruitee:ummeedhousingfinance -> no board
-
 >> Uravu Labs  [India]  — no-job-data-found
     careers page : undefined
-    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
+    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200, 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
     ATS tried    : greenhouse:uravu -> no board ; lever:uravu -> no board ; ashby:uravu -> no board ; recruitee:uravu -> no board
 
 >> Uniquify  [United States]  — no-job-data-found
     careers page : undefined
-    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
+    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200, 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
     ATS tried    : greenhouse:uniquify -> no board ; lever:uniquify -> no board ; ashby:uniquify -> no board ; recruitee:uniquify -> no board
 
 >> United Airlines India  [India]  — timed-out
     careers page : undefined
+    http status  : 
+
+>> Uninstall.io  [India]  — timed-out
+    careers page : undefined
+    http status  : 
+
+>> Unicommerce eSolutions  [India]  — timed-out
+    careers page : https://unicommerce.com/life-at-unicommerce/
     http status  : 

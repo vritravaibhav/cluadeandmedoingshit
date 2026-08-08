@@ -2,13 +2,13 @@
 OPEN ROLES AT 91 "W" COMPANIES
 Looking for : Software Engineer, ~2 years experience
 Priority    : Java, Dart/Flutter        Location preference : India
-Generated   : 2026-08-08 04:31:16 UTC  by test.js
+Generated   : 2026-08-08 16:07:15 UTC  by test.js
 ==============================================================================
 
-Boards read with open roles : 43
+Boards read with open roles : 42
 Boards read, currently empty: 3
-Could not read              : 45
-Total open roles seen       : 1168
+Could not read              : 46
+Total open roles seen       : 1160
 
 ##############################################################################
 # SECTION 1 — MATCHES: Software Engineer + Java/Dart/Flutter + ~2 yrs
@@ -493,13 +493,6 @@ Total open roles seen       : 1168
     board    : zohorecruit:jeavio (0 open)   —  0 open roles
     (board reached successfully, but it has 0 open roles right now)
 
->> JK Tech  [India]
-    board    : feed:https://jktech.com   —  10 open roles
-    These Prototype Glasses Could Let Humans See Infrared Light in Full Color
-      location : n/a   [INDIA]
-      exp req  : not stated    stack: —    score: 19
-      url      : https://jktech.com/blogs/these-prototype-glasses-could-let-humans-see-infrared-light-in-full-color/
-
 >> Jodo  [India]
     board    : keka:jodo   —  6 open roles
     Intern - Credit Analyst
@@ -700,9 +693,9 @@ Total open roles seen       : 1168
 >> JLL India  [United States]
     board    : workday:jll   —  40 open roles
     Automation Engineer
-      location : Bondurant, IA
+      location : Jacksonville, FL
       exp req  : 2-6y    stack: —    score: 60
-      url      : https://jll.wd1.myworkdayjobs.com/jllcareers/job/Bondurant-IA/Automation-Engineer_REQ496872
+      url      : https://jll.wd1.myworkdayjobs.com/jllcareers/job/Jacksonville-FL/Automation-Engineer_REQ504393
 
 >> Jitterbit India  [United States]
     board    : feed:https://www.jitterbit.com   —  10 open roles
@@ -726,14 +719,14 @@ Total open roles seen       : 1168
       url      : https://wiley.wd1.myworkdayjobs.com/wiley_careers/job/Amman-JOR/Quality-Engineer--QE-Coding-_R2601039
 
 >> JCPenney India  [United States]
-    board    : sitemap:https://jobs.jcp.com   —  35 open roles
-    Customer Experience Supervisor I - Peninsula Twn Ctr
-      location : Hampton, VA, USA
+    board    : sitemap:https://jobs.jcp.com   —  37 open roles
+    Sales Associate - Destiny USA
+      location : Syracuse, NY, USA
       exp req  : not stated    stack: —    score: 16
-      url      : https://jobs.jcp.com/careers-home/jobs/1104495?lang=en-us
+      url      : https://jobs.jcp.com/careers-home/jobs/1126704?lang=en-us
 
 ##############################################################################
-# SECTION 5 — NOT READ  (45 of 91)
+# SECTION 5 — NOT READ  (46 of 91)
 # lists-no-openings  = careers page loaded fine, published no vacancies
 # blocked-or-error    = bot wall / dead route (403, 404) — needs a browser
 # unreachable         = domain did not respond at all
@@ -742,7 +735,7 @@ Total open roles seen       : 1168
 
 >> JoulesToWatts  [India]  — blocked-or-error-response
     careers page : undefined
-    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
+    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200, 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
     ATS tried    : greenhouse:joulestowatts -> no board ; lever:joulestowatts -> no board ; ashby:joulestowatts -> no board ; recruitee:joulestowatts -> no board
 
 >> JPLoft Solutions  [India]  — blocked-or-error-response
@@ -762,7 +755,7 @@ Total open roles seen       : 1168
 
 >> Justdial  [India]  — careers-page-read-but-lists-no-openings
     careers page : undefined
-    http status  : 0, 200, 200, 200, 200, 200, 200
+    http status  : 0, 200, 200, 200
     ATS tried    : greenhouse:justdial -> no board ; lever:justdial -> no board ; ashby:justdial -> no board ; recruitee:justdial -> no board
 
 >> JSW Group  [India]  — careers-page-read-but-lists-no-openings
@@ -781,7 +774,7 @@ Total open roles seen       : 1168
 
 >> Jamboree Education  [India]  — careers-page-read-but-lists-no-openings
     careers page : undefined
-    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200, 200, 200
+    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200, 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200, 200, 200
     ATS tried    : greenhouse:jamboreeeducation -> no board ; lever:jamboreeeducation -> no board ; ashby:jamboreeeducation -> no board ; recruitee:jamboreeeducation -> no board
 
 >> Jio Haptik  [India]  — careers-page-read-but-lists-no-openings
@@ -791,8 +784,13 @@ Total open roles seen       : 1168
 
 >> Jocata  [India]  — careers-page-read-but-lists-no-openings
     careers page : undefined
-    http status  : 0, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200
+    http status  : 0, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 0, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200
     ATS tried    : greenhouse:jocata -> no board ; lever:jocata -> no board ; ashby:jocata -> no board ; recruitee:jocata -> no board
+
+>> JioMart  [India]  — careers-page-read-but-lists-no-openings
+    careers page : undefined
+    http status  : 0, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 0, 200, 200, 200
+    ATS tried    : greenhouse:jiomart -> no board ; lever:jiomart -> no board ; ashby:jiomart -> no board ; recruitee:jiomart -> no board
 
 >> Jio Financial Services  [India]  — careers-page-read-but-lists-no-openings
     careers page : https://www.jfs.in/careers/
@@ -811,22 +809,22 @@ Total open roles seen       : 1168
 
 >> Jarvis Invest  [India]  — careers-page-read-but-lists-no-openings
     careers page : undefined
-    http status  : 0, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200
+    http status  : 0, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 0, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200
     ATS tried    : greenhouse:jarvisinvest -> no board ; lever:jarvisinvest -> no board ; ashby:jarvisinvest -> no board ; recruitee:jarvisinvest -> no board
 
 >> Jamcracker  [United States]  — careers-page-read-but-lists-no-openings
     careers page : undefined
-    http status  : 0, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200
+    http status  : 0, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 0, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200
     ATS tried    : greenhouse:jamcracker -> no board ; lever:jamcracker -> no board ; ashby:jamcracker -> no board ; recruitee:jamcracker -> no board
 
 >> Jaldee  [India]  — careers-page-read-but-lists-no-openings
     careers page : https://www.jaldee.com/careers
-    http status  : 200, 0, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200
+    http status  : 200, 0, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 0, 200, 200, 200, 200, 200, 200, 200, 200, 200
     ATS tried    : greenhouse:jaldee -> no board ; lever:jaldee -> no board ; ashby:jaldee -> no board ; recruitee:jaldee -> no board
 
 >> Jamku  [India]  — careers-page-read-but-lists-no-openings
     careers page : undefined
-    http status  : 0, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200
+    http status  : 0, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
     ATS tried    : greenhouse:jamku -> no board ; lever:jamku -> no board ; ashby:jamku -> no board ; recruitee:jamku -> no board
 
 >> JetSynthesys  [India]  — careers-page-read-but-lists-no-openings
@@ -836,7 +834,7 @@ Total open roles seen       : 1168
 
 >> Josh Software  [India]  — careers-page-read-but-lists-no-openings
     careers page : undefined
-    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200, 200
+    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200, 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200, 200
     ATS tried    : greenhouse:josh -> no board ; lever:josh -> no board ; ashby:josh -> no board ; recruitee:josh -> no board
 
 >> JS TechAlliance  [India]  — careers-page-read-but-lists-no-openings
@@ -846,7 +844,7 @@ Total open roles seen       : 1168
 
 >> Jasmin Infotech  [India]  — careers-page-read-but-lists-no-openings
     careers page : https://www.jasmin-infotech.com/careers
-    http status  : 200, 0, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200
+    http status  : 200, 0, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 0, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200
     ATS tried    : greenhouse:jasmininfotech -> no board ; lever:jasmininfotech -> no board ; ashby:jasmininfotech -> no board ; recruitee:jasmininfotech -> no board
 
 >> JindalX  [India]  — careers-page-read-but-lists-no-openings
@@ -875,12 +873,12 @@ Total open roles seen       : 1168
 
 >> Jubilant Pharmova  [India]  — careers-page-read-but-lists-no-openings
     careers page : undefined
-    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200, 200, 200
+    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200, 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200, 200, 200
     ATS tried    : greenhouse:jubilantpharmova -> no board ; lever:jubilantpharmova -> no board ; ashby:jubilantpharmova -> no board ; recruitee:jubilantpharmova -> no board
 
 >> Jubilant Ingrevia  [India]  — careers-page-read-but-lists-no-openings
     careers page : undefined
-    http status  : 0, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200
+    http status  : 0, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 0, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200
     ATS tried    : greenhouse:jubilantingrevia -> no board ; lever:jubilantingrevia -> no board ; ashby:jubilantingrevia -> no board ; recruitee:jubilantingrevia -> no board
 
 >> JK Tyre & Industries  [India]  — careers-page-read-but-lists-no-openings
@@ -888,24 +886,29 @@ Total open roles seen       : 1168
     http status  : 200, 503, 404
     ATS tried    : greenhouse:jktyre -> no board ; lever:jktyre -> no board ; ashby:jktyre -> no board ; recruitee:jktyre -> no board
 
+>> JK Tech  [India]  — careers-page-unreachable
+    careers page : undefined
+    http status  : 0, 429, 429, 429, 429, 429, 429, 429, 429, 429, 429, 0, 429, 429, 429, 429, 429, 429, 429, 429, 429, 429
+    ATS tried    : greenhouse:jktech -> no board ; lever:jktech -> no board ; ashby:jktech -> no board ; recruitee:jktech -> no board
+
 >> Jain Software  [India]  — careers-page-unreachable
     careers page : https://www.jainsoftware.com/careers
-    http status  : 200, 0, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200
+    http status  : 200, 0, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 0, 200, 200, 200, 200, 200, 200, 200, 200, 200
     ATS tried    : greenhouse:jain -> no board ; lever:jain -> no board ; ashby:jain -> no board ; recruitee:jain -> no board
 
 >> JAGGAER India  [United States]  — careers-page-unreachable
     careers page : undefined
-    http status  : 0, 403, 403, 403, 403, 403, 403, 403, 403, 403, 403
+    http status  : 0, 403, 403, 403, 403, 403, 403, 403, 403, 403, 403, 0, 403, 403, 403, 403, 403, 403, 403, 403, 403, 403
     ATS tried    : greenhouse:jaggaer -> no board ; lever:jaggaer -> no board ; ashby:jaggaer -> no board ; recruitee:jaggaer -> no board
 
 >> Jigsaw Academy  [India]  — careers-page-unreachable
     careers page : undefined
-    http status  : 403, 403, 403, 403, 403, 403, 403, 403, 403, 403, 403
+    http status  : 403, 403, 403, 403, 403, 403, 403, 403, 403, 403, 403, 0, 403, 403, 403, 403, 403, 403, 403, 403, 403, 403
     ATS tried    : greenhouse:jigsawacademy -> no board ; lever:jigsawacademy -> no board ; ashby:jigsawacademy -> no board ; recruitee:jigsawacademy -> no board
 
 >> Junglee Games  [India]  — no-job-data-found
     careers page : https://www.jungleegames.com/grow.php
-    http status  : 200, 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
+    http status  : 200, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
     ATS tried    : greenhouse:jungleegames -> no board ; lever:jungleegames -> no board ; ashby:jungleegames -> no board ; recruitee:jungleegames -> no board
 
 >> Jupiter Meta  [India]  — no-job-data-found
@@ -913,29 +916,24 @@ Total open roles seen       : 1168
     http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
     ATS tried    : greenhouse:jupitermeta -> no board ; lever:jupitermeta -> no board ; ashby:jupitermeta -> no board ; recruitee:jupitermeta -> no board
 
->> JioMart  [India]  — no-job-data-found
-    careers page : undefined
-    http status  : 0, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200
-    ATS tried    : greenhouse:jiomart -> no board ; lever:jiomart -> no board ; ashby:jiomart -> no board ; recruitee:jiomart -> no board
-
 >> Jio Things  [India]  — no-job-data-found
     careers page : undefined
-    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
+    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200, 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
     ATS tried    : greenhouse:jiothings -> no board ; lever:jiothings -> no board ; ashby:jiothings -> no board ; recruitee:jiothings -> no board
 
 >> Jai Kisan  [India]  — no-job-data-found
     careers page : undefined
-    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200, 200, 404, 200
+    http status  : 0, 0, 404, 404, 404, 404, 404, 404, 404, 404, 200, 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200, 200, 404, 200
     ATS tried    : greenhouse:jaikisan -> no board ; lever:jaikisan -> no board ; ashby:jaikisan -> no board ; recruitee:jaikisan -> no board
 
 >> Jiraaf  [India]  — no-job-data-found
     careers page : undefined
-    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
+    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200, 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
     ATS tried    : greenhouse:jiraaf -> no board ; lever:jiraaf -> no board ; ashby:jiraaf -> no board ; recruitee:jiraaf -> no board
 
 >> Junio  [India]  — no-job-data-found
     careers page : undefined
-    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
+    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200, 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
     ATS tried    : greenhouse:junio -> no board ; lever:junio -> no board ; ashby:junio -> no board ; recruitee:junio -> no board
 
 >> Jupitice Justice Technologies  [India]  — no-job-data-found
@@ -955,7 +953,7 @@ Total open roles seen       : 1168
 
 >> Jaypore  [India]  — no-job-data-found
     careers page : undefined
-    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
+    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200, 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
     ATS tried    : greenhouse:jaypore -> no board ; lever:jaypore -> no board ; ashby:jaypore -> no board ; recruitee:jaypore -> no board
 
 >> Jaypee Group  [India]  — timed-out

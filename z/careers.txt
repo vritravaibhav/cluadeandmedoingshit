@@ -2,13 +2,13 @@
 OPEN ROLES AT 101 "W" COMPANIES
 Looking for : Software Engineer, ~2 years experience
 Priority    : Java, Dart/Flutter        Location preference : India
-Generated   : 2026-08-08 04:55:31 UTC  by test.js
+Generated   : 2026-08-08 16:46:52 UTC  by test.js
 ==============================================================================
 
-Boards read with open roles : 45
+Boards read with open roles : 46
 Boards read, currently empty: 2
-Could not read              : 54
-Total open roles seen       : 816
+Could not read              : 53
+Total open roles seen       : 858
 
 ##############################################################################
 # SECTION 1 — MATCHES: Software Engineer + Java/Dart/Flutter + ~2 yrs
@@ -776,12 +776,19 @@ Total open roles seen       : 816
       exp req  : not stated    stack: —    score: 12
       url      : https://zebpay.com/careers
 
+>> Zynga India  [United States]
+    board    : greenhouse:zyngacareers   —  42 open roles
+    Senior Software Developer
+      location : Toronto, Canada
+      exp req  : 6-10y    stack: Java    score: 33
+      url      : https://job-boards.greenhouse.io/zyngacareers/jobs/6112200004
+
 >> Zendesk India  [United States]
     board    : workday:zendesk   —  40 open roles
-    Sales Engineer
-      location : 2 Locations
-      exp req  : 2-4y / 4-5y    stack: —    score: 60
-      url      : https://zendesk.wd1.myworkdayjobs.com/zendesk/job/Remote-Spain/Senior-Solutions-Consultant_R33452
+    Forward Deployed Engineer
+      location : Remote, France
+      exp req  : 5-9y    stack: Java    score: 55
+      url      : https://zendesk.wd1.myworkdayjobs.com/zendesk/job/Remote-France/Forward-Deployed-Engineer_R35248
 
 >> Zeta Global India  [United States]
     board    : greenhouse:zetaglobal   —  125 open roles
@@ -819,7 +826,7 @@ Total open roles seen       : 816
       url      : https://zyter.ai/careers/
 
 ##############################################################################
-# SECTION 5 — NOT READ  (54 of 101)
+# SECTION 5 — NOT READ  (53 of 101)
 # lists-no-openings  = careers page loaded fine, published no vacancies
 # blocked-or-error    = bot wall / dead route (403, 404) — needs a browser
 # unreachable         = domain did not respond at all
@@ -831,14 +838,15 @@ Total open roles seen       : 816
     http status  : 0, 403, 403, 403, 403, 403, 403, 403
     ATS tried    : greenhouse:zoominfo -> REJECTED (board is "ZoomInfo Technologies LLC", not ZoomInfo India) ; lever:zoominfo -> no board ; ashby:zoominfo -> no board ; recruitee:zoominfo -> no board
 
->> Zeb  [United States]  — blocked-or-error-response
-    careers page : https://zeb.co/careers/
-    http status  : 307, 0, 307, 307
-
 >> Zell Education  [India]  — blocked-or-error-response
     careers page : undefined
     http status  : 0, 403, 403, 403, 403, 403
     ATS tried    : greenhouse:zelleducation -> no board ; lever:zelleducation -> no board ; ashby:zelleducation -> no board ; recruitee:zelleducation -> no board
+
+>> Zenatix  [India]  — blocked-or-error-response
+    careers page : undefined
+    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 404, 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 404
+    ATS tried    : greenhouse:zenatix -> no board ; lever:zenatix -> no board ; ashby:zenatix -> no board ; recruitee:zenatix -> no board
 
 >> Zestard Technologies  [India]  — blocked-or-error-response
     careers page : undefined
@@ -847,7 +855,7 @@ Total open roles seen       : 816
 
 >> Zuora India  [United States]  — blocked-or-error-response
     careers page : https://www.zuora.com/careers/
-    http status  : 502, 0, 502, 502, 502, 502, 502, 502, 502, 502, 502, 502
+    http status  : 502, 0, 502, 502, 502, 502, 502, 502, 502, 502, 502, 502, 0, 502, 502, 502, 502, 502, 502, 502, 502, 502, 502
     ATS tried    : greenhouse:zuora -> REJECTED (board is "Zuora", not Zuora India) ; lever:zuora -> no board ; ashby:zuora -> no board ; recruitee:zuora -> no board
 
 >> Zensark Technologies  [India]  — blocked-or-error-response
@@ -857,7 +865,7 @@ Total open roles seen       : 816
 
 >> Zumen  [India]  — blocked-or-error-response
     careers page : undefined
-    http status  : 0, 403, 403, 403, 403, 403, 403, 403, 403, 403, 403
+    http status  : 0, 403, 403, 403, 403, 403, 403, 403, 403, 403, 403, 0, 403, 403, 403, 403, 403, 403, 403, 403, 403, 403
     ATS tried    : greenhouse:zumen -> no board ; lever:zumen -> no board ; ashby:zumen -> no board ; recruitee:zumen -> no board
 
 >> Zoho  [India]  — careers-page-read-but-lists-no-openings
@@ -872,12 +880,12 @@ Total open roles seen       : 816
 
 >> Zepto  [India]  — careers-page-read-but-lists-no-openings
     careers page : undefined
-    http status  : 0, 202, 202, 202, 202, 202, 202, 202, 202, 202, 202
+    http status  : 0, 202, 202, 202, 202, 202, 202, 202, 202, 202, 202, 0, 202, 202, 202, 202, 202, 202, 202, 202, 202, 202
     ATS tried    : greenhouse:zepto -> no board ; lever:zepto -> no board ; ashby:zepto -> no board ; recruitee:zepto -> no board
 
 >> Zensar Technologies  [India]  — careers-page-read-but-lists-no-openings
     careers page : undefined
-    http status  : 0, 200, 200, 200
+    http status  : 0, 200, 200, 200, 200
     ATS tried    : greenhouse:zensar -> no board ; lever:zensar -> no board ; ashby:zensar -> no board ; recruitee:zensar -> no board
 
 >> Zolo  [India]  — careers-page-read-but-lists-no-openings
@@ -897,13 +905,17 @@ Total open roles seen       : 816
 
 >> ZoomCar  [India]  — careers-page-read-but-lists-no-openings
     careers page : undefined
-    http status  : 0, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200
+    http status  : 0, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 0, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200
     ATS tried    : greenhouse:zoomcar -> no board ; lever:zoomcar -> no board ; ashby:zoomcar -> no board ; recruitee:zoomcar -> no board
 
 >> Zappyhire  [India]  — careers-page-read-but-lists-no-openings
     careers page : undefined
-    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200, 200, 200
+    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200, 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200, 200, 200
     ATS tried    : greenhouse:zappyhire -> no board ; lever:zappyhire -> no board ; ashby:zappyhire -> no board ; recruitee:zappyhire -> no board
+
+>> Zeb  [United States]  — careers-page-read-but-lists-no-openings
+    careers page : https://zeb.co/careers/
+    http status  : 0, 0, 200, 404, 404, 404, 404, 404, 404, 404, 404, 200
 
 >> Zerodha  [India]  — careers-page-read-but-lists-no-openings
     careers page : undefined
@@ -915,11 +927,6 @@ Total open roles seen       : 816
     http status  : 0, 200, 404, 200
     ATS tried    : jobvite:__assets__ -> no board ; greenhouse:ziffdavis -> no board ; lever:ziffdavis -> no board ; ashby:ziffdavis -> no board
 
->> Zigram  [India]  — careers-page-read-but-lists-no-openings
-    careers page : undefined
-    http status  : 0, 200, 404, 404, 404, 404, 404, 200, 200, 404, 200
-    ATS tried    : greenhouse:zigram -> no board ; lever:zigram -> no board ; ashby:zigram -> no board ; recruitee:zigram -> no board
-
 >> Zomentum  [India]  — careers-page-read-but-lists-no-openings
     careers page : undefined
     http status  : 200, 200, 404
@@ -927,7 +934,7 @@ Total open roles seen       : 816
 
 >> Zopsmart  [India]  — careers-page-read-but-lists-no-openings
     careers page : undefined
-    http status  : 0, 200, 404, 404, 404, 404, 404, 404, 404, 404, 200
+    http status  : 0, 200, 404, 404, 404, 404, 404, 404, 404, 404, 200, 0, 200, 404, 404, 404, 404, 404, 404, 404, 404, 200
     ATS tried    : greenhouse:zopsmart -> no board ; lever:zopsmart -> no board ; ashby:zopsmart -> no board ; recruitee:zopsmart -> no board
 
 >> ZS  [United States]  — careers-page-read-but-lists-no-openings
@@ -951,7 +958,7 @@ Total open roles seen       : 816
 
 >> Zerone Consulting  [India]  — careers-page-read-but-lists-no-openings
     careers page : https://www.zerone-consulting.com/career/
-    http status  : 200, 0, 404, 200, 404, 404, 404, 404, 404, 404, 404, 200
+    http status  : 200, 0, 404, 200, 404, 404, 404, 404, 404, 404, 404, 200, 0, 404, 200, 404, 404, 404, 404, 404, 404, 404, 200
     ATS tried    : greenhouse:zeroneconsulting -> no board ; lever:zeroneconsulting -> no board ; ashby:zeroneconsulting -> no board ; recruitee:zeroneconsulting -> no board
 
 >> Zapbuild  [India]  — careers-page-read-but-lists-no-openings
@@ -981,7 +988,7 @@ Total open roles seen       : 816
 
 >> Zithas Technologies  [India]  — careers-page-read-but-lists-no-openings
     careers page : undefined
-    http status  : 0, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200
+    http status  : 0, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 0, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200
     ATS tried    : greenhouse:zithas -> no board ; lever:zithas -> no board ; ashby:zithas -> no board ; recruitee:zithas -> no board
 
 >> Zoftcares Solutions  [India]  — careers-page-read-but-lists-no-openings
@@ -994,30 +1001,20 @@ Total open roles seen       : 816
     http status  : 0, 200, 200, 200
     ATS tried    : greenhouse:zeiss -> no board ; lever:zeiss -> REJECTED (board is "Zeiss", not ZEISS India) ; ashby:zeiss -> no board ; recruitee:zeiss -> no board
 
->> Zynga India  [United States]  — careers-page-unreachable
-    careers page : undefined
-    http status  : 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
-    ATS tried    : greenhouse:zynga -> no board ; lever:zynga -> no board ; ashby:zynga -> no board ; recruitee:zynga -> no board
-
 >> Zenesys  [United States]  — careers-page-unreachable
     careers page : undefined
-    http status  : 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+    http status  : 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
     ATS tried    : greenhouse:zenesys -> no board ; lever:zenesys -> no board ; ashby:zenesys -> no board ; recruitee:zenesys -> no board
 
 >> Zolvit  [India]  — no-job-data-found
     careers page : undefined
-    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
+    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200, 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
     ATS tried    : greenhouse:zolvit -> no board ; lever:zolvit -> no board ; ashby:zolvit -> no board ; recruitee:zolvit -> no board
 
 >> Zyoin  [India]  — no-job-data-found
     careers page : undefined
     http status  : 0, 404, 404, 200, 404, 404, 404, 404, 404, 404, 200
     ATS tried    : greenhouse:zyoin -> no board ; lever:zyoin -> no board ; ashby:zyoin -> no board ; recruitee:zyoin -> no board
-
->> Zenatix  [India]  — no-job-data-found
-    careers page : undefined
-    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
-    ATS tried    : greenhouse:zenatix -> no board ; lever:zenatix -> no board ; ashby:zenatix -> no board ; recruitee:zenatix -> no board
 
 >> Zend Technologies India  [United States]  — no-job-data-found
     careers page : undefined
@@ -1026,55 +1023,59 @@ Total open roles seen       : 816
 
 >> Zenskar  [India]  — no-job-data-found
     careers page : undefined
-    http status  : 0, 200, 200, 404, 404, 404, 404, 404, 404, 404, 200
+    http status  : 0, 200, 200, 404
     ATS tried    : greenhouse:zenskar -> no board ; lever:zenskar -> no board ; ashby:zenskar -> no board ; recruitee:zenskar -> no board
 
 >> Zippserv  [India]  — no-job-data-found
     careers page : undefined
-    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
+    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200, 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
     ATS tried    : greenhouse:zippserv -> no board ; lever:zippserv -> no board ; ashby:zippserv -> no board ; recruitee:zippserv -> no board
 
 >> Zonka Feedback  [India]  — no-job-data-found
     careers page : undefined
-    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
+    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200, 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
     ATS tried    : greenhouse:zonkafeedback -> no board ; lever:zonkafeedback -> no board ; ashby:zonkafeedback -> no board ; recruitee:zonkafeedback -> no board
 
 >> Zwende  [India]  — no-job-data-found
     careers page : undefined
-    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
+    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200, 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
     ATS tried    : greenhouse:zwende -> no board ; lever:zwende -> no board ; ashby:zwende -> no board ; recruitee:zwende -> no board
 
 >> Zykrr  [India]  — no-job-data-found
     careers page : undefined
-    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
+    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200, 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
     ATS tried    : greenhouse:zykrr -> no board ; lever:zykrr -> no board ; ashby:zykrr -> no board ; recruitee:zykrr -> no board
 
 >> Zupee  [India]  — no-job-data-found
     careers page : undefined
-    http status  : 0, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200
+    http status  : 0, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 0, 404, 404, 404
     ATS tried    : greenhouse:zupee -> no board ; lever:zupee -> no board ; ashby:zupee -> no board ; recruitee:zupee -> no board
 
 >> Zenduty  [India]  — no-job-data-found
     careers page : undefined
-    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200, skipped-off-domain
+    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200, 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200, skipped-off-domain
     ATS tried    : greenhouse:zenduty -> no board ; lever:zenduty -> no board ; ashby:zenduty -> no board ; recruitee:zenduty -> no board
 
 >> Zoconut  [India]  — no-job-data-found
     careers page : undefined
-    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200, skipped-off-domain
+    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200, 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200, skipped-off-domain
     ATS tried    : greenhouse:zoconut -> no board ; lever:zoconut -> no board ; ashby:zoconut -> no board ; recruitee:zoconut -> no board
 
 >> ZeroDrag  [India]  — no-job-data-found
     careers page : undefined
-    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
+    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200, 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
     ATS tried    : greenhouse:zerodrag -> no board ; lever:zerodrag -> no board ; ashby:zerodrag -> no board ; recruitee:zerodrag -> no board
 
 >> Zoxima Solutions  [India]  — no-job-data-found
     careers page : undefined
-    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
+    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200, 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
     ATS tried    : greenhouse:zoxima -> no board ; lever:zoxima -> no board ; ashby:zoxima -> no board ; recruitee:zoxima -> no board
 
 >> Zycus  [India]  — timed-out
+    careers page : undefined
+    http status  : 
+
+>> Zigram  [India]  — timed-out
     careers page : undefined
     http status  : 
 

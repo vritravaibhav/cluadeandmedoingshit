@@ -2,13 +2,13 @@
 OPEN ROLES AT 275 "W" COMPANIES
 Looking for : Software Engineer, ~2 years experience
 Priority    : Java, Dart/Flutter        Location preference : India
-Generated   : 2026-08-08 11:41:51 UTC  by test.js
+Generated   : 2026-08-08 16:13:32 UTC  by test.js
 ==============================================================================
 
-Boards read with open roles : 146
+Boards read with open roles : 148
 Boards read, currently empty: 9
-Could not read              : 120
-Total open roles seen       : 2902
+Could not read              : 118
+Total open roles seen       : 2909
 
 ##############################################################################
 # SECTION 1 — MATCHES: Software Engineer + Java/Dart/Flutter + ~2 yrs
@@ -811,11 +811,11 @@ Total open roles seen       : 2902
     Appian Developer- Remote
       location : Reston, Virginia
       exp req  : not stated    stack: Java    score: 59
-      url      : https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Reston-VA/Appian-Developer--Remote_R2501916-1/apply
+      url      : https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Reston-VA/Senior-Appian-Developer--Remote_R2501848/apply
     Appian Developer- Remote
       location : Reston, Virginia
       exp req  : not stated    stack: Java    score: 59
-      url      : https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Reston-VA/Senior-Appian-Developer--Remote_R2501848/apply
+      url      : https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Reston-VA/Appian-Developer--Remote_R2501916-1/apply
     Software Engineer - Cloud/GovCloud (Top Secret clearance)
       location : Washington, District of Columbia
       exp req  : not stated    stack: Java + Android    score: 59
@@ -861,6 +861,13 @@ Total open roles seen       : 2902
 # had no match above, its nearest engineering role is shown here so you
 # can confirm the fetch worked rather than silently returning nothing.
 ##############################################################################
+
+>> ICICI Lombard  [India]
+    board    : headings:https://www.icicilombard.com/career   —  4 open roles
+    Become an advisor
+      location : n/a   [INDIA]
+      exp req  : not stated    stack: —    score: 19
+      url      : https://www.icicilombard.com/career
 
 >> ICICI Prudential Life Insurance  [India]
     board    : headings:https://www.iciciprulife.com/careers   —  2 open roles
@@ -1033,10 +1040,10 @@ Total open roles seen       : 2902
 
 >> Indegene  [India]
     board    : successfactors:careers.indegene.com   —  39 open roles
-    Senior AI Engineer
+    Senior Test and Automation Engineer
       location : KA, IN
       exp req  : 4-8y    stack: —    score: 20
-      url      : https://careers.indegene.com/job/Kolind-ka-Bas-Senior-AI-Engineer-KA/43643344/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS
+      url      : https://careers.indegene.com/job/Kolind-ka-Bas-Senior-Test-and-Automation-Engineer-KA/58292244/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS
 
 >> Indian Energy Exchange  [India]
     board    : headings:https://www.iexindia.com/career   —  5 open roles
@@ -1079,6 +1086,13 @@ Total open roles seen       : 2902
       location : n/a   [INDIA]
       exp req  : 1-3y / 3-4y    stack: —    score: 87
       url      : https://www.indusface.com/careers/current-openings/associate-engineer-managed-security-services/
+
+>> IndusInd Bank  [India]
+    board    : headings:https://www.indusind.bank.in/career   —  2 open roles
+    Dedicated Relationship Manager
+      location : n/a   [INDIA]
+      exp req  : not stated    stack: —    score: -3
+      url      : https://www.indusind.bank.in/career
 
 >> Ineda Systems  [India]
     board    : headings:https://inedasystems.com/jobs/   —  4 open roles
@@ -1707,7 +1721,7 @@ Total open roles seen       : 2902
       url      : https://www.infoprolearning.com/blog/advantages-and-disadvantages-of-moocs-massive-open-online-courses-for-learning/comment-page-1/#comment-26444
 
 >> Infor  [United States]
-    board    : pinpoint:infor   —  184 open roles
+    board    : pinpoint:infor   —  185 open roles
     Information Developer, Associate
       location : Hyderabad   [INDIA]
       exp req  : 1-3y    stack: —    score: 87
@@ -1921,7 +1935,7 @@ Total open roles seen       : 2902
       url      : https://boards.greenhouse.io/ivalua/jobs/8076602?gh_jid=8076602
 
 ##############################################################################
-# SECTION 5 — NOT READ  (120 of 275)
+# SECTION 5 — NOT READ  (118 of 275)
 # lists-no-openings  = careers page loaded fine, published no vacancies
 # blocked-or-error    = bot wall / dead route (403, 404) — needs a browser
 # unreachable         = domain did not respond at all
@@ -1943,9 +1957,14 @@ Total open roles seen       : 2902
     http status  : 0, 403, 403, 403, 403, 403
     ATS tried    : greenhouse:indmoney -> no board ; lever:indmoney -> no board ; ashby:indmoney -> no board ; recruitee:indmoney -> no board
 
+>> Indo-MIM  [India]  — blocked-or-error-response
+    careers page : https://www.indo-mim.com/careers/
+    http status  : 307, 0, 307, 307, 307, 307, 307, 307
+    ATS tried    : greenhouse:indomim -> no board ; lever:indomim -> no board ; ashby:indomim -> no board ; recruitee:indomim -> no board
+
 >> inFeedo  [India]  — blocked-or-error-response
     careers page : undefined
-    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
+    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200, 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
     ATS tried    : greenhouse:infeedo -> no board ; lever:infeedo -> no board ; ashby:infeedo -> no board ; recruitee:infeedo -> no board
 
 >> InstaDApp  [India]  — blocked-or-error-response
@@ -1960,7 +1979,7 @@ Total open roles seen       : 2902
 
 >> Iron Mountain  [United States]  — blocked-or-error-response
     careers page : https://www.ironmountain.com/about-us/careers
-    http status  : 429, 0, 429, 429, 429, 429, 429, 429, 429, 429, 429, 429
+    http status  : 429, 0, 429, 429, 429, 429, 429, 429, 429, 429, 429, 429, 0, 429, 429, 429, 429, 429, 429, 429, 429, 429, 429
     ATS tried    : greenhouse:ironmountain -> no board ; lever:ironmountain -> no board ; ashby:ironmountain -> no board ; recruitee:ironmountain -> no board
 
 >> Iron Systems  [United States]  — blocked-or-error-response
@@ -1975,7 +1994,7 @@ Total open roles seen       : 2902
 
 >> iauro Systems  [India]  — careers-page-read-but-lists-no-openings
     careers page : https://iauro.com/careers/
-    http status  : 200, 0, 200, 200, 200
+    http status  : 200, 0, 200, 200, 200, 404
     ATS tried    : greenhouse:iauro -> no board ; lever:iauro -> no board ; ashby:iauro -> no board ; recruitee:iauro -> no board
 
 >> IBM  [United States]  — careers-page-read-but-lists-no-openings
@@ -1984,7 +2003,7 @@ Total open roles seen       : 2902
 
 >> IBS Software  [India]  — careers-page-read-but-lists-no-openings
     careers page : https://careers.ibsplc.com/
-    http status  : 200, 200, 404, 404, 404, 404, 404, 200
+    http status  : 200, 200, 404, 404, 404, 404, 404, 200, 404, 404
     ATS tried    : greenhouse:ibsplc -> no board ; lever:ibsplc -> no board ; ashby:ibsplc -> no board ; recruitee:ibsplc -> no board
 
 >> iBUS Network Solutions  [India]  — careers-page-read-but-lists-no-openings
@@ -1999,7 +2018,7 @@ Total open roles seen       : 2902
 
 >> Ideassion Technology Solutions  [India]  — careers-page-read-but-lists-no-openings
     careers page : undefined
-    http status  : 0, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200
+    http status  : 0, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 0, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200
     ATS tried    : greenhouse:ideassion -> no board ; lever:ideassion -> no board ; ashby:ideassion -> no board ; recruitee:ideassion -> no board
 
 >> IDFC FIRST Bank  [India]  — careers-page-read-but-lists-no-openings
@@ -2029,7 +2048,7 @@ Total open roles seen       : 2902
 
 >> IIC Technologies  [India]  — careers-page-read-but-lists-no-openings
     careers page : undefined
-    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200, 200, 200
+    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200, 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200, 200, 200
     ATS tried    : greenhouse:iictechnologies -> no board ; lever:iictechnologies -> no board ; ashby:iictechnologies -> no board ; recruitee:iictechnologies -> no board
 
 >> IIFL Capital Services  [India]  — careers-page-read-but-lists-no-openings
@@ -2069,12 +2088,12 @@ Total open roles seen       : 2902
 
 >> InCred  [India]  — careers-page-read-but-lists-no-openings
     careers page : https://www.incred.com/careers/
-    http status  : 200, 0, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200
+    http status  : 200, 0, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 0, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200
     ATS tried    : greenhouse:incred -> no board ; lever:incred -> no board ; ashby:incred -> no board ; recruitee:incred -> no board
 
 >> Indiabulls  [India]  — careers-page-read-but-lists-no-openings
     careers page : undefined
-    http status  : 0, 200, 404, 404, 404, 404, 404, 404, 404, 404, 200, 200
+    http status  : 0, 200, 404, 404, 404, 404, 404, 404, 404, 404, 200, 0, 200, 404, 404, 404, 404, 404, 404, 404, 404, 200, 200
     ATS tried    : greenhouse:indiabulls -> no board ; lever:indiabulls -> no board ; ashby:indiabulls -> no board ; recruitee:indiabulls -> no board
 
 >> IndiaFilings  [India]  — careers-page-read-but-lists-no-openings
@@ -2099,18 +2118,13 @@ Total open roles seen       : 2902
 
 >> indie Semiconductor  [United States]  — careers-page-read-but-lists-no-openings
     careers page : undefined
-    http status  : 0, 200, 404, 200, 404
+    http status  : 0, 200, 404, 200, 404, 404
     ATS tried    : greenhouse:indiesemiconductor -> REJECTED (board is "indie", not indie Semiconductor) ; lever:indiesemiconductor -> no board ; ashby:indiesemiconductor -> no board ; recruitee:indiesemiconductor -> no board
 
 >> Indrones Solutions  [India]  — careers-page-read-but-lists-no-openings
     careers page : undefined
-    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200, 200
+    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200, 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200, 200
     ATS tried    : greenhouse:indrones -> no board ; lever:indrones -> no board ; ashby:indrones -> no board ; recruitee:indrones -> no board
-
->> Indus Net Technologies  [India]  — careers-page-read-but-lists-no-openings
-    careers page : https://www.indusnet.co.in/careers/
-    http status  : 200, 0, 200, 200, 200, 200, 0, 200, 200, 200, 200, 200, 200
-    ATS tried    : greenhouse:indusnet -> no board ; lever:indusnet -> no board ; ashby:indusnet -> no board ; recruitee:indusnet -> no board
 
 >> Indus Towers  [India]  — careers-page-read-but-lists-no-openings
     careers page : https://www.industowers.com/careers
@@ -2124,12 +2138,12 @@ Total open roles seen       : 2902
 
 >> iNextLabs  [India]  — careers-page-read-but-lists-no-openings
     careers page : undefined
-    http status  : 0, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200
+    http status  : 0, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 0, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200
     ATS tried    : greenhouse:inextlabs -> no board ; lever:inextlabs -> no board ; ashby:inextlabs -> no board ; recruitee:inextlabs -> no board
 
 >> Infibeam  [India]  — careers-page-read-but-lists-no-openings
     careers page : undefined
-    http status  : 530, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200
+    http status  : 530, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 0, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200
     ATS tried    : greenhouse:infibeam -> no board ; lever:infibeam -> no board ; ashby:infibeam -> no board ; recruitee:infibeam -> no board
 
 >> Infiniti Research  [India]  — careers-page-read-but-lists-no-openings
@@ -2149,12 +2163,12 @@ Total open roles seen       : 2902
 
 >> Infocusp Innovations  [India]  — careers-page-read-but-lists-no-openings
     careers page : https://infocusp.com/careers/
-    http status  : 200, 0, 200, 403, 403, 403, 403, 403, 403, 403, 403, 200, 200, 200, 200
+    http status  : 200, 0, 200, 403, 403, 403, 403, 403, 403, 403, 403, 200, 0, 200, 403, 403, 403, 403, 403, 403, 403, 403, 200, 200, 200
     ATS tried    : greenhouse:infocuspinnovations -> no board ; lever:infocuspinnovations -> no board ; ashby:infocuspinnovations -> no board ; recruitee:infocuspinnovations -> no board
 
 >> Informatica India  [India]  — careers-page-read-but-lists-no-openings
     careers page : undefined
-    http status  : 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200
+    http status  : 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 0, 200, 200
     ATS tried    : greenhouse:informatica -> no board ; lever:informatica -> no board ; ashby:informatica -> no board ; recruitee:informatica -> no board
 
 >> Infosys  [India]  — careers-page-read-but-lists-no-openings
@@ -2164,13 +2178,18 @@ Total open roles seen       : 2902
 
 >> Infosys BPM  [India]  — careers-page-read-but-lists-no-openings
     careers page : https://www.infosysbpm.com/careers.html
-    http status  : 200, 0, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200
+    http status  : 200, 0, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 0, 200, 404
     ATS tried    : greenhouse:infosysbpm -> no board ; lever:infosysbpm -> no board ; ashby:infosysbpm -> no board ; recruitee:infosysbpm -> no board
 
 >> Infosys Public Services  [United States]  — careers-page-read-but-lists-no-openings
     careers page : https://www.infosyspublicservices.com/careers.html
-    http status  : 200, 0, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200
+    http status  : 200, 0, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 0, 200, 404
     ATS tried    : greenhouse:infosyspublic -> no board ; lever:infosyspublic -> no board ; ashby:infosyspublic -> no board ; recruitee:infosyspublic -> no board
+
+>> Infra.Market  [India]  — careers-page-read-but-lists-no-openings
+    careers page : https://www.infra.market/careers
+    http status  : 200, 0, 200, 200, 200
+    ATS tried    : greenhouse:inframarket -> no board ; lever:inframarket -> no board ; ashby:inframarket -> no board ; recruitee:inframarket -> no board
 
 >> Innoraft  [India]  — careers-page-read-but-lists-no-openings
     careers page : https://www.innoraft.ai/careers
@@ -2209,7 +2228,7 @@ Total open roles seen       : 2902
 
 >> Intas Pharmaceuticals  [India]  — careers-page-read-but-lists-no-openings
     careers page : https://www.intaspharma.com/careers
-    http status  : 200, 0, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, skipped-off-domain
+    http status  : 200, 0, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 0, 200
     ATS tried    : greenhouse:intaspharmaceuticals -> no board ; lever:intaspharmaceuticals -> no board ; ashby:intaspharmaceuticals -> no board ; recruitee:intaspharmaceuticals -> no board
 
 >> Integra Software Services  [India]  — careers-page-read-but-lists-no-openings
@@ -2229,7 +2248,7 @@ Total open roles seen       : 2902
 
 >> Intuitive Surgical  [United States]  — careers-page-read-but-lists-no-openings
     careers page : https://careers.intuitive.com/
-    http status  : 403, 403, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200
+    http status  : 403, 403, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 0, 200
     ATS tried    : greenhouse:intuitivesurgical -> no board ; lever:intuitivesurgical -> no board ; ashby:intuitivesurgical -> no board ; recruitee:intuitivesurgical -> no board
 
 >> Invenio Business Solutions  [United Kingdom]  — careers-page-read-but-lists-no-openings
@@ -2244,7 +2263,7 @@ Total open roles seen       : 2902
 
 >> Ionixx Technologies  [India]  — careers-page-read-but-lists-no-openings
     careers page : https://www.ionixxtech.com/careers
-    http status  : 200, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+    http status  : 200, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 200, 200, 200, 200, 200, 200, 200, 200, 200
     ATS tried    : greenhouse:ionixx -> no board ; lever:ionixx -> no board ; ashby:ionixx -> no board ; recruitee:ionixx -> no board
 
 >> IppoPay  [India]  — careers-page-read-but-lists-no-openings
@@ -2254,12 +2273,12 @@ Total open roles seen       : 2902
 
 >> Ipsos  [France]  — careers-page-read-but-lists-no-openings
     careers page : https://www.ipsos.com/en-in/careers
-    http status  : 200, 0, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200
+    http status  : 200, 0, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 0, 200
     ATS tried    : greenhouse:ipsos -> no board ; lever:ipsos -> no board ; ashby:ipsos -> no board ; recruitee:ipsos -> no board
 
 >> iRage Capital  [India]  — careers-page-read-but-lists-no-openings
     careers page : https://www.irage.in/careers
-    http status  : 200, 0, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200
+    http status  : 200, 0, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 0, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200
     ATS tried    : greenhouse:iragecapital -> no board ; lever:iragecapital -> no board ; ashby:iragecapital -> no board ; recruitee:iragecapital -> no board
 
 >> iSchoolConnect  [India]  — careers-page-read-but-lists-no-openings
@@ -2269,18 +2288,13 @@ Total open roles seen       : 2902
 
 >> Ishan Technologies  [India]  — careers-page-read-but-lists-no-openings
     careers page : https://www.ishantechnologies.com/careers
-    http status  : 200, 0, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200
+    http status  : 200, 0, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 0, 200, 200, 200, 200, 200, 200, 200, 200, 200
     ATS tried    : greenhouse:ishan -> no board ; lever:ishan -> no board ; ashby:ishan -> no board ; recruitee:ishan -> no board
 
 >> IT By Design  [United States]  — careers-page-read-but-lists-no-openings
     careers page : undefined
     http status  : 0, 200, 404, 404, 404, 404, 404, 200, 200, 404, 200
     ATS tried    : greenhouse:itbydesign -> no board ; lever:itbydesign -> no board ; ashby:itbydesign -> no board ; recruitee:itbydesign -> no board
-
->> ITC Infotech  [India]  — careers-page-read-but-lists-no-openings
-    careers page : https://jobs.itcinfotech.com/itcinfotech/
-    http status  : 200, 0, 404, 200
-    ATS tried    : greenhouse:itcinfotech -> no board ; lever:itcinfotech -> no board ; ashby:itcinfotech -> no board ; recruitee:itcinfotech -> no board
 
 >> iThink Logistics  [India]  — careers-page-read-but-lists-no-openings
     careers page : https://www.ithinklogistics.com/careers
@@ -2289,7 +2303,7 @@ Total open roles seen       : 2902
 
 >> ITI Limited  [India]  — careers-page-read-but-lists-no-openings
     careers page : undefined
-    http status  : 200, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200, 200
+    http status  : 200, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200, 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200, 200
     ATS tried    : greenhouse:itiltd -> no board ; lever:itiltd -> no board ; ashby:itiltd -> no board ; recruitee:itiltd -> no board
 
 >> Ivanti  [United States]  — careers-page-read-but-lists-no-openings
@@ -2314,7 +2328,7 @@ Total open roles seen       : 2902
 
 >> Ivy Mobility  [India]  — careers-page-read-but-lists-no-openings
     careers page : https://www.ivymobility.com/careers/
-    http status  : 200, 0, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200
+    http status  : 200, 0, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 0, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200
     ATS tried    : greenhouse:ivymobility -> no board ; lever:ivymobility -> no board ; ashby:ivymobility -> no board ; recruitee:ivymobility -> no board
 
 >> ixigo  [India]  — careers-page-read-but-lists-no-openings
@@ -2324,7 +2338,7 @@ Total open roles seen       : 2902
 
 >> iValue InfoSolutions  [India]  — careers-page-unreachable
     careers page : undefined
-    http status  : 0, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200
+    http status  : 0, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 0, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200
     ATS tried    : greenhouse:ivalueinfosolutions -> no board ; lever:ivalueinfosolutions -> no board ; ashby:ivalueinfosolutions -> no board ; recruitee:ivalueinfosolutions -> no board
 
 >> IBSFINtech  [India]  — no-job-data-found
@@ -2334,73 +2348,63 @@ Total open roles seen       : 2902
 
 >> IceCream Labs  [United States]  — no-job-data-found
     careers page : undefined
-    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200, 200
+    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200, 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200, 200
     ATS tried    : greenhouse:icecream -> no board ; lever:icecream -> no board ; ashby:icecream -> no board ; recruitee:icecream -> no board
-
->> ICICI Lombard  [India]  — no-job-data-found
-    careers page : https://www.icicilombard.com/careers
-    http status  : 404, 400, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200
-    ATS tried    : greenhouse:icicilombard -> no board ; lever:icicilombard -> no board ; ashby:icicilombard -> no board ; recruitee:icicilombard -> no board
 
 >> iCliniq  [India]  — no-job-data-found
     careers page : undefined
-    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
+    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200, 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
     ATS tried    : greenhouse:icliniq -> no board ; lever:icliniq -> no board ; ashby:icliniq -> no board ; recruitee:icliniq -> no board
 
 >> iCore Pioneer Business Solutions  [India]  — no-job-data-found
     careers page : undefined
-    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200, 200
+    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200, 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200, 200
     ATS tried    : greenhouse:icorepioneerbusiness -> no board ; lever:icorepioneerbusiness -> no board ; ashby:icorepioneerbusiness -> no board ; recruitee:icorepioneerbusiness -> no board
 
 >> iCubesWire  [India]  — no-job-data-found
     careers page : undefined
-    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
+    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200, 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
     ATS tried    : greenhouse:icubeswire -> no board ; lever:icubeswire -> no board ; ashby:icubeswire -> no board ; recruitee:icubeswire -> no board
 
 >> IDBI Bank  [India]  — no-job-data-found
     careers page : undefined
-    http status  : 0, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200
+    http status  : 0, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 0, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200
     ATS tried    : greenhouse:idbi -> no board ; lever:idbi -> no board ; ashby:idbi -> no board ; recruitee:idbi -> no board
 
 >> Ideabytes  [India]  — no-job-data-found
     careers page : undefined
-    http status  : 0, 403, 403, 403, 403, 403, 403, 403, 403, 403, 200
+    http status  : 0, 403, 403, 403, 403, 403, 403, 403, 403, 403, 200, 0, 403, 403, 403, 403, 403, 403, 403, 403, 403, 200
     ATS tried    : greenhouse:ideabytes -> no board ; lever:ideabytes -> no board ; ashby:ideabytes -> no board ; recruitee:ideabytes -> no board
 
 >> iEnergizer  [India]  — no-job-data-found
     careers page : undefined
-    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200, 200
+    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200, 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200, 200
     ATS tried    : greenhouse:ienergizer -> no board ; lever:ienergizer -> no board ; ashby:ienergizer -> no board ; recruitee:ienergizer -> no board
 
 >> iLantus Technologies  [India]  — no-job-data-found
     careers page : undefined
-    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200, skipped-off-domain, skipped-off-domain
+    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200, 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200, skipped-off-domain, skipped-off-domain
     ATS tried    : greenhouse:ilantus -> no board ; lever:ilantus -> no board ; ashby:ilantus -> no board ; recruitee:ilantus -> no board
 
 >> Imarticus Learning  [India]  — no-job-data-found
     careers page : https://imarticus.org/careers/
-    http status  : 200, 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
+    http status  : 200, 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200, 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
     ATS tried    : greenhouse:imarticuslearning -> no board ; lever:imarticuslearning -> no board ; ashby:imarticuslearning -> no board ; recruitee:imarticuslearning -> no board
 
 >> In-Solutions Global  [India]  — no-job-data-found
     careers page : undefined
-    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
+    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200, 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
     ATS tried    : greenhouse:inglobal -> no board ; lever:inglobal -> no board ; ashby:inglobal -> no board ; recruitee:inglobal -> no board
 
 >> IndiaLends  [India]  — no-job-data-found
     careers page : undefined
-    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
+    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200, 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
     ATS tried    : greenhouse:indialends -> no board ; lever:indialends -> no board ; ashby:indialends -> no board ; recruitee:indialends -> no board
 
 >> IndiaP2P  [India]  — no-job-data-found
     careers page : undefined
-    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
+    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200, 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
     ATS tried    : greenhouse:indiap2p -> no board ; lever:indiap2p -> no board ; ashby:indiap2p -> no board ; recruitee:indiap2p -> no board
-
->> IndusInd Bank  [India]  — no-job-data-found
-    careers page : undefined
-    http status  : 0, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, skipped-off-domain, 200
-    ATS tried    : greenhouse:indusind -> no board ; lever:indusind -> no board ; ashby:indusind -> no board ; recruitee:indusind -> no board
 
 >> Infinite Locus  [India]  — no-job-data-found
     careers page : undefined
@@ -2409,7 +2413,7 @@ Total open roles seen       : 2902
 
 >> Infurnia Technologies  [India]  — no-job-data-found
     careers page : undefined
-    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
+    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200, 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
     ATS tried    : greenhouse:infurnia -> no board ; lever:infurnia -> no board ; ashby:infurnia -> no board ; recruitee:infurnia -> no board
 
 >> Ingenico  [France]  — no-job-data-found
@@ -2419,42 +2423,42 @@ Total open roles seen       : 2902
 
 >> Ingram Micro India  [India]  — no-job-data-found
     careers page : undefined
-    http status  : 403, 403, 404, 404, 404, 404, 404, 404, 404, 404, 200, 403
+    http status  : 403, 403, 404, 404, 404, 404, 404, 404, 404, 404, 200, 0, 403, 404, 404, 404, 404, 404, 404, 404, 404, 200, 403
     ATS tried    : greenhouse:ingrammicro -> no board ; lever:ingrammicro -> no board ; ashby:ingrammicro -> no board ; recruitee:ingrammicro -> no board
 
 >> Inkers Technology  [India]  — no-job-data-found
     careers page : undefined
-    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
+    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200, 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
     ATS tried    : greenhouse:inkers -> no board ; lever:inkers -> no board ; ashby:inkers -> no board ; recruitee:inkers -> no board
 
 >> Innoventix Solutions  [India]  — no-job-data-found
     careers page : undefined
-    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
+    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200, 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
     ATS tried    : greenhouse:innoventix -> no board ; lever:innoventix -> no board ; ashby:innoventix -> no board ; recruitee:innoventix -> no board
 
 >> Innovify  [United Kingdom]  — no-job-data-found
     careers page : undefined
-    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
+    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200, 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
     ATS tried    : greenhouse:innovify -> no board ; lever:innovify -> no board ; ashby:innovify -> no board ; recruitee:innovify -> no board
 
 >> Inovies  [India]  — no-job-data-found
     careers page : undefined
-    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
+    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200, 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
     ATS tried    : greenhouse:inovies -> no board ; lever:inovies -> no board ; ashby:inovies -> no board ; recruitee:inovies -> no board
 
 >> Instant Systems  [India]  — no-job-data-found
     careers page : undefined
-    http status  : 0, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200
+    http status  : 0, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 0, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200
     ATS tried    : greenhouse:instant -> no board ; lever:instant -> no board ; ashby:instant -> no board ; recruitee:instant -> no board
 
 >> Intech Additive Solutions  [India]  — no-job-data-found
     careers page : undefined
-    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
+    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200, 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
     ATS tried    : greenhouse:intechadditive -> no board ; lever:intechadditive -> no board ; ashby:intechadditive -> no board ; recruitee:intechadditive -> no board
 
 >> Intech Systems  [India]  — no-job-data-found
     careers page : undefined
-    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
+    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200, 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
     ATS tried    : greenhouse:intech -> no board ; lever:intech -> no board ; ashby:intech -> no board ; recruitee:intech -> no board
 
 >> IntellectAI  [India]  — no-job-data-found
@@ -2464,32 +2468,32 @@ Total open roles seen       : 2902
 
 >> Intellisense Technology  [India]  — no-job-data-found
     careers page : undefined
-    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
+    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200, 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
     ATS tried    : greenhouse:intellisense -> no board ; lever:intellisense -> no board ; ashby:intellisense -> no board ; recruitee:intellisense -> no board
 
 >> IntrCity  [India]  — no-job-data-found
     careers page : undefined
-    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
+    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200, 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
     ATS tried    : greenhouse:intrcity -> no board ; lever:intrcity -> no board ; ashby:intrcity -> no board ; recruitee:intrcity -> no board
 
 >> Intugine  [India]  — no-job-data-found
     careers page : undefined
-    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
+    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200, 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
     ATS tried    : greenhouse:intugine -> no board ; lever:intugine -> no board ; ashby:intugine -> no board ; recruitee:intugine -> no board
 
 >> Inwizards Software Technology  [India]  — no-job-data-found
     careers page : undefined
-    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
+    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200, 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
     ATS tried    : greenhouse:inwizards -> no board ; lever:inwizards -> no board ; ashby:inwizards -> no board ; recruitee:inwizards -> no board
 
 >> Iolite Softwares  [India]  — no-job-data-found
     careers page : undefined
-    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
+    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200, 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
     ATS tried    : greenhouse:iolitesoftwares -> no board ; lever:iolitesoftwares -> no board ; ashby:iolitesoftwares -> no board ; recruitee:iolitesoftwares -> no board
 
 >> Ionio  [India]  — no-job-data-found
     careers page : undefined
-    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
+    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200, 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
     ATS tried    : greenhouse:ionio -> no board ; lever:ionio -> no board ; ashby:ionio -> no board ; recruitee:ionio -> no board
 
 >> iOPEX Technologies  [India]  — no-job-data-found
@@ -2501,16 +2505,12 @@ Total open roles seen       : 2902
     careers page : https://www.indifi.com/careers
     http status  : 
 
->> Indo-MIM  [India]  — timed-out
-    careers page : https://www.indo-mim.com/careers/
+>> Indus Net Technologies  [India]  — timed-out
+    careers page : https://www.indusnet.co.in/careers/
     http status  : 
 
 >> Infiniti Software Solutions  [India]  — timed-out
     careers page : https://www.infinitisoftware.net/careers
-    http status  : 
-
->> Infra.Market  [India]  — timed-out
-    careers page : https://www.infra.market/careers
     http status  : 
 
 >> Innominds  [India]  — timed-out
@@ -2519,4 +2519,8 @@ Total open roles seen       : 2902
 
 >> IntelliMedia Networks  [India]  — timed-out
     careers page : undefined
+    http status  : 
+
+>> ITC Infotech  [India]  — timed-out
+    careers page : https://jobs.itcinfotech.com/itcinfotech/
     http status  : 

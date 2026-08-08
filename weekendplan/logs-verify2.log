@@ -1,0 +1,1385 @@
+Verifying 5956 domains across 26 letter(s), concurrency 10
+
+  250/5956
+  500/5956
+  750/5956
+  1000/5956
+  1250/5956
+  1500/5956
+  1750/5956
+  2000/5956
+  2250/5956
+  2500/5956
+  2750/5956
+  3000/5956
+  3250/5956
+  3500/5956
+  3750/5956
+  4000/5956
+  4250/5956
+(node:20797) MaxListenersExceededWarning: Possible EventEmitter memory leak detected. 11 terminated listeners added to [Fetch]. MaxListeners is 10. Use emitter.setMaxListeners() to increase limit
+(Use `node --trace-warnings ...` to show where the warning was created)
+  4500/5956
+  4750/5956
+  5000/5956
+  5250/5956
+  5500/5956
+  5750/5956
+
+   5897  ok
+     53  redirect
+      4  dead
+      2  parked
+
+Wrote weekendplan/domain-report.txt (59 rows needing attention)
+
+Re-run with --apply to drop the dead and parked entries.
+Scanning 26 letter(s): a b c d e f g h i j k l m n o p q r s t u v w x y z
+  5 letters in parallel, concurrency 8 each
+
+  -> b: 255 companies, starting
+  -> d: 252 companies, starting
+  -> c: 333 companies, starting
+  -> a: 379 companies, starting
+  -> e: 269 companies, starting
+  == d: done, boards read 116/252
+  -> f: 251 companies, starting
+  == e: done, boards read 129/269
+  -> g: 253 companies, starting
+  == c: done, boards read 191/333
+  -> h: 252 companies, starting
+  == b: done, boards read 108/255
+  -> i: 275 companies, starting
+  == a: done, boards read 212/379
+  -> j: 91 companies, starting
+  == j: done, boards read 42/91
+  -> k: 236 companies, starting
+  == g: done, boards read 108/253
+  -> l: 251 companies, starting
+  == f: done, boards read 130/251
+  -> m: 274 companies, starting
+  == i: done, boards read 148/275
+  -> n: 252 companies, starting
+  == k: done, boards read 104/236
+  -> o: 112 companies, starting
+  == h: done, boards read 109/252
+  -> p: 253 companies, starting
+  == l: done, boards read 112/251
+  -> q: 90 companies, starting
+  == m: done, boards read 136/274
+  -> r: 152 companies, starting
+  == o: done, boards read 53/112
+  -> s: 419 companies, starting
+  == q: done, boards read 40/90
+  -> t: 177 companies, starting
+  == n: done, boards read 127/252
+  -> u: 92 companies, starting
+  == p: done, boards read 120/253
+  -> v: 157 companies, starting
+  == u: done, boards read 35/92
+cp: /Users/longfloat/deletelater/jobs/w/test.js and /Users/longfloat/deletelater/jobs/w/test.js are identical (not copied).
+  -> w: 265 companies, starting
+  == t: done, boards read 95/177
+  -> x: 258 companies, starting
+  == r: done, boards read 57/152
+  -> y: 257 companies, starting
+  == v: done, boards read 78/157
+  -> z: 101 companies, starting
+  == s: done, boards read 231/419
+  == y: done, boards read 87/257
+  == w: done, boards read 136/265
+  == x: done, boards read 100/258
+  == z: done, boards read 46/101
+
+All scans finished. Building the four weekend folders...
+Loaded 26 letter(s): a b c d e f g h i j k l m n o p q r s t u v w x y z
+  companies scanned : 5956
+  raw postings      : 73834
+  India + eng + non-senior : 4084
+
+  1-java-flutter-2yr       279 roles   229 companies
+  2-java-flutter-3yr       200 roles   157 companies
+  3-software-2yr          1555 roles   877 companies
+  4-software-3yr           696 roles   428 companies
+
+Wrote weekendplan/INDEX.txt
+Rendering 1254 unread board(s) across 26 letter(s), concurrency 6
+
+[   1/1254]   -      Airtel
+[   2/1254]   -      Acko
+[   3/1254]   -      Adani Group
+[   4/1254]   -      Allcargo Logistics
+[   5/1254]   -      Aavas Financiers
+[   6/1254]   -      Algonomy
+[   7/1254]   -      Aeries Technology
+[   8/1254]   -      Amagi
+[   9/1254]   1 jobs  Aditya Birla Fashion and Retail
+[  10/1254]   -      Akasa Air
+[  11/1254]   -      Amber Enterprises
+[  12/1254]   -      Astrotalk
+[  13/1254]   -      Aster DM Healthcare
+[  14/1254]   -      Ather Energy
+[  15/1254]   -      Aspire Systems
+[  16/1254]   -      Ashok Leyland
+[  17/1254]   -      Augnito
+[  18/1254]   -      Avekshaa Technologies
+[  19/1254]   -      Avenue Supermarts
+[  20/1254]   -      Atomberg
+[  21/1254]   -      Axelerant
+[  22/1254]   -      Aye Finance
+[  23/1254]   -      AU Small Finance Bank
+[  24/1254]   -      Accion Labs
+[  25/1254]   2 jobs  ADP
+[  26/1254]   8 jobs  AECOM
+[  27/1254]  12 jobs  Airbus
+[  28/1254]   -      Amdocs
+[  29/1254]   -      AGCO
+[  30/1254]   -      Arcolab
+[  31/1254]   -      Anheuser-Busch InBev
+[  32/1254]   -      Apexon
+[  33/1254]   -      Arcadis
+[  34/1254]   -      Allstate India
+[  35/1254]   -      ArcelorMittal
+[  36/1254]   4 jobs  Aptiv
+[  37/1254]  24 jobs  Amazon
+[  38/1254]  10 jobs  Asite
+[  39/1254]   3 jobs  Arm
+[  40/1254] 432 jobs  Assa Abloy
+[  41/1254]   -      AstraZeneca
+[  42/1254]   1 jobs  AT&T
+[  43/1254]   -      Baazi Games
+[  44/1254]   -      Arista Networks
+[  45/1254]   -      Bacancy Technology
+[  46/1254]   -      Bahwan CyberTek
+[  47/1254]   -      Bajaj Allianz General Insurance
+[  48/1254]   -      Balancehero India
+[  49/1254]   -      Bank of India
+[  50/1254]   -      Bandhan Bank
+[  51/1254]   -      BankBazaar
+[  52/1254]   -      BankSathi
+[  53/1254]   -      BetterPlace
+[  54/1254]   -      BETSOL
+[  55/1254]   -      Bharat Electronics
+[  56/1254]   -      Bharti Airtel
+[  57/1254]   -      BigBasket
+[  58/1254]   2 jobs  Bijak
+[  59/1254]   -      BharatX
+[  60/1254]   -      Binary Semantics
+[  61/1254]   -      BillDesk
+[  62/1254]   -      Blinkit
+[  63/1254]   -      Birlasoft
+[  64/1254]   -      Blowhorn
+[  65/1254]   -      Blubirch
+[  66/1254]  10 jobs  Blenheim Chalcot India
+[  67/1254]   -      Blue Star
+[  68/1254]   -      Bobble AI
+[  69/1254]  14 jobs  Bolt.Earth
+[  70/1254]   4 jobs  Bright Money
+[  71/1254]   7 jobs  Brainium Information Technologies
+[  72/1254]   -      Bristlecone
+[  73/1254]   -      Britannia Industries
+[  74/1254]   -      BSE
+[  75/1254]   -      boAt
+[  76/1254]   -      BYJU'S
+[  77/1254]   -      Bombay Shaving Company
+[  78/1254]   -      Bain & Company
+[  79/1254]   -      Bynry
+[  80/1254]   1 jobs  Bytes Technolab
+[  81/1254]   -      Barco
+[  82/1254]   -      Barclays
+[  83/1254]   -      BUSINESSNEXT
+[  84/1254]   1 jobs  Baxter
+[  85/1254]   -      Baker Hughes
+[  86/1254]   -      Bentley Systems
+[  87/1254]   1 jobs  BlackRock
+[  88/1254]   -      Bloomreach
+[  89/1254]  42 jobs  Barracuda Networks
+[  90/1254]   1 jobs  Bombardier
+[  91/1254]   -      Booking.com
+[  92/1254]   -      BORN Group
+[  93/1254]  51 jobs  Boomi
+[  94/1254]   9 jobs  Broadcom
+[  95/1254]   -      Bosch
+[  96/1254]   -      Bourntec Solutions
+[  97/1254]   -      Bunge
+[  98/1254]   -      BNY
+[  99/1254]   -      Brane Enterprises
+[ 100/1254]   -      Best Buy
+[ 101/1254]   -      Balmer Lawrie
+[ 102/1254]   -      Beetel Teletech
+[ 103/1254]   -      BlackSoil
+[ 104/1254]   -      Betterworks
+[ 105/1254]   1 jobs  BSEtec
+[ 106/1254]   -      Bottomline Technologies
+[ 107/1254]   8 jobs  Buhler
+[ 108/1254]   -      BOBCARD
+[ 109/1254]   -      Bandhan Mutual Fund
+[ 110/1254]   -      BrainyBeam Technologies
+[ 111/1254]   -      Biz4Solutions
+[ 112/1254]   -      Baroda BNP Paribas Mutual Fund
+[ 113/1254]   -      Belrise Industries
+[ 114/1254]   -      Burns & McDonnell
+[ 115/1254]   -      BharatRohan
+[ 116/1254]   1 jobs  BrainMobi
+[ 117/1254]   -      Bajaj Capital
+[ 118/1254]   -      Binary Republik
+[ 119/1254]  18 jobs  Bilvantis Technologies
+[ 120/1254]   -      Bert Labs
+[ 121/1254]   -      BANKIT
+[ 122/1254]   -      Benori Knowledge
+[ 123/1254]   -      Bluekode Solutions
+[ 124/1254]   -      Bharti AXA Life Insurance
+[ 125/1254]   -      BasicFirst
+[ 126/1254]   -      BytesView Analytics
+[ 127/1254]   -      Battery Smart
+[ 128/1254]   -      BaseApp Systems
+[ 129/1254]   -      Boltzmann Labs
+[ 130/1254]   -      Bajaj Finserv AMC
+[ 131/1254]   -      Coforge
+[ 132/1254]   1 jobs  BluSapphire
+[ 133/1254]   -      BorderPlus
+[ 134/1254]   -      BOB Capital Markets
+[ 135/1254]   -      Bluestock
+[ 136/1254]   -      Cyient
+[ 137/1254]   6 jobs  Clover Infotech
+[ 138/1254]   -      Covalensedigital
+[ 139/1254]   2 jobs  Cynoteck Technology Solutions
+[ 140/1254]   4 jobs  Bandhan Life
+[ 141/1254]   9 jobs  Calsoft
+[ 142/1254]   -      Crest Infosystems
+[ 143/1254]   4 jobs  Codezeros
+[ 144/1254]   -      Cavisson Systems
+[ 145/1254]   -      CG-VAK Software
+[ 146/1254]   -      Confianz Global
+[ 147/1254]   -      CtrlS Datacenters
+[ 148/1254]   -      CommLab India
+[ 149/1254]   -      Capillary Technologies
+[ 150/1254]   -      Cubet Techno Labs
+[ 151/1254]   -      Cult.fit
+[ 152/1254]   -      Country Delight
+[ 153/1254]  13 jobs  CoinSwitch
+[ 154/1254]   -      CoinDCX
+[ 155/1254]   -      Classplus
+[ 156/1254]   -      Cactus Communications
+[ 157/1254]   -      Cashify
+[ 158/1254]   -      CarDekho
+[ 159/1254]   -      Curefoods
+[ 160/1254]   -      Cogoport
+[ 161/1254]   6 jobs  Codingal
+[ 162/1254]   -      Croma
+[ 163/1254]   -      Cointab
+[ 164/1254]  11 jobs  CredFlow
+[ 165/1254]   7 jobs  Cybrilla
+[ 166/1254]   -      CureBay
+[ 167/1254]   -      CaratLane
+[ 168/1254]   -      Central Depository Services (India)
+[ 169/1254]   -      Computer Age Management Services
+[ 170/1254]   1 jobs  Clootrack
+[ 171/1254]   -      Care Health Insurance
+[ 172/1254]   -      CMS Info Systems
+[ 173/1254]   -      Chqbook
+[ 174/1254]   -      C-DAC
+[ 175/1254]   -      CRIF
+[ 176/1254]   4 jobs  Cognizant
+[ 177/1254]   -      Cloud Software Group
+[ 178/1254]   -      Codvo.ai
+[ 179/1254]   3 jobs  CGI
+[ 180/1254]   -      Clari
+[ 181/1254]   -      Cohesity
+[ 182/1254]   -      Chegg
+[ 183/1254]   -      Cornerstone OnDemand
+[ 184/1254]   -      Ciena
+[ 185/1254]   -      Copart
+[ 186/1254]   -      Chubb
+[ 187/1254]   -      Citco
+[ 188/1254]   -      Cummins
+[ 189/1254]   -      CBRE
+[ 190/1254]   -      Chevron
+[ 191/1254]   -      Cimpress
+[ 192/1254]   -      Delhivery
+[ 193/1254]   -      Darwinbox
+[ 194/1254]   -      Dream Sports
+[ 195/1254]   -      Dashtoon
+[ 196/1254]   1 jobs  Cargill
+[ 197/1254]   -      DocPlexus
+[ 198/1254]   -      Corteva Agriscience
+[ 199/1254]  10 jobs  DailyRounds
+[ 200/1254]   -      DriveU
+[ 201/1254]   -      Daalchini Technologies
+[ 202/1254]   -      DrinkPrime
+[ 203/1254]   -      DeepThought
+[ 204/1254]  18 jobs  Dezerv
+[ 205/1254]   -      Dukaan
+[ 206/1254]   -      Digital Green
+[ 207/1254]   -      Drip Capital
+[ 208/1254]   6 jobs  DPDzero
+[ 209/1254]   -      DaMENSCH
+[ 210/1254]   -      Decentro
+[ 211/1254]   -      Digit Insurance
+[ 212/1254]   -      Datacultr
+[ 213/1254]   -      Digantara
+[ 214/1254]   -      Dorleco
+[ 215/1254]   -      Dhan
+[ 216/1254]   -      DATOMS
+[ 217/1254]   -      Deqode
+[ 218/1254]   -      Digitide Solutions
+[ 219/1254]   -      Daffodil Software
+[ 220/1254]   -      Dot Com Infoway
+[ 221/1254]   -      Dhanush InfoTech
+[ 222/1254]   -      Dolat Capital
+[ 223/1254]   1 jobs  Devnagri
+[ 224/1254]   -      Diaspark
+[ 225/1254]   -      DhiWise
+[ 226/1254]   -      DCKAP
+[ 227/1254]   -      Digital Avenues
+[ 228/1254]   -      Deuglo Infosystem
+[ 229/1254]   -      Dev Labs
+[ 230/1254]   -      DMart
+[ 231/1254]   -      Dr Lal PathLabs
+[ 232/1254]   -      Dalmia Bharat
+[ 233/1254]   -      DeltaX
+[ 234/1254]   -      Digicorp
+[ 235/1254]   -      Deutsche Bank
+[ 236/1254]   -      DTCC
+[ 237/1254]   -      Discover Financial Services
+[ 238/1254]   -      Deutsche Telekom Digital Labs
+[ 239/1254]   -      Dayforce
+[ 240/1254]   -      DeepSource
+[ 241/1254]   -      Dell Technologies
+[ 242/1254]   -      Diebold Nixdorf
+[ 243/1254]   -      DENSO
+[ 244/1254]   -      Denodo
+[ 245/1254]   -      Decathlon
+[ 246/1254]   -      DP World
+[ 247/1254]   -      DHL
+[ 248/1254]   -      Danfoss
+[ 249/1254]   -      Danaher
+[ 250/1254]   -      Divum
+[ 251/1254]   -      Dow
+[ 252/1254]   2 jobs  Dazeworks
+[ 253/1254]   -      Directi
+[ 254/1254]   -      delaPlex
+[ 255/1254]   8 jobs  DigiBoxx
+[ 256/1254]   -      Decimal Point Analytics
+[ 257/1254]   -      DynPro India
+[ 258/1254]   -      Docon Technologies
+[ 259/1254]   -      Danlaw
+[ 260/1254]   -      DMI Finance
+[ 261/1254]   -      Deuex Solutions
+[ 262/1254]   -      Dataeaze Systems
+[ 263/1254]   -      DeepKlarity
+[ 264/1254]   -      dotSolved Systems
+[ 265/1254]   -      Delta Corp
+[ 266/1254]   -      Dynamics Square
+[ 267/1254]   -      DBiz.ai
+[ 268/1254]   -      Eternal
+[ 269/1254]   -      eInfochips
+[ 270/1254]   -      DreamSetGo
+[ 271/1254]  43 jobs  Exotel
+[ 272/1254]   -      ElasticRun
+[ 273/1254]   -      Edelweiss Financial Services
+[ 274/1254]   -      eMudhra
+[ 275/1254]   -      ekincare
+[ 276/1254]   -      DoctorC
+[ 277/1254]   -      Euler Motors
+[ 278/1254]   -      EnKash
+[ 279/1254]  10 jobs  Embibe
+[ 280/1254]   -      Expertrons
+[ 281/1254]   5 jobs  Everstage
+[ 282/1254]   -      ExtraaEdge
+[ 283/1254]   -      Eureka Forbes
+[ 284/1254]   -      Entri
+[ 285/1254]   -      Eicher Motors
+[ 286/1254]   2 jobs  Endurance Technologies
+[ 287/1254]   -      Espire Infolabs
+[ 288/1254]   -      ESAF Small Finance Bank
+[ 289/1254]   -      Engineers India Limited
+[ 290/1254]   -      Educational Initiatives
+[ 291/1254]   -      Emids
+[ 292/1254]   -      EnableX
+[ 293/1254]   -      Eupheus Learning
+[ 294/1254]   -      Eloelo
+[ 295/1254]   -      Excelra
+[ 296/1254]   -      Exicom Tele-Systems
+[ 297/1254]   -      Exponentia.ai
+[ 298/1254]   -      Ecofy
+[ 299/1254]   -      Eduvanz
+[ 300/1254]   1 jobs  Engati
+[ 301/1254]   -      Ethos Limited
+[ 302/1254]   -      Exzeo
+[ 303/1254]   -      Emitrr
+[ 304/1254]   -      Experian
+[ 305/1254]   -      eBikeGo
+[ 306/1254]   -      Ericsson
+[ 307/1254]   -      Emerson
+[ 308/1254]   -      Exeevo
+[ 309/1254]   -      Entrust
+[ 310/1254]   5 jobs  Equifax
+[ 311/1254]   -      Epsilon
+[ 312/1254]  28 jobs  Envestnet
+[ 313/1254]   -      Ebix
+[ 314/1254]   -      e2open
+[ 315/1254]   7 jobs  Enphase Energy
+[ 316/1254]   -      Electronic Arts
+[ 317/1254]   -      Expeditors International
+[ 318/1254]   -      Euromonitor International
+[ 319/1254]   4 jobs  Eli Lilly and Company
+[ 320/1254]   1 jobs  Ecolab
+[ 321/1254]   -      eClinicalWorks
+[ 322/1254]   5 jobs  Eviden
+[ 323/1254]   -      Emerio
+[ 324/1254]   -      Eltropy
+[ 325/1254]   -      Excellon Software
+[ 326/1254]   -      Ezulix Software
+[ 327/1254]  59 jobs  Element5
+[ 328/1254]   -      eSSL Security
+[ 329/1254]   -      Esferasoft Solutions
+[ 330/1254]   -      E2E Networks
+[ 331/1254]   -      Expedien eSolutions
+[ 332/1254]   -      Elucidata
+[ 333/1254]   -      eQ Technologic
+[ 334/1254]   -      eresource Infotech
+[ 335/1254]   -      Flipkart
+[ 336/1254]  19 jobs  Fynd
+[ 337/1254]   -      Elegant MicroWeb
+[ 338/1254]   -      Flam
+[ 339/1254]   -      Fortunesoft IT Innovations
+[ 340/1254]   -      FanCode
+[ 341/1254]   1 jobs  Feuji
+[ 342/1254]   -      Fulcrum Digital
+[ 343/1254]   -      Frappe Technologies
+[ 344/1254]   -      FEXLE Services
+[ 345/1254]   -      FinIQ Consulting
+[ 346/1254]   -      Fluidech IT Services
+[ 347/1254]   5 jobs  FinBox
+[ 348/1254]   5 jobs  Fibe
+[ 349/1254]   -      Freo
+[ 350/1254]   -      FPL Technologies
+[ 351/1254]   -      Freecharge
+[ 352/1254]  25 jobs  Futurism Technologies
+[ 353/1254]   -      Federal Bank
+[ 354/1254]   -      FreshToHome
+[ 355/1254]   -      Fasal
+[ 356/1254]   -      Five Star Business Finance
+[ 357/1254]   -      Fyllo
+[ 358/1254]   -      FarMart
+[ 359/1254]   6 jobs  FabHotels
+[ 360/1254]   -      Fashinza
+[ 361/1254]   -      Fidelity Investments
+[ 362/1254]   1 jobs  FactSet
+[ 363/1254]   9 jobs  Forbes Marshall
+[ 364/1254]   -      Festo
+[ 365/1254]   -      Franklin Templeton
+[ 366/1254]   -      Freudenberg
+[ 367/1254]   -      Fortinet
+[ 368/1254]   -      FANUC India
+[ 369/1254]   -      FLSmidth
+[ 370/1254]   -      Fujitsu
+[ 371/1254]   -      FODUU
+[ 372/1254]   -      Fresenius Kabi
+[ 373/1254]   -      FTI Consulting
+[ 374/1254]   -      Fujifilm
+[ 375/1254]   -      Fixity Technologies
+[ 376/1254]   -      Fusion Business Solutions
+[ 377/1254]   -      Futran Solutions
+[ 378/1254]   -      Formidium
+[ 379/1254]   -      Forsys
+[ 380/1254]   -      FluxGen
+[ 381/1254]   -      Fermionic Design
+[ 382/1254]   -      Fabheads Automation
+[ 383/1254]   -      Fello
+[ 384/1254]   -      Falcon Autotech
+[ 385/1254]   -      FirstEigen
+[ 386/1254]   -      Fundfina
+[ 387/1254]   -      Games24x7
+[ 388/1254]   -      First Solar
+[ 389/1254]  timeout  FirstCry
+[ 390/1254]   -      Flipspaces
+[ 391/1254]   -      Fabindia
+[ 392/1254]   -      GUVI
+[ 393/1254]   4 jobs  GreedyGame
+[ 394/1254]   -      Gnani.ai
+[ 395/1254]   1 jobs  Growfin
+[ 396/1254]   3 jobs  Gupshup
+[ 397/1254]   -      Go Digit General Insurance
+[ 398/1254]  25 jobs  greytHR
+[ 399/1254]   -      Genisys Group
+[ 400/1254]   -      Geojit Financial Services
+[ 401/1254]   -      Gemini Consulting & Services
+[ 402/1254]   -      Gaian Solutions
+[ 403/1254]   -      Ganit
+[ 404/1254]   -      Gapblue Software Labs
+[ 405/1254]   -      GoFrugal Technologies
+[ 406/1254]  11 jobs  Godrej Infotech
+[ 407/1254]   -      Genesys International
+[ 408/1254]   -      Godrej Capital
+[ 409/1254]   -      GeekyAnts
+[ 410/1254]   -      Genrobotics
+[ 411/1254]   -      GenWorks Health
+[ 412/1254]   -      GOQii
+[ 413/1254]   -      Geniemode
+[ 414/1254]   9 jobs  Gullak
+[ 415/1254]   -      GyanDhan
+[ 416/1254]   -      GrayQuest
+[ 417/1254]   -      GoBOLT
+[ 418/1254]   -      GetVantage
+[ 419/1254]   9 jobs  GrabOn
+[ 420/1254]   -      GlobalBees
+[ 421/1254]   7 jobs  Greenko Group
+[ 422/1254]   -      Granules India
+[ 423/1254]   -      Genus Power Infrastructures
+[ 424/1254]   -      Grant Thornton Bharat
+[ 425/1254]   5 jobs  GIVA
+[ 426/1254]   -      Gozo Cabs
+[ 427/1254]   9 jobs  Glenmark Pharmaceuticals
+[ 428/1254]   -      Google
+[ 429/1254]   -      Green Apex
+[ 430/1254]   -      GoComet
+[ 431/1254]   -      Gleecus TechLabs
+[ 432/1254]   -      GMM Pfaudler
+[ 433/1254]   -      Growth Natives
+[ 434/1254]   -      GE Aerospace
+[ 435/1254]   6 jobs  General Motors
+[ 436/1254]   4 jobs  Gartner
+[ 437/1254]   -      Globant
+[ 438/1254]   7 jobs  GlobalLogic
+[ 439/1254]   -      GE HealthCare
+[ 440/1254]   -      Goldman Sachs
+[ 441/1254]   -      GEP Worldwide
+[ 442/1254]   -      GSPANN Technologies
+[ 443/1254]   -      Gallagher
+[ 444/1254]   1 jobs  Guidewire Software
+[ 445/1254]   -      Greenway Health
+[ 446/1254]   -      GlobalFoundries
+[ 447/1254]  72 jobs  Glean
+[ 448/1254]   -      Gurucul
+[ 449/1254]   -      Globtier Infotech
+[ 450/1254]   5 jobs  GeoIQ
+[ 451/1254]   -      Getepay
+[ 452/1254]   -      Gainwell Technologies
+[ 453/1254]   7 jobs  Gameberry Labs
+[ 454/1254]   -      Green Tiger Mobility
+[ 455/1254]   -      GoSats
+[ 456/1254]  12 jobs  GreyLabs AI
+[ 457/1254]   -      G2
+[ 458/1254]   -      GenepoweRx
+[ 459/1254]   -      GetMyUni
+[ 460/1254]   -      Gap Inc.
+[ 461/1254]   -      Gromor Finance
+[ 462/1254]   7 jobs  Guidely
+[ 463/1254]   -      Goavega Software
+[ 464/1254]   -      G-Square Solutions
+[ 465/1254]   -      Gracenote
+[ 466/1254]   -      Glamplus
+[ 467/1254]   -      GreenPod Labs
+[ 468/1254]   -      Gameskraft
+[ 469/1254]   -      Genext Students
+[ 470/1254]  23 jobs  Goken
+[ 471/1254]   1 jobs  GroupSoft
+[ 472/1254]   -      Hexaware Technologies
+[ 473/1254]   -      Hinduja Global Solutions
+[ 474/1254]  10 jobs  Hoonartek
+[ 475/1254]   -      Grihum Housing Finance
+[ 476/1254]   -      Halcyon Technologies
+[ 477/1254]  20 jobs  Hiveminds Innovative Market Solutions
+[ 478/1254]   -      Hinduja Tech
+[ 479/1254]   1 jobs  Hansa Cequity
+[ 480/1254]   -      Hidden Brains InfoTech
+[ 481/1254]   -      Hocalwire
+[ 482/1254]   -      HIC Global Solutions
+[ 483/1254]   -      Haptik
+[ 484/1254]   -      HappyFox
+[ 485/1254]   -      Hubbler
+[ 486/1254]   -      HData Systems
+[ 487/1254]  timeout  GyanSys
+[ 488/1254]   -      HDFC Bank
+[ 489/1254]   -      Harbinger Group
+[ 490/1254]   -      HDFC Securities
+[ 491/1254]   -      HDFC ERGO General Insurance
+[ 492/1254]   -      Hero FinCorp
+[ 493/1254]   -      HDB Financial Services
+[ 494/1254]   -      Home Credit India
+[ 495/1254]   -      Home First Finance Company
+[ 496/1254]   -      Hypto
+[ 497/1254]   -      Hono
+[ 498/1254]   -      HealthifyMe
+[ 499/1254]   -      Happay
+[ 500/1254]   -      Healthians
+[ 501/1254]   -      Healthysure
+[ 502/1254]   -      Henry Harvin Education
+[ 503/1254]   -      HealthKart
+[ 504/1254]   -      HungerBox
+[ 505/1254]   -      HexaHealth
+[ 506/1254]   -      HiLabs
+[ 507/1254]   -      Honasa Consumer
+[ 508/1254]   -      Head Digital Works
+[ 509/1254]  21 jobs  Headout
+[ 510/1254]   -      Hitwicket
+[ 511/1254]   -      Hungama Digital Media
+[ 512/1254]   -      Hopscotch
+[ 513/1254]   -      Hoichoi
+[ 514/1254]   -      Holisol Logistics
+[ 515/1254]   -      Hinduja Renewables
+[ 516/1254]   -      Hyundai Motor India Engineering
+[ 517/1254]   -      Honeywell
+[ 518/1254]   -      HTC Global Services
+[ 519/1254]   -      HP Inc.
+[ 520/1254]   -      Hindalco Industries
+[ 521/1254]   -      HSBC
+[ 522/1254]   -      HashiCorp
+[ 523/1254]   -      Hexagon
+[ 524/1254]   -      Hitachi India
+[ 525/1254]   -      Halodoc
+[ 526/1254]   -      Hitachi Energy
+[ 527/1254]   -      Herbalife
+[ 528/1254]   -      H&M Group
+[ 529/1254]   -      Huawei
+[ 530/1254]  75 jobs  Hitachi Digital Services
+[ 531/1254]   -      Hitachi Vantara
+[ 532/1254]   -      Hackett Group
+[ 533/1254]   -      Hindustan Aeronautics
+[ 534/1254]   -      Hansen Technologies
+[ 535/1254]   -      Honda Cars India
+[ 536/1254]   -      Hologic
+[ 537/1254]   -      Hyundai Motor India
+[ 538/1254]   5 jobs  Halma India
+[ 539/1254]   -      Hypersonix
+[ 540/1254]   -      HotStar
+[ 541/1254]   -      HeyCoach
+[ 542/1254]  12 jobs  Habilelabs
+[ 543/1254]   1 jobs  HELLA
+[ 544/1254]   -      HDFC Credila
+[ 545/1254]   -      Hindustan Construction Company
+[ 546/1254]   -      Hindware Home Innovation
+[ 547/1254]   -      Heads Up For Tails
+[ 548/1254]   -      Hedge Equities
+[ 549/1254]   -      Hitachi Rail
+[ 550/1254]   -      Hinduja Hospital
+[ 551/1254]   5 jobs  Hind Rectifiers
+[ 552/1254]   3 jobs  Hybrowlabs Technologies
+[ 553/1254]   2 jobs  Hvantage Technologies
+[ 554/1254]   -      Hubino
+[ 555/1254]   3 jobs  HABER
+[ 556/1254]   -      Holostik
+[ 557/1254]   -      Hasgeek
+[ 558/1254]   -      H.B. Fuller
+[ 559/1254]   -      iauro Systems
+[ 560/1254]   -      Hindustan Foods
+[ 561/1254]   -      Icreon
+[ 562/1254]   -      IDfy
+[ 563/1254]   1 jobs  IDFC FIRST Bank
+[ 564/1254]   -      IBS Software
+[ 565/1254]   1 jobs  IBM
+[ 566/1254]   -      IIFL Finance
+[ 567/1254] 231 jobs  Imarticus Learning
+[ 568/1254]   -      iMerit
+[ 569/1254]   -      Imperva
+[ 570/1254]   -      InCred
+[ 571/1254]   -      ICICI Bank
+[ 572/1254]   -      Indiagold
+[ 573/1254]   -      IndiaMART
+[ 574/1254]   4 jobs  Indifi Technologies
+[ 575/1254]   -      Indus Towers
+[ 576/1254]   -      Indo-MIM
+[ 577/1254]   -      Indus Valley Partners
+[ 578/1254]   -      Infiniti Research
+[ 579/1254]   -      IndiaFirst Life Insurance
+[ 580/1254]   -      InfoCepts
+[ 581/1254]   -      Infocusp Innovations
+[ 582/1254]   -      Infosys BPM
+[ 583/1254]   -      Infosys Public Services
+[ 584/1254]   -      Infinity Learn
+[ 585/1254]   -      Infosys
+[ 586/1254]   -      Infra.Market
+[ 587/1254]   -      Indus Net Technologies
+[ 588/1254]   1 jobs  Innovatiview
+[ 589/1254]   -      Innoraft
+[ 590/1254]   -      Innovaccer
+[ 591/1254]   -      Innoviti
+[ 592/1254]   1 jobs  Innominds
+[ 593/1254]   4 jobs  Instamojo
+[ 594/1254]   -      InterGlobe Enterprises
+[ 595/1254]   7 jobs  Intuitive Surgical
+[ 596/1254]   -      Intas Pharmaceuticals
+[ 597/1254]   -      Intercontinental Exchange
+[ 598/1254]   -      Invenio Business Solutions
+[ 599/1254]   -      Ionixx Technologies
+[ 600/1254]   -      iRage Capital
+[ 601/1254]   -      iSchoolConnect
+[ 602/1254]   -      ITC Infotech
+[ 603/1254]   -      Ishan Technologies
+[ 604/1254]   -      Ipsos
+[ 605/1254]   -      iThink Logistics
+[ 606/1254]   -      iOPEX Technologies
+[ 607/1254]   2 jobs  Ivanti
+[ 608/1254]   -      Iron Mountain
+[ 609/1254]   3 jobs  Ivy Comptech
+[ 610/1254]   -      Ivy Mobility
+[ 611/1254]   -      Junglee Games
+[ 612/1254]   -      ixigo
+[ 613/1254]   -      Jio Financial Services
+[ 614/1254]   -      Jammu & Kashmir Bank
+[ 615/1254]   -      Jaldee
+[ 616/1254]   -      JS TechAlliance
+[ 617/1254]   -      JetSynthesys
+[ 618/1254]   -      Jasmin Infotech
+[ 619/1254]   6 jobs  Jaikvik Technology
+[ 620/1254]   1 jobs  Jinactus Consulting
+[ 621/1254]   -      JindalX
+[ 622/1254]   -      Jain Software
+[ 623/1254]   -      Johnson & Johnson India
+[ 624/1254]   -      JCB India
+[ 625/1254]   -      Jacobs India
+[ 626/1254]   -      KANINI Software Solutions
+[ 627/1254]   1 jobs  Kiya.ai
+[ 628/1254]   8 jobs  Kensium
+[ 629/1254]   -      Kiprosh
+[ 630/1254]   -      JK Tyre & Industries
+[ 631/1254]  timeout  Infiniti Software Solutions
+[ 632/1254]   -      Konstant Infosolutions
+[ 633/1254]   4 jobs  Kindlebit Solutions
+[ 634/1254]   -      Kickdrum
+[ 635/1254]   -      Kwebmaker
+[ 636/1254]   -      KORCOMPTENZ
+[ 637/1254]   -      Keka
+[ 638/1254]   5 jobs  Klenty
+[ 639/1254]   -      KonfHub
+[ 640/1254]   -      Kale Logistics Solutions
+[ 641/1254]   -      Karix Mobile
+[ 642/1254]   3 jobs  Knowlarity
+[ 643/1254]   -      KreditBee
+[ 644/1254]   -      Khatabook
+[ 645/1254]   -      Kloudspot
+[ 646/1254]  11 jobs  Kodo
+[ 647/1254]   -      Kanverse.ai
+[ 648/1254]   -      KoinX
+[ 649/1254]   -      Kofluence
+[ 650/1254]  10 jobs  Kazam
+[ 651/1254]   -      Kuku FM
+[ 652/1254]   -      K12 Techno Services
+[ 653/1254]   -      Kotak Securities
+[ 654/1254]   -      Kirloskar Ferrous Industries
+[ 655/1254]   -      Kirloskar Oil Engines
+[ 656/1254]   -      KEC International
+[ 657/1254]   -      Kalyan Jewellers
+[ 658/1254]   2 jobs  Kolte-Patil Developers
+[ 659/1254]   -      Kajaria Ceramics
+[ 660/1254]   -      KIMS Hospitals
+[ 661/1254]   -      Karnataka Bank
+[ 662/1254]   -      Kohler
+[ 663/1254]   -      Kansai Nerolac Paints
+[ 664/1254]   -      Kroger
+[ 665/1254]   -      Koch
+[ 666/1254]  84 jobs  Kroll
+[ 667/1254] 136 jobs  Knorr-Bremse
+[ 668/1254]   -      KPMG India
+[ 669/1254]   -      Kimberly-Clark
+[ 670/1254]   -      Keywords Studios
+[ 671/1254]   -      Kerry Group
+[ 672/1254]   -      Konica Minolta
+[ 673/1254]   -      KUKA
+[ 674/1254]   -      Kearney
+[ 675/1254]   -      Karmick Solutions
+[ 676/1254]   -      Kloudrac Softwares
+[ 677/1254]   -      KITABOO
+[ 678/1254]   -      KPI Partners
+[ 679/1254]   4 jobs  Komprise
+[ 680/1254]   -      KaiOS Technologies
+[ 681/1254]   -      Kenscio Digital Marketing
+[ 682/1254]   -      Lakshmi Machine Works
+[ 683/1254]   -      L&T Semiconductor Technologies
+[ 684/1254]  12 jobs  LambdaTest
+[ 685/1254]   -      Lava International
+[ 686/1254]   -      Korn Ferry
+[ 687/1254]   -      LawSikho
+[ 688/1254]   -      LDS Infotech
+[ 689/1254]   -      LatentView Analytics
+[ 690/1254]   -      L&T Realty
+[ 691/1254]   -      LEAD School
+[ 692/1254]   -      LetsTransport
+[ 693/1254]   -      Lentra
+[ 694/1254]   -      LG Soft India
+[ 695/1254]   -      Leverage Edu
+[ 696/1254]   -      Liberty General Insurance
+[ 697/1254]   -      Licious
+[ 698/1254]  21 jobs  Lenskart
+[ 699/1254]   9 jobs  Lightfury Games
+[ 700/1254]   -      LightMetrics
+[ 701/1254]   2 jobs  Lendbox
+[ 702/1254]   -      LinearLoop
+[ 703/1254]   -      LimeTray
+[ 704/1254]   1 jobs  Lirisoft
+[ 705/1254]   -      Lifelong India
+[ 706/1254]   -      LimeRoad
+[ 707/1254]   -      Livekeeping
+[ 708/1254]  43 jobs  Litmus7
+[ 709/1254]   1 jobs  Lithium Urban Technologies
+[ 710/1254]   -      Livpure
+[ 711/1254]   -      Livlong
+[ 712/1254]   -      Loadshare Networks
+[ 713/1254]  48 jobs  Lister Technologies
+[ 714/1254]   -      LoanTap
+[ 715/1254]   -      Logiticks
+[ 716/1254]   -      Loylty Rewardz
+[ 717/1254]   -      Lumax Auto Technologies
+[ 718/1254]   -      LTIMindtree
+[ 719/1254]   -      LimeChat
+[ 720/1254]   -      Lynkit
+[ 721/1254]   -      Lyros Technologies
+[ 722/1254]   -      Lumina Datamatics
+[ 723/1254]   -      Landmark Group
+[ 724/1254]   -      Lybrate
+[ 725/1254]   -      Lightstorm
+[ 726/1254]   1 jobs  Lucid Softech
+[ 727/1254]   -      Lloyd's Register
+[ 728/1254]   -      Lionbridge
+[ 729/1254]   -      Lubrizol
+[ 730/1254]   -      Linde
+[ 731/1254]   -      Lucidworks
+[ 732/1254]   -      Lulu Group International
+[ 733/1254]   -      Logitech
+[ 734/1254]   -      Luxoft
+[ 735/1254]   -      Lyra Network
+[ 736/1254]   -      LawRato
+[ 737/1254]   2 jobs  Lumen Technologies
+[ 738/1254]   -      Lenovo
+[ 739/1254]   -      LearningMate
+[ 740/1254]   -      LibSys
+[ 741/1254]   -      Lisbell Technologies
+[ 742/1254]   -      Lanware Solutions
+[ 743/1254]   -      Lean Transition Solutions
+[ 744/1254]   6 jobs  Logicwind
+[ 745/1254]   -      LabGex Innovations
+[ 746/1254]   -      Legasis
+[ 747/1254]   -      Linkfields Innovations
+[ 748/1254]   -      Ladybird Web Solution
+[ 749/1254]   -      Lenok Solutions
+[ 750/1254]   -      Letitbex AI
+[ 751/1254]   -      Linxas
+[ 752/1254]   -      L.G. Balakrishnan & Bros
+[ 753/1254]   -      Lightbeam Health Solutions
+[ 754/1254]  11 jobs  LS Digital
+[ 755/1254]   -      Myntra
+[ 756/1254]   -      Moglix
+[ 757/1254]   -      MobiKwik
+[ 758/1254]   -      MyGate
+[ 759/1254]   -      Money View
+[ 760/1254]   -      Mswipe
+[ 761/1254]   2 jobs  Mintifi
+[ 762/1254]   -      M2P Fintech
+[ 763/1254]   -      Mad Street Den
+[ 764/1254]   -      MediBuddy
+[ 765/1254]   -      Masai School
+[ 766/1254]   -      MyGlamm
+[ 767/1254]   -      MPokket
+[ 768/1254]   -      Moonfrog Labs
+[ 769/1254]   -      MyShubhLife
+[ 770/1254]   -      Mercer Mettl
+[ 771/1254]   -      Mphasis
+[ 772/1254]   -      MedPlus
+[ 773/1254]   -      Mindteck
+[ 774/1254]   1 jobs  MountBlue Technologies
+[ 775/1254]   -      Mu Sigma
+[ 776/1254]   -      Mindbowser
+[ 777/1254]   5 jobs  Mobiloitte
+[ 778/1254]   -      Mindsprint
+[ 779/1254]   -      Mangoit Solutions
+[ 780/1254]   -      Mobio Solutions
+[ 781/1254]   -      Moweb Technologies
+[ 782/1254]   -      Mantra Labs
+[ 783/1254]  timeout  Lemnisk
+[ 784/1254]   -      Mindiii
+[ 785/1254]   -      Motilal Oswal
+[ 786/1254]   -      Muthoot Finance
+[ 787/1254]   -      Max Healthcare
+[ 788/1254]   -      Mahindra Finance
+[ 789/1254]   -      MedGenome
+[ 790/1254]   -      Medanta
+[ 791/1254]   -      Marico
+[ 792/1254]   -      ManipalCigna Health Insurance
+[ 793/1254]   -      Maruti Suzuki
+[ 794/1254]   -      Mahindra Group
+[ 795/1254]   -      Mahindra Logistics
+[ 796/1254]   -      Mother Dairy
+[ 797/1254]   -      Morningstar
+[ 798/1254]   -      MathWorks
+[ 799/1254]  timeout  MakeMyTrip
+[ 800/1254]  16 jobs  Microsoft
+[ 801/1254]   -      MG Motor India
+[ 802/1254]   -      Majesco
+[ 803/1254]   -      Media.net
+[ 804/1254]   -      Marlabs
+[ 805/1254]   -      Modernizing Medicine
+[ 806/1254]   -      Multiplier
+[ 807/1254]  15 jobs  Mroads
+[ 808/1254]   -      Mercer
+[ 809/1254]   -      McKinsey & Company
+[ 810/1254]   3 jobs  Mondelez International
+[ 811/1254]   9 jobs  MetLife
+[ 812/1254]   3 jobs  Marsh McLennan
+[ 813/1254]   -      Merck
+[ 814/1254]   -      Murata
+[ 815/1254]   -      Magna International
+[ 816/1254]   -      Mirae Asset
+[ 817/1254]   -      Mastech Digital
+[ 818/1254]   -      Mercedes-Benz Research and Development India
+[ 819/1254]   -      Maersk
+[ 820/1254]   -      Mitsubishi Electric India
+[ 821/1254]   -      MKS Instruments
+[ 822/1254]   -      MOURI Tech
+[ 823/1254]   3 jobs  magicpin
+[ 824/1254]   -      Mobiotics
+[ 825/1254]   -      Magic Software
+[ 826/1254]   -      Metayb
+[ 827/1254]   -      Marg ERP
+[ 828/1254]   -      Moneycontrol
+[ 829/1254]   -      Manipal Technologies
+[ 830/1254]   -      Medha Servo Drives
+[ 831/1254]   -      Marelli
+[ 832/1254]   1 jobs  MyCaptain
+[ 833/1254]   -      Movius Interactive
+[ 834/1254]   -      Meditab Software
+[ 835/1254]   -      Moback
+[ 836/1254]   1 jobs  Midland Microfin
+[ 837/1254]   -      Mobiezy
+[ 838/1254]   1 jobs  MyAnatomy
+[ 839/1254]   -      Marquee Semiconductor
+[ 840/1254]   5 jobs  Nykaa
+[ 841/1254]   -      Mizuho
+[ 842/1254]   4 jobs  Medvarsity Online
+[ 843/1254]   -      Nazara Technologies
+[ 844/1254]   -      Noise
+[ 845/1254]   -      NimbleEdge
+[ 846/1254]   -      Netcore Cloud
+[ 847/1254]   -      NoBroker
+[ 848/1254]   -      Novel Patterns
+[ 849/1254]   -      National Stock Exchange of India
+[ 850/1254]   -      Nawgati
+[ 851/1254]   -      NxtGen Datacenter & Cloud Technologies
+[ 852/1254]   -      nurture.farm
+[ 853/1254]   -      NPST
+[ 854/1254]   -      Nuvama Wealth Management
+[ 855/1254]   -      NeoGrowth Credit
+[ 856/1254]   -      Niva Bupa Health Insurance
+[ 857/1254]   -      NIRA
+[ 858/1254]   -      NephroPlus
+[ 859/1254]   -      Newton School
+[ 860/1254]   -      Next Education
+[ 861/1254]   -      Novac Technology Solutions
+[ 862/1254]   1 jobs  Navneet Education
+[ 863/1254]   1 jobs  Newgen Software
+[ 864/1254]   -      Nintec Systems
+[ 865/1254]   -      NextWealth Entrepreneurs
+[ 866/1254]   -      Nihilent
+[ 867/1254]  76 jobs  NEC Software Solutions India
+[ 868/1254]   -      Novigo Solutions
+[ 869/1254]   -      Nexdigm
+[ 870/1254]   -      Netsmartz
+[ 871/1254]  10 jobs  Neuronimbus
+[ 872/1254]   -      NimbleWork
+[ 873/1254]   -      Nagarro
+[ 874/1254]   -      Nuvento
+[ 875/1254]   -      Nexthoughts Software
+[ 876/1254]   -      NextBillion.ai
+[ 877/1254]   -      NetApp
+[ 878/1254]   -      Newfold Digital
+[ 879/1254]   2 jobs  Nexthink
+[ 880/1254]   -      Nektar.ai
+[ 881/1254]   -      Navan
+[ 882/1254]  61 jobs  NatWest Group
+[ 883/1254]   -      Neetable Technologies
+[ 884/1254]   -      NOV
+[ 885/1254]   -      National Australia Bank
+[ 886/1254]   -      Novartis
+[ 887/1254]   -      Nimblechapps
+[ 888/1254]   -      Novatium Solutions
+[ 889/1254]   -      Norwin Technologies
+[ 890/1254]   -      Nvizion Solutions
+[ 891/1254]   -      Nissan Motor India
+[ 892/1254]   -      Nirmalya Labs
+[ 893/1254]   -      Nyros Technologies
+[ 894/1254]   -      Nearbuy
+[ 895/1254]   -      Netclues
+[ 896/1254]   -      NetElixir
+[ 897/1254]  timeout  Neysa
+[ 898/1254]   -      NestAway Technologies
+[ 899/1254]   -      NAYAN
+[ 900/1254]   -      Netrasemi
+[ 901/1254]   -      Novopay Solutions
+[ 902/1254]   -      Nippon India Mutual Fund
+[ 903/1254]   -      Network18 Media & Investments
+[ 904/1254]   -      NDTV
+[ 905/1254]   -      NCS Group
+[ 906/1254]   -      Orbis Financial
+[ 907/1254]   -      o9 Solutions India
+[ 908/1254]   -      Onward Technologies
+[ 909/1254]   -      Omnicell India
+[ 910/1254]   -      Openwave Computing
+[ 911/1254]   -      National Instruments
+[ 912/1254]   -      OnMobile Global
+[ 913/1254]   -      OneClick IT Consultancy
+[ 914/1254]   -      ORI (ORIserve)
+[ 915/1254]   -      Ospyn Technologies
+[ 916/1254]   -      Orangewood Labs
+[ 917/1254]   -      Orange Health Labs
+[ 918/1254]   -      Optimus Information
+[ 919/1254]   -      ONDC
+[ 920/1254]   -      Oxane Partners
+[ 921/1254]   -      Paisabazaar
+[ 922/1254]   -      Progcap
+[ 923/1254]   -      Piramal Finance
+[ 924/1254]   -      Propelld
+[ 925/1254]   -      PayU
+[ 926/1254]   -      Pine Labs
+[ 927/1254]   -      PharmEasy
+[ 928/1254]   -      Practo
+[ 929/1254]   -      Portea Medical
+[ 930/1254]   -      Pratilipi
+[ 931/1254]   -      PhysicsWallah
+[ 932/1254]   -      Purple Style Labs
+[ 933/1254]   -      Petpooja
+[ 934/1254]   -      PNB Housing Finance
+[ 935/1254]   -      Pixxel
+[ 936/1254]   -      Persistent Systems
+[ 937/1254]   -      Pixis
+[ 938/1254]   -      Pepper Content
+[ 939/1254]   -      Pee Safe
+[ 940/1254]   8 jobs  Prodapt
+[ 941/1254]   -      Progressive Infotech
+[ 942/1254]   -      Photon Interactive
+[ 943/1254]   -      Peerbits
+[ 944/1254]   -      Positiwise Software
+[ 945/1254]   -      Pidilite Industries
+[ 946/1254]   -      Praj Industries
+[ 947/1254]   1 jobs  PayPal
+[ 948/1254]   2 jobs  Pranathi Software Services
+[ 949/1254]   -      Paysafe
+[ 950/1254]   8 jobs  Planful
+[ 951/1254]   -      Paylocity
+[ 952/1254]   -      Progress Software
+[ 953/1254]   -      PitchBook
+[ 954/1254]   -      Perficient
+[ 955/1254]   -      Precisely
+[ 956/1254]  41 jobs  PowerSchool
+[ 957/1254]   -      Pramata
+[ 958/1254]   -      Programmers.io
+[ 959/1254]   -      PROLIM
+[ 960/1254]   -      Prometric
+[ 961/1254]   -      Protiviti
+[ 962/1254]   -      Parker Hannifin
+[ 963/1254]   -      Panasonic
+[ 964/1254]   -      Presidio
+[ 965/1254]   -      Philips
+[ 966/1254]   1 jobs  Pfizer
+[ 967/1254]   -      Quarks Technosoft
+[ 968/1254]   -      Quinbay
+[ 969/1254]   -      Qandle
+[ 970/1254]   -      QNu Labs
+[ 971/1254]   -      Qualitia Software
+[ 972/1254]   -      Qwipo
+[ 973/1254]  timeout  Park+
+[ 974/1254]   -      Qentelli
+[ 975/1254]  11 jobs  Quadra Systems
+[ 976/1254]  timeout  Provakil
+[ 977/1254]   -      Qdesq
+[ 978/1254]   -      Quantum IT Innovation
+[ 979/1254]   -      Qulabs Software
+[ 980/1254]   -      QBotica
+[ 981/1254]   -      Quintype Technologies
+[ 982/1254]   -      Qvantel
+[ 983/1254]   -      Quorum Software
+[ 984/1254]   -      QBrainX
+[ 985/1254]  11 jobs  Qode Advisors
+[ 986/1254]   -      Qatalys
+[ 987/1254]   -      R Systems International
+[ 988/1254]   1 jobs  Rebel Foods
+[ 989/1254]   -      Radixweb
+[ 990/1254]   1 jobs  Route Mobile
+[ 991/1254]   3 jobs  Reflections Info Systems
+[ 992/1254]   -      Rapidops
+[ 993/1254]   -      RNF Technologies
+[ 994/1254]  11 jobs  Radiansys
+[ 995/1254]   -      Redcliffe Labs
+[ 996/1254]   -      RevFin
+[ 997/1254]   -      Rezolve.ai
+[ 998/1254]   -      Rang De
+[ 999/1254]   4 jobs  RailTel Corporation of India
+[1000/1254]   -      Rapid Circle
+[1001/1254]  16 jobs  Roadcast
+[1002/1254]   -      Rapid7 India
+[1003/1254]   -      Rockstar Games India
+[1004/1254]   -      Roche India
+[1005/1254]   -      Resulticks
+[1006/1254]   -      Renault Nissan Technology & Business Centre India
+[1007/1254]   -      RTX India
+[1008/1254]   -      Ryan India
+[1009/1254]   -      Sasken Technologies
+[1010/1254]   -      Schindler
+[1011/1254]   -      Safexpress
+[1012/1254]   -      Sagility
+[1013/1254]   -      SciSpace
+[1014/1254]  19 jobs  Sciative Solutions
+[1015/1254]   -      Seagate Technology
+[1016/1254]   -      Sealed Air
+[1017/1254]   -      SBI General Insurance
+[1018/1254]   -      Sensata Technologies
+[1019/1254]   -      SenseHawk
+[1020/1254]   -      Servify
+[1021/1254]   6 jobs  Seclore
+[1022/1254]   -      Setu
+[1023/1254]   -      Shadowfax
+[1024/1254]   -      Shell
+[1025/1254]   -      Sensiple
+[1026/1254]   -      SEW
+[1027/1254]   -      Shree Cement
+[1028/1254]   4 jobs  Sibros
+[1029/1254]   1 jobs  Signeasy
+[1030/1254]   -      Sinch
+[1031/1254]   4 jobs  Sika
+[1032/1254]   -      Smartron
+[1033/1254]   -      Skuad
+[1034/1254]   1 jobs  Siemens India
+[1035/1254]   -      Siemens
+[1036/1254]   -      Snapmint
+[1037/1254]   -      Smiths Group
+[1038/1254]   -      Softude
+[1039/1254]   -      South Indian Bank
+[1040/1254]   -      Spice Money
+[1041/1254]   -      Sportz Interactive
+[1042/1254]   -      Stanza Living
+[1043/1254]   -      Star Health and Allied Insurance
+[1044/1254]   -      Sprinto
+[1045/1254]   -      Software AG
+[1046/1254]   -      Stellantis
+[1047/1254]   -      Sterling and Wilson
+[1048/1254]   -      Straumann
+[1049/1254]   -      Stratacent
+[1050/1254]   -      Sunstone
+[1051/1254]   1 jobs  Sumitomo Electric
+[1052/1254]   -      Sun Technologies
+[1053/1254]   -      SUGAR Cosmetics
+[1054/1254]   -      SuperGaming
+[1055/1254]   -      Sutherland
+[1056/1254]   -      Suzlon Energy
+[1057/1254]   -      Supreme Industries
+[1058/1254]   -      SuperProcure
+[1059/1254]  39 jobs  Swiggy
+[1060/1254]   -      Syneos Health
+[1061/1254]   -      Synchrony
+[1062/1254]   -      Synup
+[1063/1254]   7 jobs  Systango
+[1064/1254]   -      Synoptek
+[1065/1254]   -      Systems Plus
+[1066/1254]   -      Trinity Mobility
+[1067/1254]   -      Sundaram Finance
+[1068/1254]   -      Thryve Digital
+[1069/1254]   -      udChalo (UpCurve Business Services)
+[1070/1254]  10 jobs  ThoughtFocus
+[1071/1254]   -      Sysvine Technologies
+[1072/1254]   -      U GRO Capital
+[1073/1254]   -      Utkarsh Small Finance Bank
+[1074/1254]   -      Uno Minda
+[1075/1254]  32 jobs  Ultraviolette Automotive
+[1076/1254]   -      Unicommerce eSolutions
+[1077/1254]   -      Ujjivan Small Finance Bank
+[1078/1254]  29 jobs  Unbox Robotics
+[1079/1254]   -      Uolo
+[1080/1254]   -      UPS
+[1081/1254]   -      Unity Small Finance Bank
+[1082/1254]   -      Unimity Solutions
+[1083/1254]   -      UBS
+[1084/1254]   -      Unimoni India
+[1085/1254]   -      UL Solutions
+[1086/1254]   -      Unifynd Technologies
+[1087/1254]   -      Vyrazu Labs
+[1088/1254]   -      VSM Software
+[1089/1254]   7 jobs  Vibidsoft
+[1090/1254]   -      Vinove Software
+[1091/1254]   -      Vidyakul
+[1092/1254]   -      Vetic
+[1093/1254]   -      Volopay
+[1094/1254]   -      Varuna Group
+[1095/1254]   -      Vastu Housing Finance
+[1096/1254]   -      Virinchi
+[1097/1254]   -      Verisk India
+[1098/1254]   -      Verint India
+[1099/1254]  timeout  Subex
+[1100/1254]   -      VFS Global
+[1101/1254]   -      WazirX
+[1102/1254]   -      Viavi Solutions India
+[1103/1254]   -      Wakefit
+[1104/1254]   -      VWG Digital Solutions India
+[1105/1254]   -      WheelsEye
+[1106/1254]   1 jobs  WinZO Games
+[1107/1254]   4 jobs  Wolken Software
+[1108/1254]   -      Webandcrafts
+[1109/1254]   3 jobs  Winjit Technologies
+[1110/1254]   -      Wysa
+[1111/1254]   4 jobs  Wobot AI
+[1112/1254]   7 jobs  Welspun World
+[1113/1254]   -      Wayfair
+[1114/1254]  17 jobs  Wavelabs Technologies
+[1115/1254]   -      Wipro PARI
+[1116/1254]   -      WSP
+[1117/1254]   -      Wiom
+[1118/1254]   -      Wholsum Foods (Slurrp)
+[1119/1254]   -      Wood
+[1120/1254]   -      Wistron
+[1121/1254]  10 jobs  World Wide Technology
+[1122/1254]   -      WM (Waste Management)
+[1123/1254]   -      WPP
+[1124/1254]   -      Winnebago Industries
+[1125/1254]   -      Williams-Sonoma
+[1126/1254]   1 jobs  Wienerberger
+[1127/1254]   2 jobs  WAGO
+[1128/1254]   -      Wendy's
+[1129/1254]   -      Wingstop
+[1130/1254]   -      Wesco International
+[1131/1254]   -      WH Smith
+[1132/1254]   -      Wesfarmers
+[1133/1254]   -      WeTransfer (Bending Spoons)
+[1134/1254]   2 jobs  Westpac
+[1135/1254]   -      Wallarm
+[1136/1254]   -      Wix.com
+[1137/1254]   -      Weights & Biases
+[1138/1254]   -      Wefox
+[1139/1254]   -      Withings
+[1140/1254]   -      Wooqer
+[1141/1254]   7 jobs  Wolfram Research
+[1142/1254]   4 jobs  WebClues Infotech
+[1143/1254]   -      WiSilica
+[1144/1254]   -      WOWinfotech
+[1145/1254]   -      Wealthy
+[1146/1254]   -      Webs Optimization Software Solution
+[1147/1254]   -      Webkorps Services
+[1148/1254]   -      Winvesta
+[1149/1254]   -      WeRize
+[1150/1254]   8 jobs  The Whole Truth Foods
+[1151/1254]   -      worXogo
+[1152/1254]   -      Waaree Energies
+[1153/1254]   -      Wify
+[1154/1254]   -      Wilo
+[1155/1254]   1 jobs  Wilhelmsen
+[1156/1254]   -      WorkForce Software
+[1157/1254]   -      Webasto
+[1158/1254]   -      Webtel Electrosoft
+[1159/1254]   -      XpressBees
+[1160/1254]  40 jobs  Xoxoday (Giift)
+[1161/1254]   -      Woolworths Group
+[1162/1254]   -      XenonStack
+[1163/1254]   -      XPay.Life
+[1164/1254]   -      Xoriant
+[1165/1254]   -      XAmplify
+[1166/1254]   -      Xtranet Technologies
+[1167/1254]   -      Xencia Technology
+[1168/1254]   -      XM Cyber
+[1169/1254]   -      XcelPros
+[1170/1254]   -      Xanadu Quantum
+[1171/1254]  18 jobs  Xenon Pharmaceuticals
+[1172/1254]   -      Xencor
+[1173/1254]   4 jobs  X (formerly Twitter)
+[1174/1254]   4 jobs  xAI
+[1175/1254]   -      Xwing
+[1176/1254]   -      Xperi
+[1177/1254]   -      Xactware
+[1178/1254]   -      Xplore
+[1179/1254]   -      Xledger
+[1180/1254]   1 jobs  Xogene Services
+[1181/1254]   -      Xtremax
+[1182/1254]   -      Xponential Fitness
+[1183/1254]  19 jobs  XTEND
+[1184/1254]   -      Xevo
+[1185/1254]   -      Xsight Labs
+[1186/1254]   -      Xpand IT
+[1187/1254]   -      Xpressdocs
+[1188/1254]   -      XiFin
+[1189/1254]   -      XCALLY
+[1190/1254]   -      Xolvis
+[1191/1254]   -      Xenex Disinfection
+[1192/1254]   -      Yatra Online
+[1193/1254]   -      XFlow Payments
+[1194/1254]   -      XcelTec
+[1195/1254]   -      Xilligence
+[1196/1254]   -      Xena Technologies
+[1197/1254]   -      Yalamanchili Software Exports
+[1198/1254]   -      Yodlee (Envestnet)
+[1199/1254]   -      Ymgrad
+[1200/1254]   -      Yash Raj Films
+[1201/1254]   -      YourStory Media
+[1202/1254]   -      Yes Madam
+[1203/1254]   -      Yasho Industries
+[1204/1254]   -      XM
+[1205/1254]   -      Yash Pakka
+[1206/1254]   -      Yahoo
+[1207/1254]   -      Yum China
+[1208/1254]   -      YCharts
+[1209/1254]   -      Yokogawa Electric
+[1210/1254]   -      Yolo Group
+[1211/1254]   1 jobs  YuLife
+[1212/1254]   -      Yieldstreet
+[1213/1254]   -      Yourgene Health
+[1214/1254]   -      Yandex
+[1215/1254]   -      Yousician
+[1216/1254]   -      Yoco
+[1217/1254]   2 jobs  Yellow Pages Canada
+[1218/1254]   -      Yuhu
+[1219/1254]   -      YantraLab
+[1220/1254]   -      Yantra Innovations
+[1221/1254]   -      Yaksha
+[1222/1254]   -      Yethi Consulting
+[1223/1254]   -      Yash Infotech Pvt Ltd
+[1224/1254]   -      YBYTE Technologies
+[1225/1254]   -      Yogsoft
+[1226/1254]   -      Yitro Global
+[1227/1254]   -      YOptima
+[1228/1254]   9 jobs  YOU Broadband
+[1229/1254]   -      YM Global Technologies
+[1230/1254]   -      YSoft Solution
+[1231/1254]  timeout  Yellow Class
+[1232/1254]   -      Yugam Group
+[1233/1254]   1 jobs  Yugasys
+[1234/1254]   -      Yug Technologies
+[1235/1254]   -      YuSa Infotech
+[1236/1254]   -      Yappes
+[1237/1254]   -      Yukthi Software
+[1238/1254]   -      Yamaha Motor India
+[1239/1254]   -      YKK India
+[1240/1254]   -      Yokohama Off-Highway Tires
+[1241/1254]   -      Yapily
+[1242/1254]  timeout  Yavar TechWorks
+[1243/1254]   -      Zeb
+[1244/1254]   -      Yseop
+[1245/1254]   -      ZS
+[1246/1254]   -      Zeotap
+[1247/1254]   -      Zerone Consulting
+[1248/1254]   -      Zithara
+[1249/1254]   -      ZestIOT
+[1250/1254]  10 jobs  Zamp
+[1251/1254]   -      Zuora India
+[1252/1254]   -      Zapbuild
+[1253/1254]   -      Zoftcares Solutions
+[1254/1254]   1 jobs  Zinavo Technologies
+
+  boards recovered : 243 of 1254
+  postings added   : 3358
+Loaded 26 letter(s): a b c d e f g h i j k l m n o p q r s t u v w x y z
+  companies scanned : 5956
+  raw postings      : 76717
+  India + eng + non-senior : 4384
+
+  1-java-flutter-2yr       289 roles   239 companies
+  2-java-flutter-3yr       206 roles   163 companies
+  3-software-2yr          1694 roles   958 companies
+  4-software-3yr           712 roles   440 companies
+
+Wrote weekendplan/INDEX.txt
+freelance sweep 2026-08-08 04:44:03
+  total postings   : 2870
+  biddable gigs    : 1155
+  board contract   : 365
+
+  1-bid-now              60 items
+  2-worth-a-look        120 items
+  3-contract-roles       80 items
+
+Wrote weekendplan_freelance/INDEX.txt

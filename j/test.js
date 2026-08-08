@@ -1423,21 +1423,28 @@ function slugs(company) {
 }
 
 function careerUrls(company) {
-  const s = company.site.replace(/^https?:\/\//, '').replace(/\/$/, '');
-  return [...new Set([
-    company.careers,
-    `https://careers.${s}`,
-    `https://${s}/careers`,
-    `https://${s}/career`,
-    `https://${s}/jobs`,
-    `https://${s}/join-us`,
-    `https://${s}/join-our-team`,
-    `https://${s}/careers.html`,
-    `https://${s}/company/careers`,
-    `https://${s}/about/careers`,
-    `https://${s}/current-openings`,
-    `https://${s}/`,
-  ].filter(Boolean))];
+  const s = company.site.replace(/^https?:\/\//, '').replace(/\/$/, '').replace(/^www\./, '');
+  const paths = (h) => [
+    `https://careers.${h}`,
+    `https://${h}/careers`,
+    `https://${h}/career`,
+    `https://${h}/jobs`,
+    `https://${h}/join-us`,
+    `https://${h}/join-our-team`,
+    `https://${h}/careers.html`,
+    `https://${h}/company/careers`,
+    `https://${h}/about/careers`,
+    `https://${h}/current-openings`,
+    `https://${h}/`,
+  ];
+  /*
+   * The www form is not a stylistic duplicate — a lot of large companies
+   * publish no A record at the apex at all (fujitsu.com, dream11.com,
+   * denso.com, schaeffler.com...). Probing only the bare domain makes every
+   * one of them permanently "unreachable" no matter how many paths we try.
+   * Bare first so the common case still resolves on the first request.
+   */
+  return [...new Set([company.careers, ...paths(s), ...paths(`www.${s}`)].filter(Boolean))];
 }
 
 /** Pull career-page links out of a homepage — the most reliable way to find a

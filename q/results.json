@@ -986,7 +986,7 @@
     {
      "url": "https://careers.qualcomm.com",
      "status": 200,
-     "bytes": 278639
+     "bytes": 280160
     },
     {
      "url": "https://qualcomm.com/careers",
@@ -1024,7 +1024,7 @@
     "workable:qualcomm -> no board"
    ]
   },
-  "ms": 33073
+  "ms": 39182
  },
  {
   "company": "Quest Global",
@@ -1078,7 +1078,7 @@
     "workable:questglobal -> no board"
    ]
   },
-  "ms": 16722
+  "ms": 17784
  },
  {
   "company": "QuickHeal",
@@ -1103,27 +1103,27 @@
     {
      "url": "https://quickheal.com/careers",
      "status": 404,
-     "bytes": 126503
+     "bytes": 126507
     },
     {
      "url": "https://quickheal.com/career",
      "status": 404,
-     "bytes": 126501
+     "bytes": 126498
     },
     {
      "url": "https://quickheal.com/jobs",
      "status": 404,
-     "bytes": 126487
+     "bytes": 126492
     },
     {
      "url": "https://quickheal.com/join-us",
      "status": 404,
-     "bytes": 126506
+     "bytes": 126502
     },
     {
      "url": "https://quickheal.com/join-our-team",
      "status": 404,
-     "bytes": 126532
+     "bytes": 126537
     }
    ],
    "candidates": [
@@ -1141,7 +1141,7 @@
     "workable:quickheal -> no board"
    ]
   },
-  "ms": 13867
+  "ms": 15448
  },
  {
   "company": "Quantiphi",
@@ -1867,7 +1867,7 @@
     {
      "url": "https://quantiphi.com/careers",
      "status": 200,
-     "bytes": 50808
+     "bytes": 50809
     },
     {
      "url": "https://quantiphi.com/career",
@@ -1877,12 +1877,12 @@
     {
      "url": "https://quantiphi.com/jobs",
      "status": 404,
-     "bytes": 26486
+     "bytes": 26487
     },
     {
      "url": "https://quantiphi.com/join-us",
      "status": 404,
-     "bytes": 26485
+     "bytes": 26487
     },
     {
      "url": "https://quantiphi.com/join-our-team",
@@ -1897,7 +1897,7 @@
     {
      "url": "https://quantiphi.com/company/careers",
      "status": 404,
-     "bytes": 26487
+     "bytes": 26488
     },
     {
      "url": "https://quantiphi.com/about/careers",
@@ -1907,7 +1907,7 @@
     {
      "url": "https://quantiphi.com/current-openings",
      "status": 404,
-     "bytes": 26487
+     "bytes": 26488
     },
     {
      "url": "https://quantiphi.com/",
@@ -1927,7 +1927,7 @@
     "workday:quantiphi -> 40 jobs"
    ]
   },
-  "ms": 14441
+  "ms": 15042
  },
  {
   "company": "Qure.ai",
@@ -2024,7 +2024,7 @@
     "workable:qure -> no board"
    ]
   },
-  "ms": 12720
+  "ms": 14458
  },
  {
   "company": "Quantum Leap",
@@ -2095,6 +2095,62 @@
      "url": "https://quantumleap.in/",
      "status": 403,
      "bytes": 717
+    },
+    {
+     "url": "https://careers.www.quantumleap.in",
+     "status": 0,
+     "bytes": 0,
+     "error": "fetch failed"
+    },
+    {
+     "url": "https://www.quantumleap.in/careers",
+     "status": 404,
+     "bytes": 714
+    },
+    {
+     "url": "https://www.quantumleap.in/career",
+     "status": 404,
+     "bytes": 714
+    },
+    {
+     "url": "https://www.quantumleap.in/jobs",
+     "status": 404,
+     "bytes": 714
+    },
+    {
+     "url": "https://www.quantumleap.in/join-us",
+     "status": 404,
+     "bytes": 714
+    },
+    {
+     "url": "https://www.quantumleap.in/join-our-team",
+     "status": 404,
+     "bytes": 714
+    },
+    {
+     "url": "https://www.quantumleap.in/careers.html",
+     "status": 404,
+     "bytes": 714
+    },
+    {
+     "url": "https://www.quantumleap.in/company/careers",
+     "status": 404,
+     "bytes": 714
+    },
+    {
+     "url": "https://www.quantumleap.in/about/careers",
+     "status": 404,
+     "bytes": 714
+    },
+    {
+     "url": "https://www.quantumleap.in/current-openings",
+     "status": 404,
+     "bytes": 714
+    },
+    {
+     "url": "https://www.quantumleap.in/",
+     "status": 403,
+     "bytes": 717
     }
    ],
    "candidates": [
@@ -2112,7 +2168,7 @@
     "workable:quantumleap -> no board"
    ]
   },
-  "ms": 7782
+  "ms": 9607
  },
  {
   "company": "Quinbay",
@@ -2184,6 +2240,62 @@
      "url": "https://quinbay.com/",
      "status": 200,
      "bytes": 114
+    },
+    {
+     "url": "https://careers.www.quinbay.com",
+     "status": 0,
+     "bytes": 0,
+     "error": "fetch failed"
+    },
+    {
+     "url": "https://www.quinbay.com/careers",
+     "status": 200,
+     "bytes": 114
+    },
+    {
+     "url": "https://www.quinbay.com/career",
+     "status": 200,
+     "bytes": 114
+    },
+    {
+     "url": "https://www.quinbay.com/jobs",
+     "status": 200,
+     "bytes": 114
+    },
+    {
+     "url": "https://www.quinbay.com/join-us",
+     "status": 200,
+     "bytes": 114
+    },
+    {
+     "url": "https://www.quinbay.com/join-our-team",
+     "status": 200,
+     "bytes": 114
+    },
+    {
+     "url": "https://www.quinbay.com/careers.html",
+     "status": 200,
+     "bytes": 114
+    },
+    {
+     "url": "https://www.quinbay.com/company/careers",
+     "status": 200,
+     "bytes": 114
+    },
+    {
+     "url": "https://www.quinbay.com/about/careers",
+     "status": 200,
+     "bytes": 114
+    },
+    {
+     "url": "https://www.quinbay.com/current-openings",
+     "status": 200,
+     "bytes": 114
+    },
+    {
+     "url": "https://www.quinbay.com/",
+     "status": 200,
+     "bytes": 114
     }
    ],
    "candidates": [
@@ -2201,7 +2313,7 @@
     "workable:quinbay -> no board"
    ]
   },
-  "ms": 3838
+  "ms": 5945
  },
  {
   "company": "QburstTechnologies",
@@ -2274,6 +2386,62 @@
      "bytes": 473281
     },
     {
+     "url": "https://careers.www.qburst.com",
+     "status": 0,
+     "bytes": 0,
+     "error": "fetch failed"
+    },
+    {
+     "url": "https://www.qburst.com/careers",
+     "status": 404,
+     "bytes": 246287
+    },
+    {
+     "url": "https://www.qburst.com/career",
+     "status": 404,
+     "bytes": 246287
+    },
+    {
+     "url": "https://www.qburst.com/jobs",
+     "status": 404,
+     "bytes": 246287
+    },
+    {
+     "url": "https://www.qburst.com/join-us",
+     "status": 404,
+     "bytes": 246287
+    },
+    {
+     "url": "https://www.qburst.com/join-our-team",
+     "status": 404,
+     "bytes": 246287
+    },
+    {
+     "url": "https://www.qburst.com/careers.html",
+     "status": 404,
+     "bytes": 246287
+    },
+    {
+     "url": "https://www.qburst.com/company/careers",
+     "status": 404,
+     "bytes": 246287
+    },
+    {
+     "url": "https://www.qburst.com/about/careers",
+     "status": 404,
+     "bytes": 246287
+    },
+    {
+     "url": "https://www.qburst.com/current-openings",
+     "status": 404,
+     "bytes": 246287
+    },
+    {
+     "url": "https://www.qburst.com/",
+     "status": 200,
+     "bytes": 473281
+    },
+    {
      "url": "https://www.qburst.com/en-us/company/career/",
      "status": 200,
      "bytes": 346018
@@ -2309,7 +2477,7 @@
     "workable:qburst -> no board"
    ]
   },
-  "ms": 9366
+  "ms": 10917
  },
  {
   "company": "Quovantis",
@@ -2380,6 +2548,62 @@
      "url": "https://quovantis.com/",
      "status": 200,
      "bytes": 687817
+    },
+    {
+     "url": "https://careers.www.quovantis.com",
+     "status": 0,
+     "bytes": 0,
+     "error": "fetch failed"
+    },
+    {
+     "url": "https://www.quovantis.com/careers",
+     "status": 200,
+     "bytes": 687817
+    },
+    {
+     "url": "https://www.quovantis.com/career",
+     "status": 200,
+     "bytes": 687817
+    },
+    {
+     "url": "https://www.quovantis.com/jobs",
+     "status": 200,
+     "bytes": 687817
+    },
+    {
+     "url": "https://www.quovantis.com/join-us",
+     "status": 200,
+     "bytes": 687817
+    },
+    {
+     "url": "https://www.quovantis.com/join-our-team",
+     "status": 200,
+     "bytes": 687817
+    },
+    {
+     "url": "https://www.quovantis.com/careers.html",
+     "status": 200,
+     "bytes": 687817
+    },
+    {
+     "url": "https://www.quovantis.com/company/careers",
+     "status": 200,
+     "bytes": 687817
+    },
+    {
+     "url": "https://www.quovantis.com/about/careers",
+     "status": 200,
+     "bytes": 687817
+    },
+    {
+     "url": "https://www.quovantis.com/current-openings",
+     "status": 200,
+     "bytes": 687817
+    },
+    {
+     "url": "https://www.quovantis.com/",
+     "status": 200,
+     "bytes": 687817
     }
    ],
    "candidates": [
@@ -2397,7 +2621,7 @@
     "workable:quovantis -> no board"
    ]
   },
-  "ms": 4994
+  "ms": 7071
  },
  {
   "company": "QualiZeal",
@@ -2659,52 +2883,63 @@
     {
      "url": "https://qualizeal.com/careers",
      "status": 307,
-     "bytes": 1411
+     "bytes": 1575
     },
     {
      "url": "https://qualizeal.com/career",
      "status": 307,
-     "bytes": 1387
+     "bytes": 1575
     },
     {
      "url": "https://qualizeal.com/jobs",
      "status": 307,
-     "bytes": 1387
+     "bytes": 1575
     },
     {
      "url": "https://qualizeal.com/join-us",
      "status": 307,
-     "bytes": 1387
+     "bytes": 1575
     },
     {
      "url": "https://qualizeal.com/join-our-team",
      "status": 307,
-     "bytes": 1387
+     "bytes": 1411
     },
     {
      "url": "https://qualizeal.com/careers.html",
      "status": 307,
-     "bytes": 1387
+     "bytes": 1411
     },
     {
      "url": "https://qualizeal.com/company/careers",
      "status": 307,
-     "bytes": 1387
+     "bytes": 1411
     },
     {
      "url": "https://qualizeal.com/about/careers",
      "status": 307,
-     "bytes": 1387
+     "bytes": 1411
     },
     {
      "url": "https://qualizeal.com/current-openings",
      "status": 307,
-     "bytes": 1387
+     "bytes": 1411
     },
     {
      "url": "https://qualizeal.com/",
      "status": 307,
-     "bytes": 1387
+     "bytes": 1411
+    },
+    {
+     "url": "https://careers.www.qualizeal.com",
+     "status": 0,
+     "bytes": 0,
+     "error": "fetch failed"
+    },
+    {
+     "url": "https://www.qualizeal.com/careers",
+     "status": 307,
+     "bytes": 1439
     }
    ],
    "candidates": [
@@ -2722,7 +2957,7 @@
     "workable:qualizeal -> no board"
    ]
   },
-  "ms": 8465
+  "ms": 8128
  },
  {
   "company": "Quantela",
@@ -2838,7 +3073,7 @@
     {
      "url": "https://careers.quantela.com",
      "status": 200,
-     "bytes": 26529
+     "bytes": 26539
     },
     {
      "url": "https://quantela.com/careers",
@@ -2865,10 +3100,10 @@
     "lever:quantela -> no board",
     "ashby:quantela -> no board",
     "recruitee:quantela -> no board",
-    "workable:quantela -> no board"
+    "workable:quantela -> 0 jobs (guess, name-verified)"
    ]
   },
-  "ms": 5904
+  "ms": 7925
  },
  {
   "company": "Quadrant Technologies",
@@ -2959,15 +3194,13 @@
     },
     {
      "url": "https://quadranttechnologies.com/careers",
-     "status": 0,
-     "bytes": 0,
-     "error": "fetch failed"
+     "status": 200,
+     "bytes": 138044
     },
     {
      "url": "https://quadranttechnologies.com/career",
-     "status": 0,
-     "bytes": 0,
-     "error": "fetch failed"
+     "status": 200,
+     "bytes": 138044
     },
     {
      "url": "https://quadranttechnologies.com/jobs",
@@ -2987,7 +3220,7 @@
     {
      "url": "https://quadranttechnologies.com/careers.html",
      "status": 404,
-     "bytes": 129369
+     "bytes": 129370
     },
     {
      "url": "https://quadranttechnologies.com/company/careers",
@@ -3007,7 +3240,7 @@
     {
      "url": "https://quadranttechnologies.com/",
      "status": 200,
-     "bytes": 256300
+     "bytes": 256302
     }
    ],
    "candidates": [
@@ -3035,7 +3268,7 @@
     "workable:quadranttechnologies -> no board"
    ]
   },
-  "ms": 9478
+  "ms": 15038
  },
  {
   "company": "Quantum Phinance",
@@ -3123,7 +3356,7 @@
     "workable:quantumphinance -> no board"
    ]
   },
-  "ms": 13701
+  "ms": 14128
  },
  {
   "company": "Quarks Technosoft",
@@ -3202,7 +3435,7 @@
     "workable:qtsolv -> no board"
    ]
   },
-  "ms": 21483
+  "ms": 23915
  },
  {
   "company": "Qualitest India",
@@ -3259,7 +3492,7 @@
     "workable:qualitestgroup -> no board"
    ]
   },
-  "ms": 14572
+  "ms": 20614
  },
  {
   "company": "Qualys India",
@@ -5625,17 +5858,17 @@
     {
      "url": "https://qualys.com/careers",
      "status": 200,
-     "bytes": 120816
+     "bytes": 121191
     },
     {
      "url": "https://qualys.com/career",
      "status": 404,
-     "bytes": 54929
+     "bytes": 54931
     },
     {
      "url": "https://qualys.com/jobs",
      "status": 404,
-     "bytes": 54921
+     "bytes": 54966
     }
    ],
    "candidates": [
@@ -5650,7 +5883,7 @@
     "workday:qualys -> 148 jobs"
    ]
   },
-  "ms": 10374
+  "ms": 9693
  },
  {
   "company": "Quantsapp",
@@ -5721,6 +5954,62 @@
      "url": "https://quantsapp.com/",
      "status": 200,
      "bytes": 194773
+    },
+    {
+     "url": "https://careers.www.quantsapp.com",
+     "status": 0,
+     "bytes": 0,
+     "error": "fetch failed"
+    },
+    {
+     "url": "https://www.quantsapp.com/careers",
+     "status": 200,
+     "bytes": 50947
+    },
+    {
+     "url": "https://www.quantsapp.com/career",
+     "status": 200,
+     "bytes": 50947
+    },
+    {
+     "url": "https://www.quantsapp.com/jobs",
+     "status": 200,
+     "bytes": 50947
+    },
+    {
+     "url": "https://www.quantsapp.com/join-us",
+     "status": 200,
+     "bytes": 50947
+    },
+    {
+     "url": "https://www.quantsapp.com/join-our-team",
+     "status": 200,
+     "bytes": 50947
+    },
+    {
+     "url": "https://www.quantsapp.com/careers.html",
+     "status": 200,
+     "bytes": 50947
+    },
+    {
+     "url": "https://www.quantsapp.com/company/careers",
+     "status": 200,
+     "bytes": 50947
+    },
+    {
+     "url": "https://www.quantsapp.com/about/careers",
+     "status": 200,
+     "bytes": 50947
+    },
+    {
+     "url": "https://www.quantsapp.com/current-openings",
+     "status": 200,
+     "bytes": 50947
+    },
+    {
+     "url": "https://www.quantsapp.com/",
+     "status": 200,
+     "bytes": 194773
     }
    ],
    "candidates": [
@@ -5738,7 +6027,7 @@
     "workable:quantsapp -> no board"
    ]
   },
-  "ms": 3742
+  "ms": 5559
  },
  {
   "company": "Quantzig",
@@ -5826,7 +6115,7 @@
     "workable:quantzig -> no board"
    ]
   },
-  "ms": 31746
+  "ms": 32317
  },
  {
   "company": "Quest Software India",
@@ -6297,7 +6586,7 @@
     "icims:quest -> 22 jobs"
    ]
   },
-  "ms": 11658
+  "ms": 12075
  },
  {
   "company": "Quicko",
@@ -6370,6 +6659,62 @@
      "bytes": 1010680
     },
     {
+     "url": "https://careers.www.quicko.com",
+     "status": 0,
+     "bytes": 0,
+     "error": "fetch failed"
+    },
+    {
+     "url": "https://www.quicko.com/careers",
+     "status": 404,
+     "bytes": 184450
+    },
+    {
+     "url": "https://www.quicko.com/career",
+     "status": 404,
+     "bytes": 184450
+    },
+    {
+     "url": "https://www.quicko.com/jobs",
+     "status": 404,
+     "bytes": 184450
+    },
+    {
+     "url": "https://www.quicko.com/join-us",
+     "status": 404,
+     "bytes": 184450
+    },
+    {
+     "url": "https://www.quicko.com/join-our-team",
+     "status": 404,
+     "bytes": 184450
+    },
+    {
+     "url": "https://www.quicko.com/careers.html",
+     "status": 404,
+     "bytes": 184450
+    },
+    {
+     "url": "https://www.quicko.com/company/careers",
+     "status": 404,
+     "bytes": 184450
+    },
+    {
+     "url": "https://www.quicko.com/about/careers",
+     "status": 404,
+     "bytes": 184450
+    },
+    {
+     "url": "https://www.quicko.com/current-openings",
+     "status": 404,
+     "bytes": 184450
+    },
+    {
+     "url": "https://www.quicko.com/",
+     "status": 200,
+     "bytes": 1010680
+    },
+    {
      "url": "https://quicko.zohorecruit.in/jobs/Careers",
      "status": 200,
      "bytes": 1799221
@@ -6392,7 +6737,7 @@
     "workable:quicko -> no board"
    ]
   },
-  "ms": 4088
+  "ms": 6101
  },
  {
   "company": "Quikr",
@@ -6954,7 +7299,7 @@
     {
      "url": "https://quikr.com/career",
      "status": 404,
-     "bytes": 39205
+     "bytes": 39204
     },
     {
      "url": "https://quikr.com/jobs",
@@ -6993,8 +7338,86 @@
     },
     {
      "url": "https://quikr.com/",
+     "status": 0,
+     "bytes": 0,
+     "error": "This operation was aborted"
+    },
+    {
+     "url": "https://careers.www.quikr.com",
+     "status": 0,
+     "bytes": 0,
+     "error": "fetch failed"
+    },
+    {
+     "url": "https://www.quikr.com/careers",
+     "status": 404,
+     "bytes": 39205
+    },
+    {
+     "url": "https://www.quikr.com/career",
+     "status": 404,
+     "bytes": 39205
+    },
+    {
+     "url": "https://www.quikr.com/jobs",
      "status": 200,
-     "bytes": 148266
+     "bytes": 303092
+    },
+    {
+     "url": "https://www.quikr.com/join-us",
+     "status": 404,
+     "bytes": 39205
+    },
+    {
+     "url": "https://www.quikr.com/join-our-team",
+     "status": 404,
+     "bytes": 39205
+    },
+    {
+     "url": "https://www.quikr.com/careers.html",
+     "status": 404,
+     "bytes": 39205
+    },
+    {
+     "url": "https://www.quikr.com/company/careers",
+     "status": 404,
+     "bytes": 39205
+    },
+    {
+     "url": "https://www.quikr.com/about/careers",
+     "status": 404,
+     "bytes": 39205
+    },
+    {
+     "url": "https://www.quikr.com/current-openings",
+     "status": 404,
+     "bytes": 39205
+    },
+    {
+     "url": "https://www.quikr.com/",
+     "status": 0,
+     "bytes": 0,
+     "error": "This operation was aborted"
+    },
+    {
+     "url": "https://www.quikr.com/html/jobs.php",
+     "status": 200,
+     "bytes": 169101
+    },
+    {
+     "url": "http://www.quikr.com/jobs",
+     "status": 200,
+     "bytes": 303092
+    },
+    {
+     "url": "https://www.quikr.com/jobs?fromJobs=true",
+     "status": 200,
+     "bytes": 303092
+    },
+    {
+     "url": "https://www.quikr.com/jobs/snabbit-female-housekeeping-part-time-job-mumbai-thane-mumbai/p/375759850",
+     "status": 200,
+     "bytes": 78069
     }
    ],
    "candidates": [
@@ -7012,7 +7435,7 @@
     "workable:quikr -> no board"
    ]
   },
-  "ms": 15412
+  "ms": 69991
  },
  {
   "company": "Quinstreet India",
@@ -8034,7 +8457,7 @@
     "greenhouse:quinstreet -> 33 jobs"
    ]
   },
-  "ms": 15532
+  "ms": 17039
  },
  {
   "company": "Qapita",
@@ -8122,7 +8545,7 @@
     "workable:qapita -> no board"
    ]
   },
-  "ms": 12748
+  "ms": 14026
  },
  {
   "company": "Qoala",
@@ -8185,7 +8608,7 @@
     "workable:qoala -> no board"
    ]
   },
-  "ms": 26377
+  "ms": 26330
  },
  {
   "company": "Qriocity",
@@ -8256,6 +8679,62 @@
      "url": "https://qriocity.in/",
      "status": 200,
      "bytes": 2526
+    },
+    {
+     "url": "https://careers.www.qriocity.in",
+     "status": 0,
+     "bytes": 0,
+     "error": "fetch failed"
+    },
+    {
+     "url": "https://www.qriocity.in/careers",
+     "status": 200,
+     "bytes": 3189
+    },
+    {
+     "url": "https://www.qriocity.in/career",
+     "status": 200,
+     "bytes": 3189
+    },
+    {
+     "url": "https://www.qriocity.in/jobs",
+     "status": 200,
+     "bytes": 3189
+    },
+    {
+     "url": "https://www.qriocity.in/join-us",
+     "status": 200,
+     "bytes": 3189
+    },
+    {
+     "url": "https://www.qriocity.in/join-our-team",
+     "status": 200,
+     "bytes": 3189
+    },
+    {
+     "url": "https://www.qriocity.in/careers.html",
+     "status": 200,
+     "bytes": 3189
+    },
+    {
+     "url": "https://www.qriocity.in/company/careers",
+     "status": 200,
+     "bytes": 3189
+    },
+    {
+     "url": "https://www.qriocity.in/about/careers",
+     "status": 200,
+     "bytes": 3189
+    },
+    {
+     "url": "https://www.qriocity.in/current-openings",
+     "status": 200,
+     "bytes": 3189
+    },
+    {
+     "url": "https://www.qriocity.in/",
+     "status": 200,
+     "bytes": 3189
     }
    ],
    "candidates": [
@@ -8273,7 +8752,7 @@
     "workable:qriocity -> no board"
    ]
   },
-  "ms": 2688
+  "ms": 4859
  },
  {
   "company": "Quinnox",
@@ -8681,7 +9160,7 @@
     {
      "url": "https://www.quinnox.com/career/",
      "status": 200,
-     "bytes": 242338
+     "bytes": 242425
     },
     {
      "url": "https://careers.quinnox.com",
@@ -8692,22 +9171,27 @@
     {
      "url": "https://quinnox.com/careers",
      "status": 200,
-     "bytes": 242338
+     "bytes": 242425
     },
     {
      "url": "https://quinnox.com/career",
      "status": 200,
-     "bytes": 242338
+     "bytes": 242425
     },
     {
      "url": "https://quinnox.com/jobs",
      "status": 404,
-     "bytes": 124510
+     "bytes": 60
     },
     {
      "url": "https://quinnox.com/join-us",
      "status": 404,
-     "bytes": 124519
+     "bytes": 124606
+    },
+    {
+     "url": "https://quinnox.com/join-our-team",
+     "status": 404,
+     "bytes": 124624
     }
    ],
    "candidates": [
@@ -8725,7 +9209,7 @@
     "workable:quinnox -> no board"
    ]
   },
-  "ms": 20643
+  "ms": 22642
  },
  {
   "company": "Qentelli",
@@ -8801,6 +9285,57 @@
      "url": "https://qentelli.com/",
      "status": 403,
      "bytes": 5184
+    },
+    {
+     "url": "https://careers.www.qentelli.com",
+     "status": 0,
+     "bytes": 0,
+     "error": "fetch failed"
+    },
+    {
+     "url": "https://www.qentelli.com/career",
+     "status": 403,
+     "bytes": 5184
+    },
+    {
+     "url": "https://www.qentelli.com/jobs",
+     "status": 403,
+     "bytes": 5184
+    },
+    {
+     "url": "https://www.qentelli.com/join-us",
+     "status": 403,
+     "bytes": 5184
+    },
+    {
+     "url": "https://www.qentelli.com/join-our-team",
+     "status": 403,
+     "bytes": 5184
+    },
+    {
+     "url": "https://www.qentelli.com/careers.html",
+     "status": 403,
+     "bytes": 5184
+    },
+    {
+     "url": "https://www.qentelli.com/company/careers",
+     "status": 403,
+     "bytes": 5184
+    },
+    {
+     "url": "https://www.qentelli.com/about/careers",
+     "status": 403,
+     "bytes": 5184
+    },
+    {
+     "url": "https://www.qentelli.com/current-openings",
+     "status": 403,
+     "bytes": 5184
+    },
+    {
+     "url": "https://www.qentelli.com/",
+     "status": 403,
+     "bytes": 5184
     }
    ],
    "candidates": [
@@ -8818,7 +9353,7 @@
     "workable:qentelli -> no board"
    ]
   },
-  "ms": 3984
+  "ms": 3873
  },
  {
   "company": "QualityKiosk Technologies",
@@ -9060,7 +9595,7 @@
     "workable:qualitykiosk -> no board"
    ]
   },
-  "ms": 19564
+  "ms": 19473
  },
  {
   "company": "Quixy",
@@ -9286,7 +9821,7 @@
     "workable:quixy -> no board"
    ]
   },
-  "ms": 17161
+  "ms": 17323
  },
  {
   "company": "Q3 Technologies",
@@ -9542,7 +10077,7 @@
     "workable:q3tech -> no board"
    ]
   },
-  "ms": 9006
+  "ms": 9899
  },
  {
   "company": "QualMinds Technologies",
@@ -10033,20 +10568,20 @@
     "keka:qualminds -> 15 jobs"
    ]
   },
-  "ms": 4383
+  "ms": 5335
  },
  {
   "company": "QSS Technosoft",
   "country": "India",
   "careers": "https://www.qsstechnosoft.com/career/",
-  "source": "headings:https://www.qsstechnosoft.com/careers",
+  "source": "headings:https://www.qsstechnosoft.com/careers/",
   "error": null,
   "totalJobs": 8,
   "jobs": [
    {
     "title": "Devops Engineer",
     "location": "",
-    "url": "https://www.qsstechnosoft.com/careers",
+    "url": "https://www.qsstechnosoft.com/careers/",
     "india": true,
     "locationSaysIndia": false,
     "hasLocation": false,
@@ -10066,7 +10601,7 @@
    {
     "title": "Cloud Engineering & DevOps",
     "location": "",
-    "url": "https://www.qsstechnosoft.com/careers",
+    "url": "https://www.qsstechnosoft.com/careers/",
     "india": true,
     "locationSaysIndia": false,
     "hasLocation": false,
@@ -10081,7 +10616,7 @@
    {
     "title": "Full Stack Engineer",
     "location": "",
-    "url": "https://www.qsstechnosoft.com/careers",
+    "url": "https://www.qsstechnosoft.com/careers/",
     "india": true,
     "locationSaysIndia": false,
     "hasLocation": false,
@@ -10101,7 +10636,7 @@
    {
     "title": "Senior .NET Developer / Technical Lead",
     "location": "",
-    "url": "https://www.qsstechnosoft.com/careers",
+    "url": "https://www.qsstechnosoft.com/careers/",
     "india": true,
     "locationSaysIndia": false,
     "hasLocation": false,
@@ -10121,7 +10656,7 @@
    {
     "title": "QA & Testing",
     "location": "",
-    "url": "https://www.qsstechnosoft.com/careers",
+    "url": "https://www.qsstechnosoft.com/careers/",
     "india": true,
     "locationSaysIndia": false,
     "hasLocation": false,
@@ -10136,7 +10671,7 @@
    {
     "title": "Engineers, designers, and digital experts",
     "location": "",
-    "url": "https://www.qsstechnosoft.com/careers",
+    "url": "https://www.qsstechnosoft.com/careers/",
     "india": true,
     "locationSaysIndia": false,
     "hasLocation": false,
@@ -10151,7 +10686,7 @@
    {
     "title": "Cloud & DevOps",
     "location": "",
-    "url": "https://www.qsstechnosoft.com/careers",
+    "url": "https://www.qsstechnosoft.com/careers/",
     "india": true,
     "locationSaysIndia": false,
     "hasLocation": false,
@@ -10166,7 +10701,7 @@
    {
     "title": "QA Automation Tester",
     "location": "",
-    "url": "https://www.qsstechnosoft.com/careers",
+    "url": "https://www.qsstechnosoft.com/careers/",
     "india": true,
     "locationSaysIndia": false,
     "hasLocation": false,
@@ -10190,7 +10725,7 @@
   "closest": {
    "title": "Devops Engineer",
    "location": "",
-   "url": "https://www.qsstechnosoft.com/careers",
+   "url": "https://www.qsstechnosoft.com/careers/",
    "team": "",
    "text": "Devops Engineer Noida, India Experience 4+ years 1 Open Position Job Summary Key Responsibilities Required Qualifications Design, build, and maintain CI/CD pipelines to streamline software delivery. Manage and optimize cloud infrastructure on platforms like AWS, Azure, or GCP. Automate infrastructure provisioning and configuration using tools like Terraform, Ansible, or CloudFormation. Implement and manage containerized environments using Docker and Kubernetes. Monitor system performance, troubleshoot issues, and ensure high availability and scalability. Collaborate with development teams to integrate DevOps best practices into the software development lifecycle. Ensure security and compliance of infrastructure and applications through best practices and tools. Maintain and improve version control systems (e.g., Git) and related workflows. Document processes, configurations, and infrastructure setups for team reference. Stay updated with industry trends and emerging DevOps tools/technologies. Bachelor's degree in computer science, Engineering, or a related field (or equivalent experience). 4+",
    "_noEnrich": true,
@@ -10214,7 +10749,7 @@
   "closestEng": {
    "title": "Devops Engineer",
    "location": "",
-   "url": "https://www.qsstechnosoft.com/careers",
+   "url": "https://www.qsstechnosoft.com/careers/",
    "team": "",
    "text": "Devops Engineer Noida, India Experience 4+ years 1 Open Position Job Summary Key Responsibilities Required Qualifications Design, build, and maintain CI/CD pipelines to streamline software delivery. Manage and optimize cloud infrastructure on platforms like AWS, Azure, or GCP. Automate infrastructure provisioning and configuration using tools like Terraform, Ansible, or CloudFormation. Implement and manage containerized environments using Docker and Kubernetes. Monitor system performance, troubleshoot issues, and ensure high availability and scalability. Collaborate with development teams to integrate DevOps best practices into the software development lifecycle. Ensure security and compliance of infrastructure and applications through best practices and tools. Maintain and improve version control systems (e.g., Git) and related workflows. Document processes, configurations, and infrastructure setups for team reference. Stay updated with industry trends and emerging DevOps tools/technologies. Bachelor's degree in computer science, Engineering, or a related field (or equivalent experience). 4+",
    "_noEnrich": true,
@@ -10250,8 +10785,8 @@
     },
     {
      "url": "https://qsstechnosoft.com/careers",
-     "status": 200,
-     "bytes": 125122
+     "status": 403,
+     "bytes": 111
     },
     {
      "url": "https://qsstechnosoft.com/career",
@@ -10296,12 +10831,68 @@
     {
      "url": "https://qsstechnosoft.com/",
      "status": 200,
-     "bytes": 418511
+     "bytes": 425076
+    },
+    {
+     "url": "https://careers.www.qsstechnosoft.com",
+     "status": 0,
+     "bytes": 0,
+     "error": "fetch failed"
+    },
+    {
+     "url": "https://www.qsstechnosoft.com/careers",
+     "status": 403,
+     "bytes": 111
+    },
+    {
+     "url": "https://www.qsstechnosoft.com/career",
+     "status": 403,
+     "bytes": 111
+    },
+    {
+     "url": "https://www.qsstechnosoft.com/jobs",
+     "status": 403,
+     "bytes": 111
+    },
+    {
+     "url": "https://www.qsstechnosoft.com/join-us",
+     "status": 403,
+     "bytes": 111
+    },
+    {
+     "url": "https://www.qsstechnosoft.com/join-our-team",
+     "status": 403,
+     "bytes": 111
+    },
+    {
+     "url": "https://www.qsstechnosoft.com/careers.html",
+     "status": 403,
+     "bytes": 111
+    },
+    {
+     "url": "https://www.qsstechnosoft.com/company/careers",
+     "status": 403,
+     "bytes": 111
+    },
+    {
+     "url": "https://www.qsstechnosoft.com/about/careers",
+     "status": 403,
+     "bytes": 111
+    },
+    {
+     "url": "https://www.qsstechnosoft.com/current-openings",
+     "status": 403,
+     "bytes": 111
+    },
+    {
+     "url": "https://www.qsstechnosoft.com/",
+     "status": 200,
+     "bytes": 425076
     },
     {
      "url": "https://www.qsstechnosoft.com/careers/",
      "status": 200,
-     "bytes": 125122
+     "bytes": 131814
     }
    ],
    "candidates": [
@@ -10319,7 +10910,7 @@
     "workable:qsstechnosoft -> no board"
    ]
   },
-  "ms": 12424
+  "ms": 19002
  },
  {
   "company": "Quytech",
@@ -10545,7 +11136,7 @@
     "workable:quytech -> no board"
    ]
   },
-  "ms": 8474
+  "ms": 6689
  },
  {
   "company": "Quokka Labs",
@@ -10741,7 +11332,7 @@
     "workable:quokkalabs -> no board"
    ]
   },
-  "ms": 10569
+  "ms": 12425
  },
  {
   "company": "Quolam Business Solutions",
@@ -10812,6 +11403,62 @@
      "url": "https://quolam.com/",
      "status": 200,
      "bytes": 74966
+    },
+    {
+     "url": "https://careers.www.quolam.com",
+     "status": 0,
+     "bytes": 0,
+     "error": "fetch failed"
+    },
+    {
+     "url": "https://www.quolam.com/careers",
+     "status": 404,
+     "bytes": 277
+    },
+    {
+     "url": "https://www.quolam.com/career",
+     "status": 404,
+     "bytes": 277
+    },
+    {
+     "url": "https://www.quolam.com/jobs",
+     "status": 404,
+     "bytes": 277
+    },
+    {
+     "url": "https://www.quolam.com/join-us",
+     "status": 404,
+     "bytes": 277
+    },
+    {
+     "url": "https://www.quolam.com/join-our-team",
+     "status": 404,
+     "bytes": 277
+    },
+    {
+     "url": "https://www.quolam.com/careers.html",
+     "status": 404,
+     "bytes": 277
+    },
+    {
+     "url": "https://www.quolam.com/company/careers",
+     "status": 404,
+     "bytes": 277
+    },
+    {
+     "url": "https://www.quolam.com/about/careers",
+     "status": 404,
+     "bytes": 277
+    },
+    {
+     "url": "https://www.quolam.com/current-openings",
+     "status": 404,
+     "bytes": 277
+    },
+    {
+     "url": "https://www.quolam.com/",
+     "status": 200,
+     "bytes": 74966
     }
    ],
    "candidates": [
@@ -10839,7 +11486,7 @@
     "workable:quolam -> no board"
    ]
   },
-  "ms": 4690
+  "ms": 6575
  },
  {
   "company": "QuadLabs Technologies",
@@ -11016,7 +11663,7 @@
     "workable:quadlabs -> no board"
    ]
   },
-  "ms": 27783
+  "ms": 12506
  },
  {
   "company": "Qandle",
@@ -11093,6 +11740,57 @@
      "url": "https://qandle.com/",
      "status": 200,
      "bytes": 91727
+    },
+    {
+     "url": "https://careers.www.qandle.com",
+     "status": 0,
+     "bytes": 0,
+     "error": "fetch failed"
+    },
+    {
+     "url": "https://www.qandle.com/career",
+     "status": 200,
+     "bytes": 91727
+    },
+    {
+     "url": "https://www.qandle.com/jobs",
+     "status": 200,
+     "bytes": 91727
+    },
+    {
+     "url": "https://www.qandle.com/join-us",
+     "status": 200,
+     "bytes": 91727
+    },
+    {
+     "url": "https://www.qandle.com/join-our-team",
+     "status": 200,
+     "bytes": 91727
+    },
+    {
+     "url": "https://www.qandle.com/careers.html",
+     "status": 200,
+     "bytes": 91727
+    },
+    {
+     "url": "https://www.qandle.com/company/careers",
+     "status": 200,
+     "bytes": 91727
+    },
+    {
+     "url": "https://www.qandle.com/about/careers",
+     "status": 200,
+     "bytes": 91727
+    },
+    {
+     "url": "https://www.qandle.com/current-openings",
+     "status": 200,
+     "bytes": 91727
+    },
+    {
+     "url": "https://www.qandle.com/",
+     "status": 200,
+     "bytes": 91727
     }
    ],
    "candidates": [
@@ -11110,7 +11808,7 @@
     "workable:qandle -> no board"
    ]
   },
-  "ms": 8815
+  "ms": 8704
  },
  {
   "company": "Qoruz",
@@ -11163,7 +11861,7 @@
     "workable:qoruz -> no board"
    ]
   },
-  "ms": 27683
+  "ms": 27177
  },
  {
   "company": "Quizizz",
@@ -11171,7 +11869,7 @@
   "careers": "https://quizizz.com/careers",
   "source": "lever:Wayground",
   "error": null,
-  "totalJobs": 10,
+  "totalJobs": 9,
   "jobs": [
    {
     "title": "Account Executive - Skillet",
@@ -11212,21 +11910,6 @@
     ],
     "expFits2": true,
     "score": 45
-   },
-   {
-    "title": "Intern- Strategic Partnership",
-    "location": "Bangalore",
-    "url": "https://jobs.lever.co/Wayground/aae8a38e-404a-4c1f-8b26-3c356154bb01",
-    "india": true,
-    "locationSaysIndia": true,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 31
    },
    {
     "title": "Product Design, Intern - Skillet",
@@ -11449,10 +12132,10 @@
     "workable:quizizz(guess)"
    ],
    "attempts": [
-    "lever:Wayground -> 10 jobs"
+    "lever:Wayground -> 9 jobs"
    ]
   },
-  "ms": 3995
+  "ms": 4006
  },
  {
   "company": "Qualitia Software",
@@ -11483,12 +12166,17 @@
     {
      "url": "https://qualitia.ai/careers",
      "status": 200,
-     "bytes": 37169
+     "bytes": 37408
     },
     {
      "url": "https://qualitia.ai/career",
      "status": 200,
-     "bytes": 37405
+     "bytes": 37166
+    },
+    {
+     "url": "https://qualitia.ai/jobs",
+     "status": 200,
+     "bytes": 37399
     }
    ],
    "candidates": [
@@ -11506,7 +12194,7 @@
     "workable:qualitia -> no board"
    ]
   },
-  "ms": 46450
+  "ms": 44148
  },
  {
   "company": "QuestionPro",
@@ -11525,7 +12213,7 @@
     {
      "url": "https://careers.questionpro.com",
      "status": 200,
-     "bytes": 47219
+     "bytes": 47253
     },
     {
      "url": "https://questionpro.com/careers",
@@ -11593,7 +12281,7 @@
     "workable:questionpro -> no board"
    ]
   },
-  "ms": 37318
+  "ms": 41035
  },
  {
   "company": "Qventus",
@@ -12278,7 +12966,7 @@
     {
      "url": "https://www.qventus.com/careers/",
      "status": 200,
-     "bytes": 341347
+     "bytes": 341348
     },
     {
      "url": "https://careers.qventus.com",
@@ -12289,7 +12977,7 @@
     {
      "url": "https://qventus.com/careers",
      "status": 200,
-     "bytes": 341347
+     "bytes": 341348
     },
     {
      "url": "https://qventus.com/career",
@@ -12299,7 +12987,7 @@
     {
      "url": "https://qventus.com/jobs",
      "status": 404,
-     "bytes": 236063
+     "bytes": 236064
     },
     {
      "url": "https://qventus.com/join-us",
@@ -12309,12 +12997,12 @@
     {
      "url": "https://qventus.com/join-our-team",
      "status": 404,
-     "bytes": 236065
+     "bytes": 236064
     },
     {
      "url": "https://qventus.com/careers.html",
      "status": 404,
-     "bytes": 236064
+     "bytes": 236063
     },
     {
      "url": "https://qventus.com/company/careers",
@@ -12329,12 +13017,12 @@
     {
      "url": "https://qventus.com/current-openings",
      "status": 404,
-     "bytes": 236064
+     "bytes": 236065
     },
     {
      "url": "https://qventus.com/",
      "status": 200,
-     "bytes": 321417
+     "bytes": 321416
     }
    ],
    "candidates": [
@@ -12348,7 +13036,7 @@
     "greenhouse:qventus -> 24 jobs"
    ]
   },
-  "ms": 26756
+  "ms": 24949
  },
  {
   "company": "Q2 Software",
@@ -13175,7 +13863,7 @@
     "workday:q2ebanking -> 40 jobs"
    ]
   },
-  "ms": 27169
+  "ms": 35013
  },
  {
   "company": "QAD",
@@ -14250,7 +14938,7 @@
     "smartrecruiters:QADInc -> 58 jobs"
    ]
   },
-  "ms": 27170
+  "ms": 28677
  },
  {
   "company": "Qlik",
@@ -14531,7 +15219,7 @@
     "workable:qlik -> no board"
    ]
   },
-  "ms": 18255
+  "ms": 17427
  },
  {
   "company": "Qualtrics",
@@ -15693,7 +16381,7 @@
     {
      "url": "https://www.qualtrics.com/careers/",
      "status": 200,
-     "bytes": 272767
+     "bytes": 272596
     },
     {
      "url": "https://careers.qualtrics.com",
@@ -15703,17 +16391,17 @@
     {
      "url": "https://qualtrics.com/careers",
      "status": 200,
-     "bytes": 272767
+     "bytes": 272596
     },
     {
      "url": "https://qualtrics.com/career",
      "status": 200,
-     "bytes": 272767
+     "bytes": 272596
     },
     {
      "url": "https://qualtrics.com/jobs",
      "status": 200,
-     "bytes": 272767
+     "bytes": 272596
     },
     {
      "url": "https://qualtrics.com/join-us",
@@ -15734,7 +16422,7 @@
     "greenhouse:qualtrics -> 56 jobs (guess, name-verified)"
    ]
   },
-  "ms": 12771
+  "ms": 15493
  },
  {
   "company": "Qorvo",
@@ -15904,21 +16592,6 @@
     "score": 38
    },
    {
-    "title": "Analog/RF IC Design Engineer",
-    "location": "Ft. Lauderdale, FL, US, 33309",
-    "url": "https://careers.qorvo.com/job/Ft_-Lauderdale-AnalogRF-IC-Design-Engineer-FL-33309/1415888600/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": true,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 34
-   },
-   {
     "title": "N1 Equipment Maintenance Technician",
     "location": "Hillsboro, OR, US, 97124",
     "url": "https://careers.qorvo.com/job/Hillsboro-N1-Equipment-Maintenance-Technician-OR-97124/1390357300/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
@@ -15979,34 +16652,6 @@
     "score": 30
    },
    {
-    "title": "Security Coordinator",
-    "location": "Richardson, TX, US, 75080",
-    "url": "https://careers.qorvo.com/job/Richardson-Security-Coordinator-TX-75080/1416103200/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [
-     [
-      2,
-      6
-     ],
-     [
-      4,
-      8
-     ],
-     [
-      6,
-      10
-     ]
-    ],
-    "expFits2": true,
-    "score": 30
-   },
-   {
     "title": "Staff Design Engineer",
     "location": "San Jose, CA, US, 95134",
     "url": "https://careers.qorvo.com/job/San-Jose-Staff-Design-Engineer-CA-95134/1389957300/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
@@ -16053,6 +16698,21 @@
     ],
     "expFits2": false,
     "score": 20
+   },
+   {
+    "title": "Principal MMIC Design Engineer",
+    "location": "Richardson, TX, US, 75081",
+    "url": "https://careers.qorvo.com/job/Richardson-Principal-MMIC-Design-Engineer-TX-75081/1407858500/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": true,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [],
+    "expFits2": false,
+    "score": 12
    },
    {
     "title": "Production Planner - Substrates",
@@ -16436,6 +17096,26 @@
     "score": -18
    },
    {
+    "title": "Principal Product Line Manager",
+    "location": "Richardson, TX, US, 75081",
+    "url": "https://careers.qorvo.com/job/Richardson-Principal-Product-Line-Manager-TX-75081/1407824900/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [
+     [
+      12,
+      16
+     ]
+    ],
+    "expFits2": false,
+    "score": -22
+   },
+   {
     "title": "Facilities Operations Manager",
     "location": "Richardson, TX, US, 75081",
     "url": "https://careers.qorvo.com/job/Richardson-Facilities-Operations-Manager-TX-75081/1417040900/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
@@ -16594,72 +17274,78 @@
     {
      "url": "https://www.qorvo.com/careers",
      "status": 429,
-     "bytes": 31036
+     "bytes": 31042
     },
     {
      "url": "https://careers.qorvo.com",
      "status": 200,
-     "bytes": 64480
+     "bytes": 64481
     },
     {
      "url": "https://qorvo.com/careers",
      "status": 429,
-     "bytes": 31036
+     "bytes": 31037
     },
     {
      "url": "https://qorvo.com/career",
      "status": 429,
-     "bytes": 31042
+     "bytes": 31037
     },
     {
      "url": "https://qorvo.com/jobs",
      "status": 429,
-     "bytes": 31036
+     "bytes": 31037
     },
     {
      "url": "https://qorvo.com/join-us",
      "status": 429,
-     "bytes": 31042
+     "bytes": 31037
     },
     {
      "url": "https://qorvo.com/join-our-team",
      "status": 429,
-     "bytes": 31036
+     "bytes": 31037
     },
     {
      "url": "https://qorvo.com/careers.html",
      "status": 429,
-     "bytes": 31042
+     "bytes": 31037
     },
     {
      "url": "https://qorvo.com/company/careers",
      "status": 429,
-     "bytes": 31036
+     "bytes": 31037
     },
     {
      "url": "https://qorvo.com/about/careers",
      "status": 429,
-     "bytes": 31042
+     "bytes": 31037
     },
     {
      "url": "https://qorvo.com/current-openings",
      "status": 429,
-     "bytes": 31036
+     "bytes": 31037
     },
     {
      "url": "https://qorvo.com/",
      "status": 429,
+     "bytes": 31037
+    },
+    {
+     "url": "https://careers.www.qorvo.com",
+     "status": 0,
+     "bytes": 0,
+     "error": "fetch failed"
+    },
+    {
+     "url": "https://www.qorvo.com/career",
+     "status": 429,
      "bytes": 31042
     },
     {
-     "url": "https://careers.qorvo.com/?locale=en_US",
-     "status": 200,
-     "bytes": 64500
-    },
-    {
-     "url": "https://careers.qorvo.com/?locale=es_MX",
-     "status": 200,
-     "bytes": 59223
+     "url": "https://www.qorvo.com/jobs",
+     "status": 429,
+     "bytes": 31033
     }
    ],
    "candidates": [
@@ -16674,7 +17360,7 @@
     "successfactors:careers.qorvo.com -> 38 jobs"
    ]
   },
-  "ms": 13231
+  "ms": 5605
  },
  {
   "company": "Quantexa",
@@ -17335,7 +18021,7 @@
     "ashby:quantexa -> 32 jobs (guess, name-verified)"
    ]
   },
-  "ms": 6196
+  "ms": 13455
  },
  {
   "company": "QpiAI",
@@ -17581,7 +18267,7 @@
     "workable:qpiai -> no board"
    ]
   },
-  "ms": 4382
+  "ms": 2952
  },
  {
   "company": "QNu Labs",
@@ -17677,7 +18363,7 @@
     "workable:qnulabs -> no board"
    ]
   },
-  "ms": 14576
+  "ms": 14430
  },
  {
   "company": "QuickSell",
@@ -17748,6 +18434,62 @@
      "url": "https://quicksell.co/",
      "status": 200,
      "bytes": 162980
+    },
+    {
+     "url": "https://careers.www.quicksell.co",
+     "status": 0,
+     "bytes": 0,
+     "error": "fetch failed"
+    },
+    {
+     "url": "https://www.quicksell.co/careers",
+     "status": 404,
+     "bytes": 146
+    },
+    {
+     "url": "https://www.quicksell.co/career",
+     "status": 404,
+     "bytes": 145
+    },
+    {
+     "url": "https://www.quicksell.co/jobs",
+     "status": 404,
+     "bytes": 143
+    },
+    {
+     "url": "https://www.quicksell.co/join-us",
+     "status": 404,
+     "bytes": 146
+    },
+    {
+     "url": "https://www.quicksell.co/join-our-team",
+     "status": 404,
+     "bytes": 152
+    },
+    {
+     "url": "https://www.quicksell.co/careers.html",
+     "status": 404,
+     "bytes": 151
+    },
+    {
+     "url": "https://www.quicksell.co/company/careers",
+     "status": 404,
+     "bytes": 154
+    },
+    {
+     "url": "https://www.quicksell.co/about/careers",
+     "status": 404,
+     "bytes": 152
+    },
+    {
+     "url": "https://www.quicksell.co/current-openings",
+     "status": 404,
+     "bytes": 155
+    },
+    {
+     "url": "https://www.quicksell.co/",
+     "status": 200,
+     "bytes": 162980
     }
    ],
    "candidates": [
@@ -17765,7 +18507,7 @@
     "workable:quicksell -> no board"
    ]
   },
-  "ms": 2378
+  "ms": 8570
  },
  {
   "company": "Quick Ride",
@@ -18053,6 +18795,72 @@
      "bytes": 1603758
     },
     {
+     "url": "https://careers.www.quickride.in",
+     "status": 0,
+     "bytes": 0,
+     "error": "fetch failed"
+    },
+    {
+     "url": "https://www.quickride.in/careers",
+     "status": 0,
+     "bytes": 0,
+     "error": "fetch failed"
+    },
+    {
+     "url": "https://www.quickride.in/career",
+     "status": 0,
+     "bytes": 0,
+     "error": "fetch failed"
+    },
+    {
+     "url": "https://www.quickride.in/jobs",
+     "status": 0,
+     "bytes": 0,
+     "error": "fetch failed"
+    },
+    {
+     "url": "https://www.quickride.in/join-us",
+     "status": 0,
+     "bytes": 0,
+     "error": "fetch failed"
+    },
+    {
+     "url": "https://www.quickride.in/join-our-team",
+     "status": 0,
+     "bytes": 0,
+     "error": "fetch failed"
+    },
+    {
+     "url": "https://www.quickride.in/careers.html",
+     "status": 0,
+     "bytes": 0,
+     "error": "fetch failed"
+    },
+    {
+     "url": "https://www.quickride.in/company/careers",
+     "status": 0,
+     "bytes": 0,
+     "error": "fetch failed"
+    },
+    {
+     "url": "https://www.quickride.in/about/careers",
+     "status": 0,
+     "bytes": 0,
+     "error": "fetch failed"
+    },
+    {
+     "url": "https://www.quickride.in/current-openings",
+     "status": 0,
+     "bytes": 0,
+     "error": "fetch failed"
+    },
+    {
+     "url": "https://www.quickride.in/",
+     "status": 0,
+     "bytes": 0,
+     "error": "fetch failed"
+    },
+    {
      "url": "https://quickride.in/careers.php",
      "status": 200,
      "bytes": 48058
@@ -18073,7 +18881,7 @@
     "workable:quickride -> no board"
    ]
   },
-  "ms": 15970
+  "ms": 19628
  },
  {
   "company": "Qwipo",
@@ -18150,6 +18958,57 @@
      "url": "https://qwipo.com/",
      "status": 200,
      "bytes": 7004
+    },
+    {
+     "url": "https://careers.www.qwipo.com",
+     "status": 0,
+     "bytes": 0,
+     "error": "fetch failed"
+    },
+    {
+     "url": "https://www.qwipo.com/career",
+     "status": 200,
+     "bytes": 7004
+    },
+    {
+     "url": "https://www.qwipo.com/jobs",
+     "status": 200,
+     "bytes": 7004
+    },
+    {
+     "url": "https://www.qwipo.com/join-us",
+     "status": 200,
+     "bytes": 7004
+    },
+    {
+     "url": "https://www.qwipo.com/join-our-team",
+     "status": 200,
+     "bytes": 7004
+    },
+    {
+     "url": "https://www.qwipo.com/careers.html",
+     "status": 200,
+     "bytes": 7004
+    },
+    {
+     "url": "https://www.qwipo.com/company/careers",
+     "status": 200,
+     "bytes": 7004
+    },
+    {
+     "url": "https://www.qwipo.com/about/careers",
+     "status": 200,
+     "bytes": 7004
+    },
+    {
+     "url": "https://www.qwipo.com/current-openings",
+     "status": 200,
+     "bytes": 7004
+    },
+    {
+     "url": "https://www.qwipo.com/",
+     "status": 200,
+     "bytes": 7004
     }
    ],
    "candidates": [
@@ -18167,7 +19026,7 @@
     "workable:qwipo -> no board"
    ]
   },
-  "ms": 3972
+  "ms": 5129
  },
  {
   "company": "QBrainX",
@@ -18255,6 +19114,72 @@
      "status": 0,
      "bytes": 0,
      "error": "fetch failed"
+    },
+    {
+     "url": "https://careers.www.qbrainx.com",
+     "status": 0,
+     "bytes": 0,
+     "error": "fetch failed"
+    },
+    {
+     "url": "https://www.qbrainx.com/careers",
+     "status": 0,
+     "bytes": 0,
+     "error": "fetch failed"
+    },
+    {
+     "url": "https://www.qbrainx.com/career",
+     "status": 0,
+     "bytes": 0,
+     "error": "fetch failed"
+    },
+    {
+     "url": "https://www.qbrainx.com/jobs",
+     "status": 0,
+     "bytes": 0,
+     "error": "fetch failed"
+    },
+    {
+     "url": "https://www.qbrainx.com/join-us",
+     "status": 0,
+     "bytes": 0,
+     "error": "fetch failed"
+    },
+    {
+     "url": "https://www.qbrainx.com/join-our-team",
+     "status": 0,
+     "bytes": 0,
+     "error": "fetch failed"
+    },
+    {
+     "url": "https://www.qbrainx.com/careers.html",
+     "status": 0,
+     "bytes": 0,
+     "error": "fetch failed"
+    },
+    {
+     "url": "https://www.qbrainx.com/company/careers",
+     "status": 0,
+     "bytes": 0,
+     "error": "fetch failed"
+    },
+    {
+     "url": "https://www.qbrainx.com/about/careers",
+     "status": 0,
+     "bytes": 0,
+     "error": "fetch failed"
+    },
+    {
+     "url": "https://www.qbrainx.com/current-openings",
+     "status": 0,
+     "bytes": 0,
+     "error": "fetch failed"
+    },
+    {
+     "url": "https://www.qbrainx.com/",
+     "status": 0,
+     "bytes": 0,
+     "error": "fetch failed"
     }
    ],
    "candidates": [
@@ -18272,7 +19197,7 @@
     "workable:qbrainx -> no board"
    ]
   },
-  "ms": 9414
+  "ms": 17702
  },
  {
   "company": "QAonCloud",
@@ -18345,6 +19270,62 @@
      "bytes": 128130
     },
     {
+     "url": "https://careers.www.qaoncloud.com",
+     "status": 0,
+     "bytes": 0,
+     "error": "fetch failed"
+    },
+    {
+     "url": "https://www.qaoncloud.com/careers",
+     "status": 404,
+     "bytes": 20068
+    },
+    {
+     "url": "https://www.qaoncloud.com/career",
+     "status": 404,
+     "bytes": 20068
+    },
+    {
+     "url": "https://www.qaoncloud.com/jobs",
+     "status": 404,
+     "bytes": 20068
+    },
+    {
+     "url": "https://www.qaoncloud.com/join-us",
+     "status": 404,
+     "bytes": 20068
+    },
+    {
+     "url": "https://www.qaoncloud.com/join-our-team",
+     "status": 404,
+     "bytes": 20068
+    },
+    {
+     "url": "https://www.qaoncloud.com/careers.html",
+     "status": 404,
+     "bytes": 20068
+    },
+    {
+     "url": "https://www.qaoncloud.com/company/careers",
+     "status": 404,
+     "bytes": 20068
+    },
+    {
+     "url": "https://www.qaoncloud.com/about/careers",
+     "status": 404,
+     "bytes": 20068
+    },
+    {
+     "url": "https://www.qaoncloud.com/current-openings",
+     "status": 404,
+     "bytes": 20068
+    },
+    {
+     "url": "https://www.qaoncloud.com/",
+     "status": 200,
+     "bytes": 128130
+    },
+    {
      "url": "https://qaoncloud.com/Careers",
      "status": 200,
      "bytes": 28616
@@ -18365,7 +19346,7 @@
     "workable:qaoncloud -> no board"
    ]
   },
-  "ms": 4369
+  "ms": 3984
  },
  {
   "company": "Quest2Travel",
@@ -18446,6 +19427,72 @@
      "status": 0,
      "bytes": 0,
      "error": "fetch failed"
+    },
+    {
+     "url": "https://careers.www.quest2travel.com",
+     "status": 0,
+     "bytes": 0,
+     "error": "fetch failed"
+    },
+    {
+     "url": "https://www.quest2travel.com/careers",
+     "status": 0,
+     "bytes": 0,
+     "error": "fetch failed"
+    },
+    {
+     "url": "https://www.quest2travel.com/career",
+     "status": 0,
+     "bytes": 0,
+     "error": "fetch failed"
+    },
+    {
+     "url": "https://www.quest2travel.com/jobs",
+     "status": 0,
+     "bytes": 0,
+     "error": "fetch failed"
+    },
+    {
+     "url": "https://www.quest2travel.com/join-us",
+     "status": 0,
+     "bytes": 0,
+     "error": "fetch failed"
+    },
+    {
+     "url": "https://www.quest2travel.com/join-our-team",
+     "status": 0,
+     "bytes": 0,
+     "error": "fetch failed"
+    },
+    {
+     "url": "https://www.quest2travel.com/careers.html",
+     "status": 0,
+     "bytes": 0,
+     "error": "fetch failed"
+    },
+    {
+     "url": "https://www.quest2travel.com/company/careers",
+     "status": 0,
+     "bytes": 0,
+     "error": "fetch failed"
+    },
+    {
+     "url": "https://www.quest2travel.com/about/careers",
+     "status": 0,
+     "bytes": 0,
+     "error": "fetch failed"
+    },
+    {
+     "url": "https://www.quest2travel.com/current-openings",
+     "status": 0,
+     "bytes": 0,
+     "error": "fetch failed"
+    },
+    {
+     "url": "https://www.quest2travel.com/",
+     "status": 0,
+     "bytes": 0,
+     "error": "fetch failed"
     }
    ],
    "candidates": [
@@ -18463,7 +19510,7 @@
     "workable:quest2travel -> no board"
    ]
   },
-  "ms": 2897
+  "ms": 4360
  },
  {
   "company": "Qube Health",
@@ -18603,6 +19650,62 @@
      "bytes": 81050
     },
     {
+     "url": "https://careers.www.qubehealth.com",
+     "status": 0,
+     "bytes": 0,
+     "error": "fetch failed"
+    },
+    {
+     "url": "https://www.qubehealth.com/careers",
+     "status": 404,
+     "bytes": 264
+    },
+    {
+     "url": "https://www.qubehealth.com/career",
+     "status": 404,
+     "bytes": 264
+    },
+    {
+     "url": "https://www.qubehealth.com/jobs",
+     "status": 404,
+     "bytes": 264
+    },
+    {
+     "url": "https://www.qubehealth.com/join-us",
+     "status": 404,
+     "bytes": 264
+    },
+    {
+     "url": "https://www.qubehealth.com/join-our-team",
+     "status": 404,
+     "bytes": 264
+    },
+    {
+     "url": "https://www.qubehealth.com/careers.html",
+     "status": 200,
+     "bytes": 115349
+    },
+    {
+     "url": "https://www.qubehealth.com/company/careers",
+     "status": 404,
+     "bytes": 264
+    },
+    {
+     "url": "https://www.qubehealth.com/about/careers",
+     "status": 404,
+     "bytes": 264
+    },
+    {
+     "url": "https://www.qubehealth.com/current-openings",
+     "status": 404,
+     "bytes": 264
+    },
+    {
+     "url": "https://www.qubehealth.com/",
+     "status": 200,
+     "bytes": 81050
+    },
+    {
      "url": "https://qubehealth.com/positions_info.html",
      "status": 200,
      "bytes": 30343
@@ -18633,7 +19736,7 @@
     "workable:qubehealth -> no board"
    ]
   },
-  "ms": 6407
+  "ms": 7725
  },
  {
   "company": "Quikchex",
@@ -18826,52 +19929,108 @@
     {
      "url": "https://quikchex.in/careers",
      "status": 404,
-     "bytes": 124413
+     "bytes": 124763
     },
     {
      "url": "https://quikchex.in/career",
      "status": 404,
-     "bytes": 124413
+     "bytes": 124763
     },
     {
      "url": "https://quikchex.in/jobs",
      "status": 404,
-     "bytes": 124413
+     "bytes": 124763
     },
     {
      "url": "https://quikchex.in/join-us",
      "status": 404,
-     "bytes": 124413
+     "bytes": 124763
     },
     {
      "url": "https://quikchex.in/join-our-team",
      "status": 404,
-     "bytes": 124413
+     "bytes": 124763
     },
     {
      "url": "https://quikchex.in/careers.html",
      "status": 404,
-     "bytes": 124413
+     "bytes": 124763
     },
     {
      "url": "https://quikchex.in/company/careers",
      "status": 404,
-     "bytes": 124413
+     "bytes": 124763
     },
     {
      "url": "https://quikchex.in/about/careers",
      "status": 404,
-     "bytes": 124413
+     "bytes": 124763
     },
     {
      "url": "https://quikchex.in/current-openings",
      "status": 404,
-     "bytes": 124413
+     "bytes": 124763
     },
     {
      "url": "https://quikchex.in/",
      "status": 200,
-     "bytes": 210766
+     "bytes": 210604
+    },
+    {
+     "url": "https://careers.www.quikchex.in",
+     "status": 0,
+     "bytes": 0,
+     "error": "fetch failed"
+    },
+    {
+     "url": "https://www.quikchex.in/careers",
+     "status": 404,
+     "bytes": 143
+    },
+    {
+     "url": "https://www.quikchex.in/career",
+     "status": 404,
+     "bytes": 143
+    },
+    {
+     "url": "https://www.quikchex.in/jobs",
+     "status": 404,
+     "bytes": 143
+    },
+    {
+     "url": "https://www.quikchex.in/join-us",
+     "status": 404,
+     "bytes": 0
+    },
+    {
+     "url": "https://www.quikchex.in/join-our-team",
+     "status": 404,
+     "bytes": 0
+    },
+    {
+     "url": "https://www.quikchex.in/careers.html",
+     "status": 404,
+     "bytes": 0
+    },
+    {
+     "url": "https://www.quikchex.in/company/careers",
+     "status": 404,
+     "bytes": 10
+    },
+    {
+     "url": "https://www.quikchex.in/about/careers",
+     "status": 404,
+     "bytes": 10
+    },
+    {
+     "url": "https://www.quikchex.in/current-openings",
+     "status": 404,
+     "bytes": 0
+    },
+    {
+     "url": "https://www.quikchex.in/",
+     "status": 200,
+     "bytes": 210604
     }
    ],
    "candidates": [
@@ -18889,7 +20048,7 @@
     "workable:quikchex -> no board"
    ]
   },
-  "ms": 15379
+  "ms": 19174
  },
  {
   "company": "Quest Informatics",
@@ -18962,7 +20121,7 @@
     "workable:questinformatics -> no board"
    ]
   },
-  "ms": 3803
+  "ms": 3391
  },
  {
   "company": "Quadrafort Technologies",
@@ -19051,7 +20210,7 @@
     "workable:quadrafort -> no board"
    ]
   },
-  "ms": 5408
+  "ms": 5297
  },
  {
   "company": "Quantum IT Innovation",
@@ -19120,7 +20279,7 @@
     "workable:quantumitinnovation -> no board"
    ]
   },
-  "ms": 11683
+  "ms": 19279
  },
  {
   "company": "QuickMetrix",
@@ -19145,7 +20304,7 @@
     {
      "url": "https://quickmetrix.com/careers",
      "status": 403,
-     "bytes": 5772
+     "bytes": 5750
     },
     {
      "url": "https://quickmetrix.com/career",
@@ -19161,21 +20320,6 @@
      "url": "https://quickmetrix.com/join-us",
      "status": 403,
      "bytes": 5772
-    },
-    {
-     "url": "https://quickmetrix.com/join-our-team",
-     "status": 403,
-     "bytes": 5768
-    },
-    {
-     "url": "https://quickmetrix.com/careers.html",
-     "status": 403,
-     "bytes": 5765
-    },
-    {
-     "url": "https://quickmetrix.com/company/careers",
-     "status": 403,
-     "bytes": 5796
     }
    ],
    "candidates": [
@@ -19193,7 +20337,7 @@
     "workable:quickmetrix -> no board"
    ]
   },
-  "ms": 6249
+  "ms": 3602
  },
  {
   "company": "Quilt.AI",
@@ -19442,7 +20586,7 @@
     "greenhouse:quilt -> 5 jobs (guess, name-verified)"
    ]
   },
-  "ms": 7176
+  "ms": 6671
  },
  {
   "company": "Qube Cinema",
@@ -19942,6 +21086,72 @@
      "bytes": 42740
     },
     {
+     "url": "https://careers.qubecinema.com",
+     "status": 0,
+     "bytes": 0,
+     "error": "fetch failed"
+    },
+    {
+     "url": "https://qubecinema.com/careers",
+     "status": 0,
+     "bytes": 0,
+     "error": "fetch failed"
+    },
+    {
+     "url": "https://qubecinema.com/career",
+     "status": 0,
+     "bytes": 0,
+     "error": "fetch failed"
+    },
+    {
+     "url": "https://qubecinema.com/jobs",
+     "status": 0,
+     "bytes": 0,
+     "error": "fetch failed"
+    },
+    {
+     "url": "https://qubecinema.com/join-us",
+     "status": 0,
+     "bytes": 0,
+     "error": "fetch failed"
+    },
+    {
+     "url": "https://qubecinema.com/join-our-team",
+     "status": 0,
+     "bytes": 0,
+     "error": "fetch failed"
+    },
+    {
+     "url": "https://qubecinema.com/careers.html",
+     "status": 0,
+     "bytes": 0,
+     "error": "fetch failed"
+    },
+    {
+     "url": "https://qubecinema.com/company/careers",
+     "status": 0,
+     "bytes": 0,
+     "error": "fetch failed"
+    },
+    {
+     "url": "https://qubecinema.com/about/careers",
+     "status": 0,
+     "bytes": 0,
+     "error": "fetch failed"
+    },
+    {
+     "url": "https://qubecinema.com/current-openings",
+     "status": 0,
+     "bytes": 0,
+     "error": "fetch failed"
+    },
+    {
+     "url": "https://qubecinema.com/",
+     "status": 0,
+     "bytes": 0,
+     "error": "fetch failed"
+    },
+    {
      "url": "https://careers.www.qubecinema.com",
      "status": 0,
      "bytes": 0,
@@ -19980,7 +21190,7 @@
     "jazzhr:qubecinema -> 25 jobs"
    ]
   },
-  "ms": 10554
+  "ms": 16965
  },
  {
   "company": "Quatrro Business Support Services",
@@ -20051,6 +21261,62 @@
      "url": "https://quatrro.com/",
      "status": 200,
      "bytes": 22989
+    },
+    {
+     "url": "https://careers.www.quatrro.com",
+     "status": 0,
+     "bytes": 0,
+     "error": "fetch failed"
+    },
+    {
+     "url": "https://www.quatrro.com/careers",
+     "status": 404,
+     "bytes": 278
+    },
+    {
+     "url": "https://www.quatrro.com/career",
+     "status": 404,
+     "bytes": 278
+    },
+    {
+     "url": "https://www.quatrro.com/jobs",
+     "status": 404,
+     "bytes": 278
+    },
+    {
+     "url": "https://www.quatrro.com/join-us",
+     "status": 404,
+     "bytes": 278
+    },
+    {
+     "url": "https://www.quatrro.com/join-our-team",
+     "status": 404,
+     "bytes": 278
+    },
+    {
+     "url": "https://www.quatrro.com/careers.html",
+     "status": 404,
+     "bytes": 278
+    },
+    {
+     "url": "https://www.quatrro.com/company/careers",
+     "status": 404,
+     "bytes": 278
+    },
+    {
+     "url": "https://www.quatrro.com/about/careers",
+     "status": 404,
+     "bytes": 278
+    },
+    {
+     "url": "https://www.quatrro.com/current-openings",
+     "status": 404,
+     "bytes": 278
+    },
+    {
+     "url": "https://www.quatrro.com/",
+     "status": 200,
+     "bytes": 22989
     }
    ],
    "candidates": [
@@ -20078,7 +21344,7 @@
     "workable:quatrro -> no board"
    ]
   },
-  "ms": 21907
+  "ms": 28698
  },
  {
   "company": "QodeNext",
@@ -20184,7 +21450,7 @@
     "workable:qodenext -> no board"
    ]
   },
-  "ms": 22382
+  "ms": 16317
  },
  {
   "company": "Quadra Systems",
@@ -20454,7 +21720,7 @@
     "workable:quadrasystems -> no board"
    ]
   },
-  "ms": 8228
+  "ms": 8163
  },
  {
   "company": "Qapitol QA",
@@ -20729,7 +21995,7 @@
     "workable:qapitol -> no board"
    ]
   },
-  "ms": 6482
+  "ms": 8920
  },
  {
   "company": "Quickwork",
@@ -20799,7 +22065,63 @@
     {
      "url": "https://quickwork.co/",
      "status": 200,
-     "bytes": 268620
+     "bytes": 268617
+    },
+    {
+     "url": "https://careers.www.quickwork.co",
+     "status": 0,
+     "bytes": 0,
+     "error": "fetch failed"
+    },
+    {
+     "url": "https://www.quickwork.co/careers",
+     "status": 404,
+     "bytes": 3827
+    },
+    {
+     "url": "https://www.quickwork.co/career",
+     "status": 404,
+     "bytes": 3827
+    },
+    {
+     "url": "https://www.quickwork.co/jobs",
+     "status": 404,
+     "bytes": 3827
+    },
+    {
+     "url": "https://www.quickwork.co/join-us",
+     "status": 404,
+     "bytes": 3827
+    },
+    {
+     "url": "https://www.quickwork.co/join-our-team",
+     "status": 404,
+     "bytes": 3827
+    },
+    {
+     "url": "https://www.quickwork.co/careers.html",
+     "status": 404,
+     "bytes": 3827
+    },
+    {
+     "url": "https://www.quickwork.co/company/careers",
+     "status": 404,
+     "bytes": 3827
+    },
+    {
+     "url": "https://www.quickwork.co/about/careers",
+     "status": 404,
+     "bytes": 3827
+    },
+    {
+     "url": "https://www.quickwork.co/current-openings",
+     "status": 404,
+     "bytes": 3827
+    },
+    {
+     "url": "https://www.quickwork.co/",
+     "status": 200,
+     "bytes": 268617
     }
    ],
    "candidates": [
@@ -20817,7 +22139,7 @@
     "workable:quickwork -> no board"
    ]
   },
-  "ms": 3419
+  "ms": 4095
  },
  {
   "company": "QuoDeck",
@@ -20842,17 +22164,17 @@
     {
      "url": "https://quodeck.com/careers",
      "status": 404,
-     "bytes": 2206
+     "bytes": 2205
     },
     {
      "url": "https://quodeck.com/career",
      "status": 404,
-     "bytes": 2206
+     "bytes": 2205
     },
     {
      "url": "https://quodeck.com/jobs",
      "status": 404,
-     "bytes": 2206
+     "bytes": 2205
     },
     {
      "url": "https://quodeck.com/join-us",
@@ -20862,12 +22184,12 @@
     {
      "url": "https://quodeck.com/join-our-team",
      "status": 404,
-     "bytes": 2206
+     "bytes": 2205
     },
     {
      "url": "https://quodeck.com/careers.html",
      "status": 400,
-     "bytes": 2203
+     "bytes": 2201
     },
     {
      "url": "https://quodeck.com/company/careers",
@@ -20882,12 +22204,68 @@
     {
      "url": "https://quodeck.com/current-openings",
      "status": 404,
-     "bytes": 2206
+     "bytes": 2205
     },
     {
      "url": "https://quodeck.com/",
      "status": 200,
-     "bytes": 1477575
+     "bytes": 1476655
+    },
+    {
+     "url": "https://careers.www.quodeck.com",
+     "status": 0,
+     "bytes": 0,
+     "error": "fetch failed"
+    },
+    {
+     "url": "https://www.quodeck.com/careers",
+     "status": 404,
+     "bytes": 2205
+    },
+    {
+     "url": "https://www.quodeck.com/career",
+     "status": 404,
+     "bytes": 2205
+    },
+    {
+     "url": "https://www.quodeck.com/jobs",
+     "status": 404,
+     "bytes": 2205
+    },
+    {
+     "url": "https://www.quodeck.com/join-us",
+     "status": 404,
+     "bytes": 2206
+    },
+    {
+     "url": "https://www.quodeck.com/join-our-team",
+     "status": 404,
+     "bytes": 2205
+    },
+    {
+     "url": "https://www.quodeck.com/careers.html",
+     "status": 400,
+     "bytes": 2201
+    },
+    {
+     "url": "https://www.quodeck.com/company/careers",
+     "status": 404,
+     "bytes": 2206
+    },
+    {
+     "url": "https://www.quodeck.com/about/careers",
+     "status": 404,
+     "bytes": 2206
+    },
+    {
+     "url": "https://www.quodeck.com/current-openings",
+     "status": 404,
+     "bytes": 2205
+    },
+    {
+     "url": "https://www.quodeck.com/",
+     "status": 200,
+     "bytes": 1476655
     }
    ],
    "candidates": [
@@ -20905,7 +22283,7 @@
     "workable:quodeck -> no board"
    ]
   },
-  "ms": 12157
+  "ms": 17189
  },
  {
   "company": "Qdesq",
@@ -20974,7 +22352,7 @@
     "workable:qdesq -> no board"
    ]
   },
-  "ms": 4327
+  "ms": 4478
  },
  {
   "company": "Qzense Labs",
@@ -21045,6 +22423,62 @@
      "url": "https://qzense.com/",
      "status": 200,
      "bytes": 155784
+    },
+    {
+     "url": "https://careers.www.qzense.com",
+     "status": 0,
+     "bytes": 0,
+     "error": "fetch failed"
+    },
+    {
+     "url": "https://www.qzense.com/careers",
+     "status": 404,
+     "bytes": 129297
+    },
+    {
+     "url": "https://www.qzense.com/career",
+     "status": 404,
+     "bytes": 129297
+    },
+    {
+     "url": "https://www.qzense.com/jobs",
+     "status": 404,
+     "bytes": 129297
+    },
+    {
+     "url": "https://www.qzense.com/join-us",
+     "status": 404,
+     "bytes": 129297
+    },
+    {
+     "url": "https://www.qzense.com/join-our-team",
+     "status": 404,
+     "bytes": 129297
+    },
+    {
+     "url": "https://www.qzense.com/careers.html",
+     "status": 404,
+     "bytes": 129297
+    },
+    {
+     "url": "https://www.qzense.com/company/careers",
+     "status": 404,
+     "bytes": 129297
+    },
+    {
+     "url": "https://www.qzense.com/about/careers",
+     "status": 404,
+     "bytes": 129297
+    },
+    {
+     "url": "https://www.qzense.com/current-openings",
+     "status": 404,
+     "bytes": 129297
+    },
+    {
+     "url": "https://www.qzense.com/",
+     "status": 200,
+     "bytes": 155784
     }
    ],
    "candidates": [
@@ -21062,7 +22496,7 @@
     "workable:qzense -> no board"
    ]
   },
-  "ms": 14708
+  "ms": 16416
  },
  {
   "company": "Qulabs Software",
@@ -21134,6 +22568,62 @@
      "url": "https://qulabs.ai/",
      "status": 200,
      "bytes": 596
+    },
+    {
+     "url": "https://careers.www.qulabs.ai",
+     "status": 0,
+     "bytes": 0,
+     "error": "fetch failed"
+    },
+    {
+     "url": "https://www.qulabs.ai/careers",
+     "status": 200,
+     "bytes": 596
+    },
+    {
+     "url": "https://www.qulabs.ai/career",
+     "status": 200,
+     "bytes": 596
+    },
+    {
+     "url": "https://www.qulabs.ai/jobs",
+     "status": 200,
+     "bytes": 596
+    },
+    {
+     "url": "https://www.qulabs.ai/join-us",
+     "status": 200,
+     "bytes": 596
+    },
+    {
+     "url": "https://www.qulabs.ai/join-our-team",
+     "status": 200,
+     "bytes": 596
+    },
+    {
+     "url": "https://www.qulabs.ai/careers.html",
+     "status": 200,
+     "bytes": 596
+    },
+    {
+     "url": "https://www.qulabs.ai/company/careers",
+     "status": 200,
+     "bytes": 596
+    },
+    {
+     "url": "https://www.qulabs.ai/about/careers",
+     "status": 200,
+     "bytes": 596
+    },
+    {
+     "url": "https://www.qulabs.ai/current-openings",
+     "status": 200,
+     "bytes": 596
+    },
+    {
+     "url": "https://www.qulabs.ai/",
+     "status": 200,
+     "bytes": 596
     }
    ],
    "candidates": [
@@ -21151,7 +22641,7 @@
     "workable:qulabs -> no board"
    ]
   },
-  "ms": 6641
+  "ms": 11942
  },
  {
   "company": "QBotica",
@@ -21239,6 +22729,72 @@
      "status": 0,
      "bytes": 0,
      "error": "fetch failed"
+    },
+    {
+     "url": "https://careers.www.qbotica.com",
+     "status": 0,
+     "bytes": 0,
+     "error": "fetch failed"
+    },
+    {
+     "url": "https://www.qbotica.com/careers",
+     "status": 0,
+     "bytes": 0,
+     "error": "fetch failed"
+    },
+    {
+     "url": "https://www.qbotica.com/career",
+     "status": 0,
+     "bytes": 0,
+     "error": "fetch failed"
+    },
+    {
+     "url": "https://www.qbotica.com/jobs",
+     "status": 0,
+     "bytes": 0,
+     "error": "fetch failed"
+    },
+    {
+     "url": "https://www.qbotica.com/join-us",
+     "status": 0,
+     "bytes": 0,
+     "error": "fetch failed"
+    },
+    {
+     "url": "https://www.qbotica.com/join-our-team",
+     "status": 0,
+     "bytes": 0,
+     "error": "fetch failed"
+    },
+    {
+     "url": "https://www.qbotica.com/careers.html",
+     "status": 0,
+     "bytes": 0,
+     "error": "fetch failed"
+    },
+    {
+     "url": "https://www.qbotica.com/company/careers",
+     "status": 0,
+     "bytes": 0,
+     "error": "fetch failed"
+    },
+    {
+     "url": "https://www.qbotica.com/about/careers",
+     "status": 0,
+     "bytes": 0,
+     "error": "fetch failed"
+    },
+    {
+     "url": "https://www.qbotica.com/current-openings",
+     "status": 0,
+     "bytes": 0,
+     "error": "fetch failed"
+    },
+    {
+     "url": "https://www.qbotica.com/",
+     "status": 0,
+     "bytes": 0,
+     "error": "fetch failed"
     }
    ],
    "candidates": [
@@ -21256,7 +22812,7 @@
     "workable:qbotica -> no board"
    ]
   },
-  "ms": 16047
+  "ms": 14694
  },
  {
   "company": "QWQER",
@@ -21408,7 +22964,7 @@
     "workable:qwqer -> no board"
    ]
   },
-  "ms": 7329
+  "ms": 6622
  },
  {
   "company": "Qode Advisors",
@@ -21748,7 +23304,7 @@
     "workable:qodeinvest -> no board"
    ]
   },
-  "ms": 7614
+  "ms": 7890
  },
  {
   "company": "Qualwebs",
@@ -21836,7 +23392,7 @@
     "workable:qualwebs -> no board"
    ]
   },
-  "ms": 14722
+  "ms": 14113
  },
  {
   "company": "Qube Research & Technologies",
@@ -21934,7 +23490,7 @@
     "workable:qubert -> no board"
    ]
   },
-  "ms": 25773
+  "ms": 21188
  },
  {
   "company": "Qkrishi",
@@ -21952,7 +23508,7 @@
    "pages": [],
    "attempts": []
   },
-  "ms": 90003
+  "ms": 90004
  },
  {
   "company": "Qualitrix Technologies",
@@ -22179,7 +23735,7 @@
     "workable:qualitrix -> no board"
    ]
   },
-  "ms": 4633
+  "ms": 3309
  },
  {
   "company": "Qyrus",
@@ -22292,7 +23848,7 @@
     "workable:qyrus -> no board"
    ]
   },
-  "ms": 32979
+  "ms": 28562
  },
  {
   "company": "Quorum Software",
@@ -22396,7 +23952,7 @@
     "workable:quorumsoftware -> no board"
    ]
   },
-  "ms": 26906
+  "ms": 28314
  },
  {
   "company": "Quanfluence",
@@ -22484,7 +24040,7 @@
     "workable:quanfluence -> no board"
    ]
   },
-  "ms": 23072
+  "ms": 22366
  },
  {
   "company": "Quintype Technologies",
@@ -22537,7 +24093,7 @@
     "workable:quintype -> no board"
    ]
   },
-  "ms": 12979
+  "ms": 11217
  },
  {
   "company": "Quadratyx",
@@ -22722,6 +24278,63 @@
      "bytes": 538242
     },
     {
+     "url": "https://careers.www.quadratyx.com",
+     "status": 0,
+     "bytes": 0,
+     "error": "fetch failed"
+    },
+    {
+     "url": "https://www.quadratyx.com/careers",
+     "status": 404,
+     "bytes": 461822
+    },
+    {
+     "url": "https://www.quadratyx.com/career",
+     "status": 404,
+     "bytes": 461822
+    },
+    {
+     "url": "https://www.quadratyx.com/jobs",
+     "status": 404,
+     "bytes": 461822
+    },
+    {
+     "url": "https://www.quadratyx.com/join-us",
+     "status": 404,
+     "bytes": 461822
+    },
+    {
+     "url": "https://www.quadratyx.com/join-our-team",
+     "status": 404,
+     "bytes": 461822
+    },
+    {
+     "url": "https://www.quadratyx.com/careers.html",
+     "status": 0,
+     "bytes": 0,
+     "error": "fetch failed"
+    },
+    {
+     "url": "https://www.quadratyx.com/company/careers",
+     "status": 404,
+     "bytes": 461822
+    },
+    {
+     "url": "https://www.quadratyx.com/about/careers",
+     "status": 404,
+     "bytes": 461822
+    },
+    {
+     "url": "https://www.quadratyx.com/current-openings",
+     "status": 404,
+     "bytes": 461822
+    },
+    {
+     "url": "https://www.quadratyx.com/",
+     "status": 200,
+     "bytes": 538242
+    },
+    {
      "url": "https://quadratyx.com/we-are-hiring/",
      "status": 200,
      "bytes": 500008
@@ -22742,7 +24355,7 @@
     "workable:quadratyx -> no board"
    ]
   },
-  "ms": 42600
+  "ms": 76092
  },
  {
   "company": "QuantInsti",
@@ -23079,7 +24692,7 @@
     "workable:quantinsti -> no board"
    ]
   },
-  "ms": 13513
+  "ms": 15314
  },
  {
   "company": "Qvantel",
@@ -23173,7 +24786,7 @@
     "workable:qvantel -> no board"
    ]
   },
-  "ms": 16727
+  "ms": 35803
  },
  {
   "company": "QUEST Innovative Solutions",
@@ -23244,6 +24857,62 @@
      "url": "https://questinnovative.com/",
      "status": 200,
      "bytes": 16125
+    },
+    {
+     "url": "https://careers.www.questinnovative.com",
+     "status": 0,
+     "bytes": 0,
+     "error": "fetch failed"
+    },
+    {
+     "url": "https://www.questinnovative.com/careers",
+     "status": 404,
+     "bytes": 17
+    },
+    {
+     "url": "https://www.questinnovative.com/career",
+     "status": 404,
+     "bytes": 17
+    },
+    {
+     "url": "https://www.questinnovative.com/jobs",
+     "status": 404,
+     "bytes": 17
+    },
+    {
+     "url": "https://www.questinnovative.com/join-us",
+     "status": 404,
+     "bytes": 17
+    },
+    {
+     "url": "https://www.questinnovative.com/join-our-team",
+     "status": 404,
+     "bytes": 17
+    },
+    {
+     "url": "https://www.questinnovative.com/careers.html",
+     "status": 404,
+     "bytes": 17
+    },
+    {
+     "url": "https://www.questinnovative.com/company/careers",
+     "status": 404,
+     "bytes": 17
+    },
+    {
+     "url": "https://www.questinnovative.com/about/careers",
+     "status": 404,
+     "bytes": 17
+    },
+    {
+     "url": "https://www.questinnovative.com/current-openings",
+     "status": 404,
+     "bytes": 17
+    },
+    {
+     "url": "https://www.questinnovative.com/",
+     "status": 200,
+     "bytes": 16125
     }
    ],
    "candidates": [
@@ -23261,7 +24930,7 @@
     "workable:questinnovative -> no board"
    ]
   },
-  "ms": 9184
+  "ms": 13790
  },
  {
   "company": "Qatalys",
@@ -23350,7 +25019,7 @@
     "workable:qatalys -> no board"
    ]
   },
-  "ms": 8965
+  "ms": 12084
  },
  {
   "company": "Quantumzyme",
@@ -23800,6 +25469,6 @@
     "workable:quantumzyme -> no board"
    ]
   },
-  "ms": 8973
+  "ms": 8862
  }
 ]

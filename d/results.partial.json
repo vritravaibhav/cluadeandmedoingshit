@@ -1,0 +1,156 @@
+[
+  {
+    "company": "Dream11",
+    "country": "India",
+    "source": null,
+    "error": "no-job-data-found",
+    "totalJobs": 0,
+    "jobs": [],
+    "enriched": 0,
+    "matches": [],
+    "nearMatches": [],
+    "closest": null,
+    "closestEng": null,
+    "trace": {
+      "pages": [
+        {
+          "url": "https://careers.dream11.com",
+          "status": 0,
+          "bytes": 0,
+          "error": "fetch failed"
+        },
+        {
+          "url": "https://dream11.com/careers",
+          "status": 0,
+          "bytes": 0,
+          "error": "fetch failed"
+        },
+        {
+          "url": "https://dream11.com/career",
+          "status": 0,
+          "bytes": 0,
+          "error": "fetch failed"
+        },
+        {
+          "url": "https://dream11.com/jobs",
+          "status": 0,
+          "bytes": 0,
+          "error": "fetch failed"
+        },
+        {
+          "url": "https://dream11.com/join-us",
+          "status": 0,
+          "bytes": 0,
+          "error": "fetch failed"
+        },
+        {
+          "url": "https://dream11.com/join-our-team",
+          "status": 0,
+          "bytes": 0,
+          "error": "fetch failed"
+        },
+        {
+          "url": "https://dream11.com/careers.html",
+          "status": 0,
+          "bytes": 0,
+          "error": "fetch failed"
+        },
+        {
+          "url": "https://dream11.com/company/careers",
+          "status": 0,
+          "bytes": 0,
+          "error": "fetch failed"
+        },
+        {
+          "url": "https://dream11.com/about/careers",
+          "status": 0,
+          "bytes": 0,
+          "error": "fetch failed"
+        },
+        {
+          "url": "https://dream11.com/current-openings",
+          "status": 0,
+          "bytes": 0,
+          "error": "fetch failed"
+        },
+        {
+          "url": "https://dream11.com/",
+          "status": 0,
+          "bytes": 0,
+          "error": "fetch failed"
+        },
+        {
+          "url": "https://careers.www.dream11.com",
+          "status": 0,
+          "bytes": 0,
+          "error": "fetch failed"
+        },
+        {
+          "url": "https://www.dream11.com/careers",
+          "status": 200,
+          "bytes": 83734
+        },
+        {
+          "url": "https://www.dream11.com/career",
+          "status": 200,
+          "bytes": 83734
+        },
+        {
+          "url": "https://www.dream11.com/jobs",
+          "status": 200,
+          "bytes": 83734
+        },
+        {
+          "url": "https://www.dream11.com/join-us",
+          "status": 200,
+          "bytes": 83734
+        },
+        {
+          "url": "https://www.dream11.com/join-our-team",
+          "status": 200,
+          "bytes": 83734
+        },
+        {
+          "url": "https://www.dream11.com/careers.html",
+          "status": 200,
+          "bytes": 83734
+        },
+        {
+          "url": "https://www.dream11.com/company/careers",
+          "status": 200,
+          "bytes": 83734
+        },
+        {
+          "url": "https://www.dream11.com/about/careers",
+          "status": 200,
+          "bytes": 83734
+        },
+        {
+          "url": "https://www.dream11.com/current-openings",
+          "status": 200,
+          "bytes": 83734
+        },
+        {
+          "url": "https://www.dream11.com/",
+          "status": 200,
+          "bytes": 83734
+        }
+      ],
+      "candidates": [
+        "greenhouse:dream11(guess)",
+        "lever:dream11(guess)",
+        "ashby:dream11(guess)",
+        "recruitee:dream11(guess)",
+        "workable:dream11(guess)"
+      ],
+      "attempts": [
+        "greenhouse:dream11 -> no board",
+        "lever:dream11 -> no board",
+        "ashby:dream11 -> no board",
+        "recruitee:dream11 -> no board",
+        "workable:dream11 -> 0 jobs (guess, name-verified)"
+      ]
+    },
+    "ms": 6659
+  }
+]

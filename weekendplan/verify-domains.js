@@ -86,15 +86,21 @@ const tokens = (name) =>
  */
 const dns = require('dns').promises;
 
+/*
+ * Plenty of large companies publish NO A record at the apex — only on www.
+ * fujitsu.com, dream11.com, denso.com and schaeffler.com all fail an apex
+ * lookup while www.<domain> answers fine. A first pass called all 27 of them
+ * "dead" for exactly this reason. Always try the www form before condemning
+ * a domain.
+ */
 async function resolves(h) {
-  try {
-    await dns.lookup(h);
-    return true;
-  } catch {
-    // Retry once through a different record type before condemning it.
-    try { await dns.resolve(h, 'A'); return true; } catch { /* fall through */ }
-    try { await dns.resolve(h, 'CNAME'); return true; } catch { return false; }
+  const bare_ = h.replace(/^www\./, '');
+  for (const cand of [bare_, `www.${bare_}`]) {
+    try { await dns.lookup(cand); return true; } catch { /* try next */ }
+    try { await dns.resolve(cand, 'A'); return true; } catch { /* try next */ }
+    try { await dns.resolve(cand, 'CNAME'); return true; } catch { /* try next */ }
   }
+  return false;
 }
 
 /** Does the redirect destination plausibly belong to the same company? */

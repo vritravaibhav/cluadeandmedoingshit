@@ -1,0 +1,36 @@
+Verifying 5956 domains across 26 letter(s), concurrency 24
+
+  250/5956
+  500/5956
+  750/5956
+  1000/5956
+  1250/5956
+  1500/5956
+  1750/5956
+  2000/5956
+  2250/5956
+  2500/5956
+  2750/5956
+  3000/5956
+  3250/5956
+  3500/5956
+  3750/5956
+  4000/5956
+  4250/5956
+(node:15096) MaxListenersExceededWarning: Possible EventEmitter memory leak detected. 11 terminated listeners added to [Fetch]. MaxListeners is 10. Use emitter.setMaxListeners() to increase limit
+(Use `node --trace-warnings ...` to show where the warning was created)
+  4500/5956
+  4750/5956
+  5000/5956
+  5250/5956
+  5500/5956
+  5750/5956
+
+   5873  ok
+     54  redirect
+     27  dead
+      2  parked
+
+Wrote weekendplan/domain-report.txt (83 rows needing attention)
+
+Re-run with --apply to drop the dead and parked entries.

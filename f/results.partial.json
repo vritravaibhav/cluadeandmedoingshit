@@ -1,0 +1,172 @@
+[
+  {
+    "company": "Fujitsu",
+    "country": "Japan",
+    "careers": "https://global.fujitsu/en-apac/careers/india",
+    "source": null,
+    "error": "careers-page-read-but-lists-no-openings",
+    "totalJobs": 0,
+    "jobs": [],
+    "enriched": 0,
+    "matches": [],
+    "nearMatches": [],
+    "closest": null,
+    "closestEng": null,
+    "trace": {
+      "pages": [
+        {
+          "url": "https://global.fujitsu/en-apac/careers/india",
+          "status": 200,
+          "bytes": 120083
+        },
+        {
+          "url": "https://careers.fujitsu.com",
+          "status": 0,
+          "bytes": 0,
+          "error": "fetch failed"
+        },
+        {
+          "url": "https://fujitsu.com/careers",
+          "status": 0,
+          "bytes": 0,
+          "error": "fetch failed"
+        },
+        {
+          "url": "https://fujitsu.com/career",
+          "status": 0,
+          "bytes": 0,
+          "error": "fetch failed"
+        },
+        {
+          "url": "https://fujitsu.com/jobs",
+          "status": 0,
+          "bytes": 0,
+          "error": "fetch failed"
+        },
+        {
+          "url": "https://fujitsu.com/join-us",
+          "status": 0,
+          "bytes": 0,
+          "error": "fetch failed"
+        },
+        {
+          "url": "https://fujitsu.com/join-our-team",
+          "status": 0,
+          "bytes": 0,
+          "error": "fetch failed"
+        },
+        {
+          "url": "https://fujitsu.com/careers.html",
+          "status": 0,
+          "bytes": 0,
+          "error": "fetch failed"
+        },
+        {
+          "url": "https://fujitsu.com/company/careers",
+          "status": 0,
+          "bytes": 0,
+          "error": "fetch failed"
+        },
+        {
+          "url": "https://fujitsu.com/about/careers",
+          "status": 0,
+          "bytes": 0,
+          "error": "fetch failed"
+        },
+        {
+          "url": "https://fujitsu.com/current-openings",
+          "status": 0,
+          "bytes": 0,
+          "error": "fetch failed"
+        },
+        {
+          "url": "https://fujitsu.com/",
+          "status": 0,
+          "bytes": 0,
+          "error": "fetch failed"
+        },
+        {
+          "url": "https://careers.www.fujitsu.com",
+          "status": 0,
+          "bytes": 0,
+          "error": "fetch failed"
+        },
+        {
+          "url": "https://www.fujitsu.com/careers",
+          "status": 200,
+          "bytes": 1142034
+        },
+        {
+          "url": "https://www.fujitsu.com/career",
+          "status": 200,
+          "bytes": 1142034
+        },
+        {
+          "url": "https://www.fujitsu.com/jobs",
+          "status": 200,
+          "bytes": 1142034
+        },
+        {
+          "url": "https://www.fujitsu.com/join-us",
+          "status": 200,
+          "bytes": 1142034
+        },
+        {
+          "url": "https://www.fujitsu.com/join-our-team",
+          "status": 200,
+          "bytes": 1142034
+        },
+        {
+          "url": "https://www.fujitsu.com/careers.html",
+          "status": 200,
+          "bytes": 1142034
+        },
+        {
+          "url": "https://www.fujitsu.com/company/careers",
+          "status": 200,
+          "bytes": 1142034
+        },
+        {
+          "url": "https://www.fujitsu.com/about/careers",
+          "status": 200,
+          "bytes": 1142034
+        },
+        {
+          "url": "https://www.fujitsu.com/current-openings",
+          "status": 200,
+          "bytes": 1142034
+        },
+        {
+          "url": "https://www.fujitsu.com/",
+          "status": 200,
+          "bytes": 1142034
+        },
+        {
+          "url": "https://global.fujitsu/en-apac/careers",
+          "status": 200,
+          "bytes": 98224
+        },
+        {
+          "url": "https://global.fujitsu/en-global/careers",
+          "status": 200,
+          "bytes": 152513
+        }
+      ],
+      "candidates": [
+        "greenhouse:fujitsu(guess)",
+        "lever:fujitsu(guess)",
+        "ashby:fujitsu(guess)",
+        "recruitee:fujitsu(guess)",
+        "workable:fujitsu(guess)"
+      ],
+      "attempts": [
+        "greenhouse:fujitsu -> no board",
+        "lever:fujitsu -> no board",
+        "ashby:fujitsu -> no board",
+        "recruitee:fujitsu -> no board",
+        "workable:fujitsu -> 0 jobs (guess, name-verified)"
+      ]
+    },
+    "ms": 77720
+  }
+]

@@ -1,0 +1,26 @@
+Scanning 5 letter(s): a c e m s
+  5 letters in parallel, concurrency 8 each
+
+  -> e: 269 companies, starting
+  -> c: 333 companies, starting
+  -> a: 379 companies, starting
+  -> m: 274 companies, starting
+  -> s: 419 companies, starting
+  == e: done, boards read 127/269
+  == m: done, boards read 137/274
+  == c: done, boards read 192/333
+  == a: done, boards read 213/379
+  == s: done, boards read 232/419
+
+All scans finished. Building the four weekend folders...
+Loaded 26 letter(s): a b c d e f g h i j k l m n o p q r s t u v w x y z
+  companies scanned : 5827
+  raw postings      : 74743
+  India + eng + non-senior : 4276
+
+  1-java-flutter-2yr       285 roles   237 companies
+  2-java-flutter-3yr       203 roles   160 companies
+  3-software-2yr          1647 roles   932 companies
+  4-software-3yr           692 roles   431 companies
+
+Wrote weekendplan/INDEX.txt

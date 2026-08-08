@@ -133,6 +133,35 @@
   "ambiguous": false
  },
  {
+  "letter": "e",
+  "company": "Embien Technologies",
+  "country": "India",
+  "board": "headings:https://www.embien.com/careers",
+  "title": "Associate Engineer Trainee",
+  "location": "",
+  "url": "https://www.embien.com/careers",
+  "india": true,
+  "isEng": true,
+  "senior": false,
+  "java": true,
+  "flutter": false,
+  "score": 112,
+  "exp": [
+   [
+    0,
+    2
+   ],
+   [
+    2,
+    3
+   ]
+  ],
+  "fits2": true,
+  "fits3": true,
+  "unstated": false,
+  "ambiguous": false
+ },
+ {
   "letter": "f",
   "company": "Fingent",
   "country": "India",
@@ -440,6 +469,56 @@
   "ambiguous": false
  },
  {
+  "letter": "c",
+  "company": "Classic Informatics",
+  "country": "India",
+  "board": "headings:https://www.classicinformatics.com/careers/",
+  "title": "React Native and Flutter Developer",
+  "location": "",
+  "url": "https://www.classicinformatics.com/careers/",
+  "india": true,
+  "isEng": true,
+  "senior": false,
+  "java": false,
+  "flutter": true,
+  "score": 103,
+  "exp": [
+   [
+    2,
+    5
+   ]
+  ],
+  "fits2": true,
+  "fits3": true,
+  "unstated": false,
+  "ambiguous": false
+ },
+ {
+  "letter": "c",
+  "company": "CodeRower",
+  "country": "India",
+  "board": "headings:https://coderower.com/career",
+  "title": "Flutter Developer",
+  "location": "",
+  "url": "https://coderower.com/career",
+  "india": true,
+  "isEng": true,
+  "senior": false,
+  "java": false,
+  "flutter": true,
+  "score": 103,
+  "exp": [
+   [
+    2,
+    6
+   ]
+  ],
+  "fits2": true,
+  "fits3": true,
+  "unstated": false,
+  "ambiguous": false
+ },
+ {
   "letter": "d",
   "company": "Duplex Technologies",
   "country": "India",
@@ -731,6 +810,35 @@
   "ambiguous": false
  },
  {
+  "letter": "a",
+  "company": "Acceldata",
+  "country": "United States",
+  "board": "lever:acceldata",
+  "title": "Software Engineer - Open Data Platform (ODP)",
+  "location": "Bengaluru",
+  "url": "https://jobs.lever.co/acceldata/0c47e882-83ff-471e-ba75-5543796aa34a",
+  "india": true,
+  "isEng": true,
+  "senior": false,
+  "java": true,
+  "flutter": false,
+  "score": 100,
+  "exp": [
+   [
+    2,
+    3
+   ],
+   [
+    4,
+    8
+   ]
+  ],
+  "fits2": true,
+  "fits3": true,
+  "unstated": false,
+  "ambiguous": false
+ },
+ {
   "letter": "c",
   "company": "Calibraint",
   "country": "India",
@@ -831,6 +939,134 @@
    [
     2,
     6
+   ]
+  ],
+  "fits2": true,
+  "fits3": true,
+  "unstated": false,
+  "ambiguous": false
+ },
+ {
+  "letter": "c",
+  "company": "ComTec Information Systems",
+  "country": "India",
+  "board": "feed:https://www.comtecinfo.com",
+  "title": "10276 - SOFTWARE DEVELOPERS (Multiple positions) SD-AY31",
+  "location": "",
+  "url": "https://www.comtecinfo.com/jobs/software-developers-multiple-positions-sd-ay31/",
+  "india": true,
+  "isEng": true,
+  "senior": false,
+  "java": true,
+  "flutter": false,
+  "score": 100,
+  "exp": [
+   [
+    1,
+    5
+   ],
+   [
+    5,
+    6
+   ],
+   [
+    3,
+    4
+   ]
+  ],
+  "fits2": true,
+  "fits3": true,
+  "unstated": false,
+  "ambiguous": false
+ },
+ {
+  "letter": "c",
+  "company": "ComTec Information Systems",
+  "country": "India",
+  "board": "feed:https://www.comtecinfo.com",
+  "title": "10032 - SOFTWARE DEVELOPERS (Multiple positions) SD-AY29",
+  "location": "",
+  "url": "https://www.comtecinfo.com/jobs/software-developers-multiple-positions-sd-ay29/",
+  "india": true,
+  "isEng": true,
+  "senior": false,
+  "java": true,
+  "flutter": false,
+  "score": 100,
+  "exp": [
+   [
+    1,
+    5
+   ],
+   [
+    3,
+    4
+   ],
+   [
+    5,
+    6
+   ]
+  ],
+  "fits2": true,
+  "fits3": true,
+  "unstated": false,
+  "ambiguous": false
+ },
+ {
+  "letter": "c",
+  "company": "Celonis",
+  "country": "Germany",
+  "board": "greenhouse:celonis",
+  "title": "Applied AI Engineer",
+  "location": "Bangalore, India",
+  "url": "https://job-boards.greenhouse.io/celonis/jobs/7681593003?gh_jid=7681593003",
+  "india": true,
+  "isEng": true,
+  "senior": false,
+  "java": true,
+  "flutter": false,
+  "score": 100,
+  "exp": [
+   [
+    4,
+    8
+   ],
+   [
+    3,
+    7
+   ],
+   [
+    1,
+    5
+   ]
+  ],
+  "fits2": true,
+  "fits3": true,
+  "unstated": false,
+  "ambiguous": false
+ },
+ {
+  "letter": "c",
+  "company": "Copado",
+  "country": "United States",
+  "board": "rippling:copado",
+  "title": "DevOps Support Engineer",
+  "location": "Bengaluru, India",
+  "url": "https://ats.rippling.com/copado/jobs/31e71e7e-816d-4d8f-949f-8b7a7879fbaf",
+  "india": true,
+  "isEng": true,
+  "senior": false,
+  "java": true,
+  "flutter": false,
+  "score": 100,
+  "exp": [
+   [
+    2,
+    3
+   ],
+   [
+    1,
+    3
    ]
   ],
   "fits2": true,
@@ -968,31 +1204,6 @@
    [
     2,
     7
-   ]
-  ],
-  "fits2": true,
-  "fits3": true,
-  "unstated": false,
-  "ambiguous": false
- },
- {
-  "letter": "e",
-  "company": "Exotel",
-  "country": "India",
-  "board": "rendered",
-  "title": "Product Support Engineer (Mumbai)",
-  "location": "Mumbai",
-  "url": "https://exotel.com/about-us/careers/",
-  "india": true,
-  "isEng": true,
-  "senior": false,
-  "java": true,
-  "flutter": false,
-  "score": 100,
-  "exp": [
-   [
-    1,
-    3
    ]
   ],
   "fits2": true,
@@ -1611,6 +1822,64 @@
   "ambiguous": false
  },
  {
+  "letter": "m",
+  "company": "MiQ",
+  "country": "United Kingdom",
+  "board": "greenhouse:miqdigital",
+  "title": "Software Engineer II",
+  "location": "Bengaluru",
+  "url": "https://job-boards.greenhouse.io/miqdigital/jobs/8189071002",
+  "india": true,
+  "isEng": true,
+  "senior": false,
+  "java": true,
+  "flutter": false,
+  "score": 100,
+  "exp": [
+   [
+    2,
+    4
+   ],
+   [
+    4,
+    5
+   ]
+  ],
+  "fits2": true,
+  "fits3": true,
+  "unstated": false,
+  "ambiguous": false
+ },
+ {
+  "letter": "m",
+  "company": "Mobile Programming",
+  "country": "United States",
+  "board": "headings:https://www.mobileprogramming.com/careers",
+  "title": "SQA Engineer",
+  "location": "",
+  "url": "https://www.mobileprogramming.com/careers",
+  "india": true,
+  "isEng": true,
+  "senior": false,
+  "java": true,
+  "flutter": false,
+  "score": 100,
+  "exp": [
+   [
+    5,
+    8
+   ],
+   [
+    2,
+    5
+   ]
+  ],
+  "fits2": true,
+  "fits3": true,
+  "unstated": false,
+  "ambiguous": false
+ },
+ {
   "letter": "n",
   "company": "Nallas Corporation",
   "country": "United States",
@@ -1994,6 +2263,31 @@
  },
  {
   "letter": "s",
+  "company": "SAS Institute",
+  "country": "US",
+  "board": "icims:globalcareers-sas",
+  "title": "Fullstack Developer",
+  "location": "Pune, UNAVAILABLE, IN",
+  "url": "https://global-sas.icims.com/jobs/42348/fullstack-developer/job",
+  "india": true,
+  "isEng": true,
+  "senior": false,
+  "java": true,
+  "flutter": false,
+  "score": 100,
+  "exp": [
+   [
+    2,
+    5
+   ]
+  ],
+  "fits2": true,
+  "fits3": true,
+  "unstated": false,
+  "ambiguous": false
+ },
+ {
+  "letter": "s",
   "company": "Signzy",
   "country": "India",
   "board": "keka:signzy",
@@ -2014,60 +2308,6 @@
    [
     5,
     6
-   ]
-  ],
-  "fits2": true,
-  "fits3": true,
-  "unstated": false,
-  "ambiguous": false
- },
- {
-  "letter": "s",
-  "company": "Saviynt",
-  "country": "US",
-  "board": "lever:saviynt",
-  "title": "Platform Support Engineer -",
-  "location": "Bengaluru",
-  "url": "https://jobs.lever.co/saviynt/bcefdeeb-2c34-45c0-8169-7af82984fafe",
-  "india": true,
-  "isEng": true,
-  "senior": false,
-  "java": true,
-  "flutter": false,
-  "score": 100,
-  "exp": [
-   [
-    2,
-    5
-   ],
-   [
-    5,
-    6
-   ]
-  ],
-  "fits2": true,
-  "fits3": true,
-  "unstated": false,
-  "ambiguous": false
- },
- {
-  "letter": "s",
-  "company": "SAS Institute",
-  "country": "US",
-  "board": "icims:globalcareers-sas",
-  "title": "Fullstack Developer",
-  "location": "Pune, UNAVAILABLE, IN",
-  "url": "https://global-sas.icims.com/jobs/42348/fullstack-developer/job",
-  "india": true,
-  "isEng": true,
-  "senior": false,
-  "java": true,
-  "flutter": false,
-  "score": 100,
-  "exp": [
-   [
-    2,
-    5
    ]
   ],
   "fits2": true,
@@ -2619,6 +2859,31 @@
   "ambiguous": false
  },
  {
+  "letter": "m",
+  "company": "MobileCoderz",
+  "country": "India",
+  "board": "headings:https://mobilecoderz.com/career",
+  "title": "Flutter Developer",
+  "location": "",
+  "url": "https://mobilecoderz.com/career",
+  "india": true,
+  "isEng": true,
+  "senior": false,
+  "java": false,
+  "flutter": true,
+  "score": 85,
+  "exp": [
+   [
+    3,
+    7
+   ]
+  ],
+  "fits2": false,
+  "fits3": true,
+  "unstated": false,
+  "ambiguous": false
+ },
+ {
   "letter": "a",
   "company": "Antier Solutions",
   "country": "India",
@@ -2719,6 +2984,168 @@
    [
     3,
     7
+   ]
+  ],
+  "fits2": false,
+  "fits3": true,
+  "unstated": false,
+  "ambiguous": false
+ },
+ {
+  "letter": "a",
+  "company": "Accelya",
+  "country": "India",
+  "board": "workday:accelya",
+  "title": "Engineer II - Software Development",
+  "location": "India, Mumbai",
+  "url": "https://accelya.wd103.myworkdayjobs.com/Careers/job/India-Mumbai/Engineer-II---Software-Development_JR102429",
+  "india": true,
+  "isEng": true,
+  "senior": false,
+  "java": true,
+  "flutter": false,
+  "score": 82,
+  "exp": [
+   [
+    3,
+    5
+   ]
+  ],
+  "fits2": false,
+  "fits3": true,
+  "unstated": false,
+  "ambiguous": false
+ },
+ {
+  "letter": "a",
+  "company": "AbhiBus",
+  "country": "India",
+  "board": "smartrecruiters:AbhiBus",
+  "title": "Software Engineer - II(Java)",
+  "location": "Hyderabad, TS, in",
+  "url": "https://jobs.smartrecruiters.com/AbhiBus/744000139856109",
+  "india": true,
+  "isEng": true,
+  "senior": false,
+  "java": true,
+  "flutter": false,
+  "score": 82,
+  "exp": [
+   [
+    3,
+    5
+   ]
+  ],
+  "fits2": false,
+  "fits3": true,
+  "unstated": false,
+  "ambiguous": false
+ },
+ {
+  "letter": "a",
+  "company": "Atomicwork",
+  "country": "India",
+  "board": "greenhouse:atomicwork",
+  "title": "AI Engineer - Enterprise Search",
+  "location": "Bengaluru, India",
+  "url": "https://job-boards.greenhouse.io/atomicwork/jobs/4495248008",
+  "india": true,
+  "isEng": true,
+  "senior": false,
+  "java": true,
+  "flutter": false,
+  "score": 82,
+  "exp": [
+   [
+    3,
+    5
+   ],
+   [
+    5,
+    6
+   ]
+  ],
+  "fits2": false,
+  "fits3": true,
+  "unstated": false,
+  "ambiguous": false
+ },
+ {
+  "letter": "a",
+  "company": "Atomicwork",
+  "country": "India",
+  "board": "greenhouse:atomicwork",
+  "title": "Platform Infrastructure Engineer",
+  "location": "Bengaluru, Karnataka",
+  "url": "https://job-boards.greenhouse.io/atomicwork/jobs/4170707008",
+  "india": true,
+  "isEng": true,
+  "senior": false,
+  "java": true,
+  "flutter": false,
+  "score": 82,
+  "exp": [
+   [
+    3,
+    4
+   ],
+   [
+    4,
+    5
+   ]
+  ],
+  "fits2": false,
+  "fits3": true,
+  "unstated": false,
+  "ambiguous": false
+ },
+ {
+  "letter": "a",
+  "company": "Atomicwork",
+  "country": "India",
+  "board": "greenhouse:atomicwork",
+  "title": "SDET",
+  "location": "Bengaluru, Karnataka",
+  "url": "https://job-boards.greenhouse.io/atomicwork/jobs/4547914008",
+  "india": true,
+  "isEng": true,
+  "senior": false,
+  "java": true,
+  "flutter": false,
+  "score": 82,
+  "exp": [
+   [
+    3,
+    5
+   ]
+  ],
+  "fits2": false,
+  "fits3": true,
+  "unstated": false,
+  "ambiguous": false
+ },
+ {
+  "letter": "a",
+  "company": "AutoRABIT",
+  "country": "India",
+  "board": "jazzhr:autorabit",
+  "title": "Software Engineer - 2026",
+  "location": "Hyderabad,",
+  "url": "https://autorabit.applytojob.com/apply/5OjJiO7puo/Software-Engineer-2026",
+  "india": true,
+  "isEng": true,
+  "senior": false,
+  "java": true,
+  "flutter": false,
+  "score": 82,
+  "exp": [
+   [
+    3,
+    4
+   ],
+   [
+    4,
+    5
    ]
   ],
   "fits2": false,
@@ -2844,6 +3271,135 @@
    [
     3,
     4
+   ]
+  ],
+  "fits2": false,
+  "fits3": true,
+  "unstated": false,
+  "ambiguous": false
+ },
+ {
+  "letter": "c",
+  "company": "CRED",
+  "country": "India",
+  "board": "lever:cred",
+  "title": "machine learning engineer",
+  "location": "hyderabad",
+  "url": "https://jobs.lever.co/cred/7e4d512e-fc89-40fd-9a30-46c5459bbea5",
+  "india": true,
+  "isEng": true,
+  "senior": false,
+  "java": true,
+  "flutter": false,
+  "score": 82,
+  "exp": [
+   [
+    3,
+    7
+   ]
+  ],
+  "fits2": false,
+  "fits3": true,
+  "unstated": false,
+  "ambiguous": false
+ },
+ {
+  "letter": "c",
+  "company": "CodeCraft Technologies",
+  "country": "India",
+  "board": "html:https://codecrafttech.com/current-openings/",
+  "title": "Java Developer",
+  "location": "",
+  "url": "https://codecrafttech.com/current-openings/jobs/java-developer/",
+  "india": true,
+  "isEng": true,
+  "senior": false,
+  "java": true,
+  "flutter": false,
+  "score": 82,
+  "exp": [
+   [
+    3,
+    5
+   ]
+  ],
+  "fits2": false,
+  "fits3": true,
+  "unstated": false,
+  "ambiguous": false
+ },
+ {
+  "letter": "c",
+  "company": "Cranes Software International",
+  "country": "India",
+  "board": "headings:https://cranessoftware.com/careers.php",
+  "title": "Technical Trainer (Software Engineer Faculty) (Immediate openings)",
+  "location": "",
+  "url": "https://cranessoftware.com/careers.php",
+  "india": true,
+  "isEng": true,
+  "senior": false,
+  "java": true,
+  "flutter": false,
+  "score": 82,
+  "exp": [
+   [
+    3,
+    7
+   ]
+  ],
+  "fits2": false,
+  "fits3": true,
+  "unstated": false,
+  "ambiguous": false
+ },
+ {
+  "letter": "c",
+  "company": "Celonis",
+  "country": "Germany",
+  "board": "greenhouse:celonis",
+  "title": "Software Engineer - Java",
+  "location": "Bangalore, India",
+  "url": "https://job-boards.greenhouse.io/celonis/jobs/7791275003?gh_jid=7791275003",
+  "india": true,
+  "isEng": true,
+  "senior": false,
+  "java": true,
+  "flutter": false,
+  "score": 82,
+  "exp": [
+   [
+    3,
+    6
+   ]
+  ],
+  "fits2": false,
+  "fits3": true,
+  "unstated": false,
+  "ambiguous": false
+ },
+ {
+  "letter": "c",
+  "company": "Capco",
+  "country": "United Kingdom",
+  "board": "greenhouse:capco",
+  "title": "Java IBM Openpages Developer - Pune/ Bengaluru/ Chennai/ Mumbai/ Gurugram/ Hyderabad",
+  "location": "India - Bengaluru; India - Pune",
+  "url": "https://job-boards.greenhouse.io/capco/jobs/8079248",
+  "india": true,
+  "isEng": true,
+  "senior": false,
+  "java": true,
+  "flutter": false,
+  "score": 82,
+  "exp": [
+   [
+    3,
+    5
+   ],
+   [
+    5,
+    9
    ]
   ],
   "fits2": false,
@@ -3018,6 +3574,35 @@
    [
     3,
     4
+   ]
+  ],
+  "fits2": false,
+  "fits3": true,
+  "unstated": false,
+  "ambiguous": false
+ },
+ {
+  "letter": "e",
+  "company": "Exusia",
+  "country": "United States",
+  "board": "html:https://exusia.com/jobs/",
+  "title": "Java / C# /C++ / .Net -Software Developer",
+  "location": "",
+  "url": "https://exusia.com/jobs/co/johannesburg-south-africa/CB.A5A/java-c-c-net-software-developer/all",
+  "india": true,
+  "isEng": true,
+  "senior": false,
+  "java": true,
+  "flutter": false,
+  "score": 82,
+  "exp": [
+   [
+    3,
+    8
+   ],
+   [
+    3,
+    7
    ]
   ],
   "fits2": false,
@@ -3626,87 +4211,12 @@
  },
  {
   "letter": "s",
-  "company": "SirionLabs",
+  "company": "Serosoft Solutions",
   "country": "India",
-  "board": "html:https://www.sirion.ai/careers/",
-  "title": "Devops Engineer",
+  "board": "wordpress:https://serosoft.com",
+  "title": "Software Engineer (Java)",
   "location": "",
-  "url": "https://www.sirion.ai/jobs/devops-engineer/",
-  "india": true,
-  "isEng": true,
-  "senior": false,
-  "java": true,
-  "flutter": false,
-  "score": 82,
-  "exp": [
-   [
-    3,
-    5
-   ]
-  ],
-  "fits2": false,
-  "fits3": true,
-  "unstated": false,
-  "ambiguous": false
- },
- {
-  "letter": "s",
-  "company": "Stellapps",
-  "country": "India",
-  "board": "wordpress:https://www.stellapps.com",
-  "title": "Java Developer",
-  "location": "",
-  "url": "https://www.stellapps.com/jobopenings/java-developer/",
-  "india": true,
-  "isEng": true,
-  "senior": false,
-  "java": true,
-  "flutter": false,
-  "score": 82,
-  "exp": [
-   [
-    3,
-    6
-   ]
-  ],
-  "fits2": false,
-  "fits3": true,
-  "unstated": false,
-  "ambiguous": false
- },
- {
-  "letter": "s",
-  "company": "Stellapps",
-  "country": "India",
-  "board": "wordpress:https://www.stellapps.com",
-  "title": "Backend Developer",
-  "location": "",
-  "url": "https://www.stellapps.com/jobopenings/backend-developer/",
-  "india": true,
-  "isEng": true,
-  "senior": false,
-  "java": true,
-  "flutter": false,
-  "score": 82,
-  "exp": [
-   [
-    3,
-    6
-   ]
-  ],
-  "fits2": false,
-  "fits3": true,
-  "unstated": false,
-  "ambiguous": false
- },
- {
-  "letter": "s",
-  "company": "Saviynt",
-  "country": "US",
-  "board": "lever:saviynt",
-  "title": "Technical Support Engineer",
-  "location": "Bengaluru",
-  "url": "https://jobs.lever.co/saviynt/f675d0bf-d25f-4ec5-86c6-2ba2ea86c711",
+  "url": "https://serosoft.com/current-openings/software-engineer-java/",
   "india": true,
   "isEng": true,
   "senior": false,
@@ -3726,12 +4236,12 @@
  },
  {
   "letter": "s",
-  "company": "SourceFuse",
-  "country": "US",
-  "board": "wordpress:https://www.sourcefuse.com",
-  "title": "Polyglot Developer",
-  "location": "",
-  "url": "https://www.sourcefuse.com/resources/blog/job/polygot-engineer/",
+  "company": "Sigmoid",
+  "country": "India",
+  "board": "greenhouse:sigmoid",
+  "title": "Software Development Engineer II",
+  "location": "Bengaluru, Karnataka, India",
+  "url": "https://job-boards.greenhouse.io/sigmoid/jobs/4808098002",
   "india": true,
   "isEng": true,
   "senior": false,
@@ -3741,7 +4251,7 @@
   "exp": [
    [
     3,
-    6
+    5
    ]
   ],
   "fits2": false,
@@ -3751,12 +4261,12 @@
  },
  {
   "letter": "s",
-  "company": "SourceFuse",
-  "country": "US",
-  "board": "wordpress:https://www.sourcefuse.com",
-  "title": "Fullstack Developer",
-  "location": "",
-  "url": "https://www.sourcefuse.com/resources/blog/job/fullstack-developer/",
+  "company": "Sigmoid",
+  "country": "India",
+  "board": "greenhouse:sigmoid",
+  "title": "Software Development Engineer II - Python, PySpark, SQL",
+  "location": "Bengaluru, Karnataka, India",
+  "url": "https://job-boards.greenhouse.io/sigmoid/jobs/7920014002",
   "india": true,
   "isEng": true,
   "senior": false,
@@ -3766,11 +4276,32 @@
   "exp": [
    [
     3,
-    6
-   ],
+    5
+   ]
+  ],
+  "fits2": false,
+  "fits3": true,
+  "unstated": false,
+  "ambiguous": false
+ },
+ {
+  "letter": "s",
+  "company": "SirionLabs",
+  "country": "India",
+  "board": "html:https://www.sirion.ai/careers/",
+  "title": "Devops Engineer",
+  "location": "",
+  "url": "https://www.sirion.ai/jobs/devops-engineer/",
+  "india": true,
+  "isEng": true,
+  "senior": false,
+  "java": true,
+  "flutter": false,
+  "score": 82,
+  "exp": [
    [
-    4,
-    8
+    3,
+    5
    ]
   ],
   "fits2": false,
@@ -3859,12 +4390,12 @@
  },
  {
   "letter": "s",
-  "company": "Sigmoid",
-  "country": "India",
-  "board": "greenhouse:sigmoid",
-  "title": "Software Development Engineer II",
-  "location": "Bengaluru, Karnataka, India",
-  "url": "https://job-boards.greenhouse.io/sigmoid/jobs/4808098002",
+  "company": "SourceFuse",
+  "country": "US",
+  "board": "wordpress:https://www.sourcefuse.com",
+  "title": "Polyglot Developer",
+  "location": "",
+  "url": "https://www.sourcefuse.com/resources/blog/job/polygot-engineer/",
   "india": true,
   "isEng": true,
   "senior": false,
@@ -3874,7 +4405,7 @@
   "exp": [
    [
     3,
-    5
+    6
    ]
   ],
   "fits2": false,
@@ -3884,12 +4415,12 @@
  },
  {
   "letter": "s",
-  "company": "Sigmoid",
-  "country": "India",
-  "board": "greenhouse:sigmoid",
-  "title": "Software Development Engineer II - Python, PySpark, SQL",
-  "location": "Bengaluru, Karnataka, India",
-  "url": "https://job-boards.greenhouse.io/sigmoid/jobs/7920014002",
+  "company": "SourceFuse",
+  "country": "US",
+  "board": "wordpress:https://www.sourcefuse.com",
+  "title": "Fullstack Developer",
+  "location": "",
+  "url": "https://www.sourcefuse.com/resources/blog/job/fullstack-developer/",
   "india": true,
   "isEng": true,
   "senior": false,
@@ -3899,7 +4430,86 @@
   "exp": [
    [
     3,
-    5
+    6
+   ],
+   [
+    4,
+    8
+   ]
+  ],
+  "fits2": false,
+  "fits3": true,
+  "unstated": false,
+  "ambiguous": false
+ },
+ {
+  "letter": "s",
+  "company": "Sprih",
+  "country": "India",
+  "board": "feed:https://www.sprih.com",
+  "title": "Software Developer (Backend)",
+  "location": "",
+  "url": "https://www.sprih.com/jobs/software-developer-backend-2/",
+  "india": true,
+  "isEng": true,
+  "senior": false,
+  "java": true,
+  "flutter": false,
+  "score": 82,
+  "exp": [
+   [
+    3,
+    7
+   ]
+  ],
+  "fits2": false,
+  "fits3": true,
+  "unstated": false,
+  "ambiguous": false
+ },
+ {
+  "letter": "s",
+  "company": "Stellapps",
+  "country": "India",
+  "board": "wordpress:https://www.stellapps.com",
+  "title": "Java Developer",
+  "location": "",
+  "url": "https://www.stellapps.com/jobopenings/java-developer/",
+  "india": true,
+  "isEng": true,
+  "senior": false,
+  "java": true,
+  "flutter": false,
+  "score": 82,
+  "exp": [
+   [
+    3,
+    6
+   ]
+  ],
+  "fits2": false,
+  "fits3": true,
+  "unstated": false,
+  "ambiguous": false
+ },
+ {
+  "letter": "s",
+  "company": "Stellapps",
+  "country": "India",
+  "board": "wordpress:https://www.stellapps.com",
+  "title": "Backend Developer",
+  "location": "",
+  "url": "https://www.stellapps.com/jobopenings/backend-developer/",
+  "india": true,
+  "isEng": true,
+  "senior": false,
+  "java": true,
+  "flutter": false,
+  "score": 82,
+  "exp": [
+   [
+    3,
+    6
    ]
   ],
   "fits2": false,
@@ -4693,6 +5303,35 @@
    [
     1,
     2
+   ]
+  ],
+  "fits2": true,
+  "fits3": true,
+  "unstated": false,
+  "ambiguous": true
+ },
+ {
+  "letter": "s",
+  "company": "Scrut Automation",
+  "country": "India",
+  "board": "keka:scrut",
+  "title": "VAPT Engineer",
+  "location": "India, DL",
+  "url": "https://scrut.keka.com/careers/jobdetails/142893",
+  "india": true,
+  "isEng": true,
+  "senior": false,
+  "java": true,
+  "flutter": false,
+  "score": 100,
+  "exp": [
+   [
+    2,
+    4
+   ],
+   [
+    15,
+    19
    ]
   ],
   "fits2": true,

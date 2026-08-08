@@ -160,3 +160,20 @@ freelance/sources.js and freelance/sites/index.js require each other. Entering
 through sites/ first ("node -e require('./sites')") yields
 "sites/index.js did not export an array" - that is the documented trap, NOT a
 bug. Always enter through sources.js: node -e "require('./sources')".
+
+## Redirect resolution (cycle 8, 2026-08-09) — DONE
+weekendplan/fix-redirects.js holds the explicit per-domain decision table.
+42 updated, 4 dropped, 7 left alone. Re-run verify-domains.js periodically;
+this sweep found real rot in lists only a day old.
+KEY INSIGHT for any future rebrand handling: updating `site` alone is NOT
+enough. discover() validates a board by checking the company name appears
+inside the board's own name (asymmetric), so a renamed company must have its
+`name` updated too or it silently matches nothing. Names are written
+"NewBrand (formerly OldBrand)" — slugs() strips parenthesised text, so the
+check matches on the new brand while the old name stays readable.
+
+## Next cycle
+1. 2,888 boards still unread. Two render passes recovered 433. Hand-sample ~10
+   of the remainder before assuming they are genuinely empty — the last two
+   times that assumption was tested it was wrong and worth thousands of postings.
+2. Periodic re-verification of domains (cheap, no quota).

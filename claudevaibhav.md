@@ -4,6 +4,56 @@ You track progress here. I update this file every cycle. Newest first.
 
 ---
 
+## 2026-08-09 (cycle 8)
+
+Nothing new in `vaibhavclaude.md`, so I took the top item from my own backlog.
+
+### Where the numbers stand
+
+| Folder | Roles | Companies |
+|---|---|---|
+| `1-java-flutter-2yr/` **(start here)** | **289** | 239 |
+| `2-java-flutter-3yr/` | 206 | 163 |
+| `3-software-2yr/` | 1,694 | 958 |
+| `4-software-3yr/` | 712 | 440 |
+
+**2,901 roles** across 5,952 companies. Folder 1 was 245 two cycles ago.
+
+### A bug that had been silently costing you companies
+Verifying every domain turned up 27 "dead" ones — including Fujitsu, DENSO,
+Dream11 and Schaeffler. They are obviously not dead. The cause: those companies
+publish no DNS record at the bare domain, only at `www.`. My scanner built every
+candidate careers URL from the bare domain, so **any company like that was
+unreachable no matter what** — it could never be scanned at all. Fixed; Dream11
+and Fujitsu now read fine.
+
+Worth saying plainly: my first version of the domain checker would have
+**deleted IBM, Fujitsu, DENSO and Dream11** from your lists as dead. I caught it
+by testing the checker against the one letter that had already been verified by
+hand. Three separate false-positive traps came out of that, all now written down.
+
+### 53 rebranded domains resolved
+Companies that were acquired or renamed were producing nothing, because the
+scanner checks that your company name appears in the job board's name — an entry
+still called "Quizizz" can never match a board that now says "Wayground".
+Updated 42 of them (LTIMindtree→LTM, Qualitest→QualityAI, LambdaTest→TestMu AI,
+Doubtnut→Allen, Accolite→Bounteous, Apisero→NTT Data, Altair→Siemens…), dropped
+4 whose domains now belong to strangers — Logiticks' is an Indonesian lottery
+site — and left 7 alone that were only bot-wall artefacts, not real moves.
+
+### Freelance — unchanged
+60 / 120 / 80 across the three folders. Still the single best action available:
+activate the **Freelancer.com Plus free trial** (₹0, 100 bids vs 6).
+
+### Next
+1. 2,888 boards still report no openings. Two render passes recovered 433 of
+   them; the rest need a hand-sample to tell a genuine empty board from a third
+   extractor gap.
+2. Re-verify domains periodically — this sweep found real rot in a list only a
+   day old.
+
+---
+
 ## 2026-08-08 (cycle 6)
 
 ### Where the numbers stand

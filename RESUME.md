@@ -20,7 +20,21 @@ positives intact (4/20).
 A full rescan of all 26 letters was launched after this fix; it self-commits
 and pushes when done. Check weekendplan/logs-rescan.log.
 
-## Research status (updated 2026-08-08)
+## Research status (updated 2026-08-08, cycle 6)
+ALL 26 LETTERS NOW RESEARCHED. 5,957 companies, 0 invented ats tokens.
+Letter i was last (146->276); its researcher probed every candidate domain
+rather than trusting memory and caught rebrands that would have been silent
+poison: Infogain->tenarai.com, Infrasoft->kiya.ai, InfoStretch->Apexon,
+Innoplexus->partex.ai, plus lapsed domains now serving unrelated sites.
+IMPLICATION: the same rot almost certainly exists in the other 25 letters,
+which were authored from memory. A domain-verification sweep (fetch each site,
+compare final URL + <title> to the company name) is cheap, free of quota, and
+is the best remaining data-quality win.
+22 cross-letter duplicate sites exist (Airtel/Bharti Airtel, DMart/Avenue
+Supermarts...). Harmless -- build.js dedupes by URL globally -- but they waste
+a scan slot each.
+
+## Previous research status
 Cycle 2 done: 3,455 companies (was 2,907). 8 agents expanded thin letters, 3
 repaired 59 wrong domains. Thin letters now j:91 o:112 q:90 r:152 t:177 u:92
 v:157 z:101.

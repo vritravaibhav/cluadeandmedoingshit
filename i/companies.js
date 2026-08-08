@@ -480,11 +480,6 @@ module.exports=[
   "careers": "https://www.indium.tech/careers/"
  },
  {
-  "name": "Indium Software",
-  "country": "India",
-  "site": "indiumsoftware.com"
- },
- {
   "name": "IndiWork Software",
   "country": "United States",
   "site": "indiwork.com"

@@ -1,4 +1,4 @@
-module.exports = [
+module.exports=[
  {
   "name": "MakeMyTrip",
   "country": "India",
@@ -960,9 +960,9 @@ module.exports = [
   "careers": "https://www.magicsoftware.com/about-us/careers/"
  },
  {
-  "name": "Mindtree",
+  "name": "LTM (formerly LTIMindtree)",
   "country": "India",
-  "site": "ltimindtree.com"
+  "site": "ltm.com"
  },
  {
   "name": "Milaap",
@@ -975,9 +975,9 @@ module.exports = [
   "site": "mindgate.solutions"
  },
  {
-  "name": "MoneyTap",
+  "name": "Freo (formerly MoneyTap)",
   "country": "India",
-  "site": "moneytap.com"
+  "site": "freo.money"
  },
  {
   "name": "Moveworks India",
@@ -1094,9 +1094,9 @@ module.exports = [
   "site": "marktine.com"
  },
  {
-  "name": "Mobisy Technologies",
+  "name": "Bizom (Mobisy Technologies)",
   "country": "India",
-  "site": "mobisy.com"
+  "site": "bizom.com"
  },
  {
   "name": "mFilterIt",

@@ -131,9 +131,9 @@ module.exports=[
   "site": "taskus.com"
  },
  {
-  "name": "Teleperformance India",
+  "name": "TP (formerly Teleperformance)",
   "country": "India",
-  "site": "teleperformance.com"
+  "site": "tp.com"
  },
  {
   "name": "Temenos India",
@@ -196,9 +196,9 @@ module.exports=[
   "site": "teamlease.com"
  },
  {
-  "name": "Techcurve",
+  "name": "GRCTechX (formerly Techcurve)",
   "country": "India",
-  "site": "techcurve.in"
+  "site": "grctechx.com"
  },
  {
   "name": "Techjockey",

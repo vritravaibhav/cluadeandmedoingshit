@@ -45,9 +45,9 @@ module.exports=[
   "site": "ubisoft.com"
  },
  {
-  "name": "Ugam Solutions",
+  "name": "Merkle (formerly Ugam)",
   "country": "India",
-  "site": "ugamsolutions.com"
+  "site": "merkle.com"
  },
  {
   "name": "Ula",

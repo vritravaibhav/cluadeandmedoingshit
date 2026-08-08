@@ -751,9 +751,9 @@ module.exports=[
   "site": "disneystar.com"
  },
  {
-  "name": "Doubtnut",
+  "name": "Allen (Doubtnut)",
   "country": "India",
-  "site": "doubtnut.com"
+  "site": "allen.in"
  },
  {
   "name": "Dhruva Consultants",

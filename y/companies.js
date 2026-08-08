@@ -1,259 +1,1400 @@
-module.exports = [
-  { name: "Yellow.ai", country: "India", site: "yellow.ai" },
-  { name: "Yubi (CredAvenue)", country: "India", site: "go-yubi.com", careers: "https://www.go-yubi.com/careers/" },
-  { name: "Yatra Online", country: "India", site: "yatra.com", careers: "https://www.yatra.com/corporate/careers" },
-  { name: "YES Bank", country: "India", site: "yesbank.in" },
-  { name: "YASH Technologies", country: "India", site: "yash.com", careers: "https://www.yash.com/careers/" },
-  { name: "Yotta Data Services", country: "India", site: "yotta.com", careers: "https://yotta.com/careers/" },
-  { name: "Yulu Bikes", country: "India", site: "yulu.bike", careers: "https://www.yulu.bike/careers" },
-  { name: "YuppTV", country: "India", site: "yupptv.com", careers: "https://www.yupptv.com/careers" },
-  { name: "Yudiz Solutions", country: "India", site: "yudiz.com", careers: "https://www.yudiz.com/join-our-team/" },
-  { name: "Yugasa Software Labs", country: "India", site: "yugasa.com" },
-  { name: "Yellow Class", country: "India", site: "yellowclass.com", careers: "https://www.yellowclass.com/careers" },
-  { name: "Yalamanchili Software Exports", country: "India", site: "ysppayments.com", careers: "https://www.ysppayments.com/" },
-  { name: "Yodlee (Envestnet)", country: "India", site: "yodlee.com", careers: "https://www.envestnet.com/careers" },
-  { name: "YourStory Media", country: "India", site: "yourstory.com", careers: "https://yourstory.com/careers" },
-  { name: "YES Securities", country: "India", site: "yesinvest.in", careers: "https://www.yesinvest.in/careers" },
-  { name: "Yash Highvoltage", country: "India", site: "yashhighvoltage.com", careers: "https://www.yashhighvoltage.com/careers/" },
-  { name: "YOLO Bus", country: "India", site: "yolobus.in" },
-  { name: "Yes Madam", country: "India", site: "yesmadam.com", careers: "https://www.yesmadam.com/careers" },
-  { name: "Yaskawa India", country: "India", site: "yaskawaindia.in" },
-  { name: "Yara India", country: "India", site: "yara.in" },
-  { name: "Ymgrad", country: "India", site: "ymgrad.com", careers: "https://ymgrad.com/careers" },
-  { name: "Yuvasoft Solutions", country: "India", site: "yuvasoftech.com", careers: "https://www.yuvasoftech.com/career" },
-  { name: "Yash Raj Films", country: "India", site: "yashrajfilms.com", careers: "https://www.yashrajfilms.com/careers" },
-  { name: "Ysquare Technology", country: "India", site: "ysquaretechnology.com", careers: "https://ysquaretechnology.com/careers/" },
-  { name: "Yellow Slice", country: "India", site: "yellowslice.in", careers: "https://www.yellowslice.in/career" },
-  { name: "Yavar TechWorks", country: "India", site: "yavar.in", careers: "https://yavar.in/careers/" },
-  { name: "Yodaplus Technologies", country: "India", site: "yodaplus.com", careers: "https://yodaplus.com/careers.html" },
-  { name: "Yagna iQ", country: "India", site: "yagnaiq.com" },
-  { name: "YNOS Venture Engine", country: "India", site: "ynos.in" },
-  { name: "Yuken India", country: "India", site: "yukenindia.com" },
-  { name: "Yasho Industries", country: "India", site: "yashoindustries.com", careers: "https://www.yashoindustries.com/careers/" },
-  { name: "Yash Pakka", country: "India", site: "yashpakka.com", careers: "https://yashpakka.com/careers/" },
-  { name: "Yaap Digital", country: "India", site: "yaap.com" },
-  { name: "Yahoo", country: "USA", site: "yahooinc.com", careers: "https://www.yahooinc.com/careers/" },
-  { name: "Yelp", country: "USA", site: "yelp.com", careers: "https://www.yelp.com/careers" },
-  { name: "Yext", country: "USA", site: "yext.com", careers: "https://www.yext.com/careers" },
-  { name: "Yotpo", country: "Israel", site: "yotpo.com", careers: "https://www.yotpo.com/careers/" },
-  { name: "Yubico", country: "Sweden", site: "yubico.com", careers: "https://www.yubico.com/careers/" },
-  { name: "YugabyteDB", country: "USA", site: "yugabyte.com", careers: "https://www.yugabyte.com/careers/" },
-  { name: "Yellowbrick Data", country: "USA", site: "yellowbrick.com", careers: "https://yellowbrick.com/careers/" },
-  { name: "Yardi Systems", country: "USA", site: "yardi.com", careers: "https://www.yardi.com/careers/" },
-  { name: "YipitData", country: "USA", site: "yipitdata.com", careers: "https://www.yipitdata.com/careers" },
-  { name: "YCharts", country: "USA", site: "ycharts.com", careers: "https://recruiting.paylocity.com/recruiting/jobs/All/78419728-0f20-46ce-8f93-12ae28d0f8c5/YCharts" },
-  { name: "Yieldmo", country: "USA", site: "yieldmo.com", careers: "https://yieldmo.com/careers/" },
-  { name: "Yieldstreet", country: "USA", site: "yieldstreet.com", careers: "https://www.yieldstreet.com/careers/" },
-  { name: "Ylopo", country: "USA", site: "ylopo.com" },
-  { name: "Yembo", country: "USA", site: "yembo.ai", careers: "https://www.yembo.ai/careers" },
-  { name: "Yendo", country: "USA", site: "yendo.com", careers: "https://www.yendo.com/careers" },
-  { name: "Yellow Systems", country: "USA", site: "yellow.systems" },
-  { name: "Yoodli", country: "USA", site: "yoodli.ai", careers: "https://yoodli.ai/careers" },
-  { name: "Yotascale", country: "USA", site: "yotascale.com" },
-  { name: "Yuvo Health", country: "USA", site: "yuvohealth.com" },
-  { name: "Ytel", country: "USA", site: "ytel.com", careers: "https://www.ytel.com/careers/" },
-  { name: "Yes Energy", country: "USA", site: "yesenergy.com", careers: "https://www.yesenergy.com/careers" },
-  { name: "Y Combinator", country: "USA", site: "ycombinator.com", careers: "https://www.ycombinator.com/careers" },
-  { name: "Yum! Brands", country: "USA", site: "yum.com", careers: "https://jobs.yum.com/" },
-  { name: "Yum China", country: "China", site: "yumchina.com", careers: "https://www.yumchina.com/en/careers" },
-  { name: "Ygrene Energy Fund", country: "USA", site: "ygrene.com", careers: "https://ygrene.com/careers/" },
-  { name: "Yokogawa Electric", country: "Japan", site: "yokogawa.com", careers: "https://www.yokogawa.com/careers/" },
-  { name: "Yamaha Motor", country: "Japan", site: "yamaha-motor.com" },
-  { name: "Yaskawa Electric", country: "Japan", site: "yaskawa-global.com" },
-  { name: "Yanmar", country: "Japan", site: "yanmar.com", careers: "https://www.yanmar.com/global/careers/" },
-  { name: "Yokohama TWS", country: "Italy", site: "yokohama-tws.com", careers: "https://www.yokohama-tws.com/careers/" },
-  { name: "Yara International", country: "Norway", site: "yara.com" },
-  { name: "YouGov", country: "UK", site: "yougov.com", careers: "https://jobs.yougov.com/" },
-  { name: "Yolo Group", country: "Estonia", site: "yolo.com", careers: "https://yolo.com/careers/" },
-  { name: "Yoti", country: "UK", site: "yoti.com" },
-  { name: "YuLife", country: "UK", site: "yulife.com", careers: "https://yulife.com/careers/" },
-  { name: "Yordex", country: "UK", site: "yordex.com" },
-  { name: "Yoyo Wallet", country: "UK", site: "yoyowallet.com", careers: "https://www.yoyowallet.com/careers" },
-  { name: "Yourgene Health", country: "UK", site: "yourgene-health.com", careers: "https://yourgene-health.com/careers" },
-  { name: "Younited", country: "France", site: "younited.com", careers: "https://www.younited.com/careers" },
-  { name: "Yousign", country: "France", site: "yousign.com" },
-  { name: "Yves Rocher", country: "France", site: "yves-rocher.com" },
-  { name: "Yubo", country: "France", site: "yubo.live", careers: "https://www.yubo.live/careers" },
-  { name: "Ypsomed", country: "Switzerland", site: "ypsomed.com" },
-  { name: "Yousician", country: "Finland", site: "yousician.com", careers: "https://yousician.com/careers" },
-  { name: "Younium", country: "Sweden", site: "younium.com", careers: "https://www.younium.com/careers" },
-  { name: "Yodeck", country: "Greece", site: "yodeck.com", careers: "https://www.yodeck.com/careers/" },
-  { name: "Yopeso", country: "Romania", site: "yopeso.com" },
-  { name: "Yuki", country: "Netherlands", site: "yuki.nl", careers: "https://jobs.yukisoftware.com/" },
-  { name: "Yuno", country: "Colombia", site: "y.uno", careers: "https://www.y.uno/careers" },
-  { name: "Yassir", country: "Algeria", site: "yassir.com" },
-  { name: "Yoco", country: "South Africa", site: "yoco.com", careers: "https://www.yoco.com/za/careers/" },
-  { name: "Yellow Card", country: "Nigeria", site: "yellowcard.io" },
-  { name: "Youverify", country: "Nigeria", site: "youverify.co" },
-  { name: "Yalla Group", country: "UAE", site: "yalla.live" },
-  { name: "Yellowfin BI", country: "Australia", site: "yellowfinbi.com", careers: "https://www.yellowfinbi.com/careers" },
-  { name: "Yodo1", country: "Singapore", site: "yodo1.com", careers: "https://www.yodo1.com/careers" },
-  { name: "Yggdrasil Gaming", country: "Malta", site: "yggdrasilgaming.com", careers: "https://www.yggdrasilgaming.com/careers/" },
-  { name: "Yandex", country: "Global", site: "yandex.com", careers: "https://yandex.com/jobs/" },
-  { name: "Yellow Pages Canada", country: "Canada", site: "yp.ca", careers: "https://corporate.yp.ca/yellow-pages-careers" },
-  { name: "Yuhu", country: "Canada", site: "yuhu.io", careers: "https://yuhu.io/careers/" },
-  { name: "Ynvisible Interactive", country: "Portugal", site: "ynvisible.com" },
-  { name: "Yaali Bizappln Solutions", country: "India", site: "yaaligroup.com" },
-  { name: "Yagna Technologies", country: "India", site: "yagnatechnologies.com" },
-  { name: "Yaksha", country: "India", site: "yaksha.io", careers: "https://yaksha.io/careers" },
-  { name: "Yamuna Technologies", country: "India", site: "yamunatechnologies.com" },
-  { name: "YantraLab", country: "India", site: "yantralab.in", careers: "https://yantralab.in/careers" },
-  { name: "Yantrasoft", country: "India", site: "yantrasoft.in" },
-  { name: "Yantra Technologies", country: "India", site: "yantratech.co.in" },
-  { name: "Yantrik Technologies", country: "India", site: "yantriktechnologies.com", careers: "https://yantriktechnologies.com/career/" },
-  { name: "Yantra Innovations", country: "India", site: "yantrainnovation.com", careers: "https://yantrainnovation.com/career/" },
-  { name: "Yantra AI", country: "India", site: "yantraai.in", careers: "https://www.yantraai.in/careerpage.html" },
-  { name: "Yash Apps and Software Services", country: "India", site: "yashapps.com" },
-  { name: "Yashaswi InfoTech", country: "India", site: "yashaswiinfotech.com" },
-  { name: "Yashaswi Technologies", country: "India", site: "yashaswitechnologies.in", careers: "https://yashaswitechnologies.in/careers/" },
-  { name: "Yash CompuTech", country: "India", site: "yashcomputech.com" },
-  { name: "Yashi Consulting", country: "India", site: "yashiconsulting.com" },
-  { name: "Yashi Technologies", country: "India", site: "yashikatechnologies.com" },
-  { name: "Yash Infotech", country: "India", site: "yashinfo.co.in" },
-  { name: "Yash Infosolutions", country: "India", site: "yashinfosolutions.co.in" },
-  { name: "Yash Infosystems", country: "India", site: "yashinfosystems.com" },
-  { name: "Yash Infotech Pvt Ltd", country: "India", site: "yashinfotech.co.in", careers: "https://yashinfotech.co.in/career/" },
-  { name: "Yashi Labs", country: "India", site: "yashilabs.com" },
-  { name: "Yashvi Infosys", country: "India", site: "yashviinfosys.in" },
-  { name: "Yashvi Global", country: "India", site: "yashviglobal.com" },
-  { name: "Yatra Labs", country: "India", site: "yatralabs.com" },
-  { name: "Yatra Softech", country: "India", site: "yatrasoftech.com" },
-  { name: "Yathartha Technologies", country: "India", site: "yatharthatechnologies.in" },
-  { name: "Yashraj Software", country: "India", site: "yashrajsoftware.com", careers: "https://yashrajsoftware.com/career/" },
-  { name: "Yashraj Tech", country: "India", site: "yashrajtech.com" },
-  { name: "Yahvi Technologies", country: "India", site: "yahvitechnologies.co.in" },
-  { name: "YBYTE Technologies", country: "India", site: "ybytetechnologies.com", careers: "https://ybytetechnologies.com/careers" },
-  { name: "Ycore Technologies", country: "India", site: "ycoretechnologies.in" },
-  { name: "Yash Computech Solutions", country: "India", site: "ycsin.com" },
-  { name: "YellowBee AI", country: "India", site: "yellowbeeai.com" },
-  { name: "Yellowchalk", country: "India", site: "yellowchalk.com", careers: "https://yellowchalk.com/careers/" },
-  { name: "Yellow Monkey Tech", country: "India", site: "yellowmonkeytech.com", careers: "https://www.yellowmonkeytech.com/career/" },
-  { name: "Yellow Panther", country: "India", site: "yellowpanther.io", careers: "https://yellowpanther.io/careers/" },
-  { name: "Yellowspot", country: "India", site: "yellowspottech.com" },
-  { name: "YellowSense", country: "India", site: "yellowsense.in" },
-  { name: "YellowSphere", country: "India", site: "yellowsphere.in" },
-  { name: "Yellow Pixel Studio", country: "India", site: "yellowpixelstudio.com" },
-  { name: "Yellowtail Solutions", country: "India", site: "yellowtailsolutions.com" },
-  { name: "Yew Technology", country: "India", site: "yewtechnology.com" },
-  { name: "Yesha Software", country: "India", site: "yeshasoftware.com" },
-  { name: "Yes Infotech", country: "India", site: "yesinfotech.in" },
-  { name: "YES Softech", country: "India", site: "yessoftech.com" },
-  { name: "Yethi Consulting", country: "India", site: "yethi.in", careers: "https://yethi.in/careers/" },
-  { name: "Yez Studio", country: "India", site: "yezstudio.com" },
-  { name: "yenDigital", country: "India", site: "yendigital.com", careers: "https://www.yendigital.com/careers" },
-  { name: "Yenmo", country: "India", site: "yenmo.in" },
-  { name: "Yin Solutions", country: "India", site: "yinsolutions.com" },
-  { name: "Yitro Global", country: "India", site: "yitro.com", careers: "https://yitro.com/careers/" },
-  { name: "YM Global Technologies", country: "India", site: "ymgit.com", careers: "https://ymgit.com/careers/" },
-  { name: "Yobitech", country: "India", site: "yobitech.in" },
-  { name: "YoBytech", country: "India", site: "yobytech.com" },
-  { name: "Yocket", country: "India", site: "yocket.com" },
-  { name: "YOCO Labs", country: "India", site: "yocolabs.com" },
-  { name: "Yodasoft", country: "India", site: "yodasoft.com" },
-  { name: "Yoddha Digital", country: "India", site: "yoddhadigital.com" },
-  { name: "Yoddha Labs", country: "India", site: "yoddhalabs.com" },
-  { name: "Yodha AI", country: "India", site: "yodhaai.com" },
-  { name: "Yogi Innovations", country: "India", site: "yogiinnovations.com" },
-  { name: "Yogik Solutions", country: "India", site: "yogiksolutions.com" },
-  { name: "Yogi Solutions", country: "India", site: "yogisolutions.co.in" },
-  { name: "Yogsoft", country: "India", site: "yogsoft.com", careers: "https://yogsoft.com/career/" },
-  { name: "Yogeshwar Technologies", country: "India", site: "yogeshwartech.com", careers: "https://yogeshwartech.com/jobs/" },
-  { name: "Yoop Tech", country: "India", site: "yooptech.com" },
-  { name: "YOptima", country: "India", site: "yoptima.com", careers: "https://yoptima.com/careers/" },
-  { name: "Yoro Technologies", country: "India", site: "yorotechnologies.com" },
-  { name: "Yosoft Solutions", country: "India", site: "yosoftsolutions.com" },
-  { name: "YoSoftTech", country: "India", site: "yosofttech.com", careers: "https://yosofttech.com/career.html" },
-  { name: "YOTECH Code Craft", country: "India", site: "yotech.in" },
-  { name: "YottaLab India", country: "India", site: "yottalab.in" },
-  { name: "YOU Broadband", country: "India", site: "youbroadband.co.in", careers: "https://youbroadband.co.in/career.php" },
-  { name: "Young Web Solutions", country: "India", site: "youngwebsolutions.in" },
-  { name: "YourDOST", country: "India", site: "yourdost.com" },
-  { name: "YourDreamTech", country: "India", site: "yourdreamtech.com", careers: "https://yourdreamtech.com/career/" },
-  { name: "YourSoft", country: "India", site: "yoursoft.in" },
-  { name: "Your Solution", country: "India", site: "yoursolution.in", careers: "https://yoursolution.in/careers.php" },
-  { name: "YourWayIT", country: "India", site: "yourwayit.com" },
-  { name: "YouthTech Solutions", country: "India", site: "youthtechsolutions.com", careers: "https://www.youthtechsolutions.com/career/" },
-  { name: "YouTech IT Solutions", country: "India", site: "youtech.in" },
-  { name: "YouLearn Agency", country: "India", site: "youlearn.in" },
-  { name: "YSoft Solution", country: "India", site: "ysoftsolution.com", careers: "https://ysoftsolution.com/careers/" },
-  { name: "Y-Tech Innovations", country: "India", site: "ytechinnovations.com" },
-  { name: "YUDI Infotech", country: "India", site: "yudiinfotech.com" },
-  { name: "Yuga Infotech", country: "India", site: "yugainfotech.in" },
-  { name: "Yugam Group", country: "India", site: "yugamgroup.com", careers: "https://yugamgroup.com/careers.html" },
-  { name: "Yugasys", country: "India", site: "yugasys.com", careers: "https://www.yugasys.com/careers" },
-  { name: "Yugen.ai", country: "India", site: "yugen.ai", careers: "https://www.yugen.ai/careers" },
-  { name: "Yugen Digital", country: "India", site: "yugendigital.in" },
-  { name: "Yugensys", country: "India", site: "yugensys.com" },
-  { name: "Yugantar Infotech", country: "India", site: "yugantarinfotech.com" },
-  { name: "YugAntar Technologies", country: "India", site: "yugantartechnologies.com" },
-  { name: "Yug Technologies", country: "India", site: "yugtechnologies.com", careers: "https://yugtechnologies.com/career.php" },
-  { name: "Yug Technology", country: "India", site: "yugtechnology.com", careers: "https://yugtechnology.com/career/" },
-  { name: "Yuki Software Solutions", country: "India", site: "yukisoftware.in" },
-  { name: "Yukon Technologies", country: "India", site: "yukontechnologies.com", careers: "https://yukontechnologies.com/index.php/Company/Careers" },
-  { name: "YuktaMedia", country: "India", site: "yuktamedia.com" },
-  { name: "Yukta Software Solutions", country: "India", site: "yuktasoft.com" },
-  { name: "Yukti Solutions", country: "India", site: "yuktisolutions.com" },
-  { name: "Yukti Intelligent Systems", country: "India", site: "yuktisystems.com" },
-  { name: "YuktiTechnology", country: "India", site: "yuktitechnology.com" },
-  { name: "Yukti Tech Solutions", country: "India", site: "yuktitechsolutions.in" },
-  { name: "Yukthi Labs", country: "India", site: "yukthilabs.com" },
-  { name: "Yukthi Software", country: "India", site: "yukthi.com", careers: "https://www.yukthi.com/careers/" },
-  { name: "YuluWeb", country: "India", site: "yuluweb.com" },
-  { name: "YunaCloud", country: "India", site: "yunacloud.com" },
-  { name: "Yuppie Infotech", country: "India", site: "yuppieinfotech.com" },
-  { name: "YuSa Infotech", country: "India", site: "yusainfotech.com", careers: "https://yusainfotech.com/careers/" },
-  { name: "Yuvaan Tech", country: "India", site: "yuvaantech.in" },
-  { name: "Yuvaan Technologies", country: "India", site: "yuvaantechnologies.com", careers: "https://yuvaantechnologies.com/jobs/" },
-  { name: "YuvApps", country: "India", site: "yuvapps.com" },
-  { name: "Yuvasoft Technologies", country: "India", site: "yuvasoft.co.in" },
-  { name: "Yuva Software", country: "India", site: "yuvasoftware.com" },
-  { name: "YuvaTech Labs", country: "India", site: "yuvatechlabs.com" },
-  { name: "Yuvatech Solutions", country: "India", site: "yuvatechsolutions.in" },
-  { name: "Yuvi Works", country: "India", site: "yuviworks.com" },
-  { name: "YUVMEDIA", country: "India", site: "yuvmedia.com", careers: "https://yuvmedia.com/career" },
-  { name: "Yadu Tech Solutions", country: "India", site: "yadutech.com" },
-  { name: "Yan IT Solutions", country: "India", site: "yanitsolutions.com", careers: "https://yanitsolutions.com/careers.php" },
-  { name: "Yaantra", country: "India", site: "yaantra.com" },
-  { name: "Y-Axis Overseas Careers", country: "India", site: "y-axis.com", careers: "https://jobs.y-axis.com/" },
-  { name: "Yashus Digital Marketing", country: "India", site: "yashus.in", careers: "https://yashus.in/career/" },
-  { name: "Yappes", country: "India", site: "yappes.com", careers: "https://yappes.com/careers" },
-  { name: "Yashoda Hospitals", country: "India", site: "yashodahospitals.com", careers: "https://www.yashodahospitals.com/careers/" },
-  { name: "Yamaha Motor India", country: "India", site: "yamaha-motor-india.com", careers: "https://www.yamaha-motor-india.com/career-home.html" },
-  { name: "YKK India", country: "India", site: "ykkindia.com", careers: "https://www.ykkindia.com/career" },
-  { name: "Yanmar India", country: "India", site: "yanmarindia.com" },
-  { name: "Yokohama Off-Highway Tires", country: "India", site: "yokohama-oht.com", careers: "https://www.yokohama-atg.com/en-in/careers" },
-  { name: "Yellowstone Software", country: "India", site: "yellowstonesoft.com" },
-  { name: "Yseop", country: "France", site: "yseop.com", careers: "https://yseop.com/about/careers/" },
-  { name: "Yanolja", country: "South Korea", site: "yanolja.com" },
-  { name: "YY Inc", country: "China", site: "yy.com" },
-  { name: "Yeahka", country: "China", site: "yeahka.com" },
-  { name: "Yusys Technologies", country: "China", site: "yusys.com.cn" },
-  { name: "Yidu Tech", country: "China", site: "yidutech.com" },
-  { name: "Yonyou", country: "China", site: "yonyou.com" },
-  { name: "Youdao", country: "China", site: "youdao.com" },
-  { name: "Y Soft", country: "Czech Republic", site: "ysoft.com", careers: "https://www.ysoft.com/careers" },
-  { name: "Yapily", country: "UK", site: "yapily.com", careers: "https://www.yapily.com/company/careers" },
-  { name: "Yello", country: "USA", site: "yello.co", careers: "https://yello.co/careers/" },
-  { name: "Yesware", country: "USA", site: "yesware.com" },
-  { name: "Yellowdig", country: "USA", site: "yellowdig.com" },
-  { name: "Yumpu", country: "Switzerland", site: "yumpu.com" },
-  { name: "Yoello", country: "UK", site: "yoello.com" },
-  { name: "Yobi", country: "USA", site: "yobi.ai", careers: "https://www.yobi.ai/careers" },
-  { name: "Ycode", country: "Netherlands", site: "ycode.com" },
-  { name: "Yeeply", country: "Spain", site: "yeeply.com" },
-  { name: "Yonder", country: "Romania", site: "yonder.tech" },
-  { name: "Yopa", country: "UK", site: "yopa.co.uk", careers: "https://careers.yopa.co.uk/" },
-  { name: "Yugo", country: "UK", site: "yugo.com" },
-  { name: "Yazaki", country: "Japan", site: "yazaki-group.com" },
-  { name: "Yusen Logistics", country: "Japan", site: "yusen-logistics.com" },
-  { name: "Yokohama Tire", country: "Japan", site: "yokohamatire.com" },
-  { name: "Yumasoft", country: "India", site: "yumasoft.com" },
-  { name: "Yagna Labs", country: "India", site: "yagnalabs.com" },
-  { name: "Yamuna Network", country: "India", site: "yamunanetwork.com" },
-  { name: "Yatra Info", country: "India", site: "yathrainfo.com" },
-  { name: "Yash Global", country: "India", site: "yashglobal.in" },
-  { name: "YumaWorks", country: "USA", site: "yumaworks.com" },
-  { name: "yes!devs", country: "Germany", site: "yesdevs.com" },
-  { name: "Yardstick Technologies", country: "Canada", site: "yardsticktechnologies.com" },
-  { name: "Yellowfin Digital", country: "USA", site: "yellowfindigital.com" }
+module.exports=[
+ {
+  "name": "Yellow.ai",
+  "country": "India",
+  "site": "yellow.ai"
+ },
+ {
+  "name": "Yubi (CredAvenue)",
+  "country": "India",
+  "site": "go-yubi.com",
+  "careers": "https://www.go-yubi.com/careers/"
+ },
+ {
+  "name": "Yatra Online",
+  "country": "India",
+  "site": "yatra.com",
+  "careers": "https://www.yatra.com/corporate/careers"
+ },
+ {
+  "name": "YES Bank",
+  "country": "India",
+  "site": "yesbank.in"
+ },
+ {
+  "name": "YASH Technologies",
+  "country": "India",
+  "site": "yash.com",
+  "careers": "https://www.yash.com/careers/"
+ },
+ {
+  "name": "Yotta Data Services",
+  "country": "India",
+  "site": "yotta.com",
+  "careers": "https://yotta.com/careers/"
+ },
+ {
+  "name": "Yulu Bikes",
+  "country": "India",
+  "site": "yulu.bike",
+  "careers": "https://www.yulu.bike/careers"
+ },
+ {
+  "name": "YuppTV",
+  "country": "India",
+  "site": "yupptv.com",
+  "careers": "https://www.yupptv.com/careers"
+ },
+ {
+  "name": "Yudiz Solutions",
+  "country": "India",
+  "site": "yudiz.com",
+  "careers": "https://www.yudiz.com/join-our-team/"
+ },
+ {
+  "name": "Yugasa Software Labs",
+  "country": "India",
+  "site": "yugasa.com"
+ },
+ {
+  "name": "Yellow Class",
+  "country": "India",
+  "site": "yellowclass.com",
+  "careers": "https://www.yellowclass.com/careers"
+ },
+ {
+  "name": "Yalamanchili Software Exports",
+  "country": "India",
+  "site": "ysppayments.com",
+  "careers": "https://www.ysppayments.com/"
+ },
+ {
+  "name": "Yodlee (Envestnet)",
+  "country": "India",
+  "site": "yodlee.com",
+  "careers": "https://www.envestnet.com/careers"
+ },
+ {
+  "name": "YourStory Media",
+  "country": "India",
+  "site": "yourstory.com",
+  "careers": "https://yourstory.com/careers"
+ },
+ {
+  "name": "YES Securities",
+  "country": "India",
+  "site": "yesinvest.in",
+  "careers": "https://www.yesinvest.in/careers"
+ },
+ {
+  "name": "Yash Highvoltage",
+  "country": "India",
+  "site": "yashhighvoltage.com",
+  "careers": "https://www.yashhighvoltage.com/careers/"
+ },
+ {
+  "name": "YOLO Bus",
+  "country": "India",
+  "site": "yolobus.in"
+ },
+ {
+  "name": "Yes Madam",
+  "country": "India",
+  "site": "yesmadam.com",
+  "careers": "https://www.yesmadam.com/careers"
+ },
+ {
+  "name": "Yaskawa India",
+  "country": "India",
+  "site": "yaskawaindia.in"
+ },
+ {
+  "name": "Yara India",
+  "country": "India",
+  "site": "yara.in"
+ },
+ {
+  "name": "Ymgrad",
+  "country": "India",
+  "site": "ymgrad.com",
+  "careers": "https://ymgrad.com/careers"
+ },
+ {
+  "name": "Yuvasoft Solutions",
+  "country": "India",
+  "site": "yuvasoftech.com",
+  "careers": "https://www.yuvasoftech.com/career"
+ },
+ {
+  "name": "Yash Raj Films",
+  "country": "India",
+  "site": "yashrajfilms.com",
+  "careers": "https://www.yashrajfilms.com/careers"
+ },
+ {
+  "name": "Ysquare Technology",
+  "country": "India",
+  "site": "ysquaretechnology.com",
+  "careers": "https://ysquaretechnology.com/careers/"
+ },
+ {
+  "name": "Yellow Slice",
+  "country": "India",
+  "site": "yellowslice.in",
+  "careers": "https://www.yellowslice.in/career"
+ },
+ {
+  "name": "Yavar TechWorks",
+  "country": "India",
+  "site": "yavar.in",
+  "careers": "https://yavar.in/careers/"
+ },
+ {
+  "name": "Yodaplus Technologies",
+  "country": "India",
+  "site": "yodaplus.com",
+  "careers": "https://yodaplus.com/careers.html"
+ },
+ {
+  "name": "Yagna iQ",
+  "country": "India",
+  "site": "yagnaiq.com"
+ },
+ {
+  "name": "YNOS Venture Engine",
+  "country": "India",
+  "site": "ynos.in"
+ },
+ {
+  "name": "Yuken India",
+  "country": "India",
+  "site": "yukenindia.com"
+ },
+ {
+  "name": "Yasho Industries",
+  "country": "India",
+  "site": "yashoindustries.com",
+  "careers": "https://www.yashoindustries.com/careers/"
+ },
+ {
+  "name": "Yash Pakka",
+  "country": "India",
+  "site": "yashpakka.com",
+  "careers": "https://yashpakka.com/careers/"
+ },
+ {
+  "name": "Yaap Digital",
+  "country": "India",
+  "site": "yaap.com"
+ },
+ {
+  "name": "Yahoo",
+  "country": "USA",
+  "site": "yahooinc.com",
+  "careers": "https://www.yahooinc.com/careers/"
+ },
+ {
+  "name": "Yelp",
+  "country": "USA",
+  "site": "yelp.com",
+  "careers": "https://www.yelp.com/careers"
+ },
+ {
+  "name": "Yext",
+  "country": "USA",
+  "site": "yext.com",
+  "careers": "https://www.yext.com/careers"
+ },
+ {
+  "name": "Yotpo",
+  "country": "Israel",
+  "site": "yotpo.com",
+  "careers": "https://www.yotpo.com/careers/"
+ },
+ {
+  "name": "Yubico",
+  "country": "Sweden",
+  "site": "yubico.com",
+  "careers": "https://www.yubico.com/careers/"
+ },
+ {
+  "name": "YugabyteDB",
+  "country": "USA",
+  "site": "yugabyte.com",
+  "careers": "https://www.yugabyte.com/careers/"
+ },
+ {
+  "name": "Yellowbrick Data",
+  "country": "USA",
+  "site": "yellowbrick.com",
+  "careers": "https://yellowbrick.com/careers/"
+ },
+ {
+  "name": "Yardi Systems",
+  "country": "USA",
+  "site": "yardi.com",
+  "careers": "https://www.yardi.com/careers/"
+ },
+ {
+  "name": "YipitData",
+  "country": "USA",
+  "site": "yipitdata.com",
+  "careers": "https://www.yipitdata.com/careers"
+ },
+ {
+  "name": "YCharts",
+  "country": "USA",
+  "site": "ycharts.com",
+  "careers": "https://recruiting.paylocity.com/recruiting/jobs/All/78419728-0f20-46ce-8f93-12ae28d0f8c5/YCharts"
+ },
+ {
+  "name": "Yieldmo",
+  "country": "USA",
+  "site": "yieldmo.com",
+  "careers": "https://yieldmo.com/careers/"
+ },
+ {
+  "name": "Willow Wealth (Yieldstreet)",
+  "country": "USA",
+  "site": "willowwealth.com"
+ },
+ {
+  "name": "Ylopo",
+  "country": "USA",
+  "site": "ylopo.com"
+ },
+ {
+  "name": "Yembo",
+  "country": "USA",
+  "site": "yembo.ai",
+  "careers": "https://www.yembo.ai/careers"
+ },
+ {
+  "name": "Yendo",
+  "country": "USA",
+  "site": "yendo.com",
+  "careers": "https://www.yendo.com/careers"
+ },
+ {
+  "name": "Yellow Systems",
+  "country": "USA",
+  "site": "yellow.systems"
+ },
+ {
+  "name": "Yoodli",
+  "country": "USA",
+  "site": "yoodli.ai",
+  "careers": "https://yoodli.ai/careers"
+ },
+ {
+  "name": "Yotascale",
+  "country": "USA",
+  "site": "yotascale.com"
+ },
+ {
+  "name": "Yuvo Health",
+  "country": "USA",
+  "site": "yuvohealth.com"
+ },
+ {
+  "name": "Ytel",
+  "country": "USA",
+  "site": "ytel.com",
+  "careers": "https://www.ytel.com/careers/"
+ },
+ {
+  "name": "Yes Energy",
+  "country": "USA",
+  "site": "yesenergy.com",
+  "careers": "https://www.yesenergy.com/careers"
+ },
+ {
+  "name": "Y Combinator",
+  "country": "USA",
+  "site": "ycombinator.com",
+  "careers": "https://www.ycombinator.com/careers"
+ },
+ {
+  "name": "Yum! Brands",
+  "country": "USA",
+  "site": "yum.com",
+  "careers": "https://jobs.yum.com/"
+ },
+ {
+  "name": "Yum China",
+  "country": "China",
+  "site": "yumchina.com",
+  "careers": "https://www.yumchina.com/en/careers"
+ },
+ {
+  "name": "Ygrene Energy Fund",
+  "country": "USA",
+  "site": "ygrene.com",
+  "careers": "https://ygrene.com/careers/"
+ },
+ {
+  "name": "Yokogawa Electric",
+  "country": "Japan",
+  "site": "yokogawa.com",
+  "careers": "https://www.yokogawa.com/careers/"
+ },
+ {
+  "name": "Yamaha Motor",
+  "country": "Japan",
+  "site": "yamaha-motor.com"
+ },
+ {
+  "name": "Yaskawa Electric",
+  "country": "Japan",
+  "site": "yaskawa-global.com"
+ },
+ {
+  "name": "Yanmar",
+  "country": "Japan",
+  "site": "yanmar.com",
+  "careers": "https://www.yanmar.com/global/careers/"
+ },
+ {
+  "name": "Yokohama TWS",
+  "country": "Italy",
+  "site": "yokohama-tws.com",
+  "careers": "https://www.yokohama-tws.com/careers/"
+ },
+ {
+  "name": "Yara International",
+  "country": "Norway",
+  "site": "yara.com"
+ },
+ {
+  "name": "YouGov",
+  "country": "UK",
+  "site": "yougov.com",
+  "careers": "https://jobs.yougov.com/"
+ },
+ {
+  "name": "Yolo Group",
+  "country": "Estonia",
+  "site": "yolo.com",
+  "careers": "https://yolo.com/careers/"
+ },
+ {
+  "name": "Yoti",
+  "country": "UK",
+  "site": "yoti.com"
+ },
+ {
+  "name": "YuLife",
+  "country": "UK",
+  "site": "yulife.com",
+  "careers": "https://yulife.com/careers/"
+ },
+ {
+  "name": "Yordex",
+  "country": "UK",
+  "site": "yordex.com"
+ },
+ {
+  "name": "Yoyo Wallet",
+  "country": "UK",
+  "site": "yoyowallet.com",
+  "careers": "https://www.yoyowallet.com/careers"
+ },
+ {
+  "name": "Yourgene Health",
+  "country": "UK",
+  "site": "yourgene-health.com",
+  "careers": "https://yourgene-health.com/careers"
+ },
+ {
+  "name": "Younited",
+  "country": "France",
+  "site": "younited.com",
+  "careers": "https://www.younited.com/careers"
+ },
+ {
+  "name": "Youtrust (formerly Yousign)",
+  "country": "France",
+  "site": "youtrust.com"
+ },
+ {
+  "name": "Yves Rocher",
+  "country": "France",
+  "site": "yves-rocher.com"
+ },
+ {
+  "name": "Yubo",
+  "country": "France",
+  "site": "yubo.live",
+  "careers": "https://www.yubo.live/careers"
+ },
+ {
+  "name": "Ypsomed",
+  "country": "Switzerland",
+  "site": "ypsomed.com"
+ },
+ {
+  "name": "Yousician",
+  "country": "Finland",
+  "site": "yousician.com",
+  "careers": "https://yousician.com/careers"
+ },
+ {
+  "name": "Younium",
+  "country": "Sweden",
+  "site": "younium.com",
+  "careers": "https://www.younium.com/careers"
+ },
+ {
+  "name": "Yodeck",
+  "country": "Greece",
+  "site": "yodeck.com",
+  "careers": "https://www.yodeck.com/careers/"
+ },
+ {
+  "name": "Yopeso",
+  "country": "Romania",
+  "site": "yopeso.com"
+ },
+ {
+  "name": "Yuki",
+  "country": "Netherlands",
+  "site": "yuki.nl",
+  "careers": "https://jobs.yukisoftware.com/"
+ },
+ {
+  "name": "Yuno",
+  "country": "Colombia",
+  "site": "y.uno",
+  "careers": "https://www.y.uno/careers"
+ },
+ {
+  "name": "Yassir",
+  "country": "Algeria",
+  "site": "yassir.com"
+ },
+ {
+  "name": "Yoco",
+  "country": "South Africa",
+  "site": "yoco.com",
+  "careers": "https://www.yoco.com/za/careers/"
+ },
+ {
+  "name": "Yellow Card",
+  "country": "Nigeria",
+  "site": "yellowcard.io"
+ },
+ {
+  "name": "Youverify",
+  "country": "Nigeria",
+  "site": "youverify.co"
+ },
+ {
+  "name": "Yalla Group",
+  "country": "UAE",
+  "site": "yalla.live"
+ },
+ {
+  "name": "Yellowfin BI",
+  "country": "Australia",
+  "site": "yellowfinbi.com",
+  "careers": "https://www.yellowfinbi.com/careers"
+ },
+ {
+  "name": "Yodo1",
+  "country": "Singapore",
+  "site": "yodo1.com",
+  "careers": "https://www.yodo1.com/careers"
+ },
+ {
+  "name": "Yggdrasil Gaming",
+  "country": "Malta",
+  "site": "yggdrasilgaming.com",
+  "careers": "https://www.yggdrasilgaming.com/careers/"
+ },
+ {
+  "name": "Yandex",
+  "country": "Global",
+  "site": "yandex.com",
+  "careers": "https://yandex.com/jobs/"
+ },
+ {
+  "name": "Yellow Pages Canada",
+  "country": "Canada",
+  "site": "yp.ca",
+  "careers": "https://corporate.yp.ca/yellow-pages-careers"
+ },
+ {
+  "name": "HappyCo (formerly Yuhu)",
+  "country": "Canada",
+  "site": "happy.co"
+ },
+ {
+  "name": "Ynvisible Interactive",
+  "country": "Portugal",
+  "site": "ynvisible.com"
+ },
+ {
+  "name": "Yaali Bizappln Solutions",
+  "country": "India",
+  "site": "yaaligroup.com"
+ },
+ {
+  "name": "Yagna Technologies",
+  "country": "India",
+  "site": "yagnatechnologies.com"
+ },
+ {
+  "name": "Yaksha",
+  "country": "India",
+  "site": "yaksha.io",
+  "careers": "https://yaksha.io/careers"
+ },
+ {
+  "name": "Yamuna Technologies",
+  "country": "India",
+  "site": "yamunatechnologies.com"
+ },
+ {
+  "name": "YantraLab",
+  "country": "India",
+  "site": "yantralab.in",
+  "careers": "https://yantralab.in/careers"
+ },
+ {
+  "name": "Yantrasoft",
+  "country": "India",
+  "site": "yantrasoft.in"
+ },
+ {
+  "name": "Yantra Technologies",
+  "country": "India",
+  "site": "yantratech.co.in"
+ },
+ {
+  "name": "Yantrik Technologies",
+  "country": "India",
+  "site": "yantriktechnologies.com",
+  "careers": "https://yantriktechnologies.com/career/"
+ },
+ {
+  "name": "Yantra Innovations",
+  "country": "India",
+  "site": "yantrainnovation.com",
+  "careers": "https://yantrainnovation.com/career/"
+ },
+ {
+  "name": "Yantra AI",
+  "country": "India",
+  "site": "yantraai.in",
+  "careers": "https://www.yantraai.in/careerpage.html"
+ },
+ {
+  "name": "Yash Apps and Software Services",
+  "country": "India",
+  "site": "yashapps.com"
+ },
+ {
+  "name": "Yashaswi InfoTech",
+  "country": "India",
+  "site": "yashaswiinfotech.com"
+ },
+ {
+  "name": "Yashaswi Technologies",
+  "country": "India",
+  "site": "yashaswitechnologies.in",
+  "careers": "https://yashaswitechnologies.in/careers/"
+ },
+ {
+  "name": "Yash CompuTech",
+  "country": "India",
+  "site": "yashcomputech.com"
+ },
+ {
+  "name": "Yashi Consulting",
+  "country": "India",
+  "site": "yashiconsulting.com"
+ },
+ {
+  "name": "Yashi Technologies",
+  "country": "India",
+  "site": "yashikatechnologies.com"
+ },
+ {
+  "name": "Yash Infotech",
+  "country": "India",
+  "site": "yashinfo.co.in"
+ },
+ {
+  "name": "Yash Infosolutions",
+  "country": "India",
+  "site": "yashinfosolutions.co.in"
+ },
+ {
+  "name": "Yash Infosystems",
+  "country": "India",
+  "site": "yashinfosystems.com"
+ },
+ {
+  "name": "Yash Infotech Pvt Ltd",
+  "country": "India",
+  "site": "yashinfotech.co.in",
+  "careers": "https://yashinfotech.co.in/career/"
+ },
+ {
+  "name": "Yashi Labs",
+  "country": "India",
+  "site": "yashilabs.com"
+ },
+ {
+  "name": "Yashvi Infosys",
+  "country": "India",
+  "site": "yashviinfosys.in"
+ },
+ {
+  "name": "Yashvi Global",
+  "country": "India",
+  "site": "yashviglobal.com"
+ },
+ {
+  "name": "Yatra Labs",
+  "country": "India",
+  "site": "yatralabs.com"
+ },
+ {
+  "name": "Yatra Softech",
+  "country": "India",
+  "site": "yatrasoftech.com"
+ },
+ {
+  "name": "Yathartha Technologies",
+  "country": "India",
+  "site": "yatharthatechnologies.in"
+ },
+ {
+  "name": "Yashraj Software",
+  "country": "India",
+  "site": "yashrajsoftware.com",
+  "careers": "https://yashrajsoftware.com/career/"
+ },
+ {
+  "name": "Yashraj Tech",
+  "country": "India",
+  "site": "yashrajtech.com"
+ },
+ {
+  "name": "Yahvi Technologies",
+  "country": "India",
+  "site": "yahvitechnologies.co.in"
+ },
+ {
+  "name": "YBYTE Technologies",
+  "country": "India",
+  "site": "ybytetechnologies.com",
+  "careers": "https://ybytetechnologies.com/careers"
+ },
+ {
+  "name": "Ycore Technologies",
+  "country": "India",
+  "site": "ycoretechnologies.in"
+ },
+ {
+  "name": "Yash Computech Solutions",
+  "country": "India",
+  "site": "ycsin.com"
+ },
+ {
+  "name": "YellowBee AI",
+  "country": "India",
+  "site": "yellowbeeai.com"
+ },
+ {
+  "name": "Yellowchalk",
+  "country": "India",
+  "site": "yellowchalk.com",
+  "careers": "https://yellowchalk.com/careers/"
+ },
+ {
+  "name": "Yellow Monkey Tech",
+  "country": "India",
+  "site": "yellowmonkeytech.com",
+  "careers": "https://www.yellowmonkeytech.com/career/"
+ },
+ {
+  "name": "Yellow Panther",
+  "country": "India",
+  "site": "yellowpanther.io",
+  "careers": "https://yellowpanther.io/careers/"
+ },
+ {
+  "name": "Yellowspot",
+  "country": "India",
+  "site": "yellowspottech.com"
+ },
+ {
+  "name": "YellowSense",
+  "country": "India",
+  "site": "yellowsense.in"
+ },
+ {
+  "name": "YellowSphere",
+  "country": "India",
+  "site": "yellowsphere.in"
+ },
+ {
+  "name": "Yellow Pixel Studio",
+  "country": "India",
+  "site": "yellowpixelstudio.com"
+ },
+ {
+  "name": "Yellowtail Solutions",
+  "country": "India",
+  "site": "yellowtailsolutions.com"
+ },
+ {
+  "name": "Yew Technology",
+  "country": "India",
+  "site": "yewtechnology.com"
+ },
+ {
+  "name": "Yesha Software",
+  "country": "India",
+  "site": "yeshasoftware.com"
+ },
+ {
+  "name": "Yes Infotech",
+  "country": "India",
+  "site": "yesinfotech.in"
+ },
+ {
+  "name": "YES Softech",
+  "country": "India",
+  "site": "yessoftech.com"
+ },
+ {
+  "name": "Yethi Consulting",
+  "country": "India",
+  "site": "yethi.in",
+  "careers": "https://yethi.in/careers/"
+ },
+ {
+  "name": "Yez Studio",
+  "country": "India",
+  "site": "yezstudio.com"
+ },
+ {
+  "name": "yenDigital",
+  "country": "India",
+  "site": "yendigital.com",
+  "careers": "https://www.yendigital.com/careers"
+ },
+ {
+  "name": "Yenmo",
+  "country": "India",
+  "site": "yenmo.in"
+ },
+ {
+  "name": "Yin Solutions",
+  "country": "India",
+  "site": "yinsolutions.com"
+ },
+ {
+  "name": "Yitro Global",
+  "country": "India",
+  "site": "yitro.com",
+  "careers": "https://yitro.com/careers/"
+ },
+ {
+  "name": "YM Global Technologies",
+  "country": "India",
+  "site": "ymgit.com",
+  "careers": "https://ymgit.com/careers/"
+ },
+ {
+  "name": "Yobitech",
+  "country": "India",
+  "site": "yobitech.in"
+ },
+ {
+  "name": "YoBytech",
+  "country": "India",
+  "site": "yobytech.com"
+ },
+ {
+  "name": "Yocket",
+  "country": "India",
+  "site": "yocket.com"
+ },
+ {
+  "name": "YOCO Labs",
+  "country": "India",
+  "site": "yocolabs.com"
+ },
+ {
+  "name": "Yodasoft",
+  "country": "India",
+  "site": "yodasoft.com"
+ },
+ {
+  "name": "Yoddha Digital",
+  "country": "India",
+  "site": "yoddhadigital.com"
+ },
+ {
+  "name": "Yoddha Labs",
+  "country": "India",
+  "site": "yoddhalabs.com"
+ },
+ {
+  "name": "Yodha AI",
+  "country": "India",
+  "site": "yodhaai.com"
+ },
+ {
+  "name": "Yogi Innovations",
+  "country": "India",
+  "site": "yogiinnovations.com"
+ },
+ {
+  "name": "Yogik Solutions",
+  "country": "India",
+  "site": "yogiksolutions.com"
+ },
+ {
+  "name": "Yogi Solutions",
+  "country": "India",
+  "site": "yogisolutions.co.in"
+ },
+ {
+  "name": "Yogsoft",
+  "country": "India",
+  "site": "yogsoft.com",
+  "careers": "https://yogsoft.com/career/"
+ },
+ {
+  "name": "Yogeshwar Technologies",
+  "country": "India",
+  "site": "yogeshwartech.com",
+  "careers": "https://yogeshwartech.com/jobs/"
+ },
+ {
+  "name": "Yoop Tech",
+  "country": "India",
+  "site": "yooptech.com"
+ },
+ {
+  "name": "YOptima",
+  "country": "India",
+  "site": "yoptima.com",
+  "careers": "https://yoptima.com/careers/"
+ },
+ {
+  "name": "Yoro Technologies",
+  "country": "India",
+  "site": "yorotechnologies.com"
+ },
+ {
+  "name": "Yosoft Solutions",
+  "country": "India",
+  "site": "yosoftsolutions.com"
+ },
+ {
+  "name": "YoSoftTech",
+  "country": "India",
+  "site": "yosofttech.com",
+  "careers": "https://yosofttech.com/career.html"
+ },
+ {
+  "name": "YOTECH Code Craft",
+  "country": "India",
+  "site": "yotech.in"
+ },
+ {
+  "name": "YottaLab India",
+  "country": "India",
+  "site": "yottalab.in"
+ },
+ {
+  "name": "YOU Broadband",
+  "country": "India",
+  "site": "youbroadband.co.in",
+  "careers": "https://youbroadband.co.in/career.php"
+ },
+ {
+  "name": "Young Web Solutions",
+  "country": "India",
+  "site": "youngwebsolutions.in"
+ },
+ {
+  "name": "YourDOST",
+  "country": "India",
+  "site": "yourdost.com"
+ },
+ {
+  "name": "YourDreamTech",
+  "country": "India",
+  "site": "yourdreamtech.com",
+  "careers": "https://yourdreamtech.com/career/"
+ },
+ {
+  "name": "YourSoft",
+  "country": "India",
+  "site": "yoursoft.in"
+ },
+ {
+  "name": "Your Solution",
+  "country": "India",
+  "site": "yoursolution.in",
+  "careers": "https://yoursolution.in/careers.php"
+ },
+ {
+  "name": "YourWayIT",
+  "country": "India",
+  "site": "yourwayit.com"
+ },
+ {
+  "name": "YouthTech Solutions",
+  "country": "India",
+  "site": "youthtechsolutions.com",
+  "careers": "https://www.youthtechsolutions.com/career/"
+ },
+ {
+  "name": "YouTech IT Solutions",
+  "country": "India",
+  "site": "youtech.in"
+ },
+ {
+  "name": "YouLearn Agency",
+  "country": "India",
+  "site": "youlearn.in"
+ },
+ {
+  "name": "YSoft Solution",
+  "country": "India",
+  "site": "ysoftsolution.com",
+  "careers": "https://ysoftsolution.com/careers/"
+ },
+ {
+  "name": "Y-Tech Innovations",
+  "country": "India",
+  "site": "ytechinnovations.com"
+ },
+ {
+  "name": "YUDI Infotech",
+  "country": "India",
+  "site": "yudiinfotech.com"
+ },
+ {
+  "name": "Yuga Infotech",
+  "country": "India",
+  "site": "yugainfotech.in"
+ },
+ {
+  "name": "Yugam Group",
+  "country": "India",
+  "site": "yugamgroup.com",
+  "careers": "https://yugamgroup.com/careers.html"
+ },
+ {
+  "name": "Yugasys",
+  "country": "India",
+  "site": "yugasys.com",
+  "careers": "https://www.yugasys.com/careers"
+ },
+ {
+  "name": "Yugen.ai",
+  "country": "India",
+  "site": "yugen.ai",
+  "careers": "https://www.yugen.ai/careers"
+ },
+ {
+  "name": "Yugen Digital",
+  "country": "India",
+  "site": "yugendigital.in"
+ },
+ {
+  "name": "Yugensys",
+  "country": "India",
+  "site": "yugensys.com"
+ },
+ {
+  "name": "Yugantar Infotech",
+  "country": "India",
+  "site": "yugantarinfotech.com"
+ },
+ {
+  "name": "YugAntar Technologies",
+  "country": "India",
+  "site": "yugantartechnologies.com"
+ },
+ {
+  "name": "Yug Technologies",
+  "country": "India",
+  "site": "yugtechnologies.com",
+  "careers": "https://yugtechnologies.com/career.php"
+ },
+ {
+  "name": "Yug Technology",
+  "country": "India",
+  "site": "yugtechnology.com",
+  "careers": "https://yugtechnology.com/career/"
+ },
+ {
+  "name": "Yuki Software Solutions",
+  "country": "India",
+  "site": "yukisoftware.in"
+ },
+ {
+  "name": "Yukon Technologies",
+  "country": "India",
+  "site": "yukontechnologies.com",
+  "careers": "https://yukontechnologies.com/index.php/Company/Careers"
+ },
+ {
+  "name": "YuktaMedia",
+  "country": "India",
+  "site": "yuktamedia.com"
+ },
+ {
+  "name": "Yukta Software Solutions",
+  "country": "India",
+  "site": "yuktasoft.com"
+ },
+ {
+  "name": "Yukti Solutions",
+  "country": "India",
+  "site": "yuktisolutions.com"
+ },
+ {
+  "name": "Yukti Intelligent Systems",
+  "country": "India",
+  "site": "yuktisystems.com"
+ },
+ {
+  "name": "YuktiTechnology",
+  "country": "India",
+  "site": "yuktitechnology.com"
+ },
+ {
+  "name": "Yukti Tech Solutions",
+  "country": "India",
+  "site": "yuktitechsolutions.in"
+ },
+ {
+  "name": "Yukthi Labs",
+  "country": "India",
+  "site": "yukthilabs.com"
+ },
+ {
+  "name": "Yukthi Software",
+  "country": "India",
+  "site": "yukthi.com",
+  "careers": "https://www.yukthi.com/careers/"
+ },
+ {
+  "name": "YuluWeb",
+  "country": "India",
+  "site": "yuluweb.com"
+ },
+ {
+  "name": "YunaCloud",
+  "country": "India",
+  "site": "yunacloud.com"
+ },
+ {
+  "name": "Yuppie Infotech",
+  "country": "India",
+  "site": "yuppieinfotech.com"
+ },
+ {
+  "name": "YuSa Infotech",
+  "country": "India",
+  "site": "yusainfotech.com",
+  "careers": "https://yusainfotech.com/careers/"
+ },
+ {
+  "name": "Yuvaan Tech",
+  "country": "India",
+  "site": "yuvaantech.in"
+ },
+ {
+  "name": "Yuvaan Technologies",
+  "country": "India",
+  "site": "yuvaantechnologies.com",
+  "careers": "https://yuvaantechnologies.com/jobs/"
+ },
+ {
+  "name": "YuvApps",
+  "country": "India",
+  "site": "yuvapps.com"
+ },
+ {
+  "name": "Yuvasoft Technologies",
+  "country": "India",
+  "site": "yuvasoft.co.in"
+ },
+ {
+  "name": "Yuva Software",
+  "country": "India",
+  "site": "yuvasoftware.com"
+ },
+ {
+  "name": "YuvaTech Labs",
+  "country": "India",
+  "site": "yuvatechlabs.com"
+ },
+ {
+  "name": "Yuvatech Solutions",
+  "country": "India",
+  "site": "yuvatechsolutions.in"
+ },
+ {
+  "name": "Yuvi Works",
+  "country": "India",
+  "site": "yuviworks.com"
+ },
+ {
+  "name": "YUVMEDIA",
+  "country": "India",
+  "site": "yuvmedia.com",
+  "careers": "https://yuvmedia.com/career"
+ },
+ {
+  "name": "Yadu Tech Solutions",
+  "country": "India",
+  "site": "yadutech.com"
+ },
+ {
+  "name": "Yan IT Solutions",
+  "country": "India",
+  "site": "yanitsolutions.com",
+  "careers": "https://yanitsolutions.com/careers.php"
+ },
+ {
+  "name": "Yaantra",
+  "country": "India",
+  "site": "yaantra.com"
+ },
+ {
+  "name": "Y-Axis Overseas Careers",
+  "country": "India",
+  "site": "y-axis.com",
+  "careers": "https://jobs.y-axis.com/"
+ },
+ {
+  "name": "Yashus Digital Marketing",
+  "country": "India",
+  "site": "yashus.in",
+  "careers": "https://yashus.in/career/"
+ },
+ {
+  "name": "Yappes",
+  "country": "India",
+  "site": "yappes.com",
+  "careers": "https://yappes.com/careers"
+ },
+ {
+  "name": "Yashoda Hospitals",
+  "country": "India",
+  "site": "yashodahospitals.com",
+  "careers": "https://www.yashodahospitals.com/careers/"
+ },
+ {
+  "name": "Yamaha Motor India",
+  "country": "India",
+  "site": "yamaha-motor-india.com",
+  "careers": "https://www.yamaha-motor-india.com/career-home.html"
+ },
+ {
+  "name": "YKK India",
+  "country": "India",
+  "site": "ykkindia.com",
+  "careers": "https://www.ykkindia.com/career"
+ },
+ {
+  "name": "Yanmar India",
+  "country": "India",
+  "site": "yanmarindia.com"
+ },
+ {
+  "name": "Yokohama Off-Highway Tires",
+  "country": "India",
+  "site": "yokohama-oht.com",
+  "careers": "https://www.yokohama-atg.com/en-in/careers"
+ },
+ {
+  "name": "Yellowstone Software",
+  "country": "India",
+  "site": "yellowstonesoft.com"
+ },
+ {
+  "name": "Yseop",
+  "country": "France",
+  "site": "yseop.com",
+  "careers": "https://yseop.com/about/careers/"
+ },
+ {
+  "name": "Yanolja",
+  "country": "South Korea",
+  "site": "yanolja.com"
+ },
+ {
+  "name": "YY Inc",
+  "country": "China",
+  "site": "yy.com"
+ },
+ {
+  "name": "Yeahka",
+  "country": "China",
+  "site": "yeahka.com"
+ },
+ {
+  "name": "Yusys Technologies",
+  "country": "China",
+  "site": "yusys.com.cn"
+ },
+ {
+  "name": "Yidu Tech",
+  "country": "China",
+  "site": "yidutech.com"
+ },
+ {
+  "name": "Yonyou",
+  "country": "China",
+  "site": "yonyou.com"
+ },
+ {
+  "name": "Youdao",
+  "country": "China",
+  "site": "youdao.com"
+ },
+ {
+  "name": "Y Soft",
+  "country": "Czech Republic",
+  "site": "ysoft.com",
+  "careers": "https://www.ysoft.com/careers"
+ },
+ {
+  "name": "Yapily",
+  "country": "UK",
+  "site": "yapily.com",
+  "careers": "https://www.yapily.com/company/careers"
+ },
+ {
+  "name": "Yello",
+  "country": "USA",
+  "site": "yello.co",
+  "careers": "https://yello.co/careers/"
+ },
+ {
+  "name": "Yesware",
+  "country": "USA",
+  "site": "yesware.com"
+ },
+ {
+  "name": "Yellowdig",
+  "country": "USA",
+  "site": "yellowdig.com"
+ },
+ {
+  "name": "Yumpu",
+  "country": "Switzerland",
+  "site": "yumpu.com"
+ },
+ {
+  "name": "Yoello",
+  "country": "UK",
+  "site": "yoello.com"
+ },
+ {
+  "name": "Yobi",
+  "country": "USA",
+  "site": "yobi.ai",
+  "careers": "https://www.yobi.ai/careers"
+ },
+ {
+  "name": "Ycode",
+  "country": "Netherlands",
+  "site": "ycode.com"
+ },
+ {
+  "name": "Yeeply",
+  "country": "Spain",
+  "site": "yeeply.com"
+ },
+ {
+  "name": "Yonder",
+  "country": "Romania",
+  "site": "yonder.tech"
+ },
+ {
+  "name": "Yopa",
+  "country": "UK",
+  "site": "yopa.co.uk",
+  "careers": "https://careers.yopa.co.uk/"
+ },
+ {
+  "name": "Yugo",
+  "country": "UK",
+  "site": "yugo.com"
+ },
+ {
+  "name": "Yazaki",
+  "country": "Japan",
+  "site": "yazaki-group.com"
+ },
+ {
+  "name": "Yusen Logistics",
+  "country": "Japan",
+  "site": "yusen-logistics.com"
+ },
+ {
+  "name": "Yokohama Tire",
+  "country": "Japan",
+  "site": "yokohamatire.com"
+ },
+ {
+  "name": "Yumasoft",
+  "country": "India",
+  "site": "yumasoft.com"
+ },
+ {
+  "name": "Yagna Labs",
+  "country": "India",
+  "site": "yagnalabs.com"
+ },
+ {
+  "name": "Yamuna Network",
+  "country": "India",
+  "site": "yamunanetwork.com"
+ },
+ {
+  "name": "Yatra Info",
+  "country": "India",
+  "site": "yathrainfo.com"
+ },
+ {
+  "name": "Yash Global",
+  "country": "India",
+  "site": "yashglobal.in"
+ },
+ {
+  "name": "YumaWorks",
+  "country": "USA",
+  "site": "yumaworks.com"
+ },
+ {
+  "name": "yes!devs",
+  "country": "Germany",
+  "site": "yesdevs.com"
+ },
+ {
+  "name": "Yardstick Technologies",
+  "country": "Canada",
+  "site": "yardsticktechnologies.com"
+ },
+ {
+  "name": "Yellowfin Digital",
+  "country": "USA",
+  "site": "yellowfindigital.com"
+ }
 ];

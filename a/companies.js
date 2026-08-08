@@ -899,9 +899,9 @@ module.exports=[
   "site": "ameyo.com"
  },
  {
-  "name": "Apisero",
+  "name": "NTT Data (Apisero)",
   "country": "India",
-  "site": "apisero.com"
+  "site": "nttdata.com"
  },
  {
   "name": "Affine Analytics",
@@ -969,14 +969,9 @@ module.exports=[
   "site": "accelya.com"
  },
  {
-  "name": "Accolite Digital",
+  "name": "Bounteous (Accolite Digital)",
   "country": "United States",
-  "site": "accolite.com"
- },
- {
-  "name": "Accord Software and Systems",
-  "country": "India",
-  "site": "accordsoft.com"
+  "site": "bounteous.com"
  },
  {
   "name": "ACL Digital",
@@ -1094,9 +1089,9 @@ module.exports=[
   "site": "agiliad.com"
  },
  {
-  "name": "Agira Technologies",
+  "name": "BuSoft (formerly Agira)",
   "country": "India",
-  "site": "agiratech.com"
+  "site": "busofttech.com"
  },
  {
   "name": "Agnito Technologies",
@@ -1184,14 +1179,14 @@ module.exports=[
   "site": "alpixn.com"
  },
  {
-  "name": "ALTEN Calsoft Labs",
+  "name": "ACL Digital (ALTEN Calsoft Labs)",
   "country": "India",
-  "site": "altencalsoftlabs.com"
+  "site": "acldigital.com"
  },
  {
-  "name": "Altiux Innovations",
+  "name": "Prasaditya IDEA (Altiux)",
   "country": "India",
-  "site": "altiux.com"
+  "site": "prasadityaidea.com"
  },
  {
   "name": "Altruist Technologies",
@@ -1204,9 +1199,9 @@ module.exports=[
   "site": "amazesystems.com"
  },
  {
-  "name": "Ameex Technologies",
+  "name": "Perficient (Ameex)",
   "country": "India",
-  "site": "ameexusa.com"
+  "site": "perficient.com"
  },
  {
   "name": "Amigoways",
@@ -1641,7 +1636,7 @@ module.exports=[
  {
   "name": "AlphaGrep",
   "country": "India",
-  "site": "alphagrep.com"
+  "site": "alpha-grep.com"
  },
  {
   "name": "Alt Mobility",
@@ -1894,9 +1889,9 @@ module.exports=[
   "site": "albertsons.com"
  },
  {
-  "name": "Altair",
+  "name": "Siemens (Altair)",
   "country": "United States",
-  "site": "altair.com"
+  "site": "siemens.com"
  },
  {
   "name": "Altera",
@@ -2004,9 +1999,9 @@ module.exports=[
   "site": "avanade.com"
  },
  {
-  "name": "Avantor",
+  "name": "Avantor VWR",
   "country": "United States",
-  "site": "avantorsciences.com"
+  "site": "vwr.com"
  },
  {
   "name": "Avery Dennison",

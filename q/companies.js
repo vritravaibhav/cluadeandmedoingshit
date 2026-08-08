@@ -41,11 +41,6 @@ module.exports=[
   "site": "qburst.com"
  },
  {
-  "name": "Quovantis",
-  "country": "India",
-  "site": "quovantis.com"
- },
- {
   "name": "QualiZeal",
   "country": "India",
   "site": "qualizeal.com"
@@ -72,9 +67,9 @@ module.exports=[
   "careers": "https://www.qtsolv.com/careers/"
  },
  {
-  "name": "Qualitest India",
+  "name": "QualityAI (formerly Qualitest)",
   "country": "India",
-  "site": "qualitestgroup.com"
+  "site": "quality-ai.com"
  },
  {
   "name": "Qualys India",
@@ -202,10 +197,9 @@ module.exports=[
   "site": "qoruz.com"
  },
  {
-  "name": "Quizizz",
+  "name": "Wayground (formerly Quizizz)",
   "country": "India",
-  "site": "quizizz.com",
-  "careers": "https://quizizz.com/careers"
+  "site": "wayground.com"
  },
  {
   "name": "Qualitia Software",

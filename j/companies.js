@@ -1,4 +1,4 @@
-module.exports = [
+module.exports=[
  {
   "name": "JPMorgan Chase India",
   "country": "United States",
@@ -92,9 +92,9 @@ module.exports = [
   "site": "jindalsteelpower.com"
  },
  {
-  "name": "Jaguar Land Rover India",
+  "name": "JLR (Jaguar Land Rover)",
   "country": "United Kingdom",
-  "site": "jaguarlandrover.com"
+  "site": "jlr.com"
  },
  {
   "name": "Jamboree Education",
@@ -122,9 +122,9 @@ module.exports = [
   "site": "haptik.ai"
  },
  {
-  "name": "Jivox India",
+  "name": "DaVinci Commerce (Jivox)",
   "country": "United States",
-  "site": "jivox.com"
+  "site": "davincicommerce.ai"
  },
  {
   "name": "JK Tech",

@@ -770,11 +770,6 @@ module.exports=[
   "site": "bugworksresearch.com"
  },
  {
-  "name": "Betterhalf",
-  "country": "India",
-  "site": "betterhalf.ai"
- },
- {
   "name": "Bewakoof",
   "country": "India",
   "site": "bewakoof.com"

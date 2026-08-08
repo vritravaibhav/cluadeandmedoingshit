@@ -155,9 +155,9 @@ module.exports=[
   "site": "onclusive.com"
  },
  {
-  "name": "Onlinesales.ai",
+  "name": "Osmos (formerly Onlinesales.ai)",
   "country": "India",
-  "site": "onlinesales.ai"
+  "site": "osmos.ai"
  },
  {
   "name": "Ontic India",

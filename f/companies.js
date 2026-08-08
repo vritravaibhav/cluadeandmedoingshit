@@ -714,9 +714,9 @@ module.exports=[
   "careers": "https://apply.freshprints.com/careers-page/"
  },
  {
-  "name": "Fampay",
+  "name": "FamApp (formerly FamPay)",
   "country": "India",
-  "site": "fampay.in"
+  "site": "famapp.in"
  },
  {
   "name": "Five9 India",

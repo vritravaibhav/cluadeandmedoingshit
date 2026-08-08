@@ -320,9 +320,9 @@ module.exports=[
   "careers": "https://www.xtremax.com/careers"
  },
  {
-  "name": "Xandr",
+  "name": "Microsoft Advertising (Xandr)",
   "country": "USA",
-  "site": "xandr.com"
+  "site": "microsoft.com"
  },
  {
   "name": "XTIVIA",
@@ -1321,9 +1321,9 @@ module.exports=[
   "site": "xrterra.com"
  },
  {
-  "name": "XSELL Technologies",
+  "name": "Attune (formerly XSELL)",
   "country": "USA",
-  "site": "xsell.ai"
+  "site": "attune.ai"
  },
  {
   "name": "XSplit",

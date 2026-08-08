@@ -1,4 +1,4 @@
-module.exports = [
+module.exports=[
  {
   "name": "L&T Finance",
   "country": "India",
@@ -30,10 +30,9 @@ module.exports = [
   "careers": "https://lmwanubhav.darwinbox.in/ms/candidate/careers"
  },
  {
-  "name": "LambdaTest",
+  "name": "TestMu AI (formerly LambdaTest)",
   "country": "India",
-  "site": "lambdatest.com",
-  "careers": "https://www.lambdatest.com/careers"
+  "site": "testmuai.com"
  },
  {
   "name": "Larsen & Toubro",
@@ -264,10 +263,9 @@ module.exports = [
   "careers": "https://www.lirisoft.com/careers"
  },
  {
-  "name": "Lister Technologies",
+  "name": "Bounteous (Lister Technologies)",
   "country": "India",
-  "site": "listertechnologies.com",
-  "careers": "https://www.listertechnologies.com/careers/"
+  "site": "bounteous.com"
  },
  {
   "name": "Lithium Urban Technologies",
@@ -402,12 +400,6 @@ module.exports = [
   "careers": "https://www.logisticinfotech.com/career"
  },
  {
-  "name": "Logiticks",
-  "country": "India",
-  "site": "logiticks.com",
-  "careers": "https://www.logiticks.com/careers"
- },
- {
   "name": "Logituit",
   "country": "India",
   "site": "logituit.com",
@@ -438,10 +430,9 @@ module.exports = [
   "careers": "https://www.loylty.com/about/careers"
  },
  {
-  "name": "LTIMindtree",
+  "name": "LTM (formerly LTIMindtree)",
   "country": "India",
-  "site": "ltimindtree.com",
-  "careers": "https://www.ltimindtree.com/careers/"
+  "site": "ltm.com"
  },
  {
   "name": "Lucas-TVS",
@@ -767,9 +758,9 @@ module.exports = [
   "site": "lucidmotors.com"
  },
  {
-  "name": "Legato Health",
+  "name": "Carelon (formerly Legato Health)",
   "country": "India",
-  "site": "legatohealthtech.com"
+  "site": "carelon.com"
  },
  {
   "name": "Level AI",
@@ -1139,10 +1130,9 @@ module.exports = [
   "careers": "https://laderatechnology.com/careers"
  },
  {
-  "name": "Ladybird Web Solution",
+  "name": "Faveo Helpdesk (Ladybird Web)",
   "country": "India",
-  "site": "ladybirdweb.com",
-  "careers": "https://ladybirdweb.com/careers"
+  "site": "faveohelpdesk.com"
  },
  {
   "name": "Lakshya Software Technologies",
@@ -1240,9 +1230,9 @@ module.exports = [
   "site": "logicerp.com"
  },
  {
-  "name": "LogicLadder",
+  "name": "The Sustainability Cloud (LogicLadder)",
   "country": "India",
-  "site": "logicladder.com"
+  "site": "thesustainabilitycloud.com"
  },
  {
   "name": "Logic Systems & Solutions",

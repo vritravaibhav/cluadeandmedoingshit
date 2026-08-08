@@ -237,10 +237,9 @@ module.exports=[
   "site": "ignitho.com"
  },
  {
-  "name": "IGT Solutions",
+  "name": "Atain (formerly IGT Solutions)",
   "country": "India",
-  "site": "igtsolutions.com",
-  "careers": "https://www.igtsolutions.com/careers/"
+  "site": "atain.com"
  },
  {
   "name": "IHG Hotels & Resorts",
@@ -539,9 +538,9 @@ module.exports=[
   "site": "inedasystems.com"
  },
  {
-  "name": "Ineuron",
+  "name": "PW Skills (formerly iNeuron)",
   "country": "India",
-  "site": "ineuron.ai"
+  "site": "pwskills.com"
  },
  {
   "name": "iNextLabs",
@@ -559,9 +558,9 @@ module.exports=[
   "site": "infeedo.com"
  },
  {
-  "name": "Infibeam",
+  "name": "AvenuesAI (formerly Infibeam)",
   "country": "India",
-  "site": "infibeam.com"
+  "site": "avenuesai.com"
  },
  {
   "name": "Infilect",

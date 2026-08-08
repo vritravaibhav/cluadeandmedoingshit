@@ -102,9 +102,9 @@ module.exports=[
   "site": "roposo.com"
  },
  {
-  "name": "Roambee",
+  "name": "Decklar (formerly Roambee)",
   "country": "India",
-  "site": "roambee.com"
+  "site": "decklar.com"
  },
  {
   "name": "Routematic",

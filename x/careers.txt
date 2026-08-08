@@ -2,13 +2,13 @@
 OPEN ROLES AT 258 "W" COMPANIES
 Looking for : Software Engineer, ~2 years experience
 Priority    : Java, Dart/Flutter        Location preference : India
-Generated   : 2026-08-08 16:44:59 UTC  by test.js
+Generated   : 2026-08-08 19:25:24 UTC  by test.js
 ==============================================================================
 
-Boards read with open roles : 100
-Boards read, currently empty: 4
-Could not read              : 154
-Total open roles seen       : 1659
+Boards read with open roles : 101
+Boards read, currently empty: 5
+Could not read              : 152
+Total open roles seen       : 1669
 
 ##############################################################################
 # SECTION 1 — MATCHES: Software Engineer + Java/Dart/Flutter + ~2 yrs
@@ -661,6 +661,10 @@ Total open roles seen       : 1659
       exp req  : not stated    stack: —    score: 19
       url      : https://www.xmediasolution.com/2025/10/23/transform-your-career-journeys/
 
+>> Xapads Media  [India]
+    board    : zohorecruit:xapads (0 open)   —  0 open roles
+    (board reached successfully, but it has 0 open roles right now)
+
 >> Xcrino Business Solutions  [India]
     board    : feed:https://www.xcrino.com   —  10 open roles
     10 Compelling Reasons Why Businesses Should Embrace Android App Bundles
@@ -1097,10 +1101,10 @@ Total open roles seen       : 1659
 
 >> Xogito  [USA]
     board    : feed:https://www.xogito.com   —  10 open roles
-    Senior QA Automation Engineer (Java, Selenium & API Testing) – REF 42 – 46
+    React Native Developer – REF 81- 30
       location : n/a
-      exp req  : 20-24y / 3-7y    stack: Java + Android    score: 45
-      url      : https://www.xogito.com/jobs/senior-qa-automation-engineer-java-selenium-api-testing-ref-42-462/
+      exp req  : not stated    stack: Android    score: 42
+      url      : https://www.xogito.com/jobs/react-native-developer-ref-81-30/
 
 >> Xona Space Systems  [USA]
     board    : ashby:xona-space   —  62 open roles
@@ -1140,6 +1144,13 @@ Total open roles seen       : 1659
       location : n/a
       exp req  : not stated    stack: —    score: 4
       url      : https://xtenav.com/blog/5-best-speaker-placement-calculators-commercial-av-usa/
+
+>> xigxag  [UK]
+    board    : feed:https://xigxag.co.uk   —  10 open roles
+    Best Audiobooks for Commuters
+      location : n/a
+      exp req  : not stated    stack: —    score: 4
+      url      : https://xigxag.co.uk/blog/best-audiobooks-for-commuters/
 
 >> Xolo  [Estonia]
     board    : headings:https://www.xolo.io/zz-en/careers   —  4 open roles
@@ -1209,7 +1220,7 @@ Total open roles seen       : 1659
       url      : https://xysense.com/careers/
 
 ##############################################################################
-# SECTION 5 — NOT READ  (154 of 258)
+# SECTION 5 — NOT READ  (152 of 258)
 # lists-no-openings  = careers page loaded fine, published no vacancies
 # blocked-or-error    = bot wall / dead route (403, 404) — needs a browser
 # unreachable         = domain did not respond at all
@@ -1250,11 +1261,6 @@ Total open roles seen       : 1659
     http status  : 429, 0, 429, 429, 429, 429, 429, 429, 429, 429, 429, 429, 0, 403, 403, 403, 403, 403, 403, 403, 403, 403, 403
     ATS tried    : greenhouse:xsight -> no board ; lever:xsight -> no board ; ashby:xsight -> no board ; recruitee:xsight -> no board
 
->> Xapads Media  [India]  — blocked-or-error-response
-    careers page : undefined
-    http status  : 0, 307, 307, 307, 307, 307, 307, 307, 307, 307, 307, 0, 307, 307
-    ATS tried    : greenhouse:xapads -> no board ; lever:xapads -> no board ; ashby:xapads -> no board ; recruitee:xapads -> no board
-
 >> Xygeni  [Spain]  — blocked-or-error-response
     careers page : undefined
     http status  : 0, 404, 404, 404
@@ -1267,7 +1273,7 @@ Total open roles seen       : 1659
 
 >> Xtralogic  [USA]  — blocked-or-error-response
     careers page : undefined
-    http status  : 0, 404, 404, 404, 404, 404
+    http status  : 0, 404, 404, 404, 404
     ATS tried    : greenhouse:xtralogic -> no board ; lever:xtralogic -> no board ; ashby:xtralogic -> no board ; recruitee:xtralogic -> no board
 
 >> XL8  [USA]  — blocked-or-error-response
@@ -1378,6 +1384,11 @@ Total open roles seen       : 1659
     http status  : 200, 0, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200
     ATS tried    : greenhouse:xtremax -> no board ; lever:xtremax -> no board ; ashby:xtremax -> no board ; recruitee:xtremax -> no board
 
+>> Microsoft Advertising (Xandr)  [USA]  — careers-page-read-but-lists-no-openings
+    careers page : undefined
+    http status  : 200, 200, 200
+    ATS tried    : greenhouse:microsoftadvertising -> no board ; lever:microsoftadvertising -> no board ; ashby:microsoftadvertising -> no board ; recruitee:microsoftadvertising -> no board
+
 >> Xactware  [USA]  — careers-page-read-but-lists-no-openings
     careers page : https://www.verisk.com/company/careers/
     http status  : 200, 0, 200, 404, 200, 404, 404, 404, 200, 404, 404, 200
@@ -1385,7 +1396,7 @@ Total open roles seen       : 1659
 
 >> Xogene Services  [USA]  — careers-page-read-but-lists-no-openings
     careers page : https://xogene.com/careers/
-    http status  : 200, 0, 200, 404, 404, 404
+    http status  : 200, 0, 200, 404, 404
     ATS tried    : greenhouse:xogene -> no board ; lever:xogene -> no board ; ashby:xogene -> no board ; recruitee:xogene -> REJECTED (board is "?", not Xogene Services)
 
 >> Xponential Fitness  [USA]  — careers-page-read-but-lists-no-openings
@@ -1405,7 +1416,7 @@ Total open roles seen       : 1659
 
 >> Xpressdocs  [USA]  — careers-page-read-but-lists-no-openings
     careers page : https://www.xpressdocs.com/careers/
-    http status  : 200, 0, 200, 0, 0, 500, 500
+    http status  : 200, 0, 200, 500, 200
     ATS tried    : greenhouse:xpressdocs -> no board ; lever:xpressdocs -> no board ; ashby:xpressdocs -> no board ; recruitee:xpressdocs -> no board
 
 >> XiFin  [USA]  — careers-page-read-but-lists-no-openings
@@ -1577,6 +1588,11 @@ Total open roles seen       : 1659
     http status  : 0, 200, 200, 200, 200, 200, 404, 200, 200, 200, 200, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
     ATS tried    : greenhouse:xpedient -> no board ; lever:xpedient -> no board ; ashby:xpedient -> no board ; recruitee:xpedient -> no board
 
+>> X1 Discovery  [USA]  — careers-page-read-but-lists-no-openings
+    careers page : undefined
+    http status  : 0, 200, 200, 404
+    ATS tried    : greenhouse:x1discovery -> no board ; lever:x1discovery -> no board ; ashby:x1discovery -> no board ; recruitee:x1discovery -> no board
+
 >> Xcelligen  [USA]  — careers-page-read-but-lists-no-openings
     careers page : undefined
     http status  : 0, 200, 200, 404, 404
@@ -1611,6 +1627,11 @@ Total open roles seen       : 1659
     http status  : 0, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 0, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200
     ATS tried    : greenhouse:xunlei -> no board ; lever:xunlei -> no board ; ashby:xunlei -> no board ; recruitee:xunlei -> no board
 
+>> XRHealth  [Israel]  — careers-page-read-but-lists-no-openings
+    careers page : undefined
+    http status  : 0, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200
+    ATS tried    : greenhouse:xrhealth -> no board ; lever:xrhealth -> no board ; ashby:xrhealth -> no board ; recruitee:xrhealth -> no board
+
 >> Xenara  [USA]  — careers-page-read-but-lists-no-openings
     careers page : undefined
     http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200, 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200, 200
@@ -1618,7 +1639,7 @@ Total open roles seen       : 1659
 
 >> XOMAD  [USA]  — careers-page-read-but-lists-no-openings
     careers page : undefined
-    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 200, 404, 200
+    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 200
     ATS tried    : greenhouse:xomad -> no board ; lever:xomad -> no board ; ashby:xomad -> no board ; recruitee:xomad -> no board
 
 >> Xomiro  [USA]  — careers-page-read-but-lists-no-openings
@@ -1678,7 +1699,7 @@ Total open roles seen       : 1659
 
 >> Xploree  [India]  — no-job-data-found
     careers page : undefined
-    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200, 0, 404
+    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
     ATS tried    : greenhouse:xploree -> no board ; lever:xploree -> no board ; ashby:xploree -> no board ; recruitee:xploree -> no board
 
 >> Xsys Digital  [India]  — no-job-data-found
@@ -1705,11 +1726,6 @@ Total open roles seen       : 1659
     careers page : undefined
     http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200, 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
     ATS tried    : greenhouse:xactus -> no board ; lever:xactus -> no board ; ashby:xactus -> no board ; recruitee:xactus -> no board
-
->> Xandr  [USA]  — no-job-data-found
-    careers page : undefined
-    http status  : 0, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 0, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, skipped-off-domain
-    ATS tried    : greenhouse:xandr -> no board ; lever:xandr -> no board ; ashby:xandr -> no board ; recruitee:xandr -> no board
 
 >> Xylo.ai  [USA]  — no-job-data-found
     careers page : undefined
@@ -1778,7 +1794,7 @@ Total open roles seen       : 1659
 
 >> Xohani Solutions  [India]  — no-job-data-found
     careers page : undefined
-    http status  : 0, 0, 404, 404, 404, 404, 404, 404, 404, 404, 200
+    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
     ATS tried    : greenhouse:xohani -> no board ; lever:xohani -> no board ; ashby:xohani -> no board ; recruitee:xohani -> no board
 
 >> Xsilica Software Solutions  [India]  — no-job-data-found
@@ -1888,7 +1904,7 @@ Total open roles seen       : 1659
 
 >> Xenapto  [UK]  — no-job-data-found
     careers page : undefined
-    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200, 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
+    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 500, 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
     ATS tried    : greenhouse:xenapto -> no board ; lever:xenapto -> no board ; ashby:xenapto -> no board ; recruitee:xenapto -> no board
 
 >> Xeropan  [Hungary]  — no-job-data-found
@@ -1926,10 +1942,10 @@ Total open roles seen       : 1659
     http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
     ATS tried    : greenhouse:xrmedix -> no board ; lever:xrmedix -> no board ; ashby:xrmedix -> no board ; recruitee:xrmedix -> no board
 
->> XSELL Technologies  [USA]  — no-job-data-found
+>> Attune (formerly XSELL)  [USA]  — no-job-data-found
     careers page : undefined
-    http status  : 404, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 404
-    ATS tried    : greenhouse:xsell -> no board ; lever:xsell -> no board ; ashby:xsell -> no board ; recruitee:xsell -> no board
+    http status  : 404, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200, 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200, 200
+    ATS tried    : greenhouse:attune -> no board ; lever:attune -> no board ; ashby:attune -> no board ; recruitee:attune -> no board
 
 >> XTrade  [Cyprus]  — no-job-data-found
     careers page : undefined
@@ -1959,17 +1975,5 @@ Total open roles seen       : 1659
     http status  : 
 
 >> XSEED Education  [India]  — timed-out
-    careers page : undefined
-    http status  : 
-
->> X1 Discovery  [USA]  — timed-out
-    careers page : undefined
-    http status  : 
-
->> XRHealth  [Israel]  — timed-out
-    careers page : undefined
-    http status  : 
-
->> xigxag  [UK]  — timed-out
     careers page : undefined
     http status  : 

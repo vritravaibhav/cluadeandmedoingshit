@@ -2,13 +2,13 @@
 OPEN ROLES AT 257 "W" COMPANIES
 Looking for : Software Engineer, ~2 years experience
 Priority    : Java, Dart/Flutter        Location preference : India
-Generated   : 2026-08-08 16:45:11 UTC  by test.js
+Generated   : 2026-08-08 19:29:49 UTC  by test.js
 ==============================================================================
 
-Boards read with open roles : 87
+Boards read with open roles : 88
 Boards read, currently empty: 2
-Could not read              : 168
-Total open roles seen       : 1141
+Could not read              : 167
+Total open roles seen       : 1152
 
 ##############################################################################
 # SECTION 1 — MATCHES: Software Engineer + Java/Dart/Flutter + ~2 yrs
@@ -900,7 +900,7 @@ Total open roles seen       : 1141
       exp req  : not stated    stack: —    score: 4
       url      : https://jobs.lever.co/younited/f7f15d5e-ecbb-4b73-8a82-89ba5241627a
 
->> Yousign  [France]
+>> Youtrust (formerly Yousign)  [France]
     board    : headings:https://www.welcometothejungle.com/en/companies-v1/yousign/jobs   —  2 open roles
     I&#x27;m a recruiter
       location : n/a
@@ -991,6 +991,13 @@ Total open roles seen       : 1141
       exp req  : not stated    stack: —    score: 34
       url      : https://yggdrasilgaming.com/career/offer/backend-developer-design-math-744000136253975
 
+>> HappyCo (formerly Yuhu)  [Canada]
+    board    : lever:happyco   —  11 open roles
+    SMB Account Executive
+      location : United States
+      exp req  : 2-6y    stack: —    score: 30
+      url      : https://jobs.lever.co/happyco/3045bdd3-e7a9-48a5-a3c4-e048c4a04244
+
 >> Y Soft  [Czech Republic]
     board    : greenhouse:ysoft   —  1 open role
     Technical Solution Consultant
@@ -1041,7 +1048,7 @@ Total open roles seen       : 1141
       url      : https://yesdevs.com/job/senior-full-stack-developer-m-f-d/
 
 ##############################################################################
-# SECTION 5 — NOT READ  (168 of 257)
+# SECTION 5 — NOT READ  (167 of 257)
 # lists-no-openings  = careers page loaded fine, published no vacancies
 # blocked-or-error    = bot wall / dead route (403, 404) — needs a browser
 # unreachable         = domain did not respond at all
@@ -1063,14 +1070,14 @@ Total open roles seen       : 1141
     http status  : 404, 500, 500, 404, 404
     ATS tried    : greenhouse:yagnaiq -> no board ; lever:yagnaiq -> no board ; ashby:yagnaiq -> no board ; recruitee:yagnaiq -> no board
 
->> Yieldstreet  [USA]  — blocked-or-error-response
-    careers page : https://www.yieldstreet.com/careers/
-    http status  : 403, 0, 403, 403, 403, 403, 403, 403, 403, 403, 403, 403, 0, 403, 403, 403, 403, 403, 403, 403, 403, 403, 403
-    ATS tried    : greenhouse:yieldstreet -> no board ; lever:yieldstreet -> no board ; ashby:yieldstreet -> no board ; recruitee:yieldstreet -> no board
+>> Willow Wealth (Yieldstreet)  [USA]  — blocked-or-error-response
+    careers page : undefined
+    http status  : 0, 403, 403, 403, 403, 403, 403, 403, 403, 403, 403, 0, 403, 403, 403, 403, 403, 403, 403, 403, 403, 403
+    ATS tried    : greenhouse:willowwealth -> no board ; lever:willowwealth -> no board ; ashby:willowwealth -> no board ; recruitee:willowwealth -> no board
 
 >> Yash Infosolutions  [India]  — blocked-or-error-response
     careers page : undefined
-    http status  : 0, 404, 404, 404, 500, 404
+    http status  : 0, 404, 404, 404, 404, 404, 404, 404
     ATS tried    : greenhouse:yashinfosolutions -> no board ; lever:yashinfosolutions -> no board ; ashby:yashinfosolutions -> no board ; recruitee:yashinfosolutions -> no board
 
 >> Yashvi Infosys  [India]  — blocked-or-error-response
@@ -1205,18 +1212,13 @@ Total open roles seen       : 1141
 
 >> Yandex  [Global]  — careers-page-read-but-lists-no-openings
     careers page : https://yandex.com/jobs/
-    http status  : 200, 404, 404, 404, 200, 404, 404, 404, 404
+    http status  : 200, 404, 404, 404, 200
     ATS tried    : greenhouse:yandex -> no board ; lever:yandex -> no board ; ashby:yandex -> no board ; recruitee:yandex -> no board
 
 >> Yellow Pages Canada  [Canada]  — careers-page-read-but-lists-no-openings
     careers page : https://corporate.yp.ca/yellow-pages-careers
     http status  : 200, 200, 404
     ATS tried    : greenhouse:yellowpagescanada -> no board ; lever:yellowpagescanada -> no board ; ashby:yellowpagescanada -> no board ; recruitee:yellowpagescanada -> no board
-
->> Yuhu  [Canada]  — careers-page-read-but-lists-no-openings
-    careers page : https://yuhu.io/careers/
-    http status  : 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 0, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200
-    ATS tried    : greenhouse:yuhu -> no board ; lever:yuhu -> no board ; ashby:yuhu -> no board ; recruitee:yuhu -> no board
 
 >> Ynvisible Interactive  [Portugal]  — careers-page-read-but-lists-no-openings
     careers page : undefined
@@ -1280,7 +1282,7 @@ Total open roles seen       : 1141
 
 >> YOptima  [India]  — careers-page-read-but-lists-no-openings
     careers page : https://yoptima.com/careers/
-    http status  : 200, 0, 200, 404, 404, 404, 404, 404, 200, 200, 404
+    http status  : 200, 0, 200, 404, 404, 404, 404, 404, 200
     ATS tried    : greenhouse:yoptima -> no board ; lever:yoptima -> no board ; ashby:yoptima -> no board ; recruitee:yoptima -> no board
 
 >> Yosoft Solutions  [India]  — careers-page-read-but-lists-no-openings
@@ -1559,7 +1561,7 @@ Total open roles seen       : 1141
 
 >> Yashi Consulting  [India]  — no-job-data-found
     careers page : undefined
-    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200, 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
+    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200, 0, 404, 404, 0, 404, 404, 404, 404, 404, 404, 200
     ATS tried    : greenhouse:yashiconsulting -> no board ; lever:yashiconsulting -> no board ; ashby:yashiconsulting -> no board ; recruitee:yashiconsulting -> no board
 
 >> Yashi Technologies  [India]  — no-job-data-found
@@ -1636,11 +1638,6 @@ Total open roles seen       : 1141
     careers page : undefined
     http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200, 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
     ATS tried    : greenhouse:yessoftech -> no board ; lever:yessoftech -> no board ; ashby:yessoftech -> no board ; recruitee:yessoftech -> no board
-
->> Yez Studio  [India]  — no-job-data-found
-    careers page : undefined
-    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200, 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
-    ATS tried    : greenhouse:yezstudio -> no board ; lever:yezstudio -> no board ; ashby:yezstudio -> no board ; recruitee:yezstudio -> no board
 
 >> Yenmo  [India]  — no-job-data-found
     careers page : undefined
@@ -1866,6 +1863,10 @@ Total open roles seen       : 1141
     http status  : 
 
 >> Yves Rocher  [France]  — timed-out
+    careers page : undefined
+    http status  : 
+
+>> Yez Studio  [India]  — timed-out
     careers page : undefined
     http status  : 
 

@@ -4,6 +4,56 @@ You track progress here. I update this file every cycle. Newest first.
 
 ---
 
+## 2026-08-08 (cycle 6)
+
+### Where the numbers stand
+
+| | Now | Yesterday |
+|---|---|---|
+| Companies | **5,827** | 2,907 |
+| Postings swept | **67,372** | 54,574 |
+| Roles in your 4 folders | **2,495** | 1,849 |
+
+| Folder | Roles | Companies |
+|---|---|---|
+| `1-java-flutter-2yr/` **(start here)** | **245** | 201 |
+| `2-java-flutter-3yr/` | 180 | 140 |
+| `3-software-2yr/` | 1,460 | 821 |
+| `4-software-3yr/` | 610 | 371 |
+
+### The render pass finally worked
+Last cycle it hung for 4h40m and I lost all 163 recovered boards, because I had
+it save results only at the very end. Rewritten to save each board the moment
+it finishes. This run: **200 boards recovered, 2,652 postings added** — those
+are companies that had told the plain scanner they had no openings.
+
+### All 26 letters now researched
+Letter `i` was the last one and it died on the quota wall mid-run; it is being
+redone now. Every other letter has had live research: **+823 companies** this
+cycle (a, c, e, m, s).
+
+### Freelance — unchanged since yesterday
+`weekendplan_freelance/` still has 60 / 120 / 80 items across the three folders,
+from 2,870 postings and 9 gig marketplaces. Reminder of the one action worth
+doing by hand: activate the **Freelancer.com Plus free trial** (₹0, 100 bids vs
+6). Everything else is downstream of that.
+
+### Honest note on quota
+I hit the session limit at 10:41 this morning, mid-research. The loop did what
+it is designed to do — stopped, kept the finished work, and waited for the
+1:40pm reset rather than failing halfway through a write. Five of six letters
+had already landed, so nothing was lost.
+
+### Next
+1. Rescan with the 823 new companies (running now, free — no quota).
+2. Re-sample boards still reporting "no openings" after the render pass; 1,021
+   of 1,221 did not recover and I have not yet checked whether they are genuinely
+   empty or a second extractor gap.
+3. Freelance: the adapters are new — check their yield holds up over a few days
+   before trusting the rankings.
+
+---
+
 ## 2026-08-08 (cycle 4)
 
 ### What you asked for in `vaibhavclaude.md`

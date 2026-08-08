@@ -1,133 +1,245 @@
-Checking 124 companies (concurrency 8)
+Checking 236 companies (concurrency 8)
 
-[  1/124] KocharTech                    10 jobs  via feed:https://www.kochartech.com
-[  2/124] KPIT Technologies              5 jobs  via headings:https://www.kpit.com/career-api-test/
-[  3/124] Kaar Technologies              2 jobs  via headings:https://www.kaartech.com/career/
-[  4/124] Kellton                        2 jobs  via headings:https://www.kellton.com/career
-[  5/124] Kumaran Systems               56 jobs  via zohorecruit:careers.kumaran.com
-[  6/124] Kanerika                       0 jobs  via zohorecruit:kanerika (0 open)
-[  7/124] Kensium                      !! blocked-or-error-response
-[  8/124] Katalyst Technologies         30 jobs  via greenhouse:katalyst
-[  9/124] Kovair Software                3 jobs  via headings:https://www.kovair.com/careers/
-[ 10/124] KeyValue Software Systems      0 jobs  via zohorecruit:keyvalue (0 open)
-[ 11/124] KORCOMPTENZ                  !! careers-page-read-but-lists-no-openings
-[ 12/124] KRITIKAL Solutions            10 jobs  via feed:https://kritikalsolutions.com
-[ 13/124] Kiprosh                      !! careers-page-read-but-lists-no-openings
-[ 14/124] Kanhasoft                     21 jobs  via headings:https://kanhasoft.com/career.html
-[ 15/124] KANINI Software Solutions    !! careers-page-read-but-lists-no-openings
-[ 16/124] KrishaWeb                      1 jobs  via wordpress:https://www.krishaweb.com
-[ 17/124] Klizo Solutions               12 jobs  via feed:https://careers.klizos.com
-[ 18/124] KTree Computer Solutions      10 jobs  via feed:https://ktree.com   ** 1 MATCH **
-[ 19/124] Konstant Infosolutions       !! careers-page-read-but-lists-no-openings
-[ 20/124] Kindlebit Solutions          !! careers-page-read-but-lists-no-openings
-[ 21/124] Kody Technolab                15 jobs  via wordpress:https://kodytechnolab.com
-[ 22/124] Knovator Technologies          2 jobs  via wordpress:https://knovator.com
-[ 23/124] Kodework                      65 jobs  via feed:https://kodework.com
-[ 24/124] KiwiTech                       2 jobs  via headings:https://www.kiwitech.com/careers
-[ 25/124] Kevit Technologies             4 jobs  via keka:kevit
-[ 26/124] Kalpavruksh Technologies      10 jobs  via feed:https://kalpavruksh.com
-[ 27/124] Kwebmaker                    !! careers-page-read-but-lists-no-openings
-[ 28/124] Koenig Solutions              39 jobs  via headings:https://www.koenig-solutions.com/career
-[ 29/124] Kiya.ai                      !! careers-page-read-but-lists-no-openings
-[ 30/124] Kapture CX                    34 jobs  via keka:kapturecrm
-[ 31/124] Keka                         !! careers-page-read-but-lists-no-openings
-[ 32/124] Kissflow                       5 jobs  via headings:https://careers.kissflow.com/
-[ 33/124] Kickdrum                     !! careers-page-read-but-lists-no-openings
-[ 34/124] KGiSL                        !! timed-out
-[ 35/124] Kovai.co                       5 jobs  via headings:https://www.kovai.co/careers/
-[ 36/124] Kylas                          8 jobs  via keka:kylastechnologies
-[ 37/124] Krify Software Technologies   10 jobs  via feed:https://krify.co
-[ 38/124] Konnect Insights               4 jobs  via headings:https://konnectinsights.com/careers/
-[ 39/124] KNOLSKAPE                     17 jobs  via keka:knolskape
-[ 40/124] KonfHub                      !! careers-page-read-but-lists-no-openings
-[ 41/124] Kore.ai                        2 jobs  via headings:https://www.kore.ai/careers
-[ 42/124] Kanverse.ai                  !! careers-page-read-but-lists-no-openings
-[ 43/124] KDK Software                   5 jobs  via headings:https://www.kdksoftware.com/careers/
-[ 44/124] Klenty                       !! careers-page-read-but-lists-no-openings
-[ 45/124] Knowlarity                   !! careers-page-unreachable
-[ 46/124] Kale Logistics Solutions     !! careers-page-read-but-lists-no-openings
-[ 47/124] Kognitos                       6 jobs  via ashby:Kognitos
-[ 48/124] Kimbal Technologies            4 jobs  via headings:https://kimbal.io/careers/
-[ 49/124] Kredily                      !! careers-page-read-but-lists-no-openings
-[ 50/124] Karix Mobile                 !! careers-page-read-but-lists-no-openings
-[ 51/124] Kissht                         2 jobs  via headings:https://www.kissht.com/career
-[ 52/124] KreditBee                    !! careers-page-read-but-lists-no-openings
-[ 53/124] KareXpert Technologies         6 jobs  via headings:https://www.karexpert.com/career/
-[ 54/124] KloudGin                      12 jobs  via wordpress:https://kloudgin.com
-[ 55/124] Kuhoo                          2 jobs  via keka:kuhoo
-[ 56/124] Kodo                         !! careers-page-read-but-lists-no-openings
-[ 57/124] Kloudspot                    !! careers-page-read-but-lists-no-openings
-[ 58/124] KFin Technologies              5 jobs  via headings:https://careers.kfintech.com/
-[ 59/124] Kaleidofin                     7 jobs  via headings:https://www.kaleidofin.com/careers
-[ 60/124] Khatabook                    !! careers-page-read-but-lists-no-openings
-[ 61/124] Kutumb                        13 jobs  via keka:primetrace
-[ 62/124] KredX                         13 jobs  via headings:https://www.kredx.com/join-our-team
-[ 63/124] Kazam                        !! careers-page-read-but-lists-no-openings
-[ 64/124] Kuku FM                      !! careers-page-read-but-lists-no-openings
-[ 65/124] Kyvos Insights                 2 jobs  via headings:https://www.kyvosinsights.com/careers/
-[ 66/124] KoinX                        !! careers-page-read-but-lists-no-openings
-[ 67/124] Kotak Mahindra Bank            2 jobs  via headings:https://www.kotak.bank.in/en/about-us/careers.html
-[ 68/124] Kredent InfoEdge               3 jobs  via feed:https://kredent.com
-[ 69/124] KnowledgeHut                  60 jobs  via headings:https://www.knowledgehut.com/career
-[ 70/124] K12 Techno Services          !! careers-page-read-but-lists-no-openings
-[ 71/124] Kalvium                       10 jobs  via feed:https://kalvium.com
-[ 72/124] KEC International            !! careers-page-read-but-lists-no-openings
-[ 73/124] Kotak Mahindra Life Insuranc   6 jobs  via headings:https://www.kotaklife.com/why-kotak-life/career
-[ 74/124] Kofluence                    !! careers-page-read-but-lists-no-openings
-[ 75/124] Kalpataru Projects Internati   1 jobs  via successfactors:careers.kalpataruprojects.com
-[ 76/124] Kirloskar Ferrous Industries !! careers-page-read-but-lists-no-openings
-[ 77/124] Karnataka Bank               !! careers-page-read-but-lists-no-openings
-[ 78/124] Kshema General Insurance       0 jobs  via zohorecruit:kshema.co (0 open)
-[ 79/124] Kirloskar Oil Engines        !! careers-page-read-but-lists-no-openings
-[ 80/124] Kolte-Patil Developers       !! careers-page-read-but-lists-no-openings
-[ 81/124] Kansai Nerolac Paints        !! no-job-data-found
-[ 82/124] Kajaria Ceramics             !! careers-page-read-but-lists-no-openings
-[ 83/124] Kyndryl                       40 jobs  via workday:kyndryl
-[ 84/124] KIMS Hospitals               !! careers-page-read-but-lists-no-openings
-[ 85/124] Kotak Securities             !! careers-page-read-but-lists-no-openings
-[ 86/124] KONE                          40 jobs  via workday:kone   ** 1 MATCH **
-[ 87/124] Kalyan Jewellers             !! careers-page-read-but-lists-no-openings
-[ 88/124] KLA                           40 jobs  via workday:kla
-[ 89/124] Kenvue                         7 jobs  via feed:https://www.kenvue.com
-[ 90/124] Kantar                        40 jobs  via workday:kantar
-[ 91/124] Kennametal                    37 jobs  via successfactors:jobs.kennametal.com
-[ 92/124] Koch                         !! careers-page-read-but-lists-no-openings
-[ 93/124] KPMG India                   !! careers-page-read-but-lists-no-openings
-[ 94/124] Kimberly-Clark               !! blocked-or-error-response
-[ 95/124] Kearney                      !! careers-page-read-but-lists-no-openings
-[ 96/124] KBR                           99 jobs  via phenom:_self
-[ 97/124] Keysight Technologies         36 jobs  via sitemap:https://jobs.keysight.com
-[ 98/124] Khoros                         6 jobs  via headings:https://careers.ignitetech.ai/jobs
-[ 99/124] Kinaxis                        2 jobs  via headings:https://www.kinaxis.com/en/careers
-[100/124] Kong                          93 jobs  via ashby:kong   ** 2 MATCH **
-[101/124] Kroll                        !! careers-page-read-but-lists-no-openings
-[102/124] KRAFTON                       78 jobs  via greenhouse:krafton
-[103/124] Kwalee                         6 jobs  via lever:kwalee
-[104/124] Konica Minolta               !! no-job-data-found
-[105/124] Kalypso                       40 jobs  via workday:rockwellautomation
-[106/124] KUKA                         !! careers-page-read-but-lists-no-openings
-[107/124] Kroger                       !! timed-out
-[108/124] KSB                           40 jobs  via workday:ksb
-[109/124] Kohler                       !! timed-out
-[110/124] KION Group                    40 jobs  via workday:kiongroup
-[111/124] Knorr-Bremse                 !! timed-out
-[112/124] Krones                         3 jobs  via headings:https://www.krones.com/en/company/career.php
-[113/124] KnowBe4                       80 jobs  via greenhouse:knowbe4
-[114/124] Komatsu                       48 jobs  via successfactors:komatsu.jobs
-[115/124] Kaleyra                      !! careers-page-read-but-lists-no-openings
-[116/124] Komprise                     !! careers-page-read-but-lists-no-openings
-[117/124] Karza Technologies            10 jobs  via feed:https://perfios.ai
-[118/124] Kerry Group                  !! careers-page-read-but-lists-no-openings
-[119/124] Keywords Studios             !! careers-page-read-but-lists-no-openings
-[120/124] Rysun Labs                    10 jobs  via feed:https://www.rysun.com
-[121/124] Karbon Card                  !! no-job-data-found
-[122/124] Kongsberg                     20 jobs  via sitemap:https://www.kongsberg.com
-[123/124] KloudPortal                   10 jobs  via feed:https://kloudportal.ai
-[124/124] Knowledge Lens               !! timed-out
+[  1/236] KocharTech                    10 jobs  via feed:https://www.kochartech.com
+[  2/236] Kellton                        2 jobs  via headings:https://www.kellton.com/career
+[  3/236] Kaar Technologies              2 jobs  via headings:https://www.kaartech.com/career/
+[  4/236] KPIT Technologies            !! careers-page-read-but-lists-no-openings
+[  5/236] Kumaran Systems               56 jobs  via zohorecruit:careers.kumaran.com
+[  6/236] Kensium                      !! blocked-or-error-response
+[  7/236] Kovair Software                3 jobs  via headings:https://www.kovair.com/careers/
+[  8/236] KGiSL                         17 jobs  via feed:https://www.kgisl.com
+[  9/236] Kanerika                       0 jobs  via zohorecruit:kanerika (0 open)
+[ 10/236] Katalyst Technologies         30 jobs  via greenhouse:katalyst
+[ 11/236] KeyValue Software Systems      0 jobs  via zohorecruit:keyvalue (0 open)
+[ 12/236] Kiprosh                      !! careers-page-read-but-lists-no-openings
+[ 13/236] Kanhasoft                     21 jobs  via headings:https://kanhasoft.com/career.html
+[ 14/236] KRITIKAL Solutions            10 jobs  via feed:https://kritikalsolutions.com
+[ 15/236] KrishaWeb                      1 jobs  via wordpress:https://www.krishaweb.com
+[ 16/236] KANINI Software Solutions    !! careers-page-read-but-lists-no-openings
+[ 17/236] Konstant Infosolutions       !! careers-page-read-but-lists-no-openings
+[ 18/236] KTree Computer Solutions      10 jobs  via feed:https://ktree.com   ** 1 MATCH **
+[ 19/236] Kindlebit Solutions          !! careers-page-read-but-lists-no-openings
+[ 20/236] Klizo Solutions               12 jobs  via feed:https://careers.klizos.com
+[ 21/236] Kody Technolab                15 jobs  via wordpress:https://kodytechnolab.com
+[ 22/236] Knovator Technologies          2 jobs  via wordpress:https://knovator.com
+[ 23/236] Kodework                      65 jobs  via feed:https://kodework.com
+[ 24/236] KiwiTech                       2 jobs  via headings:https://www.kiwitech.com/careers
+[ 25/236] KORCOMPTENZ                  !! careers-page-read-but-lists-no-openings
+[ 26/236] Kwebmaker                    !! careers-page-read-but-lists-no-openings
+[ 27/236] Koenig Solutions              39 jobs  via headings:https://www.koenig-solutions.com/career
+[ 28/236] Krify Software Technologies   10 jobs  via feed:https://krify.co
+[ 29/236] Kiya.ai                      !! careers-page-read-but-lists-no-openings
+[ 30/236] Kevit Technologies             4 jobs  via keka:kevit
+[ 31/236] Kalpavruksh Technologies      10 jobs  via feed:https://kalpavruksh.com
+[ 32/236] Kapture CX                    34 jobs  via keka:kapturecrm
+[ 33/236] Keka                         !! careers-page-read-but-lists-no-openings
+[ 34/236] Kovai.co                       5 jobs  via headings:https://www.kovai.co/careers/
+[ 35/236] Kissflow                       5 jobs  via headings:https://careers.kissflow.com/
+[ 36/236] Kylas                          8 jobs  via keka:kylastechnologies
+[ 37/236] Konnect Insights               4 jobs  via headings:https://konnectinsights.com/careers/
+[ 38/236] Kickdrum                     !! careers-page-read-but-lists-no-openings
+[ 39/236] KonfHub                      !! careers-page-read-but-lists-no-openings
+[ 40/236] KNOLSKAPE                     17 jobs  via keka:knolskape
+[ 41/236] Kanverse.ai                  !! careers-page-read-but-lists-no-openings
+[ 42/236] Kore.ai                        2 jobs  via headings:https://www.kore.ai/careers
+[ 43/236] Klenty                       !! careers-page-read-but-lists-no-openings
+[ 44/236] KDK Software                   5 jobs  via headings:https://www.kdksoftware.com/careers/
+[ 45/236] Kognitos                       6 jobs  via ashby:Kognitos
+[ 46/236] Knowlarity                   !! careers-page-unreachable
+[ 47/236] Kale Logistics Solutions     !! careers-page-read-but-lists-no-openings
+[ 48/236] Kredily                      !! careers-page-read-but-lists-no-openings
+[ 49/236] Khatabook                    !! careers-page-read-but-lists-no-openings
+[ 50/236] Kimbal Technologies            4 jobs  via headings:https://kimbal.io/careers/
+[ 51/236] Karix Mobile                 !! careers-page-read-but-lists-no-openings
+[ 52/236] KareXpert Technologies         6 jobs  via headings:https://www.karexpert.com/career/
+[ 53/236] Kissht                         2 jobs  via headings:https://www.kissht.com/career
+[ 54/236] KreditBee                    !! careers-page-read-but-lists-no-openings
+[ 55/236] KloudGin                      12 jobs  via wordpress:https://kloudgin.com
+[ 56/236] KFin Technologies              5 jobs  via headings:https://careers.kfintech.com/
+[ 57/236] Kuhoo                          2 jobs  via keka:kuhoo
+[ 58/236] Kodo                         !! careers-page-read-but-lists-no-openings
+[ 59/236] Kazam                        !! careers-page-read-but-lists-no-openings
+[ 60/236] Kaleidofin                     7 jobs  via headings:https://www.kaleidofin.com/careers
+[ 61/236] Kloudspot                    !! careers-page-read-but-lists-no-openings
+[ 62/236] Kutumb                        13 jobs  via keka:primetrace
+[ 63/236] KredX                         13 jobs  via headings:https://www.kredx.com/join-our-team
+[ 64/236] KoinX                        !! careers-page-read-but-lists-no-openings
+[ 65/236] Kuku FM                      !! careers-page-read-but-lists-no-openings
+[ 66/236] Kyvos Insights                 2 jobs  via headings:https://www.kyvosinsights.com/careers/
+[ 67/236] KnowledgeHut                  60 jobs  via headings:https://www.knowledgehut.com/career
+[ 68/236] Kredent InfoEdge               3 jobs  via feed:https://kredent.com
+[ 69/236] Kotak Mahindra Life Insuranc   6 jobs  via headings:https://www.kotaklife.com/why-kotak-life/career
+[ 70/236] Kalvium                       10 jobs  via feed:https://kalvium.com
+[ 71/236] Kotak Mahindra Bank            2 jobs  via headings:https://www.kotak.bank.in/en/about-us/careers.html
+[ 72/236] Kofluence                    !! careers-page-read-but-lists-no-openings
+[ 73/236] KEC International            !! careers-page-read-but-lists-no-openings
+[ 74/236] Kalpataru Projects Internati   1 jobs  via successfactors:careers.kalpataruprojects.com
+[ 75/236] Kirloskar Oil Engines        !! careers-page-read-but-lists-no-openings
+[ 76/236] Karnataka Bank               !! careers-page-read-but-lists-no-openings
+[ 77/236] Kirloskar Ferrous Industries !! careers-page-read-but-lists-no-openings
+[ 78/236] K12 Techno Services          !! careers-page-read-but-lists-no-openings
+[ 79/236] Kshema General Insurance       0 jobs  via zohorecruit:kshema.co (0 open)
+[ 80/236] Kolte-Patil Developers       !! careers-page-read-but-lists-no-openings
+[ 81/236] Kansai Nerolac Paints        !! no-job-data-found
+[ 82/236] KIMS Hospitals               !! careers-page-read-but-lists-no-openings
+[ 83/236] Kajaria Ceramics             !! careers-page-read-but-lists-no-openings
+[ 84/236] Kyndryl                       40 jobs  via workday:kyndryl
+[ 85/236] KONE                          40 jobs  via workday:kone   ** 1 MATCH **
+[ 86/236] Kalyan Jewellers             !! careers-page-read-but-lists-no-openings
+[ 87/236] KLA                           40 jobs  via workday:kla
+[ 88/236] Kotak Securities             !! careers-page-read-but-lists-no-openings
+[ 89/236] Kenvue                         7 jobs  via feed:https://www.kenvue.com
+[ 90/236] Kantar                        40 jobs  via workday:kantar
+[ 91/236] Kennametal                    37 jobs  via successfactors:jobs.kennametal.com
+[ 92/236] KPMG India                   !! careers-page-read-but-lists-no-openings
+[ 93/236] Koch                         !! careers-page-read-but-lists-no-openings
+[ 94/236] Kimberly-Clark               !! blocked-or-error-response
+[ 95/236] Kroll                        !! careers-page-read-but-lists-no-openings
+[ 96/236] KBR                           96 jobs  via phenom:_self
+[ 97/236] Kinaxis                        2 jobs  via headings:https://www.kinaxis.com/en/careers
+[ 98/236] Keysight Technologies         36 jobs  via sitemap:https://jobs.keysight.com
+[ 99/236] Kong                          93 jobs  via ashby:kong   ** 2 MATCH **
+[100/236] Khoros                         6 jobs  via headings:https://careers.ignitetech.ai/jobs
+[101/236] Kearney                      !! careers-page-read-but-lists-no-openings
+[102/236] Kwalee                         6 jobs  via lever:kwalee
+[103/236] KRAFTON                       78 jobs  via greenhouse:krafton
+[104/236] Kroger                       !! timed-out
+[105/236] Kohler                       !! timed-out
+[106/236] Knorr-Bremse                 !! timed-out
+[107/236] KSB                           40 jobs  via workday:ksb
+[108/236] Kalypso                       40 jobs  via workday:rockwellautomation
+[109/236] Konica Minolta               !! no-job-data-found
+[110/236] KUKA                         !! careers-page-read-but-lists-no-openings
+[111/236] KION Group                    40 jobs  via workday:kiongroup
+[112/236] KnowBe4                       81 jobs  via greenhouse:knowbe4
+[113/236] Kongsberg                     10 jobs  via feed:https://karriere.ksat.no
+[114/236] Komatsu                       48 jobs  via successfactors:komatsu.jobs
+[115/236] Karbon Card                  !! no-job-data-found
+[116/236] Komprise                     !! careers-page-read-but-lists-no-openings
+[117/236] Kreeti Technologies            2 jobs  via headings:https://careers.kreeti.com/
+[118/236] Kovaion Consulting            10 jobs  via feed:https://www.kovaion.com
+[119/236] Keyideas Infotech            !! careers-page-unreachable
+[120/236] Kaleyra                      !! no-job-data-found
+[121/236] Kanak Infosystems            !! blocked-or-error-response
+[122/236] Kerry Group                  !! careers-page-read-but-lists-no-openings
+[123/236] Kilowott                      12 jobs  via keka:kilowott
+[124/236] Karmick Solutions            !! careers-page-read-but-lists-no-openings
+[125/236] KloudPortal                   10 jobs  via feed:https://kloudportal.ai
+[126/236] Krazy Mantra                  60 jobs  via headings:https://www.krazymantra.com/career.php
+[127/236] Keywords Studios             !! careers-page-read-but-lists-no-openings
+[128/236] Kenmark ITan Solutions       !! no-job-data-found
+[129/236] Kompanions                   !! no-job-data-found
+[130/236] Kodehash Technologies        !! careers-page-read-but-lists-no-openings
+[131/236] Kalycito Infotech            !! careers-page-unreachable
+[132/236] KTern.AI                     !! careers-page-unreachable
+[133/236] KnackForge                   !! careers-page-read-but-lists-no-openings
+[134/236] Kaizenat Technologies        !! no-job-data-found
+[135/236] Kloudrac Softwares           !! careers-page-read-but-lists-no-openings
+[136/236] Krones                         3 jobs  via headings:https://www.krones.com/en/company/career.php
+[137/236] Kloudone                     !! no-job-data-found
+[138/236] Kalibroida Technologies      !! careers-page-read-but-lists-no-openings
+[139/236] Ksolves India                 13 jobs  via headings:https://www.ksolves.com/careers
+[140/236] Kansoft Solutions             14 jobs  via headings:https://kansoftware.com/careers/why-join-us
+[141/236] Konverge Technologies         15 jobs  via headings:https://konverge.co.in/career/
+[142/236] Kipi.ai                      !! no-job-data-found
+[143/236] Kombee Technologies            3 jobs  via sitemap:https://www.kombee.com   ** 1 MATCH **
+[144/236] Kavayah                        2 jobs  via headings:https://kavayahcloud.com/careers
+[145/236] Kirusa                       !! careers-page-read-but-lists-no-openings
+[146/236] KogniVera                      8 jobs  via keka:kognivera   ** 1 MATCH **
+[147/236] Kloud9                         7 jobs  via html:https://www.kloud9.nyc/careers
+[148/236] Kickr Technology             !! no-job-data-found
+[149/236] Kyyba                          2 jobs  via headings:https://kyyba.com/careers
+[150/236] Karanji Infotech               4 jobs  via next-data:https://karanji.com/company/careers
+[151/236] Kryptonite Solutions         !! careers-page-unreachable
+[152/236] KSoft Technologies             5 jobs  via headings:https://www.ksofttechnologies.com/careers   ** 1 MATCH **
+[153/236] Kaizen Technologies            4 jobs  via headings:https://kaizentek.com/careers
+[154/236] Kode Infotech                  4 jobs  via headings:https://kodeinfotech.com/jobs/
+[155/236] Krishnas Digital Technologie  10 jobs  via feed:https://www.krishnasdigitech.in
+[156/236] Kadel Labs                   !! no-job-data-found
+[157/236] Kensoft Infotech             !! careers-page-unreachable
+[158/236] Knack Systems                !! timed-out
+[159/236] KiwiQA                        14 jobs  via headings:https://www.kiwiqa.com/career.html
+[160/236] KEONICS                      !! careers-page-read-but-lists-no-openings
+[161/236] KPI Partners                 !! careers-page-read-but-lists-no-openings
+[162/236] Keltron                      !! careers-page-read-but-lists-no-openings
+[163/236] K7 Computing                 !! careers-page-read-but-lists-no-openings
+[164/236] Kobster                      !! careers-page-unreachable
+[165/236] Kloudlite                    !! no-job-data-found
+[166/236] Kalp Studio                  !! no-job-data-found
+[167/236] Kratikal Tech                  0 jobs  via zohorecruit:kratikal (0 open)
+[168/236] Keen and Able Computers      !! blocked-or-error-response
+[169/236] Kwench                       !! blocked-or-error-response
+[170/236] Kyros Technologies            30 jobs  via headings:https://www.kyrostechnologies.com/career/
+[171/236] Kriyadocs                      8 jobs  via keka:kriyadocs
+[172/236] KriyaTec IT Systems            2 jobs  via headings:https://kriyatec.com/careers/
+[173/236] Kore Infotech                !! no-job-data-found
+[174/236] KloudLearn                   !! no-job-data-found
+[175/236] Kraftshala                     2 jobs  via headings:https://www.kraftshala.com/kraftshala-careers/
+[176/236] Klub                         !! careers-page-read-but-lists-no-openings
+[177/236] Karomi Technology            !! no-job-data-found
+[178/236] Kiwi                         !! no-job-data-found
+[179/236] KITABOO                      !! careers-page-read-but-lists-no-openings
+[180/236] Kaagaz Scanner               !! careers-page-read-but-lists-no-openings
+[181/236] Krishi Network               !! no-job-data-found
+[182/236] KoinBX                         6 jobs  via headings:https://koinbx.com/careers
+[183/236] Kuvera                       !! careers-page-read-but-lists-no-openings
+[184/236] Kytes                         12 jobs  via wordpress:https://www.kytes.com
+[185/236] Kwikpic                      !! careers-page-read-but-lists-no-openings
+[186/236] Kenscio Digital Marketing    !! careers-page-read-but-lists-no-openings
+[187/236] Ketto                         15 jobs  via keka:ketto
+[188/236] K Square India Technologies  !! no-job-data-found
+[189/236] Kristal.AI                   !! no-job-data-found
+[190/236] Karkinos Healthcare            1 jobs  via wordpress:https://www.karkinos.in
+[191/236] Klimb                        !! blocked-or-error-response
+[192/236] Kinara Capital               !! blocked-or-error-response
+[193/236] Kayako                       !! no-job-data-found
+[194/236] Kapiva                       !! no-job-data-found
+[195/236] Kunverj                      !! no-job-data-found
+[196/236] Kritsnam Technologies        !! no-job-data-found
+[197/236] Kiko Live                    !! no-job-data-found
+[198/236] KYC Hub                      !! blocked-or-error-response
+[199/236] Krutrim                      !! no-job-data-found
+[200/236] Keus Automation              !! no-job-data-found
+[201/236] Kinetic Green                !! no-job-data-found
+[202/236] Kirana Club                  !! careers-page-unreachable
+[203/236] Kroop AI                     !! no-job-data-found
+[204/236] Kogta Financial               62 jobs  via html:https://kogta.in/jobopening.php
+[205/236] Khyaal                       !! no-job-data-found
+[206/236] Karur Vysya Bank             !! careers-page-unreachable
+[207/236] Kosamattam Finance             4 jobs  via headings:https://www.kosamattam.com/career/
+[208/236] kindlife                     !! no-job-data-found
+[209/236] KLM Axiva Finvest              6 jobs  via headings:https://klmaxiva.com/career
+[210/236] Kernex Microsystems           10 jobs  via feed:https://www.kernex.in
+[211/236] Katonic AI                     1 jobs  via json-ld:https://katonic.ai/careers
+[212/236] Karya                         11 jobs  via greenhouse:karya
+[213/236] Knorish                        0 jobs  via zohorecruit:careers.knorish.com (0 open)
+[214/236] Kredmint                     !! no-job-data-found
+[215/236] Kalkitech                      4 jobs  via headings:https://kalkitech.com/careers/
+[216/236] Karini AI                    !! no-job-data-found
+[217/236] KarmaLife                      2 jobs  via headings:https://karmalife.ai/careers/
+[218/236] KraftLabs                    !! no-job-data-found
+[219/236] Krayonnz                     !! no-job-data-found
+[220/236] Kolabtree                    !! no-job-data-found
+[221/236] KOGO AI                      !! careers-page-read-but-lists-no-openings
+[222/236] Kombai                       !! no-job-data-found
+[223/236] Klaar                        !! no-job-data-found
+[224/236] Kirloskar Pneumatic          !! blocked-or-error-response
+[225/236] Konecranes                   !! blocked-or-error-response
+[226/236] Kotak Mahindra Asset Managem !! careers-page-read-but-lists-no-openings
+[227/236] Kuehne+Nagel                  67 jobs  via successfactors:careers.kuehne-nagel.com   ** 1 MATCH **
+[228/236] Kaynes Technology             10 jobs  via feed:https://kaynes.com
+[229/236] Korn Ferry                   !! careers-page-read-but-lists-no-openings
+[230/236] Krikey AI                    !! careers-page-read-but-lists-no-openings
+[231/236] Knowles                      !! careers-page-read-but-lists-no-openings
+[232/236] Keyloop                       62 jobs  via lever:keyloop
+[233/236] Kredo Analytics              !! no-job-data-found
+[234/236] KraftPixel                   !! careers-page-read-but-lists-no-openings
+[235/236] KaiOS Technologies           !! no-job-data-found
+[236/236] K2view                         2 jobs  via sitemap:https://www.k2view.com
 
-  boards read with jobs : 68
-  boards read, 0 open   : 3
-  could not read        : 53
-  companies w/ matches  : 3
+  boards read with jobs : 104
+  boards read, 0 open   : 5
+  could not read        : 127
+  companies w/ matches  : 7
 
 Wrote careers.txt + results.json

@@ -1,101 +1,76 @@
 Checking 92 companies (concurrency 8)
 
-[  1/92] UiPath India                 120 jobs  via ashby:uipath   ** 2 MATCH **
-[  2/92] Upstox                         2 jobs  via next-data:https://upstox.com/careers/
-[  3/92] Unacademy                    !! careers-page-read-but-lists-no-openings
-[  4/92] UST Global                   !! blocked-or-error-response
-[  5/92] UnitedHealth Group India      19 jobs  via headings:https://careers.unitedhealthgroup.com/search-jobs
-[  6/92] Ula                          !! no-job-data-found
-[  7/92] Urban Company                !! careers-page-read-but-lists-no-openings
-[  8/92] Uber India                   !! blocked-or-error-response
-[  9/92] Uniphore                      37 jobs  via workday:uniphore
-[ 10/92] UpGrad                         6 jobs  via headings:https://www.upgrad.com/careers/
+[  1/92] UiPath India                 121 jobs  via ashby:uipath   ** 2 MATCH **
+[  2/92] UST Global                   !! blocked-or-error-response
+[  3/92] Upstox                         2 jobs  via next-data:https://upstox.com/careers/
+[  4/92] Unacademy                    !! careers-page-read-but-lists-no-openings
+[  5/92] Ula                          !! no-job-data-found
+[  6/92] UnitedHealth Group India      19 jobs  via headings:https://careers.unitedhealthgroup.com/search-jobs
+[  7/92] Uber India                   !! blocked-or-error-response
+[  8/92] Uniphore                      37 jobs  via workday:uniphore
+[  9/92] Urban Company                !! careers-page-read-but-lists-no-openings
+[ 10/92] Unisys India                  40 jobs  via workday:unisys
 [ 11/92] Ugam Solutions               !! careers-page-read-but-lists-no-openings
-[ 12/92] Unisys India                  40 jobs  via workday:unisys
-[ 13/92] Udaan                        !! careers-page-read-but-lists-no-openings
+[ 12/92] Udaan                        !! careers-page-read-but-lists-no-openings
+[ 13/92] UpGrad                         6 jobs  via headings:https://www.upgrad.com/careers/
 [ 14/92] Uplers                        10 jobs  via feed:https://www.uplers.com
-[ 15/92] Utthunga                      10 jobs  via feed:https://utthunga.com
-[ 16/92] Ultratech Cement             !! careers-page-read-but-lists-no-openings
-[ 17/92] Uengage                      !! no-job-data-found
-[ 18/92] Unbxd                        !! no-job-data-found
+[ 15/92] Unbxd                        !! no-job-data-found
+[ 16/92] Utthunga                      10 jobs  via feed:https://utthunga.com
+[ 17/92] Ultratech Cement             !! careers-page-read-but-lists-no-openings
+[ 18/92] Uengage                      !! no-job-data-found
 [ 19/92] Ubuy India                   !! careers-page-read-but-lists-no-openings
 [ 20/92] Ushur                         10 jobs  via headings:https://ushur.ai/careers
 [ 21/92] Ubisoft India                !! no-job-data-found
-[ 22/92] Unify Technologies           !! careers-page-read-but-lists-no-openings
-[ 23/92] Unilog                       !! blocked-or-error-response
-[ 24/92] Uncia Technologies             5 jobs  via wordpress:https://uncia.ai
-[ 25/92] Udacity India                 16 jobs  via greenhouse:udacity
+[ 22/92] Unifize                        7 jobs  via headings:https://careers.unifize.com/
+[ 23/92] Unify Technologies           !! careers-page-read-but-lists-no-openings
+[ 24/92] Udacity India                 16 jobs  via greenhouse:udacity
+[ 25/92] Unilog                       !! blocked-or-error-response
 [ 26/92] udChalo (UpCurve Business Se !! careers-page-read-but-lists-no-openings
 [ 27/92] Unnati                       !! no-job-data-found
-[ 28/92] Umbrella Infocare             10 jobs  via html:https://www.umbrellainfocare.com/career
-[ 29/92] Unifize                        7 jobs  via headings:https://careers.unifize.com/
-[ 30/92] Upstack India                  1 jobs  via greenhouse:upstack
-[ 31/92] Urbanpiper                   !! careers-page-read-but-lists-no-openings
-[ 32/92] Urja Global                  !! no-job-data-found
-[ 33/92] Ultrahuman                   !! no-job-data-found
-[ 34/92] Unified Infotech               9 jobs  via feed:https://www.unifiedinfotech.net
-[ 35/92] Uni Cards                    !! blocked-or-error-response
-[ 36/92] Ultraviolette Automotive     !! careers-page-read-but-lists-no-openings
+[ 28/92] Uncia Technologies             5 jobs  via wordpress:https://uncia.ai
+[ 29/92] Upstack India                  1 jobs  via greenhouse:upstack
+[ 30/92] Uplift Labs                  !! no-job-data-found
+[ 31/92] Umbrella Infocare             10 jobs  via html:https://www.umbrellainfocare.com/career
+[ 32/92] Urbanpiper                   !! careers-page-read-but-lists-no-openings
+[ 33/92] Unified Infotech               9 jobs  via feed:https://www.unifiedinfotech.net
+[ 34/92] Ultraviolette Automotive     !! careers-page-read-but-lists-no-openings
+[ 35/92] Urja Global                  !! no-job-data-found
+[ 36/92] Uni Cards                    !! blocked-or-error-response
 [ 37/92] Urban Ladder                 !! careers-page-read-but-lists-no-openings
-[ 38/92] Ujjivan Small Finance Bank   !! careers-page-read-but-lists-no-openings
-[ 39/92] U GRO Capital                !! careers-page-read-but-lists-no-openings
-[ 40/92] Uno Minda                    !! careers-page-read-but-lists-no-openings
-[ 41/92] UTI Asset Management         !! no-job-data-found
-[ 42/92] Uplift Labs                  !! no-job-data-found
-[ 43/92] Utkarsh Small Finance Bank   !! careers-page-read-but-lists-no-openings
-[ 44/92] UPL Limited                   26 jobs  via successfactors:careers.upl-ltd.com
-[ 45/92] UnifyApps                    !! no-job-data-found
-[ 46/92] Unolo                        !! no-job-data-found
-[ 47/92] Unbox Robotics               !! careers-page-read-but-lists-no-openings
-[ 48/92] uTrade Solutions             !! blocked-or-error-response
-[ 49/92] Union Bank of India          !! careers-page-read-but-lists-no-openings
-[ 50/92] Uniqode                        3 jobs  via headings:https://www.uniqode.com/careers
-[ 51/92] United Airlines India        !! timed-out
-[ 52/92] UptimeAI                      10 jobs  via ashby:uptimeai
-[ 53/92] Uniqus Consultech              0 jobs  via zohorecruit:uniqusus (0 open)
-[ 54/92] Uolo                         !! careers-page-read-but-lists-no-openings
+[ 38/92] Ultrahuman                   !! no-job-data-found
+[ 39/92] Ujjivan Small Finance Bank   !! careers-page-read-but-lists-no-openings
+[ 40/92] UTI Asset Management         !! no-job-data-found
+[ 41/92] Uno Minda                    !! careers-page-read-but-lists-no-openings
+[ 42/92] U GRO Capital                !! careers-page-read-but-lists-no-openings
+[ 43/92] Unicommerce eSolutions         2 jobs  via keka:unicommerce
+[ 44/92] UPL Limited                   25 jobs  via successfactors:careers.upl-ltd.com
+[ 45/92] Unolo                        !! no-job-data-found
+[ 46/92] UnifyApps                    !! no-job-data-found
+[ 47/92] Utkarsh Small Finance Bank   !! careers-page-read-but-lists-no-openings
+[ 48/92] Uniqode                        3 jobs  via headings:https://www.uniqode.com/careers
+[ 49/92] Unbox Robotics               !! careers-page-read-but-lists-no-openings
+[ 50/92] Unimity Solutions            !! careers-page-read-but-lists-no-openings
+[ 51/92] uTrade Solutions             !! blocked-or-error-response
+[ 52/92] Uniqus Consultech              0 jobs  via zohorecruit:uniqusus (0 open)
+[ 53/92] Uolo                         !! careers-page-read-but-lists-no-openings
+[ 54/92] UptimeAI                      10 jobs  via ashby:uptimeai
 [ 55/92] uFaber Edutech               !! no-job-data-found
 [ 56/92] Urbanic                      !! no-job-data-found
-[ 57/92] Unimity Solutions            !! careers-page-read-but-lists-no-openings
-[ 58/92] U2opia Mobile                  3 jobs  via headings:https://www.u2opia.com/careers
-[ 59/92] UnitedLex                      4 jobs  via headings:https://unitedlex.com/careers/
-[ 60/92] Uninstall.io                 !! timed-out
-[ 61/92] Unravel Data                   2 jobs  via headings:https://www.unraveldata.com/company/careers
-[ 62/92] Upland Software              !! blocked-or-error-response
-[ 63/92] Unity Technologies             2 jobs  via headings:https://unity.com/careers
-[ 64/92] UBS                          !! careers-page-read-but-lists-no-openings
-[ 65/92] Unilever                      40 jobs  via workday:unilever
+[ 57/92] U2opia Mobile                  3 jobs  via headings:https://www.u2opia.com/careers
+[ 58/92] UnitedLex                      4 jobs  via headings:https://unitedlex.com/careers/
+[ 59/92] United Airlines India        !! timed-out
+[ 60/92] Union Bank of India          !! careers-page-read-but-lists-no-openings
+[ 61/92] Uptycs                         5 jobs  via headings:https://www.uptycs.com/about/career
+[ 62/92] Unity Technologies             2 jobs  via headings:https://unity.com/careers
+[ 63/92] UBS                          !! careers-page-read-but-lists-no-openings
+[ 64/92] Unravel Data                   2 jobs  via headings:https://www.unraveldata.com/company/careers
+[ 65/92] UL Solutions                 !! careers-page-read-but-lists-no-openings
 [ 66/92] Udemy                         12 jobs  via greenhouse:udemy
-[ 67/92] UL Solutions                 !! careers-page-read-but-lists-no-openings
-[ 68/92] Unlimit                       58 jobs  via lever:unlimit
-[ 69/92] UKG                           34 jobs  via sitemap:https://apply.ukg.com
-[ 70/92] USEReady                     !! careers-page-read-but-lists-no-openings
-[ 71/92] Uptycs                         5 jobs  via headings:https://www.uptycs.com/about/career
-[ 72/92] U.S. Bank                     40 jobs  via workday:usbank
-[ 73/92] Unico Connect                 50 jobs  via feed:https://unicoconnect.com
-[ 74/92] Uneecops Technologies          6 jobs  via feed:https://www.uneecops.com
-[ 75/92] Univariety                   !! no-job-data-found
-[ 76/92] Urolime Technologies           6 jobs  via headings:https://www.urolime.com/careers.html
-[ 77/92] UPS                          !! no-job-data-found
-[ 78/92] Ultroneous Technologies      !! no-job-data-found
-[ 79/92] Universal Sompo General Insu !! careers-page-read-but-lists-no-openings
-[ 80/92] Unity Small Finance Bank     !! careers-page-read-but-lists-no-openings
-[ 81/92] Unicommerce eSolutions       !! timed-out
-[ 82/92] Ustraa                       !! blocked-or-error-response
-[ 83/92] Ummeed Housing Finance       !! no-job-data-found
-[ 84/92] Unthinkable Solutions        !! careers-page-read-but-lists-no-openings
-[ 85/92] Unlu                         !! careers-page-unreachable
-[ 86/92] UrbanMatrix Technologies     !! careers-page-unreachable
-[ 87/92] Uplogic Technologies          10 jobs  via feed:https://www.uplogictech.com
-[ 88/92] Uravu Labs                   !! no-job-data-found
-[ 89/92] Unifynd Technologies         !! careers-page-read-but-lists-no-openings
-[ 90/92] Upshot.ai                      2 jobs  via headings:https://careers.upshot.ai/
-[ 91/92] Uniquify                     !! no-job-data-found
-[ 92/92] Unimoni India                !! careers-page-read-but-lists-no-openings
-
-  boards read with jobs : 33
-  boards read, 0 open   : 1
-  could not read        : 58
-  companies w/ matches  : 1
-
-Wrote careers.txt + results.json
+[ 67/92] Upland Software              !! blocked-or-error-response
+[ 68/92] Uninstall.io                 !! careers-page-unreachable
+[ 69/92] Unilever                      40 jobs  via workday:unilever
+[ 70/92] UKG                           36 jobs  via sitemap:https://apply.ukg.com
+[ 71/92] Unlimit                       58 jobs  via lever:unlimit
+[ 72/92] Uneecops Technologies          6 jobs  via feed:https://www.uneecops.com
+[ 73/92] Urolime Technologies           6 jobs  via headings:https://www.urolime.com/careers.html
+[ 74/92] Unico Connect                 50 jobs  via feed:https://unicoconnect.com

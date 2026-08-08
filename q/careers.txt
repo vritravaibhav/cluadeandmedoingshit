@@ -2,13 +2,13 @@
 OPEN ROLES AT 90 "W" COMPANIES
 Looking for : Software Engineer, ~2 years experience
 Priority    : Java, Dart/Flutter        Location preference : India
-Generated   : 2026-08-07 20:25:50 UTC  by test.js
+Generated   : 2026-08-08 04:41:58 UTC  by test.js
 ==============================================================================
 
 Boards read with open roles : 40
 Boards read, currently empty: 2
 Could not read              : 48
-Total open roles seen       : 788
+Total open roles seen       : 798
 
 ##############################################################################
 # SECTION 1 — MATCHES: Software Engineer + Java/Dart/Flutter + ~2 yrs
@@ -31,22 +31,17 @@ Total open roles seen       : 788
 # SECTION 2 — INDIA: engineering, non-senior, ANY stack
 # 73 role(s). Java/Dart-Flutter still rank highest, but the brief allows
 # any tech stack, so these are the India roles worth a look regardless.
-# 2a: states a window covering ~2 yrs, or states none (55)
-# 2b: states a different window — usually 3-5 yrs (18)
+# 2a: states a window covering ~2 yrs, or states none (54)
+# 2b: states a different window — usually 3-5 yrs (19)
 ##############################################################################
 
--- 2a --------------------------------------------- fits ~2 years (55)
+-- 2a --------------------------------------------- fits ~2 years (54)
 
 >> QualMinds Technologies
     Associate Software Engineer
       location : Hyderabad   [INDIA]
       exp req  : not stated    stack: Java    score: 86
       url      : https://qualminds.keka.com/careers/jobdetails/15971
->> Qualcomm India
-    CPU Architecture Validation Infrastructure Engineer
-      location : Bengaluru, KA,IN   [INDIA]
-      exp req  : 4-15y / 4-8y / 3-7y / 2-6y    stack: —    score: 75
-      url      : http://careers.qualcomm.com/careers/job/446715228264-cpu-architecture-validation-infrastructure-engineer-bangalore-india?domain=qualcomm.com
 >> Qualys India
     Security Engineer
       location : Pune   [INDIA]
@@ -282,7 +277,7 @@ Total open roles seen       : 788
       exp req  : not stated    stack: —    score: 49
       url      : https://quantumzyme.com/careers
 
--- 2b ------------------------------------ states a wider window (18)
+-- 2b ------------------------------------ states a wider window (19)
 
 >> QAD
     Associate Fullstack Software Engineer
@@ -302,6 +297,12 @@ Total open roles seen       : 788
       location : Pune, India   [INDIA]
       exp req  : 4-8y / 20-24y    stack: Java    score: 82
       url      : https://www.quinstreet.com/careers/?gh_jid=8088208
+>> Qualcomm India
+    Layout Engineer
+      location : Bengaluru, KA,IN   [INDIA]
+      exp req  : 3-6y / 3-7y / 5-9y / 7-11y    stack: —    score: 57
+      url      : http://careers.qualcomm.com/careers/job/446719468947-layout-engineer-bangalore-india?domain=qualcomm.com
+>> Quinstreet India
     .NET Developer
       location : Pune   [INDIA]
       exp req  : 4-7y / 20-24y / 7-8y    stack: —    score: 57
@@ -429,11 +430,11 @@ Total open roles seen       : 788
 ##############################################################################
 
 >> Qualcomm India  [India]
-    board    : sitemap:https://careers.qualcomm.com   —  26 open roles
-    Staff engineer
-      location : Bengaluru, KA,IN   [INDIA]
-      exp req  : 16-20y / 6-10y / 3-7y / 2-6y / 8-12y / 7-11y    stack: Java    score: 78
-      url      : http://careers.qualcomm.com/careers/job/446715068606-staff-engineer-bangalore-india?domain=qualcomm.com
+    board    : sitemap:https://careers.qualcomm.com   —  35 open roles
+    Embedded Software Engineer, Staff - Cork, Ireland
+      location : Cork, CO,IE
+      exp req  : 7-11y / 4-8y / 3-7y / 2-6y    stack: Java    score: 63
+      url      : http://careers.qualcomm.com/careers/job/446719435810-embedded-software-engineer-staff-cork-ireland-cork-ireland?domain=qualcomm.com
 
 >> Quantiphi  [India]
     board    : workday:quantiphi   —  40 open roles
@@ -682,7 +683,7 @@ Total open roles seen       : 788
       url      : https://www.qlik.com/us/company/careers
 
 >> Qualtrics  [United States]
-    board    : greenhouse:qualtrics   —  55 open roles
+    board    : greenhouse:qualtrics   —  56 open roles
     Software Engineer II
       location : Krakow, Poland
       exp req  : 2-6y    stack: —    score: 60
@@ -751,7 +752,7 @@ Total open roles seen       : 788
 
 >> QuickMetrix  [India]  — blocked-or-error-response
     careers page : undefined
-    http status  : 0, 403, 403, 403, 403, 403, 403
+    http status  : 0, 403, 403, 403, 403, 403, 403, 403
     ATS tried    : greenhouse:quickmetrix -> no board ; lever:quickmetrix -> no board ; ashby:quickmetrix -> no board ; recruitee:quickmetrix -> no board
 
 >> Quest Global  [India]  — careers-page-read-but-lists-no-openings
@@ -811,7 +812,7 @@ Total open roles seen       : 788
 
 >> Qualitia Software  [India]  — careers-page-read-but-lists-no-openings
     careers page : https://www.qualitia.ai/careers/
-    http status  : 200, 0, 200, 200, 200
+    http status  : 200, 0, 200, 200
     ATS tried    : greenhouse:qualitia -> no board ; lever:qualitia -> no board ; ashby:qualitia -> no board ; recruitee:qualitia -> no board
 
 >> QuestionPro  [United States]  — careers-page-read-but-lists-no-openings
@@ -868,11 +869,6 @@ Total open roles seen       : 788
     careers page : undefined
     http status  : 0, 200, 404, 404, 404, 404, 404, 404, 404, 404, 200
     ATS tried    : greenhouse:quberesearch -> no board ; lever:quberesearch -> no board ; ashby:quberesearch -> no board ; recruitee:quberesearch -> no board
-
->> Qkrishi  [India]  — careers-page-read-but-lists-no-openings
-    careers page : undefined
-    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200, 200
-    ATS tried    : greenhouse:qkrishi -> no board ; lever:qkrishi -> no board ; ashby:qkrishi -> no board ; recruitee:qkrishi -> no board
 
 >> Quorum Software  [United States]  — careers-page-read-but-lists-no-openings
     careers page : https://www.quorumsoftware.com/careers/
@@ -963,3 +959,7 @@ Total open roles seen       : 788
     careers page : undefined
     http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
     ATS tried    : greenhouse:questinnovative -> no board ; lever:questinnovative -> no board ; ashby:questinnovative -> no board ; recruitee:questinnovative -> no board
+
+>> Qkrishi  [India]  — timed-out
+    careers page : undefined
+    http status  : 

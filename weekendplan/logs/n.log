@@ -1,137 +1,261 @@
-Checking 128 companies (concurrency 8)
+Checking 252 companies (concurrency 8)
 
-[  1/128] Navi                           7 jobs  via ashby:navi
-[  2/128] Ninjacart                     18 jobs  via freshteam:ninjacart
-[  3/128] Nuclei                        13 jobs  via keka:nuclei
-[  4/128] Nazara Technologies          !! careers-page-read-but-lists-no-openings
-[  5/128] NoBroker                     !! careers-page-read-but-lists-no-openings
-[  6/128] NimbleEdge                   !! careers-page-read-but-lists-no-openings
-[  7/128] Nykaa                        !! careers-page-read-but-lists-no-openings
-[  8/128] NxtGen Datacenter & Cloud Te !! careers-page-read-but-lists-no-openings
-[  9/128] Netcore Cloud                !! careers-page-read-but-lists-no-openings
-[ 10/128] Noise                        !! timed-out
-[ 11/128] Nuvepro Technologies          10 jobs  via feed:https://nuvepro.com
-[ 12/128] Nawgati                      !! careers-page-read-but-lists-no-openings
-[ 13/128] Neysa                        !! timed-out
-[ 14/128] NeoDove                        4 jobs  via feed:https://neodove.com
-[ 15/128] NPCI                           0 jobs  via zohorecruit:npci (0 open)
-[ 16/128] Novel Patterns               !! careers-page-read-but-lists-no-openings
-[ 17/128] Neeman's                       8 jobs  via headings:https://neemans.com/pages/careers
-[ 18/128] Nexverse.ai                  !! timed-out
-[ 19/128] National Stock Exchange of I !! careers-page-read-but-lists-no-openings
-[ 20/128] Niyo                           9 jobs  via keka:niyo
-[ 21/128] NimbusPost                     4 jobs  via wordpress:https://nimbuspost.com
-[ 22/128] NeoGrowth Credit             !! blocked-or-error-response
-[ 23/128] NSDL                          15 jobs  via headings:https://nsdl.com/careers
-[ 24/128] Narayana Health               32 jobs  via successfactors:jobs.narayanahealth.org
-[ 25/128] nurture.farm                 !! careers-page-read-but-lists-no-openings
-[ 26/128] NPST                         !! careers-page-read-but-lists-no-openings
-[ 27/128] NTT DATA Payment Services      2 jobs  via headings:https://in.nttdatapay.com/en/company/careers
-[ 28/128] NIRA                         !! careers-page-read-but-lists-no-openings
-[ 29/128] NephroPlus                   !! careers-page-read-but-lists-no-openings
-[ 30/128] Nova Benefits                  0 jobs  via zohorecruit:novabenefits (0 open)
-[ 31/128] NxtWave                        9 jobs  via headings:https://www.ccbp.in/careers
-[ 32/128] Newton School                !! careers-page-read-but-lists-no-openings
-[ 33/128] Niva Bupa Health Insurance   !! careers-page-read-but-lists-no-openings
-[ 34/128] NeoSOFT                        2 jobs  via headings:https://www.neosofttech.com/careers
-[ 35/128] Next Education               !! careers-page-read-but-lists-no-openings
-[ 36/128] Navneet Education            !! careers-page-read-but-lists-no-openings
-[ 37/128] Nitor Infotech                10 jobs  via feed:https://www.nitorinfotech.com
-[ 38/128] Newgen Software              !! careers-page-unreachable
-[ 39/128] Nelito Systems                20 jobs  via headings:https://www.nelito.com/careers.html   ** 3 MATCH **
-[ 40/128] Nineleaps                     10 jobs  via feed:https://www.nineleaps.com   ** 1 MATCH **
-[ 41/128] Novac Technology Solutions   !! careers-page-read-but-lists-no-openings
-[ 42/128] NuSummit                       5 jobs  via headings:https://www.nusummit.com/current-openings/
-[ 43/128] Niveus Solutions              10 jobs  via feed:https://niveussolutions.com
-[ 44/128] Nihilent                     !! careers-page-read-but-lists-no-openings
-[ 45/128] Nintec Systems               !! careers-page-read-but-lists-no-openings
-[ 46/128] Nuvama Wealth Management     !! careers-page-read-but-lists-no-openings
-[ 47/128] Neurealm                       9 jobs  via headings:https://www.neurealm.com/about-us/openings/
-[ 48/128] Nucleus Software Exports       0 jobs  via zohorecruit:nucleussoftware (0 open)
-[ 49/128] NextWealth Entrepreneurs     !! careers-page-read-but-lists-no-openings
-[ 50/128] NexTurn                       56 jobs  via headings:https://nexturn.com/careers/
-[ 51/128] Netsmartz                    !! careers-page-read-but-lists-no-openings
-[ 52/128] Novigo Solutions             !! careers-page-read-but-lists-no-openings
-[ 53/128] NIIT                         !! timed-out
-[ 54/128] Neuronimbus                  !! careers-page-read-but-lists-no-openings
-[ 55/128] The NineHertz                 10 jobs  via feed:https://theninehertz.com
-[ 56/128] Net Solutions                 12 jobs  via headings:https://www.netsolutions.com/careers/
-[ 57/128] NEC Software Solutions India 135 jobs  via smartrecruiters:NECSWS
-[ 58/128] Nectarbits                     3 jobs  via headings:https://nectarbits.com/career.shtml
-[ 59/128] Narola Infotech                1 jobs  via keka:narolainfotech
-[ 60/128] Nvish Solutions               10 jobs  via feed:https://www.nvish.com
-[ 61/128] Nexevo Technologies           11 jobs  via headings:https://www.nexevo.in/careers
-[ 62/128] Nexdigm                       21 jobs  via headings:https://www.nexdigm.com/careers/current-openings/
-[ 63/128] Nexthoughts Software         !! careers-page-read-but-lists-no-openings
-[ 64/128] Nimble AppGenie                4 jobs  via headings:https://www.nimbleappgenie.com/career   ** 1 MATCH **
-[ 65/128] NCrypted Technologies        !! careers-page-unreachable
-[ 66/128] NWay Technologies             10 jobs  via headings:https://www.nwayerp.com/careers/
-[ 67/128] NetSet Software               27 jobs  via headings:https://www.netsetsoftware.com/career.php
-[ 68/128] Nickelfox Technologies        15 jobs  via zohorecruit:nickelfox
-[ 69/128] Netradyne                     30 jobs  via greenhouse:netradyne
-[ 70/128] Netenrich                     12 jobs  via headings:https://netenrich.com/careers
-[ 71/128] Newt Global                    8 jobs  via feed:https://newtglobal.com
-[ 72/128] Nisum                          4 jobs  via headings:https://www.nisum.com/careers
-[ 73/128] nference                       6 jobs  via keka:nference
-[ 74/128] Nimap Infotech                42 jobs  via headings:https://nimapinfotech.com/careers/
-[ 75/128] NimbleWork                   !! blocked-or-error-response
-[ 76/128] Nium                          39 jobs  via lever:nium   ** 1 MATCH **
-[ 77/128] Nuvento                      !! careers-page-read-but-lists-no-openings
-[ 78/128] Nirmata                        4 jobs  via greenhouse:nirmata   ** 2 MATCH **
-[ 79/128] Nektar.ai                    !! no-job-data-found
-[ 80/128] Nallas Corporation             7 jobs  via wordpress:https://nallas.com   ** 1 MATCH **
-[ 81/128] NVIDIA                         3 jobs  via headings:https://www.nvidia.com/en-us/about-nvidia/careers/
-[ 82/128] Novatech Software             10 jobs  via feed:https://www.novatechsoftware.com
-[ 83/128] Nagarro                      !! timed-out
-[ 84/128] Nutanix                        4 jobs  via headings:https://www.nutanix.com/career
-[ 85/128] Netskope                     142 jobs  via greenhouse:netskope
-[ 86/128] New Relic                     57 jobs  via greenhouse:newrelic
-[ 87/128] NextBillion.ai               !! careers-page-read-but-lists-no-openings
-[ 88/128] NXP Semiconductors            40 jobs  via workday:nxp
-[ 89/128] Nexright                       3 jobs  via headings:https://nexright.com/careers-at-nexright/
-[ 90/128] Nokia                        !! careers-page-read-but-lists-no-openings
-[ 91/128] NCR Voyix                     40 jobs  via workday:ncr
-[ 92/128] NICE                         297 jobs  via greenhouse:nice   ** 2 MATCH **
-[ 93/128] NTT DATA                      40 jobs  via workday:nttglobaldatacenters
-[ 94/128] NetApp                       !! careers-page-read-but-lists-no-openings
-[ 95/128] NCR Atleos                    30 jobs  via workday:ncratleos
-[ 96/128] Nielsen                      133 jobs  via smartrecruiters:TheNielsenCompany
-[ 97/128] Nextiva                       17 jobs  via greenhouse:nextiva
-[ 98/128] Numerator                      2 jobs  via headings:https://www.numerator.com/careers/
-[ 99/128] Newfold Digital              !! blocked-or-error-response
-[100/128] Netcracker Technology          6 jobs  via headings:https://www.netcracker.com/careers
-[101/128] Nasuni                        31 jobs  via greenhouse:nasuni
-[102/128] NextGen Healthcare            40 jobs  via workday:nextgen
-[103/128] NETGEAR                       42 jobs  via ashby:netgear
-[104/128] Neo4j                         38 jobs  via greenhouse:neo4j   ** 1 MATCH **
-[105/128] NetSPI                        10 jobs  via feed:https://www.netspi.com
-[106/128] NielsenIQ                    129 jobs  via wordpress:https://nielseniq.com   ** 1 MATCH **
-[107/128] Nexthink                     !! careers-page-read-but-lists-no-openings
-[108/128] Nasdaq                        40 jobs  via workday:nasdaq
-[109/128] Northern Trust                40 jobs  via workday:ntrs
-[110/128] Novo Nordisk                  51 jobs  via successfactors:careers.novonordisk.com
-[111/128] Nissan Motor India           !! careers-page-read-but-lists-no-openings
-[112/128] National Australia Bank       12 jobs  via sitemap:https://careers.nab.com.au
-[113/128] Nomura                        52 jobs  via successfactors:careers.nomura.com
-[114/128] NatWest Group                !! blocked-or-error-response
-[115/128] Novanta                       40 jobs  via workday:novanta
-[116/128] Narvar India                  13 jobs  via greenhouse:narvar
-[117/128] Ninjacart                    !! blocked-or-error-response
-[118/128] NOV                          !! careers-page-read-but-lists-no-openings
-[119/128] Nike                         311 jobs  via workday:nike
-[120/128] NIIT Technologies            !! careers-page-read-but-lists-no-openings
-[121/128] Netomi                        29 jobs  via lever:netomi   ** 2 MATCH **
-[122/128] Notion India                 126 jobs  via ashby:notion
-[123/128] Nuvei India                   14 jobs  via headings:https://www.nuvei.com/careers
-[124/128] Neeyamo                        8 jobs  via headings:https://www.neeyamo.com/careers
-[125/128] Nexteer Automotive            36 jobs  via successfactors:jobs.nexteer.com
-[126/128] Nuance India                 !! no-job-data-found
-[127/128] Navan                        !! careers-page-read-but-lists-no-openings
-[128/128] Novartis                     !! careers-page-read-but-lists-no-openings
+[  1/252] Navi                           7 jobs  via ashby:navi
+[  2/252] Ninjacart                     18 jobs  via freshteam:ninjacart
+[  3/252] Nazara Technologies          !! careers-page-read-but-lists-no-openings
+[  4/252] Nuclei                        13 jobs  via keka:nuclei
+[  5/252] NoBroker                     !! careers-page-read-but-lists-no-openings
+[  6/252] NimbleEdge                   !! careers-page-read-but-lists-no-openings
+[  7/252] NxtGen Datacenter & Cloud Te !! careers-page-read-but-lists-no-openings
+[  8/252] Nykaa                        !! careers-page-read-but-lists-no-openings
+[  9/252] Netcore Cloud                !! timed-out
+[ 10/252] Noise                        !! timed-out
+[ 11/252] Nuvepro Technologies          10 jobs  via feed:https://nuvepro.com
+[ 12/252] Neysa                        !! timed-out
+[ 13/252] Nawgati                      !! careers-page-read-but-lists-no-openings
+[ 14/252] NeoDove                        4 jobs  via feed:https://neodove.com
+[ 15/252] Novel Patterns               !! careers-page-read-but-lists-no-openings
+[ 16/252] NPCI                           0 jobs  via zohorecruit:npci (0 open)
+[ 17/252] Nexverse.ai                    5 jobs  via headings:https://nexverse.ai/careers
+[ 18/252] Neeman's                       8 jobs  via headings:https://neemans.com/pages/careers
+[ 19/252] Niyo                           9 jobs  via keka:niyo
+[ 20/252] NeoGrowth Credit             !! blocked-or-error-response
+[ 21/252] nurture.farm                 !! careers-page-read-but-lists-no-openings
+[ 22/252] National Stock Exchange of I !! careers-page-read-but-lists-no-openings
+[ 23/252] Narayana Health               31 jobs  via successfactors:jobs.narayanahealth.org
+[ 24/252] NimbusPost                     4 jobs  via wordpress:https://nimbuspost.com
+[ 25/252] NIRA                         !! careers-page-read-but-lists-no-openings
+[ 26/252] NTT DATA Payment Services      2 jobs  via headings:https://in.nttdatapay.com/en/company/careers
+[ 27/252] NPST                         !! careers-page-read-but-lists-no-openings
+[ 28/252] NSDL                          15 jobs  via headings:https://nsdl.com/careers
+[ 29/252] Niva Bupa Health Insurance   !! careers-page-read-but-lists-no-openings
+[ 30/252] Nova Benefits                  0 jobs  via zohorecruit:novabenefits (0 open)
+[ 31/252] NxtWave                        9 jobs  via headings:https://www.ccbp.in/careers
+[ 32/252] NephroPlus                   !! careers-page-read-but-lists-no-openings
+[ 33/252] Newton School                !! careers-page-read-but-lists-no-openings
+[ 34/252] Next Education               !! careers-page-read-but-lists-no-openings
+[ 35/252] Navneet Education            !! careers-page-read-but-lists-no-openings
+[ 36/252] NeoSOFT                        2 jobs  via headings:https://www.neosofttech.com/careers
+[ 37/252] Newgen Software              !! careers-page-unreachable
+[ 38/252] Nelito Systems                20 jobs  via headings:https://www.nelito.com/careers.html   ** 3 MATCH **
+[ 39/252] Novac Technology Solutions   !! careers-page-read-but-lists-no-openings
+[ 40/252] Nineleaps                     10 jobs  via feed:https://www.nineleaps.com   ** 1 MATCH **
+[ 41/252] NuSummit                       5 jobs  via headings:https://www.nusummit.com/current-openings/
+[ 42/252] Niveus Solutions              10 jobs  via feed:https://niveussolutions.com
+[ 43/252] Nihilent                     !! careers-page-read-but-lists-no-openings
+[ 44/252] Nitor Infotech                10 jobs  via feed:https://www.nitorinfotech.com
+[ 45/252] Nuvama Wealth Management     !! timed-out
+[ 46/252] Nucleus Software Exports       0 jobs  via zohorecruit:nucleussoftware (0 open)
+[ 47/252] Neurealm                       8 jobs  via headings:https://www.neurealm.com/about-us/openings/
+[ 48/252] Nintec Systems               !! careers-page-read-but-lists-no-openings
+[ 49/252] NextWealth Entrepreneurs     !! careers-page-read-but-lists-no-openings
+[ 50/252] NexTurn                       56 jobs  via headings:https://nexturn.com/careers/
+[ 51/252] Netsmartz                    !! careers-page-read-but-lists-no-openings
+[ 52/252] NEC Software Solutions India 135 jobs  via smartrecruiters:NECSWS
+[ 53/252] Novigo Solutions             !! careers-page-read-but-lists-no-openings
+[ 54/252] NIIT                         !! timed-out
+[ 55/252] Neuronimbus                  !! careers-page-read-but-lists-no-openings
+[ 56/252] The NineHertz                 10 jobs  via feed:https://theninehertz.com
+[ 57/252] Nectarbits                     3 jobs  via headings:https://nectarbits.com/career.shtml
+[ 58/252] Narola Infotech                1 jobs  via keka:narolainfotech
+[ 59/252] Net Solutions                 12 jobs  via headings:https://www.netsolutions.com/careers/
+[ 60/252] Nvish Solutions               10 jobs  via feed:https://www.nvish.com
+[ 61/252] Nexdigm                       21 jobs  via headings:https://www.nexdigm.com/careers/current-openings/
+[ 62/252] Nimble AppGenie                4 jobs  via headings:https://www.nimbleappgenie.com/career   ** 1 MATCH **
+[ 63/252] Nexevo Technologies           11 jobs  via headings:https://www.nexevo.in/careers
+[ 64/252] Nexthoughts Software         !! careers-page-read-but-lists-no-openings
+[ 65/252] NetSet Software               27 jobs  via headings:https://www.netsetsoftware.com/career.php
+[ 66/252] Nickelfox Technologies        15 jobs  via zohorecruit:nickelfox
+[ 67/252] NCrypted Technologies        !! careers-page-unreachable
+[ 68/252] NWay Technologies             10 jobs  via headings:https://www.nwayerp.com/careers/
+[ 69/252] Netradyne                     31 jobs  via greenhouse:netradyne
+[ 70/252] Newt Global                    8 jobs  via feed:https://newtglobal.com
+[ 71/252] Netenrich                     12 jobs  via headings:https://netenrich.com/careers
+[ 72/252] Nimap Infotech                42 jobs  via headings:https://nimapinfotech.com/careers/
+[ 73/252] Nisum                          4 jobs  via headings:https://www.nisum.com/careers
+[ 74/252] nference                       6 jobs  via keka:nference
+[ 75/252] NimbleWork                   !! blocked-or-error-response
+[ 76/252] Nuvento                      !! careers-page-read-but-lists-no-openings
+[ 77/252] Nium                          39 jobs  via lever:nium   ** 1 MATCH **
+[ 78/252] Nirmata                        4 jobs  via greenhouse:nirmata   ** 2 MATCH **
+[ 79/252] Nallas Corporation             7 jobs  via wordpress:https://nallas.com   ** 1 MATCH **
+[ 80/252] Nektar.ai                    !! no-job-data-found
+[ 81/252] Nagarro                      !! careers-page-read-but-lists-no-openings
+[ 82/252] Novatech Software             10 jobs  via feed:https://www.novatechsoftware.com
+[ 83/252] NVIDIA                         3 jobs  via headings:https://www.nvidia.com/en-us/about-nvidia/careers/
+[ 84/252] Nutanix                        4 jobs  via headings:https://www.nutanix.com/career
+[ 85/252] New Relic                     58 jobs  via greenhouse:newrelic
+[ 86/252] Netskope                     141 jobs  via greenhouse:netskope
+[ 87/252] NXP Semiconductors            40 jobs  via workday:nxp
+[ 88/252] NextBillion.ai               !! careers-page-read-but-lists-no-openings
+[ 89/252] Nexright                       3 jobs  via headings:https://nexright.com/careers-at-nexright/
+[ 90/252] NTT DATA                      40 jobs  via workday:nttglobaldatacenters
+[ 91/252] NCR Voyix                     40 jobs  via workday:ncr
+[ 92/252] Nokia                        !! careers-page-read-but-lists-no-openings
+[ 93/252] NCR Atleos                    30 jobs  via workday:ncratleos
+[ 94/252] NICE                         297 jobs  via greenhouse:nice   ** 2 MATCH **
+[ 95/252] NetApp                       !! careers-page-read-but-lists-no-openings
+[ 96/252] Nielsen                      132 jobs  via smartrecruiters:TheNielsenCompany
+[ 97/252] Nextiva                       17 jobs  via greenhouse:nextiva
+[ 98/252] Netcracker Technology          6 jobs  via headings:https://www.netcracker.com/careers
+[ 99/252] Newfold Digital              !! blocked-or-error-response
+[100/252] Nasuni                        31 jobs  via greenhouse:nasuni
+[101/252] NextGen Healthcare            40 jobs  via workday:nextgen
+[102/252] Nexthink                     !! careers-page-read-but-lists-no-openings
+[103/252] Numerator                      2 jobs  via headings:https://www.numerator.com/careers/
+[104/252] NielsenIQ                    129 jobs  via wordpress:https://nielseniq.com   ** 1 MATCH **
+[105/252] NetSPI                        10 jobs  via feed:https://www.netspi.com
+[106/252] NETGEAR                       42 jobs  via ashby:netgear
+[107/252] Neo4j                         38 jobs  via greenhouse:neo4j   ** 1 MATCH **
+[108/252] Novo Nordisk                  50 jobs  via successfactors:careers.novonordisk.com
+[109/252] Nasdaq                        40 jobs  via workday:nasdaq
+[110/252] Northern Trust                40 jobs  via workday:ntrs
+[111/252] Nomura                        52 jobs  via successfactors:careers.nomura.com
+[112/252] National Australia Bank       24 jobs  via html:https://careers.nab.com.au/jobs/search
+[113/252] NatWest Group                !! blocked-or-error-response
+[114/252] Navan                        !! careers-page-read-but-lists-no-openings
+[115/252] Novanta                       40 jobs  via workday:novanta
+[116/252] Narvar India                  13 jobs  via greenhouse:narvar
+[117/252] Nissan Motor India           !! careers-page-read-but-lists-no-openings
+[118/252] NOV                          !! careers-page-read-but-lists-no-openings
+[119/252] Notion India                 127 jobs  via ashby:notion
+[120/252] Netomi                        29 jobs  via lever:netomi   ** 2 MATCH **
+[121/252] Nuvei India                   14 jobs  via headings:https://www.nuvei.com/careers
+[122/252] Neeyamo                        8 jobs  via headings:https://www.neeyamo.com/careers
+[123/252] NetConnect Global            !! no-job-data-found
+[124/252] Nucsoft                        4 jobs  via headings:https://nucsoft.com/career-base
+[125/252] Nike                         310 jobs  via workday:nike
+[126/252] Netstratum Technologies      !! careers-page-read-but-lists-no-openings
+[127/252] Neilsoft                     115 jobs  via html:https://neilsoft.com/careers
+[128/252] Nuance India                 !! no-job-data-found
+[129/252] NeST Digital                   5 jobs  via headings:https://nestdigital.com/career/
+[130/252] Neetable Technologies        !! careers-page-read-but-lists-no-openings
+[131/252] NetTantra Technologies        10 jobs  via feed:https://www.nettantra.com
+[132/252] Netweb Technologies           16 jobs  via headings:https://www.netwebindia.com/career.php
+[133/252] Nettyfy Technologies         !! careers-page-unreachable
+[134/252] Nimblechapps                 !! careers-page-read-but-lists-no-openings
+[135/252] Nexteer Automotive            36 jobs  via successfactors:jobs.nexteer.com
+[136/252] Nextbrain Technologies         3 jobs  via headings:https://www.nextbraintech.com/careers
+[137/252] Nexuslink Services             4 jobs  via feed:https://nexuslinkservices.com
+[138/252] Nyusoft Solutions              7 jobs  via keka:nyusoft
+[139/252] Nextwebi IT Solutions          3 jobs  via headings:https://careers.nextwebi.com/
+[140/252] NexionPro Services            10 jobs  via feed:https://nexionpro.com
+[141/252] Nexionpro Systems             10 jobs  via feed:https://nexionprosystems.co.in
+[142/252] Novatium Solutions           !! careers-page-read-but-lists-no-openings
+[143/252] Nexge Technologies           !! no-job-data-found
+[144/252] Novartis                     !! careers-page-read-but-lists-no-openings
+[145/252] NetXcell                       2 jobs  via headings:https://netxcell.com/careers.php
+[146/252] Nvizion Solutions            !! careers-page-read-but-lists-no-openings
+[147/252] Nippon Data Systems          !! no-job-data-found
+[148/252] Norwin Technologies          !! no-job-data-found
+[149/252] Netlink                        7 jobs  via wordpress:https://netlink.com
+[150/252] NEX Softsys                    2 jobs  via headings:https://www.nexsoftsys.com/careers
+[151/252] Netscape Labs                  9 jobs  via feed:https://netscapelabs.com
+[152/252] Nadcab Labs                  2409 jobs  via feed:https://www.nadcab.com
+[153/252] Nexus SoftTech               !! no-job-data-found
+[154/252] Neuvays                      !! careers-page-read-but-lists-no-openings
+[155/252] Netgains                       5 jobs  via headings:https://www.netgains.org/careers/
+[156/252] Netscribes                     7 jobs  via feed:https://careers.netscribes.com
+[157/252] Nintriva                      10 jobs  via feed:https://nintriva.com
+[158/252] NonStop io Technologies        8 jobs  via keka:nonstopio   ** 1 MATCH **
+[159/252] Nextuple                       1 jobs  via json-ld:https://www.nextuple.com/about/careers
+[160/252] Nomiso                        10 jobs  via feed:https://nomiso.io
+[161/252] Nyx Wolves                     5 jobs  via feed:https://nyxwolves.com
+[162/252] Nirvana Solutions              6 jobs  via headings:https://www.nirvanasolutions.com/career
+[163/252] Nascent Info Technologies    !! careers-page-read-but-lists-no-openings
+[164/252] NetAnalytiks Technologies    !! careers-page-read-but-lists-no-openings
+[165/252] NextGen Invent                 7 jobs  via html:https://www.careers-page.com/nextgen-invent-corp
+[166/252] NeoITO                       !! blocked-or-error-response
+[167/252] Nirmalya Labs                  2 jobs  via headings:https://nirmalyalabs.com/job-list
+[168/252] Niyati Technologies            7 jobs  via headings:https://www.niyati.com/careers.htm
+[169/252] Nihon Communication Solution !! careers-page-unreachable
+[170/252] Ninestars Global             !! no-job-data-found
+[171/252] NetBramha Studios              8 jobs  via html:https://www.netbramha.com/careers
+[172/252] Netmaxims Technologies         7 jobs  via headings:https://netmaxims.com/career
+[173/252] Nova Techset                   6 jobs  via feed:https://novatechset.com
+[174/252] Nyros Technologies           !! careers-page-read-but-lists-no-openings
+[175/252] Novumlogic Technologies      !! no-job-data-found
+[176/252] Nexus Softwares                2 jobs  via headings:https://nexussoftwares.com/careers/
+[177/252] Neebal Technologies          !! blocked-or-error-response
+[178/252] Nurdsoft                     !! careers-page-read-but-lists-no-openings
+[179/252] nCircle Tech                   0 jobs  via zohorecruit:ncircletech (0 open)
+[180/252] Nexus Media Solution         !! no-job-data-found
+[181/252] Numentica                      0 jobs  via zohorecruit:numentica.zohorecruit.com (0 open)
+[182/252] Nivetti Systems              !! careers-page-unreachable
+[183/252] Nudge                         27 jobs  via ashby:nudge
+[184/252] Nanonets                      17 jobs  via greenhouse:nanonets
+[185/252] Netclues                     !! careers-page-read-but-lists-no-openings
+[186/252] NeuroPixel.AI                !! careers-page-read-but-lists-no-openings
+[187/252] Nukkad Shops                 !! no-job-data-found
+[188/252] NetElixir                    !! careers-page-read-but-lists-no-openings
+[189/252] Nutrabay                       6 jobs  via headings:https://nutrabay.com/careers
+[190/252] Naaptol                        2 jobs  via headings:https://www.naaptol.com/aboutus/career.html
+[191/252] Nestasia                     !! blocked-or-error-response
+[192/252] Niramai Health Analytix        8 jobs  via wordpress:https://niramai.com   ** 1 MATCH **
+[193/252] Numadic                      !! careers-page-unreachable
+[194/252] Nexlogica                     10 jobs  via feed:https://www.nexlogica.com
+[195/252] NowFloats Technologies       !! careers-page-unreachable
+[196/252] Nexus Info                   !! timed-out
+[197/252] Namma Yatri                  !! no-job-data-found
+[198/252] Numen Health                 !! careers-page-unreachable
+[199/252] NestAway Technologies        !! careers-page-read-but-lists-no-openings
+[200/252] Nemocare                     !! careers-page-read-but-lists-no-openings
+[201/252] NeoDocs                      !! no-job-data-found
+[202/252] Nector                       !! no-job-data-found
+[203/252] NAYAN                        !! careers-page-read-but-lists-no-openings
+[204/252] Nitro Commerce                 3 jobs  via headings:https://nitrocommerce.ai/careers
+[205/252] NVECTA                         2 jobs  via headings:https://www.nvecta.com/company/careers
+[206/252] Novatr                       !! careers-page-read-but-lists-no-openings
+[207/252] Netmeds                      !! no-job-data-found
+[208/252] Nuvoretail                     0 jobs  via zohorecruit:nuvoretail (0 open)
+[209/252] Nexverse Digital Studios     !! careers-page-read-but-lists-no-openings
+[210/252] NetCarrots Loyalty Services  !! careers-page-unreachable
+[211/252] Netrasemi                    !! careers-page-read-but-lists-no-openings
+[212/252] Neokred                      !! no-job-data-found
+[213/252] NextWave Multimedia          !! no-job-data-found
+[214/252] Novus Loyalty                  5 jobs  via headings:https://www.novus-loyalty.com/career
+[215/252] Nspira Management Services   !! no-job-data-found
+[216/252] Niro                         !! careers-page-unreachable
+[217/252] Nautilus Mobile                5 jobs  via headings:https://www.nautilusmobile.com/career-1
+[218/252] Nivesh                       !! careers-page-read-but-lists-no-openings
+[219/252] Northern Arc Capital         !! careers-page-unreachable
+[220/252] NJ India Invest              !! careers-page-unreachable
+[221/252] NODWIN Gaming                  2 jobs  via wordpress:https://nodwingaming.com
+[222/252] Novopay Solutions            !! careers-page-read-but-lists-no-openings
+[223/252] Nexus Power                    0 jobs  via zohorecruit:nexuspower (0 open)
+[224/252] Nirmal Bang                  !! no-job-data-found
+[225/252] Nuvoco Vistas                 42 jobs  via successfactors:careers.nuvoco.com
+[226/252] Nippon India Mutual Fund     !! careers-page-read-but-lists-no-openings
+[227/252] Nxtra by Airtel              !! careers-page-unreachable
+[228/252] NELCO                        !! careers-page-read-but-lists-no-openings
+[229/252] Network18 Media & Investment !! careers-page-read-but-lists-no-openings
+[230/252] NDTV                          20 jobs  via feed:https://www.ndtv.com
+[231/252] Navata Road Transport          4 jobs  via next-data:https://navata.com/current-openings
+[232/252] Nomura Research Institute    !! careers-page-unreachable
+[233/252] Nexval                       !! timed-out
+[234/252] Nexperia                      40 jobs  via workday:nexperia
+[235/252] New India Assurance            2 jobs  via headings:https://newindia.co.in/careers
+[236/252] Nuvolo                        85 jobs  via feed:https://www.nuvolo.com
+[237/252] NTT                          !! careers-page-read-but-lists-no-openings
+[238/252] Novelis                      131 jobs  via icims:jobs-novelis
+[239/252] NCS Group                    !! careers-page-read-but-lists-no-openings
+[240/252] Nearbuy                      !! timed-out
+[241/252] Nylas                          8 jobs  via ashby:nylas
+[242/252] Nexla                          2 jobs  via greenhouse:nexla
+[243/252] Netsurion                    !! blocked-or-error-response
+[244/252] NAGRA Kudelski               !! careers-page-read-but-lists-no-openings
+[245/252] NationsBenefits              !! blocked-or-error-response
+[246/252] Nextracker                   !! blocked-or-error-response
+[247/252] Nestle India                 !! blocked-or-error-response
+[248/252] NTT DATA Business Solutions   63 jobs  via successfactors:careers.nttdata-solutions.com
+[249/252] National Instruments         !! careers-page-read-but-lists-no-openings
+[250/252] NEC India                    !! no-job-data-found
+[251/252] News Corp                    100 jobs  via wordpress:https://newscorp.com
+[252/252] NiCE Actimize                !! blocked-or-error-response
 
-  boards read with jobs : 75
-  boards read, 0 open   : 3
-  could not read        : 50
-  companies w/ matches  : 10
+  boards read with jobs : 129
+  boards read, 0 open   : 7
+  could not read        : 116
+  companies w/ matches  : 12
 
 Wrote careers.txt + results.json

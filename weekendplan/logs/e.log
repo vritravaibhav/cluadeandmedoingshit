@@ -90,3 +90,76 @@ Checking 156 companies (concurrency 8)
 [ 88/156] EY                            90 jobs  via successfactors:careers.ey.com   ** 1 MATCH **
 [ 89/156] eCanarys                       3 jobs  via headings:https://ecanarys.com/careers/
 [ 90/156] Evolvous                       2 jobs  via wordpress:https://evolvous.com
+[ 91/156] Ericsson                     !! blocked-or-error-response
+[ 92/156] Exeevo                       !! careers-page-read-but-lists-no-openings
+[ 93/156] Experian                     !! careers-page-read-but-lists-no-openings
+[ 94/156] Equinix                       72 jobs  via feed:https://careers.equinix.com
+[ 95/156] Expedia Group                150 jobs  via workday:expedia   ** 1 MATCH **
+[ 96/156] Emerson                      !! careers-page-read-but-lists-no-openings
+[ 97/156] Epsilon                      !! careers-page-read-but-lists-no-openings
+[ 98/156] Envestnet                    !! blocked-or-error-response
+[ 99/156] eBay                         190 jobs  via phenom:_self
+[100/156] EXL Service                    4 jobs  via headings:https://www.exlservice.com/careers
+[101/156] Entrust                      !! blocked-or-error-response
+[102/156] Elastic                      245 jobs  via greenhouse:elastic
+[103/156] Eaton                         25 jobs  via sitemap:https://eaton.eightfold.ai
+[104/156] Ensono                        69 jobs  via greenhouse:ensono
+[105/156] Emitrr                       !! careers-page-read-but-lists-no-openings
+[106/156] Epicor Software               40 jobs  via workday:epicorsoftware   ** 1 MATCH **
+[107/156] EnterpriseDB                  15 jobs  via headings:https://www.enterprisedb.com/careers
+[108/156] Extreme Networks             115 jobs  via lever:extremenetworks
+[109/156] Equifax                      !! no-job-data-found
+[110/156] Epiq                          40 jobs  via workday:epiqsystems
+[111/156] Egnyte                        30 jobs  via jobvite:egnyte
+[112/156] Eurofins                     500 jobs  via smartrecruiters:Eurofins
+[113/156] Eli Lilly and Company        !! blocked-or-error-response
+[114/156] Expleo Group                  14 jobs  via icims:expleo-jobs-eg-en   ** 1 MATCH **
+[115/156] e2open                       !! careers-page-read-but-lists-no-openings
+[116/156] Ellucian                      21 jobs  via sitemap:https://careers.ellucian.com   ** 1 MATCH **
+[117/156] Entain                       252 jobs  via smartrecruiters:Entain
+[118/156] Elsevier                      40 jobs  via workday:relx
+[119/156] Evolent Health                38 jobs  via workday:evolent
+[120/156] Eightfold AI                  10 jobs  via feed:https://eightfold.ai
+[121/156] ExxonMobil                     2 jobs  via sitemap:https://corporate.exxonmobil.com
+[122/156] Entrata                       15 jobs  via lever:entrata
+[123/156] Enphase Energy               !! careers-page-read-but-lists-no-openings
+[124/156] Evernorth Health Services    178 jobs  via phenom:_self   ** 1 MATCH **
+[125/156] Everbridge                    19 jobs  via lever:everbridge
+[126/156] Ebix                         !! careers-page-read-but-lists-no-openings
+[127/156] Endava                         3 jobs  via headings:https://www.endava.com/careers
+[128/156] Elanco                        40 jobs  via workday:elanco
+[129/156] Electronic Arts              !! careers-page-read-but-lists-no-openings
+[130/156] Elektrobit                     8 jobs  via headings:https://www.elektrobit.com/careers/
+[131/156] Elekta                        40 jobs  via workday:elekta
+[132/156] Euromonitor International    !! careers-page-read-but-lists-no-openings
+[133/156] Expeditors International     !! careers-page-read-but-lists-no-openings
+[134/156] Ecolab                       !! careers-page-read-but-lists-no-openings
+[135/156] Espressif Systems              2 jobs  via headings:https://www.espressif.com/en/careers
+[136/156] Encore Capital Group          44 jobs  via workday:encore
+[137/156] Elevance Health              326 jobs  via workday:elevancehealth
+[138/156] Enghouse Systems              13 jobs  via bamboohr:enghouse
+[139/156] Ema                           26 jobs  via next-data:https://www.ema.ai/careers
+[140/156] Eltropy                      !! careers-page-read-but-lists-no-openings
+[141/156] eClinicalWorks               !! careers-page-read-but-lists-no-openings
+[142/156] Emerio                       !! no-job-data-found
+[143/156] Eviden                       !! careers-page-read-but-lists-no-openings
+[144/156] eGain                         15 jobs  via html:https://www.egain.com/company/careers/
+[145/156] Ezetap                       !! no-job-data-found
+[146/156] Emkay Global                 !! careers-page-read-but-lists-no-openings
+[147/156] Everest Group India           10 jobs  via feed:https://www.everestgrp.com
+[148/156] Element5                     !! no-job-data-found
+[149/156] Eucloid Data Solutions       !! careers-page-read-but-lists-no-openings
+[150/156] Elevation Capital            !! no-job-data-found
+[151/156] Expedia Group India          !! blocked-or-error-response
+[152/156] Ericpol                      !! no-job-data-found
+[153/156] Enzen                        !! no-job-data-found
+[154/156] eShipz                       !! careers-page-read-but-lists-no-openings
+[155/156] Eka Software                 !! careers-page-read-but-lists-no-openings
+[156/156] Experian India               !! careers-page-read-but-lists-no-openings
+
+  boards read with jobs : 86
+  boards read, 0 open   : 5
+  could not read        : 65
+  companies w/ matches  : 8
+
+Wrote careers.txt + results.json

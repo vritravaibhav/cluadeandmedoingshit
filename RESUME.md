@@ -79,3 +79,33 @@ claudevaibhav.md is the report the user reads to track progress from a
 distance. Update it EVERY cycle alongside RESUME.md. RESUME.md is engineering
 state; claudevaibhav.md is for them — what was asked, what got done, what is
 next, what is broken.
+
+## Freelance sources — probed 2026-08-08 (do NOT re-probe the rejects)
+WIRED IN (6 new adapters in freelance/sites/, all kind:'gig'):
+  flexiple, freelancermap, hubstaff-talent, lemon.io, peopleperhour, twine
+  -> gig sources went 3 -> 9; sweep 1380 -> 2870 postings, gigs 505 -> 1155.
+REJECTED, with the reason (re-probing these is wasted quota):
+  Truelancer     Vercel anti-bot 429 on every path incl. robots.txt
+  Worknhire      defunct - NXDOMAIN
+  Outsourcely    dangling DNS delegation, all NS answer REFUSED
+  Rozgar         salaried job board, not gigs (the known dead-end class).
+                 NOTE its /api and /api/jobs return HTTP 200 with a 750KB SPA
+                 shell - a textbook false-positive endpoint that would have
+                 poisoned the sweep if trusted. Probe payloads, not status codes.
+  Freelance India listing route 500s; programmers.* has an expired TLS cert
+  Internshala    robots.txt Disallow:/ for ClaudeBot/Anthropic-AI/Claude-Web
+  Guru.com       Imperva/Incapsula JS challenge on every path
+  Toptal         403 Cloudflare + robots Disallow /api/ /platform/
+  Wellfound      DataDome CAPTCHA, sitemap blocked too; contract only 3-5%
+  Turing         has feeds (/api/*, linkedinjobs.xml) but robots disallows bots
+  Contra         public API is a talent directory, not gigs; needs X-API-Key
+  Gun.io         no public gigs - matched after vetting
+  Codementor     tutoring/talent directory; real job board behind login
+Rule applied throughout: respect robots.txt and anti-bot measures, never build
+a credentialed scraper or solve a challenge to get listings.
+
+## Circular-require gotcha in freelance/
+freelance/sources.js and freelance/sites/index.js require each other. Entering
+through sites/ first ("node -e require('./sites')") yields
+"sites/index.js did not export an array" - that is the documented trap, NOT a
+bug. Always enter through sources.js: node -e "require('./sources')".

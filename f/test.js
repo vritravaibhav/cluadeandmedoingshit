@@ -2045,7 +2045,12 @@ function reportOnly() {
   console.log(`Rebuilt ${dest} from ${src} (${results.length} companies)`);
 }
 
-if (ARGS.includes('--report-only')) reportOnly();
+/* Required as a module (by weekendplan/render-scan.js) rather than run: hand
+ * over the classifiers so rendered jobs are scored by exactly the same rules
+ * as fetched ones, instead of a second copy that drifts. */
+if (require.main !== module) {
+  module.exports = { score, boilerplateStacks, expWindows, stripHtml, RE_INDIA, RE_ENG_TITLE };
+} else if (ARGS.includes('--report-only')) reportOnly();
 else
   run().catch((e) => {
     console.error(e);

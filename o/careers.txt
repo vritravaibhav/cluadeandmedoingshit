@@ -2,13 +2,13 @@
 OPEN ROLES AT 112 "W" COMPANIES
 Looking for : Software Engineer, ~2 years experience
 Priority    : Java, Dart/Flutter        Location preference : India
-Generated   : 2026-08-07 20:20:45 UTC  by test.js
+Generated   : 2026-08-08 04:38:55 UTC  by test.js
 ==============================================================================
 
 Boards read with open roles : 55
 Boards read, currently empty: 5
 Could not read              : 52
-Total open roles seen       : 908
+Total open roles seen       : 887
 
 ##############################################################################
 # SECTION 1 — MATCHES: Software Engineer + Java/Dart/Flutter + ~2 yrs
@@ -480,7 +480,7 @@ Total open roles seen       : 908
       url      : https://careers.olamgroup.com
 
 >> OpenText India  [India]
-    board    : phenom:_self   —  156 open roles
+    board    : phenom:_self   —  134 open roles
     Software Developer
       location : Bangalore, Karnataka   [INDIA]
       exp req  : 3-5y    stack: Java    score: 82
@@ -850,7 +850,7 @@ Total open roles seen       : 908
       url      : https://www.oliveboard.in/careers/
 
 >> OLX India  [India]
-    board    : headings:https://www.olx.in/jobs_c4   —  8 open roles
+    board    : headings:https://www.olx.in/jobs_c4   —  9 open roles
     IT Engineer & Developer
       location : n/a   [INDIA]
       exp req  : not stated    stack: —    score: 49
@@ -913,11 +913,6 @@ Total open roles seen       : 908
     http status  : 0, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 0, 200
     ATS tried    : greenhouse:olacabs -> no board ; lever:olacabs -> no board ; ashby:olacabs -> no board ; recruitee:olacabs -> no board
 
->> Ola Electric  [India]  — careers-page-read-but-lists-no-openings
-    careers page : undefined
-    http status  : 400, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200
-    ATS tried    : greenhouse:olaelectric -> no board ; lever:olaelectric -> no board ; ashby:olaelectric -> no board ; recruitee:olaelectric -> no board
-
 >> Optum India  [India]  — careers-page-read-but-lists-no-openings
     careers page : undefined
     http status  : 0, 200, 200, 404
@@ -950,7 +945,7 @@ Total open roles seen       : 908
 
 >> Oizom  [India]  — careers-page-read-but-lists-no-openings
     careers page : undefined
-    http status  : 0, 200, 200, 200, 200
+    http status  : 0, 200, 200, 200, 200, 200
     ATS tried    : greenhouse:oizom -> no board ; lever:oizom -> no board ; ashby:oizom -> no board ; recruitee:oizom -> no board
 
 >> Onclusive India  [India]  — careers-page-read-but-lists-no-openings
@@ -1078,9 +1073,14 @@ Total open roles seen       : 908
     http status  : 0, 200, 404, 404, 404, 404, 404, 404, 404, 200
     ATS tried    : greenhouse:obopay -> no board ; lever:obopay -> no board ; ashby:obopay -> no board ; recruitee:obopay -> no board
 
+>> OnePlay  [India]  — careers-page-unreachable
+    careers page : undefined
+    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 0
+    ATS tried    : greenhouse:oneplay -> no board ; lever:oneplay -> no board ; ashby:oneplay -> no board ; recruitee:oneplay -> no board
+
 >> OYO  [India]  — no-job-data-found
     careers page : undefined
-    http status  : 0, 200, 404, 404, 404, 404, 404, 404
+    http status  : 0, 200, 404, 404, 404, 404, 404
     ATS tried    : greenhouse:oyorooms -> no board ; lever:oyorooms -> no board ; ashby:oyorooms -> no board ; recruitee:oyorooms -> no board
 
 >> Olive Crypto  [India]  — no-job-data-found
@@ -1133,7 +1133,6 @@ Total open roles seen       : 908
     http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200, skipped-off-domain, skipped-off-domain
     ATS tried    : greenhouse:ongrid -> no board ; lever:ongrid -> no board ; ashby:ongrid -> no board ; recruitee:ongrid -> no board
 
->> OnePlay  [India]  — no-job-data-found
+>> Ola Electric  [India]  — timed-out
     careers page : undefined
-    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
-    ATS tried    : greenhouse:oneplay -> no board ; lever:oneplay -> no board ; ashby:oneplay -> no board ; recruitee:oneplay -> no board
+    http status  : 

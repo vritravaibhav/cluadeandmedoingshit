@@ -12,7 +12,7 @@ You track progress here. I update this file every cycle. Newest first.
 > websites · keep pushing · add a 24hr watch · report in claudevaibhav.md
 
 **Done:** freelance folders, the concise shaping, the 24h watch, this file.
-**In progress:** more freelance sources (see "Next" below).
+**Done too:** 6 new freelance sources wired in — details below.
 
 ### Freelance — `weekendplan_freelance/`   [UPDATED: 6 new sources wired in]
 
@@ -87,14 +87,8 @@ Two fixes landed that made folder 1 trustworthy:
 - Freelance sweep refresh, then rebuild.
 
 ### Next
-1. **More freelance sources.** Note the constraint: generic remote-job boards
-   are a dead end here — an earlier sweep pulled 875 postings from them and got
-   7 usable, 0 actual contract gigs. So the work is real gig marketplaces
-   (Truelancer, PeoplePerHour, Guru, Contra, Wellfound contract, Toptal-style
-   networks), and most need probing for an accessible feed before they are
-   worth wiring in. Only Freelancer.com has had an open API so far.
-2. Live research for letters a, c, e, i, m, s — the last 6 never researched.
-3. Sample the boards still reporting "no openings" after the render pass.
+1. Live research for letters a, c, e, i, m, s — the last 6 never researched.
+2. Sample the boards still reporting "no openings" after the render pass.
 
 ### Watches running
 | Every | Does |

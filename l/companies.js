@@ -1,4 +1,4 @@
-module.exports=[
+module.exports = [
  {
   "name": "L&T Finance",
   "country": "India",
@@ -805,5 +805,629 @@ module.exports=[
   "name": "Lucideus",
   "country": "India",
   "site": "safe.security"
+ },
+ {
+  "name": "Lakshya Digital",
+  "country": "India",
+  "site": "lakshyadigital.com",
+  "careers": "https://lakshyadigital.com/careers"
+ },
+ {
+  "name": "Langoor",
+  "country": "India",
+  "site": "langoor.com",
+  "careers": "https://langoor.com/join-us"
+ },
+ {
+  "name": "Lapiz Digital Services",
+  "country": "India",
+  "site": "lapizdigital.com",
+  "careers": "https://lapizdigital.com/careers"
+ },
+ {
+  "name": "Laserwords",
+  "country": "India",
+  "site": "laserwords.com"
+ },
+ {
+  "name": "LawRato",
+  "country": "India",
+  "site": "lawrato.com",
+  "careers": "https://lawrato.com/careers"
+ },
+ {
+  "name": "Leadsoc Technologies",
+  "country": "India",
+  "site": "leadsoc.com",
+  "careers": "https://leadsoc.com/careers"
+ },
+ {
+  "name": "Learnbay",
+  "country": "India",
+  "site": "learnbay.co"
+ },
+ {
+  "name": "LearningMate",
+  "country": "India",
+  "site": "learningmate.com",
+  "careers": "https://learningmate.com/careers"
+ },
+ {
+  "name": "Learnyst",
+  "country": "India",
+  "site": "learnyst.com",
+  "careers": "https://learnyst.com/careers"
+ },
+ {
+  "name": "LegalKart",
+  "country": "India",
+  "site": "legalkart.com"
+ },
+ {
+  "name": "LegalWiz.in",
+  "country": "India",
+  "site": "legalwiz.in",
+  "careers": "https://legalwiz.in/career"
+ },
+ {
+  "name": "Lemnisk",
+  "country": "India",
+  "site": "lemnisk.co",
+  "careers": "https://lemnisk.co/careers"
+ },
+ {
+  "name": "Leo9 Studio",
+  "country": "India",
+  "site": "leo9studio.com"
+ },
+ {
+  "name": "Lepton Software",
+  "country": "India",
+  "site": "leptonsoftware.com",
+  "careers": "https://leptonsoftware.com/career"
+ },
+ {
+  "name": "LibSys",
+  "country": "India",
+  "site": "libsys.co.in",
+  "careers": "https://libsys.co.in/career"
+ },
+ {
+  "name": "Lifease Solutions",
+  "country": "India",
+  "site": "lifeasesolutions.com"
+ },
+ {
+  "name": "Lincode Labs",
+  "country": "India",
+  "site": "lincode.ai"
+ },
+ {
+  "name": "Lissun",
+  "country": "India",
+  "site": "lissun.app"
+ },
+ {
+  "name": "LiteBreeze",
+  "country": "India",
+  "site": "litebreeze.com",
+  "careers": "https://litebreeze.com/careers"
+ },
+ {
+  "name": "Livares Technologies",
+  "country": "India",
+  "site": "livares.com"
+ },
+ {
+  "name": "Loyalty Juggernaut",
+  "country": "India",
+  "site": "lji.io"
+ },
+ {
+  "name": "Loco",
+  "country": "India",
+  "site": "loco.com"
+ },
+ {
+  "name": "Logicwind",
+  "country": "India",
+  "site": "logicwind.com",
+  "careers": "https://logicwind.com/career"
+ },
+ {
+  "name": "Lucidity",
+  "country": "India",
+  "site": "lucidity.cloud"
+ },
+ {
+  "name": "Lumenci",
+  "country": "India",
+  "site": "lumenci.com",
+  "careers": "https://lumenci.com/careers"
+ },
+ {
+  "name": "Lyearn",
+  "country": "India",
+  "site": "lyearn.com"
+ },
+ {
+  "name": "Labellerr",
+  "country": "India",
+  "site": "labellerr.com",
+  "careers": "https://labellerr.com/careers"
+ },
+ {
+  "name": "Lampros Tech",
+  "country": "India",
+  "site": "lampros.tech"
+ },
+ {
+  "name": "Lenvica",
+  "country": "India",
+  "site": "lenvica.com"
+ },
+ {
+  "name": "Litmus Branding",
+  "country": "India",
+  "site": "litmusbranding.com",
+  "careers": "https://litmusbranding.com/careers"
+ },
+ {
+  "name": "LivFin",
+  "country": "India",
+  "site": "livfin.com"
+ },
+ {
+  "name": "LocalCircles",
+  "country": "India",
+  "site": "localcircles.com"
+ },
+ {
+  "name": "Logisy",
+  "country": "India",
+  "site": "logisy.tech"
+ },
+ {
+  "name": "Lera Technologies",
+  "country": "India",
+  "site": "lera.us",
+  "careers": "https://lera.us/careers"
+ },
+ {
+  "name": "Leadzen.ai",
+  "country": "India",
+  "site": "leadzen.ai"
+ },
+ {
+  "name": "Leapswitch Networks",
+  "country": "India",
+  "site": "leapswitch.com"
+ },
+ {
+  "name": "LearnTube",
+  "country": "India",
+  "site": "learntube.ai"
+ },
+ {
+  "name": "Leegality",
+  "country": "India",
+  "site": "leegality.com"
+ },
+ {
+  "name": "Legistify",
+  "country": "India",
+  "site": "legistify.com",
+  "careers": "https://legistify.com/careers"
+ },
+ {
+  "name": "LifeCell",
+  "country": "India",
+  "site": "lifecell.in"
+ },
+ {
+  "name": "Liquide",
+  "country": "India",
+  "site": "liquide.life",
+  "careers": "https://liquide.life/careers"
+ },
+ {
+  "name": "LOBB",
+  "country": "India",
+  "site": "lobb.in"
+ },
+ {
+  "name": "Logipulse",
+  "country": "India",
+  "site": "logipulse.com"
+ },
+ {
+  "name": "Looppanel",
+  "country": "India",
+  "site": "looppanel.com"
+ },
+ {
+  "name": "LXME",
+  "country": "India",
+  "site": "lxme.in"
+ },
+ {
+  "name": "Linways Technologies",
+  "country": "India",
+  "site": "linways.com"
+ },
+ {
+  "name": "Lanware Solutions",
+  "country": "India",
+  "site": "lanwaresolutions.com",
+  "careers": "https://lanwaresolutions.com/career"
+ },
+ {
+  "name": "Lisbell Technologies",
+  "country": "India",
+  "site": "lisbell.com",
+  "careers": "https://lisbell.com/careers"
+ },
+ {
+  "name": "LucidPlus Infotech",
+  "country": "India",
+  "site": "lucidplus.com"
+ },
+ {
+  "name": "Luure.ai",
+  "country": "India",
+  "site": "luure.ai"
+ },
+ {
+  "name": "LabGex Innovations",
+  "country": "India",
+  "site": "labgex.com",
+  "careers": "https://labgex.com/careers"
+ },
+ {
+  "name": "Labglo Technologies",
+  "country": "India",
+  "site": "labglo.com",
+  "careers": "https://labglo.com/careers"
+ },
+ {
+  "name": "LambdaZen",
+  "country": "India",
+  "site": "lambdazen.com"
+ },
+ {
+  "name": "Law Qube Technologies",
+  "country": "India",
+  "site": "lawqube.com"
+ },
+ {
+  "name": "Leader Group",
+  "country": "India",
+  "site": "leadergroup.com",
+  "careers": "https://leadergroup.com/careers"
+ },
+ {
+  "name": "Lektik",
+  "country": "India",
+  "site": "lektik.com",
+  "careers": "https://lektik.com/careers"
+ },
+ {
+  "name": "Let's Build",
+  "country": "India",
+  "site": "letsbuild.co"
+ },
+ {
+  "name": "Life and Opportunity Solutions",
+  "country": "India",
+  "site": "lifeandopportunity.com"
+ },
+ {
+  "name": "Lean Transition Solutions",
+  "country": "India",
+  "site": "leantransitionsolutions.com",
+  "careers": "https://leantransitionsolutions.com/about/careers"
+ },
+ {
+  "name": "Lumenze Digital",
+  "country": "India",
+  "site": "lumenze.com"
+ },
+ {
+  "name": "Ladera Technology",
+  "country": "India",
+  "site": "laderatechnology.com",
+  "careers": "https://laderatechnology.com/careers"
+ },
+ {
+  "name": "Ladybird Web Solution",
+  "country": "India",
+  "site": "ladybirdweb.com",
+  "careers": "https://ladybirdweb.com/careers"
+ },
+ {
+  "name": "Lakshya Software Technologies",
+  "country": "India",
+  "site": "lakshya-soft.com"
+ },
+ {
+  "name": "Launched Global",
+  "country": "India",
+  "site": "launchedglobal.in"
+ },
+ {
+  "name": "Lazer Ken IT Services",
+  "country": "India",
+  "site": "lazerken.com"
+ },
+ {
+  "name": "Lean IT Corp",
+  "country": "India",
+  "site": "leanitcorp.com"
+ },
+ {
+  "name": "Leapmile Robotics",
+  "country": "India",
+  "site": "leapmile.com"
+ },
+ {
+  "name": "Leeway Softech",
+  "country": "India",
+  "site": "leewaysoftech.com"
+ },
+ {
+  "name": "Legasis",
+  "country": "India",
+  "site": "legasis.in",
+  "careers": "https://legasis.in/careers"
+ },
+ {
+  "name": "Lentera Technologies",
+  "country": "India",
+  "site": "lentera.in",
+  "careers": "https://lentera.in/careers"
+ },
+ {
+  "name": "Lester Infoservices",
+  "country": "India",
+  "site": "lesterinc.com",
+  "careers": "https://lesterinc.com/careers"
+ },
+ {
+  "name": "Lexington Soft",
+  "country": "India",
+  "site": "lexingtonsoft.com"
+ },
+ {
+  "name": "Lifeline Systech Solutions",
+  "country": "India",
+  "site": "lifeline-sys.com"
+ },
+ {
+  "name": "LightHouse Info Systems",
+  "country": "India",
+  "site": "lighthouseindia.com"
+ },
+ {
+  "name": "Linear Code Technologies",
+  "country": "India",
+  "site": "linearcode.in"
+ },
+ {
+  "name": "LinkageIT",
+  "country": "India",
+  "site": "linkageit.com"
+ },
+ {
+  "name": "Linkfields Innovations",
+  "country": "India",
+  "site": "linkfields.com",
+  "careers": "https://linkfields.com/careers"
+ },
+ {
+  "name": "Lissomsoft",
+  "country": "India",
+  "site": "lissomsoft.com"
+ },
+ {
+  "name": "LN Webworks",
+  "country": "India",
+  "site": "lnwebworks.com",
+  "careers": "https://lnwebworks.com/career"
+ },
+ {
+  "name": "Logic ERP Solutions",
+  "country": "India",
+  "site": "logicerp.com"
+ },
+ {
+  "name": "LogicLadder",
+  "country": "India",
+  "site": "logicladder.com"
+ },
+ {
+  "name": "Logic Systems & Solutions",
+  "country": "India",
+  "site": "logicsystems.co.in"
+ },
+ {
+  "name": "Logixal",
+  "country": "India",
+  "site": "logixal.com",
+  "careers": "https://logixal.com/careers"
+ },
+ {
+  "name": "Logix Shapers",
+  "country": "India",
+  "site": "logixshapers.com"
+ },
+ {
+  "name": "Lowcode Labs",
+  "country": "India",
+  "site": "lowcodelabs.in"
+ },
+ {
+  "name": "Lytty",
+  "country": "India",
+  "site": "lytty.com"
+ },
+ {
+  "name": "Learnpedia",
+  "country": "India",
+  "site": "learnpedia.in"
+ },
+ {
+  "name": "Lex Nimble Solutions",
+  "country": "India",
+  "site": "lexnimble.in"
+ },
+ {
+  "name": "Loginsoft",
+  "country": "India",
+  "site": "loginsoft.com",
+  "careers": "https://loginsoft.com/careers"
+ },
+ {
+  "name": "Lenok Solutions",
+  "country": "India",
+  "site": "lenoksolutions.com",
+  "careers": "https://lenoksolutions.com/career"
+ },
+ {
+  "name": "Lilac Infotech",
+  "country": "India",
+  "site": "lilacinfotech.com",
+  "careers": "https://lilacinfotech.com/careers"
+ },
+ {
+  "name": "Limenzy Technologies",
+  "country": "India",
+  "site": "limenzy.com",
+  "careers": "https://limenzy.com/careers"
+ },
+ {
+  "name": "Logiology Solutions",
+  "country": "India",
+  "site": "logiology.com"
+ },
+ {
+  "name": "Leadrat",
+  "country": "India",
+  "site": "leadrat.com",
+  "careers": "https://leadrat.com/career"
+ },
+ {
+  "name": "LEO1",
+  "country": "India",
+  "site": "leo1.in"
+ },
+ {
+  "name": "Lexlegis.ai",
+  "country": "India",
+  "site": "lexlegis.ai",
+  "careers": "https://lexlegis.ai/company/careers"
+ },
+ {
+  "name": "L.G. Balakrishnan & Bros",
+  "country": "India",
+  "site": "lgb.co.in",
+  "careers": "https://lgb.co.in/careers"
+ },
+ {
+  "name": "Livguard",
+  "country": "India",
+  "site": "livguard.com"
+ },
+ {
+  "name": "Lotus Wireless Technologies",
+  "country": "India",
+  "site": "lotuswireless.com"
+ },
+ {
+  "name": "Lakebrains Technologies",
+  "country": "India",
+  "site": "lakebrains.com"
+ },
+ {
+  "name": "Leap Club",
+  "country": "India",
+  "site": "leap.club"
+ },
+ {
+  "name": "LogicGo Infotech",
+  "country": "India",
+  "site": "logicgoinfotech.com",
+  "careers": "https://logicgoinfotech.com/careers"
+ },
+ {
+  "name": "Loyal IT Solutions",
+  "country": "India",
+  "site": "loyalitsolutions.com"
+ },
+ {
+  "name": "LS Digital",
+  "country": "India",
+  "site": "lsdigital.com",
+  "careers": "https://lsdigital.com/careers"
+ },
+ {
+  "name": "Lean Impeccable Technologies",
+  "country": "India",
+  "site": "leanimpeccable.com"
+ },
+ {
+  "name": "Letitbex AI",
+  "country": "India",
+  "site": "letitbexai.com",
+  "careers": "https://letitbexai.com/company/careers"
+ },
+ {
+  "name": "Linxas",
+  "country": "United States",
+  "site": "linxas.com",
+  "careers": "https://linxas.com/careers"
+ },
+ {
+  "name": "LogicMatter",
+  "country": "United States",
+  "site": "logicmatter.com"
+ },
+ {
+  "name": "Lightbeam Health Solutions",
+  "country": "United States",
+  "site": "lightbeamhealth.com",
+  "careers": "https://lightbeamhealth.com/careers"
+ },
+ {
+  "name": "Littelfuse",
+  "country": "United States",
+  "site": "littelfuse.com"
+ },
+ {
+  "name": "LivePerson",
+  "country": "United States",
+  "site": "liveperson.com",
+  "careers": "https://liveperson.com/careers"
+ },
+ {
+  "name": "LotusFlare",
+  "country": "United States",
+  "site": "lotusflare.com",
+  "careers": "https://lotusflare.com/careers"
+ },
+ {
+  "name": "Lantronix",
+  "country": "United States",
+  "site": "lantronix.com",
+  "careers": "https://lantronix.com/about/careers"
+ },
+ {
+  "name": "LoudCloud Systems",
+  "country": "United States",
+  "site": "loudcloudsystems.com"
+ },
+ {
+  "name": "LuLu Financial Holdings",
+  "country": "UAE",
+  "site": "lulufin.com"
  }
 ];

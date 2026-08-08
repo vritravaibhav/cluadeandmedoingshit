@@ -759,5 +759,682 @@ module.exports=[
   "name": "Dhruva Consultants",
   "country": "India",
   "site": "dhruvaadvisors.com"
+ },
+ {
+  "name": "DataWeave",
+  "country": "India",
+  "site": "dataweave.com",
+  "careers": "https://dataweave.com/us/careers"
+ },
+ {
+  "name": "Digio",
+  "country": "India",
+  "site": "digio.in"
+ },
+ {
+  "name": "DigiBoxx",
+  "country": "India",
+  "site": "digiboxx.com",
+  "careers": "https://digiboxx.com/careers"
+ },
+ {
+  "name": "Dozee",
+  "country": "India",
+  "site": "dozeehealth.ai",
+  "careers": "https://www.dozeehealth.ai/careers"
+ },
+ {
+  "name": "Docquity",
+  "country": "Singapore",
+  "site": "docquity.com"
+ },
+ {
+  "name": "Dhwani Rural Information Systems",
+  "country": "India",
+  "site": "dhwaniris.com",
+  "careers": "https://people.dhwaniris.com/jobs"
+ },
+ {
+  "name": "Digivive Services",
+  "country": "India",
+  "site": "digivive.com"
+ },
+ {
+  "name": "Divum",
+  "country": "India",
+  "site": "divum.in",
+  "careers": "https://divum.in/careers"
+ },
+ {
+  "name": "Devfolio",
+  "country": "India",
+  "site": "devfolio.co"
+ },
+ {
+  "name": "Devtron",
+  "country": "India",
+  "site": "devtron.ai"
+ },
+ {
+  "name": "D2i Technology",
+  "country": "India",
+  "site": "d2itechnology.com",
+  "careers": "https://d2itechnology.com/careers/"
+ },
+ {
+  "name": "DiGiSPICE Technologies",
+  "country": "India",
+  "site": "digispice.com"
+ },
+ {
+  "name": "Dixon Technologies",
+  "country": "India",
+  "site": "dixoninfo.com"
+ },
+ {
+  "name": "Deftsoft",
+  "country": "India",
+  "site": "deftsoft.com",
+  "careers": "https://deftsoft.com/career/"
+ },
+ {
+  "name": "Dazeworks",
+  "country": "India",
+  "site": "dazeworks.com",
+  "careers": "https://dazeworks.com/careers/"
+ },
+ {
+  "name": "Diagnal",
+  "country": "India",
+  "site": "diagnal.com",
+  "careers": "https://www.diagnal.com/careers/"
+ },
+ {
+  "name": "DreamOrbit",
+  "country": "India",
+  "site": "dreamorbit.com"
+ },
+ {
+  "name": "Digital Nirvana",
+  "country": "India",
+  "site": "digitalnirvana.com"
+ },
+ {
+  "name": "Digit88 Technologies",
+  "country": "India",
+  "site": "digit88.com"
+ },
+ {
+  "name": "Directi",
+  "country": "India",
+  "site": "directi.com",
+  "careers": "https://careers.directi.com/"
+ },
+ {
+  "name": "Disprz",
+  "country": "India",
+  "site": "disprz.ai"
+ },
+ {
+  "name": "Ditto Insurance",
+  "country": "India",
+  "site": "joinditto.in"
+ },
+ {
+  "name": "DotPe",
+  "country": "India",
+  "site": "dotpe.in"
+ },
+ {
+  "name": "Drivetrain",
+  "country": "India",
+  "site": "drivetrain.ai"
+ },
+ {
+  "name": "Dubverse",
+  "country": "India",
+  "site": "dubverse.ai"
+ },
+ {
+  "name": "Decipher Zone Softwares",
+  "country": "India",
+  "site": "decipherzone.com",
+  "careers": "https://www.decipherzone.com/career"
+ },
+ {
+  "name": "Dikonia",
+  "country": "India",
+  "site": "dikonia.com"
+ },
+ {
+  "name": "DreamzTech Solutions",
+  "country": "India",
+  "site": "dreamztech.com"
+ },
+ {
+  "name": "DigitalAPI",
+  "country": "India",
+  "site": "digitalapi.ai",
+  "careers": "https://www.digitalapi.ai/career"
+ },
+ {
+  "name": "DataToBiz",
+  "country": "India",
+  "site": "datatobiz.com",
+  "careers": "https://careers.datatobiz.com/"
+ },
+ {
+  "name": "Datahut",
+  "country": "India",
+  "site": "datahut.co"
+ },
+ {
+  "name": "Data Semantics",
+  "country": "India",
+  "site": "datasemantics.co",
+  "careers": "https://datasemantics.co/careers/"
+ },
+ {
+  "name": "Datanetiix Solutions",
+  "country": "India",
+  "site": "datanetiix.com",
+  "careers": "https://datanetiix.com/careers"
+ },
+ {
+  "name": "Ditstek Innovations",
+  "country": "India",
+  "site": "ditstek.com"
+ },
+ {
+  "name": "Doyensys",
+  "country": "India",
+  "site": "doyensys.com",
+  "careers": "https://doyensys.com/careers/"
+ },
+ {
+  "name": "Dquip",
+  "country": "India",
+  "site": "dquip.com",
+  "careers": "https://www.dquip.com/careers-at-dquip.php"
+ },
+ {
+  "name": "Droidal",
+  "country": "India",
+  "site": "droidal.ai"
+ },
+ {
+  "name": "Duplex Technologies",
+  "country": "India",
+  "site": "duplextech.com",
+  "careers": "https://duplextech.com/careers.html"
+ },
+ {
+  "name": "DynPro India",
+  "country": "India",
+  "site": "dynpro.com",
+  "careers": "https://dynpro.com/careers/"
+ },
+ {
+  "name": "delaPlex",
+  "country": "India",
+  "site": "delaplex.com",
+  "careers": "https://delaplex.com/careers/"
+ },
+ {
+  "name": "Deskera",
+  "country": "Singapore",
+  "site": "deskera.com"
+ },
+ {
+  "name": "Demandbase",
+  "country": "United States",
+  "site": "demandbase.com",
+  "careers": "https://www.demandbase.com/about-us/careers/job-openings/"
+ },
+ {
+  "name": "Decimal Point Analytics",
+  "country": "India",
+  "site": "decimalpointanalytics.com",
+  "careers": "https://decimalpointanalytics.com/careers/life-as-a-decimal"
+ },
+ {
+  "name": "Deetya Soft",
+  "country": "India",
+  "site": "deetyasoft.com"
+ },
+ {
+  "name": "Digital Mesh",
+  "country": "India",
+  "site": "digitalmesh.com",
+  "careers": "https://www.digitalmesh.com/careers.php"
+ },
+ {
+  "name": "Docon Technologies",
+  "country": "India",
+  "site": "docon.co.in",
+  "careers": "https://docon.freshteam.com/jobs"
+ },
+ {
+  "name": "Doxper",
+  "country": "India",
+  "site": "doxper.com"
+ },
+ {
+  "name": "Dista",
+  "country": "India",
+  "site": "dista.ai",
+  "careers": "https://dista.ai/careers/"
+ },
+ {
+  "name": "DemandFarm",
+  "country": "India",
+  "site": "demandfarm.com",
+  "careers": "https://www.demandfarm.com/careers/"
+ },
+ {
+  "name": "DeepTek",
+  "country": "India",
+  "site": "deeptek.ai",
+  "careers": "https://www.deeptek.ai/careers"
+ },
+ {
+  "name": "Deepvue",
+  "country": "India",
+  "site": "deepvue.ai"
+ },
+ {
+  "name": "Definedge Securities",
+  "country": "India",
+  "site": "definedgesecurities.com",
+  "careers": "https://www.definedgesecurities.com/career/"
+ },
+ {
+  "name": "DevDynamics",
+  "country": "India",
+  "site": "devdynamics.ai"
+ },
+ {
+  "name": "DaveAI",
+  "country": "India",
+  "site": "iamdave.ai",
+  "careers": "https://www.iamdave.ai/careers/"
+ },
+ {
+  "name": "Digivriddhi Technologies",
+  "country": "India",
+  "site": "dgv.in"
+ },
+ {
+  "name": "DreamFolks Services",
+  "country": "India",
+  "site": "dreamfolks.com"
+ },
+ {
+  "name": "Data Patterns India",
+  "country": "India",
+  "site": "datapatternsindia.com"
+ },
+ {
+  "name": "DCX Systems",
+  "country": "India",
+  "site": "dcxindia.com",
+  "careers": "https://dcxindia.com/careers/"
+ },
+ {
+  "name": "Danlaw",
+  "country": "United States",
+  "site": "danlawinc.com",
+  "careers": "https://www.danlawinc.com/careers"
+ },
+ {
+  "name": "DTDC Express",
+  "country": "India",
+  "site": "dtdc.com"
+ },
+ {
+  "name": "DCB Bank",
+  "country": "India",
+  "site": "dcbbank.com"
+ },
+ {
+  "name": "DMI Finance",
+  "country": "India",
+  "site": "dmifinance.in",
+  "careers": "https://www.dmifinance.in/about-us/careers/"
+ },
+ {
+  "name": "Dhanlaxmi Bank",
+  "country": "India",
+  "site": "dhanbank.com"
+ },
+ {
+  "name": "Dream11",
+  "country": "India",
+  "site": "dream11.com"
+ },
+ {
+  "name": "Dyte",
+  "country": "India",
+  "site": "dyte.io"
+ },
+ {
+  "name": "Devstringx Technologies",
+  "country": "India",
+  "site": "devstringx.com",
+  "careers": "https://www.devstringx.com/careers"
+ },
+ {
+  "name": "Devstree IT Services",
+  "country": "India",
+  "site": "devstree.com"
+ },
+ {
+  "name": "Data Ingenious Global",
+  "country": "India",
+  "site": "dataingenious.com"
+ },
+ {
+  "name": "Dhyey Consulting Services",
+  "country": "India",
+  "site": "dhyey.com"
+ },
+ {
+  "name": "Dynacons Systems & Solutions",
+  "country": "India",
+  "site": "dynacons.com",
+  "careers": "https://careers.dynacons.com/"
+ },
+ {
+  "name": "D-Link India",
+  "country": "India",
+  "site": "dlink.co.in"
+ },
+ {
+  "name": "Delta Air Lines",
+  "country": "United States",
+  "site": "delta.com"
+ },
+ {
+  "name": "DoubleVerify",
+  "country": "United States",
+  "site": "doubleverify.com",
+  "careers": "https://doubleverify.com/company/careers"
+ },
+ {
+  "name": "Dana Incorporated",
+  "country": "United States",
+  "site": "dana.com"
+ },
+ {
+  "name": "digiRyte",
+  "country": "India",
+  "site": "digiryte.com"
+ },
+ {
+  "name": "DroneAcharya Aerial Innovations",
+  "country": "India",
+  "site": "droneacharya.com"
+ },
+ {
+  "name": "Dataeaze Systems",
+  "country": "India",
+  "site": "dataeaze.io",
+  "careers": "https://www.dataeaze.io/career/"
+ },
+ {
+  "name": "Dataviv Technologies",
+  "country": "India",
+  "site": "dataviv.in"
+ },
+ {
+  "name": "Datazip",
+  "country": "India",
+  "site": "datazip.io"
+ },
+ {
+  "name": "Destm Technologies",
+  "country": "India",
+  "site": "destm.com"
+ },
+ {
+  "name": "Deuex Solutions",
+  "country": "India",
+  "site": "deuexsolutions.com",
+  "careers": "https://deuexsolutions.com/careers"
+ },
+ {
+  "name": "dotSolved Systems",
+  "country": "United States",
+  "site": "dotsolved.com",
+  "careers": "https://dotsolved.com/company/life-at-dotsolved/"
+ },
+ {
+  "name": "DeepKlarity",
+  "country": "India",
+  "site": "deepklarity.com",
+  "careers": "https://deepklarity.com/careers/"
+ },
+ {
+  "name": "Delta Corp",
+  "country": "India",
+  "site": "deltacorp.in",
+  "careers": "https://deltacorp.in/career.php"
+ },
+ {
+  "name": "Dedalus",
+  "country": "Italy",
+  "site": "dedalus.com",
+  "careers": "https://www.dedalus.com/global/en/working-at-dedalus/why-work-with-us/"
+ },
+ {
+  "name": "dsm-firmenich",
+  "country": "Switzerland",
+  "site": "dsm-firmenich.com",
+  "careers": "https://careers.dsm-firmenich.com/en/careers.html"
+ },
+ {
+  "name": "dSPACE",
+  "country": "Germany",
+  "site": "dspace.com",
+  "careers": "https://www.dspace.com/en/pub/home/career.cfm"
+ },
+ {
+  "name": "DecodeUp Technologies",
+  "country": "India",
+  "site": "decodeup.com"
+ },
+ {
+  "name": "DigitalXC AI",
+  "country": "India",
+  "site": "digitalxc.com",
+  "careers": "https://www.digitalxc.com/careers/"
+ },
+ {
+  "name": "Durapid Technologies",
+  "country": "India",
+  "site": "durapid.com",
+  "careers": "https://durapid.com/career/"
+ },
+ {
+  "name": "DXFactor",
+  "country": "India",
+  "site": "dxfactor.com"
+ },
+ {
+  "name": "Dyninno",
+  "country": "United States",
+  "site": "dyninno.com",
+  "careers": "https://dyninno.com/en/careers/"
+ },
+ {
+  "name": "Dynamics Square",
+  "country": "India",
+  "site": "dynamicssquare.com",
+  "careers": "https://www.dynamicssquare.com/career/"
+ },
+ {
+  "name": "Decision Point Analytics",
+  "country": "India",
+  "site": "decisionpoint.ai",
+  "careers": "https://decisionpoint.ai/careers/"
+ },
+ {
+  "name": "DBiz.ai",
+  "country": "India",
+  "site": "dbiz.ai",
+  "careers": "https://dbiz.ai/careers"
+ },
+ {
+  "name": "DealShare",
+  "country": "India",
+  "site": "dealshare.in"
+ },
+ {
+  "name": "DreamSetGo",
+  "country": "India",
+  "site": "dreamsetgo.com",
+  "careers": "https://www.dreamsetgo.com/careers"
+ },
+ {
+  "name": "Data Axle",
+  "country": "United States",
+  "site": "data-axle.com"
+ },
+ {
+  "name": "Dotgo",
+  "country": "India",
+  "site": "dotgo.com"
+ },
+ {
+  "name": "Dotworld Technologies",
+  "country": "India",
+  "site": "dotworld.in"
+ },
+ {
+  "name": "Devlats",
+  "country": "India",
+  "site": "devlats.com"
+ },
+ {
+  "name": "DeepEdge",
+  "country": "India",
+  "site": "deepedge.ai"
+ },
+ {
+  "name": "Dimensionless Technologies",
+  "country": "India",
+  "site": "dimensionless.in"
+ },
+ {
+  "name": "Dynamic Netsoft Technologies",
+  "country": "India",
+  "site": "dynamicnetsoft.com"
+ },
+ {
+  "name": "Dexciss Technology",
+  "country": "India",
+  "site": "dexciss.com"
+ },
+ {
+  "name": "Darwix AI",
+  "country": "India",
+  "site": "darwix.ai"
+ },
+ {
+  "name": "Deel",
+  "country": "United States",
+  "site": "deel.com",
+  "careers": "https://www.deel.com/careers/"
+ },
+ {
+  "name": "Dew Solutions",
+  "country": "India",
+  "site": "dewsolutions.in",
+  "careers": "https://www.dewsolutions.in/careers/"
+ },
+ {
+  "name": "Dexler Information Solutions",
+  "country": "India",
+  "site": "dexler.com"
+ },
+ {
+  "name": "Dhyan Networks and Technologies",
+  "country": "India",
+  "site": "dhyan.com"
+ },
+ {
+  "name": "Digital Cues",
+  "country": "India",
+  "site": "digitalcues.com"
+ },
+ {
+  "name": "Digital Harbor",
+  "country": "India",
+  "site": "digitalharbor.com",
+  "careers": "https://www.digitalharbor.com/career/"
+ },
+ {
+  "name": "Discover Dollar",
+  "country": "India",
+  "site": "discoverdollar.com",
+  "careers": "https://www.discoverdollar.com/career"
+ },
+ {
+  "name": "DrupalPartners",
+  "country": "India",
+  "site": "drupalpartners.com"
+ },
+ {
+  "name": "DxMinds Technologies",
+  "country": "India",
+  "site": "dxminds.com",
+  "careers": "https://dxminds.com/careers/"
+ },
+ {
+  "name": "Dynamic Dreamz",
+  "country": "India",
+  "site": "dynamicdreamz.com",
+  "careers": "https://www.dynamicdreamz.com/career/"
+ },
+ {
+  "name": "DrapCode",
+  "country": "India",
+  "site": "drapcode.com"
+ },
+ {
+  "name": "Dots and Coms",
+  "country": "India",
+  "site": "dotsandcoms.com"
+ },
+ {
+  "name": "The Digital Group",
+  "country": "India",
+  "site": "thedigitalgroup.com"
+ },
+ {
+  "name": "Delimp Technology",
+  "country": "India",
+  "site": "delimp.com"
+ },
+ {
+  "name": "Dev4u",
+  "country": "India",
+  "site": "dev4u.in"
+ },
+ {
+  "name": "DriveX",
+  "country": "India",
+  "site": "drivex.in"
+ },
+ {
+  "name": "Dhurina Ventures",
+  "country": "India",
+  "site": "dhurina.net"
+ },
+ {
+  "name": "DoctorC",
+  "country": "India",
+  "site": "doctorc.in",
+  "careers": "https://doctorc.in/jobs/"
  }
 ];

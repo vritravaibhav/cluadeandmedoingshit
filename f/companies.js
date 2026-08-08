@@ -729,19 +729,9 @@ module.exports=[
   "site": "fluentcommerce.com"
  },
  {
-  "name": "Flytxt",
-  "country": "India",
-  "site": "flytxt.com"
- },
- {
   "name": "FocusU",
   "country": "India",
   "site": "focusu.com"
- },
- {
-  "name": "Foundit",
-  "country": "India",
-  "site": "foundit.in"
  },
  {
   "name": "Furlenco",
@@ -772,5 +762,654 @@ module.exports=[
   "name": "Fidelity National Financial India",
   "country": "India",
   "site": "fnf.com"
+ },
+ {
+  "name": "Fluentgrid",
+  "country": "India",
+  "site": "fluentgrid.com",
+  "careers": "https://fluentgrid.com/jobs"
+ },
+ {
+  "name": "Foradian Technologies",
+  "country": "India",
+  "site": "foradian.com"
+ },
+ {
+  "name": "FusionCharts",
+  "country": "India",
+  "site": "fusioncharts.com"
+ },
+ {
+  "name": "FCS Software Solutions",
+  "country": "India",
+  "site": "fcsltd.com"
+ },
+ {
+  "name": "FSL Software Technologies",
+  "country": "India",
+  "site": "fsltechnologies.com"
+ },
+ {
+  "name": "Fibonalabs",
+  "country": "India",
+  "site": "fibonalabs.com"
+ },
+ {
+  "name": "Frugal Testing",
+  "country": "India",
+  "site": "frugaltesting.com",
+  "careers": "https://www.frugaltesting.com/careers"
+ },
+ {
+  "name": "Fragma Data Systems",
+  "country": "India",
+  "site": "fragmadata.com"
+ },
+ {
+  "name": "Frantic Infotech",
+  "country": "India",
+  "site": "franticpro.com"
+ },
+ {
+  "name": "Fullestop",
+  "country": "India",
+  "site": "fullestop.com"
+ },
+ {
+  "name": "Ficode Software Solutions",
+  "country": "India",
+  "site": "ficode.com",
+  "careers": "https://www.ficode.com/career"
+ },
+ {
+  "name": "Founding Minds Software",
+  "country": "India",
+  "site": "foundingminds.com"
+ },
+ {
+  "name": "Fountane",
+  "country": "India",
+  "site": "fountane.com"
+ },
+ {
+  "name": "Foxsense Innovations",
+  "country": "India",
+  "site": "foxsense.com"
+ },
+ {
+  "name": "Fuerte Developers",
+  "country": "India",
+  "site": "fuertedevelopers.com"
+ },
+ {
+  "name": "FODUU",
+  "country": "India",
+  "site": "foduu.com",
+  "careers": "https://www.foduu.com/career"
+ },
+ {
+  "name": "FATbit Technologies",
+  "country": "India",
+  "site": "fatbit.com"
+ },
+ {
+  "name": "FULL Creative",
+  "country": "India",
+  "site": "full.io"
+ },
+ {
+  "name": "Fixity Technologies",
+  "country": "India",
+  "site": "fixitytech.com",
+  "careers": "https://fixitytech.com/careers"
+ },
+ {
+  "name": "Foreignerds",
+  "country": "India",
+  "site": "foreignerds.com"
+ },
+ {
+  "name": "FlairMinds Software",
+  "country": "India",
+  "site": "flairminds.com"
+ },
+ {
+  "name": "Fusionpact Technologies",
+  "country": "India",
+  "site": "fusionpact.com"
+ },
+ {
+  "name": "Fusion Softtech",
+  "country": "India",
+  "site": "fusionsofttech.com"
+ },
+ {
+  "name": "FiveS Digital",
+  "country": "India",
+  "site": "fivesdigital.com"
+ },
+ {
+  "name": "f1Studioz",
+  "country": "India",
+  "site": "f1studioz.com"
+ },
+ {
+  "name": "Freestone Infotech",
+  "country": "India",
+  "site": "freestoneinfotech.com",
+  "careers": "https://www.freestoneinfotech.com/career"
+ },
+ {
+  "name": "Fidel Softech",
+  "country": "India",
+  "site": "fidelsoftech.com"
+ },
+ {
+  "name": "Feathersoft Info Solutions",
+  "country": "India",
+  "site": "feathersoft.com"
+ },
+ {
+  "name": "Flycatch Infotech",
+  "country": "India",
+  "site": "flycatchtech.com"
+ },
+ {
+  "name": "Firminiq Systems",
+  "country": "India",
+  "site": "firminiq.com"
+ },
+ {
+  "name": "Foiwe Info Global Solutions",
+  "country": "India",
+  "site": "foiwe.com"
+ },
+ {
+  "name": "Fusion Business Solutions",
+  "country": "India",
+  "site": "fbspl.com",
+  "careers": "https://www.fbspl.com/careers"
+ },
+ {
+  "name": "FutureSoft India",
+  "country": "India",
+  "site": "futuresoftindia.com"
+ },
+ {
+  "name": "Fintellix",
+  "country": "India",
+  "site": "fintellix.com"
+ },
+ {
+  "name": "Futran Solutions",
+  "country": "United States",
+  "site": "futransolutions.com",
+  "careers": "https://futransolutions.com/careers"
+ },
+ {
+  "name": "Forsys",
+  "country": "United States",
+  "site": "forsysinc.com",
+  "careers": "https://www.forsysinc.com/careers"
+ },
+ {
+  "name": "FirstPrinciples",
+  "country": "United States",
+  "site": "firstprinciples.io",
+  "careers": "https://firstprinciples.io/careers"
+ },
+ {
+  "name": "FirstEigen",
+  "country": "United States",
+  "site": "firsteigen.com",
+  "careers": "https://firsteigen.com/careers"
+ },
+ {
+  "name": "Foundation AI",
+  "country": "United States",
+  "site": "foundationai.com"
+ },
+ {
+  "name": "Formidium",
+  "country": "United States",
+  "site": "formidium.com",
+  "careers": "https://www.formidium.com/careers"
+ },
+ {
+  "name": "FlyFin",
+  "country": "United States",
+  "site": "flyfin.tax"
+ },
+ {
+  "name": "Fireflies.ai",
+  "country": "United States",
+  "site": "fireflies.ai"
+ },
+ {
+  "name": "Fortude",
+  "country": "Sri Lanka",
+  "site": "fortude.co"
+ },
+ {
+  "name": "Finmechanics",
+  "country": "Singapore",
+  "site": "finmechanics.com"
+ },
+ {
+  "name": "FieldAssist",
+  "country": "India",
+  "site": "fieldassist.com"
+ },
+ {
+  "name": "FieldEZ Technologies",
+  "country": "India",
+  "site": "fieldez.com"
+ },
+ {
+  "name": "Fieldproxy",
+  "country": "India",
+  "site": "fieldproxy.com"
+ },
+ {
+  "name": "FORMCEPT",
+  "country": "India",
+  "site": "formcept.com"
+ },
+ {
+  "name": "FactWise",
+  "country": "India",
+  "site": "factwise.io",
+  "careers": "https://factwise.io/careers"
+ },
+ {
+  "name": "Fyno",
+  "country": "India",
+  "site": "fyno.io"
+ },
+ {
+  "name": "Flowace",
+  "country": "India",
+  "site": "flowace.ai"
+ },
+ {
+  "name": "Fibr AI",
+  "country": "India",
+  "site": "fibr.ai"
+ },
+ {
+  "name": "Foyr",
+  "country": "India",
+  "site": "foyr.com"
+ },
+ {
+  "name": "Flipick",
+  "country": "India",
+  "site": "flipick.com"
+ },
+ {
+  "name": "FlexiEle",
+  "country": "India",
+  "site": "flexiele.com"
+ },
+ {
+  "name": "factoHR",
+  "country": "India",
+  "site": "factohr.com",
+  "careers": "https://factohr.com/career"
+ },
+ {
+  "name": "Franciscan Solutions",
+  "country": "India",
+  "site": "franciscansolutions.com"
+ },
+ {
+  "name": "FarmERP",
+  "country": "India",
+  "site": "farmerp.com"
+ },
+ {
+  "name": "FarmSetu Technologies",
+  "country": "India",
+  "site": "farmsetu.co",
+  "careers": "https://farmsetu.co/careers"
+ },
+ {
+  "name": "Faclon Labs",
+  "country": "India",
+  "site": "faclon.com",
+  "careers": "https://www.faclon.com/careers"
+ },
+ {
+  "name": "FluxGen",
+  "country": "India",
+  "site": "fluxgen.com",
+  "careers": "https://fluxgen.com/careers"
+ },
+ {
+  "name": "FlytBase",
+  "country": "India",
+  "site": "flytbase.com"
+ },
+ {
+  "name": "Frinks AI",
+  "country": "India",
+  "site": "frinks.ai"
+ },
+ {
+  "name": "Fermionic Design",
+  "country": "India",
+  "site": "fermionicdesign.com",
+  "careers": "https://fermionicdesign.com/career"
+ },
+ {
+  "name": "Fabheads Automation",
+  "country": "India",
+  "site": "fabheads.com",
+  "careers": "https://fabheads.com/careers"
+ },
+ {
+  "name": "Fracktal Works",
+  "country": "India",
+  "site": "fracktal.in",
+  "careers": "https://fracktal.in/careers"
+ },
+ {
+  "name": "Falcon Autotech",
+  "country": "India",
+  "site": "falconautotech.com",
+  "careers": "https://www.falconautotech.com/careers"
+ },
+ {
+  "name": "Faststream Technologies",
+  "country": "India",
+  "site": "faststreamtech.com",
+  "careers": "https://www.faststreamtech.com/jobs"
+ },
+ {
+  "name": "FIBCOM India",
+  "country": "India",
+  "site": "fibcom.com"
+ },
+ {
+  "name": "Frog Cellsat",
+  "country": "India",
+  "site": "frogcellsat.com",
+  "careers": "https://frogcellsat.com/careers"
+ },
+ {
+  "name": "Force Intellect",
+  "country": "India",
+  "site": "forceintellect.com",
+  "careers": "https://forceintellect.com/careers"
+ },
+ {
+  "name": "Fanisko",
+  "country": "India",
+  "site": "fanisko.com",
+  "careers": "https://www.fanisko.com/jobs"
+ },
+ {
+  "name": "Fretron",
+  "country": "India",
+  "site": "fretron.com"
+ },
+ {
+  "name": "Freightwalla",
+  "country": "India",
+  "site": "freightwalla.com"
+ },
+ {
+  "name": "Fyntune Solutions",
+  "country": "India",
+  "site": "fyntune.com"
+ },
+ {
+  "name": "FatakPay",
+  "country": "India",
+  "site": "fatakpay.com"
+ },
+ {
+  "name": "FlexiLoans",
+  "country": "India",
+  "site": "flexiloans.com"
+ },
+ {
+  "name": "Faircent",
+  "country": "India",
+  "site": "faircent.com",
+  "careers": "https://www.faircent.com/careers"
+ },
+ {
+  "name": "Finvasia",
+  "country": "India",
+  "site": "finvasia.com"
+ },
+ {
+  "name": "Finflux",
+  "country": "India",
+  "site": "finflux.com"
+ },
+ {
+  "name": "Finarkein Analytics",
+  "country": "India",
+  "site": "finarkein.com"
+ },
+ {
+  "name": "FinAGG Technologies",
+  "country": "India",
+  "site": "finagg.in",
+  "careers": "https://www.finagg.in/career"
+ },
+ {
+  "name": "Finvu",
+  "country": "India",
+  "site": "finvu.in"
+ },
+ {
+  "name": "ftcash",
+  "country": "India",
+  "site": "ftcash.com"
+ },
+ {
+  "name": "Finsall",
+  "country": "India",
+  "site": "finsall.com"
+ },
+ {
+  "name": "Finsire",
+  "country": "India",
+  "site": "finsire.com"
+ },
+ {
+  "name": "Fedo",
+  "country": "India",
+  "site": "fedo.ai"
+ },
+ {
+  "name": "Fello",
+  "country": "India",
+  "site": "fello.in",
+  "careers": "https://fello.in/careers"
+ },
+ {
+  "name": "Fold Money",
+  "country": "India",
+  "site": "fold.money"
+ },
+ {
+  "name": "Flexmoney Technologies",
+  "country": "India",
+  "site": "flexmoney.in"
+ },
+ {
+  "name": "Fundfina",
+  "country": "India",
+  "site": "fundfina.com",
+  "careers": "https://www.fundfina.com/careers"
+ },
+ {
+  "name": "Finzy",
+  "country": "India",
+  "site": "finzy.com"
+ },
+ {
+  "name": "Finology",
+  "country": "India",
+  "site": "finology.in"
+ },
+ {
+  "name": "Futures First",
+  "country": "India",
+  "site": "futuresfirst.com",
+  "careers": "https://futuresfirst.com/careers"
+ },
+ {
+  "name": "FedServ",
+  "country": "India",
+  "site": "fedserv.co.in",
+  "careers": "https://fedserv.co.in/careers"
+ },
+ {
+  "name": "Fittr",
+  "country": "India",
+  "site": "fittr.com"
+ },
+ {
+  "name": "Fitelo",
+  "country": "India",
+  "site": "fitelo.co",
+  "careers": "https://fitelo.co/careers"
+ },
+ {
+  "name": "Fitpage",
+  "country": "India",
+  "site": "fitpage.in"
+ },
+ {
+  "name": "FITPASS",
+  "country": "India",
+  "site": "fitpass.co.in"
+ },
+ {
+  "name": "Filo",
+  "country": "India",
+  "site": "askfilo.com"
+ },
+ {
+  "name": "Flintobox",
+  "country": "India",
+  "site": "flintobox.com"
+ },
+ {
+  "name": "Fliplearn",
+  "country": "India",
+  "site": "fliplearn.com"
+ },
+ {
+  "name": "Futwork",
+  "country": "India",
+  "site": "futwork.com"
+ },
+ {
+  "name": "FreshMenu",
+  "country": "India",
+  "site": "freshmenu.com"
+ },
+ {
+  "name": "Flipspaces",
+  "country": "India",
+  "site": "flipspaces.com",
+  "careers": "https://flipspaces.com/careers"
+ },
+ {
+  "name": "FableStreet",
+  "country": "India",
+  "site": "fablestreet.com"
+ },
+ {
+  "name": "Frendy",
+  "country": "India",
+  "site": "frendy.in"
+ },
+ {
+  "name": "Fabindia",
+  "country": "India",
+  "site": "fabindia.com",
+  "careers": "https://www.fabindia.com/careers"
+ },
+ {
+  "name": "Farmizen",
+  "country": "India",
+  "site": "farmizen.com"
+ },
+ {
+  "name": "Frontier Markets",
+  "country": "India",
+  "site": "frontiermkts.com"
+ },
+ {
+  "name": "FreshBus",
+  "country": "India",
+  "site": "freshbus.com"
+ },
+ {
+  "name": "Fuelbuddy",
+  "country": "India",
+  "site": "fuelbuddy.in",
+  "careers": "https://www.fuelbuddy.in/careers"
+ },
+ {
+  "name": "Freyr Energy",
+  "country": "India",
+  "site": "freyrenergy.com",
+  "careers": "https://freyrenergy.com/careers"
+ },
+ {
+  "name": "Figma",
+  "country": "United States",
+  "site": "figma.com"
+ },
+ {
+  "name": "Flutter Entertainment",
+  "country": "Ireland",
+  "site": "flutter.com"
+ },
+ {
+  "name": "First Advantage",
+  "country": "United States",
+  "site": "fadv.com",
+  "careers": "https://fadv.com/careers"
+ },
+ {
+  "name": "FinThrive",
+  "country": "United States",
+  "site": "finthrive.com",
+  "careers": "https://finthrive.com/careers"
+ },
+ {
+  "name": "FMC Corporation",
+  "country": "United States",
+  "site": "fmc.com"
+ },
+ {
+  "name": "First Solar",
+  "country": "United States",
+  "site": "firstsolar.com",
+  "careers": "https://www.firstsolar.com/careers"
+ },
+ {
+  "name": "Flywheel Digital",
+  "country": "United States",
+  "site": "flywheeldigital.com"
+ },
+ {
+  "name": "FEV",
+  "country": "Germany",
+  "site": "fev.com"
+ },
+ {
+  "name": "Fastly",
+  "country": "United States",
+  "site": "fastly.com"
  }
 ];

@@ -350,8 +350,7 @@ module.exports=[
  {
   "name": "Pratham Software",
   "country": "India",
-  "site": "prathamsoftware.com",
-  "careers": "https://www.prathamsoftware.com/careers/"
+  "site": "thepsi.com"
  },
  {
   "name": "Protonshub Technologies",
@@ -726,11 +725,6 @@ module.exports=[
   "careers": "https://www.panasonic.com/global/corporate/careers.html"
  },
  {
-  "name": "PwC India",
-  "country": "India",
-  "site": "pwc.com"
- },
- {
   "name": "Piramal",
   "country": "India",
   "site": "piramal.com"
@@ -759,5 +753,635 @@ module.exports=[
   "name": "Prismforce",
   "country": "India",
   "site": "prismforce.com"
+ },
+ {
+  "name": "Pando",
+  "country": "India",
+  "site": "pando.ai"
+ },
+ {
+  "name": "Paperflite",
+  "country": "India",
+  "site": "paperflite.com"
+ },
+ {
+  "name": "PayMate",
+  "country": "India",
+  "site": "paymate.in"
+ },
+ {
+  "name": "Payswiff",
+  "country": "India",
+  "site": "payswiff.com"
+ },
+ {
+  "name": "Paytring",
+  "country": "India",
+  "site": "paytring.com"
+ },
+ {
+  "name": "Paytm Money",
+  "country": "India",
+  "site": "paytmmoney.com"
+ },
+ {
+  "name": "Pazcare",
+  "country": "India",
+  "site": "pazcare.com"
+ },
+ {
+  "name": "Pennant Technologies",
+  "country": "India",
+  "site": "pennanttech.com"
+ },
+ {
+  "name": "PeopleStrong",
+  "country": "India",
+  "site": "peoplestrong.com"
+ },
+ {
+  "name": "Pepul",
+  "country": "India",
+  "site": "pepul.com"
+ },
+ {
+  "name": "Phi Commerce",
+  "country": "India",
+  "site": "phicommerce.com"
+ },
+ {
+  "name": "Phyllo",
+  "country": "India",
+  "site": "getphyllo.com"
+ },
+ {
+  "name": "Pibit.ai",
+  "country": "India",
+  "site": "pibit.ai"
+ },
+ {
+  "name": "Pickrr",
+  "country": "India",
+  "site": "pickrr.com"
+ },
+ {
+  "name": "Pidge",
+  "country": "India",
+  "site": "pidge.in"
+ },
+ {
+  "name": "PixelBin",
+  "country": "India",
+  "site": "pixelbin.io"
+ },
+ {
+  "name": "Pixelvide",
+  "country": "India",
+  "site": "pixelvide.com"
+ },
+ {
+  "name": "Plotch.ai",
+  "country": "India",
+  "site": "plotch.ai"
+ },
+ {
+  "name": "Plum Goodness",
+  "country": "India",
+  "site": "plumgoodness.com"
+ },
+ {
+  "name": "Plutos ONE",
+  "country": "India",
+  "site": "plutos.one"
+ },
+ {
+  "name": "Pocket Aces",
+  "country": "India",
+  "site": "pocketaces.in"
+ },
+ {
+  "name": "Pocket FM",
+  "country": "India",
+  "site": "pocketfm.com"
+ },
+ {
+  "name": "Pokkt",
+  "country": "India",
+  "site": "pokkt.com"
+ },
+ {
+  "name": "Power2SME",
+  "country": "India",
+  "site": "power2sme.com"
+ },
+ {
+  "name": "Powerplay",
+  "country": "India",
+  "site": "getpowerplay.in"
+ },
+ {
+  "name": "Pay10",
+  "country": "India",
+  "site": "pay10.com"
+ },
+ {
+  "name": "Praan",
+  "country": "India",
+  "site": "praan.io"
+ },
+ {
+  "name": "Prefr",
+  "country": "India",
+  "site": "prefr.com"
+ },
+ {
+  "name": "PrepInsta",
+  "country": "India",
+  "site": "prepinsta.com"
+ },
+ {
+  "name": "PrepLadder",
+  "country": "India",
+  "site": "prepladder.com"
+ },
+ {
+  "name": "Pristyn Care",
+  "country": "India",
+  "site": "pristyncare.com"
+ },
+ {
+  "name": "Probo",
+  "country": "India",
+  "site": "probo.in"
+ },
+ {
+  "name": "ProcMart",
+  "country": "India",
+  "site": "procmart.com"
+ },
+ {
+  "name": "Procol",
+  "country": "India",
+  "site": "procol.ai"
+ },
+ {
+  "name": "Proctur",
+  "country": "India",
+  "site": "proctur.com"
+ },
+ {
+  "name": "ProfitBooks",
+  "country": "India",
+  "site": "profitbooks.net"
+ },
+ {
+  "name": "Propacity",
+  "country": "India",
+  "site": "propacity.com"
+ },
+ {
+  "name": "Prosperr.io",
+  "country": "India",
+  "site": "prosperr.io"
+ },
+ {
+  "name": "Protean eGov Technologies",
+  "country": "India",
+  "site": "proteantech.in"
+ },
+ {
+  "name": "Protectt.ai",
+  "country": "India",
+  "site": "protectt.ai"
+ },
+ {
+  "name": "Protium",
+  "country": "India",
+  "site": "protium.co.in"
+ },
+ {
+  "name": "Proxgy",
+  "country": "India",
+  "site": "proxgy.com"
+ },
+ {
+  "name": "Prozo",
+  "country": "India",
+  "site": "prozo.com"
+ },
+ {
+  "name": "Pulse Energy",
+  "country": "India",
+  "site": "pulseenergy.io"
+ },
+ {
+  "name": "PushOwl",
+  "country": "India",
+  "site": "pushowl.com"
+ },
+ {
+  "name": "PyjamaHR",
+  "country": "India",
+  "site": "pyjamahr.com"
+ },
+ {
+  "name": "ProConnect Supply Chain Solutions",
+  "country": "India",
+  "site": "proconnect.co.in"
+ },
+ {
+  "name": "Plobal Apps",
+  "country": "India",
+  "site": "plobalapps.com"
+ },
+ {
+  "name": "ProMobi Technologies",
+  "country": "India",
+  "site": "promobitech.com"
+ },
+ {
+  "name": "PlaySimple Games",
+  "country": "India",
+  "site": "playsimple.in"
+ },
+ {
+  "name": "PlayerzPot",
+  "country": "India",
+  "site": "playerzpot.com"
+ },
+ {
+  "name": "PokerBaazi",
+  "country": "India",
+  "site": "pokerbaazi.com"
+ },
+ {
+  "name": "PhantomFX",
+  "country": "India",
+  "site": "phantomfx.com"
+ },
+ {
+  "name": "Prime Focus",
+  "country": "India",
+  "site": "primefocus.com"
+ },
+ {
+  "name": "Prasad Corporation",
+  "country": "India",
+  "site": "prasadcorp.com"
+ },
+ {
+  "name": "PierSight Space",
+  "country": "India",
+  "site": "piersight.space"
+ },
+ {
+  "name": "Peppermint Robotics",
+  "country": "India",
+  "site": "peppermintrobots.com"
+ },
+ {
+  "name": "Perceptyne",
+  "country": "India",
+  "site": "perceptyne.com"
+ },
+ {
+  "name": "Planys Technologies",
+  "country": "India",
+  "site": "planystech.com"
+ },
+ {
+  "name": "Prodigy Technovations",
+  "country": "India",
+  "site": "prodigytechno.com"
+ },
+ {
+  "name": "Plintron",
+  "country": "India",
+  "site": "plintron.com"
+ },
+ {
+  "name": "Panamax Inc",
+  "country": "India",
+  "site": "panamaxinc.com"
+ },
+ {
+  "name": "Pelatro",
+  "country": "India",
+  "site": "pelatro.com"
+ },
+ {
+  "name": "Pi Datacenters",
+  "country": "India",
+  "site": "pidatacenters.com"
+ },
+ {
+  "name": "Plus91 Technologies",
+  "country": "India",
+  "site": "plus91.in"
+ },
+ {
+  "name": "Paragyte Technologies",
+  "country": "India",
+  "site": "paragyte.com"
+ },
+ {
+  "name": "Path Infotech",
+  "country": "India",
+  "site": "pathinfotech.com"
+ },
+ {
+  "name": "PCS Technology",
+  "country": "India",
+  "site": "pcstech.com"
+ },
+ {
+  "name": "Percipere",
+  "country": "India",
+  "site": "percipere.co"
+ },
+ {
+  "name": "Perpetuuiti Technosoft",
+  "country": "India",
+  "site": "ptechnosoft.com"
+ },
+ {
+  "name": "PiLog Group",
+  "country": "India",
+  "site": "piloggroup.com"
+ },
+ {
+  "name": "PiTangent",
+  "country": "India",
+  "site": "pitangent.com"
+ },
+ {
+  "name": "Pixbit Solutions",
+  "country": "India",
+  "site": "pixbitsolutions.com"
+ },
+ {
+  "name": "Pixelmattic",
+  "country": "India",
+  "site": "pixelmattic.com"
+ },
+ {
+  "name": "Pixelwibes",
+  "country": "India",
+  "site": "pixelwibes.com"
+ },
+ {
+  "name": "Plaxonic Technologies",
+  "country": "India",
+  "site": "plaxonic.com"
+ },
+ {
+  "name": "Polestar Analytics",
+  "country": "India",
+  "site": "polestaranalytics.com"
+ },
+ {
+  "name": "Polosoft Technologies",
+  "country": "India",
+  "site": "polosoftech.com"
+ },
+ {
+  "name": "Polyxer Systems",
+  "country": "India",
+  "site": "polyxer.com"
+ },
+ {
+  "name": "Portrave Solutions",
+  "country": "India",
+  "site": "portrave.com"
+ },
+ {
+  "name": "Powerweave",
+  "country": "India",
+  "site": "powerweave.com"
+ },
+ {
+  "name": "Prakash Software Solutions",
+  "country": "India",
+  "site": "prakashinfotech.com"
+ },
+ {
+  "name": "Pramati Technologies",
+  "country": "India",
+  "site": "pramati.com"
+ },
+ {
+  "name": "Pratham Technologies",
+  "country": "India",
+  "site": "prathamtech.com"
+ },
+ {
+  "name": "Predikly",
+  "country": "India",
+  "site": "predikly.com"
+ },
+ {
+  "name": "Prescience Decision Solutions",
+  "country": "India",
+  "site": "prescienceds.com"
+ },
+ {
+  "name": "Prevaj Consultants",
+  "country": "India",
+  "site": "prevaj.com"
+ },
+ {
+  "name": "PrevalentAI",
+  "country": "India",
+  "site": "prevalent.ai"
+ },
+ {
+  "name": "PrimaFelicitas",
+  "country": "India",
+  "site": "primafelicitas.com"
+ },
+ {
+  "name": "Primathon",
+  "country": "India",
+  "site": "primathon.in"
+ },
+ {
+  "name": "Prime Infoserv",
+  "country": "India",
+  "site": "primeinfoserv.com"
+ },
+ {
+  "name": "Primus Global Technologies",
+  "country": "India",
+  "site": "primusglobal.com"
+ },
+ {
+  "name": "Prishusoft",
+  "country": "India",
+  "site": "prishusoft.com"
+ },
+ {
+  "name": "Proactive Data Systems",
+  "country": "India",
+  "site": "proactive.co.in"
+ },
+ {
+  "name": "ProCreator",
+  "country": "India",
+  "site": "procreator.design"
+ },
+ {
+  "name": "Prodevans Technologies",
+  "country": "India",
+  "site": "prodevans.com"
+ },
+ {
+  "name": "ProDT Consulting",
+  "country": "India",
+  "site": "prodt.co"
+ },
+ {
+  "name": "Prodios Labs",
+  "country": "India",
+  "site": "prodioslabs.com"
+ },
+ {
+  "name": "Profinch Solutions",
+  "country": "India",
+  "site": "profinch.com"
+ },
+ {
+  "name": "Progression Infonet",
+  "country": "India",
+  "site": "progression.com"
+ },
+ {
+  "name": "Promact Infotech",
+  "country": "India",
+  "site": "promactinfo.com"
+ },
+ {
+  "name": "Prometteur Solutions",
+  "country": "India",
+  "site": "prometteursolutions.com"
+ },
+ {
+  "name": "PromptCloud",
+  "country": "India",
+  "site": "promptcloud.com"
+ },
+ {
+  "name": "Prophaze",
+  "country": "India",
+  "site": "prophaze.com"
+ },
+ {
+  "name": "Prorigo Software",
+  "country": "India",
+  "site": "prorigo.com"
+ },
+ {
+  "name": "Prosares Solution",
+  "country": "India",
+  "site": "prosares.com"
+ },
+ {
+  "name": "Provana",
+  "country": "India",
+  "site": "provana.com"
+ },
+ {
+  "name": "Psiog Digital",
+  "country": "India",
+  "site": "psiog.com"
+ },
+ {
+  "name": "PurpleSlate",
+  "country": "India",
+  "site": "purpleslate.com"
+ },
+ {
+  "name": "Pi Square Technologies",
+  "country": "India",
+  "site": "pisquaretech.com"
+ },
+ {
+  "name": "PySquad",
+  "country": "India",
+  "site": "pysquad.com"
+ },
+ {
+  "name": "Pyther Innovations",
+  "country": "India",
+  "site": "pyther.com"
+ },
+ {
+  "name": "Pyxeda AI",
+  "country": "India",
+  "site": "pyxeda.ai"
+ },
+ {
+  "name": "Paycor",
+  "country": "United States",
+  "site": "paycor.com"
+ },
+ {
+  "name": "Peakflo",
+  "country": "Singapore",
+  "site": "peakflo.co"
+ },
+ {
+  "name": "Pivotree",
+  "country": "Canada",
+  "site": "pivotree.com"
+ },
+ {
+  "name": "Privacera",
+  "country": "United States",
+  "site": "privacera.com"
+ },
+ {
+  "name": "ProCogia",
+  "country": "United States",
+  "site": "procogia.com"
+ },
+ {
+  "name": "Profit.co",
+  "country": "United States",
+  "site": "profit.co"
+ },
+ {
+  "name": "Prometheus Group",
+  "country": "United States",
+  "site": "prometheusgroup.com"
+ },
+ {
+  "name": "Protera Technologies",
+  "country": "United States",
+  "site": "protera.com"
+ },
+ {
+  "name": "Provenir",
+  "country": "United States",
+  "site": "provenir.com"
+ },
+ {
+  "name": "ProV International",
+  "country": "United States",
+  "site": "provintl.com"
+ },
+ {
+  "name": "Powerfleet",
+  "country": "United States",
+  "site": "powerfleet.com"
+ },
+ {
+  "name": "Pole Star Global",
+  "country": "United Kingdom",
+  "site": "polestarglobal.com"
+ },
+ {
+  "name": "Pythian",
+  "country": "Canada",
+  "site": "pythian.com"
  }
 ];

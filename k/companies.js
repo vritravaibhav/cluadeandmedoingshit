@@ -1,4 +1,4 @@
-module.exports=[
+module.exports = [
  {
   "name": "KPIT Technologies",
   "country": "India",
@@ -164,8 +164,7 @@ module.exports=[
  {
   "name": "Kodework",
   "country": "India",
-  "site": "kodework.com",
-  "careers": "https://www.kodework.com/careers"
+  "site": "kodework.com"
  },
  {
   "name": "Koenig Solutions",
@@ -236,8 +235,7 @@ module.exports=[
  {
   "name": "Kredily",
   "country": "India",
-  "site": "kredily.com",
-  "careers": "https://kredily.com/career"
+  "site": "kredily.com"
  },
  {
   "name": "Konnect Insights",
@@ -614,8 +612,7 @@ module.exports=[
  {
   "name": "Khoros",
   "country": "United States",
-  "site": "khoros.com",
-  "careers": "https://khoros.com/company/careers"
+  "site": "khoros.com"
  },
  {
   "name": "Kong",
@@ -710,23 +707,7 @@ module.exports=[
  {
   "name": "Kaleyra",
   "country": "India",
-  "site": "kaleyra.com"
- },
- {
-  "name": "Knowledge Lens",
-  "country": "India",
-  "site": "knowledgelens.com"
- },
- {
-  "name": "Rysun Labs",
-  "country": "India",
-  "site": "rysun.com",
-  "careers": "https://www.rysun.com/careers/"
- },
- {
-  "name": "Karza Technologies",
-  "country": "India",
-  "site": "karza.in"
+  "site": "kaleyra.io"
  },
  {
   "name": "Karbon Card",
@@ -736,6 +717,618 @@ module.exports=[
  {
   "name": "KloudPortal",
   "country": "India",
-  "site": "kloudportal.com"
+  "site": "kloudportal.ai"
+ },
+ {
+  "name": "Kovaion Consulting",
+  "country": "India",
+  "site": "kovaion.com",
+  "careers": "https://www.kovaion.com/careers/"
+ },
+ {
+  "name": "Kreeti Technologies",
+  "country": "India",
+  "site": "kreeti.com"
+ },
+ {
+  "name": "Karmick Solutions",
+  "country": "India",
+  "site": "karmicksolutions.com",
+  "careers": "https://karmicksolutions.com/career"
+ },
+ {
+  "name": "Knack Systems",
+  "country": "India",
+  "site": "knacksystems.com"
+ },
+ {
+  "name": "Keyideas Infotech",
+  "country": "India",
+  "site": "keyideasinfotech.com"
+ },
+ {
+  "name": "Kilowott",
+  "country": "India",
+  "site": "kilowott.com",
+  "careers": "https://kilowott.com/jobs/"
+ },
+ {
+  "name": "Kanak Infosystems",
+  "country": "India",
+  "site": "kanakinfosystems.com"
+ },
+ {
+  "name": "Krazy Mantra",
+  "country": "India",
+  "site": "krazymantra.com"
+ },
+ {
+  "name": "KnackForge",
+  "country": "India",
+  "site": "knackforge.com"
+ },
+ {
+  "name": "Kodehash Technologies",
+  "country": "India",
+  "site": "kodehash.com"
+ },
+ {
+  "name": "Kenmark ITan Solutions",
+  "country": "India",
+  "site": "kenmarkitan.com"
+ },
+ {
+  "name": "Kombee Technologies",
+  "country": "India",
+  "site": "kombee.com",
+  "careers": "https://www.kombee.com/career"
+ },
+ {
+  "name": "Kompanions",
+  "country": "India",
+  "site": "kompanions.com"
+ },
+ {
+  "name": "Ksolves India",
+  "country": "India",
+  "site": "ksolves.com",
+  "careers": "https://www.ksolves.com/careers"
+ },
+ {
+  "name": "KTern.AI",
+  "country": "India",
+  "site": "ktern.com"
+ },
+ {
+  "name": "Kalycito Infotech",
+  "country": "India",
+  "site": "kalycito.com"
+ },
+ {
+  "name": "Kaizenat Technologies",
+  "country": "India",
+  "site": "kaizenat.com"
+ },
+ {
+  "name": "Kloudrac Softwares",
+  "country": "India",
+  "site": "kloudrac.com",
+  "careers": "https://kloudrac.com/career"
+ },
+ {
+  "name": "KiwiQA",
+  "country": "India",
+  "site": "kiwiqa.com",
+  "careers": "https://www.kiwiqa.com/career.html"
+ },
+ {
+  "name": "Kipi.ai",
+  "country": "United States",
+  "site": "kipi.ai"
+ },
+ {
+  "name": "Konverge Technologies",
+  "country": "India",
+  "site": "konverge.co.in",
+  "careers": "https://konverge.co.in/career/"
+ },
+ {
+  "name": "Kloudone",
+  "country": "India",
+  "site": "kloudone.com"
+ },
+ {
+  "name": "Kalibroida Technologies",
+  "country": "India",
+  "site": "kalibroida.com"
+ },
+ {
+  "name": "Kansoft Solutions",
+  "country": "India",
+  "site": "kansoftware.com",
+  "careers": "https://kansoftware.com/careers/why-join-us"
+ },
+ {
+  "name": "Kavayah",
+  "country": "India",
+  "site": "kavayahcloud.com"
+ },
+ {
+  "name": "Kickr Technology",
+  "country": "India",
+  "site": "kickrtechnology.com"
+ },
+ {
+  "name": "Kirusa",
+  "country": "United States",
+  "site": "kirusa.com"
+ },
+ {
+  "name": "Kloud9",
+  "country": "United States",
+  "site": "kloud9.nyc",
+  "careers": "https://www.kloud9.nyc/careers"
+ },
+ {
+  "name": "KogniVera",
+  "country": "India",
+  "site": "kognivera.com",
+  "careers": "https://kognivera.com/careers/"
+ },
+ {
+  "name": "KPI Partners",
+  "country": "United States",
+  "site": "kpipartners.com",
+  "careers": "https://www.kpipartners.com/careers"
+ },
+ {
+  "name": "Kyyba",
+  "country": "United States",
+  "site": "kyyba.com",
+  "careers": "https://kyyba.com/careers"
+ },
+ {
+  "name": "Kadel Labs",
+  "country": "India",
+  "site": "kadellabs.com"
+ },
+ {
+  "name": "Karanji Infotech",
+  "country": "India",
+  "site": "karanji.com",
+  "careers": "https://karanji.com/company/careers"
+ },
+ {
+  "name": "Kaizen Technologies",
+  "country": "United States",
+  "site": "kaizentek.com",
+  "careers": "https://kaizentek.com/careers"
+ },
+ {
+  "name": "Kryptonite Solutions",
+  "country": "India",
+  "site": "kryptonitesolutions.com"
+ },
+ {
+  "name": "KSoft Technologies",
+  "country": "India",
+  "site": "ksofttechnologies.com",
+  "careers": "https://www.ksofttechnologies.com/careers"
+ },
+ {
+  "name": "Krishnas Digital Technologies",
+  "country": "India",
+  "site": "krishnasdigitech.in",
+  "careers": "https://www.krishnasdigitech.in/careers.html"
+ },
+ {
+  "name": "K Square India Technologies",
+  "country": "India",
+  "site": "ksquareindia.com"
+ },
+ {
+  "name": "Kode Infotech",
+  "country": "India",
+  "site": "kodeinfotech.com",
+  "careers": "https://kodeinfotech.com/jobs/"
+ },
+ {
+  "name": "Kyros Technologies",
+  "country": "India",
+  "site": "kyrostechnologies.com",
+  "careers": "https://www.kyrostechnologies.com/career/"
+ },
+ {
+  "name": "Keen and Able Computers",
+  "country": "India",
+  "site": "keenable.in"
+ },
+ {
+  "name": "Kensoft Infotech",
+  "country": "India",
+  "site": "kensoft.co"
+ },
+ {
+  "name": "Kratikal Tech",
+  "country": "India",
+  "site": "kratikal.com",
+  "careers": "https://kratikal.zohorecruit.com/jobs/Careers"
+ },
+ {
+  "name": "K7 Computing",
+  "country": "India",
+  "site": "k7computing.com"
+ },
+ {
+  "name": "Keltron",
+  "country": "India",
+  "site": "keltron.org"
+ },
+ {
+  "name": "KEONICS",
+  "country": "India",
+  "site": "keonics.in"
+ },
+ {
+  "name": "Kriyadocs",
+  "country": "India",
+  "site": "kriyadocs.com",
+  "careers": "https://www.kriyadocs.com/careers"
+ },
+ {
+  "name": "KITABOO",
+  "country": "India",
+  "site": "kitaboo.com",
+  "careers": "https://kitaboo.com/careers/"
+ },
+ {
+  "name": "Kobster",
+  "country": "India",
+  "site": "kobster.com"
+ },
+ {
+  "name": "Kalp Studio",
+  "country": "India",
+  "site": "kalp.studio"
+ },
+ {
+  "name": "Kloudlite",
+  "country": "India",
+  "site": "kloudlite.io"
+ },
+ {
+  "name": "Kunverj",
+  "country": "India",
+  "site": "kunverj.com"
+ },
+ {
+  "name": "Kore Infotech",
+  "country": "India",
+  "site": "koreinfotech.com"
+ },
+ {
+  "name": "Kwench",
+  "country": "India",
+  "site": "kwench.com"
+ },
+ {
+  "name": "KriyaTec IT Systems",
+  "country": "India",
+  "site": "kriyatec.com",
+  "careers": "https://kriyatec.com/careers/"
+ },
+ {
+  "name": "KloudLearn",
+  "country": "United States",
+  "site": "kloudlearn.com"
+ },
+ {
+  "name": "Kytes",
+  "country": "India",
+  "site": "kytes.com",
+  "careers": "https://www.kytes.com/career/"
+ },
+ {
+  "name": "Kayako",
+  "country": "India",
+  "site": "kayako.com"
+ },
+ {
+  "name": "Kraftshala",
+  "country": "India",
+  "site": "kraftshala.com"
+ },
+ {
+  "name": "Klub",
+  "country": "India",
+  "site": "klub.ai"
+ },
+ {
+  "name": "Kiwi",
+  "country": "India",
+  "site": "gokiwi.in"
+ },
+ {
+  "name": "Kenscio Digital Marketing",
+  "country": "India",
+  "site": "kenscio.com",
+  "careers": "https://kenscio.com/careers/"
+ },
+ {
+  "name": "Karomi Technology",
+  "country": "India",
+  "site": "karomi.com"
+ },
+ {
+  "name": "Kaagaz Scanner",
+  "country": "India",
+  "site": "kaagaz.app"
+ },
+ {
+  "name": "Krishi Network",
+  "country": "India",
+  "site": "krishinetwork.com"
+ },
+ {
+  "name": "KoinBX",
+  "country": "India",
+  "site": "koinbx.com",
+  "careers": "https://koinbx.com/careers"
+ },
+ {
+  "name": "Kuvera",
+  "country": "India",
+  "site": "kuvera.in"
+ },
+ {
+  "name": "Kapiva",
+  "country": "India",
+  "site": "kapiva.in"
+ },
+ {
+  "name": "Kiko Live",
+  "country": "India",
+  "site": "kiko.live"
+ },
+ {
+  "name": "Kwikpic",
+  "country": "India",
+  "site": "kwikpic.in"
+ },
+ {
+  "name": "Karkinos Healthcare",
+  "country": "India",
+  "site": "karkinos.in",
+  "careers": "https://www.karkinos.in/jobs/"
+ },
+ {
+  "name": "Kristal.AI",
+  "country": "Singapore",
+  "site": "kristal.ai"
+ },
+ {
+  "name": "Ketto",
+  "country": "India",
+  "site": "ketto.org",
+  "careers": "https://www.ketto.org/about/careers"
+ },
+ {
+  "name": "kindlife",
+  "country": "India",
+  "site": "kindlife.in"
+ },
+ {
+  "name": "Klimb",
+  "country": "India",
+  "site": "klimb.io"
+ },
+ {
+  "name": "Kinara Capital",
+  "country": "India",
+  "site": "kinaracapital.com"
+ },
+ {
+  "name": "Kinetic Green",
+  "country": "India",
+  "site": "kineticgreen.com"
+ },
+ {
+  "name": "Kritsnam Technologies",
+  "country": "India",
+  "site": "kritsnam.com"
+ },
+ {
+  "name": "Kroop AI",
+  "country": "India",
+  "site": "kroop.ai"
+ },
+ {
+  "name": "KYC Hub",
+  "country": "United Kingdom",
+  "site": "kychub.com"
+ },
+ {
+  "name": "Krutrim",
+  "country": "India",
+  "site": "olakrutrim.com"
+ },
+ {
+  "name": "Kalkitech",
+  "country": "India",
+  "site": "kalkitech.com",
+  "careers": "https://kalkitech.com/careers/"
+ },
+ {
+  "name": "Kernex Microsystems",
+  "country": "India",
+  "site": "kernex.in",
+  "careers": "https://www.kernex.in/careers/"
+ },
+ {
+  "name": "Keus Automation",
+  "country": "India",
+  "site": "keus.in"
+ },
+ {
+  "name": "Khyaal",
+  "country": "India",
+  "site": "khyaal.com"
+ },
+ {
+  "name": "Kirana Club",
+  "country": "India",
+  "site": "kiranaclub.com"
+ },
+ {
+  "name": "Kogta Financial",
+  "country": "India",
+  "site": "kogta.in"
+ },
+ {
+  "name": "Kosamattam Finance",
+  "country": "India",
+  "site": "kosamattam.com"
+ },
+ {
+  "name": "KLM Axiva Finvest",
+  "country": "India",
+  "site": "klmaxiva.com",
+  "careers": "https://klmaxiva.com/career"
+ },
+ {
+  "name": "Karur Vysya Bank",
+  "country": "India",
+  "site": "karurvysyabank.com"
+ },
+ {
+  "name": "Kaynes Technology",
+  "country": "India",
+  "site": "kaynes.com",
+  "careers": "https://kaynes.com/jobs/"
+ },
+ {
+  "name": "Karya",
+  "country": "India",
+  "site": "karya.in"
+ },
+ {
+  "name": "Karini AI",
+  "country": "United States",
+  "site": "karini.ai"
+ },
+ {
+  "name": "Katonic AI",
+  "country": "Australia",
+  "site": "katonic.ai",
+  "careers": "https://katonic.ai/careers"
+ },
+ {
+  "name": "Kolabtree",
+  "country": "United Kingdom",
+  "site": "kolabtree.com"
+ },
+ {
+  "name": "Kombai",
+  "country": "India",
+  "site": "kombai.com"
+ },
+ {
+  "name": "Klaar",
+  "country": "India",
+  "site": "klaarhq.com"
+ },
+ {
+  "name": "Knorish",
+  "country": "India",
+  "site": "knorish.com"
+ },
+ {
+  "name": "Kredmint",
+  "country": "India",
+  "site": "kredmint.com"
+ },
+ {
+  "name": "Krayonnz",
+  "country": "India",
+  "site": "krayonnz.com"
+ },
+ {
+  "name": "KarmaLife",
+  "country": "India",
+  "site": "karmalife.ai"
+ },
+ {
+  "name": "KOGO AI",
+  "country": "India",
+  "site": "kogo.ai"
+ },
+ {
+  "name": "KaiOS Technologies",
+  "country": "United States",
+  "site": "kaiostech.com",
+  "careers": "https://www.kaiostech.com/company/work-for-us/#vacancies"
+ },
+ {
+  "name": "KraftLabs",
+  "country": "India",
+  "site": "kraftlabs.in"
+ },
+ {
+  "name": "Kirloskar Pneumatic",
+  "country": "India",
+  "site": "kirloskarpneumatic.com"
+ },
+ {
+  "name": "Krikey AI",
+  "country": "United States",
+  "site": "krikey.ai"
+ },
+ {
+  "name": "Kotak Mahindra Asset Management",
+  "country": "India",
+  "site": "kotakmf.com"
+ },
+ {
+  "name": "Konecranes",
+  "country": "Finland",
+  "site": "konecranes.com"
+ },
+ {
+  "name": "Korn Ferry",
+  "country": "United States",
+  "site": "kornferry.com",
+  "careers": "https://www.kornferry.com/careers"
+ },
+ {
+  "name": "Knowles",
+  "country": "United States",
+  "site": "knowles.com"
+ },
+ {
+  "name": "Kuehne+Nagel",
+  "country": "Switzerland",
+  "site": "kuehne-nagel.com"
+ },
+ {
+  "name": "Keyloop",
+  "country": "United Kingdom",
+  "site": "keyloop.com",
+  "careers": "https://keyloop.com/careers"
+ },
+ {
+  "name": "K2view",
+  "country": "Israel",
+  "site": "k2view.com",
+  "careers": "https://www.k2view.com/careers/"
+ },
+ {
+  "name": "KraftPixel",
+  "country": "India",
+  "site": "kraftpixel.com"
+ },
+ {
+  "name": "Kredo Analytics",
+  "country": "India",
+  "site": "kredo.in"
  }
 ];

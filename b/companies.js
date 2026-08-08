@@ -759,11 +759,6 @@ module.exports=[
   "site": "bounceshare.com"
  },
  {
-  "name": "Bristlecone",
-  "country": "India",
-  "site": "bcone.com"
- },
- {
   "name": "Brane Enterprises",
   "country": "India",
   "site": "braneenterprises.com",
@@ -796,12 +791,676 @@ module.exports=[
  },
  {
   "name": "Boldare",
-  "country": "India",
+  "country": "Poland",
   "site": "boldare.com"
  },
  {
   "name": "Borderless Access",
   "country": "India",
   "site": "borderlessaccess.com"
+ },
+ {
+  "name": "BDO India",
+  "country": "India",
+  "site": "bdo.in"
+ },
+ {
+  "name": "BEML",
+  "country": "India",
+  "site": "bemlindia.in",
+  "careers": "https://www.bemlindia.in/careers/"
+ },
+ {
+  "name": "BHEL",
+  "country": "India",
+  "site": "bhel.com"
+ },
+ {
+  "name": "BSEtec",
+  "country": "India",
+  "site": "bsetec.com",
+  "careers": "https://www.bsetec.com/career"
+ },
+ {
+  "name": "BSNL",
+  "country": "India",
+  "site": "bsnl.co.in",
+  "careers": "https://bsnl.co.in/career"
+ },
+ {
+  "name": "Bajaj Electricals",
+  "country": "India",
+  "site": "bajajelectricals.com",
+  "careers": "https://www.bajajelectricals.com/pages/careers"
+ },
+ {
+  "name": "Bajaj Finserv Health",
+  "country": "India",
+  "site": "bajajfinservhealth.in"
+ },
+ {
+  "name": "Bajaj Housing Finance",
+  "country": "India",
+  "site": "bajajhousingfinance.in"
+ },
+ {
+  "name": "Balmer Lawrie",
+  "country": "India",
+  "site": "balmerlawrie.com",
+  "careers": "https://www.balmerlawrie.com/careers"
+ },
+ {
+  "name": "BeatO",
+  "country": "India",
+  "site": "beatoapp.com"
+ },
+ {
+  "name": "Bechtel",
+  "country": "United States",
+  "site": "bechtel.com",
+  "careers": "https://www.bechtel.com/careers/"
+ },
+ {
+  "name": "Beetel Teletech",
+  "country": "India",
+  "site": "beetel.in",
+  "careers": "https://www.beetel.in/careers/"
+ },
+ {
+  "name": "Belong",
+  "country": "India",
+  "site": "belong.co"
+ },
+ {
+  "name": "Betterworks",
+  "country": "United States",
+  "site": "betterworks.com",
+  "careers": "https://www.betterworks.com/careers"
+ },
+ {
+  "name": "Bharat Biotech",
+  "country": "India",
+  "site": "bharatbiotech.com"
+ },
+ {
+  "name": "Bharat Dynamics",
+  "country": "India",
+  "site": "bdl-india.in"
+ },
+ {
+  "name": "Bharat Petroleum",
+  "country": "India",
+  "site": "bharatpetroleum.in"
+ },
+ {
+  "name": "BigHaat",
+  "country": "India",
+  "site": "bighaat.com"
+ },
+ {
+  "name": "Bigscal Technologies",
+  "country": "India",
+  "site": "bigscal.com",
+  "careers": "https://www.bigscal.com/careers/"
+ },
+ {
+  "name": "BimaKavach",
+  "country": "India",
+  "site": "bimakavach.com"
+ },
+ {
+  "name": "Biological E",
+  "country": "India",
+  "site": "biologicale.com"
+ },
+ {
+  "name": "Biz4Group",
+  "country": "United States",
+  "site": "biz4group.com",
+  "careers": "https://www.biz4group.com/career"
+ },
+ {
+  "name": "Biz4Solutions",
+  "country": "India",
+  "site": "biz4solutions.com",
+  "careers": "https://biz4solutions.com/careers/"
+ },
+ {
+  "name": "Bizom",
+  "country": "India",
+  "site": "bizom.com",
+  "careers": "https://bizom.com/career/"
+ },
+ {
+  "name": "Black Box",
+  "country": "India",
+  "site": "blackbox.com",
+  "careers": "https://www.blackbox.com/global-careers/overview"
+ },
+ {
+  "name": "BlackSoil",
+  "country": "India",
+  "site": "blacksoil.co.in",
+  "careers": "https://www.blacksoil.co.in/careers"
+ },
+ {
+  "name": "Blackhawk Network",
+  "country": "United States",
+  "site": "blackhawknetwork.com"
+ },
+ {
+  "name": "Blue Dart",
+  "country": "India",
+  "site": "bluedart.com"
+ },
+ {
+  "name": "Blue Prism",
+  "country": "United Kingdom",
+  "site": "blueprism.com"
+ },
+ {
+  "name": "BoTree Technologies",
+  "country": "India",
+  "site": "botreetechnologies.com"
+ },
+ {
+  "name": "Board Infinity",
+  "country": "India",
+  "site": "boardinfinity.com"
+ },
+ {
+  "name": "Bookingjini",
+  "country": "India",
+  "site": "bookingjini.com"
+ },
+ {
+  "name": "Bosch Rexroth",
+  "country": "Germany",
+  "site": "boschrexroth.com",
+  "careers": "https://www.boschrexroth.com/en/dc/jobs-and-career/"
+ },
+ {
+  "name": "Bottomline Technologies",
+  "country": "United States",
+  "site": "bottomline.com",
+  "careers": "https://www.bottomline.com/about/careers"
+ },
+ {
+  "name": "BrainerHub Solutions",
+  "country": "India",
+  "site": "brainerhub.com",
+  "careers": "https://www.brainerhub.com/career/"
+ },
+ {
+  "name": "Brainguru Technologies",
+  "country": "India",
+  "site": "brainguru.in",
+  "careers": "https://www.brainguru.in/careers/"
+ },
+ {
+  "name": "BrainyBeam Technologies",
+  "country": "India",
+  "site": "brainybeam.com",
+  "careers": "https://brainybeam.com/careers"
+ },
+ {
+  "name": "Brilworks Software",
+  "country": "India",
+  "site": "brilworks.com",
+  "careers": "https://www.brilworks.com/career/"
+ },
+ {
+  "name": "BugBase",
+  "country": "India",
+  "site": "bugbase.ai"
+ },
+ {
+  "name": "Buhler",
+  "country": "Switzerland",
+  "site": "buhlergroup.com",
+  "careers": "https://jobs.buhlergroup.com/?lang=en"
+ },
+ {
+  "name": "Bureau",
+  "country": "India",
+  "site": "bureau.id"
+ },
+ {
+  "name": "Burns & McDonnell",
+  "country": "United States",
+  "site": "burnsmcd.com",
+  "careers": "https://www.burnsmcd.com/careers"
+ },
+ {
+  "name": "BuyerForesight",
+  "country": "India",
+  "site": "buyerforesight.com"
+ },
+ {
+  "name": "Bytebeam",
+  "country": "India",
+  "site": "bytebeam.io"
+ },
+ {
+  "name": "ByteCipher",
+  "country": "India",
+  "site": "bytecipher.net",
+  "careers": "https://www.bytecipher.net/careers"
+ },
+ {
+  "name": "BOBCARD",
+  "country": "India",
+  "site": "bobcard.co.in",
+  "careers": "https://www.bobcard.co.in/careers"
+ },
+ {
+  "name": "BR Softech",
+  "country": "India",
+  "site": "brsoftech.com"
+ },
+ {
+  "name": "Bandhan Mutual Fund",
+  "country": "India",
+  "site": "bandhanmutual.com",
+  "careers": "https://bandhanmutual.com/careers"
+ },
+ {
+  "name": "Baroda BNP Paribas Mutual Fund",
+  "country": "India",
+  "site": "barodabnpparibasmf.in",
+  "careers": "https://www.barodabnpparibasmf.in/careers"
+ },
+ {
+  "name": "BeautifulCode",
+  "country": "India",
+  "site": "beautifulcode.co"
+ },
+ {
+  "name": "BeepKart",
+  "country": "India",
+  "site": "beepkart.com"
+ },
+ {
+  "name": "Bellatrix Aerospace",
+  "country": "India",
+  "site": "bellatrix.aero"
+ },
+ {
+  "name": "Belrise Industries",
+  "country": "India",
+  "site": "belriseindustries.com",
+  "careers": "https://www.belriseindustries.com/career"
+ },
+ {
+  "name": "BharatRohan",
+  "country": "India",
+  "site": "bharatrohan.in",
+  "careers": "https://bharatrohan.in/careers"
+ },
+ {
+  "name": "Bharatsure",
+  "country": "India",
+  "site": "bharatsure.com"
+ },
+ {
+  "name": "Bilvantis Technologies",
+  "country": "India",
+  "site": "bilvantis.io",
+  "careers": "https://www.bilvantis.io/careers"
+ },
+ {
+  "name": "Bimaplan",
+  "country": "India",
+  "site": "bimaplan.co"
+ },
+ {
+  "name": "Binary Republik",
+  "country": "India",
+  "site": "binaryrepublik.com",
+  "careers": "https://www.binaryrepublik.com/careers"
+ },
+ {
+  "name": "Bluetick Consultants",
+  "country": "India",
+  "site": "bluetickconsultants.com"
+ },
+ {
+  "name": "Boltic",
+  "country": "India",
+  "site": "boltic.io"
+ },
+ {
+  "name": "BotLab Dynamics",
+  "country": "India",
+  "site": "botlabdynamics.com",
+  "careers": "https://botlabdynamics.com/careers"
+ },
+ {
+  "name": "BrainMobi",
+  "country": "India",
+  "site": "brainmobi.com",
+  "careers": "https://www.brainmobi.com/careers/current-openings"
+ },
+ {
+  "name": "ByteAlly",
+  "country": "India",
+  "site": "byteally.com"
+ },
+ {
+  "name": "Better",
+  "country": "United States",
+  "site": "better.com"
+ },
+ {
+  "name": "BUSY Infotech",
+  "country": "India",
+  "site": "busy.in"
+ },
+ {
+  "name": "Backbase",
+  "country": "Netherlands",
+  "site": "backbase.com",
+  "careers": "https://www.backbase.com/careers"
+ },
+ {
+  "name": "Bajaj Capital",
+  "country": "India",
+  "site": "bajajcapital.com",
+  "careers": "https://www.bajajcapital.com/careers"
+ },
+ {
+  "name": "Benori Knowledge",
+  "country": "India",
+  "site": "benori.com",
+  "careers": "https://benori.com/career"
+ },
+ {
+  "name": "Bert Labs",
+  "country": "India",
+  "site": "bertlabs.com",
+  "careers": "https://www.bertlabs.com/careers"
+ },
+ {
+  "name": "Beyond Root Technical Services",
+  "country": "India",
+  "site": "beyondroot.com"
+ },
+ {
+  "name": "Bhash SMS",
+  "country": "India",
+  "site": "bhashsms.com"
+ },
+ {
+  "name": "Bijlipay",
+  "country": "India",
+  "site": "bijlipay.co.in"
+ },
+ {
+  "name": "Bitbns",
+  "country": "India",
+  "site": "bitbns.com"
+ },
+ {
+  "name": "Bito",
+  "country": "United States",
+  "site": "bito.ai",
+  "careers": "https://bito.ai/careers/"
+ },
+ {
+  "name": "Biz2X",
+  "country": "United States",
+  "site": "biz2x.com",
+  "careers": "https://www.biz2x.com/india/careers/"
+ },
+ {
+  "name": "BizBrolly Solutions",
+  "country": "India",
+  "site": "bizbrolly.com"
+ },
+ {
+  "name": "Blue Cloud Softech Solutions",
+  "country": "India",
+  "site": "bluecloudsoftech.com"
+ },
+ {
+  "name": "Bluekode Solutions",
+  "country": "India",
+  "site": "bluekode.com",
+  "careers": "https://www.bluekode.com/careers"
+ },
+ {
+  "name": "Bosc Tech Labs",
+  "country": "India",
+  "site": "bosctechlabs.com"
+ },
+ {
+  "name": "Brihaspati Infotech",
+  "country": "India",
+  "site": "brihaspatitech.com",
+  "careers": "https://www.brihaspatitech.com/careers/"
+ },
+ {
+  "name": "BytesView Analytics",
+  "country": "India",
+  "site": "bytesview.com",
+  "careers": "https://www.bytesview.com/careers"
+ },
+ {
+  "name": "Boult",
+  "country": "India",
+  "site": "goboult.co.in"
+ },
+ {
+  "name": "BANKIT",
+  "country": "India",
+  "site": "bankit.in",
+  "careers": "https://www.bankit.in/career"
+ },
+ {
+  "name": "BLS E-Services",
+  "country": "India",
+  "site": "blseservices.com"
+ },
+ {
+  "name": "Bajaj Broking",
+  "country": "India",
+  "site": "bajajbroking.in",
+  "careers": "https://www.bajajbroking.in/careers"
+ },
+ {
+  "name": "Bharti AXA Life Insurance",
+  "country": "India",
+  "site": "bhartiaxa.com",
+  "careers": "https://www.bhartiaxa.com/careers"
+ },
+ {
+  "name": "BasicFirst",
+  "country": "India",
+  "site": "basicfirst.com",
+  "careers": "https://www.basicfirst.com/careers"
+ },
+ {
+  "name": "Brainstorm Force",
+  "country": "India",
+  "site": "brainstormforce.com"
+ },
+ {
+  "name": "BrainStream Technolabs",
+  "country": "India",
+  "site": "brainstreamtechnolabs.com",
+  "careers": "https://brainstreamtechnolabs.com/careers/"
+ },
+ {
+  "name": "Bajaj Life Insurance",
+  "country": "India",
+  "site": "bajajlifeinsurance.com"
+ },
+ {
+  "name": "Bolt IoT",
+  "country": "India",
+  "site": "boltiot.com",
+  "careers": "https://www.boltiot.com/careers"
+ },
+ {
+  "name": "B2B Software Technologies",
+  "country": "India",
+  "site": "b2bsoftech.com"
+ },
+ {
+  "name": "BLive",
+  "country": "India",
+  "site": "blive.co.in",
+  "careers": "https://blive.co.in/careers/"
+ },
+ {
+  "name": "BaseApp Systems",
+  "country": "India",
+  "site": "baseapp.com",
+  "careers": "https://www.baseapp.com/careers/"
+ },
+ {
+  "name": "Battery Smart",
+  "country": "India",
+  "site": "batterysmart.in",
+  "careers": "https://www.batterysmart.in/careers"
+ },
+ {
+  "name": "Black & Veatch",
+  "country": "United States",
+  "site": "bv.com",
+  "careers": "https://www.bv.com/careers"
+ },
+ {
+  "name": "Blockchain Simplified",
+  "country": "India",
+  "site": "blockchainsimplified.com"
+ },
+ {
+  "name": "Boltzmann Labs",
+  "country": "India",
+  "site": "boltzmann.co",
+  "careers": "https://boltzmann.co/careers"
+ },
+ {
+  "name": "Brick & Bolt",
+  "country": "India",
+  "site": "bricknbolt.com",
+  "careers": "https://www.bricknbolt.com/careers"
+ },
+ {
+  "name": "Bridge Global",
+  "country": "India",
+  "site": "bridge-global.com",
+  "careers": "https://www.bridge-global.com/career"
+ },
+ {
+  "name": "Brightcom Group",
+  "country": "India",
+  "site": "brightcomgroup.com"
+ },
+ {
+  "name": "BuildNext",
+  "country": "India",
+  "site": "buildnext.in",
+  "careers": "https://careers.buildnext.in/"
+ },
+ {
+  "name": "byteXL",
+  "country": "India",
+  "site": "bytexl.ai",
+  "careers": "https://bytexl.ai/careers"
+ },
+ {
+  "name": "Brainbees Solutions",
+  "country": "India",
+  "site": "firstcry.com"
+ },
+ {
+  "name": "BluSapphire",
+  "country": "India",
+  "site": "blusapphire.com",
+  "careers": "https://www.blusapphire.com/careers"
+ },
+ {
+  "name": "BGauss",
+  "country": "India",
+  "site": "bgauss.com"
+ },
+ {
+  "name": "Bajaj Finserv AMC",
+  "country": "India",
+  "site": "bajajamc.com",
+  "careers": "https://www.bajajamc.com/careers"
+ },
+ {
+  "name": "Bandhan Life",
+  "country": "India",
+  "site": "bandhanlife.com",
+  "careers": "https://www.bandhanlife.com/careers"
+ },
+ {
+  "name": "BharatNXT",
+  "country": "India",
+  "site": "bharatnxt.com"
+ },
+ {
+  "name": "Blitz",
+  "country": "India",
+  "site": "blitznow.in"
+ },
+ {
+  "name": "BrainSight AI",
+  "country": "India",
+  "site": "brainsightai.com",
+  "careers": "https://www.brainsightai.com/careers"
+ },
+ {
+  "name": "BuyHatke",
+  "country": "India",
+  "site": "buyhatke.com"
+ },
+ {
+  "name": "BorderPlus",
+  "country": "India",
+  "site": "borderplus.com",
+  "careers": "https://www.borderplus.com/careers"
+ },
+ {
+  "name": "Bank of Maharashtra",
+  "country": "India",
+  "site": "bankofmaharashtra.bank.in",
+  "careers": "https://bankofmaharashtra.bank.in/careers"
+ },
+ {
+  "name": "BOB Capital Markets",
+  "country": "India",
+  "site": "bobcaps.com",
+  "careers": "https://www.bobcaps.com/careers"
+ },
+ {
+  "name": "Binary Informatics",
+  "country": "India",
+  "site": "binaryinformatics.com"
+ },
+ {
+  "name": "Blackcoffer",
+  "country": "India",
+  "site": "blackcoffer.com"
+ },
+ {
+  "name": "Bluestock",
+  "country": "India",
+  "site": "bluestock.in",
+  "careers": "https://www.bluestock.in/careers/"
+ },
+ {
+  "name": "Bytes India",
+  "country": "India",
+  "site": "bytesindia.com"
+ },
+ {
+  "name": "Bhavya Technologies",
+  "country": "India",
+  "site": "bhavyatechnologies.com"
  }
 ];

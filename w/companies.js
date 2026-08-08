@@ -110,8 +110,7 @@ module.exports=[
  {
   "name": "Wibmo (PayU)",
   "country": "India",
-  "site": "wibmo.com",
-  "careers": "https://www.wibmo.com/careers/"
+  "site": "wibmo.com"
  },
  {
   "name": "Wockhardt",
@@ -140,26 +139,22 @@ module.exports=[
  {
   "name": "Wonderchef",
   "country": "India",
-  "site": "wonderchef.com",
-  "careers": "https://www.wonderchef.com/pages/careers"
+  "site": "wonderchef.com"
  },
  {
   "name": "Wow Skin Science",
   "country": "India",
-  "site": "buywow.in",
-  "careers": "https://www.buywow.in/pages/careers"
+  "site": "buywow.in"
  },
  {
   "name": "Wow! Momo Foods",
   "country": "India",
-  "site": "wowmomo.in",
-  "careers": "https://www.wowmomo.com/careers"
+  "site": "wowmomo.in"
  },
  {
   "name": "Wint Wealth",
   "country": "India",
-  "site": "wintwealth.com",
-  "careers": "https://www.wintwealth.com/careers"
+  "site": "wintwealth.com"
  },
  {
   "name": "Weekday.works",
@@ -212,14 +207,12 @@ module.exports=[
  {
   "name": "Wheelocity",
   "country": "India",
-  "site": "wheelocity.in",
-  "careers": "https://wheelocity.in/careers"
+  "site": "wheelocity.in"
  },
  {
   "name": "Wingreens World",
   "country": "India",
-  "site": "wingreensworld.com",
-  "careers": "https://wingreensworld.com/pages/careers"
+  "site": "wingreensworld.com"
  },
  {
   "name": "WoodenStreet",
@@ -254,8 +247,7 @@ module.exports=[
  {
   "name": "Wizcraft",
   "country": "India",
-  "site": "wizcraftworld.com",
-  "careers": "https://www.wizcraftworld.com/careers"
+  "site": "wizcraftworld.com"
  },
  {
   "name": "Walmart Global Tech",
@@ -368,8 +360,7 @@ module.exports=[
  {
   "name": "Welocalize",
   "country": "USA",
-  "site": "welocalize.com",
-  "careers": "https://www.welocalize.com/careers/"
+  "site": "welocalize.com"
  },
  {
   "name": "Wärtsilä",
@@ -614,14 +605,12 @@ module.exports=[
  {
   "name": "Wistia",
   "country": "USA",
-  "site": "wistia.com",
-  "careers": "https://wistia.com/about/careers"
+  "site": "wistia.com"
  },
  {
   "name": "Wattpad",
   "country": "Canada",
-  "site": "wattpad.com",
-  "careers": "https://company.wattpad.com/careers"
+  "site": "wattpad.com"
  },
  {
   "name": "Workiva",
@@ -710,8 +699,7 @@ module.exports=[
  {
   "name": "Wallbox",
   "country": "Spain",
-  "site": "wallbox.com",
-  "careers": "https://wallbox.com/en_us/careers"
+  "site": "wallbox.com"
  },
  {
   "name": "Wildlife Studios",
@@ -736,5 +724,787 @@ module.exports=[
   "country": "Germany",
   "site": "wooga.com",
   "careers": "https://www.wooga.com/jobs"
+ },
+ {
+  "name": "Wooqer",
+  "country": "India",
+  "site": "wooqer.com",
+  "careers": "https://wooqer.com/careers"
+ },
+ {
+  "name": "WalkingTree Technologies",
+  "country": "India",
+  "site": "walkingtree.tech",
+  "careers": "https://walkingtree.tech/careers/"
+ },
+ {
+  "name": "Wildnet Technologies",
+  "country": "India",
+  "site": "wildnettechnologies.com",
+  "careers": "https://www.wildnettechnologies.com/careers"
+ },
+ {
+  "name": "Webskitters",
+  "country": "India",
+  "site": "webskitters.com",
+  "careers": "https://www.webskitters.com/career"
+ },
+ {
+  "name": "WebGuru Infosystems",
+  "country": "India",
+  "site": "webguru-india.com"
+ },
+ {
+  "name": "WeblineIndia",
+  "country": "India",
+  "site": "weblineindia.com",
+  "careers": "https://jobs.weblineindia.com/jobs/Careers"
+ },
+ {
+  "name": "WebClues Infotech",
+  "country": "India",
+  "site": "webcluesinfotech.com",
+  "careers": "https://www.webcluesinfotech.com/join-our-team/"
+ },
+ {
+  "name": "Wappnet Systems",
+  "country": "India",
+  "site": "wappnet.com",
+  "careers": "https://wappnet.com/career"
+ },
+ {
+  "name": "WeDoWebApps",
+  "country": "India",
+  "site": "wedowebapps.com",
+  "careers": "https://www.wedowebapps.com/careers/"
+ },
+ {
+  "name": "WPWeb Infotech",
+  "country": "India",
+  "site": "wpwebinfotech.com",
+  "careers": "https://wpwebinfotech.com/jobs/"
+ },
+ {
+  "name": "WisdmLabs",
+  "country": "India",
+  "site": "wisdmlabs.com",
+  "careers": "https://wisdmlabs.com/careers/"
+ },
+ {
+  "name": "WebOccult Technologies",
+  "country": "India",
+  "site": "weboccult.com",
+  "careers": "https://weboccult.com/career/"
+ },
+ {
+  "name": "W3villa Technologies",
+  "country": "India",
+  "site": "w3villa.com",
+  "careers": "https://www.w3villa.com/careers"
+ },
+ {
+  "name": "W2S Solutions",
+  "country": "India",
+  "site": "w2ssolutions.com"
+ },
+ {
+  "name": "Way2Smile Solutions",
+  "country": "India",
+  "site": "way2smile.com"
+ },
+ {
+  "name": "Webnexs",
+  "country": "India",
+  "site": "webnexs.com"
+ },
+ {
+  "name": "WiSilica",
+  "country": "India",
+  "site": "wisilica.com",
+  "careers": "https://wisilica.com/company/careers/"
+ },
+ {
+  "name": "Webdura Technologies",
+  "country": "India",
+  "site": "webdura.in",
+  "careers": "https://www.webdura.in/webdura-careers/"
+ },
+ {
+  "name": "WonderBiz Technologies",
+  "country": "India",
+  "site": "wonderbiz.in"
+ },
+ {
+  "name": "Wama Technology",
+  "country": "India",
+  "site": "wamatechnology.com"
+ },
+ {
+  "name": "Webs Optimization Software Solution",
+  "country": "India",
+  "site": "websoptimization.com",
+  "careers": "https://www.websoptimization.com/career.html"
+ },
+ {
+  "name": "WeeTech Solution",
+  "country": "India",
+  "site": "weetechsolution.com",
+  "careers": "https://www.weetechsolution.com/career/"
+ },
+ {
+  "name": "W3care Technologies",
+  "country": "India",
+  "site": "w3care.com",
+  "careers": "https://www.w3care.com/company/career"
+ },
+ {
+  "name": "Winklix",
+  "country": "India",
+  "site": "winklix.com",
+  "careers": "https://winklix.com/jobs/"
+ },
+ {
+  "name": "Wow Labz",
+  "country": "India",
+  "site": "wowlabz.com",
+  "careers": "https://wowlabz.com/career/"
+ },
+ {
+  "name": "Webmyne Systems",
+  "country": "India",
+  "site": "webmyne.com"
+ },
+ {
+  "name": "WebCodeGenie",
+  "country": "India",
+  "site": "webcodegenie.com",
+  "careers": "https://webcodegenie.com/career"
+ },
+ {
+  "name": "WebSenor",
+  "country": "India",
+  "site": "websenor.com",
+  "careers": "https://websenor.com/careers/"
+ },
+ {
+  "name": "Webnyxa Technologies",
+  "country": "India",
+  "site": "webnyxa.com"
+ },
+ {
+  "name": "Wisitech InfoSolutions",
+  "country": "India",
+  "site": "wisitech.com"
+ },
+ {
+  "name": "Websym Solutions",
+  "country": "India",
+  "site": "websym.com"
+ },
+ {
+  "name": "Web Spiders",
+  "country": "India",
+  "site": "webspiders.com",
+  "careers": "https://webspiders.com/careers"
+ },
+ {
+  "name": "Wysetek Systems",
+  "country": "India",
+  "site": "wysetek.com",
+  "careers": "https://wysetek.com/careers/"
+ },
+ {
+  "name": "Wattlecorp Cybersecurity Labs",
+  "country": "India",
+  "site": "wattlecorp.com",
+  "careers": "https://www.wattlecorp.com/career/"
+ },
+ {
+  "name": "webdew",
+  "country": "India",
+  "site": "webdew.com",
+  "careers": "https://careers.webdew.com/"
+ },
+ {
+  "name": "Webgarh Solutions",
+  "country": "India",
+  "site": "webgarh.com",
+  "careers": "https://webgarh.com/pages/careers"
+ },
+ {
+  "name": "Webkorps Services",
+  "country": "India",
+  "site": "webkorps.com",
+  "careers": "https://www.webkorps.com/join-us"
+ },
+ {
+  "name": "WebPlanex Infotech",
+  "country": "India",
+  "site": "webplanex.com",
+  "careers": "https://www.webplanex.com/career/"
+ },
+ {
+  "name": "WeDigTech",
+  "country": "India",
+  "site": "wedigtech.com"
+ },
+ {
+  "name": "Wegile",
+  "country": "India",
+  "site": "wegile.com",
+  "careers": "https://wegile.com/jobs"
+ },
+ {
+  "name": "West Agile Labs",
+  "country": "India",
+  "site": "westagilelabs.com"
+ },
+ {
+  "name": "Wishtree Technologies",
+  "country": "India",
+  "site": "wishtreetech.com",
+  "careers": "https://wishtreetech.com/careers/"
+ },
+ {
+  "name": "Wizard Infoways",
+  "country": "India",
+  "site": "wizardinfoways.com"
+ },
+ {
+  "name": "Whizzystack",
+  "country": "India",
+  "site": "whizzystack.co",
+  "careers": "https://whizzystack.co/careers/"
+ },
+ {
+  "name": "World Web Technology",
+  "country": "India",
+  "site": "worldwebtechnology.com",
+  "careers": "https://worldwebtechnology.com/careers/"
+ },
+ {
+  "name": "White Lotus Corporation",
+  "country": "India",
+  "site": "whitelotuscorporation.com"
+ },
+ {
+  "name": "WittyBrains Software Technologies",
+  "country": "India",
+  "site": "wittybrains.com"
+ },
+ {
+  "name": "Webwing Technologies",
+  "country": "India",
+  "site": "webwingtechnologies.com"
+ },
+ {
+  "name": "Weblizar",
+  "country": "India",
+  "site": "weblizar.com"
+ },
+ {
+  "name": "WebMobTech",
+  "country": "India",
+  "site": "webmobtech.com",
+  "careers": "https://webmobtech.com/career/"
+ },
+ {
+  "name": "WOWinfotech",
+  "country": "India",
+  "site": "wowinfotech.com",
+  "careers": "https://www.wowinfotech.com/career"
+ },
+ {
+  "name": "Wits Innovation Lab",
+  "country": "India",
+  "site": "thewitslab.com"
+ },
+ {
+  "name": "WowMakers",
+  "country": "India",
+  "site": "wowmakers.com",
+  "careers": "https://www.wowmakers.com/careers/"
+ },
+ {
+  "name": "Wilco Source",
+  "country": "India",
+  "site": "wilcosource.com",
+  "careers": "https://wilcosource.com/careers/"
+ },
+ {
+  "name": "WinfoGlobal Technologies",
+  "country": "India",
+  "site": "winfoglobal.com"
+ },
+ {
+  "name": "Winsoft Solution",
+  "country": "India",
+  "site": "winsoftindia.com"
+ },
+ {
+  "name": "Winsoft Technologies",
+  "country": "India",
+  "site": "winsoftech.com",
+  "careers": "https://winsoftech.com/careers/"
+ },
+ {
+  "name": "Winspire Solutions",
+  "country": "Singapore",
+  "site": "winspiresolutions.in"
+ },
+ {
+  "name": "Websoftex Software",
+  "country": "India",
+  "site": "websoftex.com"
+ },
+ {
+  "name": "Wondersoft",
+  "country": "India",
+  "site": "wondersoft.com",
+  "careers": "https://www.wondersoft.com/jobs"
+ },
+ {
+  "name": "Whizible",
+  "country": "India",
+  "site": "whizible.com"
+ },
+ {
+  "name": "Writer Information",
+  "country": "India",
+  "site": "writerinformation.com",
+  "careers": "https://writerinformation.com/careers/"
+ },
+ {
+  "name": "WyzMindz Solutions",
+  "country": "India",
+  "site": "wyzmindz.com"
+ },
+ {
+  "name": "WNS-Vuram",
+  "country": "India",
+  "site": "vuram.com"
+ },
+ {
+  "name": "WeframeTech",
+  "country": "India",
+  "site": "weframetech.com"
+ },
+ {
+  "name": "WebbyTemplate",
+  "country": "India",
+  "site": "webbytemplate.com"
+ },
+ {
+  "name": "WareIQ",
+  "country": "India",
+  "site": "wareiq.com"
+ },
+ {
+  "name": "WizKlub",
+  "country": "India",
+  "site": "wizklub.com"
+ },
+ {
+  "name": "Wonderslate",
+  "country": "India",
+  "site": "wonderslate.com"
+ },
+ {
+  "name": "Wiingy",
+  "country": "India",
+  "site": "wiingy.com"
+ },
+ {
+  "name": "WhiteCoats",
+  "country": "India",
+  "site": "whitecoats.com"
+ },
+ {
+  "name": "Way2Wealth",
+  "country": "India",
+  "site": "way2wealth.com"
+ },
+ {
+  "name": "Wealthy",
+  "country": "India",
+  "site": "wealthy.in",
+  "careers": "https://www.wealthy.in/careers"
+ },
+ {
+  "name": "WeRize",
+  "country": "India",
+  "site": "werize.com",
+  "careers": "https://www.werize.com/career/"
+ },
+ {
+  "name": "Winvesta",
+  "country": "India",
+  "site": "winvesta.in",
+  "careers": "https://www.winvesta.in/careers-at-winvesta"
+ },
+ {
+  "name": "Wishfin",
+  "country": "India",
+  "site": "wishfin.com",
+  "careers": "https://www.wishfin.com/careers"
+ },
+ {
+  "name": "Wizely",
+  "country": "India",
+  "site": "wizely.in"
+ },
+ {
+  "name": "Wegofin",
+  "country": "India",
+  "site": "wegofin.com"
+ },
+ {
+  "name": "Wonder Home Finance",
+  "country": "India",
+  "site": "wonderhomefinance.com"
+ },
+ {
+  "name": "WotNot",
+  "country": "India",
+  "site": "wotnot.io"
+ },
+ {
+  "name": "WizCommerce",
+  "country": "India",
+  "site": "wizcommerce.com",
+  "careers": "https://wizcommerce.com/careers/"
+ },
+ {
+  "name": "Wizr AI",
+  "country": "India",
+  "site": "wizr.ai",
+  "careers": "https://wizr.ai/careers"
+ },
+ {
+  "name": "Wizzy",
+  "country": "India",
+  "site": "wizzy.ai"
+ },
+ {
+  "name": "worXogo",
+  "country": "India",
+  "site": "worxogo.com",
+  "careers": "https://worxogo.com/careers/"
+ },
+ {
+  "name": "WorkInSync",
+  "country": "India",
+  "site": "workinsync.io"
+ },
+ {
+  "name": "Workstatus",
+  "country": "India",
+  "site": "workstatus.io",
+  "careers": "https://www.workstatus.io/careers"
+ },
+ {
+  "name": "Wisemonk",
+  "country": "India",
+  "site": "wisemonk.io",
+  "careers": "https://www.wisemonk.io/careers"
+ },
+ {
+  "name": "WisdomCircle",
+  "country": "India",
+  "site": "wisdomcircle.com"
+ },
+ {
+  "name": "Wobb",
+  "country": "India",
+  "site": "wobb.ai"
+ },
+ {
+  "name": "WedMeGood",
+  "country": "India",
+  "site": "wedmegood.com",
+  "careers": "https://www.wedmegood.com/careers"
+ },
+ {
+  "name": "Winni",
+  "country": "India",
+  "site": "winni.in",
+  "careers": "https://www.winni.in/careers"
+ },
+ {
+  "name": "Wify",
+  "country": "India",
+  "site": "wify.co.in",
+  "careers": "https://wify.co.in/careers.html"
+ },
+ {
+  "name": "WhistleDrive",
+  "country": "India",
+  "site": "whistledrive.com"
+ },
+ {
+  "name": "Waybeo",
+  "country": "India",
+  "site": "waybeo.com",
+  "careers": "https://www.waybeo.com/career/"
+ },
+ {
+  "name": "WEGoT Utility Solutions",
+  "country": "India",
+  "site": "wegot.in"
+ },
+ {
+  "name": "Whrrl",
+  "country": "India",
+  "site": "whr.loans"
+ },
+ {
+  "name": "WeVOIS Labs",
+  "country": "India",
+  "site": "wevois.com"
+ },
+ {
+  "name": "WattMonk Technologies",
+  "country": "India",
+  "site": "wattmonk.com"
+ },
+ {
+  "name": "Wiz Freight",
+  "country": "India",
+  "site": "wizfreight.com"
+ },
+ {
+  "name": "Witzeal Technologies",
+  "country": "India",
+  "site": "witzeal.com"
+ },
+ {
+  "name": "Wynk Music",
+  "country": "India",
+  "site": "wynk.in"
+ },
+ {
+  "name": "WayCool Foods",
+  "country": "India",
+  "site": "waycool.in"
+ },
+ {
+  "name": "Wolkus Technology Solutions (Fasal)",
+  "country": "India",
+  "site": "fasal.co"
+ },
+ {
+  "name": "Wondrlab",
+  "country": "India",
+  "site": "wondrlab.com"
+ },
+ {
+  "name": "Wildcraft",
+  "country": "India",
+  "site": "wildcraft.com"
+ },
+ {
+  "name": "Woodland",
+  "country": "India",
+  "site": "woodlandworldwide.com"
+ },
+ {
+  "name": "Westside (Trent)",
+  "country": "India",
+  "site": "westside.com"
+ },
+ {
+  "name": "Westlife Foodworld",
+  "country": "India",
+  "site": "westlife.co.in"
+ },
+ {
+  "name": "The Whole Truth Foods",
+  "country": "India",
+  "site": "thewholetruthfoods.com",
+  "careers": "https://thewholetruthfoods.com/pages/careers"
+ },
+ {
+  "name": "Wellness Forever",
+  "country": "India",
+  "site": "wellnessforever.co.in"
+ },
+ {
+  "name": "Wheels India",
+  "country": "India",
+  "site": "wheelsindia.com",
+  "careers": "https://wheelsindia.com/careers/"
+ },
+ {
+  "name": "Waaree Energies",
+  "country": "India",
+  "site": "waaree.com",
+  "careers": "https://www.waaree.com/careers/"
+ },
+ {
+  "name": "Wonder Cement",
+  "country": "India",
+  "site": "wondercement.com"
+ },
+ {
+  "name": "Wardwizard Innovations & Mobility",
+  "country": "India",
+  "site": "wardwizard.in",
+  "careers": "https://wardwizard.in/careers/"
+ },
+ {
+  "name": "Windlas Biotech",
+  "country": "India",
+  "site": "windlas.com",
+  "careers": "https://windlas.com/career/"
+ },
+ {
+  "name": "Wipro Enterprises",
+  "country": "India",
+  "site": "wiproenterprises.com",
+  "careers": "https://jobs.wiproenterprises.com/"
+ },
+ {
+  "name": "Welspun Living",
+  "country": "India",
+  "site": "welspunliving.com"
+ },
+ {
+  "name": "Wendt India",
+  "country": "India",
+  "site": "wendtindia.com",
+  "careers": "https://wendtindia.com/careers/"
+ },
+ {
+  "name": "Walchandnagar Industries",
+  "country": "India",
+  "site": "walchand.com"
+ },
+ {
+  "name": "WPIL Limited",
+  "country": "India",
+  "site": "wpil.co.in"
+ },
+ {
+  "name": "West Coast Paper Mills",
+  "country": "India",
+  "site": "westcoastpaper.com"
+ },
+ {
+  "name": "Webtel Electrosoft",
+  "country": "India",
+  "site": "webtel.in",
+  "careers": "https://webtel.in/careers"
+ },
+ {
+  "name": "Westernacher Consulting",
+  "country": "Germany",
+  "site": "westernacher.com",
+  "careers": "https://westernacher.com/join/"
+ },
+ {
+  "name": "Woolworths Group",
+  "country": "Australia",
+  "site": "woolworthsgroup.com.au",
+  "careers": "https://careers.woolworthsgroup.com.au/en_GB/apply"
+ },
+ {
+  "name": "Walgreens Boots Alliance",
+  "country": "USA",
+  "site": "walgreensbootsalliance.com"
+ },
+ {
+  "name": "Worldline",
+  "country": "France",
+  "site": "worldline.com",
+  "careers": "https://jobs.worldline.com/"
+ },
+ {
+  "name": "Worldpay",
+  "country": "USA",
+  "site": "worldpay.com"
+ },
+ {
+  "name": "Westcon-Comstor",
+  "country": "Netherlands",
+  "site": "westconcomstor.com"
+ },
+ {
+  "name": "Wipfli",
+  "country": "USA",
+  "site": "wipfli.com"
+ },
+ {
+  "name": "Wavicle Data Solutions",
+  "country": "USA",
+  "site": "wavicledata.com",
+  "careers": "https://wavicledata.com/company/careers/"
+ },
+ {
+  "name": "WorkSpan",
+  "country": "USA",
+  "site": "workspan.com",
+  "careers": "https://www.workspan.com/company/careers"
+ },
+ {
+  "name": "Worksoft",
+  "country": "USA",
+  "site": "worksoft.com"
+ },
+ {
+  "name": "WorkForce Software",
+  "country": "USA",
+  "site": "workforcesoftware.com",
+  "careers": "https://workforcesoftware.com/careers/"
+ },
+ {
+  "name": "Wilo",
+  "country": "Germany",
+  "site": "wilo.com",
+  "careers": "https://wilo.com/en/Career/Jobs/"
+ },
+ {
+  "name": "Webasto",
+  "country": "Germany",
+  "site": "webasto.com",
+  "careers": "https://www.webasto.com/en-int/career.html"
+ },
+ {
+  "name": "West Pharmaceutical Services",
+  "country": "USA",
+  "site": "westpharma.com",
+  "careers": "https://www.westpharma.com/careers"
+ },
+ {
+  "name": "Watlow",
+  "country": "USA",
+  "site": "watlow.com",
+  "careers": "https://www.watlow.com/careers"
+ },
+ {
+  "name": "Wilhelmsen",
+  "country": "Norway",
+  "site": "wilhelmsen.com",
+  "careers": "https://www.wilhelmsen.com/careers"
+ },
+ {
+  "name": "Weidmüller",
+  "country": "Germany",
+  "site": "weidmueller.com"
+ },
+ {
+  "name": "WIKA",
+  "country": "Germany",
+  "site": "wika.com"
+ },
+ {
+  "name": "WEG",
+  "country": "Brazil",
+  "site": "weg.net"
+ },
+ {
+  "name": "Wieland Electric",
+  "country": "Germany",
+  "site": "wieland-electric.com",
+  "careers": "https://www.wieland-electric.com/en/career/wieland-employer/"
  }
 ];

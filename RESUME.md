@@ -172,8 +172,37 @@ inside the board's own name (asymmetric), so a renamed company must have its
 "NewBrand (formerly OldBrand)" — slugs() strips parenthesised text, so the
 check matches on the new brand while the old name stays readable.
 
+
+## Third extractor gap: the careers page is not the job board (cycle 9) — FIXED
+Hand-sampling the ~2,888 "no openings" boards (as the previous cycle's note
+told me to) found the real cause, and it was NOT that they are empty.
+
+The careers page is a marketing landing page; the actual board is ONE LINK
+AWAY. Hexaware's says "All Jobs (293)" and links to jobs.hexaware.com.
+Delhivery links to delhivery.darwinbox.in (Darwinbox — a provider the engine
+already supports). Flipkart links to flipkart.turbohire.co.
+
+Crucially, for Delhivery and Hexaware that link is NOT in the raw HTML — the
+page is a SPA — so the fetch-based scanner can never see it. Only the rendered
+pass can. The fix therefore lives in weekendplan/render-scan.js, not test.js.
+
+Hypotheses tested and REJECTED on the way (do not re-try these):
+ - "the real board is in an iframe" — no. Every iframe found was ad-tech:
+   doubleclick, criteo, youtube, hubspot.
+ - "the boards are genuinely empty" — no. Almost all had job links present
+   after rendering (Flipkart 23, KANINI 53, iauro 11).
+
+The hop accepts two shapes, both safe by construction:
+ 1. a known ATS vendor host (ATS_HOSTS in w/test.js) but ONLY when the
+    company's own slug appears in the URL — ownAtsBoard(). Asymmetric, same
+    rule as the board-name check, so a shared vendor host cannot serve a
+    stranger's postings.
+ 2. a jobs./careers./apply. subdomain of the company's OWN domain.
+
 ## Next cycle
-1. 2,888 boards still unread. Two render passes recovered 433. Hand-sample ~10
-   of the remainder before assuming they are genuinely empty — the last two
-   times that assumption was tested it was wrong and worth thousands of postings.
-2. Periodic re-verification of domains (cheap, no quota).
+1. Measure what the second hop recovered (weekendplan/logs-hop.log). If the
+   yield is good, the same landing-page pattern likely explains much of the
+   remaining unread set — extend ATS_HOSTS with whatever vendors show up.
+2. Boards that fail to load at all in Chromium: Coforge (ERR_HTTP2_PROTOCOL_ERROR)
+   and MakeMyTrip (timeout). Small in number; may need a retry with HTTP/1.1.
+3. Periodic re-verification of domains (cheap, no quota).

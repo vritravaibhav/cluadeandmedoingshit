@@ -1467,6 +1467,32 @@ function careerLinksIn(html, base) {
  * their sitemap/feed lists every employer on the platform, not just this one. */
 const AGGREGATORS = /(welcometothejungle|linkedin|indeed|glassdoor|naukri|wellfound|angel\.co|monster|shine\.com|timesjobs|foundit\.in|jobstreet|seek\.com|ycombinator\.com|builtin|dice\.com|ziprecruiter|simplyhired|jobsdb|instahyre|cutshort|hirist)\./i;
 
+/*
+ * Vendor domains that host a company's own job board. A careers page is very
+ * often just a marketing landing page whose one useful link points here:
+ * Delhivery -> delhivery.darwinbox.in, Flipkart -> flipkart.turbohire.co,
+ * Hexaware -> an Oracle Cloud board advertising "All Jobs (293)". Those links
+ * are off-domain, so the aggregator guard below used to discard them and the
+ * scan stopped on a page with no jobs on it.
+ */
+const ATS_HOSTS =
+  /(darwinbox\.(?:in|com)|turbohire\.co|myworkdayjobs\.com|oraclecloud\.com|successfactors\.(?:com|eu)|taleo\.net|icims\.com|smartrecruiters\.com|greenhouse\.io|lever\.co|ashbyhq\.com|zohorecruit\.(?:com|in|eu)|keka\.com|freshteam\.com|peoplestrong\.com|ripplehire\.com|phenompeople\.com|eightfold\.ai|jobvite\.com|workable\.com|recruitee\.com|teamtailor\.com|bamboohr\.com|breezy\.hr|recruiterbox\.com|hirebridge\.com|kekahire\.com|mynexthire\.com|skillate\.com|zwayam\.com|talentrecruit\.com|adrenalin\.\w+|sensehq\.com)/i;
+
+/*
+ * An ATS URL is this company's only when the company's own slug appears in it
+ * — delhivery.darwinbox.in is Delhivery's, someoneelse.darwinbox.in is not.
+ * Asymmetric on purpose, the same rule the board-name check uses: the company
+ * identifies the board, never the other way round. Without this, one shared
+ * vendor host would hand every company the same stranger's postings.
+ */
+function ownAtsBoard(origin, company) {
+  let u;
+  try { u = new URL(origin); } catch { return false; }
+  if (!ATS_HOSTS.test(u.hostname)) return false;
+  const hay = (u.hostname + u.pathname + u.search).toLowerCase().replace(/[^a-z0-9]/g, '');
+  return slugs(company).some((s) => s.length >= 4 && hay.includes(s));
+}
+
 /** Is `origin` plausibly this company's own property (vs. a random aggregator)?
  *  `trusted` holds origins we reached by following redirects from a URL the
  *  company itself gave us, which covers rebrands (yashhighvoltage -> yashhv). */
@@ -1475,6 +1501,7 @@ function ownDomain(origin, company, trusted) {
   try { host = new URL(origin).hostname.toLowerCase(); } catch { return false; }
   if (AGGREGATORS.test(host)) return false;
   if (trusted && trusted.has(new URL(origin).origin)) return true;
+  if (ownAtsBoard(origin, company)) return true;
   if (company.careers) {
     try { if (new URL(company.careers).hostname.toLowerCase() === host) return true; } catch {}
   }
@@ -2056,7 +2083,7 @@ function reportOnly() {
  * over the classifiers so rendered jobs are scored by exactly the same rules
  * as fetched ones, instead of a second copy that drifts. */
 if (require.main !== module) {
-  module.exports = { score, boilerplateStacks, expWindows, stripHtml, RE_INDIA, RE_ENG_TITLE };
+  module.exports = { score, boilerplateStacks, expWindows, stripHtml, RE_INDIA, RE_ENG_TITLE, ownAtsBoard, ATS_HOSTS };
 } else if (ARGS.includes('--report-only')) reportOnly();
 else
   run().catch((e) => {

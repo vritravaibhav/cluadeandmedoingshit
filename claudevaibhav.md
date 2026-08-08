@@ -14,7 +14,7 @@ You track progress here. I update this file every cycle. Newest first.
 **Done:** freelance folders, the concise shaping, the 24h watch, this file.
 **In progress:** more freelance sources (see "Next" below).
 
-### Freelance — `weekendplan_freelance/`
+### Freelance — `weekendplan_freelance/`   [UPDATED: 6 new sources wired in]
 
 Built it deliberately **unlike** the jobs sweep. Jobs maximise coverage because
 applying is free. Freelance is the opposite problem: Freelancer's free tier is
@@ -24,8 +24,24 @@ on a few dozen — so folder 1 is **capped and ranked**, not exhaustive.
 | Folder | Items | What it is |
 |---|---|---|
 | `1-bid-now/` | 60 | Biddable gigs, Flutter/Java, best fit. Capped on purpose. |
-| `2-worth-a-look/` | 120 | Real gigs, weaker or unscored fit. Only open when folder 1 is spent. |
-| `3-contract-roles/` | 62 | Longer contract engagements from job boards — applications, **no bid cap**. |
+| `2-worth-a-look/` | 120 | Real gigs, weaker or unscored fit. Open when folder 1 is spent. |
+| `3-contract-roles/` | 80 | Longer contract engagements — applications, **no bid cap**. |
+
+**Sources tripled.** I probed 26 freelance platforms and wired in 6 that have
+a real, permitted feed: Flexiple, Freelancermap, Hubstaff Talent, lemon.io,
+PeoplePerHour, Twine. Gig marketplaces went 3 -> 9 and the sweep went
+**1,380 -> 2,870 postings, biddable gigs 505 -> 1,155**.
+
+The rest were rejected for concrete reasons, now recorded so no future cycle
+wastes time on them: Worknhire and Outsourcely are dead domains; Toptal,
+Wellfound, Guru and Truelancer sit behind anti-bot walls; Internshala and
+Turing disallow bots in robots.txt; Contra, Gun.io and Codementor have no
+public gig feed at all. I did not bypass any block or build a login scraper —
+where a site says no, the answer is no.
+
+One trap worth knowing: Rozgar's `/api/jobs` returns HTTP 200 — but the body
+is just its 750KB app shell. Trusting the status code would have fed junk into
+your list. Endpoints get judged on payload here, never on status.
 
 Read `weekendplan_freelance/1-bid-now/gigs.txt` top-down and stop when you run
 out of bids. Rebuild anytime: `node weekendplan_freelance/build.js`.

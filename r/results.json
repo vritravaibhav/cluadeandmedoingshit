@@ -80,6 +80,7 @@
    "india": true,
    "senior": false,
    "junior": true,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -89,7 +90,7 @@
     {
      "url": "https://careers.jio.com",
      "status": 200,
-     "bytes": 79533
+     "bytes": 79536
     },
     {
      "url": "https://jio.com/careers",
@@ -239,7 +240,7 @@
     "workable:reliancejio -> no board"
    ]
   },
-  "ms": 14492
+  "ms": 14610
  },
  {
   "company": "Razorpay",
@@ -759,6 +760,7 @@
     "india": true,
     "senior": false,
     "junior": false,
+    "intern": false,
     "exp": [
      [
       1,
@@ -786,6 +788,7 @@
     "india": true,
     "senior": false,
     "junior": false,
+    "intern": false,
     "exp": [
      [
       2,
@@ -811,6 +814,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [
     [
      1,
@@ -838,6 +842,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [
     [
      1,
@@ -861,17 +866,17 @@
     {
      "url": "https://razorpay.com/careers",
      "status": 200,
-     "bytes": 950237
+     "bytes": 950140
     },
     {
      "url": "https://razorpay.com/career",
      "status": 200,
-     "bytes": 950237
+     "bytes": 950250
     },
     {
      "url": "https://razorpay.com/jobs",
      "status": 200,
-     "bytes": 950140
+     "bytes": 950247
     },
     {
      "url": "https://razorpay.com/join-us",
@@ -891,7 +896,7 @@
     "greenhouse:razorpaysoftwareprivatelimited -> 23 jobs"
    ]
   },
-  "ms": 2231
+  "ms": 2070
  },
  {
   "company": "Rapido",
@@ -981,7 +986,7 @@
     "workable:rapido -> no board"
    ]
   },
-  "ms": 18522
+  "ms": 20636
  },
  {
   "company": "Rakuten India",
@@ -1275,6 +1280,7 @@
    "india": false,
    "senior": true,
    "junior": false,
+   "intern": false,
    "exp": [
     [
      5,
@@ -1305,6 +1311,7 @@
    "india": false,
    "senior": true,
    "junior": false,
+   "intern": false,
    "exp": [
     [
      5,
@@ -1373,7 +1380,7 @@
     {
      "url": "https://rakuten.com/",
      "status": 200,
-     "bytes": 1956914
+     "bytes": 1956918
     }
    ],
    "candidates": [
@@ -1388,7 +1395,7 @@
     "workday:rakuten -> 16 jobs"
    ]
   },
-  "ms": 19307
+  "ms": 20530
  },
  {
   "company": "Redbus",
@@ -1476,7 +1483,7 @@
     "workable:redbus -> no board"
    ]
   },
-  "ms": 18217
+  "ms": 16492
  },
  {
   "company": "Robert Bosch India",
@@ -1549,7 +1556,7 @@
     "workable:bosch -> no board"
    ]
   },
-  "ms": 25829
+  "ms": 30221
  },
  {
   "company": "Rockwell Automation India",
@@ -2238,6 +2245,7 @@
    "india": false,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [
     [
      2,
@@ -2264,6 +2272,7 @@
    "india": false,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [
     [
      2,
@@ -2414,7 +2423,7 @@
     "workday:rockwellautomation -> 40 jobs"
    ]
   },
-  "ms": 22634
+  "ms": 24021
  },
  {
   "company": "Rupeek",
@@ -2608,6 +2617,7 @@
    "india": true,
    "senior": false,
    "junior": true,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -2627,6 +2637,7 @@
    "india": true,
    "senior": false,
    "junior": true,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -2641,7 +2652,7 @@
     {
      "url": "https://rupeek.com/careers",
      "status": 200,
-     "bytes": 101566
+     "bytes": 101523
     },
     {
      "url": "https://rupeek.com/career",
@@ -2679,7 +2690,7 @@
     "workable:rupeek -> no board"
    ]
   },
-  "ms": 12557
+  "ms": 12406
  },
  {
   "company": "RBL Bank",
@@ -2742,7 +2753,7 @@
     "workable:rblbank -> no board"
    ]
   },
-  "ms": 26127
+  "ms": 23336
  },
  {
   "company": "Rebel Foods",
@@ -2878,7 +2889,7 @@
     "workable:rebelfoods -> no board"
    ]
   },
-  "ms": 44180
+  "ms": 61699
  },
  {
   "company": "Recko",
@@ -2912,7 +2923,7 @@
     {
      "url": "https://recko.io/jobs",
      "status": 403,
-     "bytes": 243
+     "bytes": 263
     },
     {
      "url": "https://recko.io/join-us",
@@ -2927,12 +2938,12 @@
     {
      "url": "https://recko.io/careers.html",
      "status": 403,
-     "bytes": 243
+     "bytes": 263
     },
     {
      "url": "https://recko.io/company/careers",
      "status": 403,
-     "bytes": 263
+     "bytes": 243
     },
     {
      "url": "https://recko.io/about/careers",
@@ -2942,7 +2953,7 @@
     {
      "url": "https://recko.io/current-openings",
      "status": 403,
-     "bytes": 243
+     "bytes": 263
     },
     {
      "url": "https://recko.io/",
@@ -2968,12 +2979,12 @@
     {
      "url": "https://www.recko.io/jobs",
      "status": 403,
-     "bytes": 243
+     "bytes": 263
     },
     {
      "url": "https://www.recko.io/join-us",
      "status": 403,
-     "bytes": 263
+     "bytes": 243
     },
     {
      "url": "https://www.recko.io/join-our-team",
@@ -2983,7 +2994,7 @@
     {
      "url": "https://www.recko.io/careers.html",
      "status": 403,
-     "bytes": 263
+     "bytes": 243
     },
     {
      "url": "https://www.recko.io/company/careers",
@@ -2993,7 +3004,7 @@
     {
      "url": "https://www.recko.io/about/careers",
      "status": 403,
-     "bytes": 263
+     "bytes": 243
     },
     {
      "url": "https://www.recko.io/current-openings",
@@ -3025,7 +3036,7 @@
     "workable:recko -> no board"
    ]
   },
-  "ms": 5397
+  "ms": 5028
  },
  {
   "company": "Red Hat India",
@@ -3034,21 +3045,6 @@
   "error": null,
   "totalJobs": 40,
   "jobs": [
-   {
-    "title": "Software Engineering Intern",
-    "location": "2 Locations",
-    "url": "https://redhat.wd5.myworkdayjobs.com/jobs/job/Pune---Tower-6/Software-Engineering-Intern_R-058560",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": true,
-    "java": true,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 86
-   },
    {
     "title": "Software Engineer",
     "location": "Pune - Tower 6",
@@ -3087,6 +3083,21 @@
     "exp": [],
     "expFits2": false,
     "score": 37
+   },
+   {
+    "title": "Software Engineering Intern",
+    "location": "2 Locations",
+    "url": "https://redhat.wd5.myworkdayjobs.com/jobs/job/Pune---Tower-6/Software-Engineering-Intern_R-058560",
+    "india": true,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": true,
+    "java": true,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 34
    },
    {
     "title": "Software Engineer",
@@ -3655,7 +3666,8 @@
    }
   ],
   "enriched": 10,
-  "matches": [
+  "matches": [],
+  "nearMatches": [
    {
     "title": "Software Engineering Intern",
     "location": "2 Locations",
@@ -3665,61 +3677,81 @@
     "_detail": "https://redhat.wd5.myworkdayjobs.com/wday/cxs/redhat/jobs/job/Pune---Tower-6/Software-Engineering-Intern_R-058560",
     "_detailKind": "workday",
     "_enriched": true,
-    "score": 86,
-    "isMatch": true,
+    "score": 34,
+    "isMatch": false,
     "isEng": true,
     "java": true,
     "flutter": false,
     "android": false,
     "india": true,
     "senior": false,
-    "junior": true,
+    "junior": false,
+    "intern": true,
     "exp": [],
     "expFits2": false
    }
   ],
-  "nearMatches": [],
   "closest": {
-   "title": "Software Engineering Intern",
-   "location": "2 Locations",
-   "url": "https://redhat.wd5.myworkdayjobs.com/jobs/job/Pune---Tower-6/Software-Engineering-Intern_R-058560",
+   "title": "Software Engineer",
+   "location": "Pune - Tower 6",
+   "url": "https://redhat.wd5.myworkdayjobs.com/jobs/job/Pune---Tower-6/Software-Engineer_R-056394-1",
    "team": "",
-   "text": "About the job At Red Hat, our interns are an integral part of the team. They don’t get relegated to busywork or unimportant tasks, but participate in the day-to-day work and are active contributors to their team. We are currently looking for Software Engineering interns to join us in Pune or Bangalore. You will work closely with a senior mentor to gain technical knowledge and experience in your field, and cooperate with a broader international team both locally and globally. You will be part of a cohort of interns and have the opportunity to work on multiple projects within Global Engineering while also receiving learning and curriculum on different technologies. These projects and curriculum may include areas such as Ansible, RHEL, OpenShift, AI, and more. You’ll also have the chance to work with technologies like Python, GitHub, Java, Agile, JavaScript, etc. What will you do? Work closely with your mentor to design, develop, and maintain code in Python, Golang or similar programming language Add new features, debug, identify, and track issues in Red Hat products (RHEL, OpenShift or other) Collaborate with the wider team members and other departments such as Quality Engineering, Designers, Product Management or Documentation team throughout the product cycle Network with other talented interns in a workplace where you can be yourself and thrive What will you bring? Currently pursuing the final year of a bachelor's degree in Computer Science, Information Technology, or an equivalent discipline Working knowledge of written and spoken English Basic knowledge of and passion for Software Engineering, basic knowledge and willingness to use Python, Golang or similar programming language Passion, curiosity, and desire to create new things and examine how things work internally Willingness to learn and proactively work as a part of a wider team Red Hat will not be providing visa sponsorship for this position. Therefore, in order to be considered for this position, you must have the ability to work without a need for current or future visa sponsorship. About Red Hat Red Hat is the world’s leading provider of enterprise open source software solutions, using a community-powered approach to deliver high-performing Linux, cloud, container, and Kubernetes technologies. Spread across 40+ countries, our associates work flexibly across work environments, from in-office, to office-flex, to fully remote, depending on the requirements of their role. Red Hatters are encouraged to bring their best ideas, no matter their title or tenure. We're a leader in open source because of our open and inclusive environment. We hire creative, passionate people ready to contribute their ideas, help solve complex problems, and make an impact. Inclusion at Red Hat Red Hat’s culture is built on the open source principles of transparency, collaboration, and inclusion, where the best ideas can come from anywhere and anyone. When this is realized, it empowers people from different backgrounds, perspectives, and experiences to come together to share ideas, challenge the status quo, and drive innovation. Our aspiration is that everyone experiences this culture with equal opportunity and access, and that all voices are not only heard but also celebrated. We hope you will join our celebration, and we welcome and encourage applicants from all the beautiful dimensions that compose our global village. Equal Opportunity Policy (EEO) Red Hat is proud to be an equal opportunity workplace and an affirmative action employer. We review applications for employment without regard to their race, color, religion, sex, sexual orientation, gender identity, national origin, ancestry, citizenship, age, veteran status, genetic information, physical or mental disability, medical condition, marital status, or any other basis prohibited by law. Red Hat does not seek or accept unsolicited resumes or CVs from recruitment agencies. We are not responsible for, and will not pay, any fees, commissions, or any other payment related to unsolicited resumes or CVs except as required in a written contract between Red Hat and the recruitment agency or party requesting payment of a fee. Red Hat supports individuals with disabilities and provides reasonable accommodations to job applicants. If you need assistance completing our online job application, email application-assistance@redhat.com . General inquiries, such as those regarding the status of a job application, will not receive a reply.",
-   "_detail": "https://redhat.wd5.myworkdayjobs.com/wday/cxs/redhat/jobs/job/Pune---Tower-6/Software-Engineering-Intern_R-058560",
+   "text": "About the Job The Red Hat IT Developer Enablement team is looking for a Platform Engineer (PE) based in India (Pune or Bangalore) to own and operate images.paas — Red Hat's central internal container image registry built on Red Hat Quay . images.paas serves thousands of internal users across Red Hat, providing a secure, self-service registry for container images used in production, CI/CD pipelines, and development workflows. The platform is managed through a custom Kubernetes Operator written in Go and a GitOps-based configuration pipeline running on OpenShift on AWS . You will be the primary PE for this service — responsible for its reliability, automation, and evolution. You will work within a small, globally distributed team that values openness, blameless learning, and sustainable operations. At Red Hat, your individual contributions have high visibility and directly impact the developer experience across the company. What Will You Do Own the day-to-day operations of the images.paas Quay registry, ensuring it meets its Service Level Objectives (SLOs) Maintain and extend the images-paas-operator (Go / operator-sdk) that automates Quay organization, repository, and access management Manage the GitOps pipeline that controls registry configuration, permissions, and organizational structure Monitor service health, respond to incidents, and drive blameless postmortems to continuously improve reliability Reduce operational toil through automation — if you do something twice, automate it the third time Manage LDAP-based user authentication and access provisioning Participate in an on-call rotation within a geographically distributed team for production support Collaborate with internal stakeholders (platform teams, CI/CD teams, security) to support their registry needs Provide feedback and bug reports to Red Hat Quay product engineering based on real-world operational experience Contribute to capacity planning, disaster recovery procedures, and security compliance (SIA/PIA) What Will You Bring 3+ years of experience operating production services on Kubernetes / OpenShift 2+ years of programming experience in Go Hands-on experience with container registries (Quay, Harbor, Docker Registry, or similar) Experience with GitOps workflows for managing infrastructure or application configuration Solid understanding of Linux systems administration (RHEL/Fedora preferred) Familiarity with AWS cloud infrastructure Understanding of standard networking (TCP/IP, DNS, HTTP/TLS) and authentication protocols ( LDAP ) Comfort with incident response, on-call responsibilities, and working across time zones Ability to work independently with minimal supervision while keeping the team informed The Following Are Considered a Plus Experience with the Operator SDK or building Kubernetes operators Experience administering Red Hat Quay specifically Familiarity with container image security scanning and vulnerability management Experience with CI/CD pipelines and image build automation Experience with monitoring and observability tools (Prometheus, Grafana, alerting) Knowledge of SRE principles — SLOs, error budgets, toil measurement Experience with Red Hat Ansible Automation Platform Contributions to open source projects # LI-CS1 About Red Hat Red Hat is the world’s leading provider of enterprise open source software solutions, using a community-powered approach to deliver high-performing Linux, cloud, container, and Kubernetes technologies. Spread across 40+ countries, our associates work flexibly across work environments, from in-office, to office-flex, to fully remote, depending on the requirements of their role. Red Hatters are encouraged to bring their best ideas, no matter their title or tenure. We're a leader in open source because of our open and inclusive environment. We hire creative, passionate people ready to contribute their ideas, help solve complex problems, and make an impact. Inclusion at Red Hat Red Hat’s culture is built on the open source principles of transparency, collaboration, and inclusion, where the best ideas can come from anywhere and anyone. When this is realized, it empowers people from different backgrounds, perspectives, and experiences to come together to share ideas, challenge the status quo, and drive innovation. Our aspiration is that everyone experiences this culture with equal opportunity and access, and that all voices are not only heard but also celebrated. We hope you will join our celebration, and we welcome and encourage applicants from all the beautiful dimensions that compose our global village. Equal Opportunity Policy (EEO) Red Hat is proud to be an equal opportunity workplace and an affirmative action employer. We review applications for employment without regard to their race, color, religion, sex, sexual orientation, gender identity, national origin, ancestry, citizenship, age, veteran status, genetic information, physical or mental disability, medical condition, marital status, or any other basis prohibited by law. Red Hat does not seek or accept unsolicited resumes or CVs from recruitment agencies. We are not responsible for, and will not pay, any fees, commissions, or any other payment related to unsolicited resumes or CVs except as required in a written contract between Red Hat and the recruitment agency or party requesting payment of a fee. Red Hat supports individuals with disabilities and provides reasonable accommodations to job applicants. If you need assistance completing our online job application, email application-assistance@redhat.com . General inquiries, such as those regarding the status of a job application, will not receive a reply.",
+   "_detail": "https://redhat.wd5.myworkdayjobs.com/wday/cxs/redhat/jobs/job/Pune---Tower-6/Software-Engineer_R-056394-1",
    "_detailKind": "workday",
    "_enriched": true,
-   "score": 86,
-   "isMatch": true,
+   "score": 75,
+   "isMatch": false,
    "isEng": true,
-   "java": true,
+   "java": false,
    "flutter": false,
    "android": false,
    "india": true,
    "senior": false,
-   "junior": true,
-   "exp": [],
-   "expFits2": false
+   "junior": false,
+   "intern": false,
+   "exp": [
+    [
+     3,
+     7
+    ],
+    [
+     2,
+     6
+    ]
+   ],
+   "expFits2": true
   },
   "closestEng": {
-   "title": "Software Engineering Intern",
-   "location": "2 Locations",
-   "url": "https://redhat.wd5.myworkdayjobs.com/jobs/job/Pune---Tower-6/Software-Engineering-Intern_R-058560",
+   "title": "Software Engineer",
+   "location": "Pune - Tower 6",
+   "url": "https://redhat.wd5.myworkdayjobs.com/jobs/job/Pune---Tower-6/Software-Engineer_R-056394-1",
    "team": "",
-   "text": "About the job At Red Hat, our interns are an integral part of the team. They don’t get relegated to busywork or unimportant tasks, but participate in the day-to-day work and are active contributors to their team. We are currently looking for Software Engineering interns to join us in Pune or Bangalore. You will work closely with a senior mentor to gain technical knowledge and experience in your field, and cooperate with a broader international team both locally and globally. You will be part of a cohort of interns and have the opportunity to work on multiple projects within Global Engineering while also receiving learning and curriculum on different technologies. These projects and curriculum may include areas such as Ansible, RHEL, OpenShift, AI, and more. You’ll also have the chance to work with technologies like Python, GitHub, Java, Agile, JavaScript, etc. What will you do? Work closely with your mentor to design, develop, and maintain code in Python, Golang or similar programming language Add new features, debug, identify, and track issues in Red Hat products (RHEL, OpenShift or other) Collaborate with the wider team members and other departments such as Quality Engineering, Designers, Product Management or Documentation team throughout the product cycle Network with other talented interns in a workplace where you can be yourself and thrive What will you bring? Currently pursuing the final year of a bachelor's degree in Computer Science, Information Technology, or an equivalent discipline Working knowledge of written and spoken English Basic knowledge of and passion for Software Engineering, basic knowledge and willingness to use Python, Golang or similar programming language Passion, curiosity, and desire to create new things and examine how things work internally Willingness to learn and proactively work as a part of a wider team Red Hat will not be providing visa sponsorship for this position. Therefore, in order to be considered for this position, you must have the ability to work without a need for current or future visa sponsorship. About Red Hat Red Hat is the world’s leading provider of enterprise open source software solutions, using a community-powered approach to deliver high-performing Linux, cloud, container, and Kubernetes technologies. Spread across 40+ countries, our associates work flexibly across work environments, from in-office, to office-flex, to fully remote, depending on the requirements of their role. Red Hatters are encouraged to bring their best ideas, no matter their title or tenure. We're a leader in open source because of our open and inclusive environment. We hire creative, passionate people ready to contribute their ideas, help solve complex problems, and make an impact. Inclusion at Red Hat Red Hat’s culture is built on the open source principles of transparency, collaboration, and inclusion, where the best ideas can come from anywhere and anyone. When this is realized, it empowers people from different backgrounds, perspectives, and experiences to come together to share ideas, challenge the status quo, and drive innovation. Our aspiration is that everyone experiences this culture with equal opportunity and access, and that all voices are not only heard but also celebrated. We hope you will join our celebration, and we welcome and encourage applicants from all the beautiful dimensions that compose our global village. Equal Opportunity Policy (EEO) Red Hat is proud to be an equal opportunity workplace and an affirmative action employer. We review applications for employment without regard to their race, color, religion, sex, sexual orientation, gender identity, national origin, ancestry, citizenship, age, veteran status, genetic information, physical or mental disability, medical condition, marital status, or any other basis prohibited by law. Red Hat does not seek or accept unsolicited resumes or CVs from recruitment agencies. We are not responsible for, and will not pay, any fees, commissions, or any other payment related to unsolicited resumes or CVs except as required in a written contract between Red Hat and the recruitment agency or party requesting payment of a fee. Red Hat supports individuals with disabilities and provides reasonable accommodations to job applicants. If you need assistance completing our online job application, email application-assistance@redhat.com . General inquiries, such as those regarding the status of a job application, will not receive a reply.",
-   "_detail": "https://redhat.wd5.myworkdayjobs.com/wday/cxs/redhat/jobs/job/Pune---Tower-6/Software-Engineering-Intern_R-058560",
+   "text": "About the Job The Red Hat IT Developer Enablement team is looking for a Platform Engineer (PE) based in India (Pune or Bangalore) to own and operate images.paas — Red Hat's central internal container image registry built on Red Hat Quay . images.paas serves thousands of internal users across Red Hat, providing a secure, self-service registry for container images used in production, CI/CD pipelines, and development workflows. The platform is managed through a custom Kubernetes Operator written in Go and a GitOps-based configuration pipeline running on OpenShift on AWS . You will be the primary PE for this service — responsible for its reliability, automation, and evolution. You will work within a small, globally distributed team that values openness, blameless learning, and sustainable operations. At Red Hat, your individual contributions have high visibility and directly impact the developer experience across the company. What Will You Do Own the day-to-day operations of the images.paas Quay registry, ensuring it meets its Service Level Objectives (SLOs) Maintain and extend the images-paas-operator (Go / operator-sdk) that automates Quay organization, repository, and access management Manage the GitOps pipeline that controls registry configuration, permissions, and organizational structure Monitor service health, respond to incidents, and drive blameless postmortems to continuously improve reliability Reduce operational toil through automation — if you do something twice, automate it the third time Manage LDAP-based user authentication and access provisioning Participate in an on-call rotation within a geographically distributed team for production support Collaborate with internal stakeholders (platform teams, CI/CD teams, security) to support their registry needs Provide feedback and bug reports to Red Hat Quay product engineering based on real-world operational experience Contribute to capacity planning, disaster recovery procedures, and security compliance (SIA/PIA) What Will You Bring 3+ years of experience operating production services on Kubernetes / OpenShift 2+ years of programming experience in Go Hands-on experience with container registries (Quay, Harbor, Docker Registry, or similar) Experience with GitOps workflows for managing infrastructure or application configuration Solid understanding of Linux systems administration (RHEL/Fedora preferred) Familiarity with AWS cloud infrastructure Understanding of standard networking (TCP/IP, DNS, HTTP/TLS) and authentication protocols ( LDAP ) Comfort with incident response, on-call responsibilities, and working across time zones Ability to work independently with minimal supervision while keeping the team informed The Following Are Considered a Plus Experience with the Operator SDK or building Kubernetes operators Experience administering Red Hat Quay specifically Familiarity with container image security scanning and vulnerability management Experience with CI/CD pipelines and image build automation Experience with monitoring and observability tools (Prometheus, Grafana, alerting) Knowledge of SRE principles — SLOs, error budgets, toil measurement Experience with Red Hat Ansible Automation Platform Contributions to open source projects # LI-CS1 About Red Hat Red Hat is the world’s leading provider of enterprise open source software solutions, using a community-powered approach to deliver high-performing Linux, cloud, container, and Kubernetes technologies. Spread across 40+ countries, our associates work flexibly across work environments, from in-office, to office-flex, to fully remote, depending on the requirements of their role. Red Hatters are encouraged to bring their best ideas, no matter their title or tenure. We're a leader in open source because of our open and inclusive environment. We hire creative, passionate people ready to contribute their ideas, help solve complex problems, and make an impact. Inclusion at Red Hat Red Hat’s culture is built on the open source principles of transparency, collaboration, and inclusion, where the best ideas can come from anywhere and anyone. When this is realized, it empowers people from different backgrounds, perspectives, and experiences to come together to share ideas, challenge the status quo, and drive innovation. Our aspiration is that everyone experiences this culture with equal opportunity and access, and that all voices are not only heard but also celebrated. We hope you will join our celebration, and we welcome and encourage applicants from all the beautiful dimensions that compose our global village. Equal Opportunity Policy (EEO) Red Hat is proud to be an equal opportunity workplace and an affirmative action employer. We review applications for employment without regard to their race, color, religion, sex, sexual orientation, gender identity, national origin, ancestry, citizenship, age, veteran status, genetic information, physical or mental disability, medical condition, marital status, or any other basis prohibited by law. Red Hat does not seek or accept unsolicited resumes or CVs from recruitment agencies. We are not responsible for, and will not pay, any fees, commissions, or any other payment related to unsolicited resumes or CVs except as required in a written contract between Red Hat and the recruitment agency or party requesting payment of a fee. Red Hat supports individuals with disabilities and provides reasonable accommodations to job applicants. If you need assistance completing our online job application, email application-assistance@redhat.com . General inquiries, such as those regarding the status of a job application, will not receive a reply.",
+   "_detail": "https://redhat.wd5.myworkdayjobs.com/wday/cxs/redhat/jobs/job/Pune---Tower-6/Software-Engineer_R-056394-1",
    "_detailKind": "workday",
    "_enriched": true,
-   "score": 86,
-   "isMatch": true,
+   "score": 75,
+   "isMatch": false,
    "isEng": true,
-   "java": true,
+   "java": false,
    "flutter": false,
    "android": false,
    "india": true,
    "senior": false,
-   "junior": true,
-   "exp": [],
-   "expFits2": false
+   "junior": false,
+   "intern": false,
+   "exp": [
+    [
+     3,
+     7
+    ],
+    [
+     2,
+     6
+    ]
+   ],
+   "expFits2": true
   },
   "trace": {
    "pages": [
@@ -3767,7 +3799,7 @@
     "workday:redhat -> 40 jobs"
    ]
   },
-  "ms": 11193
+  "ms": 12146
  },
  {
   "company": "Reltio India",
@@ -3826,6 +3858,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -3841,15 +3874,20 @@
     {
      "url": "https://reltio.com/careers",
      "status": 200,
-     "bytes": 106677
+     "bytes": 106785
     },
     {
      "url": "https://reltio.com/career",
      "status": 200,
-     "bytes": 106699
+     "bytes": 106785
     },
     {
      "url": "https://reltio.com/jobs",
+     "status": 404,
+     "bytes": 88251
+    },
+    {
+     "url": "https://reltio.com/join-us",
      "status": 404,
      "bytes": 88201
     }
@@ -3869,7 +3907,7 @@
     "workable:reltio -> no board"
    ]
   },
-  "ms": 13195
+  "ms": 15491
  },
  {
   "company": "ReNew",
@@ -4461,26 +4499,6 @@
     "score": -7
    },
    {
-    "title": "SAP FICO Lead",
-    "location": "Gurgaon, HR, IN",
-    "url": "https://careers.renew.com/job/Gurgaon-SAP-FICO-Lead-HR/56703944/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-    "india": true,
-    "locationSaysIndia": true,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": true,
-    "exp": [
-     [
-      10,
-      14
-     ]
-    ],
-    "expFits2": false,
-    "score": -7
-   },
-   {
     "title": "Assistant Manager - Solar O&M",
     "location": "IN",
     "url": "https://careers.renew.com/job/Assistant-Manager-Solar-O&M/55513944/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
@@ -4496,6 +4514,26 @@
       5,
       10
      ],
+     [
+      10,
+      14
+     ]
+    ],
+    "expFits2": false,
+    "score": -7
+   },
+   {
+    "title": "SAP FICO Lead",
+    "location": "Gurgaon, HR, IN",
+    "url": "https://careers.renew.com/job/Gurgaon-SAP-FICO-Lead-HR/56703944/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+    "india": true,
+    "locationSaysIndia": true,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [
      [
       10,
       14
@@ -4571,6 +4609,7 @@
    "india": true,
    "senior": false,
    "junior": true,
+   "intern": false,
    "exp": [
     [
      1,
@@ -4598,6 +4637,7 @@
    "india": true,
    "senior": false,
    "junior": true,
+   "intern": false,
    "exp": [
     [
      1,
@@ -4625,22 +4665,22 @@
     {
      "url": "https://renew.com/careers",
      "status": 200,
-     "bytes": 304573
+     "bytes": 304574
     },
     {
      "url": "https://renew.com/career",
      "status": 200,
-     "bytes": 304573
+     "bytes": 304574
     },
     {
      "url": "https://renew.com/jobs",
      "status": 200,
-     "bytes": 304574
+     "bytes": 304573
     },
     {
      "url": "https://renew.com/join-us",
      "status": 200,
-     "bytes": 304574
+     "bytes": 304573
     },
     {
      "url": "https://renew.com/join-our-team",
@@ -4655,7 +4695,7 @@
     {
      "url": "https://renew.com/company/careers",
      "status": 200,
-     "bytes": 304574
+     "bytes": 304575
     },
     {
      "url": "https://renew.com/about/careers",
@@ -4686,12 +4726,12 @@
     {
      "url": "https://www.renew.com/career",
      "status": 200,
-     "bytes": 304574
+     "bytes": 304575
     },
     {
      "url": "https://www.renew.com/jobs",
      "status": 200,
-     "bytes": 304574
+     "bytes": 304575
     },
     {
      "url": "https://www.renew.com/join-us",
@@ -4701,27 +4741,27 @@
     {
      "url": "https://www.renew.com/join-our-team",
      "status": 200,
-     "bytes": 304574
+     "bytes": 304575
     },
     {
      "url": "https://www.renew.com/careers.html",
      "status": 200,
-     "bytes": 304575
+     "bytes": 304574
     },
     {
      "url": "https://www.renew.com/company/careers",
      "status": 200,
-     "bytes": 304574
+     "bytes": 304575
     },
     {
      "url": "https://www.renew.com/about/careers",
      "status": 200,
-     "bytes": 304575
+     "bytes": 304574
     },
     {
      "url": "https://www.renew.com/current-openings",
      "status": 200,
-     "bytes": 304574
+     "bytes": 304575
     },
     {
      "url": "https://www.renew.com/",
@@ -4736,7 +4776,7 @@
     {
      "url": "https://careers.renew.com/go/Communication-and-Sustainability-Jobs/623544/",
      "status": 200,
-     "bytes": 62179
+     "bytes": 62177
     }
    ],
    "candidates": [
@@ -4751,7 +4791,7 @@
     "successfactors:careers.renew.com -> 32 jobs"
    ]
   },
-  "ms": 9769
+  "ms": 9581
  },
  {
   "company": "Rentomojo",
@@ -4828,7 +4868,7 @@
     "workable:rentomojo -> no board"
    ]
   },
-  "ms": 4960
+  "ms": 4968
  },
  {
   "company": "Republic Media",
@@ -4852,7 +4892,7 @@
     {
      "url": "https://republicworld.com/careers",
      "status": 200,
-     "bytes": 424320
+     "bytes": 422494
     },
     {
      "url": "https://republicworld.com/career",
@@ -4885,7 +4925,7 @@
     "workable:republicworld -> no board"
    ]
   },
-  "ms": 11854
+  "ms": 13987
  },
  {
   "company": "Revolut India",
@@ -4910,7 +4950,7 @@
     {
      "url": "https://revolut.com/careers",
      "status": 403,
-     "bytes": 873143
+     "bytes": 873121
     },
     {
      "url": "https://revolut.com/career",
@@ -4920,17 +4960,17 @@
     {
      "url": "https://revolut.com/jobs",
      "status": 403,
-     "bytes": 873112
+     "bytes": 873134
     },
     {
      "url": "https://revolut.com/join-us",
      "status": 403,
-     "bytes": 873143
+     "bytes": 873121
     },
     {
      "url": "https://revolut.com/join-our-team",
      "status": 403,
-     "bytes": 873160
+     "bytes": 873182
     }
    ],
    "candidates": [
@@ -4948,7 +4988,7 @@
     "workable:revolut -> no board"
    ]
   },
-  "ms": 10227
+  "ms": 8793
  },
  {
   "company": "Ripplehire",
@@ -5102,7 +5142,7 @@
     "workable:ripplehire -> no board"
    ]
   },
-  "ms": 25376
+  "ms": 48247
  },
  {
   "company": "Rocketlane",
@@ -5172,37 +5212,7 @@
     "score": 49
    },
    {
-    "title": "Product Specialist Intern",
-    "location": "",
-    "url": "https://careers.kula.ai/rocketlane",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 31
-   },
-   {
     "title": "GTM Associate - Strategy & Operations",
-    "location": "",
-    "url": "https://careers.kula.ai/rocketlane",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 31
-   },
-   {
-    "title": "Growth Associate - Intern",
     "location": "",
     "url": "https://careers.kula.ai/rocketlane",
     "india": true,
@@ -5575,6 +5585,36 @@
     "exp": [],
     "expFits2": false,
     "score": -3
+   },
+   {
+    "title": "Product Specialist Intern",
+    "location": "",
+    "url": "https://careers.kula.ai/rocketlane",
+    "india": true,
+    "locationSaysIndia": false,
+    "hasLocation": false,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": -21
+   },
+   {
+    "title": "Growth Associate - Intern",
+    "location": "",
+    "url": "https://careers.kula.ai/rocketlane",
+    "india": true,
+    "locationSaysIndia": false,
+    "hasLocation": false,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": -21
    }
   ],
   "enriched": 0,
@@ -5596,6 +5636,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -5615,6 +5656,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -5691,7 +5733,7 @@
     "workable:rocketlane -> no board"
    ]
   },
-  "ms": 15553
+  "ms": 16194
  },
  {
   "company": "Roposo",
@@ -5709,7 +5751,7 @@
    "pages": [],
    "attempts": []
   },
-  "ms": 90001
+  "ms": 90004
  },
  {
   "company": "Decklar (formerly Roambee)",
@@ -5785,7 +5827,7 @@
     "workable:decklar -> no board"
    ]
   },
-  "ms": 34348
+  "ms": 37383
  },
  {
   "company": "Routematic",
@@ -5928,7 +5970,7 @@
     "workable:routematic -> no board"
    ]
   },
-  "ms": 6240
+  "ms": 5974
  },
  {
   "company": "Rubrik India",
@@ -5953,47 +5995,17 @@
     {
      "url": "https://rubrik.com/careers",
      "status": 200,
-     "bytes": 105188
+     "bytes": 105186
     },
     {
      "url": "https://rubrik.com/career",
      "status": 404,
-     "bytes": 94992
+     "bytes": 95012
     },
     {
      "url": "https://rubrik.com/jobs",
      "status": 404,
-     "bytes": 94992
-    },
-    {
-     "url": "https://rubrik.com/join-us",
-     "status": 404,
-     "bytes": 94992
-    },
-    {
-     "url": "https://rubrik.com/join-our-team",
-     "status": 404,
-     "bytes": 94992
-    },
-    {
-     "url": "https://rubrik.com/careers.html",
-     "status": 200,
-     "bytes": 105186
-    },
-    {
-     "url": "https://rubrik.com/company/careers",
-     "status": 200,
-     "bytes": 105186
-    },
-    {
-     "url": "https://rubrik.com/about/careers",
-     "status": 404,
-     "bytes": 94992
-    },
-    {
-     "url": "https://rubrik.com/current-openings",
-     "status": 404,
-     "bytes": 94984
+     "bytes": 95048
     }
    ],
    "candidates": [
@@ -6011,7 +6023,7 @@
     "workable:rubrik -> no board"
    ]
   },
-  "ms": 31753
+  "ms": 25235
  },
  {
   "company": "Rupifi",
@@ -6099,7 +6111,7 @@
     "workable:rupifi -> no board"
    ]
   },
-  "ms": 5845
+  "ms": 4277
  },
  {
   "company": "Ripik.ai",
@@ -6188,6 +6200,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -6207,6 +6220,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -6269,7 +6283,7 @@
     "workable:ripik -> no board"
    ]
   },
-  "ms": 22643
+  "ms": 25985
  },
  {
   "company": "Ramco Systems",
@@ -6328,6 +6342,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -6406,7 +6421,7 @@
     "workable:ramco -> no board"
    ]
   },
-  "ms": 27506
+  "ms": 31971
  },
  {
   "company": "RateGain",
@@ -6550,7 +6565,7 @@
     "workable:rategain -> no board"
    ]
   },
-  "ms": 17448
+  "ms": 17790
  },
  {
   "company": "Reveal Health",
@@ -6650,7 +6665,7 @@
     "workable:revealhealthtech -> no board"
    ]
   },
-  "ms": 11403
+  "ms": 11203
  },
  {
   "company": "Robosoft Technologies",
@@ -6844,6 +6859,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -6863,6 +6879,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -6930,7 +6947,7 @@
     "workable:robosoftin -> no board"
    ]
   },
-  "ms": 5986
+  "ms": 8080
  },
  {
   "company": "Radisys India",
@@ -7013,7 +7030,7 @@
     "workable:radisys -> no board"
    ]
   },
-  "ms": 43232
+  "ms": 31905
  },
  {
   "company": "Raksha Health",
@@ -7166,7 +7183,7 @@
     "workable:rakshatpa -> no board"
    ]
   },
-  "ms": 6271
+  "ms": 6854
  },
  {
   "company": "Rambus India",
@@ -8103,6 +8120,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -8123,6 +8141,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -8196,7 +8215,7 @@
     "icims:rambus -> 57 jobs"
    ]
   },
-  "ms": 20696
+  "ms": 20540
  },
  {
   "company": "Rapyder Cloud",
@@ -8220,17 +8239,17 @@
     {
      "url": "https://rapyder.com/careers",
      "status": 200,
-     "bytes": 226275
+     "bytes": 226204
     },
     {
      "url": "https://rapyder.com/career",
      "status": 200,
-     "bytes": 226275
+     "bytes": 226204
     },
     {
      "url": "https://rapyder.com/jobs",
      "status": 200,
-     "bytes": 219881
+     "bytes": 219783
     }
    ],
    "candidates": [
@@ -8262,7 +8281,7 @@
     "workable:rapyder -> no board"
    ]
   },
-  "ms": 19312
+  "ms": 16032
  },
  {
   "company": "Rasa India",
@@ -8330,6 +8349,7 @@
    "india": false,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [
     [
      5,
@@ -8410,7 +8430,7 @@
     "ashby:Rasa -> 2 jobs"
    ]
   },
-  "ms": 4625
+  "ms": 4527
  },
  {
   "company": "Ratnaafin",
@@ -8478,7 +8498,7 @@
     "workable:ratnaafin -> no board"
    ]
   },
-  "ms": 4753
+  "ms": 4912
  },
  {
   "company": "Rayonier India",
@@ -8718,6 +8738,7 @@
    "india": false,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -8793,7 +8814,7 @@
     "workday:rayonier -> 14 jobs"
    ]
   },
-  "ms": 10066
+  "ms": 8937
  },
  {
   "company": "Razer India",
@@ -9015,21 +9036,6 @@
     "title": "RazerStore Sales Associate (FT, Paramus)",
     "location": "Paramus, NJ",
     "url": "https://razer.wd3.myworkdayjobs.com/Careers/job/Paramus-NJ/RazerStore-Sales-Associate--FT--Paramus-_JR2026007696",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 16
-   },
-   {
-    "title": "The Public Relations Intern (Corporate Communications)",
-    "location": "Singapore",
-    "url": "https://razer.wd3.myworkdayjobs.com/Careers/job/Singapore/The-Public-Relations-Intern--Corporate-Communications-_JR2026007691",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
@@ -9444,6 +9450,21 @@
     "exp": [],
     "expFits2": false,
     "score": -18
+   },
+   {
+    "title": "The Public Relations Intern (Corporate Communications)",
+    "location": "Singapore",
+    "url": "https://razer.wd3.myworkdayjobs.com/Careers/job/Singapore/The-Public-Relations-Intern--Corporate-Communications-_JR2026007691",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": -36
    }
   ],
   "enriched": 10,
@@ -9467,6 +9488,7 @@
     "india": false,
     "senior": false,
     "junior": false,
+    "intern": false,
     "exp": [
      [
       3,
@@ -9493,6 +9515,7 @@
     "india": false,
     "senior": false,
     "junior": false,
+    "intern": false,
     "exp": [],
     "expFits2": false
    }
@@ -9515,6 +9538,7 @@
    "india": false,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [
     [
      3,
@@ -9541,6 +9565,7 @@
    "india": false,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [
     [
      3,
@@ -9559,7 +9584,7 @@
     {
      "url": "https://razer.com/careers",
      "status": 404,
-     "bytes": 1326319
+     "bytes": 1326318
     },
     {
      "url": "https://razer.com/career",
@@ -9579,19 +9604,19 @@
     "workday:razer -> 40 jobs"
    ]
   },
-  "ms": 8218
+  "ms": 10439
  },
  {
   "company": "Reckitt India",
   "country": "India",
   "source": "successfactors:careers.reckitt.com",
   "error": null,
-  "totalJobs": 45,
+  "totalJobs": 41,
   "jobs": [
    {
-    "title": "Production supervisor - Packing",
-    "location": "Chachoengsao, Chachoengsao, TH, N/A",
-    "url": "https://careers.reckitt.com/job/Chachoengsao-Production-supervisor-Packing-Chac-NA/1369371333/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+    "title": "Evansville Factory Controller",
+    "location": "Evansville, IN, US, 47701",
+    "url": "https://careers.reckitt.com/job/Evansville-Evansville-Factory-Controller-IN-47701/1384198533/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
@@ -9601,8 +9626,8 @@
     "senior": false,
     "exp": [
      [
-      2,
-      6
+      10,
+      15
      ],
      [
       2,
@@ -9613,9 +9638,9 @@
     "score": 30
    },
    {
-    "title": "Nights Maintenance Supervisor",
-    "location": "Zeeland, MI, US, 49464",
-    "url": "https://careers.reckitt.com/job/Zeeland-Nights-Maintenance-Supervisor-MI-49464/1412922733/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+    "title": "Maintenance Leader",
+    "location": "Evansville, IN, US, 47701",
+    "url": "https://careers.reckitt.com/job/Evansville-Maintenance-Leader-IN-47701/1404014433/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
@@ -9653,26 +9678,6 @@
     "score": 27
    },
    {
-    "title": "EMO Quality Associate",
-    "location": "Shanghai, Shanghai, CN, N/A",
-    "url": "https://careers.reckitt.com/job/Shanghai-EMO-Quality-Associate-Shan-NA/1412643533/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [
-     [
-      3,
-      7
-     ]
-    ],
-    "expFits2": false,
-    "score": 24
-   },
-   {
     "title": "Finance Manager - Strategic Projects",
     "location": "Hyderabad, Telangana, IN, N/A",
     "url": "https://careers.reckitt.com/job/Hyderabad-Finance-Manager-Strategic-Projects-Tela-NA/1376447833/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
@@ -9695,26 +9700,6 @@
     ],
     "expFits2": true,
     "score": 23
-   },
-   {
-    "title": "Senior Associate, Clinical Excellence",
-    "location": "Kingston upon Hull, East Yorkshire, GB, HU1 1AA",
-    "url": "https://careers.reckitt.com/job/Kingston-upon-Hull-Senior-Associate%2C-Clinical-Excellence-East-HU1-1AA/1400452133/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": true,
-    "exp": [
-     [
-      2,
-      6
-     ]
-    ],
-    "expFits2": true,
-    "score": 20
    },
    {
     "title": "No jobs currently available - Check out our other opportunities.",
@@ -9756,9 +9741,9 @@
     "score": 18
    },
    {
-    "title": "R&D Associate",
-    "location": "Chachoengsao, Chachoengsao, TH, N/A",
-    "url": "https://careers.reckitt.com/job/Chachoengsao-R&D-Associate-Chac-NA/1413063333/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+    "title": "Staż w Dziale Mediów Produkcyjnych i Energetyki",
+    "location": "Nowy Dwór Mazowiecki, Mazovia Province, PL, 05-100",
+    "url": "https://careers.reckitt.com/job/Nowy-Dw%C3%B3r-Mazowiecki-Sta%C5%BC-w-Dziale-Medi%C3%B3w-Produkcyjnych-i-Energetyki-Mazo-05-100/1393708233/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
@@ -9771,9 +9756,9 @@
     "score": 16
    },
    {
-    "title": "Intern Logistics (all genders)",
-    "location": "Heidelberg, Baden-Wuerttemberg, DE, 69115",
-    "url": "https://careers.reckitt.com/job/Heidelberg-Intern-Logistics-%28all-genders%29-Bade-69115/1424245733/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+    "title": "R&D Associate",
+    "location": "Chachoengsao, Chachoengsao, TH, N/A",
+    "url": "https://careers.reckitt.com/job/Chachoengsao-R&D-Associate-Chac-NA/1413063333/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
@@ -9826,6 +9811,36 @@
     "score": 8
    },
    {
+    "title": "ZIPP Liquidside Operator",
+    "location": "Zeeland, MI, US, 49464",
+    "url": "https://careers.reckitt.com/job/Zeeland-ZIPP-Liquidside-Operator-MI-49464/1372857533/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 4
+   },
+   {
+    "title": "Automatyk 1 / Automatyczka 1",
+    "location": "Nowy Dwór Mazowiecki, Mazovia Province, PL, 05-100",
+    "url": "https://careers.reckitt.com/job/Nowy-Dw%C3%B3r-Mazowiecki-Automatyk-1-Automatyczka-1-Mazo-05-100/1393770233/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 4
+   },
+   {
     "title": "Aseptic Packaging Operator",
     "location": "Evansville, IN, US, 47701",
     "url": "https://careers.reckitt.com/job/Evansville-Aseptic-Packaging-Operator-IN-47701/1413926433/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
@@ -9871,69 +9886,9 @@
     "score": 4
    },
    {
-    "title": "Alternant Coordinateur Qualification Validation",
+    "title": "Talent Acquisition Business Partner",
     "location": "Chartres, Centre, FR, 28000",
-    "url": "https://careers.reckitt.com/job/Chartres-Alternant-Coordinateur-Qualification-Validation-Cent-28000/1413831833/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 4
-   },
-   {
-    "title": "IT&D Business Analyst for China Supply Service",
-    "location": "Shanghai, Shanghai, CN, N/A",
-    "url": "https://careers.reckitt.com/job/Shanghai-IT&D-Business-Analyst-for-China-Supply-Service-Shan-NA/1402762233/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 4
-   },
-   {
-    "title": "Gebietsleiter OTC - Bremen / Oldenburg / Emden / Cuxhaven / Buxtehude / Langenhagen (all genders)",
-    "location": "Bremen, Bremen, DE, 38300",
-    "url": "https://careers.reckitt.com/job/Bremen-Gebietsleiter-OTC-Bremen-Oldenburg-Emden-Cuxhaven-Buxtehude-Langenhagen-%28all-genders%29-Brem-38300/1403058133/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 4
-   },
-   {
-    "title": "Gebietsleiter OTC - Bremen / Oldenburg / Emden / Cuxhaven / Buxtehude / Langenhagen (all genders)",
-    "location": "Bremen, Bremen, DE, 38300",
-    "url": "https://careers.reckitt.com/job/Bremen-Gebietsleiter-OTC-Bremen-Oldenburg-Emden-Cuxhaven-Buxtehude-Langenhagen-%28all-genders%29-Brem-38300/1403058033/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 4
-   },
-   {
-    "title": "Process Technologist (1 year Contract)",
-    "location": "Chachoengsao, Chachoengsao, TH, N/A",
-    "url": "https://careers.reckitt.com/job/Chachoengsao-Process-Technologist-%281-year-Contract%29-Chac-NA/1413126133/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+    "url": "https://careers.reckitt.com/job/Chartres-Talent-Acquisition-Business-Partner-Cent-28000/1413835733/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
@@ -9961,39 +9916,9 @@
     "score": 4
    },
    {
-    "title": "R&D LIMS Static Data Assistant",
-    "location": "Kingston upon Hull, East Yorkshire, GB, HU1 1AA",
-    "url": "https://careers.reckitt.com/job/Kingston-upon-Hull-R&D-LIMS-Static-Data-Assistant-East-HU1-1AA/1400410133/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 4
-   },
-   {
-    "title": "Talent Acquisition Business Partner",
-    "location": "Chartres, Centre, FR, 28000",
-    "url": "https://careers.reckitt.com/job/Chartres-Talent-Acquisition-Business-Partner-Cent-28000/1413835733/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 4
-   },
-   {
-    "title": "Digital media Strategist F/H",
-    "location": "Massy, Ile-de-France, FR, 91300",
-    "url": "https://careers.reckitt.com/job/Massy-Digital-media-Strategist-FH-Ile-91300/1413694333/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+    "title": "Process Technologist (1 year Contract)",
+    "location": "Chachoengsao, Chachoengsao, TH, N/A",
+    "url": "https://careers.reckitt.com/job/Chachoengsao-Process-Technologist-%281-year-Contract%29-Chac-NA/1413126133/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
@@ -10081,26 +10006,6 @@
     "score": -7
    },
    {
-    "title": "Internal Controls Senior Manager",
-    "location": "Hyderabad, Telangana, IN, N/A",
-    "url": "https://careers.reckitt.com/job/Hyderabad-Internal-Controls-Senior-Manager-Tela-NA/1402682333/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-    "india": true,
-    "locationSaysIndia": true,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": true,
-    "exp": [
-     [
-      12,
-      16
-     ]
-    ],
-    "expFits2": false,
-    "score": -7
-   },
-   {
     "title": "IT&D Manager, Advanced RGM LSM",
     "location": "Hyderabad, Telangana, IN, N/A",
     "url": "https://careers.reckitt.com/job/Hyderabad-IT&D-Manager%2C-Advanced-RGM-LSM-Tela-NA/1401902933/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
@@ -10119,6 +10024,26 @@
      [
       8,
       12
+     ]
+    ],
+    "expFits2": false,
+    "score": -7
+   },
+   {
+    "title": "Internal Controls Senior Manager",
+    "location": "Hyderabad, Telangana, IN, N/A",
+    "url": "https://careers.reckitt.com/job/Hyderabad-Internal-Controls-Senior-Manager-Tela-NA/1402682333/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+    "india": true,
+    "locationSaysIndia": true,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [
+     [
+      12,
+      16
      ]
     ],
     "expFits2": false,
@@ -10145,11 +10070,11 @@
     "score": -7
    },
    {
-    "title": "IT&D Senior Analyst, Network Services",
-    "location": "Hyderabad, Telangana, IN, N/A",
-    "url": "https://careers.reckitt.com/job/Hyderabad-IT&D-Senior-Analyst%2C-Network-Services-Tela-NA/1402350433/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-    "india": true,
-    "locationSaysIndia": true,
+    "title": "Food Safety Standards Manager",
+    "location": "Evansville, IN, US, 47701",
+    "url": "https://careers.reckitt.com/job/Evansville-Food-Safety-Standards-Manager-IN-47701/1393831933/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+    "india": false,
+    "locationSaysIndia": false,
     "hasLocation": true,
     "isEng": false,
     "java": false,
@@ -10157,40 +10082,16 @@
     "senior": true,
     "exp": [
      [
-      10,
-      14
+      3,
+      5
      ],
      [
-      10,
-      11
+      5,
+      9
      ]
     ],
     "expFits2": false,
-    "score": -7
-   },
-   {
-    "title": "IT&D Manager, Advanced RGM Price",
-    "location": "Hyderabad, Telangana, IN, N/A",
-    "url": "https://careers.reckitt.com/job/Hyderabad-IT&D-Manager%2C-Advanced-RGM-Price-Tela-NA/1402144233/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-    "india": true,
-    "locationSaysIndia": true,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": true,
-    "exp": [
-     [
-      6,
-      8
-     ],
-     [
-      8,
-      12
-     ]
-    ],
-    "expFits2": false,
-    "score": -7
+    "score": -10
    },
    {
     "title": "Hospital Account Manager",
@@ -10213,9 +10114,9 @@
     "score": -10
    },
    {
-    "title": "IT&D Senior Manager - E2E Sales Simplification and Architecture",
-    "location": "Warszawa, Mazovia Province, PL, N/A",
-    "url": "https://careers.reckitt.com/job/Warszawa-IT&D-Senior-Manager-E2E-Sales-Simplification-and-Architecture-Mazo-NA/1403392033/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+    "title": "Senior Category Development Manager - Boots",
+    "location": "Slough, Berkshire, GB, SL1 1DT",
+    "url": "https://careers.reckitt.com/job/Slough-Senior-Category-Development-Manager-Boots-Berk-SL1-1DT/1393655433/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
@@ -10228,9 +10129,39 @@
     "score": -18
    },
    {
-    "title": "Indirect Commercial Procurement Manager ASEAN",
-    "location": "Bangkok, Bangkok, TH, N/A",
-    "url": "https://careers.reckitt.com/job/Bangkok-Indirect-Commercial-Procurement-Manager-ASEAN-Bang-NA/1392898033/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+    "title": "Performance Manager",
+    "location": "Slough, Berkshire, GB, SL1 1DT",
+    "url": "https://careers.reckitt.com/job/Slough-Performance-Manager-Berk-SL1-1DT/1403704633/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [],
+    "expFits2": false,
+    "score": -18
+   },
+   {
+    "title": "IT&D Lead, Solution Architect",
+    "location": "Warszawa, Mazovia Province, PL, N/A",
+    "url": "https://careers.reckitt.com/job/Warszawa-IT&D-Lead%2C-Solution-Architect-Mazo-NA/1403676933/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [],
+    "expFits2": false,
+    "score": -18
+   },
+   {
+    "title": "IT&D Senior Manager - E2E Sales Simplification and Architecture",
+    "location": "Warszawa, Mazovia Province, PL, N/A",
+    "url": "https://careers.reckitt.com/job/Warszawa-IT&D-Senior-Manager-E2E-Sales-Simplification-and-Architecture-Mazo-NA/1403392033/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
@@ -10273,21 +10204,6 @@
     "score": -18
    },
    {
-    "title": "Manufacturing Integration Lead",
-    "location": "Slough, Berkshire, GB, SL1 1DT",
-    "url": "https://careers.reckitt.com/job/Slough-Manufacturing-Integration-Lead-Berk-SL1-1DT/1402295133/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": true,
-    "exp": [],
-    "expFits2": false,
-    "score": -18
-   },
-   {
     "title": "IT&D Solution Architect, SAP Manufacturing",
     "location": "Shanghai, Shanghai, CN, N/A",
     "url": "https://careers.reckitt.com/job/Shanghai-IT&D-Solution-Architect%2C-SAP-Manufacturing-Shan-NA/1413148333/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
@@ -10303,9 +10219,24 @@
     "score": -18
    },
    {
-    "title": "Connected Planning Manager",
-    "location": "Warszawa, Mazovia Province, PL, N/A",
-    "url": "https://careers.reckitt.com/job/Warszawa-Connected-Planning-Manager-Mazo-NA/1412833333/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+    "title": "Indirect Commercial Procurement Manager ASEAN",
+    "location": "Bangkok, Bangkok, TH, N/A",
+    "url": "https://careers.reckitt.com/job/Bangkok-Indirect-Commercial-Procurement-Manager-ASEAN-Bang-NA/1392898033/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [],
+    "expFits2": false,
+    "score": -18
+   },
+   {
+    "title": "Manufacturing Integration Lead",
+    "location": "Slough, Berkshire, GB, SL1 1DT",
+    "url": "https://careers.reckitt.com/job/Slough-Manufacturing-Integration-Lead-Berk-SL1-1DT/1402295133/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
@@ -10400,17 +10331,32 @@
     ],
     "expFits2": false,
     "score": -22
+   },
+   {
+    "title": "Intern Logistics (all genders)",
+    "location": "Heidelberg, Baden-Wuerttemberg, DE, 69115",
+    "url": "https://careers.reckitt.com/job/Heidelberg-Intern-Logistics-%28all-genders%29-Bade-69115/1424245733/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": -36
    }
   ],
   "enriched": 0,
   "matches": [],
   "nearMatches": [],
   "closest": {
-   "title": "Production supervisor - Packing",
-   "location": "Chachoengsao, Chachoengsao, TH, N/A",
-   "url": "https://careers.reckitt.com/job/Chachoengsao-Production-supervisor-Packing-Chac-NA/1369371333/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+   "title": "Evansville Factory Controller",
+   "location": "Evansville, IN, US, 47701",
+   "url": "https://careers.reckitt.com/job/Evansville-Evansville-Factory-Controller-IN-47701/1384198533/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
    "team": "",
-   "text": "We are Reckitt Home to the world's best loved and trusted hygiene, health, and nutrition brands. Our purpose defines why we exist: to protect, heal and nurture in the relentless pursuit of a cleaner, healthier world. We are a global team united by this purpose. Join us in our fight to make access to the highest quality hygiene, wellness, and nourishment a right and not a privilege. ​Supply​ Our supply chain is the backbone of our business. It's how we get our trusted products to people all over the world, safely and efficiently. And it's our talented and passionate teams that make this happen. If you're looking for a career in supply chain, there's no better place to be than Reckitt. We offer a variety of exciting opportunities in all areas of the supply chain, from planning and procurement to manufacturing and logistics. You could join our Global Supply Planning team to develop and implement our global supply strategy, or work with our Procurement Centre of Excellence team to negotiate and manage our supplier relationships. Our Manufacturing Excellence team help us improve the efficiency, quality and safety of our manufacturing operations, and our Logistics Excellence team develop new and innovative ways to distribute our products to customers. About the role To oversee and coordinate production activities, ensuring that all processes, equipment, and personnel comply with company standards, safety regulations, and quality requirements. The Production Supervisor drives teams to achieve KPIs in terms of Safety, Quality, Service, and Cost as per company requirements. This role also leads problem-solving efforts and ensures balanced contribution from the team while supporting continuous improvement initiatives to meet site objectives. Your responsibilities Ensure operators and subordinates perform tasks according to established standards. Summarize and report work results on a daily, weekly, and monthly basis to supervisory management. Implement corrective actions as directed by the Manager. Maintain cleanliness of all relevant plant areas and equipment to ensure compliance with Good Manufacturing Practices (GMP). Ensure teams operate equipment and follow processes safely, in compliance with Standard Operating Procedures (SOPs) and environmental requirements. Ensure team members understand and comply with company environmental, health, and safety policies and procedures, and align with site objectives. Monitor assigned processes and promptly report any irregularities or out-of-specification conditions to the supervisor for appropriate action. Perform other reasonable duties as assigned by supervisory management. The experience we're looking for Bachelor’s degree in Engineering, Industrial Management, or related field (or equivalent experience). Minimum 2 years of experience in production or manufacturing operations Knowledge of Good Manufacturing Practices (GMP) and Standard Operating Procedures (SOPs). The skills for success Understanding of safety, quality, and environmental compliance requirements. Ability to analyze production data and implement corrective actions. Strong leadership and team management skills. Problem-solving and decision-making abilities. Effective communication and reporting skills. Ability to work under pressure and meet deadlines. Ability to communicate in English. Ability to work on shift and 6 working day per week What we offer With inclusion at the heart of everything we do, working alongside our four global Employee Resource Groups, we support our people at every step of their career journey, helping them to succeed in their own individual way. We invest in the wellbeing of our people through parental benefits, an Employee Assistance Program to promote mental health, and life insurance for all employees globally. We have a range of other benefits in line with the local market. Through our global share plans we offer the opportunity to save and share in Reckitt's potential future successes. For eligible roles, we also offer short-term incentives to recognise, appreciate and reward your work for delivering outstanding results. You will be rewarded in line with Reckitt's pay for performance philosophy. Equality We recognise that in real life, great people don't always 'tick all the boxes'. That's why we hire for potential as well as experience. Even if you don't meet every point on the job description, if this role and our company feels like a good fit for you, we still want to hear from you. All qualified applicants will receive consideration for employment without regard to age, disability or medical condition; colour, ethnicity, race, citizenship, and national origin; religion, faith; pregnancy, family status and caring responsibilities; sexual orientation; sex, gender identity, gender expression, and transgender identity; protected veteran status; size or any other basis protected by appropriate law.",
+   "text": "We are Reckitt Home to the world's best loved and trusted hygiene, health, and nutrition brands. Our purpose defines why we exist: to protect, heal and nurture in the relentless pursuit of a cleaner, healthier world. We are a global team united by this purpose. Join us in our fight to make access to the highest quality hygiene, wellness, and nourishment a right and not a privilege. ​Finance​ Our Finance team is not just another department; we're strategic partners and catalysts for change, who use our expertise to drive sustainable growth and create and protect value for Reckitt. With a strong emphasis on cross-functional collaboration and partnership, our inclusive, diverse and energised team breaks down traditional barriers, enabling you to thrive in a dynamic environment where you and your ideas matter. From leveraging insights and analysis to make data-driven decisions - to spearheading sustainable business practices that contribute to consistent and reliable business growth - we are unwaveringly passionate about making a meaningful impact, and always doing the right thing. About the role The Plant Controller is the key finance partner for the Factory Leadership Team, helping drive operational excellence, cost competitiveness, and overall value creation. This role works closely with cross‑functional partners, adapting quickly to shifting business needs and offering clear financial guidance along the way. They maintain strong financial controls and administrative processes to ensure all transactions are accurate, compliant, and reflective of the true financial health of the site. Reliable, transparent reporting is essential to supporting business goals, enabling growth, and sustaining our competitive edge in the market. Your responsibilities Lead the site’s budgeting and forecasting process, making sure plans stay aligned with real production needs and operational trends. Keep visibility on factory costs and performance, calling out what’s on track, what’s not, and where we can improve. Run monthly performance reviews and track key metrics like OEE, cost per unit, waste, and productivity. Support continuous‑improvement and productivity initiatives by validating savings and ensuring financial impact is measurable. Own the site’s Capex process—from business case creation to tracking, cash flow timing, and ROI follow‑up. Maintain strong financial controls and help the site stay audit‑ready. Partner closely with leaders in operations, engineering, supply chain, and planning to guide decisions with clear financial insights. Coach and support finance team members while participating in regional finance forums and improvement communities. The experience we're looking for 10-15 years of finance experience in public or multinational settings, including 2–3 years in a plant environment. Degree in Accounting/Finance (MBA, CPA, or CA preferred) with strong IFRS knowledge. Strong grasp of accounting standards, regulations, and internal controls, with the ability to keep the site compliant while staying practical and business‑focused. Trusted finance partner who builds relationships across teams and is seen as a go‑to expert for guidance and problem‑solving. Clear, confident communicator who can explain financial topics in a straightforward way and work openly with auditors. Experience leading financial reporting, improving processes, and driving productivity across a plant or manufacturing environment. Ability to stay calm and decisive under pressure while supporting a collaborative, team‑driven culture. Broad background in FP&A, IFRS, cost accounting, tax, transfer pricing, reporting, and financial management. Open to future work locations in Evansville, IN, Zeeland, MI, and/or Parsippany, NJ, highly prefered. The skills for success Business accumen, Investment Analysis, Budgeting & Forecasting, Project Management, Improve business processes, Accounting principles, Financial Reporting, Internal controls, Financial analysis and reporting, Stakeholder engagement and influence, Strategic thinking, Risk management, Relationship management. What we offer With inclusion at the heart of everything we do, working alongside our four global Employee Resource Groups, we support our people at every step of their career journey, helping them to succeed in their own individual way. We invest in the wellbeing of our people through parental benefits, an Employee Assistance Program to promote mental health, and life insurance for all employees globally. We have a range of other benefits in line with the local market. Through our global share plans we offer the opportunity to save and share in Reckitt's potential future successes. For eligible roles, we also offer short-term incentives to recognise, appreciate and reward your work for delivering outstanding results. You will be rewarded in line with Reckitt's pay for performance philosophy. Salary Range USD $142,000.00 - $212,000.00 Pay Transparency The base salary range for this role will vary based on experience in job and industry, training and education, skills relevant to the position, and other factors permitted by law. In addition to the base salary, the position is eligible for an annual discretionary bonus, which is subject to change each year. Reckitt offers eligible employees competitive benefits including medical, prescription, dental, vision, and life and disability insurance; paid time off for vacation, sick and Company recognized holidays; a 401(k) plan; 16-week paid parental leave or 26 weeks for the birthing parent; adoption and fertility support; tuition reimbursement; discounts; and much more. Our compensation and benefits packages aim to give our talent the reward, protection, and peace of mind they deserve. If reasonable accommodation is needed to complete your application, please contact NAtalentacquisition@reckitt.com. Reckitt is committed to the full inclusion of all qualified individuals. Equality We recognise that in real life, great people don't always 'tick all the boxes'. That's why we hire for potential as well as experience. Even if you don't meet every point on the job description, if this role and our company feels like a good fit for you, we still want to hear from you. All qualified applicants will receive consideration for employment without regard to age, disability or medical condition; colour, ethnicity, race, citizenship, and national origin; religion, faith; pregnancy, family status and caring responsibilities; sexual orientation; sex, gender identity, gender expression, and transgender identity; protected veteran status; size or any other basis protected by appropriate law.",
    "score": 30,
    "isMatch": false,
    "isEng": false,
@@ -10420,10 +10366,11 @@
    "india": false,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [
     [
-     2,
-     6
+     10,
+     15
     ],
     [
      2,
@@ -10438,7 +10385,7 @@
     {
      "url": "https://careers.reckitt.com",
      "status": 200,
-     "bytes": 86295
+     "bytes": 86294
     },
     {
      "url": "https://reckitt.com/careers",
@@ -10460,10 +10407,10 @@
     "workable:reckitt(guess)"
    ],
    "attempts": [
-    "successfactors:careers.reckitt.com -> 45 jobs"
+    "successfactors:careers.reckitt.com -> 41 jobs"
    ]
   },
-  "ms": 10683
+  "ms": 5712
  },
  {
   "company": "Recur Club",
@@ -10555,6 +10502,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [
     [
      0,
@@ -10613,7 +10561,7 @@
     "workable:recurclub -> no board"
    ]
   },
-  "ms": 17790
+  "ms": 23796
  },
  {
   "company": "Redington India",
@@ -10687,6 +10635,7 @@
    "india": true,
    "senior": true,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -10734,7 +10683,7 @@
     "workable:redingtongroup -> no board"
    ]
   },
-  "ms": 31853
+  "ms": 39764
  },
  {
   "company": "RedSeer",
@@ -10789,7 +10738,7 @@
     "workable:redseer -> no board"
    ]
   },
-  "ms": 4616
+  "ms": 5600
  },
  {
   "company": "Refyne",
@@ -10933,7 +10882,7 @@
     "workable:refyne -> no board"
    ]
   },
-  "ms": 13682
+  "ms": 16877
  },
  {
   "company": "Regeneron India",
@@ -11020,7 +10969,7 @@
     "workable:regeneron -> no board"
    ]
   },
-  "ms": 19057
+  "ms": 18650
  },
  {
   "company": "Relevance Lab",
@@ -11784,6 +11733,7 @@
     "india": true,
     "senior": false,
     "junior": false,
+    "intern": false,
     "exp": [],
     "expFits2": false
    },
@@ -11803,6 +11753,7 @@
     "india": true,
     "senior": false,
     "junior": false,
+    "intern": false,
     "exp": [],
     "expFits2": false
    }
@@ -11823,6 +11774,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -11842,6 +11794,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -11919,7 +11872,7 @@
     "workable:relevancelab -> no board"
    ]
   },
-  "ms": 11497
+  "ms": 11728
  },
  {
   "company": "Reliance Retail",
@@ -12063,7 +12016,7 @@
     "workable:relianceretail -> no board"
    ]
   },
-  "ms": 3041
+  "ms": 5597
  },
  {
   "company": "Rely",
@@ -12207,7 +12160,7 @@
     "workable:rely -> no board"
    ]
   },
-  "ms": 18006
+  "ms": 19295
  },
  {
   "company": "Resilinc India",
@@ -12360,7 +12313,7 @@
     "workable:resilinc -> no board"
    ]
   },
-  "ms": 19265
+  "ms": 20426
  },
  {
   "company": "Reveleer India",
@@ -12524,6 +12477,7 @@
    "india": false,
    "senior": true,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -12543,6 +12497,7 @@
    "india": false,
    "senior": true,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -12617,7 +12572,7 @@
     "breezy:reveleer -> 9 jobs"
    ]
   },
-  "ms": 8308
+  "ms": 8676
  },
  {
   "company": "Rezo.ai",
@@ -12717,7 +12672,7 @@
     "workable:rezo -> no board"
    ]
   },
-  "ms": 11146
+  "ms": 10891
  },
  {
   "company": "RIB Software India",
@@ -12861,7 +12816,7 @@
     "workable:ribsoftware -> no board"
    ]
   },
-  "ms": 11194
+  "ms": 12023
  },
  {
   "company": "Ridecell India",
@@ -13010,7 +12965,7 @@
     "workable:ridecell -> no board"
    ]
   },
-  "ms": 6198
+  "ms": 4998
  },
  {
   "company": "Rightpoint India",
@@ -13356,6 +13311,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [
     [
      4,
@@ -13380,6 +13336,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [
     [
      4,
@@ -13459,7 +13416,7 @@
     "jobvite:genpactexperience -> 18 jobs"
    ]
   },
-  "ms": 6183
+  "ms": 6487
  },
  {
   "company": "Rishabh Software",
@@ -13483,17 +13440,17 @@
     {
      "url": "https://rishabhsoft.com/careers",
      "status": 200,
-     "bytes": 263734
+     "bytes": 263735
     },
     {
      "url": "https://rishabhsoft.com/career",
      "status": 200,
-     "bytes": 263734
+     "bytes": 263735
     },
     {
      "url": "https://rishabhsoft.com/jobs",
      "status": 404,
-     "bytes": 235600
+     "bytes": 235608
     }
    ],
    "candidates": [
@@ -13521,13 +13478,13 @@
     "workable:rishabhsoft -> no board"
    ]
   },
-  "ms": 21605
+  "ms": 24074
  },
  {
   "company": "RSPL Group",
   "country": "India",
   "source": null,
-  "error": "careers-page-read-but-lists-no-openings",
+  "error": "careers-page-unreachable",
   "totalJobs": 0,
   "jobs": [],
   "enriched": 0,
@@ -13545,53 +13502,63 @@
     },
     {
      "url": "https://rsplgroup.com/careers",
-     "status": 200,
-     "bytes": 29823
+     "status": 0,
+     "bytes": 0,
+     "error": "fetch failed"
     },
     {
      "url": "https://rsplgroup.com/career",
-     "status": 200,
-     "bytes": 86132
+     "status": 0,
+     "bytes": 0,
+     "error": "fetch failed"
     },
     {
      "url": "https://rsplgroup.com/jobs",
-     "status": 200,
-     "bytes": 86132
+     "status": 0,
+     "bytes": 0,
+     "error": "fetch failed"
     },
     {
      "url": "https://rsplgroup.com/join-us",
-     "status": 200,
-     "bytes": 86132
+     "status": 0,
+     "bytes": 0,
+     "error": "fetch failed"
     },
     {
      "url": "https://rsplgroup.com/join-our-team",
-     "status": 200,
-     "bytes": 86132
+     "status": 0,
+     "bytes": 0,
+     "error": "fetch failed"
     },
     {
      "url": "https://rsplgroup.com/careers.html",
-     "status": 200,
-     "bytes": 29823
+     "status": 0,
+     "bytes": 0,
+     "error": "fetch failed"
     },
     {
      "url": "https://rsplgroup.com/company/careers",
-     "status": 200,
-     "bytes": 86132
+     "status": 0,
+     "bytes": 0,
+     "error": "fetch failed"
     },
     {
      "url": "https://rsplgroup.com/about/careers",
-     "status": 200,
-     "bytes": 86132
+     "status": 0,
+     "bytes": 0,
+     "error": "fetch failed"
     },
     {
      "url": "https://rsplgroup.com/current-openings",
-     "status": 200,
-     "bytes": 86132
+     "status": 0,
+     "bytes": 0,
+     "error": "fetch failed"
     },
     {
      "url": "https://rsplgroup.com/",
-     "status": 200,
-     "bytes": 86132
+     "status": 0,
+     "bytes": 0,
+     "error": "fetch failed"
     },
     {
      "url": "https://careers.www.rsplgroup.com",
@@ -13601,58 +13568,63 @@
     },
     {
      "url": "https://www.rsplgroup.com/careers",
-     "status": 200,
-     "bytes": 29823
+     "status": 0,
+     "bytes": 0,
+     "error": "fetch failed"
     },
     {
      "url": "https://www.rsplgroup.com/career",
-     "status": 200,
-     "bytes": 86132
+     "status": 0,
+     "bytes": 0,
+     "error": "fetch failed"
     },
     {
      "url": "https://www.rsplgroup.com/jobs",
-     "status": 200,
-     "bytes": 86132
+     "status": 0,
+     "bytes": 0,
+     "error": "fetch failed"
     },
     {
      "url": "https://www.rsplgroup.com/join-us",
-     "status": 200,
-     "bytes": 86132
+     "status": 0,
+     "bytes": 0,
+     "error": "fetch failed"
     },
     {
      "url": "https://www.rsplgroup.com/join-our-team",
-     "status": 200,
-     "bytes": 86132
+     "status": 0,
+     "bytes": 0,
+     "error": "fetch failed"
     },
     {
      "url": "https://www.rsplgroup.com/careers.html",
-     "status": 200,
-     "bytes": 29823
+     "status": 0,
+     "bytes": 0,
+     "error": "fetch failed"
     },
     {
      "url": "https://www.rsplgroup.com/company/careers",
-     "status": 200,
-     "bytes": 86132
+     "status": 0,
+     "bytes": 0,
+     "error": "fetch failed"
     },
     {
      "url": "https://www.rsplgroup.com/about/careers",
-     "status": 200,
-     "bytes": 86132
+     "status": 0,
+     "bytes": 0,
+     "error": "fetch failed"
     },
     {
      "url": "https://www.rsplgroup.com/current-openings",
-     "status": 200,
-     "bytes": 86132
+     "status": 0,
+     "bytes": 0,
+     "error": "fetch failed"
     },
     {
      "url": "https://www.rsplgroup.com/",
-     "status": 200,
-     "bytes": 86132
-    },
-    {
-     "url": "https://careers-rsplgroup.peoplestrong.com/",
-     "status": 200,
-     "bytes": 56051
+     "status": 0,
+     "bytes": 0,
+     "error": "fetch failed"
     }
    ],
    "candidates": [
@@ -13680,7 +13652,7 @@
     "workable:rsplgroup -> no board"
    ]
   },
-  "ms": 22485
+  "ms": 9809
  },
  {
   "company": "RtCamp",
@@ -13689,21 +13661,6 @@
   "error": null,
   "totalJobs": 25,
   "jobs": [
-   {
-    "title": "Digital Marketing Intern",
-    "location": "",
-    "url": "https://careers.rtcamp.com/",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 31
-   },
    {
     "title": "Senior Frappe/ERPNext Engineer",
     "location": "",
@@ -14063,27 +14020,43 @@
     "exp": [],
     "expFits2": false,
     "score": -3
+   },
+   {
+    "title": "Digital Marketing Intern",
+    "location": "",
+    "url": "https://careers.rtcamp.com/",
+    "india": true,
+    "locationSaysIndia": false,
+    "hasLocation": false,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": -21
    }
   ],
   "enriched": 0,
   "matches": [],
   "nearMatches": [],
   "closest": {
-   "title": "Digital Marketing Intern",
+   "title": "Senior Frappe/ERPNext Engineer",
    "location": "",
    "url": "https://careers.rtcamp.com/",
    "team": "",
-   "text": "Digital Marketing Intern Remote Marketing",
+   "text": "Senior Frappe/ERPNext Engineer Remote, India Frappe",
    "_noEnrich": true,
-   "score": 31,
+   "score": 27,
    "isMatch": false,
-   "isEng": false,
+   "isEng": true,
    "java": false,
    "flutter": false,
    "android": false,
    "india": true,
-   "senior": false,
-   "junior": true,
+   "senior": true,
+   "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -14103,6 +14076,7 @@
    "india": true,
    "senior": true,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -14154,7 +14128,7 @@
     "workable:rtcamp -> no board"
    ]
   },
-  "ms": 14567
+  "ms": 13671
  },
  {
   "company": "R Systems International",
@@ -14202,7 +14176,7 @@
     "workable:rsystems -> no board"
    ]
   },
-  "ms": 18930
+  "ms": 20776
  },
  {
   "company": "Route Mobile",
@@ -14237,7 +14211,7 @@
    "pages": [],
    "attempts": []
   },
-  "ms": 288190
+  "ms": 283419
  },
  {
   "company": "RS Software (India)",
@@ -14255,7 +14229,7 @@
    "pages": [],
    "attempts": []
   },
-  "ms": 286630
+  "ms": 281514
  },
  {
   "company": "Radixweb",
@@ -14339,7 +14313,7 @@
     "workable:radixweb -> no board"
    ]
   },
-  "ms": 11593
+  "ms": 16725
  },
  {
   "company": "Rlogical Techsoft",
@@ -14357,7 +14331,7 @@
    "pages": [],
    "attempts": []
   },
-  "ms": 277568
+  "ms": 277528
  },
  {
   "company": "Rapidops",
@@ -14376,7 +14350,7 @@
    "pages": [],
    "attempts": []
   },
-  "ms": 274786
+  "ms": 277044
  },
  {
   "company": "RipenApps Technologies",
@@ -14526,6 +14500,7 @@
    "india": true,
    "senior": true,
    "junior": false,
+   "intern": false,
    "exp": [
     [
      2,
@@ -14550,6 +14525,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -14612,7 +14588,7 @@
     "workable:ripenapps -> no board"
    ]
   },
-  "ms": 3981
+  "ms": 2479
  },
  {
   "company": "RapidValue Solutions",
@@ -14630,7 +14606,7 @@
    "pages": [],
    "attempts": []
   },
-  "ms": 270690
+  "ms": 269015
  },
  {
   "company": "Ray Business Technologies",
@@ -14648,7 +14624,7 @@
    "pages": [],
    "attempts": []
   },
-  "ms": 269666
+  "ms": 264717
  },
  {
   "company": "Rite Software Solutions",
@@ -14666,7 +14642,7 @@
    "pages": [],
    "attempts": []
   },
-  "ms": 269207
+  "ms": 263165
  },
  {
   "company": "Reflections Info Systems",
@@ -14731,7 +14707,7 @@
    "pages": [],
    "attempts": []
   },
-  "ms": 268811
+  "ms": 263092
  },
  {
   "company": "Rejolut",
@@ -14948,6 +14924,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [
     [
      1,
@@ -14976,6 +14953,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [
     [
      1,
@@ -15123,7 +15101,7 @@
     "workable:rejolut -> no board"
    ]
   },
-  "ms": 44782
+  "ms": 41827
  },
  {
   "company": "Radiansys",
@@ -15318,6 +15296,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -15337,6 +15316,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -15414,7 +15394,7 @@
     "workable:radiansys -> no board"
    ]
   },
-  "ms": 12217
+  "ms": 12934
  },
  {
   "company": "Redbytes Software",
@@ -15568,7 +15548,7 @@
     "workable:redbytes -> no board"
    ]
   },
-  "ms": 29408
+  "ms": 27528
  },
  {
   "company": "Rushkar Technology",
@@ -15656,7 +15636,7 @@
     "workable:rushkar -> no board"
    ]
   },
-  "ms": 28959
+  "ms": 43445
  },
  {
   "company": "Root Info Solutions",
@@ -15692,12 +15672,12 @@
     {
      "url": "https://rootinfosol.com/jobs",
      "status": 404,
-     "bytes": 174942
+     "bytes": 174938
     },
     {
      "url": "https://rootinfosol.com/join-us",
      "status": 404,
-     "bytes": 174954
+     "bytes": 174951
     }
    ],
    "candidates": [
@@ -15725,7 +15705,7 @@
     "workable:rootinfosol -> no board"
    ]
   },
-  "ms": 28821
+  "ms": 27674
  },
  {
   "company": "Rootquotient",
@@ -15869,7 +15849,7 @@
     "workable:rootquotient -> no board"
    ]
   },
-  "ms": 17527
+  "ms": 22931
  },
  {
   "company": "Ranosys Technologies",
@@ -15984,21 +15964,6 @@
     "score": 20
    },
    {
-    "title": "Intern - Sales",
-    "location": "",
-    "url": "https://www.ranosys.com/global/about-us/career/current-openings/business-development-intern",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 16
-   },
-   {
     "title": "Business Analyst - Salesforce",
     "location": "",
     "url": "https://www.ranosys.com/global/about-us/career/current-openings/business-analyst-job",
@@ -16027,6 +15992,21 @@
     "exp": [],
     "expFits2": false,
     "score": -18
+   },
+   {
+    "title": "Intern - Sales",
+    "location": "",
+    "url": "https://www.ranosys.com/global/about-us/career/current-openings/business-development-intern",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": false,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": -36
    }
   ],
   "enriched": 4,
@@ -16048,6 +16028,7 @@
    "india": false,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [
     [
      2,
@@ -16080,6 +16061,7 @@
    "india": false,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [
     [
      2,
@@ -16150,7 +16132,7 @@
     "workable:ranosys -> no board"
    ]
   },
-  "ms": 13634
+  "ms": 12736
  },
  {
   "company": "Rapid Circle",
@@ -16170,7 +16152,7 @@
     {
      "url": "https://rapidcircle.com/careers",
      "status": 200,
-     "bytes": 174415
+     "bytes": 174466
     },
     {
      "url": "https://careers.rapidcircle.com",
@@ -16181,22 +16163,22 @@
     {
      "url": "https://rapidcircle.com/career",
      "status": 200,
-     "bytes": 174415
+     "bytes": 174466
     },
     {
      "url": "https://rapidcircle.com/jobs",
      "status": 404,
-     "bytes": 131571
+     "bytes": 131622
     },
     {
      "url": "https://rapidcircle.com/join-us",
      "status": 404,
-     "bytes": 131574
+     "bytes": 131625
     },
     {
      "url": "https://rapidcircle.com/join-our-team",
      "status": 404,
-     "bytes": 131580
+     "bytes": 131631
     }
    ],
    "candidates": [
@@ -16214,7 +16196,7 @@
     "workable:rapidcircle -> no board"
    ]
   },
-  "ms": 30720
+  "ms": 27834
  },
  {
   "company": "RNF Technologies",
@@ -16268,7 +16250,7 @@
     "workable:rnftechnologies -> no board"
    ]
   },
-  "ms": 13442
+  "ms": 14005
  },
  {
   "company": "Relinns Technologies",
@@ -16340,7 +16322,7 @@
     "workable:relinns -> no board"
    ]
   },
-  "ms": 23500
+  "ms": 22052
  },
  {
   "company": "Reckonsys",
@@ -16444,7 +16426,7 @@
     "workable:reckonsys -> no board"
    ]
   },
-  "ms": 10828
+  "ms": 7840
  },
  {
   "company": "Rysun Labs",
@@ -16473,21 +16455,6 @@
     "title": "Jr. ASP.Net MVC Developer",
     "location": "",
     "url": "https://www.rysun.com/job/jr-asp-net-mvc-developer/",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": true,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 61
-   },
-   {
-    "title": "Intern – Application Support Engineer",
-    "location": "",
-    "url": "https://www.rysun.com/job/intern-application-support/",
     "india": true,
     "locationSaysIndia": false,
     "hasLocation": false,
@@ -17145,21 +17112,6 @@
     "score": 19
    },
    {
-    "title": "QA Internship",
-    "location": "",
-    "url": "https://www.rysun.com/job/qa-internship/",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 19
-   },
-   {
     "title": "Digital Marketing Executive",
     "location": "",
     "url": "https://www.rysun.com/job/digital-marketing-executive/",
@@ -17368,6 +17320,21 @@
     "exp": [],
     "expFits2": false,
     "score": 19
+   },
+   {
+    "title": "Intern – Application Support Engineer",
+    "location": "",
+    "url": "https://www.rysun.com/job/intern-application-support/",
+    "india": true,
+    "locationSaysIndia": false,
+    "hasLocation": false,
+    "isEng": true,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 9
    },
    {
     "title": "Product Manager",
@@ -17773,6 +17740,21 @@
     "exp": [],
     "expFits2": false,
     "score": -3
+   },
+   {
+    "title": "QA Internship",
+    "location": "",
+    "url": "https://www.rysun.com/job/qa-internship/",
+    "india": true,
+    "locationSaysIndia": false,
+    "hasLocation": false,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": -21
    }
   ],
   "enriched": 10,
@@ -17793,6 +17775,7 @@
     "india": true,
     "senior": false,
     "junior": false,
+    "intern": false,
     "exp": [],
     "expFits2": false
    }
@@ -17812,6 +17795,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -17830,6 +17814,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -17907,7 +17892,7 @@
     "workable:rysun -> no board"
    ]
   },
-  "ms": 38922
+  "ms": 38524
  },
  {
   "company": "Redian Software Global",
@@ -17967,7 +17952,7 @@
     "workable:rediansoftware -> no board"
    ]
   },
-  "ms": 7411
+  "ms": 11063
  },
  {
   "company": "Reveation Labs",
@@ -17992,7 +17977,7 @@
     {
      "url": "https://reveation.io/careers",
      "status": 200,
-     "bytes": 216373
+     "bytes": 216464
     },
     {
      "url": "https://reveation.io/career",
@@ -18020,7 +18005,7 @@
     "workable:reveation -> no board"
    ]
   },
-  "ms": 11266
+  "ms": 10367
  },
  {
   "company": "Revalsys Technologies",
@@ -18108,7 +18093,7 @@
     "workable:revalsys -> no board"
    ]
   },
-  "ms": 6656
+  "ms": 8713
  },
  {
   "company": "Riaxe Systems",
@@ -18377,6 +18362,7 @@
     "india": true,
     "senior": false,
     "junior": false,
+    "intern": false,
     "exp": [
      [
       2,
@@ -18401,6 +18387,7 @@
     "india": true,
     "senior": false,
     "junior": false,
+    "intern": false,
     "exp": [
      [
       2,
@@ -18427,6 +18414,7 @@
     "india": true,
     "senior": false,
     "junior": false,
+    "intern": false,
     "exp": [
      [
       3,
@@ -18452,6 +18440,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [
     [
      2,
@@ -18476,6 +18465,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [
     [
      2,
@@ -18558,7 +18548,7 @@
     "workable:riaxe -> no board"
    ]
   },
-  "ms": 22507
+  "ms": 26102
  },
  {
   "company": "RemoteState",
@@ -18583,27 +18573,42 @@
     {
      "url": "https://remotestate.com/careers",
      "status": 404,
-     "bytes": 37998
+     "bytes": 37985
     },
     {
      "url": "https://remotestate.com/career",
      "status": 404,
-     "bytes": 37997
+     "bytes": 37988
     },
     {
      "url": "https://remotestate.com/jobs",
      "status": 404,
-     "bytes": 37993
+     "bytes": 37988
     },
     {
      "url": "https://remotestate.com/join-us",
      "status": 404,
-     "bytes": 37985
+     "bytes": 37996
     },
     {
      "url": "https://remotestate.com/join-our-team",
      "status": 404,
-     "bytes": 38006
+     "bytes": 37996
+    },
+    {
+     "url": "https://remotestate.com/careers.html",
+     "status": 404,
+     "bytes": 38003
+    },
+    {
+     "url": "https://remotestate.com/company/careers",
+     "status": 404,
+     "bytes": 38003
+    },
+    {
+     "url": "https://remotestate.com/about/careers",
+     "status": 404,
+     "bytes": 38015
     }
    ],
    "candidates": [
@@ -18621,7 +18626,7 @@
     "workable:remotestate -> no board"
    ]
   },
-  "ms": 9130
+  "ms": 11766
  },
  {
   "company": "Rejig Digital",
@@ -18775,7 +18780,7 @@
     "workable:rejigdigital -> no board"
    ]
   },
-  "ms": 27557
+  "ms": 26147
  },
  {
   "company": "Rapidsoft Technologies",
@@ -18954,6 +18959,7 @@
     "india": true,
     "senior": false,
     "junior": false,
+    "intern": false,
     "exp": [
      [
       3,
@@ -18979,6 +18985,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [
     [
      3,
@@ -19003,6 +19010,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [
     [
      3,
@@ -19156,7 +19164,7 @@
     "workable:rapidsofttechnologies -> no board"
    ]
   },
-  "ms": 5553
+  "ms": 7823
  },
  {
   "company": "Rhythmflows Solutions",
@@ -19320,7 +19328,7 @@
     "workable:rhythmflows -> no board"
    ]
   },
-  "ms": 3129
+  "ms": 4739
  },
  {
   "company": "RejoiceHub",
@@ -19504,6 +19512,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [
     [
      1,
@@ -19528,6 +19537,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [
     [
      1,
@@ -19595,7 +19605,7 @@
     "workable:rejoicehub -> no board"
    ]
   },
-  "ms": 4335
+  "ms": 4762
  },
  {
   "company": "RChilli",
@@ -19745,6 +19755,7 @@
     "india": false,
     "senior": false,
     "junior": false,
+    "intern": false,
     "exp": [],
     "expFits2": false
    }
@@ -19765,6 +19776,7 @@
    "india": false,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -19784,6 +19796,7 @@
    "india": false,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -19861,7 +19874,7 @@
     "workable:rchilli -> no board"
    ]
   },
-  "ms": 18974
+  "ms": 39889
  },
  {
   "company": "Rocketium",
@@ -19977,6 +19990,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [
     [
      5,
@@ -20060,7 +20074,7 @@
     "keka:rocketium -> 4 jobs"
    ]
   },
-  "ms": 10414
+  "ms": 9679
  },
  {
   "company": "Rezolve.ai",
@@ -20118,7 +20132,7 @@
     "workable:rezolve -> no board"
    ]
   },
-  "ms": 14879
+  "ms": 16660
  },
  {
   "company": "Reverie Language Technologies",
@@ -20215,7 +20229,7 @@
     "workable:reverieinc -> no board"
    ]
   },
-  "ms": 33202
+  "ms": 28534
  },
  {
   "company": "Recykal",
@@ -20359,7 +20373,7 @@
     "workable:recykal -> no board"
    ]
   },
-  "ms": 6265
+  "ms": 5609
  },
  {
   "company": "Ripplr",
@@ -20503,7 +20517,7 @@
     "workable:ripplr -> no board"
    ]
   },
-  "ms": 6517
+  "ms": 6933
  },
  {
   "company": "Roadzen",
@@ -20647,7 +20661,7 @@
     "workable:roadzen -> no board"
    ]
   },
-  "ms": 5297
+  "ms": 5115
  },
  {
   "company": "Rooter",
@@ -20717,7 +20731,7 @@
     {
      "url": "https://rooter.gg/",
      "status": 200,
-     "bytes": 96112
+     "bytes": 97647
     }
    ],
    "candidates": [
@@ -20735,7 +20749,7 @@
     "workable:rooter -> no board"
    ]
   },
-  "ms": 5619
+  "ms": 7289
  },
  {
   "company": "RailYatri",
@@ -20805,7 +20819,7 @@
     {
      "url": "https://railyatri.in/",
      "status": 200,
-     "bytes": 79118
+     "bytes": 79121
     }
    ],
    "candidates": [
@@ -20823,7 +20837,7 @@
     "workable:railyatri -> no board"
    ]
   },
-  "ms": 8280
+  "ms": 7275
  },
  {
   "company": "Riskcovry",
@@ -20878,13 +20892,13 @@
     "workable:riskcovry -> no board"
    ]
   },
-  "ms": 8801
+  "ms": 11442
  },
  {
   "company": "RenewBuy",
   "country": "India",
   "source": null,
-  "error": "no-job-data-found",
+  "error": "timed-out",
   "totalJobs": 0,
   "jobs": [],
   "enriched": 0,
@@ -20893,80 +20907,10 @@
   "closest": null,
   "closestEng": null,
   "trace": {
-   "pages": [
-    {
-     "url": "https://careers.renewbuy.com",
-     "status": 0,
-     "bytes": 0,
-     "error": "fetch failed"
-    },
-    {
-     "url": "https://renewbuy.com/careers",
-     "status": 502,
-     "bytes": 54520
-    },
-    {
-     "url": "https://renewbuy.com/career",
-     "status": 502,
-     "bytes": 54520
-    },
-    {
-     "url": "https://renewbuy.com/jobs",
-     "status": 404,
-     "bytes": 1134366
-    },
-    {
-     "url": "https://renewbuy.com/join-us",
-     "status": 404,
-     "bytes": 1134366
-    },
-    {
-     "url": "https://renewbuy.com/join-our-team",
-     "status": 404,
-     "bytes": 1134366
-    },
-    {
-     "url": "https://renewbuy.com/careers.html",
-     "status": 502,
-     "bytes": 54520
-    },
-    {
-     "url": "https://renewbuy.com/company/careers",
-     "status": 404,
-     "bytes": 1134366
-    },
-    {
-     "url": "https://renewbuy.com/about/careers",
-     "status": 404,
-     "bytes": 1134366
-    },
-    {
-     "url": "https://renewbuy.com/current-openings",
-     "status": 404,
-     "bytes": 1134366
-    },
-    {
-     "url": "https://renewbuy.com/",
-     "status": 200,
-     "bytes": 383021
-    }
-   ],
-   "candidates": [
-    "greenhouse:renewbuy(guess)",
-    "lever:renewbuy(guess)",
-    "ashby:renewbuy(guess)",
-    "recruitee:renewbuy(guess)",
-    "workable:renewbuy(guess)"
-   ],
-   "attempts": [
-    "greenhouse:renewbuy -> no board",
-    "lever:renewbuy -> no board",
-    "ashby:renewbuy -> no board",
-    "recruitee:renewbuy -> no board",
-    "workable:renewbuy -> no board"
-   ]
+   "pages": [],
+   "attempts": []
   },
-  "ms": 12008
+  "ms": 90000
  },
  {
   "company": "Redcliffe Labs",
@@ -21065,7 +21009,7 @@
     "workable:redcliffelabs -> no board"
    ]
   },
-  "ms": 18767
+  "ms": 28637
  },
  {
   "company": "RevFin",
@@ -21129,7 +21073,7 @@
     "workable:revfin -> no board"
    ]
   },
-  "ms": 7364
+  "ms": 3099
  },
  {
   "company": "Rang De",
@@ -21223,7 +21167,7 @@
     "workable:rangde -> no board"
    ]
   },
-  "ms": 4498
+  "ms": 3633
  },
  {
   "company": "ReBIT (Reserve Bank Information Technology)",
@@ -21367,7 +21311,7 @@
     "workable:rebit -> no board"
    ]
   },
-  "ms": 2812
+  "ms": 4291
  },
  {
   "company": "RailTel Corporation of India",
@@ -21603,7 +21547,7 @@
     "workable:railtelindia -> no board"
    ]
   },
-  "ms": 12110
+  "ms": 7440
  },
  {
   "company": "Repos Energy",
@@ -21700,7 +21644,7 @@
     "workable:reposenergy -> no board"
    ]
   },
-  "ms": 12710
+  "ms": 13331
  },
  {
   "company": "Rista Apps",
@@ -21844,7 +21788,7 @@
     "workable:ristaapps -> no board"
    ]
   },
-  "ms": 4205
+  "ms": 3801
  },
  {
   "company": "Roadcast",
@@ -22174,7 +22118,7 @@
     "workable:roadcast -> no board"
    ]
   },
-  "ms": 2444
+  "ms": 3727
  },
  {
   "company": "Rubick.ai",
@@ -22663,6 +22607,7 @@
     "india": true,
     "senior": false,
     "junior": true,
+    "intern": false,
     "exp": [
      [
       1,
@@ -22693,6 +22638,7 @@
     "india": true,
     "senior": false,
     "junior": false,
+    "intern": false,
     "exp": [
      [
       0,
@@ -22717,6 +22663,7 @@
    "india": true,
    "senior": false,
    "junior": true,
+   "intern": false,
    "exp": [
     [
      1,
@@ -22744,6 +22691,7 @@
    "india": true,
    "senior": false,
    "junior": true,
+   "intern": false,
    "exp": [
     [
      1,
@@ -22893,7 +22841,7 @@
     "keka:rubick -> 21 jobs"
    ]
   },
-  "ms": 9269
+  "ms": 9111
  },
  {
   "company": "Runo",
@@ -23037,7 +22985,7 @@
     "workable:runo -> no board"
    ]
   },
-  "ms": 4984
+  "ms": 3714
  },
  {
   "company": "RevenueHero",
@@ -23083,6 +23031,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -23122,7 +23071,7 @@
     "zohorecruit:revenuehero -> 1 jobs"
    ]
   },
-  "ms": 4363
+  "ms": 3129
  },
  {
   "company": "Robylon AI",
@@ -23276,7 +23225,7 @@
     "workable:robylon -> no board"
    ]
   },
-  "ms": 15051
+  "ms": 16317
  },
  {
   "company": "Rigi",
@@ -23343,6 +23292,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [
     [
      3,
@@ -23483,7 +23433,7 @@
     "keka:rigi -> 2 jobs"
    ]
   },
-  "ms": 2057
+  "ms": 1242
  },
  {
   "company": "Reelo",
@@ -23512,30 +23462,6 @@
     ],
     "expFits2": true,
     "score": 75
-   },
-   {
-    "title": "Event Marketing Intern",
-    "location": "Ahmedabad, GJ",
-    "url": "https://reelo.keka.com/careers/jobdetails/138622",
-    "india": true,
-    "locationSaysIndia": true,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [
-     [
-      0,
-      1
-     ],
-     [
-      1,
-      2
-     ]
-    ],
-    "expFits2": true,
-    "score": 57
    },
    {
     "title": "Full Stack Engineer (Node.js / Next.js / TypeScript)",
@@ -23689,66 +23615,6 @@
     "score": 45
    },
    {
-    "title": "Marketing Data Intern",
-    "location": "Ahmedabad, GJ",
-    "url": "https://reelo.keka.com/careers/jobdetails/147656",
-    "india": true,
-    "locationSaysIndia": true,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 31
-   },
-   {
-    "title": "Marketing Operation Intern",
-    "location": "Ahmedabad, GJ",
-    "url": "https://reelo.keka.com/careers/jobdetails/126142",
-    "india": true,
-    "locationSaysIndia": true,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 31
-   },
-   {
-    "title": "Digital Marketing Intern",
-    "location": "Ahmedabad, GJ",
-    "url": "https://reelo.keka.com/careers/jobdetails/51176",
-    "india": true,
-    "locationSaysIndia": true,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 31
-   },
-   {
-    "title": "HR Intern",
-    "location": "",
-    "url": "https://reelo.keka.com/careers/jobdetails/50521",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 31
-   },
-   {
     "title": "Product Designer II",
     "location": "Ahmedabad",
     "url": "https://reelo.keka.com/careers/jobdetails/54685",
@@ -23821,6 +23687,90 @@
     ],
     "expFits2": false,
     "score": 5
+   },
+   {
+    "title": "Event Marketing Intern",
+    "location": "Ahmedabad, GJ",
+    "url": "https://reelo.keka.com/careers/jobdetails/138622",
+    "india": true,
+    "locationSaysIndia": true,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [
+     [
+      0,
+      1
+     ],
+     [
+      1,
+      2
+     ]
+    ],
+    "expFits2": true,
+    "score": 5
+   },
+   {
+    "title": "Marketing Data Intern",
+    "location": "Ahmedabad, GJ",
+    "url": "https://reelo.keka.com/careers/jobdetails/147656",
+    "india": true,
+    "locationSaysIndia": true,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": -21
+   },
+   {
+    "title": "Marketing Operation Intern",
+    "location": "Ahmedabad, GJ",
+    "url": "https://reelo.keka.com/careers/jobdetails/126142",
+    "india": true,
+    "locationSaysIndia": true,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": -21
+   },
+   {
+    "title": "Digital Marketing Intern",
+    "location": "Ahmedabad, GJ",
+    "url": "https://reelo.keka.com/careers/jobdetails/51176",
+    "india": true,
+    "locationSaysIndia": true,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": -21
+   },
+   {
+    "title": "HR Intern",
+    "location": "",
+    "url": "https://reelo.keka.com/careers/jobdetails/50521",
+    "india": true,
+    "locationSaysIndia": false,
+    "hasLocation": false,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": -21
    }
   ],
   "enriched": 1,
@@ -23841,6 +23791,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [
     [
      1,
@@ -23864,6 +23815,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [
     [
      1,
@@ -23913,7 +23865,7 @@
     "keka:reelo -> 17 jobs"
    ]
   },
-  "ms": 7078
+  "ms": 4618
  },
  {
   "company": "Refrens",
@@ -24057,7 +24009,7 @@
     "workable:refrens -> no board"
    ]
   },
-  "ms": 6411
+  "ms": 7748
  },
  {
   "company": "Recruit CRM",
@@ -24086,21 +24038,6 @@
     "title": "Warehouse Associate",
     "location": "",
     "url": "https://recruitcrm.io/job-description/warehouse-associate/",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 31
-   },
-   {
-    "title": "Email Marketing Intern",
-    "location": "",
-    "url": "https://recruitcrm.io/job-description/email-marketing-intern/",
     "india": true,
     "locationSaysIndia": false,
     "hasLocation": false,
@@ -25566,6 +25503,21 @@
     "exp": [],
     "expFits2": false,
     "score": -3
+   },
+   {
+    "title": "Email Marketing Intern",
+    "location": "",
+    "url": "https://recruitcrm.io/job-description/email-marketing-intern/",
+    "india": true,
+    "locationSaysIndia": false,
+    "hasLocation": false,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": -21
    }
   ],
   "enriched": 1,
@@ -25587,6 +25539,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -25606,6 +25559,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -25642,7 +25596,7 @@
     "workable:recruitcrm -> no board"
    ]
   },
-  "ms": 5417
+  "ms": 6450
  },
  {
   "company": "Resulticks",
@@ -25731,7 +25685,7 @@
     "workable:resulticks -> no board"
    ]
   },
-  "ms": 17362
+  "ms": 16480
  },
  {
   "company": "Retailio",
@@ -25881,6 +25835,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [
     [
      1,
@@ -26034,7 +25989,7 @@
     "workable:retailio -> no board"
    ]
   },
-  "ms": 4249
+  "ms": 4766
  },
  {
   "company": "Robro Systems",
@@ -26150,7 +26105,7 @@
     "workable:robrosystems -> no board"
    ]
   },
-  "ms": 10439
+  "ms": 10136
  },
  {
   "company": "RapiPay Fintech",
@@ -26254,6 +26209,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -26273,6 +26229,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -26393,7 +26350,7 @@
     {
      "url": "https://in.rapipay.com/careers/",
      "status": 200,
-     "bytes": 171058
+     "bytes": 171055
     }
    ],
    "candidates": [
@@ -26421,7 +26378,7 @@
     "workable:rapipay -> no board"
    ]
   },
-  "ms": 10099
+  "ms": 12295
  },
  {
   "company": "Rupyy",
@@ -26494,7 +26451,7 @@
     "workable:rupyy -> no board"
    ]
   },
-  "ms": 6566
+  "ms": 5124
  },
  {
   "company": "Rio Money",
@@ -26638,7 +26595,7 @@
     "workable:riomoney -> no board"
    ]
   },
-  "ms": 3813
+  "ms": 4754
  },
  {
   "company": "RoboMQ",
@@ -26682,6 +26639,7 @@
    "india": false,
    "senior": true,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -26701,6 +26659,7 @@
    "india": false,
    "senior": true,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -26760,7 +26719,7 @@
     "lever:robomq -> 1 jobs (guess, name-verified)"
    ]
   },
-  "ms": 14062
+  "ms": 14655
  },
  {
   "company": "Reliance Games",
@@ -26811,21 +26770,6 @@
     "score": 70
    },
    {
-    "title": "Game Programmer Intern",
-    "location": "",
-    "url": "https://www.reliancegames.com/careers/game-programmer-intern-pune.html",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": true,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 69
-   },
-   {
     "title": "Game Programmer (Nintendo Switch)",
     "location": "",
     "url": "https://www.reliancegames.com/careers/game-programmer-nintendo-pune.html",
@@ -26846,51 +26790,6 @@
     "score": 57
    },
    {
-    "title": "Game Artist 2D Intern",
-    "location": "",
-    "url": "https://www.reliancegames.com/careers/gameartist2D-intern-pune.html",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 31
-   },
-   {
-    "title": "Game Artist 3D Intern",
-    "location": "",
-    "url": "https://www.reliancegames.com/careers/artist3D-intern.html",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 31
-   },
-   {
-    "title": "Motion Graphic Artist - Intern",
-    "location": "",
-    "url": "https://www.reliancegames.com/careers/artist-motion-graphic-intern-pune.html",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 31
-   },
-   {
     "title": "Associate Game Producer",
     "location": "",
     "url": "https://www.reliancegames.com/careers/asso-game-producer-pune.html",
@@ -26906,84 +26805,9 @@
     "score": 31
    },
    {
-    "title": "Data Analytics Intern",
-    "location": "",
-    "url": "https://www.reliancegames.com/careers/data-analyst-intern-pune.html",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 31
-   },
-   {
-    "title": "Product Management Intern",
-    "location": "",
-    "url": "https://www.reliancegames.com/careers/product-intern-pune.html",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 31
-   },
-   {
-    "title": "Game Designer - Intern",
-    "location": "",
-    "url": "https://www.reliancegames.com/careers/game-designer-intern-pune.html",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 31
-   },
-   {
     "title": "Associate Community Engagement Executive",
     "location": "",
     "url": "https://www.reliancegames.com/careers/assoc-community-executive.html",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 31
-   },
-   {
-    "title": "Intern Game Tester",
-    "location": "",
-    "url": "https://www.reliancegames.com/careers/intern-game-tester-pune.html",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 31
-   },
-   {
-    "title": "Intern HR (Talent Acquisition)",
-    "location": "",
-    "url": "https://www.reliancegames.com/careers/intern-hr-pune.html",
     "india": true,
     "locationSaysIndia": false,
     "hasLocation": false,
@@ -27039,6 +26863,21 @@
     "exp": [],
     "expFits2": false,
     "score": 19
+   },
+   {
+    "title": "Game Programmer Intern",
+    "location": "",
+    "url": "https://www.reliancegames.com/careers/game-programmer-intern-pune.html",
+    "india": true,
+    "locationSaysIndia": false,
+    "hasLocation": false,
+    "isEng": true,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 17
    },
    {
     "title": "Product Manager",
@@ -27114,6 +26953,126 @@
     "exp": [],
     "expFits2": false,
     "score": -3
+   },
+   {
+    "title": "Game Artist 2D Intern",
+    "location": "",
+    "url": "https://www.reliancegames.com/careers/gameartist2D-intern-pune.html",
+    "india": true,
+    "locationSaysIndia": false,
+    "hasLocation": false,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": -21
+   },
+   {
+    "title": "Game Artist 3D Intern",
+    "location": "",
+    "url": "https://www.reliancegames.com/careers/artist3D-intern.html",
+    "india": true,
+    "locationSaysIndia": false,
+    "hasLocation": false,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": -21
+   },
+   {
+    "title": "Motion Graphic Artist - Intern",
+    "location": "",
+    "url": "https://www.reliancegames.com/careers/artist-motion-graphic-intern-pune.html",
+    "india": true,
+    "locationSaysIndia": false,
+    "hasLocation": false,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": -21
+   },
+   {
+    "title": "Data Analytics Intern",
+    "location": "",
+    "url": "https://www.reliancegames.com/careers/data-analyst-intern-pune.html",
+    "india": true,
+    "locationSaysIndia": false,
+    "hasLocation": false,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": -21
+   },
+   {
+    "title": "Product Management Intern",
+    "location": "",
+    "url": "https://www.reliancegames.com/careers/product-intern-pune.html",
+    "india": true,
+    "locationSaysIndia": false,
+    "hasLocation": false,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": -21
+   },
+   {
+    "title": "Game Designer - Intern",
+    "location": "",
+    "url": "https://www.reliancegames.com/careers/game-designer-intern-pune.html",
+    "india": true,
+    "locationSaysIndia": false,
+    "hasLocation": false,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": -21
+   },
+   {
+    "title": "Intern Game Tester",
+    "location": "",
+    "url": "https://www.reliancegames.com/careers/intern-game-tester-pune.html",
+    "india": true,
+    "locationSaysIndia": false,
+    "hasLocation": false,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": -21
+   },
+   {
+    "title": "Intern HR (Talent Acquisition)",
+    "location": "",
+    "url": "https://www.reliancegames.com/careers/intern-hr-pune.html",
+    "india": true,
+    "locationSaysIndia": false,
+    "hasLocation": false,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": -21
    }
   ],
   "enriched": 4,
@@ -27135,6 +27094,7 @@
     "india": true,
     "senior": false,
     "junior": false,
+    "intern": false,
     "exp": [
      [
       5,
@@ -27160,6 +27120,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [
     [
      2,
@@ -27184,6 +27145,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [
     [
      2,
@@ -27332,7 +27294,7 @@
     "workable:reliancegames -> no board"
    ]
   },
-  "ms": 21833
+  "ms": 19026
  },
  {
   "company": "Reliance Industries",
@@ -27427,6 +27389,7 @@
    "india": true,
    "senior": true,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -27436,7 +27399,7 @@
     {
      "url": "https://ril.com/careers",
      "status": 200,
-     "bytes": 138428
+     "bytes": 137154
     },
     {
      "url": "https://careers.ril.com",
@@ -27446,7 +27409,7 @@
     {
      "url": "https://ril.com/career",
      "status": 404,
-     "bytes": 81761
+     "bytes": 81755
     },
     {
      "url": "https://ril.com/jobs",
@@ -27469,7 +27432,7 @@
     "workable:reliance -> no board"
    ]
   },
-  "ms": 5675
+  "ms": 6263
  },
  {
   "company": "Reliance General Insurance",
@@ -27494,17 +27457,17 @@
     {
      "url": "https://reliancegeneral.co.in/careers",
      "status": 404,
-     "bytes": 179892
+     "bytes": 180716
     },
     {
      "url": "https://reliancegeneral.co.in/career",
      "status": 404,
-     "bytes": 179740
+     "bytes": 180596
     },
     {
      "url": "https://reliancegeneral.co.in/jobs",
      "status": 404,
-     "bytes": 179880
+     "bytes": 180736
     }
    ],
    "candidates": [
@@ -27532,7 +27495,7 @@
     "workable:reliancegeneral -> no board"
    ]
   },
-  "ms": 11497
+  "ms": 10419
  },
  {
   "company": "Reliance Nippon Life Insurance",
@@ -27622,6 +27585,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -27675,7 +27639,7 @@
     "workable:reliancenipponlife -> no board"
    ]
   },
-  "ms": 8110
+  "ms": 9116
  },
  {
   "company": "Religare Enterprises",
@@ -27772,7 +27736,7 @@
     "workable:religare -> no board"
    ]
   },
-  "ms": 15629
+  "ms": 17223
  },
  {
   "company": "Royal Sundaram General Insurance",
@@ -27842,7 +27806,7 @@
     {
      "url": "https://royalsundaram.in/",
      "status": 200,
-     "bytes": 294030
+     "bytes": 294032
     }
    ],
    "candidates": [
@@ -27872,7 +27836,7 @@
     "workable:royalsundaram -> no board"
    ]
   },
-  "ms": 7703
+  "ms": 8716
  },
  {
   "company": "Royal Enfield",
@@ -28022,7 +27986,7 @@
     "workable:royalenfield -> no board"
    ]
   },
-  "ms": 22633
+  "ms": 27137
  },
  {
   "company": "Renault Nissan Technology & Business Centre India",
@@ -28058,37 +28022,37 @@
     {
      "url": "https://rntbci.in/jobs",
      "status": 404,
-     "bytes": 7682
+     "bytes": 7680
     },
     {
      "url": "https://rntbci.in/join-us",
      "status": 404,
-     "bytes": 7682
+     "bytes": 7683
     },
     {
      "url": "https://rntbci.in/join-our-team",
      "status": 404,
-     "bytes": 7682
+     "bytes": 7681
     },
     {
      "url": "https://rntbci.in/careers.html",
      "status": 404,
-     "bytes": 7681
+     "bytes": 7682
     },
     {
      "url": "https://rntbci.in/company/careers",
      "status": 404,
-     "bytes": 7682
+     "bytes": 7681
     },
     {
      "url": "https://rntbci.in/about/careers",
      "status": 404,
-     "bytes": 7682
+     "bytes": 7683
     },
     {
      "url": "https://rntbci.in/current-openings",
      "status": 404,
-     "bytes": 7681
+     "bytes": 7680
     },
     {
      "url": "https://rntbci.in/",
@@ -28121,7 +28085,7 @@
     "workable:rntbci -> no board"
    ]
   },
-  "ms": 13979
+  "ms": 15665
  },
  {
   "company": "Renesas Electronics India",
@@ -28316,6 +28280,7 @@
    "india": false,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -28335,6 +28300,7 @@
    "india": false,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -28384,7 +28350,7 @@
     {
      "url": "https://renesas.com/about/careers",
      "status": 200,
-     "bytes": 81225
+     "bytes": 81235
     }
    ],
    "candidates": [
@@ -28412,7 +28378,7 @@
     "workable:renesas -> no board"
    ]
   },
-  "ms": 15634
+  "ms": 15562
  },
  {
   "company": "Ribbon Communications India",
@@ -28522,6 +28488,7 @@
    "india": false,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -28531,7 +28498,7 @@
     {
      "url": "https://ribboncommunications.com/careers",
      "status": 200,
-     "bytes": 233009
+     "bytes": 233007
     },
     {
      "url": "https://careers.ribboncommunications.com",
@@ -28547,7 +28514,7 @@
     {
      "url": "https://ribboncommunications.com/jobs",
      "status": 200,
-     "bytes": 233009
+     "bytes": 233007
     },
     {
      "url": "https://ribboncommunications.com/join-us",
@@ -28577,7 +28544,7 @@
     "workable:ribboncommunications -> no board"
    ]
   },
-  "ms": 9477
+  "ms": 10198
  },
  {
   "company": "Riverbed Technology India",
@@ -28777,6 +28744,7 @@
    "india": false,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [
     [
      20,
@@ -28807,6 +28775,7 @@
    "india": false,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [
     [
      20,
@@ -28876,7 +28845,7 @@
     "icims:riverbed -> 10 jobs"
    ]
   },
-  "ms": 6908
+  "ms": 6464
  },
  {
   "company": "RingCentral India",
@@ -29890,6 +29859,7 @@
    "india": true,
    "senior": true,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -29911,6 +29881,7 @@
    "india": true,
    "senior": true,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -29985,7 +29956,7 @@
     "workday:ringcentral -> 62 jobs"
    ]
   },
-  "ms": 9308
+  "ms": 8691
  },
  {
   "company": "Roku India",
@@ -30094,7 +30065,7 @@
     "workable:roku -> no board"
    ]
   },
-  "ms": 31139
+  "ms": 25437
  },
  {
   "company": "Rockstar Games India",
@@ -30183,7 +30154,7 @@
     "workable:rockstargames -> no board"
    ]
   },
-  "ms": 12356
+  "ms": 13205
  },
  {
   "company": "Resideo India",
@@ -30227,6 +30198,7 @@
    "india": false,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -30246,7 +30218,7 @@
     {
      "url": "https://resideo.com/career",
      "status": 404,
-     "bytes": 83647
+     "bytes": 83530
     }
    ],
    "candidates": [
@@ -30264,7 +30236,7 @@
     "workable:resideo -> no board"
    ]
   },
-  "ms": 16704
+  "ms": 19688
  },
  {
   "company": "RSA Security India",
@@ -30289,12 +30261,12 @@
     {
      "url": "https://rsa.com/careers",
      "status": 404,
-     "bytes": 343069
+     "bytes": 343071
     },
     {
      "url": "https://rsa.com/career",
      "status": 404,
-     "bytes": 343431
+     "bytes": 343039
     },
     {
      "url": "https://rsa.com/jobs",
@@ -30317,7 +30289,7 @@
     "workable:rsasecurity -> no board"
    ]
   },
-  "ms": 27683
+  "ms": 28625
  },
  {
   "company": "Rocket Software India",
@@ -30456,7 +30428,7 @@
     "workable:rocketsoftware -> no board"
    ]
   },
-  "ms": 5205
+  "ms": 9276
  },
  {
   "company": "ResMed India",
@@ -30616,21 +30588,6 @@
     "title": "Associate Data Analyst",
     "location": "Johor Bahru, Malaysia",
     "url": "https://resmed.wd3.myworkdayjobs.com/Resmed_External_Careers/job/Johor-Bahru-Malaysia/Associate-Data-Analyst_JR_047215-1",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 16
-   },
-   {
-    "title": "Intern, Manufacturing Engineering (6-Month Duration)",
-    "location": "Johor Bahru, Malaysia",
-    "url": "https://resmed.wd3.myworkdayjobs.com/Resmed_External_Careers/job/Johor-Bahru-Malaysia/Intern--Manufacturing-Engineering--6-Month-Duration-_JR_052810",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
@@ -31120,6 +31077,21 @@
     "exp": [],
     "expFits2": false,
     "score": -18
+   },
+   {
+    "title": "Intern, Manufacturing Engineering (6-Month Duration)",
+    "location": "Johor Bahru, Malaysia",
+    "url": "https://resmed.wd3.myworkdayjobs.com/Resmed_External_Careers/job/Johor-Bahru-Malaysia/Intern--Manufacturing-Engineering--6-Month-Duration-_JR_052810",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": -36
    }
   ],
   "enriched": 9,
@@ -31143,6 +31115,7 @@
    "india": false,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [
     [
      2,
@@ -31169,6 +31142,7 @@
    "india": false,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [
     [
      2,
@@ -31182,12 +31156,12 @@
     {
      "url": "https://resmed.com/careers",
      "status": 200,
-     "bytes": 71590
+     "bytes": 71591
     },
     {
      "url": "https://careers.resmed.com",
      "status": 200,
-     "bytes": 71590
+     "bytes": 71591
     },
     {
      "url": "https://resmed.com/career",
@@ -31220,7 +31194,7 @@
     "workday:resmed -> 40 jobs"
    ]
   },
-  "ms": 21062
+  "ms": 18682
  },
  {
   "company": "Rimini Street India",
@@ -32967,6 +32941,7 @@
     "india": false,
     "senior": false,
     "junior": false,
+    "intern": false,
     "exp": [
      [
       8,
@@ -32997,6 +32972,7 @@
     "india": false,
     "senior": false,
     "junior": false,
+    "intern": false,
     "exp": [
      [
       8,
@@ -33029,6 +33005,7 @@
     "india": false,
     "senior": false,
     "junior": false,
+    "intern": false,
     "exp": [
      [
       5,
@@ -33060,6 +33037,7 @@
    "india": false,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [
     [
      8,
@@ -33090,6 +33068,7 @@
    "india": false,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [
     [
      8,
@@ -33173,7 +33152,7 @@
     "workday:riministreet -> 110 jobs"
    ]
   },
-  "ms": 25938
+  "ms": 24352
  },
  {
   "company": "Redis India",
@@ -33323,6 +33302,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -33342,6 +33322,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -33350,7 +33331,7 @@
     {
      "url": "https://redis.io/careers",
      "status": 200,
-     "bytes": 2439998
+     "bytes": 2439997
     },
     {
      "url": "https://careers.redis.io",
@@ -33361,17 +33342,17 @@
     {
      "url": "https://redis.io/career",
      "status": 404,
-     "bytes": 1102315
+     "bytes": 1102314
     },
     {
      "url": "https://redis.io/jobs",
      "status": 200,
-     "bytes": 2439998
+     "bytes": 2439997
     },
     {
      "url": "https://redis.io/join-us",
      "status": 404,
-     "bytes": 1102316
+     "bytes": 1102317
     },
     {
      "url": "https://redis.io/join-our-team",
@@ -33394,7 +33375,7 @@
     "workable:redis -> no board"
    ]
   },
-  "ms": 9421
+  "ms": 10324
  },
  {
   "company": "Rippling India",
@@ -33469,6 +33450,7 @@
    "india": false,
    "senior": false,
    "junior": true,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -33488,6 +33470,7 @@
    "india": false,
    "senior": false,
    "junior": true,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -33564,7 +33547,7 @@
     "workable:rippling -> no board"
    ]
   },
-  "ms": 9942
+  "ms": 28814
  },
  {
   "company": "RudderStack India",
@@ -33608,6 +33591,7 @@
    "india": false,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -33648,7 +33632,7 @@
     "rippling:rudderstack-careers -> 1 jobs"
    ]
   },
-  "ms": 1246
+  "ms": 1341
  },
  {
   "company": "Rolls-Royce India",
@@ -33722,6 +33706,7 @@
    "india": false,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -33741,6 +33726,7 @@
    "india": false,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -33777,7 +33763,7 @@
     "workable:rollsroyce -> no board"
    ]
   },
-  "ms": 10764
+  "ms": 13604
  },
  {
   "company": "Roche India",
@@ -33883,7 +33869,7 @@
     "workable:roche -> no board"
    ]
   },
-  "ms": 58165
+  "ms": 55419
  },
  {
   "company": "RWS Group India",
@@ -34860,6 +34846,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -34869,7 +34856,7 @@
     {
      "url": "https://rws.com/careers",
      "status": 200,
-     "bytes": 145632
+     "bytes": 146482
     },
     {
      "url": "https://careers.rws.com",
@@ -34880,32 +34867,12 @@
     {
      "url": "https://rws.com/career",
      "status": 404,
-     "bytes": 134415
+     "bytes": 134687
     },
     {
      "url": "https://rws.com/jobs",
      "status": 404,
      "bytes": 134415
-    },
-    {
-     "url": "https://rws.com/join-us",
-     "status": 404,
-     "bytes": 134415
-    },
-    {
-     "url": "https://rws.com/join-our-team",
-     "status": 404,
-     "bytes": 134415
-    },
-    {
-     "url": "https://rws.com/careers.html",
-     "status": 200,
-     "bytes": 145632
-    },
-    {
-     "url": "https://rws.com/company/careers",
-     "status": 404,
-     "bytes": 134687
     }
    ],
    "candidates": [
@@ -34916,7 +34883,7 @@
     "lever:rws -> 59 jobs"
    ]
   },
-  "ms": 10005
+  "ms": 8365
  },
  {
   "company": "Rapid7 India",
@@ -34979,7 +34946,7 @@
     "workable:rapid7 -> no board"
    ]
   },
-  "ms": 29761
+  "ms": 32431
  },
  {
   "company": "RTX India",
@@ -34998,7 +34965,7 @@
    "pages": [],
    "attempts": []
   },
-  "ms": 90004
+  "ms": 90001
  },
  {
   "company": "Rackspace Technology India",
@@ -35570,6 +35537,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [
     [
      3,
@@ -35600,6 +35568,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [
     [
      3,
@@ -35628,7 +35597,7 @@
     {
      "url": "https://rackspace.com/career",
      "status": 404,
-     "bytes": 4281
+     "bytes": 4282
     },
     {
      "url": "https://rackspace.com/jobs",
@@ -35638,22 +35607,22 @@
     {
      "url": "https://rackspace.com/join-us",
      "status": 404,
-     "bytes": 4281
+     "bytes": 4282
     },
     {
      "url": "https://rackspace.com/join-our-team",
      "status": 404,
-     "bytes": 4281
+     "bytes": 4282
     },
     {
      "url": "https://rackspace.com/careers.html",
      "status": 404,
-     "bytes": 4281
+     "bytes": 4282
     },
     {
      "url": "https://rackspace.com/company/careers",
      "status": 404,
-     "bytes": 4281
+     "bytes": 4282
     },
     {
      "url": "https://rackspace.com/about/careers",
@@ -35663,12 +35632,12 @@
     {
      "url": "https://rackspace.com/current-openings",
      "status": 404,
-     "bytes": 4281
+     "bytes": 4282
     },
     {
      "url": "https://rackspace.com/",
      "status": 200,
-     "bytes": 96006
+     "bytes": 96007
     }
    ],
    "candidates": [
@@ -35683,7 +35652,7 @@
     "workday:rackspace -> 32 jobs"
    ]
   },
-  "ms": 32661
+  "ms": 25303
  },
  {
   "company": "Ryan India",
@@ -35703,7 +35672,7 @@
     {
      "url": "https://ryan.com/careers",
      "status": 200,
-     "bytes": 65600
+     "bytes": 65601
     },
     {
      "url": "https://careers.ryan.com",
@@ -35724,12 +35693,22 @@
     {
      "url": "https://ryan.com/join-us",
      "status": 404,
-     "bytes": 43284
+     "bytes": 43285
     },
     {
      "url": "https://ryan.com/join-our-team",
      "status": 404,
-     "bytes": 43291
+     "bytes": 43290
+    },
+    {
+     "url": "https://ryan.com/careers.html",
+     "status": 404,
+     "bytes": 43290
+    },
+    {
+     "url": "https://ryan.com/company/careers",
+     "status": 404,
+     "bytes": 43293
     }
    ],
    "candidates": [
@@ -35747,7 +35726,7 @@
     "workable:ryan -> no board"
    ]
   },
-  "ms": 35237
+  "ms": 24890
  },
  {
   "company": "Revvity India",
@@ -35891,7 +35870,7 @@
     "workable:revvity -> no board"
    ]
   },
-  "ms": 5490
+  "ms": 11037
  },
  {
   "company": "Rivos",
@@ -36045,6 +36024,6 @@
     "workable:rivosinc -> no board"
    ]
   },
-  "ms": 15886
+  "ms": 15665
  }
 ]

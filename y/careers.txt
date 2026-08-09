@@ -2,13 +2,13 @@
 OPEN ROLES AT 257 "W" COMPANIES
 Looking for : Software Engineer, ~2 years experience
 Priority    : Java, Dart/Flutter        Location preference : India
-Generated   : 2026-08-09 00:13:07 UTC  by test.js
+Generated   : 2026-08-09 05:53:17 UTC  by test.js
 ==============================================================================
 
-Boards read with open roles : 85
+Boards read with open roles : 84
 Boards read, currently empty: 2
-Could not read              : 170
-Total open roles seen       : 868
+Could not read              : 171
+Total open roles seen       : 860
 
 ##############################################################################
 # SECTION 1 — MATCHES: Software Engineer + Java/Dart/Flutter + ~2 yrs
@@ -438,8 +438,8 @@ Total open roles seen       : 868
     board    : successfactors:careers.yash.com   —  57 open roles
     Sr. Software Engineer - Java Job
       location : Pune, IN   [INDIA]
-      exp req  : 6-8y / 5-9y / 2-6y    stack: Java    score: 78
-      url      : https://careers.yash.com/job/Pune-Sr_-Software-Engineer-Java-Job/1365323566/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS
+      exp req  : 7-9y / 2-3y / 9-10y    stack: Java    score: 78
+      url      : https://careers.yash.com/job/Pune-Sr_-Software-Engineer-Java-Job/1365328766/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS
 
 >> Yotta Data Services  [India]
     board    : headings:https://yotta.com/careers/   —  4 open roles
@@ -696,13 +696,6 @@ Total open roles seen       : 868
       location : n/a   [INDIA]
       exp req  : not stated    stack: —    score: 31
       url      : https://www.y-axis.com/careers/
-
->> Yashus Digital Marketing  [India]
-    board    : json-ld:https://yashus.in/career/   —  8 open roles
-    Digital Marketing Executive
-      location : Pune, Maharashtra, IN   [INDIA]
-      exp req  : 2-6y    stack: —    score: 45
-      url      : https://yashus.in/career/
 
 >> Yashoda Hospitals  [India]
     board    : wordpress:https://www.yashodahospitals.com   —  19 open roles
@@ -1027,7 +1020,7 @@ Total open roles seen       : 868
       url      : https://yesdevs.com/job/senior-full-stack-developer-m-f-d/
 
 ##############################################################################
-# SECTION 5 — NOT READ  (170 of 257)
+# SECTION 5 — NOT READ  (171 of 257)
 # lists-no-openings  = careers page loaded fine, published no vacancies
 # blocked-or-error    = bot wall / dead route (403, 404) — needs a browser
 # unreachable         = domain did not respond at all
@@ -1166,7 +1159,7 @@ Total open roles seen       : 868
 
 >> YouGov  [UK]  — careers-page-read-but-lists-no-openings
     careers page : https://jobs.yougov.com/
-    http status  : 200, 0, 404, 404
+    http status  : 200, 0, 404, 404, 404, 200
     ATS tried    : greenhouse:yougov -> no board ; lever:yougov -> no board ; ashby:yougov -> no board ; recruitee:yougov -> no board
 
 >> Yoti  [UK]  — careers-page-read-but-lists-no-openings
@@ -1231,7 +1224,7 @@ Total open roles seen       : 868
 
 >> Yash Infosystems  [India]  — careers-page-read-but-lists-no-openings
     careers page : undefined
-    http status  : 0, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 0, 200, 200, 200, 200, 200, 200, 200, 200, 200, 500
+    http status  : 0, 200, 200, 200, 200, 200, 200, 200, 200, 500, 500, 0, 200, 200, 200, 200, 200, 200, 500, 500, 500, 500
     ATS tried    : greenhouse:yashinfosystems -> no board ; lever:yashinfosystems -> no board ; ashby:yashinfosystems -> no board ; recruitee:yashinfosystems -> no board
 
 >> Yash Infotech Pvt Ltd  [India]  — careers-page-read-but-lists-no-openings
@@ -1341,7 +1334,7 @@ Total open roles seen       : 868
 
 >> YuSa Infotech  [India]  — careers-page-read-but-lists-no-openings
     careers page : https://yusainfotech.com/careers/
-    http status  : 200, 0, 200, 200, 404, 404, 404, 404, 200, 200, 404, 200
+    http status  : 200, 0, 200, 200, 404
     ATS tried    : greenhouse:yusainfotech -> no board ; lever:yusainfotech -> no board ; ashby:yusainfotech -> no board ; recruitee:yusainfotech -> no board
 
 >> Yappes  [India]  — careers-page-read-but-lists-no-openings
@@ -1376,7 +1369,7 @@ Total open roles seen       : 868
 
 >> YY Inc  [China]  — careers-page-read-but-lists-no-openings
     careers page : undefined
-    http status  : 200, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433, 0, 433, 433, 433, 433, 433, 433, 433, 433, 433, 433
+    http status  : 200, 404, 404, 404, 404, 404, 404
 
 >> Yidu Tech  [China]  — careers-page-read-but-lists-no-openings
     careers page : undefined
@@ -1550,7 +1543,7 @@ Total open roles seen       : 868
 
 >> Yashi Consulting  [India]  — no-job-data-found
     careers page : undefined
-    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200, 0, 404, 404, 404, 404, 0, 404, 404, 404, 404, 200
+    http status  : 0, 404, 404, 404, 0, 404, 404, 404, 0, 404, 200, 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
     ATS tried    : greenhouse:yashiconsulting -> no board ; lever:yashiconsulting -> no board ; ashby:yashiconsulting -> no board ; recruitee:yashiconsulting -> no board
 
 >> Yashi Technologies  [India]  — no-job-data-found
@@ -1627,6 +1620,11 @@ Total open roles seen       : 868
     careers page : undefined
     http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200, 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
     ATS tried    : greenhouse:yessoftech -> no board ; lever:yessoftech -> no board ; ashby:yessoftech -> no board ; recruitee:yessoftech -> no board
+
+>> Yez Studio  [India]  — no-job-data-found
+    careers page : undefined
+    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200, 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
+    ATS tried    : greenhouse:yezstudio -> no board ; lever:yezstudio -> no board ; ashby:yezstudio -> no board ; recruitee:yezstudio -> no board
 
 >> Yenmo  [India]  — no-job-data-found
     careers page : undefined
@@ -1860,8 +1858,8 @@ Total open roles seen       : 868
     careers page : undefined
     http status  : 
 
->> Yez Studio  [India]  — timed-out
-    careers page : undefined
+>> Yashus Digital Marketing  [India]  — timed-out
+    careers page : https://yashus.in/career/
     http status  : 
 
 >> Yeeply  [Spain]  — timed-out

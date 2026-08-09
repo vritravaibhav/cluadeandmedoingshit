@@ -16,12 +16,12 @@
     {
      "url": "https://careers.jpmorganchase.com",
      "status": 200,
-     "bytes": 200307
+     "bytes": 200347
     },
     {
      "url": "https://jpmorganchase.com/careers",
      "status": 200,
-     "bytes": 200307
+     "bytes": 200347
     },
     {
      "url": "https://jpmorganchase.com/career",
@@ -46,7 +46,7 @@
     {
      "url": "https://jpmorganchase.com/careers.html",
      "status": 200,
-     "bytes": 200308
+     "bytes": 200347
     },
     {
      "url": "https://jpmorganchase.com/company/careers",
@@ -66,7 +66,7 @@
     {
      "url": "https://jpmorganchase.com/",
      "status": 200,
-     "bytes": 114987
+     "bytes": 115028
     }
    ],
    "candidates": [
@@ -84,7 +84,7 @@
     "workable:jpmorganchase -> no board"
    ]
   },
-  "ms": 25716
+  "ms": 29798
  },
  {
   "company": "Jio",
@@ -168,6 +168,7 @@
    "india": true,
    "senior": false,
    "junior": true,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -177,12 +178,12 @@
     {
      "url": "https://careers.jio.com/",
      "status": 200,
-     "bytes": 79536
+     "bytes": 79533
     },
     {
      "url": "https://careers.jio.com",
      "status": 200,
-     "bytes": 79537
+     "bytes": 79535
     },
     {
      "url": "https://jio.com/careers",
@@ -320,7 +321,7 @@
    "candidates": [],
    "attempts": []
   },
-  "ms": 7425
+  "ms": 7353
  },
  {
   "company": "Juspay",
@@ -408,7 +409,7 @@
     "workable:juspay -> no board"
    ]
   },
-  "ms": 10697
+  "ms": 9984
  },
  {
   "company": "Jubilant FoodWorks",
@@ -468,6 +469,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -602,7 +604,7 @@
     "workable:jubilantfoodworks -> no board"
    ]
   },
-  "ms": 8461
+  "ms": 8920
  },
  {
   "company": "Jumbotail",
@@ -841,6 +843,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -860,6 +863,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -937,7 +941,7 @@
     "workable:jumbotail -> no board"
    ]
   },
-  "ms": 15830
+  "ms": 21392
  },
  {
   "company": "Justdial",
@@ -962,22 +966,17 @@
     {
      "url": "https://justdial.com/careers",
      "status": 200,
-     "bytes": 721074
+     "bytes": 721079
     },
     {
      "url": "https://justdial.com/career",
      "status": 200,
-     "bytes": 721074
+     "bytes": 721270
     },
     {
      "url": "https://justdial.com/jobs",
      "status": 200,
-     "bytes": 30147
-    },
-    {
-     "url": "https://justdial.com/join-us",
-     "status": 200,
-     "bytes": 721262
+     "bytes": 30150
     }
    ],
    "candidates": [
@@ -995,19 +994,19 @@
     "workable:justdial -> no board"
    ]
   },
-  "ms": 24070
+  "ms": 13682
  },
  {
   "company": "John Deere India",
   "country": "United States",
   "source": "sitemap:https://careers.deere.com",
   "error": null,
-  "totalJobs": 18,
+  "totalJobs": 23,
   "jobs": [
    {
-    "title": "2026009 - Software Engineer",
-    "location": "Moline, IL,US",
-    "url": "http://careers.deere.com/careers/job/137480406941-2026009-software-engineer-moline-illinois-united-states?domain=johndeere.com",
+    "title": "Junior Data Engineer - Indaiatuba/SP",
+    "location": "Indaiatuba, SP,BR",
+    "url": "http://careers.deere.com/careers/job/137481060668-junior-data-engineer-indaiatuba-sp-indaiatuba-sao-paulo-brazil?domain=johndeere.com",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
@@ -1015,27 +1014,14 @@
     "java": true,
     "flutter": false,
     "senior": false,
-    "exp": [
-     [
-      3,
-      4
-     ],
-     [
-      2,
-      3
-     ],
-     [
-      1,
-      2
-     ]
-    ],
-    "expFits2": true,
-    "score": 85
+    "exp": [],
+    "expFits2": false,
+    "score": 71
    },
    {
-    "title": "2026014 Software Engineer, Software Engineering",
-    "location": "Moline, IL,US",
-    "url": "http://careers.deere.com/careers/job/137482115447-2026014-software-engineer-software-engineering-moline-illinois-united-states?domain=johndeere.com",
+    "title": "Software Engineer",
+    "location": "East Moline, IL,US",
+    "url": "http://careers.deere.com/careers/job/137481735554-software-engineer-east-moline-illinois-united-states?domain=johndeere.com",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
@@ -1046,80 +1032,31 @@
     "exp": [
      [
       2,
-      3
-     ],
-     [
-      1,
-      2
+      6
      ]
     ],
     "expFits2": true,
     "score": 60
    },
    {
-    "title": "Part-Time Student - Software Engineer - Moline, IL",
-    "location": "Moline, IL,US",
-    "url": "http://careers.deere.com/careers/job/137480957123-part-time-student-software-engineer-moline-il-moline-illinois-united-states?domain=johndeere.com",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": true,
-    "java": true,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 59
-   },
-   {
-    "title": "Software Engineer",
+    "title": "Senior Data Engineer",
     "location": "Johnston, IA,US",
-    "url": "http://careers.deere.com/careers/job/137481764113-software-engineer-johnston-iowa-united-states?domain=johndeere.com",
+    "url": "http://careers.deere.com/careers/job/137482618769-senior-data-engineer-johnston-ia-iowa-united-states?domain=johndeere.com",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
     "isEng": true,
     "java": true,
     "flutter": false,
-    "senior": false,
+    "senior": true,
     "exp": [],
     "expFits2": false,
-    "score": 59
+    "score": 37
    },
    {
-    "title": "Component Engineer",
-    "location": "Fargo, ND,US",
-    "url": "http://careers.deere.com/careers/job/137481443396-component-engineer-fargo-nd-north-dakota-united-states?domain=johndeere.com",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": true,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 34
-   },
-   {
-    "title": "Product Design Engineer - Hydraulic Systems",
-    "location": "Dubuque, IA,US",
-    "url": "http://careers.deere.com/careers/job/137481455782-product-design-engineer-hydraulic-systems-dubuque-iowa-united-states?domain=johndeere.com",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": true,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 34
-   },
-   {
-    "title": "Product Engineer, EL/SW Testing",
+    "title": "Product Engineer",
     "location": "Grovetown, GA,US",
-    "url": "http://careers.deere.com/careers/job/137481258338-product-engineer-el-sw-testing-grovetown-georgia-united-states?domain=johndeere.com",
+    "url": "http://careers.deere.com/careers/job/137482561973-product-engineer-grovetown-georgia-united-states?domain=johndeere.com",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
@@ -1132,9 +1069,9 @@
     "score": 34
    },
    {
-    "title": "Environmental Engineer",
-    "location": "Thibodaux, LA,US",
-    "url": "http://careers.deere.com/careers/job/137482022674-environmental-engineer-thibodaux-louisiana-united-states?domain=johndeere.com",
+    "title": "Part-Time Student- Product Engineer - Fuquay Varina, NC",
+    "location": "Fuquay-Varina, NC,US",
+    "url": "http://careers.deere.com/careers/job/137482643871-part-time-student-product-engineer-fuquay-varina-nc-fuquay-varina-north-carolina-united-states?domain=johndeere.com",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
@@ -1147,9 +1084,39 @@
     "score": 34
    },
    {
-    "title": "Engineer, Crawler Electrical",
+    "title": "Supplier Quality Engineer - Ramos",
+    "location": "Ramos Arizpe, Coah.,MX",
+    "url": "http://careers.deere.com/careers/job/137482273697-supplier-quality-engineer-ramos-ramos-arizpe-coahuila-mexico?domain=johndeere.com",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": true,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 34
+   },
+   {
+    "title": "Mid-Level Product Engineer - Indaiatuba/SP",
+    "location": "Indaiatuba, SP,BR",
+    "url": "http://careers.deere.com/careers/job/137481965456-mid-level-product-engineer-indaiatuba-sp-indaiatuba-sao-paulo-brazil?domain=johndeere.com",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": true,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 34
+   },
+   {
+    "title": "Part-Time Student - Manufacturing Engineer - Dubuque, IA",
     "location": "Dubuque, IA,US",
-    "url": "http://careers.deere.com/careers/job/137481426385-engineer-crawler-electrical-dubuque-iowa-united-states?domain=johndeere.com",
+    "url": "http://careers.deere.com/careers/job/137482638837-part-time-student-manufacturing-engineer-dubuque-ia-dubuque-iowa-united-states?domain=johndeere.com",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
@@ -1162,9 +1129,54 @@
     "score": 34
    },
    {
-    "title": "Embedded Software Engineer, Displays",
+    "title": "Software Test Engineer (Hardware-in-the-Loop)",
+    "location": "Morrisville, NC,US",
+    "url": "http://careers.deere.com/careers/job/137482294233-software-test-engineer-hardware-in-the-loop--morrisville-north-carolina-united-states?domain=johndeere.com",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": true,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 34
+   },
+   {
+    "title": "Infrastructure Engineer - Las Rosas",
+    "location": "Las Rosas, Santa Fe Province,AR",
+    "url": "http://careers.deere.com/careers/job/137482344061-infrastructure-engineer-las-rosas-las-rosas-santa-fe-argentina?domain=johndeere.com",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": true,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 34
+   },
+   {
+    "title": "Quality Engineer",
+    "location": "Valley City, ND,US",
+    "url": "http://careers.deere.com/careers/job/137482564330-quality-engineer-valley-city-north-dakota-united-states?domain=johndeere.com",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": true,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 34
+   },
+   {
+    "title": "Engineer, Small Excavators (SMX) Electrical Hardware",
     "location": "Dubuque, IA,US",
-    "url": "http://careers.deere.com/careers/job/137482117373-embedded-software-engineer-displays-dubuque-iowa-united-states?domain=johndeere.com",
+    "url": "http://careers.deere.com/careers/job/137482548421-engineer-small-excavators-smx-electrical-hardware-dubuque-iowa-united-states?domain=johndeere.com",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
@@ -1177,9 +1189,9 @@
     "score": 34
    },
    {
-    "title": "Supervisor - 3rd Shift",
-    "location": "Milan, IL,US",
-    "url": "http://careers.deere.com/careers/job/137481982575-supervisor-3rd-shift-milan-illinois-united-states?domain=johndeere.com",
+    "title": "Supply Management Specialist",
+    "location": "Grimsby, ON,CA",
+    "url": "http://careers.deere.com/careers/job/137482643235-supply-management-specialist-grimsby-ontario-canada?domain=johndeere.com",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
@@ -1189,32 +1201,17 @@
     "senior": false,
     "exp": [
      [
-      1,
-      5
+      2,
+      6
      ]
     ],
     "expFits2": true,
     "score": 30
    },
    {
-    "title": "Senior Perception Engineer",
-    "location": "Santa Clara, CA,US",
-    "url": "http://careers.deere.com/careers/job/137482093453-senior-perception-engineer-santa-clara-california-united-states?domain=johndeere.com",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": true,
-    "java": false,
-    "flutter": false,
-    "senior": true,
-    "exp": [],
-    "expFits2": false,
-    "score": 12
-   },
-   {
-    "title": "SAP Technical Solutions Analyst",
-    "location": "Poznań, Greater Poland Voivodeship,PL",
-    "url": "http://careers.deere.com/careers/job/137480501105-sap-technical-solutions-analyst-poznan-wielkopolskie-poland?domain=johndeere.com",
+    "title": "Communications and Training Specialist",
+    "location": "Waterloo, IA,US",
+    "url": "http://careers.deere.com/careers/job/137482532079-communications-and-training-specialist-waterloo-iowa-united-states?domain=johndeere.com",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
@@ -1222,63 +1219,104 @@
     "java": false,
     "flutter": false,
     "senior": false,
-    "exp": [
-     [
-      4,
-      5
-     ]
-    ],
+    "exp": [],
     "expFits2": false,
-    "score": 12
+    "score": 4
    },
    {
-    "title": "Sr Staff Engineer Electrical Engineering",
-    "location": "Moline, IL,US",
-    "url": "http://careers.deere.com/careers/job/137478689849-sr-staff-engineer-electrical-engineering-moline-illinois-united-states?domain=johndeere.com",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": true,
-    "java": false,
-    "flutter": false,
-    "senior": true,
-    "exp": [
-     [
-      5,
-      9
-     ]
-    ],
-    "expFits2": false,
-    "score": 8
-   },
-   {
-    "title": "Senior Solution Architect - Indaiatuba/SP",
-    "location": "Indaiatuba, SP,BR",
-    "url": "http://careers.deere.com/careers/job/137478689361-senior-solution-architect-indaiatuba-sp-indaiatuba-sao-paulo-brazil?domain=johndeere.com",
+    "title": "HR Representative",
+    "location": "Waterloo, IA,US",
+    "url": "http://careers.deere.com/careers/job/137482228646-hr-representative-waterloo-iowa-united-states?domain=johndeere.com",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
     "isEng": false,
     "java": false,
     "flutter": false,
-    "senior": true,
-    "exp": [
-     [
-      3,
-      5
-     ],
-     [
-      12,
-      16
-     ]
-    ],
+    "senior": false,
+    "exp": [],
     "expFits2": false,
-    "score": -10
+    "score": 4
    },
    {
-    "title": "Staff Data Scientist",
-    "location": "Austin, TX,US",
-    "url": "http://careers.deere.com/careers/job/137481556932-staff-data-scientist-austin-texas-united-states?domain=johndeere.com",
+    "title": "Monitoring Center Analyst-Monterrey",
+    "location": "San Pedro Garza García, N.L.,MX",
+    "url": "http://careers.deere.com/careers/job/137482543312-monitoring-center-analyst-monterrey-garza-garcia-nuevo-león-mexico?domain=johndeere.com",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 4
+   },
+   {
+    "title": "Parts Sales & Inventory Control Representative",
+    "location": "Carlisle, England,GB",
+    "url": "http://careers.deere.com/careers/job/137482543394-parts-sales-inventory-control-representative-carlisle-carlise-united-kingdom?domain=johndeere.com",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 4
+   },
+   {
+    "title": "Supply Management Specialist",
+    "location": "Thibodaux, LA,US",
+    "url": "http://careers.deere.com/careers/job/137482564793-supply-management-specialist-thibodaux-louisiana-united-states?domain=johndeere.com",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 4
+   },
+   {
+    "title": "PL Office 365 Administrator - Indaiatuba/SP",
+    "location": "Indaiatuba, SP,BR",
+    "url": "http://careers.deere.com/careers/job/137482528727-pl-office-365-administrator-indaiatuba-sp-indaiatuba-sao-paulo-brazil?domain=johndeere.com",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 4
+   },
+   {
+    "title": "Material Coordinator",
+    "location": "Waterloo, IA,US",
+    "url": "http://careers.deere.com/careers/job/137482171908-material-coordinator-waterloo-ia-iowa-united-states?domain=johndeere.com",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 4
+   },
+   {
+    "title": "Automation Strategy Lead",
+    "location": "Moline, IL,US",
+    "url": "http://careers.deere.com/careers/job/137482499447-automation-strategy-lead-moline-illinois-united-states?domain=johndeere.com",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
@@ -1291,9 +1329,9 @@
     "score": -18
    },
    {
-    "title": "SAP Solution Architect",
-    "location": "Poznań, Greater Poland Voivodeship,PL",
-    "url": "http://careers.deere.com/careers/job/137480025523-sap-solution-architect-poznań-wielkopolskie-poland?domain=johndeere.com",
+    "title": "Manager Régional Récolte (F/H)",
+    "location": "Ormes, Centre-Val de Loire,FR",
+    "url": "http://careers.deere.com/careers/job/137482554665-manager-régional-récolte-f-h--ormes-loiret-france?domain=johndeere.com",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
@@ -1301,19 +1339,14 @@
     "java": false,
     "flutter": false,
     "senior": true,
-    "exp": [
-     [
-      5,
-      9
-     ]
-    ],
+    "exp": [],
     "expFits2": false,
-    "score": -22
+    "score": -18
    },
    {
-    "title": "Process Design & Continuous Improvement Manager (Finance)",
-    "location": "Poznań, Greater Poland Voivodeship,PL",
-    "url": "http://careers.deere.com/careers/job/137481055818-process-design-continuous-improvement-manager-finance--poznań-wielkopolskie-poland?domain=johndeere.com",
+    "title": "LATAM Business Manager - Tractors - Indaiatuba/SP",
+    "location": "Indaiatuba, SP,BR",
+    "url": "http://careers.deere.com/careers/job/137482141396-latam-business-manager-tractors-indaiatuba-sp-indaiatuba-sao-paulo-brazil?domain=johndeere.com",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
@@ -1321,149 +1354,71 @@
     "java": false,
     "flutter": false,
     "senior": true,
-    "exp": [
-     [
-      5,
-      9
-     ]
-    ],
+    "exp": [],
     "expFits2": false,
-    "score": -22
+    "score": -18
    }
   ],
   "enriched": 0,
   "matches": [
    {
-    "title": "2026009 - Software Engineer",
-    "location": "Moline, IL,US",
-    "url": "http://careers.deere.com/careers/job/137480406941-2026009-software-engineer-moline-illinois-united-states?domain=johndeere.com",
+    "title": "Junior Data Engineer - Indaiatuba/SP",
+    "location": "Indaiatuba, SP,BR",
+    "url": "http://careers.deere.com/careers/job/137481060668-junior-data-engineer-indaiatuba-sp-indaiatuba-sao-paulo-brazil?domain=johndeere.com",
     "team": "",
-    "text": "There are over 7 billion people on this planet. And by 2050, there will be 2 billion more... many moving into urban centers at an unprecedented rate. Making sure there is enough food, fiber and infrastructure for our rapidly growing world is what we're all about at John Deere. And it's why we're investing in our people and our technology like never before! Here the world's brightest minds are tackling the world's biggest challenges. If you believe one person can make the world a better place, we'll put you to work. RIGHT NOW. John Deere is an equal opportunity employer. All qualified applicants will receive consideration for employment without regards to, among other things, race, religion, color, national origin, sex, age, sexual orientation, gender identity or expression, status as a protected veteran, or status as a qualified individual with disability. Primary Location: United States (US) – IL – Moline Function: Technology Title: Software Engineer - 2026009 Onsite/Remote: Onsite Position Your Responsibilities As a Software Engineer for John Deere in Moline, IL, you will: * Participate in full development life cycle defining needs of client, providing input for functional design, manual and automatic integration testing; * Implement loosely coupled resilient microservices; * High availability systems are developed to provide continuous and uninterrupted service to the end customer by using cloud services; * Test newly developed software to optimize computer system workflow and document software solutions; * Involve in high level design and code reviews and identify basic issues or deviations from best practices; * Developing knowledge of assigned solution, technologies, development processes and ecosystem; * Improving continuous deployment process following automated process and best practices. * 20% remote work allowed. Up to 20% domestic and international travel required to meet clients and visit factories. What Skills You Need * 3 years of experience in Java 11 or above to build microservices using Spring Framework, SpringBoot, Spring security, Hibernate and JPA annotations * 2 years of experience in Amazon S3, AWS Lambda, CloudWatch, AWS cloud formation templates to build reliable, scalable, and inexpensive cloud computing services * 3 years of experience in Java Script, CSS, jQuery, React JS with Redux to build re-usable and good maintenance services for keeping the application running quickly and dynamically * 3 years of experience in Docker to containerize the services and Kubernetes to Orchestrate these services * 3 years of experience in OAuth 2.0 to provide authentication and authorization to RESTFUL services by exchanging JWT tokens * 3 years of expertise in OOPS concept and designing data structures and algorithms in a clear, concise, and elegant way using data structures and algorithms * 3 years of experience in using relational database PostgreSQL; * 1 year of experience in Cross-platform mobile development (e.g. Xamarin) for near–real-time tracking apps with high-volume mission-critical data and embedded maps; iOS, Android, Window * 6 months of experience in mapping API integration (e.g. Google Maps) for routing and geocoding, optimized for high-volume geospatial data and performance * 6 months years of experience in secure application development enforcing complex business rules and role-based data access and code quality using Veracode and SonarQube * 6 months years of experience in large-scale data processing using Databricks with Python and SQL for analytics and insights * 6 months years of experience in unified service portal development using Next.js 14, React 18, and Node 18, delivering role based workflows * 6 months years of experience in feature driven UX and access control using LaunchDarkly, with role based navigation, shared React/MUI components, and localization support Education/Experience * Bachelor’s degree in Computer Science or related field plus 3 years related experience. What You'll Get At John Deere, you are empowered to create a career that will take you to where you want to go while working in an inclusive team environment. Here, you'll enjoy the freedom to explore new projects, the support to think outside the box and the advanced tools and technology that foster innovation and achievement. Additionally, we offer a comprehensive reward package to help you get started on your new career path, including: * Flexible work arrangements * Highly competitive base pay and performance bonuses * Savings & Retirement benefits (401K and Defined Contribution) * Healthcare benefits with a generous company contribution in the Health Savings Account * Adoption assistance * Employee Assistance Programs * Tuition assistance * Fitness subsidies and on-site gyms at specific Deere locations * Charitable contribution match * Employee Purchase Plan & numerous discount programs for personal use $113,818 - $123,818 per year + Benefits Follow this link to learn more about our Total Rewards Package https://bit.ly/3XCd8fL Please apply on-line at www.JohnDeere.com/USJobs and search for Job Posting Number 2026009 The terms of the applicable benefit plans, and all company actions administering or interpreting these plans, continue to control. Deere & Company reserves the right to suspend, amend, modify, or terminate the Plan(s) in any manner at any time, including the right to modify or eliminate any cost-sharing between the company and participants. Changes, which can be made at any time, are made by action of the company's board of directors, or to the extent authorized by resolution of its board of directors, or by the Deere & Company Compensation Committee. In the event of a conflict between the language of the official Plan Documents and this document, the language of the official Plan Documents will control. ACA Section 1557 Nondiscrimination Notice The John Deere Health Benefit Plans for Salaried Employees and The John Deere Benefit Plan for Wage Employees comply with applicable Federal civil rights laws and do not discriminate on the basis of race, religion, color, national origin, sex, age, sexual orientation, gender identity or expression, status as a protected veteran, or status as a qualified individual with disability.",
-    "score": 85,
+    "text": "Trabalhamos para que a vida possa avançar e estamos sempre à procura de pessoas inovadoras que possam contribuir com a nossa missão. Que tal fazer parte do nosso time? Local Principal: Brasil (BR) - São Paulo - Indaiatuba Função: Data and Analytics (CA) Título: Junior Data Engineer - Indaiatuba/SP - 121065 ## As a Junior Data Engineer for the John Deere Financial (JDF) group, you will join a collaborative team dedicated to supporting the data platform for advanced analytics and model building, enabling efficient customer services in areas such as automatic loan approvals. Our team partners with product managers and data practitioners to design, scale, and deliver full-stack data solutions. In this role, you will have the opportunity to learn from experienced engineers, develop your skills, and grow your career within a global environment. ## Main Responsibilities * Assist in the development of data models, data pipelines, and basic REST APIs to provide data to downstream systems; * Participate in debugging, fixing application issues, and performing basic root cause analysis under guidance; * Learn and follow test-driven development (TDD) approaches and clean code principles; * Support the team in maintaining data pipeline security frameworks and reducing technical debt; * Actively work as an Agile team member, participating in backlog refinement, sprint planning, sprint reviews, and sprint retrospectives. ## Skills You Need * Bachelor's degree in IT, Computer Science, Engineering, Data Science, or equivalent experience; * Advanced Engish: broad vocabulary, good grammar, conducts meetings, argues, negotiates and provides training; * Foundational knowledge or internship experience with ETL, Data Modeling, and SQL/NoSQL databases; * Basic understanding or academic/project experience with API Development (preferably Java/Spring Boot) and Python; * Familiarity with Git and basic DevOps/CI-CD concepts (e.g., Jenkins); * Conceptual understanding or basic exposure to Big Data tools and Cloud Environments (e.g Apache Spark, Databricks, Data Lake concepts, and AWS basic services like S3). ## What Makes You Stand Out * Passionate, curious, and a strong desire to learn new complex technical areas; * Collaborative mindset with a focus on product quality and team success; * Familiarity with Agile methodologies (Scrum/Kanban); * Basic exposure to AWS services (Lambda, RDS, API Gateway); * Interest or initial knowledge in modern AI trends, such as LLMs and GenAI concepts. Nossos principais benefícios * Remuneração variável; * Plano de Saúde; * Plano Odontológico; * Seguro de Vida; * Previdência Privada; * Benefício Ótica; * Reembolso vacina; * Universidade Corporativa; * TotalPass; * Dependendo da unidade, você terá restaurante no local, vale refeição ou alimentação; * Auxílio farmácia; * Entre outros #LI-Hybrid Nosso Processo Seletivo A seleção começa com a sua inscrição, para algumas vagas, existem alguns testes adicionais. Você terá a possibilidade de conhecer pessoas do time nas entrevistas! Nosso processo seletivo é flexível em termos de tempo, então não se preocupe! Nossa equipe de Talent Acquisition está comprometida em proporcionar a melhor experiência para você. Analisamos todas as candidaturas cuidadosamente e fornecemos feedback em todas as etapas do processo. Além disso, todas as orientações serão enviadas por e-mail! Sobre a John Deere A John Deere é líder global no fornecimento de produtos, tecnologia e serviços avançados para clientes que desempenham um papel essencial na agricultura, construção, florestal entre outros setores. Nosso objetivo é atender à crescente necessidade mundial de alimentos, combustível, abrigo e infraestrutura, enquanto promove a sustentabilidade e a preservação do planeta que chamamos de lar. Inovamos para impulsionar a produtividade e proteger nosso planeta e convidamos você a fazer parte dessa história. Trabalharemos juntos para criar, testar, superar para que para que a vida possa avançar. 💚🚜",
+    "score": 71,
     "isMatch": true,
     "isEng": true,
     "java": true,
     "flutter": false,
-    "android": true,
-    "india": false,
-    "senior": false,
-    "junior": false,
-    "exp": [
-     [
-      3,
-      4
-     ],
-     [
-      2,
-      3
-     ],
-     [
-      1,
-      2
-     ]
-    ],
-    "expFits2": true
-   }
-  ],
-  "nearMatches": [
-   {
-    "title": "Part-Time Student - Software Engineer - Moline, IL",
-    "location": "Moline, IL,US",
-    "url": "http://careers.deere.com/careers/job/137480957123-part-time-student-software-engineer-moline-il-moline-illinois-united-states?domain=johndeere.com",
-    "team": "",
-    "text": "There are over 7 billion people on this planet. And by 2050, there will be 2 billion more... many moving into urban centers at an unprecedented rate. Making sure there is enough food, fiber and infrastructure for our rapidly growing world is what we're all about at John Deere. And it's why we're investing in our people and our technology like never before! Here the world's brightest minds are tackling the world's biggest challenges. If you believe one person can make the world a better place, we'll put you to work. RIGHT NOW. John Deere is an equal opportunity employer, including disabled & veterans. Primary Location: United States (US) - Illinois - Moline Function: Technology (CA) Title: Part-Time Student - Software Engineer - Moline, IL - 120790 Onsite/Remote:Onsite Position Note: Relocation assistance is not provided. The Part-Time Student Program is primarily designed to augment the Company’s regular full-time staff and is for students who work in parallel to their school schedule YEAR-ROUND. ## Your Responsibilities As a Part Time Student for John Deere World Headquarters located in Moline, IL, you will: * Design, implement, and operationalize systems using large language models (LLMs) and multimodal models, This position is NOT available to students on immigration visas ## What Skills You Need * Ideally, pursuing a degree in Computer Science, Computer Engineering, or others may apply. * Must be registered as a full-time student at a local accredited university. * Graduation date of Spring 2028 or later. * Cumulative GPA of 2.8 or above. * Available to work 16-20 hours/week during the academic year. * Available to work 30-40 hours/week during the summer semester. * Build and integrate LLM-powered features, including retrieval-augmented generation (RAG), agent frameworks, tool use, and conversational interfaces. * Evaluate and implement open-source and commercial foundation models (text, code, image, multimodal). * Develop embedding pipelines, vector search, and hybrid search strategies. * Must be able to commute to the work location on scheduled workdays. ## What Makes You Stand Out * Familiarity with orchestration frameworks such as LangChain, Semantic Kernel, or LlamaIndex. * Proficiency in Python (preferred) and Java, with hands-on experience in LLM workflows. * Familiarity with cloud platforms (Azure, AWS) and containerization (Docker, Kubernetes). * Strong software engineering fundamentals in distributed systems, API development, and performance optimization. * Experience building microservices, event-driven systems, or real-time inference services. * Strong understanding of CI/CD, testing strategies for AI systems, and observability tools At John Deere, you are empowered to create a career that will take you to where you want to go while working in an inclusive team environment. Here, you'll enjoy the freedom to explore new projects, the support to think outside the box and the advanced tools and technology that foster innovation and achievement. Additionally, we offer a comprehensive reward package to help you get started on your new career path, including: * Flexible work arrangements * Highly competitive base pay * Savings & Retirement benefits (401K and Defined Benefit Pension) * Healthcare benefits with a generous company contribution in the Health Savings Account * Adoption assistance * Employee Assistance Programs * Tuition assistance * Fitness subsidies and on-site gyms at specific Deere locations * Charitable contribution match * Employee Purchase Plan & numerous discount programs for personal use * Vacation and Holiday Pay $15 - $40 hourly based on published rates for business function and education level. Follow this link to learn more about our Total Rewards Package https://bit.ly/3XCd8fL Must be 18 years of age or older to apply The information contained herein is not intended to be an exhaustive list of all responsibilities and qualifications required of individuals performing the job. The qualifications detailed in this job description are not considered the minimum requirements necessary to perform the job, but rather as guidelines. The terms of the applicable benefit plans, and all company actions administering or interpreting these plans, continue to control. Deere & Company reserves the right to suspend, amend, modify, or terminate the Plan(s) in any manner at any time, including the right to modify or eliminate any cost-sharing between the company and participants. Changes, which can be made at any time, are made by action of the company's board of directors, or to the extent authorized by resolution of its board of directors, or by the Deere & Company Compensation Committee. In the event of a conflict between the language of the official Plan Documents and this document, the language of the official Plan Documents will control. ACA Section 1557 Nondiscrimination Notice The John Deere Health Benefit Plans for Salaried Employees and The John Deere Benefit Plan for Wage Employees comply with applicable Federal civil rights laws and do not discriminate on the basis of race, religion, color, national origin, sex, age, sexual orientation, gender identity or expression, status as a protected veteran, or status as a qualified individual with disability.",
-    "score": 59,
-    "isMatch": false,
-    "isEng": true,
-    "java": true,
-    "flutter": false,
     "android": false,
     "india": false,
     "senior": false,
-    "junior": false,
-    "exp": [],
-    "expFits2": false
-   },
-   {
-    "title": "Software Engineer",
-    "location": "Johnston, IA,US",
-    "url": "http://careers.deere.com/careers/job/137481764113-software-engineer-johnston-iowa-united-states?domain=johndeere.com",
-    "team": "",
-    "text": "There are over 7 billion people on this planet. And by 2050, there will be 2 billion more... many moving into urban centers at an unprecedented rate. Making sure there is enough food, fiber and infrastructure for our rapidly growing world is what we're all about at John Deere. And it's why we're investing in our people and our technology like never before! Here the world's brightest minds are tackling the world's biggest challenges. If you believe one person can make the world a better place, we'll put you to work. RIGHT NOW. ##### John Deere is an equal opportunity employer, including disabled & veterans. Primary Location: United States (US) - Iowa - Johnston Function: Technology (CA) Title: Software Engineer - 121890 Onsite/Remote:Onsite Position ## Your Responsibilities As a full stack Software Engineer for John Deere Financial located in Johnston, IA, you will: Work on an agile product team to create and support new and existing products in support of our Origination capabilities. You will plan work, coordinate with others, write and test code to deliver moderate to highly complex functionality. Additionally, you will: * Work closely with the scrum teams and digital product owners to analyze business needs to define and refine software requirements. * Apply system development methodology to design, develop, configure, test and deploy solutions of moderate to high complexity. * Utilize a strong understanding of software development to draw out specifications for integrated solutions. * Create automated unit and integration tests and execute all other testing-related tasks against a user story’s acceptance criteria. * Create and maintain system documentation. * Provide production support for team products including all integrations. VISA Sponsorship is NOT available for this position ## What Skills You Need * 3 or more years of full stack, hands-on development experience using technologies such as Java, Spring, React, Node, or TypeScript * Experience building or supporting cloud-based applications, preferably using AWS services such as ECS, API Gateway, Lambda, DynamoDB or S3 * Experience with modern engineering practices, including automated testing, CI/CD, DevOps, and software automation. * Working knowledge of designing and developing service-based architectures including microservices and REST APIs. * Demonstrates strong teamwork and a willingness to share knowledge, influence best practices, and support continuous improvement within the team. * Strong analytical, interpersonal communication, negotiation, and conflict resolution skills. ## What Makes You Stand Out * Understanding of John Deere Financial Dealer or Origination domains. * Proven experience working in an Agile Scrum team environment. * Demonstrated ability to learn and deliver across multiple technology stacks. * Experience with test-driven development (TDD) and acceptance test-driven development (ATDD) utilizing tools like Junit, Cucumber, Cypress, Puppeteer, Mockito, etc. * Understanding of infrastructure as code such as Terraform or CloudFormation. * Experience with industry-standard security protocols like OAuth2, OpenID Connect etc. * Passionate about product quality and taking pride in your craft. ## Education Ideally you will have a degree or equivalent related work experience in the following: • Bachelor’s degree with equivalent experience What You'll Get At John Deere, you are empowered to create a career that will take you to where you want to go while working in an inclusive team environment. Here, you'll enjoy the freedom to explore new projects, the support to think outside the box and the advanced tools and technology that foster innovation and achievement. Additionally, we offer a comprehensive reward package to help you get started on your new career path, including: * Flexible work arrangements * Highly competitive base pay * Savings & Retirement benefits (401K and Defined Contribution) * Healthcare benefits with a generous company contribution in the Health Savings Account * Adoption assistance * Employee Assistance Programs * Tuition assistance * Fitness subsidies and on-site gyms at specific Deere locations * Charitable contribution match * Employee Purchase Plan & numerous discount programs for personal use * Vacation and Holiday Pay $86,892.00 - $130,332.00 + Benefits Follow this link to learn more about our Total Rewards Package https://bit.ly/3XCd8fL Must be 18 years of age or older to apply The information contained herein is not intended to be an exhaustive list of all responsibilities and qualifications required of individuals performing the job. The qualifications detailed in this job description are not considered the minimum requirements necessary to perform the job, but rather as guidelines. The terms of the applicable benefit plans, and all company actions administering or interpreting these plans, continue to control. Deere & Company reserves the right to suspend, amend, modify, or terminate the Plan(s) in any manner at any time, including the right to modify or eliminate any cost-sharing between the company and participants. Changes, which can be made at any time, are made by action of the company's board of directors, or to the extent authorized by resolution of its board of directors, or by the Deere & Company Compensation Committee. In the event of a conflict between the language of the official Plan Documents and this document, the language of the official Plan Documents will control. ACA Section 1557 Nondiscrimination Notice The John Deere Health Benefit Plans for Salaried Employees and The John Deere Benefit Plan for Wage Employees comply with applicable Federal civil rights laws and do not discriminate on the basis of race, religion, color, national origin, sex, age, sexual orientation, gender identity or expression, status as a protected veteran, or status as a qualified individual with disability.",
-    "score": 59,
-    "isMatch": false,
-    "isEng": true,
-    "java": true,
-    "flutter": false,
-    "android": false,
-    "india": false,
-    "senior": false,
-    "junior": false,
+    "junior": true,
+    "intern": false,
     "exp": [],
     "expFits2": false
    }
   ],
+  "nearMatches": [],
   "closest": {
-   "title": "2026009 - Software Engineer",
-   "location": "Moline, IL,US",
-   "url": "http://careers.deere.com/careers/job/137480406941-2026009-software-engineer-moline-illinois-united-states?domain=johndeere.com",
+   "title": "Junior Data Engineer - Indaiatuba/SP",
+   "location": "Indaiatuba, SP,BR",
+   "url": "http://careers.deere.com/careers/job/137481060668-junior-data-engineer-indaiatuba-sp-indaiatuba-sao-paulo-brazil?domain=johndeere.com",
    "team": "",
-   "text": "There are over 7 billion people on this planet. And by 2050, there will be 2 billion more... many moving into urban centers at an unprecedented rate. Making sure there is enough food, fiber and infrastructure for our rapidly growing world is what we're all about at John Deere. And it's why we're investing in our people and our technology like never before! Here the world's brightest minds are tackling the world's biggest challenges. If you believe one person can make the world a better place, we'll put you to work. RIGHT NOW. John Deere is an equal opportunity employer. All qualified applicants will receive consideration for employment without regards to, among other things, race, religion, color, national origin, sex, age, sexual orientation, gender identity or expression, status as a protected veteran, or status as a qualified individual with disability. Primary Location: United States (US) – IL – Moline Function: Technology Title: Software Engineer - 2026009 Onsite/Remote: Onsite Position Your Responsibilities As a Software Engineer for John Deere in Moline, IL, you will: * Participate in full development life cycle defining needs of client, providing input for functional design, manual and automatic integration testing; * Implement loosely coupled resilient microservices; * High availability systems are developed to provide continuous and uninterrupted service to the end customer by using cloud services; * Test newly developed software to optimize computer system workflow and document software solutions; * Involve in high level design and code reviews and identify basic issues or deviations from best practices; * Developing knowledge of assigned solution, technologies, development processes and ecosystem; * Improving continuous deployment process following automated process and best practices. * 20% remote work allowed. Up to 20% domestic and international travel required to meet clients and visit factories. What Skills You Need * 3 years of experience in Java 11 or above to build microservices using Spring Framework, SpringBoot, Spring security, Hibernate and JPA annotations * 2 years of experience in Amazon S3, AWS Lambda, CloudWatch, AWS cloud formation templates to build reliable, scalable, and inexpensive cloud computing services * 3 years of experience in Java Script, CSS, jQuery, React JS with Redux to build re-usable and good maintenance services for keeping the application running quickly and dynamically * 3 years of experience in Docker to containerize the services and Kubernetes to Orchestrate these services * 3 years of experience in OAuth 2.0 to provide authentication and authorization to RESTFUL services by exchanging JWT tokens * 3 years of expertise in OOPS concept and designing data structures and algorithms in a clear, concise, and elegant way using data structures and algorithms * 3 years of experience in using relational database PostgreSQL; * 1 year of experience in Cross-platform mobile development (e.g. Xamarin) for near–real-time tracking apps with high-volume mission-critical data and embedded maps; iOS, Android, Window * 6 months of experience in mapping API integration (e.g. Google Maps) for routing and geocoding, optimized for high-volume geospatial data and performance * 6 months years of experience in secure application development enforcing complex business rules and role-based data access and code quality using Veracode and SonarQube * 6 months years of experience in large-scale data processing using Databricks with Python and SQL for analytics and insights * 6 months years of experience in unified service portal development using Next.js 14, React 18, and Node 18, delivering role based workflows * 6 months years of experience in feature driven UX and access control using LaunchDarkly, with role based navigation, shared React/MUI components, and localization support Education/Experience * Bachelor’s degree in Computer Science or related field plus 3 years related experience. What You'll Get At John Deere, you are empowered to create a career that will take you to where you want to go while working in an inclusive team environment. Here, you'll enjoy the freedom to explore new projects, the support to think outside the box and the advanced tools and technology that foster innovation and achievement. Additionally, we offer a comprehensive reward package to help you get started on your new career path, including: * Flexible work arrangements * Highly competitive base pay and performance bonuses * Savings & Retirement benefits (401K and Defined Contribution) * Healthcare benefits with a generous company contribution in the Health Savings Account * Adoption assistance * Employee Assistance Programs * Tuition assistance * Fitness subsidies and on-site gyms at specific Deere locations * Charitable contribution match * Employee Purchase Plan & numerous discount programs for personal use $113,818 - $123,818 per year + Benefits Follow this link to learn more about our Total Rewards Package https://bit.ly/3XCd8fL Please apply on-line at www.JohnDeere.com/USJobs and search for Job Posting Number 2026009 The terms of the applicable benefit plans, and all company actions administering or interpreting these plans, continue to control. Deere & Company reserves the right to suspend, amend, modify, or terminate the Plan(s) in any manner at any time, including the right to modify or eliminate any cost-sharing between the company and participants. Changes, which can be made at any time, are made by action of the company's board of directors, or to the extent authorized by resolution of its board of directors, or by the Deere & Company Compensation Committee. In the event of a conflict between the language of the official Plan Documents and this document, the language of the official Plan Documents will control. ACA Section 1557 Nondiscrimination Notice The John Deere Health Benefit Plans for Salaried Employees and The John Deere Benefit Plan for Wage Employees comply with applicable Federal civil rights laws and do not discriminate on the basis of race, religion, color, national origin, sex, age, sexual orientation, gender identity or expression, status as a protected veteran, or status as a qualified individual with disability.",
-   "score": 85,
+   "text": "Trabalhamos para que a vida possa avançar e estamos sempre à procura de pessoas inovadoras que possam contribuir com a nossa missão. Que tal fazer parte do nosso time? Local Principal: Brasil (BR) - São Paulo - Indaiatuba Função: Data and Analytics (CA) Título: Junior Data Engineer - Indaiatuba/SP - 121065 ## As a Junior Data Engineer for the John Deere Financial (JDF) group, you will join a collaborative team dedicated to supporting the data platform for advanced analytics and model building, enabling efficient customer services in areas such as automatic loan approvals. Our team partners with product managers and data practitioners to design, scale, and deliver full-stack data solutions. In this role, you will have the opportunity to learn from experienced engineers, develop your skills, and grow your career within a global environment. ## Main Responsibilities * Assist in the development of data models, data pipelines, and basic REST APIs to provide data to downstream systems; * Participate in debugging, fixing application issues, and performing basic root cause analysis under guidance; * Learn and follow test-driven development (TDD) approaches and clean code principles; * Support the team in maintaining data pipeline security frameworks and reducing technical debt; * Actively work as an Agile team member, participating in backlog refinement, sprint planning, sprint reviews, and sprint retrospectives. ## Skills You Need * Bachelor's degree in IT, Computer Science, Engineering, Data Science, or equivalent experience; * Advanced Engish: broad vocabulary, good grammar, conducts meetings, argues, negotiates and provides training; * Foundational knowledge or internship experience with ETL, Data Modeling, and SQL/NoSQL databases; * Basic understanding or academic/project experience with API Development (preferably Java/Spring Boot) and Python; * Familiarity with Git and basic DevOps/CI-CD concepts (e.g., Jenkins); * Conceptual understanding or basic exposure to Big Data tools and Cloud Environments (e.g Apache Spark, Databricks, Data Lake concepts, and AWS basic services like S3). ## What Makes You Stand Out * Passionate, curious, and a strong desire to learn new complex technical areas; * Collaborative mindset with a focus on product quality and team success; * Familiarity with Agile methodologies (Scrum/Kanban); * Basic exposure to AWS services (Lambda, RDS, API Gateway); * Interest or initial knowledge in modern AI trends, such as LLMs and GenAI concepts. Nossos principais benefícios * Remuneração variável; * Plano de Saúde; * Plano Odontológico; * Seguro de Vida; * Previdência Privada; * Benefício Ótica; * Reembolso vacina; * Universidade Corporativa; * TotalPass; * Dependendo da unidade, você terá restaurante no local, vale refeição ou alimentação; * Auxílio farmácia; * Entre outros #LI-Hybrid Nosso Processo Seletivo A seleção começa com a sua inscrição, para algumas vagas, existem alguns testes adicionais. Você terá a possibilidade de conhecer pessoas do time nas entrevistas! Nosso processo seletivo é flexível em termos de tempo, então não se preocupe! Nossa equipe de Talent Acquisition está comprometida em proporcionar a melhor experiência para você. Analisamos todas as candidaturas cuidadosamente e fornecemos feedback em todas as etapas do processo. Além disso, todas as orientações serão enviadas por e-mail! Sobre a John Deere A John Deere é líder global no fornecimento de produtos, tecnologia e serviços avançados para clientes que desempenham um papel essencial na agricultura, construção, florestal entre outros setores. Nosso objetivo é atender à crescente necessidade mundial de alimentos, combustível, abrigo e infraestrutura, enquanto promove a sustentabilidade e a preservação do planeta que chamamos de lar. Inovamos para impulsionar a produtividade e proteger nosso planeta e convidamos você a fazer parte dessa história. Trabalharemos juntos para criar, testar, superar para que para que a vida possa avançar. 💚🚜",
+   "score": 71,
    "isMatch": true,
    "isEng": true,
    "java": true,
    "flutter": false,
-   "android": true,
+   "android": false,
    "india": false,
    "senior": false,
-   "junior": false,
-   "exp": [
-    [
-     3,
-     4
-    ],
-    [
-     2,
-     3
-    ],
-    [
-     1,
-     2
-    ]
-   ],
-   "expFits2": true
+   "junior": true,
+   "intern": false,
+   "exp": [],
+   "expFits2": false
   },
   "closestEng": {
-   "title": "2026009 - Software Engineer",
-   "location": "Moline, IL,US",
-   "url": "http://careers.deere.com/careers/job/137480406941-2026009-software-engineer-moline-illinois-united-states?domain=johndeere.com",
+   "title": "Junior Data Engineer - Indaiatuba/SP",
+   "location": "Indaiatuba, SP,BR",
+   "url": "http://careers.deere.com/careers/job/137481060668-junior-data-engineer-indaiatuba-sp-indaiatuba-sao-paulo-brazil?domain=johndeere.com",
    "team": "",
-   "text": "There are over 7 billion people on this planet. And by 2050, there will be 2 billion more... many moving into urban centers at an unprecedented rate. Making sure there is enough food, fiber and infrastructure for our rapidly growing world is what we're all about at John Deere. And it's why we're investing in our people and our technology like never before! Here the world's brightest minds are tackling the world's biggest challenges. If you believe one person can make the world a better place, we'll put you to work. RIGHT NOW. John Deere is an equal opportunity employer. All qualified applicants will receive consideration for employment without regards to, among other things, race, religion, color, national origin, sex, age, sexual orientation, gender identity or expression, status as a protected veteran, or status as a qualified individual with disability. Primary Location: United States (US) – IL – Moline Function: Technology Title: Software Engineer - 2026009 Onsite/Remote: Onsite Position Your Responsibilities As a Software Engineer for John Deere in Moline, IL, you will: * Participate in full development life cycle defining needs of client, providing input for functional design, manual and automatic integration testing; * Implement loosely coupled resilient microservices; * High availability systems are developed to provide continuous and uninterrupted service to the end customer by using cloud services; * Test newly developed software to optimize computer system workflow and document software solutions; * Involve in high level design and code reviews and identify basic issues or deviations from best practices; * Developing knowledge of assigned solution, technologies, development processes and ecosystem; * Improving continuous deployment process following automated process and best practices. * 20% remote work allowed. Up to 20% domestic and international travel required to meet clients and visit factories. What Skills You Need * 3 years of experience in Java 11 or above to build microservices using Spring Framework, SpringBoot, Spring security, Hibernate and JPA annotations * 2 years of experience in Amazon S3, AWS Lambda, CloudWatch, AWS cloud formation templates to build reliable, scalable, and inexpensive cloud computing services * 3 years of experience in Java Script, CSS, jQuery, React JS with Redux to build re-usable and good maintenance services for keeping the application running quickly and dynamically * 3 years of experience in Docker to containerize the services and Kubernetes to Orchestrate these services * 3 years of experience in OAuth 2.0 to provide authentication and authorization to RESTFUL services by exchanging JWT tokens * 3 years of expertise in OOPS concept and designing data structures and algorithms in a clear, concise, and elegant way using data structures and algorithms * 3 years of experience in using relational database PostgreSQL; * 1 year of experience in Cross-platform mobile development (e.g. Xamarin) for near–real-time tracking apps with high-volume mission-critical data and embedded maps; iOS, Android, Window * 6 months of experience in mapping API integration (e.g. Google Maps) for routing and geocoding, optimized for high-volume geospatial data and performance * 6 months years of experience in secure application development enforcing complex business rules and role-based data access and code quality using Veracode and SonarQube * 6 months years of experience in large-scale data processing using Databricks with Python and SQL for analytics and insights * 6 months years of experience in unified service portal development using Next.js 14, React 18, and Node 18, delivering role based workflows * 6 months years of experience in feature driven UX and access control using LaunchDarkly, with role based navigation, shared React/MUI components, and localization support Education/Experience * Bachelor’s degree in Computer Science or related field plus 3 years related experience. What You'll Get At John Deere, you are empowered to create a career that will take you to where you want to go while working in an inclusive team environment. Here, you'll enjoy the freedom to explore new projects, the support to think outside the box and the advanced tools and technology that foster innovation and achievement. Additionally, we offer a comprehensive reward package to help you get started on your new career path, including: * Flexible work arrangements * Highly competitive base pay and performance bonuses * Savings & Retirement benefits (401K and Defined Contribution) * Healthcare benefits with a generous company contribution in the Health Savings Account * Adoption assistance * Employee Assistance Programs * Tuition assistance * Fitness subsidies and on-site gyms at specific Deere locations * Charitable contribution match * Employee Purchase Plan & numerous discount programs for personal use $113,818 - $123,818 per year + Benefits Follow this link to learn more about our Total Rewards Package https://bit.ly/3XCd8fL Please apply on-line at www.JohnDeere.com/USJobs and search for Job Posting Number 2026009 The terms of the applicable benefit plans, and all company actions administering or interpreting these plans, continue to control. Deere & Company reserves the right to suspend, amend, modify, or terminate the Plan(s) in any manner at any time, including the right to modify or eliminate any cost-sharing between the company and participants. Changes, which can be made at any time, are made by action of the company's board of directors, or to the extent authorized by resolution of its board of directors, or by the Deere & Company Compensation Committee. In the event of a conflict between the language of the official Plan Documents and this document, the language of the official Plan Documents will control. ACA Section 1557 Nondiscrimination Notice The John Deere Health Benefit Plans for Salaried Employees and The John Deere Benefit Plan for Wage Employees comply with applicable Federal civil rights laws and do not discriminate on the basis of race, religion, color, national origin, sex, age, sexual orientation, gender identity or expression, status as a protected veteran, or status as a qualified individual with disability.",
-   "score": 85,
+   "text": "Trabalhamos para que a vida possa avançar e estamos sempre à procura de pessoas inovadoras que possam contribuir com a nossa missão. Que tal fazer parte do nosso time? Local Principal: Brasil (BR) - São Paulo - Indaiatuba Função: Data and Analytics (CA) Título: Junior Data Engineer - Indaiatuba/SP - 121065 ## As a Junior Data Engineer for the John Deere Financial (JDF) group, you will join a collaborative team dedicated to supporting the data platform for advanced analytics and model building, enabling efficient customer services in areas such as automatic loan approvals. Our team partners with product managers and data practitioners to design, scale, and deliver full-stack data solutions. In this role, you will have the opportunity to learn from experienced engineers, develop your skills, and grow your career within a global environment. ## Main Responsibilities * Assist in the development of data models, data pipelines, and basic REST APIs to provide data to downstream systems; * Participate in debugging, fixing application issues, and performing basic root cause analysis under guidance; * Learn and follow test-driven development (TDD) approaches and clean code principles; * Support the team in maintaining data pipeline security frameworks and reducing technical debt; * Actively work as an Agile team member, participating in backlog refinement, sprint planning, sprint reviews, and sprint retrospectives. ## Skills You Need * Bachelor's degree in IT, Computer Science, Engineering, Data Science, or equivalent experience; * Advanced Engish: broad vocabulary, good grammar, conducts meetings, argues, negotiates and provides training; * Foundational knowledge or internship experience with ETL, Data Modeling, and SQL/NoSQL databases; * Basic understanding or academic/project experience with API Development (preferably Java/Spring Boot) and Python; * Familiarity with Git and basic DevOps/CI-CD concepts (e.g., Jenkins); * Conceptual understanding or basic exposure to Big Data tools and Cloud Environments (e.g Apache Spark, Databricks, Data Lake concepts, and AWS basic services like S3). ## What Makes You Stand Out * Passionate, curious, and a strong desire to learn new complex technical areas; * Collaborative mindset with a focus on product quality and team success; * Familiarity with Agile methodologies (Scrum/Kanban); * Basic exposure to AWS services (Lambda, RDS, API Gateway); * Interest or initial knowledge in modern AI trends, such as LLMs and GenAI concepts. Nossos principais benefícios * Remuneração variável; * Plano de Saúde; * Plano Odontológico; * Seguro de Vida; * Previdência Privada; * Benefício Ótica; * Reembolso vacina; * Universidade Corporativa; * TotalPass; * Dependendo da unidade, você terá restaurante no local, vale refeição ou alimentação; * Auxílio farmácia; * Entre outros #LI-Hybrid Nosso Processo Seletivo A seleção começa com a sua inscrição, para algumas vagas, existem alguns testes adicionais. Você terá a possibilidade de conhecer pessoas do time nas entrevistas! Nosso processo seletivo é flexível em termos de tempo, então não se preocupe! Nossa equipe de Talent Acquisition está comprometida em proporcionar a melhor experiência para você. Analisamos todas as candidaturas cuidadosamente e fornecemos feedback em todas as etapas do processo. Além disso, todas as orientações serão enviadas por e-mail! Sobre a John Deere A John Deere é líder global no fornecimento de produtos, tecnologia e serviços avançados para clientes que desempenham um papel essencial na agricultura, construção, florestal entre outros setores. Nosso objetivo é atender à crescente necessidade mundial de alimentos, combustível, abrigo e infraestrutura, enquanto promove a sustentabilidade e a preservação do planeta que chamamos de lar. Inovamos para impulsionar a produtividade e proteger nosso planeta e convidamos você a fazer parte dessa história. Trabalharemos juntos para criar, testar, superar para que para que a vida possa avançar. 💚🚜",
+   "score": 71,
    "isMatch": true,
    "isEng": true,
    "java": true,
    "flutter": false,
-   "android": true,
+   "android": false,
    "india": false,
    "senior": false,
-   "junior": false,
-   "exp": [
-    [
-     3,
-     4
-    ],
-    [
-     2,
-     3
-    ],
-    [
-     1,
-     2
-    ]
-   ],
-   "expFits2": true
+   "junior": true,
+   "intern": false,
+   "exp": [],
+   "expFits2": false
   },
   "trace": {
    "pages": [
@@ -1513,7 +1468,7 @@
     "workable:deere -> no board"
    ]
   },
-  "ms": 45986
+  "ms": 44643
  },
  {
   "company": "Johnson Controls India",
@@ -2600,21 +2555,6 @@
     "title": "Associate Procurement Controller",
     "location": "San Pedro Garza Garcia-Nuevo Leon-Mexico",
     "url": "https://jci.wd5.myworkdayjobs.com/JCI/job/San-Pedro-Garza-Garcia-Nuevo-Leon-Mexico/Associate-Procurement-Controller_WD30276339",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 16
-   },
-   {
-    "title": "BMS Technician Trainee",
-    "location": "Sydney-New South Wales-Australia",
-    "url": "https://jci.wd5.myworkdayjobs.com/JCI/job/Sydney-New-South-Wales-Australia/BMS-Trainee_WD30260794",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
@@ -3842,21 +3782,6 @@
     "score": 4
    },
    {
-    "title": "HVAC Operations & Maintenance Mechanic Apprentice (union)",
-    "location": "Metairie-Louisiana-United States of America",
-    "url": "https://jci.wd5.myworkdayjobs.com/JCI/job/Metairie-Louisiana-United-States-of-America/HVAC-Operations---Maintenance-Mechanic-Apprentice---union-_WD30275450",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 4
-   },
-   {
     "title": "Fire Area Service Support Coord",
     "location": "Huntington Beach-California-United States of America",
     "url": "https://jci.wd5.myworkdayjobs.com/JCI/job/Huntington-Beach-California-United-States-of-America/Fire-Area-Service-Support-Coord_WD30275927-1",
@@ -4205,21 +4130,6 @@
     "title": "Ayudante técnico HVAC",
     "location": "San Jose-San Jose-Costa Rica",
     "url": "https://jci.wd5.myworkdayjobs.com/JCI/job/San-Jose-San-Jose-Costa-Rica/Tcnico-HVAC-II_WD30276088",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 4
-   },
-   {
-    "title": "HVAC Truck Based Chiller Apprentice (union)",
-    "location": "San Antonio-Texas-United States of America",
-    "url": "https://jci.wd5.myworkdayjobs.com/JCI/job/San-Antonio-Texas-United-States-of-America/HVAC-Truck-Based-Chiller-Mechanic-Apprentice--union-_WD30276350",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
@@ -4775,21 +4685,6 @@
     "title": "Kitchen Inspection Suppression Technician",
     "location": "Brampton-Ontario-Canada",
     "url": "https://jci.wd5.myworkdayjobs.com/JCI/job/Brampton-Ontario-Canada/Kitchen-Inspection-Suppression-Technician_WD30275896",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 4
-   },
-   {
-    "title": "Sprinkler Systems Apprentice",
-    "location": "Linthicum-Maryland-United States of America",
-    "url": "https://jci.wd5.myworkdayjobs.com/JCI/job/Linthicum-Maryland-United-States-of-America/Sprinkler-Systems-Apprentice_WD30268083",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
@@ -5552,21 +5447,6 @@
     "score": 4
    },
    {
-    "title": "Plumbing Apprentice 3rd (Weekend Nights)",
-    "location": "Nisku-Alberta-Canada",
-    "url": "https://jci.wd5.myworkdayjobs.com/JCI/job/Nisku-Alberta-Canada/Plumber-Apprentice-3rd--Weekday-Nights-_WD30275965",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 4
-   },
-   {
     "title": "Fire Maintenance Agreement Sales Representative 2",
     "location": "Tulsa-Oklahoma-United States of America",
     "url": "https://jci.wd5.myworkdayjobs.com/JCI/job/Tulsa-Oklahoma-United-States-of-America/New-PSA-Service-Sales-Representative-2_WD30275969",
@@ -6065,21 +5945,6 @@
     "title": "Fire Suppression Technician",
     "location": "Johnson City-Tennessee-United States of America",
     "url": "https://jci.wd5.myworkdayjobs.com/JCI/job/Johnson-City-Tennessee-United-States-of-America/Fire-Suppression-Technician_WD30276077",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 4
-   },
-   {
-    "title": "Sprinkler Systems Apprentice",
-    "location": "Johnson City-Tennessee-United States of America",
-    "url": "https://jci.wd5.myworkdayjobs.com/JCI/job/Johnson-City-Tennessee-United-States-of-America/Sprinkler-Systems-Apprentice_WD30275647-1",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
@@ -7560,6 +7425,96 @@
     "exp": [],
     "expFits2": false,
     "score": -18
+   },
+   {
+    "title": "HVAC Operations & Maintenance Mechanic Apprentice (union)",
+    "location": "Metairie-Louisiana-United States of America",
+    "url": "https://jci.wd5.myworkdayjobs.com/JCI/job/Metairie-Louisiana-United-States-of-America/HVAC-Operations---Maintenance-Mechanic-Apprentice---union-_WD30275450",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": -36
+   },
+   {
+    "title": "HVAC Truck Based Chiller Apprentice (union)",
+    "location": "San Antonio-Texas-United States of America",
+    "url": "https://jci.wd5.myworkdayjobs.com/JCI/job/San-Antonio-Texas-United-States-of-America/HVAC-Truck-Based-Chiller-Mechanic-Apprentice--union-_WD30276350",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": -36
+   },
+   {
+    "title": "BMS Technician Trainee",
+    "location": "Sydney-New South Wales-Australia",
+    "url": "https://jci.wd5.myworkdayjobs.com/JCI/job/Sydney-New-South-Wales-Australia/BMS-Trainee_WD30260794",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": -36
+   },
+   {
+    "title": "Sprinkler Systems Apprentice",
+    "location": "Linthicum-Maryland-United States of America",
+    "url": "https://jci.wd5.myworkdayjobs.com/JCI/job/Linthicum-Maryland-United-States-of-America/Sprinkler-Systems-Apprentice_WD30268083",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": -36
+   },
+   {
+    "title": "Plumbing Apprentice 3rd (Weekend Nights)",
+    "location": "Nisku-Alberta-Canada",
+    "url": "https://jci.wd5.myworkdayjobs.com/JCI/job/Nisku-Alberta-Canada/Plumber-Apprentice-3rd--Weekday-Nights-_WD30275965",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": -36
+   },
+   {
+    "title": "Sprinkler Systems Apprentice",
+    "location": "Johnson City-Tennessee-United States of America",
+    "url": "https://jci.wd5.myworkdayjobs.com/JCI/job/Johnson-City-Tennessee-United-States-of-America/Sprinkler-Systems-Apprentice_WD30275647-1",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": -36
    }
   ],
   "enriched": 10,
@@ -7583,6 +7538,7 @@
     "india": false,
     "senior": false,
     "junior": false,
+    "intern": false,
     "exp": [],
     "expFits2": false
    }
@@ -7604,6 +7560,7 @@
    "india": true,
    "senior": false,
    "junior": true,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -7624,6 +7581,7 @@
    "india": true,
    "senior": false,
    "junior": true,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -7643,7 +7601,7 @@
     {
      "url": "https://johnsoncontrols.com/career",
      "status": 200,
-     "bytes": 239740
+     "bytes": 239743
     },
     {
      "url": "https://johnsoncontrols.com/jobs",
@@ -7653,12 +7611,12 @@
     {
      "url": "https://johnsoncontrols.com/join-us",
      "status": 200,
-     "bytes": 239738
+     "bytes": 239741
     },
     {
      "url": "https://johnsoncontrols.com/join-our-team",
      "status": 200,
-     "bytes": 239741
+     "bytes": 239740
     },
     {
      "url": "https://johnsoncontrols.com/careers.html",
@@ -7668,22 +7626,22 @@
     {
      "url": "https://johnsoncontrols.com/company/careers",
      "status": 200,
-     "bytes": 239741
+     "bytes": 239743
     },
     {
      "url": "https://johnsoncontrols.com/about/careers",
      "status": 200,
-     "bytes": 239742
+     "bytes": 239743
     },
     {
      "url": "https://johnsoncontrols.com/current-openings",
      "status": 200,
-     "bytes": 239741
+     "bytes": 239742
     },
     {
      "url": "https://johnsoncontrols.com/",
      "status": 200,
-     "bytes": 253606
+     "bytes": 253608
     }
    ],
    "candidates": [
@@ -7698,7 +7656,7 @@
     "workday:jci -> 400 jobs"
    ]
   },
-  "ms": 48685
+  "ms": 51391
  },
  {
   "company": "Jaro Education",
@@ -7781,6 +7739,7 @@
    "india": true,
    "senior": true,
    "junior": false,
+   "intern": false,
    "exp": [
     [
      1,
@@ -7868,7 +7827,7 @@
     "workable:jaroeducation -> no board"
    ]
   },
-  "ms": 6400
+  "ms": 7997
  },
  {
   "company": "JSW Group",
@@ -7944,7 +7903,7 @@
    "candidates": [],
    "attempts": []
   },
-  "ms": 9543
+  "ms": 14506
  },
  {
   "company": "Jar",
@@ -7957,96 +7916,6 @@
     "title": "Customer Support Associate (Voice)",
     "location": "",
     "url": "https://changejar.applytojob.com/apply/X6uhxKzkWp/Customer-Support-Associate-Voice",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 31
-   },
-   {
-    "title": "Growth Intern",
-    "location": "",
-    "url": "https://changejar.applytojob.com/apply/hnR8g5JP9i/Growth-Intern",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 31
-   },
-   {
-    "title": "Graphic Design Intern",
-    "location": "",
-    "url": "https://changejar.applytojob.com/apply/nyYpNjsxBs/Graphic-Design-Intern",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 31
-   },
-   {
-    "title": "Marketing Intern - Malayalam",
-    "location": "",
-    "url": "https://changejar.applytojob.com/apply/zEM76bv7s8/Marketing-Intern-Malayalam",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 31
-   },
-   {
-    "title": "Video Editor Intern",
-    "location": "",
-    "url": "https://changejar.applytojob.com/apply/D2RGAjxxpJ/Video-Editor-Intern",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 31
-   },
-   {
-    "title": "Videographer Intern",
-    "location": "",
-    "url": "https://changejar.applytojob.com/apply/9CIiGTjzQx/Videographer-Intern",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 31
-   },
-   {
-    "title": "Copywriter (Ads) Intern",
-    "location": "",
-    "url": "https://changejar.applytojob.com/apply/wae53QNPU1/Copywriter-Ads-Intern",
     "india": true,
     "locationSaysIndia": false,
     "hasLocation": false,
@@ -8117,6 +7986,96 @@
     "exp": [],
     "expFits2": false,
     "score": -3
+   },
+   {
+    "title": "Growth Intern",
+    "location": "",
+    "url": "https://changejar.applytojob.com/apply/hnR8g5JP9i/Growth-Intern",
+    "india": true,
+    "locationSaysIndia": false,
+    "hasLocation": false,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": -21
+   },
+   {
+    "title": "Graphic Design Intern",
+    "location": "",
+    "url": "https://changejar.applytojob.com/apply/nyYpNjsxBs/Graphic-Design-Intern",
+    "india": true,
+    "locationSaysIndia": false,
+    "hasLocation": false,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": -21
+   },
+   {
+    "title": "Marketing Intern - Malayalam",
+    "location": "",
+    "url": "https://changejar.applytojob.com/apply/zEM76bv7s8/Marketing-Intern-Malayalam",
+    "india": true,
+    "locationSaysIndia": false,
+    "hasLocation": false,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": -21
+   },
+   {
+    "title": "Video Editor Intern",
+    "location": "",
+    "url": "https://changejar.applytojob.com/apply/D2RGAjxxpJ/Video-Editor-Intern",
+    "india": true,
+    "locationSaysIndia": false,
+    "hasLocation": false,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": -21
+   },
+   {
+    "title": "Videographer Intern",
+    "location": "",
+    "url": "https://changejar.applytojob.com/apply/9CIiGTjzQx/Videographer-Intern",
+    "india": true,
+    "locationSaysIndia": false,
+    "hasLocation": false,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": -21
+   },
+   {
+    "title": "Copywriter (Ads) Intern",
+    "location": "",
+    "url": "https://changejar.applytojob.com/apply/wae53QNPU1/Copywriter-Ads-Intern",
+    "india": true,
+    "locationSaysIndia": false,
+    "hasLocation": false,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": -21
    }
   ],
   "enriched": 0,
@@ -8137,6 +8096,7 @@
    "india": true,
    "senior": false,
    "junior": true,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -8268,7 +8228,7 @@
     "jazzhr:changejar -> 11 jobs"
    ]
   },
-  "ms": 12882
+  "ms": 13021
  },
  {
   "company": "Jify",
@@ -8327,6 +8287,7 @@
    "india": true,
    "senior": true,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -8342,32 +8303,32 @@
     {
      "url": "https://jify.co/careers",
      "status": 404,
-     "bytes": 235293
+     "bytes": 235290
     },
     {
      "url": "https://jify.co/career",
      "status": 404,
-     "bytes": 235288
+     "bytes": 235289
     },
     {
      "url": "https://jify.co/jobs",
      "status": 404,
-     "bytes": 235290
+     "bytes": 235289
     },
     {
      "url": "https://jify.co/join-us",
      "status": 404,
-     "bytes": 235299
+     "bytes": 235292
     },
     {
      "url": "https://jify.co/join-our-team",
      "status": 404,
-     "bytes": 235299
+     "bytes": 235302
     },
     {
      "url": "https://jify.co/careers.html",
      "status": 404,
-     "bytes": 235302
+     "bytes": 235304
     },
     {
      "url": "https://jify.co/company/careers",
@@ -8382,7 +8343,7 @@
     {
      "url": "https://jify.co/current-openings",
      "status": 404,
-     "bytes": 235307
+     "bytes": 235306
     },
     {
      "url": "https://jify.co/",
@@ -8405,7 +8366,7 @@
     "workable:jify -> no board"
    ]
   },
-  "ms": 31250
+  "ms": 35265
  },
  {
   "company": "JoulesToWatts",
@@ -8549,7 +8510,7 @@
     "workable:joulestowatts -> no board"
    ]
   },
-  "ms": 5119
+  "ms": 6632
  },
  {
   "company": "Jumio India",
@@ -8638,6 +8599,7 @@
    "india": false,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -8657,6 +8619,7 @@
    "india": false,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -8734,7 +8697,7 @@
     "workable:jumio -> no board"
    ]
   },
-  "ms": 24980
+  "ms": 21249
  },
  {
   "company": "Jupiter Money",
@@ -9028,6 +8991,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [
     [
      3,
@@ -9051,6 +9015,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [
     [
      3,
@@ -9135,7 +9100,7 @@
     "keka:jupiter -> 12 jobs"
    ]
   },
-  "ms": 889
+  "ms": 842
  },
  {
   "company": "Josh Technology Group",
@@ -9304,6 +9269,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [
     [
      1,
@@ -9328,6 +9294,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [
     [
      1,
@@ -9491,7 +9458,7 @@
     "workable:joshtechnologygroup -> no board"
    ]
   },
-  "ms": 22816
+  "ms": 24686
  },
  {
   "company": "Jade Global",
@@ -9964,21 +9931,6 @@
     "score": 49
    },
    {
-    "title": "Data/Ai Engineer Intern",
-    "location": "Ogden, UT",
-    "url": "https://jadeglobal.wd5.myworkdayjobs.com/Jade_Careers/job/Ogden-UT/Data-Ai-Engineer-Intern_R-103685",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": true,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 46
-   },
-   {
     "title": "Automation Tester with Selenium Java Experience",
     "location": "Hyderabad, Telangana",
     "url": "https://jadeglobal.wd5.myworkdayjobs.com/Jade_Careers/job/Hyderabad-Telangana/Automation-Tester-with-Selenium-Java-Experience_R-104463",
@@ -10285,21 +10237,6 @@
     "title": "IIM Graduate Hiring",
     "location": "Pune, Maharashtra",
     "url": "https://jadeglobal.wd5.myworkdayjobs.com/Jade_Careers/job/Pune-Maharashtra/IIM-Graduate-Hiring_R-104496",
-    "india": true,
-    "locationSaysIndia": true,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 31
-   },
-   {
-    "title": "HR Intern",
-    "location": "Bengaluru, Karnataka",
-    "url": "https://jadeglobal.wd5.myworkdayjobs.com/Jade_Careers/job/Bengaluru-Karnataka/HR-Intern_R-105369",
     "india": true,
     "locationSaysIndia": true,
     "hasLocation": true,
@@ -10994,36 +10931,6 @@
     "exp": [],
     "expFits2": false,
     "score": 19
-   },
-   {
-    "title": "Integration Analyst Intern",
-    "location": "Ogden, UT",
-    "url": "https://jadeglobal.wd5.myworkdayjobs.com/Jade_Careers/job/Ogden-UT/Integration-Analyst-Intern_R-103683",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 16
-   },
-   {
-    "title": "Functional Intern",
-    "location": "Ogden, UT",
-    "url": "https://jadeglobal.wd5.myworkdayjobs.com/Jade_Careers/job/Ogden-UT/Functional-Intern_R-103661",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 16
    },
    {
     "title": "Senior Integration Developer",
@@ -12276,6 +12183,21 @@
     "score": -3
    },
    {
+    "title": "Data/Ai Engineer Intern",
+    "location": "Ogden, UT",
+    "url": "https://jadeglobal.wd5.myworkdayjobs.com/Jade_Careers/job/Ogden-UT/Data-Ai-Engineer-Intern_R-103685",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": true,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": -6
+   },
+   {
     "title": "Director Sales",
     "location": "2 Locations",
     "url": "https://jadeglobal.wd5.myworkdayjobs.com/Jade_Careers/job/North-Wales-PA/Director-Sales_R-105815",
@@ -13129,6 +13051,51 @@
     "exp": [],
     "expFits2": false,
     "score": -18
+   },
+   {
+    "title": "HR Intern",
+    "location": "Bengaluru, Karnataka",
+    "url": "https://jadeglobal.wd5.myworkdayjobs.com/Jade_Careers/job/Bengaluru-Karnataka/HR-Intern_R-105369",
+    "india": true,
+    "locationSaysIndia": true,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": -21
+   },
+   {
+    "title": "Integration Analyst Intern",
+    "location": "Ogden, UT",
+    "url": "https://jadeglobal.wd5.myworkdayjobs.com/Jade_Careers/job/Ogden-UT/Integration-Analyst-Intern_R-103683",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": -36
+   },
+   {
+    "title": "Functional Intern",
+    "location": "Ogden, UT",
+    "url": "https://jadeglobal.wd5.myworkdayjobs.com/Jade_Careers/job/Ogden-UT/Functional-Intern_R-103661",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": -36
    }
   ],
   "enriched": 10,
@@ -13151,6 +13118,7 @@
     "india": true,
     "senior": false,
     "junior": false,
+    "intern": false,
     "exp": [],
     "expFits2": false
    },
@@ -13171,6 +13139,7 @@
     "india": false,
     "senior": false,
     "junior": false,
+    "intern": false,
     "exp": [],
     "expFits2": false
    }
@@ -13192,6 +13161,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -13212,6 +13182,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -13281,7 +13252,7 @@
     "workday:jadeglobal -> 238 jobs"
    ]
   },
-  "ms": 28030
+  "ms": 17587
  },
  {
   "company": "Jindal Steel",
@@ -13354,7 +13325,7 @@
     "workable:jindalsteelpower -> no board"
    ]
   },
-  "ms": 50310
+  "ms": 33688
  },
  {
   "company": "JLR (Jaguar Land Rover)",
@@ -13424,7 +13395,7 @@
    "candidates": [],
    "attempts": []
   },
-  "ms": 23989
+  "ms": 25363
  },
  {
   "company": "Jamboree Education",
@@ -13494,7 +13465,7 @@
     {
      "url": "https://jamboreeeducation.com/",
      "status": 200,
-     "bytes": 499643
+     "bytes": 498873
     },
     {
      "url": "https://careers.www.jamboreeeducation.com",
@@ -13550,12 +13521,12 @@
     {
      "url": "https://www.jamboreeeducation.com/",
      "status": 200,
-     "bytes": 498659
+     "bytes": 498527
     },
     {
      "url": "https://www.jamboreeindia.com/career-counseling",
      "status": 200,
-     "bytes": 277866
+     "bytes": 277639
     },
     {
      "url": "https://www.jamboreeindia.com/work-with-us",
@@ -13578,7 +13549,7 @@
     "workable:jamboreeeducation -> no board"
    ]
   },
-  "ms": 33514
+  "ms": 22523
  },
  {
   "company": "Janitri",
@@ -13667,6 +13638,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -13745,7 +13717,7 @@
     "workable:janitri -> no board"
    ]
   },
-  "ms": 5005
+  "ms": 8374
  },
  {
   "company": "Jaypee Group",
@@ -13763,7 +13735,7 @@
    "pages": [],
    "attempts": []
   },
-  "ms": 90003
+  "ms": 90002
  },
  {
   "company": "Jeavio",
@@ -13914,7 +13886,7 @@
     "workable:jeavio -> no board"
    ]
   },
-  "ms": 36148
+  "ms": 45092
  },
  {
   "company": "Jio Haptik",
@@ -13973,7 +13945,7 @@
     "workable:haptik -> no board"
    ]
   },
-  "ms": 25720
+  "ms": 26152
  },
  {
   "company": "DaVinci Commerce (Jivox)",
@@ -13995,7 +13967,7 @@
     "senior": false,
     "exp": [],
     "expFits2": false,
-    "score": 16
+    "score": -36
    },
    {
     "title": "TECHNICAL WRITER INTERN",
@@ -14010,7 +13982,7 @@
     "senior": false,
     "exp": [],
     "expFits2": false,
-    "score": 16
+    "score": -36
    }
   ],
   "enriched": 0,
@@ -14022,7 +13994,7 @@
    "url": "https://davincicommerce.ai/careers/associate-analyst-intern/",
    "team": "",
    "text": "ASSOCIATE ANALYST INTERN",
-   "score": 16,
+   "score": -36,
    "isMatch": false,
    "isEng": false,
    "java": false,
@@ -14031,6 +14003,7 @@
    "india": false,
    "senior": false,
    "junior": true,
+   "intern": true,
    "exp": [],
    "expFits2": false
   },
@@ -14109,7 +14082,7 @@
     "workable:davincicommerce -> no board"
    ]
   },
-  "ms": 10938
+  "ms": 11549
  },
  {
   "company": "JK Tech",
@@ -14168,6 +14141,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -14211,7 +14185,7 @@
     "workable:jktech -> no board"
    ]
   },
-  "ms": 41122
+  "ms": 38476
  },
  {
   "company": "Jocata",
@@ -14236,52 +14210,52 @@
     {
      "url": "https://jocata.com/careers",
      "status": 200,
-     "bytes": 14761
+     "bytes": 14762
     },
     {
      "url": "https://jocata.com/career",
      "status": 200,
-     "bytes": 14761
+     "bytes": 14762
     },
     {
      "url": "https://jocata.com/jobs",
      "status": 200,
-     "bytes": 14761
+     "bytes": 14762
     },
     {
      "url": "https://jocata.com/join-us",
      "status": 200,
-     "bytes": 14761
+     "bytes": 14762
     },
     {
      "url": "https://jocata.com/join-our-team",
      "status": 200,
-     "bytes": 14761
+     "bytes": 14762
     },
     {
      "url": "https://jocata.com/careers.html",
      "status": 200,
-     "bytes": 14761
+     "bytes": 14762
     },
     {
      "url": "https://jocata.com/company/careers",
      "status": 200,
-     "bytes": 14761
+     "bytes": 14762
     },
     {
      "url": "https://jocata.com/about/careers",
      "status": 200,
-     "bytes": 14761
+     "bytes": 14762
     },
     {
      "url": "https://jocata.com/current-openings",
      "status": 200,
-     "bytes": 14761
+     "bytes": 14762
     },
     {
      "url": "https://jocata.com/",
      "status": 200,
-     "bytes": 14761
+     "bytes": 14762
     },
     {
      "url": "https://careers.www.jocata.com",
@@ -14292,52 +14266,52 @@
     {
      "url": "https://www.jocata.com/careers",
      "status": 200,
-     "bytes": 14761
+     "bytes": 14762
     },
     {
      "url": "https://www.jocata.com/career",
      "status": 200,
-     "bytes": 14761
+     "bytes": 14762
     },
     {
      "url": "https://www.jocata.com/jobs",
      "status": 200,
-     "bytes": 14761
+     "bytes": 14762
     },
     {
      "url": "https://www.jocata.com/join-us",
      "status": 200,
-     "bytes": 14761
+     "bytes": 14762
     },
     {
      "url": "https://www.jocata.com/join-our-team",
      "status": 200,
-     "bytes": 14761
+     "bytes": 14762
     },
     {
      "url": "https://www.jocata.com/careers.html",
      "status": 200,
-     "bytes": 14761
+     "bytes": 14762
     },
     {
      "url": "https://www.jocata.com/company/careers",
      "status": 200,
-     "bytes": 14761
+     "bytes": 14762
     },
     {
      "url": "https://www.jocata.com/about/careers",
      "status": 200,
-     "bytes": 14761
+     "bytes": 14762
     },
     {
      "url": "https://www.jocata.com/current-openings",
      "status": 200,
-     "bytes": 14761
+     "bytes": 14762
     },
     {
      "url": "https://www.jocata.com/",
      "status": 200,
-     "bytes": 14761
+     "bytes": 14762
     }
    ],
    "candidates": [
@@ -14355,7 +14329,7 @@
     "workable:jocata -> no board"
    ]
   },
-  "ms": 3567
+  "ms": 6676
  },
  {
   "company": "Jodo",
@@ -14364,66 +14338,6 @@
   "error": null,
   "totalJobs": 6,
   "jobs": [
-   {
-    "title": "Intern - Credit Analyst",
-    "location": "Bengaluru, KA",
-    "url": "https://jodo.keka.com/careers/jobdetails/131855",
-    "india": true,
-    "locationSaysIndia": true,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 31
-   },
-   {
-    "title": "Collect Associate Intern",
-    "location": "Bengaluru, KA",
-    "url": "https://jodo.keka.com/careers/jobdetails/129617",
-    "india": true,
-    "locationSaysIndia": true,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 31
-   },
-   {
-    "title": "Intern - Founder's office (Analytics)",
-    "location": "Bengaluru, KA",
-    "url": "https://jodo.keka.com/careers/jobdetails/110092",
-    "india": true,
-    "locationSaysIndia": true,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 31
-   },
-   {
-    "title": "Customer Support Internship",
-    "location": "Bengaluru, KA",
-    "url": "https://jodo.keka.com/careers/jobdetails/37211",
-    "india": true,
-    "locationSaysIndia": true,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 19
-   },
    {
     "title": "Jodo Ambassador - East",
     "location": "Durgapur | Hyderabad",
@@ -14453,18 +14367,78 @@
     "exp": [],
     "expFits2": false,
     "score": 19
+   },
+   {
+    "title": "Intern - Credit Analyst",
+    "location": "Bengaluru, KA",
+    "url": "https://jodo.keka.com/careers/jobdetails/131855",
+    "india": true,
+    "locationSaysIndia": true,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": -21
+   },
+   {
+    "title": "Collect Associate Intern",
+    "location": "Bengaluru, KA",
+    "url": "https://jodo.keka.com/careers/jobdetails/129617",
+    "india": true,
+    "locationSaysIndia": true,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": -21
+   },
+   {
+    "title": "Intern - Founder's office (Analytics)",
+    "location": "Bengaluru, KA",
+    "url": "https://jodo.keka.com/careers/jobdetails/110092",
+    "india": true,
+    "locationSaysIndia": true,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": -21
+   },
+   {
+    "title": "Customer Support Internship",
+    "location": "Bengaluru, KA",
+    "url": "https://jodo.keka.com/careers/jobdetails/37211",
+    "india": true,
+    "locationSaysIndia": true,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": -21
    }
   ],
   "enriched": 0,
   "matches": [],
   "nearMatches": [],
   "closest": {
-   "title": "Intern - Credit Analyst",
-   "location": "Bengaluru, KA",
-   "url": "https://jodo.keka.com/careers/jobdetails/131855",
-   "team": "Credit",
-   "text": "About Us Jodo is a fintech company building reliable and scalable payment infrastructure for recurring collections. Over the last 5 years, Jodo has processed $3B+ in transactions for 4,000+ educational institutions across India. The company has raised $18M from marquee investors including Tiger Global, Elevation (ex-SAIF), and Z47 (ex-Matrix Partners). 📈 Key Responsibilities : ● Analyze and assess the financial statements and credit history of existing and potential clients. ● Review credit applications and perform credit checks. ● Structure deals and perform risk assessments. ● Present analysis, findings, and recommendations to managers, especially findings that involve a borrower’s ability to repay ● Ability to make informed decisions backed by sound assessment. ● Consult and negotiate with clients regarding financial transactions, payment terms, and credit limits. ● Ability to handle multiple projects and submit applications on time. ● Financial forecasting. ● Practice due diligence. ● Keep up to date with the company’s lending protocols 📃Requirements : ● Bachelor’s degree in finance, accounting, or other business-related fields ● Strong proficiency in MS Office and general computer use ● Ability to effectively manage competing deadlines for projects in a high-pressure work environment, with varying degrees of supervision ● Strong attention to detail and ability to notice discrepancies in data ● Impeccable understanding of financial statements, ratios, and concepts 🤩 Benefits : ● Compensation: Negotiable based on candidate profile (all fixed) ● Opportunity to be part of the early-stage fintech startup and make an impact ● High performers in this role will be given additional exposure",
-   "score": 31,
+   "title": "Jodo Ambassador - East",
+   "location": "Durgapur | Hyderabad",
+   "url": "https://jodo.keka.com/careers/jobdetails/20792",
+   "team": "Interns",
+   "text": "About Jodo Jodo ( www.jodo.in) is a mission-oriented high-growth fintech startup building payment & lending products to simplify education payments. Jodo’s suite of products makes education payments convenient & affordable for parents while simplifying & streamlining fee collections for educational institutes. Jodo aims to be a category-defining company with a mission to be a trusted partner to parents in fulfilling their aspirations for their kids’ education. Jodo is backed by marquee VC investor s – Tiger Global, Elevation Capital, and Matrix Partners to realize this mission. Jodo was started by three co-founders who have a pedigreed education (IIT/IIM) and professional background (Nomura, Goldman Sachs, Morgan Stanley, Barclays, Matrix Partners). 📈 Key Responsibilities ● Sales: Increase Jodo's market share ○ Consultative selling by pitching Jodo’s financial products to customers both in offline events and via tele sales ○ Building a long-term relationship with customers ○ Ability to think on the feet and understand the customer's pulse to pitch right ○ Ability to take rejections and not let it affect the pitch to the next customer ● Resourceful: Always thinking of ways to get new leads, try different approaches to pitching, and add value to the firm in various ways apart from just the core responsibility ● Not taking ’no’ for an answer: Persistent with the customers while being pleasant and respectful; ability to engage and persuade ● Diligent in follow-ups with the customer: Taking ownership of every single lead and taking it to closure ● Understand customer concerns and relay them back to the product team to improve the product & application process 📃Requirements ● Passionate about talking to and understanding customer needs ● Fluent communication in English and regional language ● Passionate about personal growth and making a difference 🤩 Benefits ● Compensation and related details: 1. Monthly Stipend + Incentives (target driven) 2. Applicable Travel Reimbursement as per the existing Company Policy 3. Golden chance to convert to a full-time role (PPO: Customer Success Executive) ● Opportunity to be part of an early-stage fintech startup and make an impact ● High performers in this role will be given additional exposure 🔎 What are we looking for? ● Self-starter with a high sense of ownership → Comfortable to work with minimal supervision ● Hungry to learn and grow → Passion to learn & be a better version of oneself; motivated to succeed ● Bias for action → Have the temperament to experiment and execute in uncertainty ● Hustler → Ability to generate resources to solve a problem ● Intellectual honesty → Always seeking and presenting truth irrespective of personal POV or beliefs ● Mission-oriented → Deeply care about delivering value and making an impact on customers’ lives ✅ Key Details ● Role: Jodo Ambassador (6-month Full-time Onsite Paid Internship) ● Location: Durgapur, Kolkata, Hyderabad ● Date of Joining: ASAP | Contact: hr@jodopay.com",
+   "score": 19,
    "isMatch": false,
    "isEng": false,
    "java": false,
@@ -14472,7 +14446,8 @@
    "android": false,
    "india": true,
    "senior": false,
-   "junior": true,
+   "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -14609,7 +14584,7 @@
     "keka:jodo -> 6 jobs"
    ]
   },
-  "ms": 15917
+  "ms": 18073
  },
  {
   "company": "Josh Talks",
@@ -14669,7 +14644,7 @@
     "workable:joshtalks -> no board"
    ]
   },
-  "ms": 28999
+  "ms": 31470
  },
  {
   "company": "Joveo",
@@ -14678,21 +14653,6 @@
   "error": null,
   "totalJobs": 2,
   "jobs": [
-   {
-    "title": "Work as Management Trainee at Joveo in null",
-    "location": "",
-    "url": "https://careers.joveo.com/job/019e088a-c7b1-79ee-bc7f-41883b4a07d6",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 31
-   },
    {
     "title": "Work as Product Designer at Joveo in null",
     "location": "",
@@ -14707,18 +14667,33 @@
     "exp": [],
     "expFits2": false,
     "score": 19
+   },
+   {
+    "title": "Work as Management Trainee at Joveo in null",
+    "location": "",
+    "url": "https://careers.joveo.com/job/019e088a-c7b1-79ee-bc7f-41883b4a07d6",
+    "india": true,
+    "locationSaysIndia": false,
+    "hasLocation": false,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": -21
    }
   ],
   "enriched": 0,
   "matches": [],
   "nearMatches": [],
   "closest": {
-   "title": "Work as Management Trainee at Joveo in null",
+   "title": "Work as Product Designer at Joveo in null",
    "location": "",
-   "url": "https://careers.joveo.com/job/019e088a-c7b1-79ee-bc7f-41883b4a07d6",
+   "url": "https://careers.joveo.com/job/019c8ec9-bcf9-708d-92b2-68306c10efba",
    "team": "",
-   "text": "Work as Management Trainee at Joveo in null Our Teams Join Talent Community Search Jobs Saved Jobs Go back to job search Join Joveo. Work Smarter. Make a Difference. Apply Now",
-   "score": 31,
+   "text": "Work as Product Designer at Joveo in null Our Teams Join Talent Community Search Jobs Saved Jobs Go back to job search Join Joveo. Work Smarter. Make a Difference. Apply Now",
+   "score": 19,
    "isMatch": false,
    "isEng": false,
    "java": false,
@@ -14726,7 +14701,8 @@
    "android": false,
    "india": true,
    "senior": false,
-   "junior": true,
+   "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -14865,7 +14841,7 @@
     "workable:joveo -> no board"
    ]
   },
-  "ms": 25358
+  "ms": 28570
  },
  {
   "company": "Jungleworks",
@@ -14890,12 +14866,12 @@
     {
      "url": "https://jungleworks.com/careers",
      "status": 200,
-     "bytes": 198264
+     "bytes": 198266
     },
     {
      "url": "https://jungleworks.com/career",
      "status": 200,
-     "bytes": 198264
+     "bytes": 198266
     },
     {
      "url": "https://jungleworks.com/jobs",
@@ -14905,7 +14881,7 @@
     {
      "url": "https://jungleworks.com/join-us",
      "status": 200,
-     "bytes": 126527
+     "bytes": 126526
     }
    ],
    "candidates": [
@@ -14925,7 +14901,7 @@
     "workable:jungleworks -> no board"
    ]
   },
-  "ms": 10406
+  "ms": 20584
  },
  {
   "company": "Junglee Games",
@@ -15085,7 +15061,7 @@
     "workable:jungleegames -> no board"
    ]
   },
-  "ms": 3710
+  "ms": 3672
  },
  {
   "company": "Juniper Networks India",
@@ -15772,6 +15748,7 @@
     "india": false,
     "senior": false,
     "junior": false,
+    "intern": false,
     "exp": [
      [
       4,
@@ -15799,6 +15776,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [
     [
      2,
@@ -15829,6 +15807,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [
     [
      2,
@@ -15917,7 +15896,7 @@
     "workday:hpe -> 40 jobs"
    ]
   },
-  "ms": 33342
+  "ms": 40137
  },
  {
   "company": "Jupiter Meta",
@@ -16005,7 +15984,7 @@
     "workable:jupitermeta -> no board"
    ]
   },
-  "ms": 4373
+  "ms": 5970
  },
  {
   "company": "JioSaavn",
@@ -16013,40 +15992,10 @@
   "careers": "https://www.jiosaavn.com/corporate/careers",
   "source": "headings:https://www.jiosaavn.com/corporate/careers",
   "error": null,
-  "totalJobs": 5,
+  "totalJobs": 3,
   "jobs": [
    {
-    "title": "Data Lead, Ad Tech",
-    "location": "",
-    "url": "https://www.jiosaavn.com/corporate/careers",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": true,
-    "exp": [],
-    "expFits2": false,
-    "score": -3
-   },
-   {
     "title": "Creative Director",
-    "location": "",
-    "url": "https://www.jiosaavn.com/corporate/careers",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": true,
-    "exp": [],
-    "expFits2": false,
-    "score": -3
-   },
-   {
-    "title": "Director, Label Relations",
     "location": "",
     "url": "https://www.jiosaavn.com/corporate/careers",
     "india": true,
@@ -16076,7 +16025,7 @@
     "score": -3
    },
    {
-    "title": "Senior Manager, Human Resources",
+    "title": "Technical Lead, Search",
     "location": "",
     "url": "https://www.jiosaavn.com/corporate/careers",
     "india": true,
@@ -16095,11 +16044,11 @@
   "matches": [],
   "nearMatches": [],
   "closest": {
-   "title": "Data Lead, Ad Tech",
+   "title": "Creative Director",
    "location": "",
    "url": "https://www.jiosaavn.com/corporate/careers",
    "team": "",
-   "text": "Data Lead, Ad Tech Fun Facts Wants to be a food blogger. Would prefer not to pay for the food. Solves Rubik's Cube in 1 minute. Gourav's Humble Brag Once lose 15kg in 2 months. Aai Paapi Neeraj Shridar Meet Gourav Mark Graybill",
+   "text": "Creative Director Fun Facts Conducted a Bay Area symphony at 13 (tux and all). Likes Peanut Butter M&Ms, good coffee, and audiobooks. Plays guitar, piano, and drums. Mark's Humble Brag My guitar tone is 👌 . The End Of The Innocence Bruce Hornsby and The Range Meet Mark Rohan Indulkar Editor, Hindi Programming Fun Facts Collects sneakers and FC Barca jerseys. Loves Bollywood, as long as its masaledaar. Plays cricket, occasionally. Rohan's Humble Brag I skipped this question. Kal Ho Naa No Sonu Nigam Meet Rohan Vinodh Bhat President & Co-Founder Fun Facts Always finds new and inventive ways to lose his passport. Likes bad jokes and the New York Jets. Plays tennis when he's not injured (never). Vinodh's Humble Brag I can eat 3 Big Macs. 🍔 <img src=\"http://c",
    "_noEnrich": true,
    "score": -3,
    "isMatch": false,
@@ -16110,6 +16059,7 @@
    "india": true,
    "senior": true,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -16119,7 +16069,7 @@
     {
      "url": "https://www.jiosaavn.com/corporate/careers",
      "status": 200,
-     "bytes": 34754
+     "bytes": 34868
     },
     {
      "url": "https://careers.jiosaavn.com",
@@ -16130,12 +16080,12 @@
     {
      "url": "https://jiosaavn.com/careers",
      "status": 200,
-     "bytes": 535797
+     "bytes": 536890
     },
     {
      "url": "https://jiosaavn.com/career",
      "status": 200,
-     "bytes": 535759
+     "bytes": 536978
     }
    ],
    "candidates": [
@@ -16153,7 +16103,7 @@
     "workable:jiosaavn -> no board"
    ]
   },
-  "ms": 7601
+  "ms": 10491
  },
  {
   "company": "JioStar",
@@ -16850,6 +16800,7 @@
     "india": true,
     "senior": false,
     "junior": false,
+    "intern": false,
     "exp": [
      [
       2,
@@ -16886,6 +16837,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [
     [
      2,
@@ -16920,6 +16872,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [
     [
      2,
@@ -17068,7 +17021,7 @@
     "workday:jiostar -> 40 jobs"
    ]
   },
-  "ms": 6140
+  "ms": 8716
  },
  {
   "company": "JioMart",
@@ -17093,52 +17046,52 @@
     {
      "url": "https://jiomart.com/careers",
      "status": 200,
-     "bytes": 7113342
+     "bytes": 7113319
     },
     {
      "url": "https://jiomart.com/career",
      "status": 200,
-     "bytes": 7113342
+     "bytes": 7113319
     },
     {
      "url": "https://jiomart.com/jobs",
      "status": 200,
-     "bytes": 7113342
+     "bytes": 7113319
     },
     {
      "url": "https://jiomart.com/join-us",
      "status": 200,
-     "bytes": 7113342
+     "bytes": 7113319
     },
     {
      "url": "https://jiomart.com/join-our-team",
      "status": 200,
-     "bytes": 7113343
+     "bytes": 7113320
     },
     {
      "url": "https://jiomart.com/careers.html",
      "status": 200,
-     "bytes": 7113342
+     "bytes": 7113319
     },
     {
      "url": "https://jiomart.com/company/careers",
      "status": 200,
-     "bytes": 7113342
+     "bytes": 7113320
     },
     {
      "url": "https://jiomart.com/about/careers",
      "status": 200,
-     "bytes": 7113342
+     "bytes": 7113319
     },
     {
      "url": "https://jiomart.com/current-openings",
      "status": 200,
-     "bytes": 7113342
+     "bytes": 7113319
     },
     {
      "url": "https://jiomart.com/",
      "status": 200,
-     "bytes": 7113342
+     "bytes": 7113319
     },
     {
      "url": "https://careers.www.jiomart.com",
@@ -17149,17 +17102,17 @@
     {
      "url": "https://www.jiomart.com/careers",
      "status": 200,
-     "bytes": 7105851
+     "bytes": 7105852
     },
     {
      "url": "https://www.jiomart.com/career",
      "status": 200,
-     "bytes": 7105845
+     "bytes": 7105846
     },
     {
      "url": "https://www.jiomart.com/jobs",
      "status": 200,
-     "bytes": 7105833
+     "bytes": 7105834
     }
    ],
    "candidates": [
@@ -17177,7 +17130,7 @@
     "workable:jiomart -> no board"
    ]
   },
-  "ms": 26363
+  "ms": 30658
  },
  {
   "company": "Jio Things",
@@ -17321,7 +17274,7 @@
     "workable:jiothings -> no board"
    ]
   },
-  "ms": 12396
+  "ms": 12952
  },
  {
   "company": "Jio Financial Services",
@@ -17415,7 +17368,7 @@
     "workable:jiofinancial -> no board"
    ]
   },
-  "ms": 11922
+  "ms": 11585
  },
  {
   "company": "Jai Kisan",
@@ -17574,7 +17527,7 @@
     "workable:jaikisan -> no board"
    ]
   },
-  "ms": 23205
+  "ms": 32525
  },
  {
   "company": "Jiraaf",
@@ -17718,7 +17671,7 @@
     "workable:jiraaf -> no board"
    ]
   },
-  "ms": 12921
+  "ms": 13402
  },
  {
   "company": "Junio",
@@ -17862,7 +17815,7 @@
     "workable:junio -> no board"
    ]
   },
-  "ms": 3975
+  "ms": 9524
  },
  {
   "company": "Jana Small Finance Bank",
@@ -17921,6 +17874,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -18075,7 +18029,7 @@
     "workable:janabank -> no board"
    ]
   },
-  "ms": 13704
+  "ms": 13610
  },
  {
   "company": "JM Financial",
@@ -18153,7 +18107,7 @@
     "workable:jmfl -> no board"
    ]
   },
-  "ms": 38296
+  "ms": 41814
  },
  {
   "company": "Jammu & Kashmir Bank",
@@ -18257,7 +18211,7 @@
     "workable:jkbank -> no board"
    ]
   },
-  "ms": 6907
+  "ms": 8113
  },
  {
   "company": "Jarvis Invest",
@@ -18401,7 +18355,7 @@
     "workable:jarvisinvest -> no board"
    ]
   },
-  "ms": 5969
+  "ms": 6364
  },
  {
   "company": "JIFFY.ai",
@@ -18461,6 +18415,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -18554,7 +18509,7 @@
     "workable:jiffy -> no board"
    ]
   },
-  "ms": 21560
+  "ms": 18851
  },
  {
   "company": "Jamcracker",
@@ -18703,7 +18658,7 @@
     "workable:jamcracker -> no board"
    ]
   },
-  "ms": 33302
+  "ms": 31919
  },
  {
   "company": "Jupitice Justice Technologies",
@@ -18800,7 +18755,7 @@
     "workable:jupitice -> no board"
    ]
   },
-  "ms": 8391
+  "ms": 8431
  },
  {
   "company": "Jaldee",
@@ -18945,7 +18900,7 @@
     "workable:jaldee -> no board"
    ]
   },
-  "ms": 10910
+  "ms": 16052
  },
  {
   "company": "Jamku",
@@ -19099,7 +19054,7 @@
     "workable:jamku -> no board"
    ]
   },
-  "ms": 2494
+  "ms": 2919
  },
  {
   "company": "Jugnoo",
@@ -19129,7 +19084,7 @@
     {
      "url": "https://jugnoo.in/career",
      "status": 404,
-     "bytes": 39457
+     "bytes": 39458
     },
     {
      "url": "https://jugnoo.in/jobs",
@@ -19139,7 +19094,7 @@
     {
      "url": "https://jugnoo.in/join-us",
      "status": 404,
-     "bytes": 39457
+     "bytes": 39456
     },
     {
      "url": "https://jugnoo.in/join-our-team",
@@ -19149,17 +19104,17 @@
     {
      "url": "https://jugnoo.in/careers.html",
      "status": 404,
-     "bytes": 39462
+     "bytes": 39463
     },
     {
      "url": "https://jugnoo.in/company/careers",
      "status": 404,
-     "bytes": 39467
+     "bytes": 39465
     },
     {
      "url": "https://jugnoo.in/about/careers",
      "status": 404,
-     "bytes": 39463
+     "bytes": 39465
     },
     {
      "url": "https://jugnoo.in/current-openings",
@@ -19169,7 +19124,7 @@
     {
      "url": "https://jugnoo.in/",
      "status": 200,
-     "bytes": 52100
+     "bytes": 52101
     }
    ],
    "candidates": [
@@ -19189,7 +19144,7 @@
     "workable:jugnoo -> no board"
    ]
   },
-  "ms": 14755
+  "ms": 16055
  },
  {
   "company": "Jivi AI",
@@ -19264,6 +19219,7 @@
    "india": true,
    "senior": true,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -19368,7 +19324,7 @@
     "workable:jivi -> no board"
    ]
   },
-  "ms": 10230
+  "ms": 14153
  },
  {
   "company": "JarvisLabs.ai",
@@ -19473,6 +19429,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -19492,6 +19449,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -19579,7 +19537,7 @@
     "workable:jarvislabs -> no board"
    ]
   },
-  "ms": 4849
+  "ms": 6354
  },
  {
   "company": "Jash Data Sciences",
@@ -19654,6 +19612,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -19673,6 +19632,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -19765,7 +19725,7 @@
     "workable:jashds -> no board"
    ]
   },
-  "ms": 11597
+  "ms": 14496
  },
  {
   "company": "JetSynthesys",
@@ -19859,7 +19819,7 @@
     "workable:jetsynthesys -> no board"
    ]
   },
-  "ms": 19499
+  "ms": 17726
  },
  {
   "company": "Jetapult",
@@ -19948,6 +19908,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -19957,7 +19918,7 @@
     {
      "url": "https://jetapult.co/team-and-careers/",
      "status": 200,
-     "bytes": 185914
+     "bytes": 158759
     },
     {
      "url": "https://careers.jetapult.co",
@@ -19973,7 +19934,7 @@
     {
      "url": "https://jetapult.co/career",
      "status": 404,
-     "bytes": 147503
+     "bytes": 120348
     }
    ],
    "candidates": [
@@ -19991,7 +19952,7 @@
     "workable:jetapult -> no board"
    ]
   },
-  "ms": 7211
+  "ms": 6017
  },
  {
   "company": "Josh Software",
@@ -20150,7 +20111,7 @@
     "workable:joshsoftware -> no board"
    ]
   },
-  "ms": 9351
+  "ms": 9444
  },
  {
   "company": "Jellyfish Technologies",
@@ -20209,6 +20170,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -20358,7 +20320,7 @@
     "workable:jellyfishtechnologies -> no board"
    ]
   },
-  "ms": 18939
+  "ms": 17131
  },
  {
   "company": "JS TechAlliance",
@@ -20368,21 +20330,6 @@
   "error": null,
   "totalJobs": 9,
   "jobs": [
-   {
-    "title": "Full stack developer intern",
-    "location": "",
-    "url": "https://jobs.jstechalliance.com/#",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": true,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 61
-   },
    {
     "title": "Native Android Developer",
     "location": "",
@@ -20429,51 +20376,6 @@
     "score": 49
    },
    {
-    "title": "AI/ML Intern",
-    "location": "",
-    "url": "https://jobs.jstechalliance.com/#",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 31
-   },
-   {
-    "title": "QA Intern",
-    "location": "",
-    "url": "https://jobs.jstechalliance.com/#",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 31
-   },
-   {
-    "title": "Business Analyst Intern",
-    "location": "",
-    "url": "https://jobs.jstechalliance.com/#",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 31
-   },
-   {
     "title": "Manual QA Tester",
     "location": "",
     "url": "https://jobs.jstechalliance.com/#",
@@ -20502,6 +20404,66 @@
     "exp": [],
     "expFits2": false,
     "score": 19
+   },
+   {
+    "title": "Full stack developer intern",
+    "location": "",
+    "url": "https://jobs.jstechalliance.com/#",
+    "india": true,
+    "locationSaysIndia": false,
+    "hasLocation": false,
+    "isEng": true,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 9
+   },
+   {
+    "title": "AI/ML Intern",
+    "location": "",
+    "url": "https://jobs.jstechalliance.com/#",
+    "india": true,
+    "locationSaysIndia": false,
+    "hasLocation": false,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": -21
+   },
+   {
+    "title": "QA Intern",
+    "location": "",
+    "url": "https://jobs.jstechalliance.com/#",
+    "india": true,
+    "locationSaysIndia": false,
+    "hasLocation": false,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": -21
+   },
+   {
+    "title": "Business Analyst Intern",
+    "location": "",
+    "url": "https://jobs.jstechalliance.com/#",
+    "india": true,
+    "locationSaysIndia": false,
+    "hasLocation": false,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": -21
    }
   ],
   "enriched": 0,
@@ -20548,7 +20510,7 @@
     "workable:jstechalliance -> no board"
    ]
   },
-  "ms": 3138
+  "ms": 4215
  },
  {
   "company": "JPLoft Solutions",
@@ -20573,7 +20535,7 @@
     {
      "url": "https://jploft.com/careers",
      "status": 404,
-     "bytes": 2114445
+     "bytes": 2114446
     },
     {
      "url": "https://jploft.com/career",
@@ -20601,7 +20563,7 @@
     "workable:jploft -> no board"
    ]
   },
-  "ms": 35599
+  "ms": 40349
  },
  {
   "company": "JanBask",
@@ -20726,36 +20688,6 @@
     "score": 23
    },
    {
-    "title": "Internship Business Development Executive",
-    "location": "",
-    "url": "https://www.janbask.com/career/current-opportunities-details/23",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 19
-   },
-   {
-    "title": "Internship-Business Analyst",
-    "location": "",
-    "url": "https://www.janbask.com/career/current-opportunities-details/22",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 19
-   },
-   {
     "title": "Project Manager",
     "location": "",
     "url": "https://www.janbask.com/career/current-opportunities-details/21",
@@ -20844,6 +20776,36 @@
     "exp": [],
     "expFits2": false,
     "score": -3
+   },
+   {
+    "title": "Internship Business Development Executive",
+    "location": "",
+    "url": "https://www.janbask.com/career/current-opportunities-details/23",
+    "india": true,
+    "locationSaysIndia": false,
+    "hasLocation": false,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": -21
+   },
+   {
+    "title": "Internship-Business Analyst",
+    "location": "",
+    "url": "https://www.janbask.com/career/current-opportunities-details/22",
+    "india": true,
+    "locationSaysIndia": false,
+    "hasLocation": false,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": -21
    }
   ],
   "enriched": 6,
@@ -20865,6 +20827,7 @@
     "india": true,
     "senior": false,
     "junior": false,
+    "intern": false,
     "exp": [
      [
       4,
@@ -20890,6 +20853,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [
     [
      4,
@@ -20914,6 +20878,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [
     [
      4,
@@ -21001,7 +20966,7 @@
     "workable:janbask -> no board"
    ]
   },
-  "ms": 19854
+  "ms": 24223
  },
  {
   "company": "Jiva Infotech",
@@ -21090,6 +21055,7 @@
    "india": true,
    "senior": false,
    "junior": true,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -21109,6 +21075,7 @@
    "india": true,
    "senior": false,
    "junior": true,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -21185,7 +21152,7 @@
     "workable:jivainfotech -> no board"
    ]
   },
-  "ms": 24668
+  "ms": 30999
  },
  {
   "company": "JMR Infotech",
@@ -21228,6 +21195,7 @@
    "india": true,
    "senior": false,
    "junior": true,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -21276,7 +21244,7 @@
     "workable:jmrinfotech -> no board"
    ]
   },
-  "ms": 17487
+  "ms": 14976
  },
  {
   "company": "Jasmin Infotech",
@@ -21431,7 +21399,7 @@
     "workable:jasmininfotech -> no board"
    ]
   },
-  "ms": 12281
+  "ms": 16614
  },
  {
   "company": "JMAN Group",
@@ -21581,6 +21549,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -21600,6 +21569,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -21634,7 +21604,7 @@
     {
      "url": "https://jmangroup.com/join-us",
      "status": 404,
-     "bytes": 320517
+     "bytes": 320518
     }
    ],
    "candidates": [
@@ -21662,7 +21632,7 @@
     "workable:jmangroup -> no board"
    ]
   },
-  "ms": 22288
+  "ms": 12549
  },
  {
   "company": "JindalX",
@@ -21721,7 +21691,7 @@
     "workable:jindalx -> no board"
    ]
   },
-  "ms": 42812
+  "ms": 44343
  },
  {
   "company": "Jinactus Consulting",
@@ -21813,7 +21783,7 @@
     {
      "url": "https://jinactus.com/",
      "status": 200,
-     "bytes": 793556
+     "bytes": 802661
     }
    ],
    "candidates": [
@@ -21841,7 +21811,7 @@
     "workable:jinactus -> no board"
    ]
   },
-  "ms": 13620
+  "ms": 15244
  },
  {
   "company": "Jaikvik Technology",
@@ -22026,7 +21996,7 @@
     "workable:jaikvik -> no board"
    ]
   },
-  "ms": 3296
+  "ms": 3733
  },
  {
   "company": "Jain Software",
@@ -22181,7 +22151,7 @@
     "workable:jainsoftware -> no board"
    ]
   },
-  "ms": 5097
+  "ms": 6183
  },
  {
   "company": "Java India",
@@ -22441,6 +22411,7 @@
     "india": true,
     "senior": false,
     "junior": false,
+    "intern": false,
     "exp": [],
     "expFits2": false
    },
@@ -22460,6 +22431,7 @@
     "india": true,
     "senior": false,
     "junior": false,
+    "intern": false,
     "exp": [],
     "expFits2": false
    }
@@ -22480,6 +22452,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -22499,6 +22472,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -22591,7 +22565,7 @@
     "workable:javaindia -> no board"
    ]
   },
-  "ms": 23044
+  "ms": 20451
  },
  {
   "company": "JB Soft System",
@@ -22710,6 +22684,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -22729,6 +22704,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -22801,7 +22777,7 @@
     "workable:jbsoftsystem -> no board"
    ]
   },
-  "ms": 14300
+  "ms": 15364
  },
  {
   "company": "Johnson & Johnson India",
@@ -22894,7 +22870,7 @@
     "workable:johnsonjohnson -> no board"
    ]
   },
-  "ms": 21232
+  "ms": 23045
  },
  {
   "company": "Jabil India",
@@ -23564,6 +23540,7 @@
    "india": false,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [
     [
      2,
@@ -23590,6 +23567,7 @@
    "india": false,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [
     [
      2,
@@ -23603,7 +23581,7 @@
     {
      "url": "https://jobs.jabil.com/",
      "status": 200,
-     "bytes": 38167
+     "bytes": 38109
     },
     {
      "url": "https://careers.jabil.com",
@@ -23628,7 +23606,7 @@
     "workday:jabil -> 40 jobs"
    ]
   },
-  "ms": 11308
+  "ms": 10262
  },
  {
   "company": "Jacobs India",
@@ -23664,7 +23642,7 @@
     {
      "url": "https://www.jacobs.com/careers-jacobs",
      "status": 200,
-     "bytes": 165231
+     "bytes": 165230
     },
     {
      "url": "https://careers.jacobs.com",
@@ -23674,7 +23652,7 @@
     {
      "url": "https://jacobs.com/careers",
      "status": 200,
-     "bytes": 165231
+     "bytes": 165230
     },
     {
      "url": "https://jacobs.com/career",
@@ -23697,7 +23675,7 @@
     "workable:jacobs -> no board"
    ]
   },
-  "ms": 16629
+  "ms": 18113
  },
  {
   "company": "JLL India",
@@ -23794,60 +23772,6 @@
     ],
     "expFits2": false,
     "score": 30
-   },
-   {
-    "title": "Senior Software Engineer",
-    "location": "Chicago, IL",
-    "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Chicago-IL/Senior-Software-Engineer_REQ527381",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": true,
-    "java": false,
-    "flutter": false,
-    "senior": true,
-    "exp": [
-     [
-      7,
-      11
-     ],
-     [
-      3,
-      7
-     ]
-    ],
-    "expFits2": false,
-    "score": 20
-   },
-   {
-    "title": "NOC Intern",
-    "location": "Johor Bahru, Malaysia",
-    "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Johor-Bahru-Malaysia/NOC-Intern_REQ525018",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 16
-   },
-   {
-    "title": "Maintenance Apprentice",
-    "location": "Chicago, IL",
-    "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Chicago-IL/Maintenance-Apprentice_REQ526462",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 4
    },
    {
     "title": "BMS/OT Technology Support Specialist",
@@ -24150,6 +24074,21 @@
     "score": 4
    },
    {
+    "title": "HSSE Manager",
+    "location": "Jalisco,MEX",
+    "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/JaliscoMEX/HSSE-Manager_REQ527414",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [],
+    "expFits2": false,
+    "score": -18
+   },
+   {
     "title": "Asset Services Technical Director",
     "location": "Atlanta, GA",
     "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Atlanta-GA/Asset-Services-Technical-Director_REQ509762",
@@ -24343,9 +24282,39 @@
     "exp": [],
     "expFits2": false,
     "score": -18
+   },
+   {
+    "title": "NOC Intern",
+    "location": "Johor Bahru, Malaysia",
+    "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Johor-Bahru-Malaysia/NOC-Intern_REQ525018",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": -36
+   },
+   {
+    "title": "Maintenance Apprentice",
+    "location": "Chicago, IL",
+    "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Chicago-IL/Maintenance-Apprentice_REQ526462",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": -36
    }
   ],
-  "enriched": 5,
+  "enriched": 4,
   "matches": [],
   "nearMatches": [],
   "closest": {
@@ -24366,6 +24335,7 @@
    "india": false,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [
     [
      2,
@@ -24392,6 +24362,7 @@
    "india": false,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [
     [
      2,
@@ -24527,7 +24498,7 @@
     "workday:jll -> 40 jobs"
    ]
   },
-  "ms": 8226
+  "ms": 7894
  },
  {
   "company": "JAGGAER India",
@@ -24671,7 +24642,7 @@
     "workable:jaggaer -> no board"
    ]
   },
-  "ms": 2224
+  "ms": 3710
  },
  {
   "company": "Jitterbit India",
@@ -24761,6 +24732,7 @@
    "india": false,
    "senior": true,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -24885,7 +24857,7 @@
     "workable:jitterbit -> no board"
    ]
   },
-  "ms": 16448
+  "ms": 25370
  },
  {
   "company": "JFrog India",
@@ -24945,6 +24917,7 @@
    "india": false,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -25002,7 +24975,7 @@
     "workable:jfrog -> no board"
    ]
   },
-  "ms": 22131
+  "ms": 19274
  },
  {
   "company": "John Wiley & Sons India",
@@ -25659,6 +25632,7 @@
     "india": false,
     "senior": false,
     "junior": false,
+    "intern": false,
     "exp": [],
     "expFits2": false
    },
@@ -25680,6 +25654,7 @@
     "india": false,
     "senior": false,
     "junior": false,
+    "intern": false,
     "exp": [],
     "expFits2": false
    }
@@ -25702,6 +25677,7 @@
    "india": false,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [
     [
      2,
@@ -25728,6 +25704,7 @@
    "india": false,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [
     [
      2,
@@ -25796,7 +25773,7 @@
     "workday:wiley -> 40 jobs"
    ]
   },
-  "ms": 13959
+  "ms": 12095
  },
  {
   "company": "JCB India",
@@ -25837,15 +25814,185 @@
    "candidates": [],
    "attempts": []
   },
-  "ms": 23962
+  "ms": 23360
  },
  {
   "company": "JCPenney India",
   "country": "United States",
   "source": "sitemap:https://jobs.jcp.com",
   "error": null,
-  "totalJobs": 37,
+  "totalJobs": 36,
   "jobs": [
+   {
+    "title": "Men’s Clothing Sales Associate - Mall Saint Matthews",
+    "location": "Louisville, KY, USA",
+    "url": "https://jobs.jcp.com/careers-home/jobs/1128688?lang=en-us",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [
+     [
+      1,
+      5
+     ]
+    ],
+    "expFits2": true,
+    "score": 42
+   },
+   {
+    "title": "Asset Protection Associate - Lynnhaven Mall",
+    "location": "Virginia Beach, VA, USA",
+    "url": "https://jobs.jcp.com/careers-home/jobs/1099955?lang=en-us",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [
+     [
+      1,
+      5
+     ]
+    ],
+    "expFits2": true,
+    "score": 42
+   },
+   {
+    "title": "Asset Protection Associate - Boynton Beach Mall",
+    "location": "Boynton Beach, FL, USA",
+    "url": "https://jobs.jcp.com/careers-home/jobs/1099771?lang=en-us",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [
+     [
+      1,
+      5
+     ]
+    ],
+    "expFits2": true,
+    "score": 42
+   },
+   {
+    "title": "Fine Jewelry Merchandise Supervisor - Lynnhaven Mall",
+    "location": "Virginia Beach, VA, USA",
+    "url": "https://jobs.jcp.com/careers-home/jobs/1094328?lang=en-us",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [
+     [
+      2,
+      6
+     ]
+    ],
+    "expFits2": true,
+    "score": 30
+   },
+   {
+    "title": "Specialty Associate - Fayette Mall",
+    "location": "Lexington, KY, USA",
+    "url": "https://jobs.jcp.com/careers-home/jobs/1093090?lang=en-us",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 16
+   },
+   {
+    "title": "Sales Associate - Valley View Mall",
+    "location": "Roanoke, VA, USA",
+    "url": "https://jobs.jcp.com/careers-home/jobs/1126848?lang=en-us",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 16
+   },
+   {
+    "title": "Sales Associate - Town Center at Aurora",
+    "location": "Aurora, CO, USA",
+    "url": "https://jobs.jcp.com/careers-home/jobs/1126363?lang=en-us",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 16
+   },
+   {
+    "title": "Stock Associate - Gurnee Mills",
+    "location": "Gurnee, IL, USA",
+    "url": "https://jobs.jcp.com/careers-home/jobs/1125329?lang=en-us",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 16
+   },
+   {
+    "title": "Sales Associate - Fashion Outlets of Niagara Falls",
+    "location": "Niagara Falls, NY, USA",
+    "url": "https://jobs.jcp.com/careers-home/jobs/1126117?lang=en-us",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 16
+   },
+   {
+    "title": "Stock Associate - Spokane Valley Mall",
+    "location": "Spokane, WA, USA",
+    "url": "https://jobs.jcp.com/careers-home/jobs/1125103?lang=en-us",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 16
+   },
    {
     "title": "Sales Associate - Destiny USA",
     "location": "Syracuse, NY, USA",
@@ -25892,9 +26039,9 @@
     "score": 16
    },
    {
-    "title": "Sales Associate - Northwoods Mall",
-    "location": "N. Charleston, SC, USA",
-    "url": "https://jobs.jcp.com/careers-home/jobs/1126746?lang=en-us",
+    "title": "Sales Associate - Tanger Outlets Westgate",
+    "location": "Glendale, AZ, USA",
+    "url": "https://jobs.jcp.com/careers-home/jobs/1127076?lang=en-us",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
@@ -25907,124 +26054,124 @@
     "score": 16
    },
    {
-    "title": "Customer Experience Supervisor I - Peninsula Twn Ctr",
-    "location": "Hampton, VA, USA",
-    "url": "https://jobs.jcp.com/careers-home/jobs/1104495?lang=en-us",
+    "title": "Store Manager",
+    "location": "Roanoke, Virginia, United States",
+    "url": "https://jobs.jcp.com/careers-home/jobs/9345?lang=en-us",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
     "isEng": false,
     "java": false,
     "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 16
+    "senior": true,
+    "exp": [
+     [
+      2,
+      6
+     ]
+    ],
+    "expFits2": true,
+    "score": 8
    },
    {
-    "title": "Sales Associate - Danville Mall",
-    "location": "Danville, VA, USA",
-    "url": "https://jobs.jcp.com/careers-home/jobs/1126501?lang=en-us",
+    "title": "Store Manager - Cal",
+    "location": "Gilroy, California, United States",
+    "url": "https://jobs.jcp.com/careers-home/jobs/9347?lang=en-us",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
     "isEng": false,
     "java": false,
     "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 16
+    "senior": true,
+    "exp": [
+     [
+      2,
+      6
+     ]
+    ],
+    "expFits2": true,
+    "score": 8
    },
    {
-    "title": "Sales Associate - Philadelphia Premium Outlets",
-    "location": "Pottstown, PA, USA",
-    "url": "https://jobs.jcp.com/careers-home/jobs/1126916?lang=en-us",
+    "title": "Assistant Store Manager - Valley View Mall",
+    "location": "Roanoke, VA, USA",
+    "url": "https://jobs.jcp.com/careers-home/jobs/1123614?lang=en-us",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
     "isEng": false,
     "java": false,
     "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 16
+    "senior": true,
+    "exp": [
+     [
+      2,
+      6
+     ]
+    ],
+    "expFits2": true,
+    "score": 8
    },
    {
-    "title": "Sales Associate - Ellenton Premium Outlets",
-    "location": "Ellenton, FL, USA",
-    "url": "https://jobs.jcp.com/careers-home/jobs/1126148?lang=en-us",
+    "title": "Assistant Store Manager - Dayton Mall",
+    "location": "Dayton, OH, USA",
+    "url": "https://jobs.jcp.com/careers-home/jobs/1123521?lang=en-us",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
     "isEng": false,
     "java": false,
     "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 16
+    "senior": true,
+    "exp": [
+     [
+      2,
+      6
+     ]
+    ],
+    "expFits2": true,
+    "score": 8
    },
    {
-    "title": "Sales Associate - Silver Sands Premium Outlets",
-    "location": "Destin, FL, USA",
-    "url": "https://jobs.jcp.com/careers-home/jobs/1126629?lang=en-us",
+    "title": "Assistant Store Manager - Tanger Outlets Gonzales",
+    "location": "Gonzales, LA, USA",
+    "url": "https://jobs.jcp.com/careers-home/jobs/1123757?lang=en-us",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
     "isEng": false,
     "java": false,
     "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 16
+    "senior": true,
+    "exp": [
+     [
+      2,
+      6
+     ]
+    ],
+    "expFits2": true,
+    "score": 8
    },
    {
-    "title": "Specialty Associate - Jackson Park Shp Ctr",
-    "location": "Seymour, IN, USA",
-    "url": "https://jobs.jcp.com/careers-home/jobs/1101464?lang=en-us",
+    "title": "Assistant Store Manager",
+    "location": "Kittery, ME, USA",
+    "url": "https://jobs.jcp.com/careers-home/jobs/1123053?lang=en-us",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
     "isEng": false,
     "java": false,
     "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 16
-   },
-   {
-    "title": "Sales Associate - Rivercenter Mall",
-    "location": "San Antonio, TX, USA",
-    "url": "https://jobs.jcp.com/careers-home/jobs/1126152?lang=en-us",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 16
-   },
-   {
-    "title": "Sales Associate - The Maine Mall",
-    "location": "South Portland, ME, USA",
-    "url": "https://jobs.jcp.com/careers-home/jobs/1126849?lang=en-us",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 16
+    "senior": true,
+    "exp": [
+     [
+      2,
+      6
+     ]
+    ],
+    "expFits2": true,
+    "score": 8
    },
    {
     "title": "Assistant Store Manager - Northwoods Mall",
@@ -26067,84 +26214,79 @@
     "score": 8
    },
    {
-    "title": "Store Manager - Cal",
-    "location": "Sherman Oaks, California, United States",
-    "url": "https://jobs.jcp.com/careers-home/jobs/9344?lang=en-us",
+    "title": "Supervisor - Valley View Mall",
+    "location": "Roanoke, VA, USA",
+    "url": "https://jobs.jcp.com/careers-home/jobs/1128047?lang=en-us",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
     "isEng": false,
     "java": false,
     "flutter": false,
-    "senior": true,
-    "exp": [
-     [
-      2,
-      6
-     ]
-    ],
-    "expFits2": true,
-    "score": 8
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 4
    },
    {
-    "title": "Assistant Store Manager - Leesburg Premium Outlets",
-    "location": "Leesburg, VA, USA",
-    "url": "https://jobs.jcp.com/careers-home/jobs/1123821?lang=en-us",
+    "title": "Sales Floor Assistant - Tamarack Village",
+    "location": "Woodbury, MN, USA",
+    "url": "https://jobs.jcp.com/careers-home/jobs/1103555?lang=en-us",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
     "isEng": false,
     "java": false,
     "flutter": false,
-    "senior": true,
-    "exp": [
-     [
-      2,
-      6
-     ]
-    ],
-    "expFits2": true,
-    "score": 8
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 4
    },
    {
-    "title": "Assistant Store Manager - Chapel Hills Mall",
-    "location": "Colorado Springs, CO, USA",
-    "url": "https://jobs.jcp.com/careers-home/jobs/1123957?lang=en-us",
+    "title": "Salon Customer Experience Specialist - Stonecreek Crossing",
+    "location": "San Marcos, TX, USA",
+    "url": "https://jobs.jcp.com/careers-home/jobs/1098043?lang=en-us",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
     "isEng": false,
     "java": false,
     "flutter": false,
-    "senior": true,
-    "exp": [
-     [
-      2,
-      6
-     ]
-    ],
-    "expFits2": true,
-    "score": 8
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 4
    },
    {
-    "title": "Assistant Store Manager - West Town Mall",
-    "location": "Knoxville, TN, USA",
-    "url": "https://jobs.jcp.com/careers-home/jobs/1123307?lang=en-us",
+    "title": "Sales Floor Supervisor - La Palmera Mall",
+    "location": "Corpus Christi, TX, USA",
+    "url": "https://jobs.jcp.com/careers-home/jobs/1096112?lang=en-us",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
     "isEng": false,
     "java": false,
     "flutter": false,
-    "senior": true,
-    "exp": [
-     [
-      2,
-      6
-     ]
-    ],
-    "expFits2": true,
-    "score": 8
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 4
+   },
+   {
+    "title": "Supervisor - Gurnee Mills",
+    "location": "Gurnee, IL, USA",
+    "url": "https://jobs.jcp.com/careers-home/jobs/1128100?lang=en-us",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 4
    },
    {
     "title": "Sales Floor Supervisor - Westfarms Mall",
@@ -26192,6 +26334,21 @@
     "score": 4
    },
    {
+    "title": "Sales Floor Supervisor - Fayette Mall",
+    "location": "Lexington, KY, USA",
+    "url": "https://jobs.jcp.com/careers-home/jobs/1095785?lang=en-us",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 4
+   },
+   {
     "title": "Supervisor - Fashion Mall at Keystone",
     "location": "Indianapolis, IN, USA",
     "url": "https://jobs.jcp.com/careers-home/jobs/1127787?lang=en-us",
@@ -26207,204 +26364,9 @@
     "score": 4
    },
    {
-    "title": "Beauty Consultant - Mall Saint Matthews",
-    "location": "Louisville, KY, USA",
-    "url": "https://jobs.jcp.com/careers-home/jobs/1111971?lang=en-us",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 4
-   },
-   {
-    "title": "Sales Floor Assistant - Mall Saint Matthews",
-    "location": "Louisville, KY, USA",
-    "url": "https://jobs.jcp.com/careers-home/jobs/1103887?lang=en-us",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 4
-   },
-   {
-    "title": "Supervisor - Leesburg Premium Outlets",
-    "location": "Leesburg, VA, USA",
-    "url": "https://jobs.jcp.com/careers-home/jobs/1127519?lang=en-us",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 4
-   },
-   {
-    "title": "Supervisor - Northridge Mall",
-    "location": "Salinas, CA, USA",
-    "url": "https://jobs.jcp.com/careers-home/jobs/1127479?lang=en-us",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 4
-   },
-   {
-    "title": "Salon Customer Experience Specialist - Three Rivers Mall",
-    "location": "Kelso, WA, USA",
-    "url": "https://jobs.jcp.com/careers-home/jobs/1095030?lang=en-us",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 4
-   },
-   {
-    "title": "Supervisor - Philadelphia Premium Outlets",
-    "location": "Pottstown, PA, USA",
-    "url": "https://jobs.jcp.com/careers-home/jobs/1128102?lang=en-us",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 4
-   },
-   {
-    "title": "Supervisor - Smith Haven Mall",
-    "location": "Lake Grove, NY, USA",
-    "url": "https://jobs.jcp.com/careers-home/jobs/1127570?lang=en-us",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 4
-   },
-   {
-    "title": "Supervisor - Silver Sands Premium Outlets",
-    "location": "Destin, FL, USA",
-    "url": "https://jobs.jcp.com/careers-home/jobs/1127243?lang=en-us",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 4
-   },
-   {
-    "title": "Salon Customer Experience Specialist - Southprk Meadows S/C",
-    "location": "Austin, TX, USA",
-    "url": "https://jobs.jcp.com/careers-home/jobs/1095356?lang=en-us",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 4
-   },
-   {
-    "title": "Sales Floor Supervisor - Columbiana Ctr Mall",
-    "location": "Columbia, SC, USA",
-    "url": "https://jobs.jcp.com/careers-home/jobs/1095549?lang=en-us",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 4
-   },
-   {
-    "title": "Supervisor - South Shore Mall",
-    "location": "Bay Shore, NY, USA",
-    "url": "https://jobs.jcp.com/careers-home/jobs/1127444?lang=en-us",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 4
-   },
-   {
-    "title": "Supervisor - Tanger Outlets Deer Park",
-    "location": "Deer Park, NY, USA",
-    "url": "https://jobs.jcp.com/careers-home/jobs/1128099?lang=en-us",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 4
-   },
-   {
-    "title": "Beauty Consultant - Apache Mall",
-    "location": "Rochester, MN, USA",
-    "url": "https://jobs.jcp.com/careers-home/jobs/1111954?lang=en-us",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 4
-   },
-   {
-    "title": "Beauty Lead - Fox River Mall",
-    "location": "Appleton, WI, USA",
-    "url": "https://jobs.jcp.com/careers-home/jobs/1120663?lang=en-us",
+    "title": "Beauty Lead - Fayette Mall",
+    "location": "Lexington, KY, USA",
+    "url": "https://jobs.jcp.com/careers-home/jobs/1120691?lang=en-us",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
@@ -26417,9 +26379,39 @@
     "score": -18
    },
    {
-    "title": "Trend Manager",
-    "location": "Jersey City, New Jersey, United States",
-    "url": "https://jobs.jcp.com/careers-home/jobs/9337?lang=en-us",
+    "title": "Beauty Lead - Shoppes @ Buckland",
+    "location": "Manchester, CT, USA",
+    "url": "https://jobs.jcp.com/careers-home/jobs/1120600?lang=en-us",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [],
+    "expFits2": false,
+    "score": -18
+   },
+   {
+    "title": "Beauty Lead - Lynnhaven Mall",
+    "location": "Virginia Beach, VA, USA",
+    "url": "https://jobs.jcp.com/careers-home/jobs/1120621?lang=en-us",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [],
+    "expFits2": false,
+    "score": -18
+   },
+   {
+    "title": "Store Manager",
+    "location": "Harrisonburg, Virginia, United States",
+    "url": "https://jobs.jcp.com/careers-home/jobs/9348?lang=en-us",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
@@ -26430,7 +26422,7 @@
     "exp": [
      [
       5,
-      7
+      9
      ]
     ],
     "expFits2": false,
@@ -26441,12 +26433,12 @@
   "matches": [],
   "nearMatches": [],
   "closest": {
-   "title": "Sales Associate - Destiny USA",
-   "location": "Syracuse, NY, USA",
-   "url": "https://jobs.jcp.com/careers-home/jobs/1126704?lang=en-us",
+   "title": "Men’s Clothing Sales Associate - Mall Saint Matthews",
+   "location": "Louisville, KY, USA",
+   "url": "https://jobs.jcp.com/careers-home/jobs/1128688?lang=en-us",
    "team": "",
-   "text": "Overview Our Sales Associates promote our culture, values and mission. As a Sales Associate, your number one job is to share your love of fashion and do whatever it takes to create an amazing shopping experience for our customers. Who You Are: Engaging personality who provides great service. Excited to meet new people. Thoughtful with a desire to make others feel good about themselves and their individual style. Responsibilities As a Sales Associate you will: Engage and connect with customers to create an amazing shopping experience. Achieve and exceed sales goals by executing our selling strategy. Share product knowledge with customers to maximize sales. Engage with customers to build relationships and brand loyalty by using company tools. Show understanding of customer's personal style when offering fashion advice. Inspire customers with your product knowledge to cater to their needs. Assist with daily opening and closing tasks to maintain a clean, neat, and tidy store. Complete assigned job responsibilities such as floor sets, filling the floor, ringing up customers, etc. Remain positive and professional, working together with the team to make a great environment for our customers and each other. Model our values of respect, integrity, teamwork, compassion, accountability, and inclusivity. Qualifications Flexible availability to meet the needs of the business (including evenings and weekends). Other Requirements Bend, lift, open and move product and fixtures up to 50 lbs., as needed. ** REASONABLE ACCOMMODATION The Company is committed to providing reasonable accommodation to enable qualified employees with disabilities to perform the essential functions of their jobs as required by the Americans with Disabilities Act (ADA). What you get If eligible, we offer a competitive benefits package including medical/dental/vision, term life insurance, paid vacation/holidays*, and 401(k) with Company match. All associates are eligible for an associate discount on Catalyst Brands merchandise. For paid holidays, associates who are eligible for paid vacation (MTO) are also eligible for eight paid holidays during the calendar year. All store hourly associates scheduled to work on a designated holiday will receive additional compensation. *For paid vacation days, as well as eligibility requirements for other benefits, please visit www.catalystbrandsbenefits.com Pay Range USD $16.75/Hr -USD $23.00/Hr. UNAVAILABLE",
-   "score": 16,
+   "text": "Position Summary The Men's Clothing Sales Associate delivers a best‑in‑class customer experience by driving sales, providing expert product knowledge, and maintaining a visually compelling sales floor. This role focuses on building client relationships, executing merchandise recovery, and accurately communicating merchandise‑on‑hand opportunities to support store performance and profitability. Key Responsibilities Customer Experience & Sales Drive sales performance through personalized service and proactive engagement. Utilize suggestive selling techniques to increase units per transaction and strengthen customer loyalty. Offer knowledgeable style guidance, fit recommendations, and product solutions based on customer needs. Maintain a positive, professional, and customer‑focused presence at all times. Clienteling Build and maintain a personal client book through relationship‑building, follow‑up communication, and outreach. Leverage client data, preferences, and history to increase repeat visits and long-term loyalty. Deliver a personalized shopping experience that aligns with each client's lifestyle and wardrobe needs. Merchandising & Presentation Execute daily merchandise recovery to ensure the sales floor is neat, organized, and visually appealing. Support floor set execution, replenishment, folding standards, and visual direction as assigned. Ensure merchandise is properly sized, signed, tagged, and displayed according to company standards. Inventory & Operations Verify merchandise-on-hand (MOH) accuracy by checking stockroom and sales floor quantities. Identify, document, and communicate out-of-stock issues, replenishment needs, and inventory discrepancies. Assist with shipment processing, product organization, and inventory control procedures. Adhere to all operational policies and asset protection guidelines. Core Competencies & Accomplishments Sales Focus - Drives sales performance through confident engagement, strong product knowledge, and effective suggestive selling; identifies opportunities to maximize revenue and customer satisfaction. Customer Service Excellence - Provides exceptional service through active listening, personalized recommendations, and positive interactions; ensures every customer feels supported and valued; takes responsibility for creating a seamless experience. Clienteling & Relationship Building - Builds lasting customer relationships through outreach, follow-up, and tailored service; maintains accurate client records to support repeat business and higher sales potential. Results Orientation - Makes informed decisions that support sales, customer satisfaction, and operational efficiency; adapts quickly to changing business needs while maintaining high performance standards. Ownership & Accountability - Takes responsibility for personal actions, sales results, and customer interactions; follows through on commitments; supports the team with a cooperative and solution-oriented mindset. Merchandising Excellence - Maintains the store's visual appeal through consistent recovery, accurate sizing, and adherence to visual standards; helps create an inviting shopping environment. Inventory Awareness - Ensures accurate merchandise-on-hand levels, identifies stock issues, and communicates gaps promptly; supports inventory integrity and product availability for customers. Urgency & Efficiency - Works with energy and focus, prioritizing tasks to support both sales and operational needs; takes initiative to resolve issues and elevate the customer experience quickly. Qualifications 1+ year of retail, apparel, or sales experience preferred. Strong communication and interpersonal skills. Ability to provide styling suggestions with confidence and professionalism. Highly organized with strong attention to detail. Ability to stand and move for extended periods and lift moderate-weight items. Comfortable working in a fast-paced, customer-driven environment. What you get: If eligible, we offer a competitive benefits package including medical/dental/vision, term life insurance, paid vacation/holidays*, and 401(k) with Company match. All associates are eligible for an associate discount on JCPenney merchandise. For paid holidays, associates who are eligible for paid vacation (MTO) are also eligible for eight paid holidays during the calendar year. All store hourly associates scheduled to work on a designated holiday will receive additional compensation. *For paid vacation days, as well as eligibility requirements for other benefits, please visit www.catalystbrandsbenefits.com Pay Range USD $12.00/Hr -USD $15.00/Hr. UNAVAILABLE",
+   "score": 42,
    "isMatch": false,
    "isEng": false,
    "java": false,
@@ -26455,8 +26447,14 @@
    "india": false,
    "senior": false,
    "junior": true,
-   "exp": [],
-   "expFits2": false
+   "intern": false,
+   "exp": [
+    [
+     1,
+     5
+    ]
+   ],
+   "expFits2": true
   },
   "closestEng": null,
   "trace": {
@@ -26474,48 +26472,64 @@
     },
     {
      "url": "https://jcpenney.com/career",
-     "status": 404,
-     "bytes": 4573
+     "status": 503,
+     "bytes": 62
     },
     {
      "url": "https://jcpenney.com/jobs",
-     "status": 404,
-     "bytes": 4573
+     "status": 503,
+     "bytes": 62
     },
     {
      "url": "https://jcpenney.com/join-us",
-     "status": 404,
-     "bytes": 4573
+     "status": 503,
+     "bytes": 62
     },
     {
      "url": "https://jcpenney.com/join-our-team",
-     "status": 404,
-     "bytes": 4573
+     "status": 503,
+     "bytes": 62
     },
     {
      "url": "https://jcpenney.com/careers.html",
      "status": 200,
-     "bytes": 470345
+     "bytes": 470344
     },
     {
      "url": "https://jcpenney.com/company/careers",
-     "status": 404,
-     "bytes": 4573
+     "status": 503,
+     "bytes": 62
     },
     {
      "url": "https://jcpenney.com/about/careers",
-     "status": 404,
-     "bytes": 4573
+     "status": 403,
+     "bytes": 199
     },
     {
      "url": "https://jcpenney.com/current-openings",
-     "status": 404,
-     "bytes": 4573
+     "status": 403,
+     "bytes": 199
     },
     {
      "url": "https://jcpenney.com/",
      "status": 200,
-     "bytes": 651518
+     "bytes": 655744
+    },
+    {
+     "url": "https://careers.www.jcpenney.com",
+     "status": 0,
+     "bytes": 0,
+     "error": "fetch failed"
+    },
+    {
+     "url": "https://www.jcpenney.com/careers",
+     "status": 200,
+     "bytes": 470347
+    },
+    {
+     "url": "https://www.jcpenney.com/career",
+     "status": 404,
+     "bytes": 4582
     }
    ],
    "candidates": [
@@ -26535,7 +26549,7 @@
     "workable:jcpenney -> no board"
    ]
   },
-  "ms": 60725
+  "ms": 78618
  },
  {
   "company": "JSW One MSME",
@@ -26623,7 +26637,7 @@
     "workable:jswonemsme -> no board"
    ]
   },
-  "ms": 41294
+  "ms": 58223
  },
  {
   "company": "Jubilant Pharmova",
@@ -26777,7 +26791,7 @@
     "workable:jubilantpharmova -> no board"
    ]
   },
-  "ms": 17022
+  "ms": 14269
  },
  {
   "company": "Jubilant Ingrevia",
@@ -26926,7 +26940,7 @@
     "workable:jubilantingrevia -> no board"
    ]
   },
-  "ms": 17402
+  "ms": 19214
  },
  {
   "company": "Jindal Stainless",
@@ -26997,7 +27011,7 @@
     "workable:jindalstainless -> no board"
    ]
   },
-  "ms": 62697
+  "ms": 57681
  },
  {
   "company": "JK Cement",
@@ -27042,6 +27056,21 @@
     "score": 30
    },
    {
+    "title": "No jobs currently available - Check out our other opportunities.",
+    "location": "",
+    "url": "https://careers.jkcement.com",
+    "india": true,
+    "locationSaysIndia": false,
+    "hasLocation": false,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 19
+   },
+   {
     "title": "IC-GCSA Central Role JOB",
     "location": "Prism Tower, Gurugram, IN",
     "url": "https://careers.jkcement.com/job/Prism-Tower%2C-Gurugram-IC-GCSA-Central-Role-JOB/1357170966/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
@@ -27078,21 +27107,6 @@
     "india": true,
     "locationSaysIndia": true,
     "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 19
-   },
-   {
-    "title": "No jobs currently available - Check out our other opportunities.",
-    "location": "",
-    "url": "https://careers.jkcement.com",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
     "isEng": false,
     "java": false,
     "flutter": false,
@@ -27588,6 +27602,7 @@
    "india": true,
    "senior": false,
    "junior": true,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -27597,7 +27612,7 @@
     {
      "url": "https://careers.jkcement.com",
      "status": 200,
-     "bytes": 40181
+     "bytes": 40180
     },
     {
      "url": "https://jkcement.com/careers",
@@ -27622,7 +27637,7 @@
     "successfactors:careers.jkcement.com -> 34 jobs"
    ]
   },
-  "ms": 5325
+  "ms": 5515
  },
  {
   "company": "JK Tyre & Industries",
@@ -27670,7 +27685,7 @@
     "workable:jktyre -> no board"
    ]
   },
-  "ms": 6718
+  "ms": 7448
  },
  {
   "company": "Jaquar Group",
@@ -27816,21 +27831,6 @@
    },
    {
     "title": "Sr. Off - JW/OC Sales Consultant",
-    "location": "",
-    "url": "https://www.jaquar.com/en/careers",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": true,
-    "exp": [],
-    "expFits2": false,
-    "score": -3
-   },
-   {
-    "title": "Sr. Officer - MDS",
     "location": "",
     "url": "https://www.jaquar.com/en/careers",
     "india": true,
@@ -28040,6 +28040,21 @@
     "score": -3
    },
    {
+    "title": "Sr. Exe - JW/OC Sales Consultant",
+    "location": "",
+    "url": "https://www.jaquar.com/en/careers",
+    "india": true,
+    "locationSaysIndia": false,
+    "hasLocation": false,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [],
+    "expFits2": false,
+    "score": -3
+   },
+   {
     "title": "DGM - Regional Manager PLS",
     "location": "",
     "url": "https://www.jaquar.com/en/careers",
@@ -28130,6 +28145,21 @@
     "score": -3
    },
    {
+    "title": "Manager - TL HWS",
+    "location": "",
+    "url": "https://www.jaquar.com/en/careers",
+    "india": true,
+    "locationSaysIndia": false,
+    "hasLocation": false,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [],
+    "expFits2": false,
+    "score": -3
+   },
+   {
     "title": "Assistant Manager - TL HWS",
     "location": "",
     "url": "https://www.jaquar.com/en/careers",
@@ -28190,22 +28220,7 @@
     "score": -3
    },
    {
-    "title": "Manager - TL HWS",
-    "location": "",
-    "url": "https://www.jaquar.com/en/careers",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": true,
-    "exp": [],
-    "expFits2": false,
-    "score": -3
-   },
-   {
-    "title": "Sr. Exe - JW/OC Sales Consultant",
+    "title": "Sr. Officer - MDS",
     "location": "",
     "url": "https://www.jaquar.com/en/careers",
     "india": true,
@@ -28239,6 +28254,7 @@
    "india": true,
    "senior": false,
    "junior": true,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -28258,6 +28274,7 @@
    "india": true,
    "senior": true,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -28345,7 +28362,7 @@
     "workable:jaquar -> no board"
    ]
   },
-  "ms": 9840
+  "ms": 11921
  },
  {
   "company": "Jigsaw Academy",
@@ -28488,7 +28505,7 @@
     "workable:jigsawacademy -> no board"
    ]
   },
-  "ms": 3108
+  "ms": 4096
  },
  {
   "company": "Jaypore",
@@ -28632,6 +28649,6 @@
     "workable:jaypore -> no board"
    ]
   },
-  "ms": 4475
+  "ms": 5920
  }
 ]

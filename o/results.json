@@ -21,12 +21,12 @@
     {
      "url": "https://oracle.com/careers",
      "status": 200,
-     "bytes": 51478
+     "bytes": 51483
     },
     {
      "url": "https://oracle.com/career",
      "status": 200,
-     "bytes": 51478
+     "bytes": 51483
     },
     {
      "url": "https://oracle.com/jobs",
@@ -37,7 +37,7 @@
     {
      "url": "https://oracle.com/join-us",
      "status": 404,
-     "bytes": 2999
+     "bytes": 3004
     }
    ],
    "candidates": [
@@ -55,7 +55,7 @@
     "workable:oracle -> no board"
    ]
   },
-  "ms": 24001
+  "ms": 21206
  },
  {
   "company": "Ola",
@@ -80,52 +80,52 @@
     {
      "url": "https://olacabs.com/careers",
      "status": 200,
-     "bytes": 139865
+     "bytes": 139904
     },
     {
      "url": "https://olacabs.com/career",
      "status": 200,
-     "bytes": 139865
+     "bytes": 139904
     },
     {
      "url": "https://olacabs.com/jobs",
      "status": 200,
-     "bytes": 139865
+     "bytes": 139904
     },
     {
      "url": "https://olacabs.com/join-us",
      "status": 200,
-     "bytes": 139865
+     "bytes": 139904
     },
     {
      "url": "https://olacabs.com/join-our-team",
      "status": 200,
-     "bytes": 139865
+     "bytes": 139904
     },
     {
      "url": "https://olacabs.com/careers.html",
      "status": 200,
-     "bytes": 139865
+     "bytes": 139904
     },
     {
      "url": "https://olacabs.com/company/careers",
      "status": 200,
-     "bytes": 139865
+     "bytes": 139904
     },
     {
      "url": "https://olacabs.com/about/careers",
      "status": 200,
-     "bytes": 139865
+     "bytes": 139904
     },
     {
      "url": "https://olacabs.com/current-openings",
      "status": 200,
-     "bytes": 139865
+     "bytes": 139904
     },
     {
      "url": "https://olacabs.com/",
      "status": 200,
-     "bytes": 139865
+     "bytes": 139904
     },
     {
      "url": "https://careers.www.olacabs.com",
@@ -136,7 +136,7 @@
     {
      "url": "https://www.olacabs.com/careers",
      "status": 200,
-     "bytes": 84079
+     "bytes": 84121
     },
     {
      "url": "https://www.olacabs.com/career",
@@ -159,7 +159,7 @@
     "workable:olacabs -> no board"
    ]
   },
-  "ms": 18821
+  "ms": 22782
  },
  {
   "company": "Ola Electric",
@@ -177,7 +177,7 @@
    "pages": [],
    "attempts": []
   },
-  "ms": 90001
+  "ms": 90002
  },
  {
   "company": "OYO",
@@ -202,7 +202,7 @@
     {
      "url": "https://oyorooms.com/careers",
      "status": 200,
-     "bytes": 139461
+     "bytes": 139349
     },
     {
      "url": "https://oyorooms.com/career",
@@ -212,27 +212,7 @@
     {
      "url": "https://oyorooms.com/jobs",
      "status": 404,
-     "bytes": 68990
-    },
-    {
-     "url": "https://oyorooms.com/join-us",
-     "status": 404,
-     "bytes": 68993
-    },
-    {
-     "url": "https://oyorooms.com/join-our-team",
-     "status": 404,
-     "bytes": 68999
-    },
-    {
-     "url": "https://oyorooms.com/careers.html",
-     "status": 404,
-     "bytes": 68998
-    },
-    {
-     "url": "https://oyorooms.com/company/careers",
-     "status": 404,
-     "bytes": 69001
+     "bytes": 68857
     }
    ],
    "candidates": [
@@ -250,7 +230,7 @@
     "workable:oyorooms -> no board"
    ]
   },
-  "ms": 15068
+  "ms": 15379
  },
  {
   "company": "Optum India",
@@ -275,15 +255,71 @@
     {
      "url": "https://optum.com/careers",
      "status": 200,
-     "bytes": 144523
+     "bytes": 0
     },
     {
      "url": "https://optum.com/career",
      "status": 200,
-     "bytes": 194365
+     "bytes": 0
     },
     {
      "url": "https://optum.com/jobs",
+     "status": 200,
+     "bytes": 0
+    },
+    {
+     "url": "https://optum.com/join-us",
+     "status": 200,
+     "bytes": 0
+    },
+    {
+     "url": "https://optum.com/join-our-team",
+     "status": 200,
+     "bytes": 0
+    },
+    {
+     "url": "https://optum.com/careers.html",
+     "status": 200,
+     "bytes": 0
+    },
+    {
+     "url": "https://optum.com/company/careers",
+     "status": 200,
+     "bytes": 0
+    },
+    {
+     "url": "https://optum.com/about/careers",
+     "status": 200,
+     "bytes": 0
+    },
+    {
+     "url": "https://optum.com/current-openings",
+     "status": 200,
+     "bytes": 0
+    },
+    {
+     "url": "https://optum.com/",
+     "status": 200,
+     "bytes": 0
+    },
+    {
+     "url": "https://careers.www.optum.com",
+     "status": 0,
+     "bytes": 0,
+     "error": "fetch failed"
+    },
+    {
+     "url": "https://www.optum.com/careers",
+     "status": 200,
+     "bytes": 144521
+    },
+    {
+     "url": "https://www.optum.com/career",
+     "status": 200,
+     "bytes": 194365
+    },
+    {
+     "url": "https://www.optum.com/jobs",
      "status": 404,
      "bytes": 113504
     }
@@ -303,7 +339,7 @@
     "workable:optum -> no board"
    ]
   },
-  "ms": 32169
+  "ms": 38864
  },
  {
   "company": "Oxyzo",
@@ -381,7 +417,7 @@
     "workable:oxyzo -> no board"
    ]
   },
-  "ms": 15230
+  "ms": 13511
  },
  {
   "company": "Observe.AI",
@@ -800,6 +836,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [
     [
      1,
@@ -823,6 +860,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [
     [
      1,
@@ -906,7 +944,7 @@
     "greenhouse:observeai -> 19 jobs"
    ]
   },
-  "ms": 4735
+  "ms": 4312
  },
  {
   "company": "Olam India",
@@ -1001,6 +1039,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -1015,7 +1054,7 @@
     {
      "url": "https://olamgroup.com/careers",
      "status": 200,
-     "bytes": 197522
+     "bytes": 197498
     },
     {
      "url": "https://olamgroup.com/career",
@@ -1040,7 +1079,7 @@
     "successfactors:careers.olamgroup.com -> 3 jobs"
    ]
   },
-  "ms": 7594
+  "ms": 6851
  },
  {
   "company": "OneCard",
@@ -1070,37 +1109,37 @@
     {
      "url": "https://getonecard.app/career",
      "status": 403,
-     "bytes": 111
+     "bytes": 243
     },
     {
      "url": "https://getonecard.app/jobs",
      "status": 403,
-     "bytes": 263
+     "bytes": 111
     },
     {
      "url": "https://getonecard.app/join-us",
      "status": 403,
-     "bytes": 111
+     "bytes": 243
     },
     {
      "url": "https://getonecard.app/join-our-team",
      "status": 403,
-     "bytes": 263
+     "bytes": 111
     },
     {
      "url": "https://getonecard.app/careers.html",
      "status": 403,
-     "bytes": 263
+     "bytes": 111
     },
     {
      "url": "https://getonecard.app/company/careers",
      "status": 403,
-     "bytes": 111
+     "bytes": 263
     },
     {
      "url": "https://getonecard.app/about/careers",
      "status": 403,
-     "bytes": 243
+     "bytes": 111
     },
     {
      "url": "https://getonecard.app/current-openings",
@@ -1126,7 +1165,7 @@
     {
      "url": "https://www.getonecard.app/career",
      "status": 403,
-     "bytes": 111
+     "bytes": 243
     },
     {
      "url": "https://www.getonecard.app/jobs",
@@ -1136,7 +1175,7 @@
     {
      "url": "https://www.getonecard.app/join-us",
      "status": 403,
-     "bytes": 263
+     "bytes": 243
     },
     {
      "url": "https://www.getonecard.app/join-our-team",
@@ -1146,12 +1185,12 @@
     {
      "url": "https://www.getonecard.app/careers.html",
      "status": 403,
-     "bytes": 263
+     "bytes": 243
     },
     {
      "url": "https://www.getonecard.app/company/careers",
      "status": 403,
-     "bytes": 243
+     "bytes": 111
     },
     {
      "url": "https://www.getonecard.app/about/careers",
@@ -1199,7 +1238,7 @@
     "workable:getonecard -> no board"
    ]
   },
-  "ms": 7668
+  "ms": 5585
  },
  {
   "company": "Onsurity",
@@ -1218,7 +1257,7 @@
     {
      "url": "https://careers.onsurity.com",
      "status": 403,
-     "bytes": 263
+     "bytes": 243
     },
     {
      "url": "https://onsurity.com/careers",
@@ -1261,15 +1300,35 @@
     "workable:onsurity -> no board"
    ]
   },
-  "ms": 4101
+  "ms": 5144
  },
  {
   "company": "OpenText India",
   "country": "India",
   "source": "phenom:_self",
   "error": null,
-  "totalJobs": 163,
+  "totalJobs": 167,
   "jobs": [
+   {
+    "title": "Software Developer",
+    "location": "Bangalore, Karnataka",
+    "url": "https://careers.opentext.com/us/en/job/52858",
+    "india": true,
+    "locationSaysIndia": true,
+    "hasLocation": true,
+    "isEng": true,
+    "java": true,
+    "flutter": false,
+    "senior": false,
+    "exp": [
+     [
+      3,
+      5
+     ]
+    ],
+    "expFits2": false,
+    "score": 82
+   },
    {
     "title": "Premium Support Engineer- Fortify",
     "location": "Bangalore, Karnataka",
@@ -1301,9 +1360,9 @@
     "score": 49
    },
    {
-    "title": "Premium Support Engineer (Content Server)",
-    "location": "Mumbai, Maharashtra",
-    "url": "https://careers.opentext.com/us/en/job/51857",
+    "title": "Premium Support Developer",
+    "location": "Bangalore, Karnataka",
+    "url": "https://careers.opentext.com/us/en/job/51919",
     "india": true,
     "locationSaysIndia": true,
     "hasLocation": true,
@@ -1336,9 +1395,9 @@
     "score": 38
    },
    {
-    "title": "Principal AI Developer",
-    "location": "Waterloo, Ontario",
-    "url": "https://careers.opentext.com/us/en/job/51622",
+    "title": "Sr. AI Developer",
+    "location": "Cork",
+    "url": "https://careers.opentext.com/us/en/job/52403",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
@@ -1348,12 +1407,8 @@
     "senior": true,
     "exp": [
      [
-      2,
-      6
-     ],
-     [
-      5,
-      9
+      1,
+      5
      ]
     ],
     "expFits2": true,
@@ -1408,50 +1463,6 @@
     "score": 38
    },
    {
-    "title": "Sr. AI Developer",
-    "location": "Cork",
-    "url": "https://careers.opentext.com/us/en/job/52403",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": true,
-    "java": false,
-    "flutter": false,
-    "senior": true,
-    "exp": [
-     [
-      1,
-      5
-     ]
-    ],
-    "expFits2": true,
-    "score": 38
-   },
-   {
-    "title": "Sr. Software Developer",
-    "location": "Gaithersburg, Maryland",
-    "url": "https://careers.opentext.com/us/en/job/52634",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": true,
-    "java": false,
-    "flutter": false,
-    "senior": true,
-    "exp": [
-     [
-      3,
-      7
-     ],
-     [
-      2,
-      6
-     ]
-    ],
-    "expFits2": true,
-    "score": 38
-   },
-   {
     "title": "Sr. Premium Support Engineer - Identity & Access Management (IAM)",
     "location": "Reading",
     "url": "https://careers.opentext.com/us/en/job/52129",
@@ -1497,9 +1508,9 @@
     "score": 37
    },
    {
-    "title": "Sr. Principal AI Developer",
-    "location": "Waterloo, Ontario",
-    "url": "https://careers.opentext.com/us/en/job/50073",
+    "title": "Lead C/C++ Developer (Voltage SecureData)",
+    "location": "Mississauga, Ontario",
+    "url": "https://careers.opentext.com/us/en/job/52169",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
@@ -1512,9 +1523,24 @@
     "score": 37
    },
    {
-    "title": "Lead C/C++ Developer (Voltage SecureData)",
+    "title": "Principal IT Software Developer",
+    "location": "Waterloo, Ontario",
+    "url": "https://careers.opentext.com/us/en/job/52320",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": true,
+    "java": true,
+    "flutter": false,
+    "senior": true,
+    "exp": [],
+    "expFits2": false,
+    "score": 37
+   },
+   {
+    "title": "Lead Software Developer (Fortify Cloud development)",
     "location": "Mississauga, Ontario",
-    "url": "https://careers.opentext.com/us/en/job/52169",
+    "url": "https://careers.opentext.com/us/en/job/52699",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
@@ -1602,6 +1628,21 @@
     "score": 30
    },
    {
+    "title": "Principal Software Developer",
+    "location": "Bangalore, Karnataka",
+    "url": "https://careers.opentext.com/us/en/job/52717",
+    "india": true,
+    "locationSaysIndia": true,
+    "hasLocation": true,
+    "isEng": true,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [],
+    "expFits2": false,
+    "score": 27
+   },
+   {
     "title": "Cloud Applications Consultant - F.I.E.R",
     "location": "Makati City, National Capital Region (NCR)",
     "url": "https://careers.opentext.com/us/en/job/28667",
@@ -1660,6 +1701,26 @@
     "exp": [],
     "expFits2": false,
     "score": 16
+   },
+   {
+    "title": "Client Executive | Sales - 15+ Years",
+    "location": "Gurugram, Haryana",
+    "url": "https://careers.opentext.com/us/en/job/52157",
+    "india": true,
+    "locationSaysIndia": true,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [
+     [
+      15,
+      19
+     ]
+    ],
+    "expFits2": false,
+    "score": 15
    },
    {
     "title": "Lead AI Developer",
@@ -1737,6 +1798,36 @@
     "score": 12
    },
    {
+    "title": "Lead Site Reliability Engineer",
+    "location": "Cork",
+    "url": "https://careers.opentext.com/us/en/job/52203",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": true,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [],
+    "expFits2": false,
+    "score": 12
+   },
+   {
+    "title": "Lead Software Developer, Design Systems",
+    "location": "Richmond Hill, Ontario",
+    "url": "https://careers.opentext.com/us/en/job/51970",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": true,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [],
+    "expFits2": false,
+    "score": 12
+   },
+   {
     "title": "Sr. AI Developer",
     "location": "Cork",
     "url": "https://careers.opentext.com/us/en/job/52387",
@@ -1755,21 +1846,6 @@
     "title": "Director AI Engineering & Applied AI Platform",
     "location": "Cork",
     "url": "https://careers.opentext.com/us/en/job/52215",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": true,
-    "java": false,
-    "flutter": false,
-    "senior": true,
-    "exp": [],
-    "expFits2": false,
-    "score": 12
-   },
-   {
-    "title": "Sr. Backup Engineer",
-    "location": "Cluj-Napoca",
-    "url": "https://careers.opentext.com/us/en/job/51378",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
@@ -1827,36 +1903,6 @@
     "score": 12
    },
    {
-    "title": "Senior Cloud Applications Developer",
-    "location": "Cork",
-    "url": "https://careers.opentext.com/us/en/job/50681",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": true,
-    "java": false,
-    "flutter": false,
-    "senior": true,
-    "exp": [],
-    "expFits2": false,
-    "score": 12
-   },
-   {
-    "title": "Senior Site Reliability Engineer",
-    "location": "Cork",
-    "url": "https://careers.opentext.com/us/en/job/50382",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": true,
-    "java": false,
-    "flutter": false,
-    "senior": true,
-    "exp": [],
-    "expFits2": false,
-    "score": 12
-   },
-   {
     "title": "Vendor Management Specialist",
     "location": "Waterloo, Ontario",
     "url": "https://careers.opentext.com/us/en/job/52832",
@@ -1873,6 +1919,21 @@
       5
      ]
     ],
+    "expFits2": false,
+    "score": 12
+   },
+   {
+    "title": "Lead AI Developer",
+    "location": "Cork",
+    "url": "https://careers.opentext.com/us/en/job/52383",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": true,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [],
     "expFits2": false,
     "score": 12
    },
@@ -1964,26 +2025,6 @@
     "score": 8
    },
    {
-    "title": "Senior Data Center Engineer",
-    "location": "Amstelveen",
-    "url": "https://careers.opentext.com/us/en/job/52175",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": true,
-    "java": false,
-    "flutter": false,
-    "senior": true,
-    "exp": [
-     [
-      10,
-      14
-     ]
-    ],
-    "expFits2": false,
-    "score": 8
-   },
-   {
     "title": "Lead Premium Support Specialist - TeamSite",
     "location": "Richmond Hill, Ontario",
     "url": "https://careers.opentext.com/us/en/job/52050",
@@ -2002,21 +2043,6 @@
     "title": "Lead Premium Support Specialist - Fortify (Enterprise Application Security)",
     "location": "Richmond Hill, Ontario",
     "url": "https://careers.opentext.com/us/en/job/52048",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": true,
-    "flutter": false,
-    "senior": true,
-    "exp": [],
-    "expFits2": false,
-    "score": 7
-   },
-   {
-    "title": "Lead Consultant",
-    "location": "Virtual",
-    "url": "https://careers.opentext.com/us/en/job/52014",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
@@ -2134,39 +2160,84 @@
     "score": 4
    },
    {
-    "title": "Strategic SDR - Arabic Speaking - KSA",
-    "location": "SAU",
-    "url": "https://careers.opentext.com/us/en/job/52255",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 4
-   },
-   {
-    "title": "Cloud Services Project Coordinator",
-    "location": "Virtual",
-    "url": "https://careers.opentext.com/us/en/job/52881",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 4
-   },
-   {
     "title": "Client Executive",
+    "location": "Bucharest",
+    "url": "https://careers.opentext.com/us/en/job/52205",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 4
+   },
+   {
+    "title": "Strategic Solution Sales Executive (m/f/d)",
     "location": "Virtual",
-    "url": "https://careers.opentext.com/us/en/job/52073",
+    "url": "https://careers.opentext.com/us/en/job/52463",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 4
+   },
+   {
+    "title": "Commercial Solutions Sales Executive",
+    "location": "Tokyo, Tokyo",
+    "url": "https://careers.opentext.com/us/en/job/51659",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 4
+   },
+   {
+    "title": "Technical Support Specialist",
+    "location": "Waterloo, Ontario",
+    "url": "https://careers.opentext.com/us/en/job/52398",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 4
+   },
+   {
+    "title": "Commercial SSE Cybersecurity",
+    "location": "Tokyo, Tokyo",
+    "url": "https://careers.opentext.com/us/en/job/52565",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 4
+   },
+   {
+    "title": "Enterprise SDR - Arabic Speaking - KSA",
+    "location": "SAU",
+    "url": "https://careers.opentext.com/us/en/job/52256",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
@@ -2224,114 +2295,9 @@
     "score": 4
    },
    {
-    "title": "Commercial SSE Cybersecurity",
-    "location": "Tokyo, Tokyo",
-    "url": "https://careers.opentext.com/us/en/job/52565",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 4
-   },
-   {
     "title": "Hybrid Solution Sales Exec for Business Networks (,m/f/d)",
     "location": "Baden, Aargau",
     "url": "https://careers.opentext.com/us/en/job/52367",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 4
-   },
-   {
-    "title": "Commercial Solution Sales Executive",
-    "location": "Virtual",
-    "url": "https://careers.opentext.com/us/en/job/52818",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 4
-   },
-   {
-    "title": "Commercial Solution Sales Executive",
-    "location": "Virtual",
-    "url": "https://careers.opentext.com/us/en/job/52820",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 4
-   },
-   {
-    "title": "Client Executive - Healthcare Life Sciences",
-    "location": "Virtual",
-    "url": "https://careers.opentext.com/us/en/job/52782",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 4
-   },
-   {
-    "title": "Strategic Solution Sales Executive",
-    "location": "Virtual",
-    "url": "https://careers.opentext.com/us/en/job/52845",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 4
-   },
-   {
-    "title": "Strategic Solution Sales Executive (m/f/d)",
-    "location": "Virtual",
-    "url": "https://careers.opentext.com/us/en/job/52463",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 4
-   },
-   {
-    "title": "Client Executive",
-    "location": "Bucharest",
-    "url": "https://careers.opentext.com/us/en/job/52205",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
@@ -2359,6 +2325,36 @@
     "score": 4
    },
    {
+    "title": "Strategic Solution Sales Executive",
+    "location": "Virtual",
+    "url": "https://careers.opentext.com/us/en/job/52845",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 4
+   },
+   {
+    "title": "Client Executive - Healthcare Life Sciences",
+    "location": "Virtual",
+    "url": "https://careers.opentext.com/us/en/job/52782",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 4
+   },
+   {
     "title": "Client Executive, Army/DMA",
     "location": "Virtual",
     "url": "https://careers.opentext.com/us/en/job/52781",
@@ -2374,9 +2370,39 @@
     "score": 4
    },
    {
+    "title": "Commercial Solution Sales Executive",
+    "location": "Virtual",
+    "url": "https://careers.opentext.com/us/en/job/52818",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 4
+   },
+   {
     "title": "Commercial Solution Sales Exec - Cyber (m/f/d)",
     "location": "Virtual",
     "url": "https://careers.opentext.com/us/en/job/51175",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 4
+   },
+   {
+    "title": "Commercial Solution Sales Executive",
+    "location": "Virtual",
+    "url": "https://careers.opentext.com/us/en/job/52820",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
@@ -2449,6 +2475,21 @@
     "score": 4
    },
    {
+    "title": "Strategic Solution Sales Executive",
+    "location": "Virtual",
+    "url": "https://careers.opentext.com/us/en/job/52971",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 4
+   },
+   {
     "title": "Variable Compensation Analyst",
     "location": "Waterloo, Ontario",
     "url": "https://careers.opentext.com/us/en/job/52778",
@@ -2467,36 +2508,6 @@
     "title": "Expense Auditor",
     "location": "Waterloo, Ontario",
     "url": "https://careers.opentext.com/us/en/job/52880",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 4
-   },
-   {
-    "title": "Strategic Solution Sales Executive",
-    "location": "Virtual",
-    "url": "https://careers.opentext.com/us/en/job/52971",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 4
-   },
-   {
-    "title": "Technical Support Specialist",
-    "location": "Waterloo, Ontario",
-    "url": "https://careers.opentext.com/us/en/job/52397",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
@@ -2554,9 +2565,9 @@
     "score": 4
    },
    {
-    "title": "Strategic Solution Sales Executive - Cyber",
+    "title": "Commercial Solution Sales Executive",
     "location": "Virtual",
-    "url": "https://careers.opentext.com/us/en/job/52586",
+    "url": "https://careers.opentext.com/us/en/job/52430",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
@@ -2572,51 +2583,6 @@
     "title": "Enterprise SDR - German Speaking - Alps",
     "location": "Grasbrunn",
     "url": "https://careers.opentext.com/us/en/job/52494",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 4
-   },
-   {
-    "title": "Commercial Solution Sales Executive - ITOM",
-    "location": "North Sydney, New South Wales",
-    "url": "https://careers.opentext.com/us/en/job/52379",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 4
-   },
-   {
-    "title": "Solution Sales Executive",
-    "location": "Virtual",
-    "url": "https://careers.opentext.com/us/en/job/52491",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 4
-   },
-   {
-    "title": "Strategic Solution Sales Executive - Cyber",
-    "location": "Virtual",
-    "url": "https://careers.opentext.com/us/en/job/52584",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
@@ -2659,9 +2625,84 @@
     "score": 4
    },
    {
-    "title": "Commercial SDR - Swedish Speaking - Nordics",
-    "location": "Stockholm",
-    "url": "https://careers.opentext.com/us/en/job/52254",
+    "title": "ITOM Commercial Solutions Sales Executive",
+    "location": "Tokyo, Tokyo",
+    "url": "https://careers.opentext.com/us/en/job/51140",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 4
+   },
+   {
+    "title": "Technical Consultant Legal Tech",
+    "location": "Rheinbach",
+    "url": "https://careers.opentext.com/us/en/job/51226",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 4
+   },
+   {
+    "title": "Mid-Market Solution Sales Executive",
+    "location": "Dallas, Texas",
+    "url": "https://careers.opentext.com/us/en/job/52868",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 4
+   },
+   {
+    "title": "Mid-Market Solution Sales Executive",
+    "location": "Dallas, Texas",
+    "url": "https://careers.opentext.com/us/en/job/52867",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 4
+   },
+   {
+    "title": "Commercial Sales Development Representative",
+    "location": "Milan, Milan",
+    "url": "https://careers.opentext.com/us/en/job/52225",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 4
+   },
+   {
+    "title": "Client Executive (Melbourne)",
+    "location": "Virtual",
+    "url": "https://careers.opentext.com/us/en/job/52184",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
@@ -2689,9 +2730,9 @@
     "score": 4
    },
    {
-    "title": "Strategic Solution Sales Executive - Content",
-    "location": "Virtual",
-    "url": "https://careers.opentext.com/us/en/job/52969",
+    "title": "Client Order & Fulfillment Specialist",
+    "location": "Cork",
+    "url": "https://careers.opentext.com/us/en/job/52424",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
@@ -2704,9 +2745,69 @@
     "score": 4
    },
    {
-    "title": "Strategic Solution Sales Executive",
+    "title": "Strategic SDR - German Speaking - DACH",
+    "location": "Grasbrunn",
+    "url": "https://careers.opentext.com/us/en/job/52493",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 4
+   },
+   {
+    "title": "Commercial Solution Sales Executive",
     "location": "Virtual",
-    "url": "https://careers.opentext.com/us/en/job/52844",
+    "url": "https://careers.opentext.com/us/en/job/52928",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 4
+   },
+   {
+    "title": "Legal Counsel",
+    "location": "Ottawa, Ontario",
+    "url": "https://careers.opentext.com/us/en/job/52016",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 4
+   },
+   {
+    "title": "Commercial SDR - Swedish Speaking - Nordics",
+    "location": "Stockholm",
+    "url": "https://careers.opentext.com/us/en/job/52254",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 4
+   },
+   {
+    "title": "Strategic Solution Sales Executive - Content",
+    "location": "Virtual",
+    "url": "https://careers.opentext.com/us/en/job/52969",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
@@ -2749,9 +2850,24 @@
     "score": 4
    },
    {
-    "title": "Mid-Market Solution Sales Executive",
-    "location": "Dallas, Texas",
-    "url": "https://careers.opentext.com/us/en/job/52868",
+    "title": "Strategic Solution Sales Executive",
+    "location": "Virtual",
+    "url": "https://careers.opentext.com/us/en/job/52844",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 4
+   },
+   {
+    "title": "Commercial Solution Sales Exec - Cyber (m/f/d)",
+    "location": "Virtual",
+    "url": "https://careers.opentext.com/us/en/job/52548",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
@@ -2809,11 +2925,11 @@
     "score": -3
    },
    {
-    "title": "Lead Solutions Consultant (Presales - IAM)",
-    "location": "Mumbai, Maharashtra",
-    "url": "https://careers.opentext.com/us/en/job/52572",
+    "title": "Facilities Site Lead",
+    "location": "Makati City, National Capital Region (NCR)",
+    "url": "https://careers.opentext.com/us/en/job/51811",
     "india": true,
-    "locationSaysIndia": true,
+    "locationSaysIndia": false,
     "hasLocation": true,
     "isEng": false,
     "java": false,
@@ -3064,21 +3180,6 @@
     "score": -18
    },
    {
-    "title": "Senior Client Relationship Manager",
-    "location": "Broomfield, Colorado",
-    "url": "https://careers.opentext.com/us/en/job/52692",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": true,
-    "exp": [],
-    "expFits2": false,
-    "score": -18
-   },
-   {
     "title": "Principal Technical Support Specialist",
     "location": "Richmond Hill, Ontario",
     "url": "https://careers.opentext.com/us/en/job/52500",
@@ -3094,9 +3195,9 @@
     "score": -18
    },
    {
-    "title": "Global Campaign Manager",
-    "location": "Richmond Hill, Ontario",
-    "url": "https://careers.opentext.com/us/en/job/52606",
+    "title": "Director, Campaign Marketing",
+    "location": "Dallas, Texas",
+    "url": "https://careers.opentext.com/us/en/job/52901",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
@@ -3109,9 +3210,9 @@
     "score": -18
    },
    {
-    "title": "Lead Consultant / Architect - Document Control and Engineering Information Management (m/f/d)",
-    "location": "Stockholm",
-    "url": "https://careers.opentext.com/us/en/job/51884",
+    "title": "Premium Enterprise Support Manager (Account Service Manager)",
+    "location": "Sofia",
+    "url": "https://careers.opentext.com/us/en/job/51925",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
@@ -3124,9 +3225,9 @@
     "score": -18
    },
    {
-    "title": "Principal Product Manager",
-    "location": "Alpharetta, Georgia",
-    "url": "https://careers.opentext.com/us/en/job/52176",
+    "title": "Sr. Revenue Operations Analyst",
+    "location": "Waterloo, Ontario",
+    "url": "https://careers.opentext.com/us/en/job/52356",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
@@ -3139,9 +3240,24 @@
     "score": -18
    },
    {
-    "title": "Lead Financial Analyst",
-    "location": "Mississauga, Ontario",
-    "url": "https://careers.opentext.com/us/en/job/52036",
+    "title": "SAP VIM Solution Architect",
+    "location": "Makati City, National Capital Region (NCR)",
+    "url": "https://careers.opentext.com/us/en/job/52822",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [],
+    "expFits2": false,
+    "score": -18
+   },
+   {
+    "title": "Senior Financial Analyst",
+    "location": "Waterloo, Ontario",
+    "url": "https://careers.opentext.com/us/en/job/52358",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
@@ -3184,6 +3300,21 @@
     "score": -18
    },
    {
+    "title": "Global Campaign Manager",
+    "location": "Richmond Hill, Ontario",
+    "url": "https://careers.opentext.com/us/en/job/52606",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [],
+    "expFits2": false,
+    "score": -18
+   },
+   {
     "title": "Client Manager (Bilingual French/English)",
     "location": "Richmond Hill, Ontario",
     "url": "https://careers.opentext.com/us/en/job/52476",
@@ -3199,39 +3330,9 @@
     "score": -18
    },
    {
-    "title": "Sr. Revenue Operations Analyst",
-    "location": "Waterloo, Ontario",
-    "url": "https://careers.opentext.com/us/en/job/52356",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": true,
-    "exp": [],
-    "expFits2": false,
-    "score": -18
-   },
-   {
     "title": "Sr. Facilities Administrator",
     "location": "Broomfield, Colorado",
     "url": "https://careers.opentext.com/us/en/job/52841",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": true,
-    "exp": [],
-    "expFits2": false,
-    "score": -18
-   },
-   {
-    "title": "Sr. Technical Support Specialist",
-    "location": "Waterloo, Ontario",
-    "url": "https://careers.opentext.com/us/en/job/52399",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
@@ -3262,36 +3363,6 @@
     "title": "Senior Manager, AI & Data Science",
     "location": "Cork",
     "url": "https://careers.opentext.com/us/en/job/52216",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": true,
-    "exp": [],
-    "expFits2": false,
-    "score": -18
-   },
-   {
-    "title": "Sr. Site Reliability Administrator",
-    "location": "Mississauga, Ontario",
-    "url": "https://careers.opentext.com/us/en/job/51342",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": true,
-    "exp": [],
-    "expFits2": false,
-    "score": -18
-   },
-   {
-    "title": "Senior Client Manager (French-speaking)",
-    "location": "Cork",
-    "url": "https://careers.opentext.com/us/en/job/52392",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
@@ -3365,21 +3436,6 @@
    },
    {
     "title": "Sr. Accountant",
-    "location": "Makati City, National Capital Region (NCR)",
-    "url": "https://careers.opentext.com/us/en/job/52680",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": true,
-    "exp": [],
-    "expFits2": false,
-    "score": -18
-   },
-   {
-    "title": "Sr. Accountant",
     "location": "Waterloo, Ontario",
     "url": "https://careers.opentext.com/us/en/job/51727",
     "india": false,
@@ -3397,6 +3453,21 @@
     "title": "Sr. Technical Support Specialist",
     "location": "North Sydney, New South Wales",
     "url": "https://careers.opentext.com/us/en/job/52100",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [],
+    "expFits2": false,
+    "score": -18
+   },
+   {
+    "title": "Sr. Accountant",
+    "location": "Makati City, National Capital Region (NCR)",
+    "url": "https://careers.opentext.com/us/en/job/52680",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
@@ -3484,21 +3555,6 @@
     "score": -18
    },
    {
-    "title": "Director, Platform Systems",
-    "location": "Mississauga, Ontario",
-    "url": "https://careers.opentext.com/us/en/job/52837",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": true,
-    "exp": [],
-    "expFits2": false,
-    "score": -18
-   },
-   {
     "title": "Senior Business Process Analyst",
     "location": "Waterloo, Ontario",
     "url": "https://careers.opentext.com/us/en/job/52612",
@@ -3574,21 +3630,6 @@
     "score": -18
    },
    {
-    "title": "Director, Facilities",
-    "location": "Makati City, National Capital Region (NCR)",
-    "url": "https://careers.opentext.com/us/en/job/52836",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": true,
-    "exp": [],
-    "expFits2": false,
-    "score": -18
-   },
-   {
     "title": "Lead Premium Support Specialist - Operations Bridge",
     "location": "Richmond Hill, Ontario",
     "url": "https://careers.opentext.com/us/en/job/52052",
@@ -3604,9 +3645,9 @@
     "score": -18
    },
    {
-    "title": "Lead Solution Architect - Professional Services",
-    "location": "Virtual",
-    "url": "https://careers.opentext.com/us/en/job/51662",
+    "title": "Director, Facilities",
+    "location": "Makati City, National Capital Region (NCR)",
+    "url": "https://careers.opentext.com/us/en/job/52836",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
@@ -3619,24 +3660,54 @@
     "score": -18
    },
    {
-    "title": "Lead FinOps Specialist",
-    "location": "Mississauga, Ontario",
-    "url": "https://careers.opentext.com/us/en/job/52509",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": true,
-    "exp": [],
-    "expFits2": false,
-    "score": -18
-   },
-   {
-    "title": "Sr. Technical Support Specialist",
+    "title": "Lead Service Manager - Incident Response Analyst",
     "location": "Waterloo, Ontario",
-    "url": "https://careers.opentext.com/us/en/job/52616",
+    "url": "https://careers.opentext.com/us/en/job/52563",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [],
+    "expFits2": false,
+    "score": -18
+   },
+   {
+    "title": "Sr. Technical Support Specialist - Digital Experience",
+    "location": "Sofia",
+    "url": "https://careers.opentext.com/us/en/job/52686",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [],
+    "expFits2": false,
+    "score": -18
+   },
+   {
+    "title": "Lead Security Compliance Analyst (EU Sovereign Cloud)",
+    "location": "Cork",
+    "url": "https://careers.opentext.com/us/en/job/52208",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [],
+    "expFits2": false,
+    "score": -18
+   },
+   {
+    "title": "Sr. Account Executive - DevOps Cloud",
+    "location": "Taipei City, Taipei",
+    "url": "https://careers.opentext.com/us/en/job/52279",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
@@ -3664,69 +3735,9 @@
     "score": -18
    },
    {
-    "title": "Lead Consultant / Architect - Document Control and Engineering Information Management (m/f/d",
-    "location": "Duesseldorf",
-    "url": "https://careers.opentext.com/us/en/job/52006",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": true,
-    "exp": [],
-    "expFits2": false,
-    "score": -18
-   },
-   {
-    "title": "Client Operations Project Manager",
-    "location": "Waterloo, Ontario",
-    "url": "https://careers.opentext.com/us/en/job/52245",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": true,
-    "exp": [],
-    "expFits2": false,
-    "score": -18
-   },
-   {
-    "title": "Lead Solutions Consultant (SMB/C)",
-    "location": "Tokyo, Tokyo",
-    "url": "https://careers.opentext.com/us/en/job/51981",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": true,
-    "exp": [],
-    "expFits2": false,
-    "score": -18
-   },
-   {
-    "title": "Manager, SAP VIM",
-    "location": "Makati City, National Capital Region (NCR)",
-    "url": "https://careers.opentext.com/us/en/job/52914",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": true,
-    "exp": [],
-    "expFits2": false,
-    "score": -18
-   },
-   {
-    "title": "SEO Manager",
+    "title": "Product Marketing Manager",
     "location": "Richmond Hill, Ontario",
-    "url": "https://careers.opentext.com/us/en/job/52993",
+    "url": "https://careers.opentext.com/us/en/job/52343",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
@@ -3739,9 +3750,54 @@
     "score": -18
    },
    {
-    "title": "Sr. Client Support Representative",
-    "location": "Makati City, National Capital Region (NCR)",
-    "url": "https://careers.opentext.com/us/en/job/52777",
+    "title": "Principal Product Owner",
+    "location": "Mississauga, Ontario",
+    "url": "https://careers.opentext.com/us/en/job/52374",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [],
+    "expFits2": false,
+    "score": -18
+   },
+   {
+    "title": "Sr. Manager, Software Development (AppSec/ SaaS)",
+    "location": "Alpharetta, Georgia",
+    "url": "https://careers.opentext.com/us/en/job/52017",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [],
+    "expFits2": false,
+    "score": -18
+   },
+   {
+    "title": "Sr. Technical Support Specialist",
+    "location": "Waterloo, Ontario",
+    "url": "https://careers.opentext.com/us/en/job/52616",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [],
+    "expFits2": false,
+    "score": -18
+   },
+   {
+    "title": "Lead FinOps Specialist",
+    "location": "Mississauga, Ontario",
+    "url": "https://careers.opentext.com/us/en/job/52509",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
@@ -3772,6 +3828,36 @@
     "title": "Sr. Variable Compensation Analyst",
     "location": "Waterloo, Ontario",
     "url": "https://careers.opentext.com/us/en/job/52725",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [],
+    "expFits2": false,
+    "score": -18
+   },
+   {
+    "title": "Client Operations Project Manager",
+    "location": "Waterloo, Ontario",
+    "url": "https://careers.opentext.com/us/en/job/52245",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [],
+    "expFits2": false,
+    "score": -18
+   },
+   {
+    "title": "SEO Manager",
+    "location": "Richmond Hill, Ontario",
+    "url": "https://careers.opentext.com/us/en/job/52993",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
@@ -3824,9 +3910,34 @@
     "score": -22
    }
   ],
-  "enriched": 9,
+  "enriched": 6,
   "matches": [],
   "nearMatches": [
+   {
+    "title": "Software Developer",
+    "location": "Bangalore, Karnataka",
+    "url": "https://careers.opentext.com/us/en/job/52858",
+    "team": "Professional Services",
+    "text": "<p style=\"font-family:Arial, Helvetica, sans-serif;font-size:14.0px\"><strong>OPENTEXT - THE INFORMATION COMPANY</strong></p><p style=\"font-family:Arial, Helvetica, sans-serif;font-size:14.0px\">OpenText is a global leader in information management, where innovation, creativity, and collaboration are the key components of our corporate culture. As a member of our team, you will have the opportunity to partner with the most highly regarded companies in the world, tackle complex issues, and contribute to projects that shape the future of digital transformation.</p><p> </p><p style=\"font-family:Arial, Helvetica, sans-serif;font-size:14.0px\"><strong>AI-First. Future-Driven. Human-Centered.</strong></p><p style=\"font-family:Arial, Helvetica, sans-serif;font-size:14.0px\">At OpenText, AI is at the heart of everything we do—powering innovation, transforming work, and empowering digital knowledge workers. We're hiring talent that AI can't replace to help us shape the future of information management. Join us.</p><p> </p><br><p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 14pt;\"><strong>The Opportunity</strong></span><br><br><span style=\"font-family: arial, helvetica, sans-serif; font-size: 14pt;\">As a Software Developer, your mission will be to use latest technology to develop complex module/component design, automate and maintain an efficient, flexible, and fault-tolerant cloud solutions. You should be highly motivated and talented engineer with a strong desire to learn and grow your skills in developing the solutions for cloud offerings and deployment. You will be responsible for all aspects of the development, load balancing and disaster recovery etc. and work continuously with cloud solutions.</span></p><p> </p><p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 14pt;\"><strong>You are good at:</strong></span></p><ul><li style=\"font-family: arial, helvetica, sans-serif; font-size: 14pt;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 14pt;\">Should be able to independently develop complex software</span></li><li style=\"font-family: arial, helvetica, sans-serif; font-size: 14pt;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 14pt;\">Takes ownership of code quality. Actively and effectively reviews source code, takes defect prevention steps in software developed. </span></li><li style=\"font-family: arial, helvetica, sans-serif; font-size: 14pt;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 14pt;\">Interacts well with peers and communicates in a clear and concise manner both verbally and written on his/her work. </span></li><li style=\"font-family: arial, helvetica, sans-serif; font-size: 14pt;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 14pt;\">Actively participate and contribute to analysis, design, planning, processes, etc., Raise issues where needed and create sensitivity towards timely resolution of problems.</span></li><li style=\"font-family: arial, helvetica, sans-serif; font-size: 14pt;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 14pt;\">Adopt agile development methodologies and test-driven development.</span></li></ul><p> </p><p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 14pt;\"><strong>What it takes:</strong></span></p><ul><li style=\"font-family: arial, helvetica, sans-serif; font-size: 14pt;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 14pt;\">Should have 3 to 5 years of enterprise product development experience</span></li><li style=\"font-family: arial, helvetica, sans-serif; font-size: 14pt;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 14pt;\">Should have strong hands-on experience in Java technologies</span></li><li style=\"font-family: arial, helvetica, sans-serif; font-size: 14pt;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 14pt;\">Should have very good problem solving, analytical, design and coding skills</span></li><li style=\"font-family: arial, helvetica, sans-serif; font-size: 14pt;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 14pt;\">Programming and Scripting Languages (Java)</span></li><li style=\"font-family: arial, helvetica, sans-serif; font-size: 14pt;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 14pt;\">Experience on Spring and Hibernate</span></li><li style=\"font-family: arial, helvetica, sans-serif; font-size: 14pt;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 14pt;\">Exposure on building and consuming webservices (using RESTful APIs)</span></li><li style=\"font-family: arial, helvetica, sans-serif; font-size: 14pt;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 14pt;\">SQL, Databases, data modeling</span></li><li style=\"font-family: arial, helvetica, sans-serif; font-size: 14pt;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 14pt;\">Familiarity with software development lifecycles, Agile methodologies.</span></li></ul> <br><p> </p><p style=\"font-family:Arial, Helvetica, sans-serif;font-size:14.0px\">OpenText's efforts to build an inclusive work environment go beyond simply complying with applicable laws. Our Employment Equity and Diversity Policy provides direction on maintaining a working environment that is inclusive of everyone, regardless of culture, national origin, race, color, gender, gender identification, sexual orientation, family status, age, veteran status, disability, religion, or other basis protected by applicable laws.</p><p style=\"font-family:Arial, Helvetica, sans-serif;font-size:14.0px\">If you need assistance and/or a reasonable accommodation due to a disability during the application or recruiting process, please contact us at <a href=\"mailto:hr@opentext.com\">hr@opentext.com</a>. Our proactive approach fosters collaboration, innovation, and personal growth, enriching OpenText's vibrant workplace.</p><p> </p>",
+    "_enriched": true,
+    "score": 82,
+    "isMatch": false,
+    "isEng": true,
+    "java": true,
+    "flutter": false,
+    "android": false,
+    "india": true,
+    "senior": false,
+    "junior": false,
+    "intern": false,
+    "exp": [
+     [
+      3,
+      5
+     ]
+    ],
+    "expFits2": false
+   },
    {
     "title": "Premium Support Engineer- Fortify",
     "location": "Bangalore, Karnataka",
@@ -3842,17 +3953,19 @@
     "india": true,
     "senior": false,
     "junior": false,
+    "intern": false,
     "exp": [],
     "expFits2": false
    }
   ],
   "closest": {
-   "title": "Premium Support Engineer- Fortify",
+   "title": "Software Developer",
    "location": "Bangalore, Karnataka",
-   "url": "https://careers.opentext.com/us/en/job/51960",
-   "team": "IT & Cloud Operations",
-   "text": "Premium Support Engineer- Fortify Embrace the role of a Premium Support Engineer and leverage your expertise in OpenText Fortify to deliver top-tier technical support for complex software environments. Collaborate with global clients, drive innovation, and help shape the future of digital transformation. Grow your career with cutting-edge tools and a dynamic, inclusive workplace. application build platforms webinspect (dast) c# stakeholder management virtual environments cloud deployment providers (aws, azure, gcp) sql server gitlab ci/cd dast api testing (postman/swagger) jenkins oracle customer support opentext fortify technical support pgsql firewalls python java backup and high available structures bamboo sast sca incident management network architecture scancentral extranet security operating system platforms azure devops",
-   "score": 74,
+   "url": "https://careers.opentext.com/us/en/job/52858",
+   "team": "Professional Services",
+   "text": "<p style=\"font-family:Arial, Helvetica, sans-serif;font-size:14.0px\"><strong>OPENTEXT - THE INFORMATION COMPANY</strong></p><p style=\"font-family:Arial, Helvetica, sans-serif;font-size:14.0px\">OpenText is a global leader in information management, where innovation, creativity, and collaboration are the key components of our corporate culture. As a member of our team, you will have the opportunity to partner with the most highly regarded companies in the world, tackle complex issues, and contribute to projects that shape the future of digital transformation.</p><p> </p><p style=\"font-family:Arial, Helvetica, sans-serif;font-size:14.0px\"><strong>AI-First. Future-Driven. Human-Centered.</strong></p><p style=\"font-family:Arial, Helvetica, sans-serif;font-size:14.0px\">At OpenText, AI is at the heart of everything we do—powering innovation, transforming work, and empowering digital knowledge workers. We're hiring talent that AI can't replace to help us shape the future of information management. Join us.</p><p> </p><br><p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 14pt;\"><strong>The Opportunity</strong></span><br><br><span style=\"font-family: arial, helvetica, sans-serif; font-size: 14pt;\">As a Software Developer, your mission will be to use latest technology to develop complex module/component design, automate and maintain an efficient, flexible, and fault-tolerant cloud solutions. You should be highly motivated and talented engineer with a strong desire to learn and grow your skills in developing the solutions for cloud offerings and deployment. You will be responsible for all aspects of the development, load balancing and disaster recovery etc. and work continuously with cloud solutions.</span></p><p> </p><p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 14pt;\"><strong>You are good at:</strong></span></p><ul><li style=\"font-family: arial, helvetica, sans-serif; font-size: 14pt;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 14pt;\">Should be able to independently develop complex software</span></li><li style=\"font-family: arial, helvetica, sans-serif; font-size: 14pt;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 14pt;\">Takes ownership of code quality. Actively and effectively reviews source code, takes defect prevention steps in software developed. </span></li><li style=\"font-family: arial, helvetica, sans-serif; font-size: 14pt;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 14pt;\">Interacts well with peers and communicates in a clear and concise manner both verbally and written on his/her work. </span></li><li style=\"font-family: arial, helvetica, sans-serif; font-size: 14pt;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 14pt;\">Actively participate and contribute to analysis, design, planning, processes, etc., Raise issues where needed and create sensitivity towards timely resolution of problems.</span></li><li style=\"font-family: arial, helvetica, sans-serif; font-size: 14pt;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 14pt;\">Adopt agile development methodologies and test-driven development.</span></li></ul><p> </p><p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 14pt;\"><strong>What it takes:</strong></span></p><ul><li style=\"font-family: arial, helvetica, sans-serif; font-size: 14pt;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 14pt;\">Should have 3 to 5 years of enterprise product development experience</span></li><li style=\"font-family: arial, helvetica, sans-serif; font-size: 14pt;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 14pt;\">Should have strong hands-on experience in Java technologies</span></li><li style=\"font-family: arial, helvetica, sans-serif; font-size: 14pt;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 14pt;\">Should have very good problem solving, analytical, design and coding skills</span></li><li style=\"font-family: arial, helvetica, sans-serif; font-size: 14pt;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 14pt;\">Programming and Scripting Languages (Java)</span></li><li style=\"font-family: arial, helvetica, sans-serif; font-size: 14pt;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 14pt;\">Experience on Spring and Hibernate</span></li><li style=\"font-family: arial, helvetica, sans-serif; font-size: 14pt;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 14pt;\">Exposure on building and consuming webservices (using RESTful APIs)</span></li><li style=\"font-family: arial, helvetica, sans-serif; font-size: 14pt;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 14pt;\">SQL, Databases, data modeling</span></li><li style=\"font-family: arial, helvetica, sans-serif; font-size: 14pt;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 14pt;\">Familiarity with software development lifecycles, Agile methodologies.</span></li></ul> <br><p> </p><p style=\"font-family:Arial, Helvetica, sans-serif;font-size:14.0px\">OpenText's efforts to build an inclusive work environment go beyond simply complying with applicable laws. Our Employment Equity and Diversity Policy provides direction on maintaining a working environment that is inclusive of everyone, regardless of culture, national origin, race, color, gender, gender identification, sexual orientation, family status, age, veteran status, disability, religion, or other basis protected by applicable laws.</p><p style=\"font-family:Arial, Helvetica, sans-serif;font-size:14.0px\">If you need assistance and/or a reasonable accommodation due to a disability during the application or recruiting process, please contact us at <a href=\"mailto:hr@opentext.com\">hr@opentext.com</a>. Our proactive approach fosters collaboration, innovation, and personal growth, enriching OpenText's vibrant workplace.</p><p> </p>",
+   "_enriched": true,
+   "score": 82,
    "isMatch": false,
    "isEng": true,
    "java": true,
@@ -3861,16 +3974,23 @@
    "india": true,
    "senior": false,
    "junior": false,
-   "exp": [],
+   "intern": false,
+   "exp": [
+    [
+     3,
+     5
+    ]
+   ],
    "expFits2": false
   },
   "closestEng": {
-   "title": "Premium Support Engineer- Fortify",
+   "title": "Software Developer",
    "location": "Bangalore, Karnataka",
-   "url": "https://careers.opentext.com/us/en/job/51960",
-   "team": "IT & Cloud Operations",
-   "text": "Premium Support Engineer- Fortify Embrace the role of a Premium Support Engineer and leverage your expertise in OpenText Fortify to deliver top-tier technical support for complex software environments. Collaborate with global clients, drive innovation, and help shape the future of digital transformation. Grow your career with cutting-edge tools and a dynamic, inclusive workplace. application build platforms webinspect (dast) c# stakeholder management virtual environments cloud deployment providers (aws, azure, gcp) sql server gitlab ci/cd dast api testing (postman/swagger) jenkins oracle customer support opentext fortify technical support pgsql firewalls python java backup and high available structures bamboo sast sca incident management network architecture scancentral extranet security operating system platforms azure devops",
-   "score": 74,
+   "url": "https://careers.opentext.com/us/en/job/52858",
+   "team": "Professional Services",
+   "text": "<p style=\"font-family:Arial, Helvetica, sans-serif;font-size:14.0px\"><strong>OPENTEXT - THE INFORMATION COMPANY</strong></p><p style=\"font-family:Arial, Helvetica, sans-serif;font-size:14.0px\">OpenText is a global leader in information management, where innovation, creativity, and collaboration are the key components of our corporate culture. As a member of our team, you will have the opportunity to partner with the most highly regarded companies in the world, tackle complex issues, and contribute to projects that shape the future of digital transformation.</p><p> </p><p style=\"font-family:Arial, Helvetica, sans-serif;font-size:14.0px\"><strong>AI-First. Future-Driven. Human-Centered.</strong></p><p style=\"font-family:Arial, Helvetica, sans-serif;font-size:14.0px\">At OpenText, AI is at the heart of everything we do—powering innovation, transforming work, and empowering digital knowledge workers. We're hiring talent that AI can't replace to help us shape the future of information management. Join us.</p><p> </p><br><p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 14pt;\"><strong>The Opportunity</strong></span><br><br><span style=\"font-family: arial, helvetica, sans-serif; font-size: 14pt;\">As a Software Developer, your mission will be to use latest technology to develop complex module/component design, automate and maintain an efficient, flexible, and fault-tolerant cloud solutions. You should be highly motivated and talented engineer with a strong desire to learn and grow your skills in developing the solutions for cloud offerings and deployment. You will be responsible for all aspects of the development, load balancing and disaster recovery etc. and work continuously with cloud solutions.</span></p><p> </p><p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 14pt;\"><strong>You are good at:</strong></span></p><ul><li style=\"font-family: arial, helvetica, sans-serif; font-size: 14pt;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 14pt;\">Should be able to independently develop complex software</span></li><li style=\"font-family: arial, helvetica, sans-serif; font-size: 14pt;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 14pt;\">Takes ownership of code quality. Actively and effectively reviews source code, takes defect prevention steps in software developed. </span></li><li style=\"font-family: arial, helvetica, sans-serif; font-size: 14pt;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 14pt;\">Interacts well with peers and communicates in a clear and concise manner both verbally and written on his/her work. </span></li><li style=\"font-family: arial, helvetica, sans-serif; font-size: 14pt;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 14pt;\">Actively participate and contribute to analysis, design, planning, processes, etc., Raise issues where needed and create sensitivity towards timely resolution of problems.</span></li><li style=\"font-family: arial, helvetica, sans-serif; font-size: 14pt;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 14pt;\">Adopt agile development methodologies and test-driven development.</span></li></ul><p> </p><p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 14pt;\"><strong>What it takes:</strong></span></p><ul><li style=\"font-family: arial, helvetica, sans-serif; font-size: 14pt;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 14pt;\">Should have 3 to 5 years of enterprise product development experience</span></li><li style=\"font-family: arial, helvetica, sans-serif; font-size: 14pt;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 14pt;\">Should have strong hands-on experience in Java technologies</span></li><li style=\"font-family: arial, helvetica, sans-serif; font-size: 14pt;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 14pt;\">Should have very good problem solving, analytical, design and coding skills</span></li><li style=\"font-family: arial, helvetica, sans-serif; font-size: 14pt;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 14pt;\">Programming and Scripting Languages (Java)</span></li><li style=\"font-family: arial, helvetica, sans-serif; font-size: 14pt;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 14pt;\">Experience on Spring and Hibernate</span></li><li style=\"font-family: arial, helvetica, sans-serif; font-size: 14pt;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 14pt;\">Exposure on building and consuming webservices (using RESTful APIs)</span></li><li style=\"font-family: arial, helvetica, sans-serif; font-size: 14pt;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 14pt;\">SQL, Databases, data modeling</span></li><li style=\"font-family: arial, helvetica, sans-serif; font-size: 14pt;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 14pt;\">Familiarity with software development lifecycles, Agile methodologies.</span></li></ul> <br><p> </p><p style=\"font-family:Arial, Helvetica, sans-serif;font-size:14.0px\">OpenText's efforts to build an inclusive work environment go beyond simply complying with applicable laws. Our Employment Equity and Diversity Policy provides direction on maintaining a working environment that is inclusive of everyone, regardless of culture, national origin, race, color, gender, gender identification, sexual orientation, family status, age, veteran status, disability, religion, or other basis protected by applicable laws.</p><p style=\"font-family:Arial, Helvetica, sans-serif;font-size:14.0px\">If you need assistance and/or a reasonable accommodation due to a disability during the application or recruiting process, please contact us at <a href=\"mailto:hr@opentext.com\">hr@opentext.com</a>. Our proactive approach fosters collaboration, innovation, and personal growth, enriching OpenText's vibrant workplace.</p><p> </p>",
+   "_enriched": true,
+   "score": 82,
    "isMatch": false,
    "isEng": true,
    "java": true,
@@ -3879,7 +3999,13 @@
    "india": true,
    "senior": false,
    "junior": false,
-   "exp": [],
+   "intern": false,
+   "exp": [
+    [
+     3,
+     5
+    ]
+   ],
    "expFits2": false
   },
   "trace": {
@@ -3937,7 +4063,7 @@
     {
      "url": "https://opentext.com/",
      "status": 200,
-     "bytes": 394649
+     "bytes": 394648
     }
    ],
    "candidates": [
@@ -3949,10 +4075,10 @@
     "workable:opentext(guess)"
    ],
    "attempts": [
-    "phenom:_self -> 163 jobs"
+    "phenom:_self -> 167 jobs"
    ]
   },
-  "ms": 25597
+  "ms": 24166
  },
  {
   "company": "Optiver India",
@@ -3961,21 +4087,6 @@
   "error": null,
   "totalJobs": 12,
   "jobs": [
-   {
-    "title": "FPGA Engineer Intern (Summer 2027 - Austin)",
-    "location": "",
-    "url": "https://www.optiver.com/join-us/jobs/technology/austin/fpga-engineer-intern-summer-2027-austin/",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": true,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 61
-   },
    {
     "title": "Software engineer - Real-Time Pricing",
     "location": "",
@@ -4010,21 +4121,6 @@
     ],
     "expFits2": false,
     "score": 45
-   },
-   {
-    "title": "Quantitative Intern (Summer 2027)",
-    "location": "",
-    "url": "https://www.optiver.com/join-us/jobs/institutional-sales-and-trading/austin/quantitative-intern-summer-2027/",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 31
    },
    {
     "title": "Senior Microsoft 365 Engineer",
@@ -4122,6 +4218,21 @@
     "score": 19
    },
    {
+    "title": "FPGA Engineer Intern (Summer 2027 - Austin)",
+    "location": "",
+    "url": "https://www.optiver.com/join-us/jobs/technology/austin/fpga-engineer-intern-summer-2027-austin/",
+    "india": true,
+    "locationSaysIndia": false,
+    "hasLocation": false,
+    "isEng": true,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 9
+   },
+   {
     "title": "Procurement Operations Manager",
     "location": "",
     "url": "https://www.optiver.com/join-us/jobs/risk-finance-and-legal/amsterdam/procurement-operations-manager/",
@@ -4150,19 +4261,34 @@
     "exp": [],
     "expFits2": false,
     "score": -3
+   },
+   {
+    "title": "Quantitative Intern (Summer 2027)",
+    "location": "",
+    "url": "https://www.optiver.com/join-us/jobs/institutional-sales-and-trading/austin/quantitative-intern-summer-2027/",
+    "india": true,
+    "locationSaysIndia": false,
+    "hasLocation": false,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": -21
    }
   ],
   "enriched": 6,
   "matches": [],
   "nearMatches": [],
   "closest": {
-   "title": "FPGA Engineer Intern (Summer 2027 - Austin)",
+   "title": "Software engineer - Real-Time Pricing",
    "location": "",
-   "url": "https://www.optiver.com/join-us/jobs/technology/austin/fpga-engineer-intern-summer-2027-austin/",
+   "url": "https://www.optiver.com/join-us/jobs/technology/amsterdam/software-engineer-real-time-pricing/",
    "team": "",
-   "text": "FPGA Engineer Intern (Summer 2027 - Austin) Skip to menu Skip to search Skip to main content Skip to footer Menu Back to Technology jobs in Austin FPGA Engineer Intern (Summer 2027 - Austin) Level Internship Location Austin Department Technology Apply Apply As an FPGA Engineer Intern, you’ll work side-by-side with your mentor and teammates to build real-world applications that power a global trading firm. Your projects will be scoped based on your team’s real needs — not hypothetical tasks — and your mentor will be fully invested in helping you build high-quality solutions designed to last. You’ll contribute to meaningful projects focusing on nanosecond response times, highly parallelized algorithms, and customized low-level networking. Optiver is building with cutting edge AI technology in the most competitive, data rich landscapes in the world: financial markets. That means no two days are the same, and every day brings new, exciting technical challenges to solve. This opportunity is also available in our Chicago office — learn more and apply. What you’ll do: Our internship is designed for fast thinkers with a critical mindset and a drive to solve tough problems. You’ll experience what it’s like to be a full-time engineer at a leading trading firm – working on projects that blend cutting-edge FPGA technology with real-world trading strategies, directly contributing to the efficiency and performance of our trading systems. Mentored by Optiver engineers, our program gives you the opportunity to: Accelerate network infrastructure and trading system components with high-speed hardware designs. Research new low-latency techniques and platforms and identify opportunities for integration with our trading system. Collaborate in a multidisciplinary team of traders, software developers, and infrastructure engineers. Leverage the best hardware available or build in-house versions to ensure our FPGAs can interface with cutting-edge server hardware. What you’ll get: You’ll join a culture of collaboration and excellence, surrounded by curious thinkers and creative problem-solvers. Motivated by a passion for continuous improvement, you’ll thrive in a supportive, high-performing environment alongside talented colleagues, collectively tackling some of the toughest challenges in the financial markets. In addition, you’ll receive: The opportunity to work alongside best-in-class professionals from over 40 different countries A highly-competitive internship compensation package Optiver-covered flights, living accommodations, and commuting stipends Extensive office perks, including breakfast, lunch and snacks, regular social events, clubs, sporting leagues and more Who you are: A student pursuing a bachelor’s, master’s, or PhD in Computer Engineering, Electrical Engineering, or another related field On track to graduate between December 2027 to June 2028, with junior standing or higher A student with strong engineering instincts and hands-on experience in digital design with FPGAs or ASICs Experienced in writing hardware in VHDL, Verilog, or System Verilog Passionate for writing clean code, well-architected systems, and continuous improvement A collaborative teammate comfortable working with developers, traders and business teams Who we are: Optiver is a leading technology- and research-driven trading firm. Our teams of scientists, engineers, mathematicians, and traders work side by side to develop, test, and scale ideas that shape how we understand and trade global markets. Powered by a global platform built for rapid experimentation and iteration, we combine the scientific rigor of a research institution with the pace of a technology company. Our differences are our edge. Optiver does not discriminate on the basis of race, religion, color, sex, gender identity, sexual orientation, age, physical or mental disability, or other legally protected characteristics. Optiver is supportive of US immigration sponsorship for this role. Optiver has a global application re-apply policy for our intern and graduate roles. If you have completed any portion of an online assessment or interviewed for an FPGA Engineer graduate or internship role at any Optiver location in the past 8 months, please note that you are not yet eligible to reapply. We welcome you to re-apply to after the 8-month cool off period. Open positions Senior Observability Platform Engineer Sydney Experienced Technology Experienced Technology Senior Data Engineer Sydney Experienced Technology Experienced Technology Principal Data Engineer Sydney Experienced Technology Experienced Technology Explore all open roles Explore all open roles Footer navigation At Optiver, we continuously quote buy and sell prices across financial markets, using our own capital and advanced technology to provide liquidity at scale across products, venues and market conditions. More about Optiver What we do Research Trading Technology Risk Trade with us Join us All jobs How we work Students Meet us at an event Our locations About Us Education Principal Strategic Investments Optiver Foundation Alumni Contact © Copyright 2026. All Rights Reserved Privacy Policy Disclosures Cookie Policy Notices",
+   "text": "Software engineer - Real-Time Pricing Skip to menu Skip to search Skip to main content Skip to footer Menu Back to Technology jobs in Amsterdam Software engineer - Real-Time Pricing Level Experienced Location Amsterdam Department Technology Apply Apply Optiver is looking for a software engineer to join our real-time pricing systems team. Team builds and runs the highly reliable, traceable and scalable pricing platform responsible for automated real-time pricing of millions of derivative contracts listed on 70+ exchanges. We continuously need to react to the new low latency pricing signals and instruct our execution to update our prices in all affected instruments. At the same time we need to continuously produce large volumes of various pricing datasets allowing us to trade, analyze and breakdown our trade quality, visualize and understand our positions, run automation, systematic analysis and trading strategies. All of this while allowing for a rapid development and pricing model research cycle with multiple releases per day. What you’ll do: Work directly with trading, researchers and other development teams in tightly knit working groups being responsible for overall success of the projects. We are not afraid of crossing team boundaries, learn about each other’s domain and apply this expertise in practice. Apply your engineering background to translate business problems into robust, production grade software Work on our pricing platform - already a key competitive advantage - while helping push it even further by: optimizing our low-latency data processing optimizing our large scale compute distribution of large volume datasets across multiple physical locations while ensuring consistency and atomicity increasing automation to further reduce our time to market Have a direct impact on business with a tight feedback loop Join a strong and dynamic team Who you are: A software engineer with an entrepreneurial mindset and the ability to strategically identify the tools which are best placed and where time is best spent, to achieve the results needed for our business to continue performing at the highest possible level. Experience designing and building large-scale, distributed or real-time systems Strong software engineering fundamentals and an interest in writing reliable, maintainable production code Ability to operate autonomously as well as collaborate with Traders, Researchers, other technical teams and business operations counterparts to deliver on complex business initiatives Experience with C++ is a plus Interest in systematic trading, derivatives pricing, or quantitative finance more broadly is a strong plus - but not a hard requirement; we will teach you what you need to know What you&#x27;ll get : You’ll join a culture of collaboration and excellence, where you’ll be surrounded by curious thinkers and creative problem solvers. Motivated by a passion for continuous improvement, you’ll thrive in a supportive, high-performing environment alongside talented colleagues, working collectively to tackle the toughest problems in the financial markets. In addition, you’ll receive: A performance-based bonus structure unmatched anywhere in the industry. We combine our profits across desks, teams and offices into a global profit pool. The opportunity to work alongside best-in-class professionals from over 40 different countries. 25 paid vacation days and fully paid first-class commuting expenses. Training opportunities and discounts on health insurance. Extensive office perks, including breakfast and lunch, world-class barista coffee, sports and leisure activities, Friday afternoon drinks, and weekly in-house chair massages. Competitive relocation packages and visa sponsorship where necessary for expats. Who we are: At Optiver, our mission is to constantly improve the market by injecting liquidity, providing accurate pricing, increasing transparency and acting as a stabilizing force no matter the market conditions. With a focus on continuous improvement, we participate in the safeguarding of healthy and efficient markets for everyone who participates. As one of the largest market making institutions, we are a trusted partner of 70+ exchanges across the globe. How to apply: Are you interested in furthering your career on one of the most dynamic and exciting trading floors in Europe? Apply directly via the form below for the position of Core Software Engineer. If you are selected from your application to proceed to the next round for the position of Core Software Engineer, you will be required to take an online assessment. If you have any questions feel free to contact our Recruitment team via our recruitment inquiry form . Please note: We cannot accept applications via email for data protection reasons. We do not require any assistance from third-parties including agencies in the recruitment of this role. DIVERSITY STATEMENT: Optiver is committed to diversity and inclusion . Open positions FPGA Engineer Intern (Summer 2027 - Chicago) Chicago Internship Technology Internship Technology Explore all open roles Explore all open roles Footer navigation At Optiver, we continuously quote buy and sell prices across financial markets, using our own capital and advanced technology to provide liquidity at scale across products, venues and market conditions. More about Optiver What we do Research Trading Technology Risk Trade with us Join us All jobs How we work Students Meet us at an event Our locations About Us Education Principal Strategic Investments Optiver Foundation Alumni Contact © Copyright 2026. All Rights Reserved Privacy Policy Disclosures Cookie Policy Notices",
    "_enriched": true,
-   "score": 61,
+   "score": 49,
    "isMatch": false,
    "isEng": true,
    "java": false,
@@ -4170,18 +4296,19 @@
    "android": false,
    "india": true,
    "senior": false,
-   "junior": true,
+   "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
   "closestEng": {
-   "title": "FPGA Engineer Intern (Summer 2027 - Austin)",
+   "title": "Software engineer - Real-Time Pricing",
    "location": "",
-   "url": "https://www.optiver.com/join-us/jobs/technology/austin/fpga-engineer-intern-summer-2027-austin/",
+   "url": "https://www.optiver.com/join-us/jobs/technology/amsterdam/software-engineer-real-time-pricing/",
    "team": "",
-   "text": "FPGA Engineer Intern (Summer 2027 - Austin) Skip to menu Skip to search Skip to main content Skip to footer Menu Back to Technology jobs in Austin FPGA Engineer Intern (Summer 2027 - Austin) Level Internship Location Austin Department Technology Apply Apply As an FPGA Engineer Intern, you’ll work side-by-side with your mentor and teammates to build real-world applications that power a global trading firm. Your projects will be scoped based on your team’s real needs — not hypothetical tasks — and your mentor will be fully invested in helping you build high-quality solutions designed to last. You’ll contribute to meaningful projects focusing on nanosecond response times, highly parallelized algorithms, and customized low-level networking. Optiver is building with cutting edge AI technology in the most competitive, data rich landscapes in the world: financial markets. That means no two days are the same, and every day brings new, exciting technical challenges to solve. This opportunity is also available in our Chicago office — learn more and apply. What you’ll do: Our internship is designed for fast thinkers with a critical mindset and a drive to solve tough problems. You’ll experience what it’s like to be a full-time engineer at a leading trading firm – working on projects that blend cutting-edge FPGA technology with real-world trading strategies, directly contributing to the efficiency and performance of our trading systems. Mentored by Optiver engineers, our program gives you the opportunity to: Accelerate network infrastructure and trading system components with high-speed hardware designs. Research new low-latency techniques and platforms and identify opportunities for integration with our trading system. Collaborate in a multidisciplinary team of traders, software developers, and infrastructure engineers. Leverage the best hardware available or build in-house versions to ensure our FPGAs can interface with cutting-edge server hardware. What you’ll get: You’ll join a culture of collaboration and excellence, surrounded by curious thinkers and creative problem-solvers. Motivated by a passion for continuous improvement, you’ll thrive in a supportive, high-performing environment alongside talented colleagues, collectively tackling some of the toughest challenges in the financial markets. In addition, you’ll receive: The opportunity to work alongside best-in-class professionals from over 40 different countries A highly-competitive internship compensation package Optiver-covered flights, living accommodations, and commuting stipends Extensive office perks, including breakfast, lunch and snacks, regular social events, clubs, sporting leagues and more Who you are: A student pursuing a bachelor’s, master’s, or PhD in Computer Engineering, Electrical Engineering, or another related field On track to graduate between December 2027 to June 2028, with junior standing or higher A student with strong engineering instincts and hands-on experience in digital design with FPGAs or ASICs Experienced in writing hardware in VHDL, Verilog, or System Verilog Passionate for writing clean code, well-architected systems, and continuous improvement A collaborative teammate comfortable working with developers, traders and business teams Who we are: Optiver is a leading technology- and research-driven trading firm. Our teams of scientists, engineers, mathematicians, and traders work side by side to develop, test, and scale ideas that shape how we understand and trade global markets. Powered by a global platform built for rapid experimentation and iteration, we combine the scientific rigor of a research institution with the pace of a technology company. Our differences are our edge. Optiver does not discriminate on the basis of race, religion, color, sex, gender identity, sexual orientation, age, physical or mental disability, or other legally protected characteristics. Optiver is supportive of US immigration sponsorship for this role. Optiver has a global application re-apply policy for our intern and graduate roles. If you have completed any portion of an online assessment or interviewed for an FPGA Engineer graduate or internship role at any Optiver location in the past 8 months, please note that you are not yet eligible to reapply. We welcome you to re-apply to after the 8-month cool off period. Open positions Senior Observability Platform Engineer Sydney Experienced Technology Experienced Technology Senior Data Engineer Sydney Experienced Technology Experienced Technology Principal Data Engineer Sydney Experienced Technology Experienced Technology Explore all open roles Explore all open roles Footer navigation At Optiver, we continuously quote buy and sell prices across financial markets, using our own capital and advanced technology to provide liquidity at scale across products, venues and market conditions. More about Optiver What we do Research Trading Technology Risk Trade with us Join us All jobs How we work Students Meet us at an event Our locations About Us Education Principal Strategic Investments Optiver Foundation Alumni Contact © Copyright 2026. All Rights Reserved Privacy Policy Disclosures Cookie Policy Notices",
+   "text": "Software engineer - Real-Time Pricing Skip to menu Skip to search Skip to main content Skip to footer Menu Back to Technology jobs in Amsterdam Software engineer - Real-Time Pricing Level Experienced Location Amsterdam Department Technology Apply Apply Optiver is looking for a software engineer to join our real-time pricing systems team. Team builds and runs the highly reliable, traceable and scalable pricing platform responsible for automated real-time pricing of millions of derivative contracts listed on 70+ exchanges. We continuously need to react to the new low latency pricing signals and instruct our execution to update our prices in all affected instruments. At the same time we need to continuously produce large volumes of various pricing datasets allowing us to trade, analyze and breakdown our trade quality, visualize and understand our positions, run automation, systematic analysis and trading strategies. All of this while allowing for a rapid development and pricing model research cycle with multiple releases per day. What you’ll do: Work directly with trading, researchers and other development teams in tightly knit working groups being responsible for overall success of the projects. We are not afraid of crossing team boundaries, learn about each other’s domain and apply this expertise in practice. Apply your engineering background to translate business problems into robust, production grade software Work on our pricing platform - already a key competitive advantage - while helping push it even further by: optimizing our low-latency data processing optimizing our large scale compute distribution of large volume datasets across multiple physical locations while ensuring consistency and atomicity increasing automation to further reduce our time to market Have a direct impact on business with a tight feedback loop Join a strong and dynamic team Who you are: A software engineer with an entrepreneurial mindset and the ability to strategically identify the tools which are best placed and where time is best spent, to achieve the results needed for our business to continue performing at the highest possible level. Experience designing and building large-scale, distributed or real-time systems Strong software engineering fundamentals and an interest in writing reliable, maintainable production code Ability to operate autonomously as well as collaborate with Traders, Researchers, other technical teams and business operations counterparts to deliver on complex business initiatives Experience with C++ is a plus Interest in systematic trading, derivatives pricing, or quantitative finance more broadly is a strong plus - but not a hard requirement; we will teach you what you need to know What you&#x27;ll get : You’ll join a culture of collaboration and excellence, where you’ll be surrounded by curious thinkers and creative problem solvers. Motivated by a passion for continuous improvement, you’ll thrive in a supportive, high-performing environment alongside talented colleagues, working collectively to tackle the toughest problems in the financial markets. In addition, you’ll receive: A performance-based bonus structure unmatched anywhere in the industry. We combine our profits across desks, teams and offices into a global profit pool. The opportunity to work alongside best-in-class professionals from over 40 different countries. 25 paid vacation days and fully paid first-class commuting expenses. Training opportunities and discounts on health insurance. Extensive office perks, including breakfast and lunch, world-class barista coffee, sports and leisure activities, Friday afternoon drinks, and weekly in-house chair massages. Competitive relocation packages and visa sponsorship where necessary for expats. Who we are: At Optiver, our mission is to constantly improve the market by injecting liquidity, providing accurate pricing, increasing transparency and acting as a stabilizing force no matter the market conditions. With a focus on continuous improvement, we participate in the safeguarding of healthy and efficient markets for everyone who participates. As one of the largest market making institutions, we are a trusted partner of 70+ exchanges across the globe. How to apply: Are you interested in furthering your career on one of the most dynamic and exciting trading floors in Europe? Apply directly via the form below for the position of Core Software Engineer. If you are selected from your application to proceed to the next round for the position of Core Software Engineer, you will be required to take an online assessment. If you have any questions feel free to contact our Recruitment team via our recruitment inquiry form . Please note: We cannot accept applications via email for data protection reasons. We do not require any assistance from third-parties including agencies in the recruitment of this role. DIVERSITY STATEMENT: Optiver is committed to diversity and inclusion . Open positions FPGA Engineer Intern (Summer 2027 - Chicago) Chicago Internship Technology Internship Technology Explore all open roles Explore all open roles Footer navigation At Optiver, we continuously quote buy and sell prices across financial markets, using our own capital and advanced technology to provide liquidity at scale across products, venues and market conditions. More about Optiver What we do Research Trading Technology Risk Trade with us Join us All jobs How we work Students Meet us at an event Our locations About Us Education Principal Strategic Investments Optiver Foundation Alumni Contact © Copyright 2026. All Rights Reserved Privacy Policy Disclosures Cookie Policy Notices",
    "_enriched": true,
-   "score": 61,
+   "score": 49,
    "isMatch": false,
    "isEng": true,
    "java": false,
@@ -4189,7 +4316,8 @@
    "android": false,
    "india": true,
    "senior": false,
-   "junior": true,
+   "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -4204,7 +4332,7 @@
     {
      "url": "https://optiver.com/careers",
      "status": 200,
-     "bytes": 166896
+     "bytes": 166916
     },
     {
      "url": "https://optiver.com/career",
@@ -4237,7 +4365,7 @@
     "workable:optiver -> no board"
    ]
   },
-  "ms": 7322
+  "ms": 7097
  },
  {
   "company": "Orange Business India",
@@ -4296,6 +4424,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -4439,7 +4568,7 @@
     "workable:orangebusiness -> no board"
    ]
   },
-  "ms": 16269
+  "ms": 19337
  },
  {
   "company": "Orion Innovation",
@@ -6035,6 +6164,7 @@
     "india": true,
     "senior": false,
     "junior": false,
+    "intern": false,
     "exp": [
      [
       3,
@@ -6062,6 +6192,7 @@
     "india": false,
     "senior": false,
     "junior": true,
+    "intern": false,
     "exp": [],
     "expFits2": false
    }
@@ -6082,6 +6213,7 @@
     "india": false,
     "senior": false,
     "junior": false,
+    "intern": false,
     "exp": [
      [
       3,
@@ -6109,6 +6241,7 @@
     "india": false,
     "senior": false,
     "junior": false,
+    "intern": false,
     "exp": [
      [
       3,
@@ -6136,6 +6269,7 @@
     "india": false,
     "senior": false,
     "junior": false,
+    "intern": false,
     "exp": [
      [
       3,
@@ -6163,6 +6297,7 @@
     "india": false,
     "senior": false,
     "junior": false,
+    "intern": false,
     "exp": [],
     "expFits2": false
    },
@@ -6181,6 +6316,7 @@
     "india": false,
     "senior": false,
     "junior": false,
+    "intern": false,
     "exp": [],
     "expFits2": false
    },
@@ -6199,6 +6335,7 @@
     "india": false,
     "senior": false,
     "junior": false,
+    "intern": false,
     "exp": [],
     "expFits2": false
    }
@@ -6218,6 +6355,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [
     [
      3,
@@ -6245,6 +6383,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [
     [
      3,
@@ -6388,7 +6527,7 @@
     "greenhouse:orioninnovation -> 83 jobs (guess, name-verified)"
    ]
   },
-  "ms": 8168
+  "ms": 10316
  },
  {
   "company": "Otis India",
@@ -6413,7 +6552,7 @@
     {
      "url": "https://otis.com/careers",
      "status": 200,
-     "bytes": 299787
+     "bytes": 299790
     },
     {
      "url": "https://otis.com/career",
@@ -6443,7 +6582,7 @@
     "workable:otis -> no board"
    ]
   },
-  "ms": 22808
+  "ms": 22477
  },
  {
   "company": "Ozonetel",
@@ -6673,6 +6812,7 @@
     "india": true,
     "senior": false,
     "junior": false,
+    "intern": false,
     "exp": [
      [
       6,
@@ -6703,6 +6843,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [
     [
      6,
@@ -6731,6 +6872,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [
     [
      6,
@@ -6782,7 +6924,7 @@
     "workable:ozonetel -> no board"
    ]
   },
-  "ms": 8880
+  "ms": 8477
  },
  {
   "company": "Odessa India",
@@ -6880,7 +7022,7 @@
     "workable:odessainc -> no board"
    ]
   },
-  "ms": 38155
+  "ms": 40004
  },
  {
   "company": "OfBusiness",
@@ -6991,41 +7133,6 @@
     ],
     "expFits2": false,
     "score": 45
-   },
-   {
-    "title": "MIS Intern",
-    "location": "",
-    "url": "https://www.ofbcareers.com/jobs/mis-intern",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [
-     [
-      0,
-      1
-     ]
-    ],
-    "expFits2": false,
-    "score": 39
-   },
-   {
-    "title": "Internal Audit Intern",
-    "location": "",
-    "url": "https://www.ofbcareers.com/jobs/internal-audit-intern",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 31
    },
    {
     "title": "Talent Acquisition Specialist",
@@ -7272,6 +7379,41 @@
     ],
     "expFits2": false,
     "score": -7
+   },
+   {
+    "title": "MIS Intern",
+    "location": "",
+    "url": "https://www.ofbcareers.com/jobs/mis-intern",
+    "india": true,
+    "locationSaysIndia": false,
+    "hasLocation": false,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [
+     [
+      0,
+      1
+     ]
+    ],
+    "expFits2": false,
+    "score": -13
+   },
+   {
+    "title": "Internal Audit Intern",
+    "location": "",
+    "url": "https://www.ofbcareers.com/jobs/internal-audit-intern",
+    "india": true,
+    "locationSaysIndia": false,
+    "hasLocation": false,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": -21
    }
   ],
   "enriched": 0,
@@ -7292,6 +7434,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [
     [
      3,
@@ -7315,6 +7458,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [
     [
      3,
@@ -7396,7 +7540,7 @@
     "workable:ofbusiness -> no board"
    ]
   },
-  "ms": 9314
+  "ms": 9873
  },
  {
   "company": "Okta India",
@@ -7485,6 +7629,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -7504,6 +7649,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -7527,7 +7673,7 @@
     {
      "url": "https://okta.com/jobs",
      "status": 404,
-     "bytes": 1068761
+     "bytes": 1041356
     }
    ],
    "candidates": [
@@ -7545,7 +7691,7 @@
     "workable:okta -> no board"
    ]
   },
-  "ms": 15395
+  "ms": 15946
  },
  {
   "company": "Olyv",
@@ -7617,30 +7763,6 @@
     ],
     "expFits2": false,
     "score": 70
-   },
-   {
-    "title": "User Research intern",
-    "location": "Bangalore, KA",
-    "url": "https://smartcoin.keka.com/careers/jobdetails/104153",
-    "india": true,
-    "locationSaysIndia": true,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [
-     [
-      0,
-      1
-     ],
-     [
-      1,
-      2
-     ]
-    ],
-    "expFits2": true,
-    "score": 57
    },
    {
     "title": "Quality Analyst - Grievance",
@@ -7783,26 +7905,6 @@
     "score": 45
    },
    {
-    "title": "Sales and Marketing Intern - Business Development",
-    "location": "Bangalore, KA",
-    "url": "https://smartcoin.keka.com/careers/jobdetails/111038",
-    "india": true,
-    "locationSaysIndia": true,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [
-     [
-      0,
-      1
-     ]
-    ],
-    "expFits2": false,
-    "score": 39
-   },
-   {
     "title": "Associate Product Manager",
     "location": "Bangalore, KA",
     "url": "https://smartcoin.keka.com/careers/jobdetails/132410",
@@ -7849,21 +7951,6 @@
     ],
     "expFits2": true,
     "score": 35
-   },
-   {
-    "title": "Motion Graphic Design Intern (Social Media & Growth)",
-    "location": "Bangalore, KA",
-    "url": "https://smartcoin.keka.com/careers/jobdetails/126558",
-    "india": true,
-    "locationSaysIndia": true,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 31
    },
    {
     "title": "Product Manager",
@@ -8196,6 +8283,30 @@
     "score": 5
    },
    {
+    "title": "User Research intern",
+    "location": "Bangalore, KA",
+    "url": "https://smartcoin.keka.com/careers/jobdetails/104153",
+    "india": true,
+    "locationSaysIndia": true,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [
+     [
+      0,
+      1
+     ],
+     [
+      1,
+      2
+     ]
+    ],
+    "expFits2": true,
+    "score": 5
+   },
+   {
     "title": "Credit Risk Manager",
     "location": "Bangalore, KA",
     "url": "https://smartcoin.keka.com/careers/jobdetails/75390",
@@ -8320,6 +8431,41 @@
     ],
     "expFits2": false,
     "score": -7
+   },
+   {
+    "title": "Sales and Marketing Intern - Business Development",
+    "location": "Bangalore, KA",
+    "url": "https://smartcoin.keka.com/careers/jobdetails/111038",
+    "india": true,
+    "locationSaysIndia": true,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [
+     [
+      0,
+      1
+     ]
+    ],
+    "expFits2": false,
+    "score": -13
+   },
+   {
+    "title": "Motion Graphic Design Intern (Social Media & Growth)",
+    "location": "Bangalore, KA",
+    "url": "https://smartcoin.keka.com/careers/jobdetails/126558",
+    "india": true,
+    "locationSaysIndia": true,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": -21
    }
   ],
   "enriched": 0,
@@ -8339,6 +8485,7 @@
     "india": true,
     "senior": false,
     "junior": true,
+    "intern": false,
     "exp": [
      [
       1,
@@ -8364,6 +8511,7 @@
     "india": true,
     "senior": false,
     "junior": false,
+    "intern": false,
     "exp": [
      [
       5,
@@ -8388,6 +8536,7 @@
    "india": true,
    "senior": false,
    "junior": true,
+   "intern": false,
    "exp": [
     [
      1,
@@ -8411,6 +8560,7 @@
    "india": true,
    "senior": false,
    "junior": true,
+   "intern": false,
    "exp": [
     [
      1,
@@ -8490,7 +8640,7 @@
     "keka:smartcoin -> 34 jobs"
    ]
   },
-  "ms": 3371
+  "ms": 3541
  },
  {
   "company": "OneAssist",
@@ -8640,7 +8790,7 @@
     "workable:oneassist -> no board"
    ]
   },
-  "ms": 6209
+  "ms": 5483
  },
  {
   "company": "Open Financial",
@@ -8692,6 +8842,7 @@
    "india": true,
    "senior": true,
    "junior": false,
+   "intern": false,
    "exp": [
     [
      4,
@@ -8780,7 +8931,7 @@
     "keka:openfinancial -> 1 jobs"
    ]
   },
-  "ms": 1626
+  "ms": 1605
  },
  {
   "company": "Opcito Technologies",
@@ -8884,6 +9035,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -8903,6 +9055,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -8917,12 +9070,12 @@
     {
      "url": "https://opcito.com/careers",
      "status": 200,
-     "bytes": 90721
+     "bytes": 90722
     },
     {
      "url": "https://opcito.com/career",
      "status": 200,
-     "bytes": 90720
+     "bytes": 90722
     },
     {
      "url": "https://opcito.com/jobs",
@@ -8955,7 +9108,7 @@
     "workable:opcito -> no board"
    ]
   },
-  "ms": 8053
+  "ms": 11681
  },
  {
   "company": "Objectways",
@@ -9237,6 +9390,7 @@
     "india": true,
     "senior": false,
     "junior": false,
+    "intern": false,
     "exp": [
      [
       4,
@@ -9262,6 +9416,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [
     [
      4,
@@ -9286,6 +9441,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [
     [
      4,
@@ -9343,7 +9499,7 @@
     "workable:objectways -> no board"
    ]
   },
-  "ms": 15877
+  "ms": 17855
  },
  {
   "company": "Ocrolus India",
@@ -9368,7 +9524,7 @@
     {
      "url": "https://ocrolus.com/careers",
      "status": 200,
-     "bytes": 151853
+     "bytes": 151855
     },
     {
      "url": "https://ocrolus.com/career",
@@ -9411,7 +9567,7 @@
     "workable:ocrolus -> no board"
    ]
   },
-  "ms": 32151
+  "ms": 40072
  },
  {
   "company": "Octro",
@@ -9458,7 +9614,7 @@
     "workable:octro -> no board"
    ]
   },
-  "ms": 11346
+  "ms": 14219
  },
  {
   "company": "Odoo India",
@@ -9517,6 +9673,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -9554,7 +9711,7 @@
     "workable:odoo -> no board"
    ]
   },
-  "ms": 10519
+  "ms": 9880
  },
  {
   "company": "Oizom",
@@ -9579,22 +9736,22 @@
     {
      "url": "https://oizom.com/careers",
      "status": 200,
-     "bytes": 351213
+     "bytes": 351304
     },
     {
      "url": "https://oizom.com/career",
      "status": 200,
-     "bytes": 351301
+     "bytes": 351210
     },
     {
      "url": "https://oizom.com/jobs",
      "status": 200,
-     "bytes": 351295
+     "bytes": 351204
     },
     {
      "url": "https://oizom.com/join-us",
      "status": 200,
-     "bytes": 351213
+     "bytes": 351304
     },
     {
      "url": "https://oizom.com/join-our-team",
@@ -9617,7 +9774,7 @@
     "workable:oizom -> no board"
    ]
   },
-  "ms": 6348
+  "ms": 7103
  },
  {
   "company": "Olive Crypto",
@@ -9761,7 +9918,7 @@
     "workable:olivecrypto -> no board"
    ]
   },
-  "ms": 4242
+  "ms": 3466
  },
  {
   "company": "Omniful",
@@ -9869,6 +10026,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [
     [
      3,
@@ -9892,6 +10050,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [
     [
      3,
@@ -9974,7 +10133,7 @@
     "workable:omniful -> no board"
    ]
   },
-  "ms": 2429
+  "ms": 2851
  },
  {
   "company": "Onclusive India",
@@ -10062,7 +10221,7 @@
     "workable:onclusive -> no board"
    ]
   },
-  "ms": 17544
+  "ms": 17165
  },
  {
   "company": "Osmos (formerly Onlinesales.ai)",
@@ -10156,7 +10315,7 @@
     "workable:osmos -> no board"
    ]
   },
-  "ms": 12499
+  "ms": 11277
  },
  {
   "company": "Ontic India",
@@ -10409,6 +10568,7 @@
     "india": true,
     "senior": false,
     "junior": false,
+    "intern": false,
     "exp": [
      [
       2,
@@ -10438,6 +10598,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [
     [
      2,
@@ -10465,6 +10626,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [
     [
      2,
@@ -10548,7 +10710,7 @@
     "ashby:Ontic -> 11 jobs"
    ]
   },
-  "ms": 11713
+  "ms": 12861
  },
  {
   "company": "Oracle Cerner India",
@@ -10567,7 +10729,7 @@
     {
      "url": "https://careers.cerner.com",
      "status": 200,
-     "bytes": 51478
+     "bytes": 51483
     },
     {
      "url": "https://cerner.com/careers",
@@ -10638,7 +10800,7 @@
     {
      "url": "https://www.cerner.com/careers",
      "status": 200,
-     "bytes": 51479
+     "bytes": 51483
     },
     {
      "url": "https://www.cerner.com/career",
@@ -10683,7 +10845,7 @@
     {
      "url": "https://www.cerner.com/",
      "status": 200,
-     "bytes": 61172
+     "bytes": 61178
     }
    ],
    "candidates": [
@@ -10711,7 +10873,7 @@
     "workable:cerner -> no board"
    ]
   },
-  "ms": 48118
+  "ms": 62375
  },
  {
   "company": "Orbis Financial",
@@ -10747,7 +10909,7 @@
     {
      "url": "https://orbisfinancial.in/career",
      "status": 200,
-     "bytes": 244629
+     "bytes": 244628
     },
     {
      "url": "https://orbisfinancial.in/jobs",
@@ -10762,7 +10924,7 @@
     {
      "url": "https://orbisfinancial.in/join-our-team",
      "status": 404,
-     "bytes": 169543
+     "bytes": 169542
     },
     {
      "url": "https://orbisfinancial.in/careers.html",
@@ -10790,7 +10952,7 @@
     "workable:orbisfinancial -> no board"
    ]
   },
-  "ms": 16338
+  "ms": 16209
  },
  {
   "company": "Orient Technologies",
@@ -10875,6 +11037,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [
     [
      4,
@@ -10899,6 +11062,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [
     [
      4,
@@ -10991,7 +11155,7 @@
     "workable:orientindia -> no board"
    ]
   },
-  "ms": 9375
+  "ms": 12114
  },
  {
   "company": "Origa Leasing",
@@ -11155,7 +11319,7 @@
     "workable:origa -> no board"
    ]
   },
-  "ms": 5424
+  "ms": 5910
  },
  {
   "company": "Orkes India",
@@ -11523,6 +11687,7 @@
     "india": false,
     "senior": false,
     "junior": false,
+    "intern": false,
     "exp": [],
     "expFits2": false
    }
@@ -11542,6 +11707,7 @@
    "india": false,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -11560,6 +11726,7 @@
    "india": false,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -11592,7 +11759,7 @@
     "greenhouse:orkes -> 20 jobs"
    ]
   },
-  "ms": 1262
+  "ms": 1114
  },
  {
   "company": "Osmos",
@@ -11746,7 +11913,7 @@
     "workable:osmos -> no board"
    ]
   },
-  "ms": 6307
+  "ms": 6474
  },
  {
   "company": "Ottonomy",
@@ -11810,21 +11977,6 @@
     "score": 49
    },
    {
-    "title": "R&D Robotics & Artificial Intelligence Intern",
-    "location": "",
-    "url": "https://ottonomy.io/jobs/rd-robotics-artificial-intelligence-intern/",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 31
-   },
-   {
     "title": "Robotics Technician – Electronics",
     "location": "",
     "url": "https://ottonomy.io/jobs/robotics-technician-electronics/",
@@ -11853,6 +12005,21 @@
     "exp": [],
     "expFits2": false,
     "score": -3
+   },
+   {
+    "title": "R&D Robotics & Artificial Intelligence Intern",
+    "location": "",
+    "url": "https://ottonomy.io/jobs/rd-robotics-artificial-intelligence-intern/",
+    "india": true,
+    "locationSaysIndia": false,
+    "hasLocation": false,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": -21
    }
   ],
   "enriched": 3,
@@ -11874,6 +12041,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [
     [
      2,
@@ -11902,6 +12070,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [
     [
      2,
@@ -12049,7 +12218,7 @@
     "workable:ottonomy -> no board"
    ]
   },
-  "ms": 17390
+  "ms": 18137
  },
  {
   "company": "Outplay",
@@ -12183,6 +12352,7 @@
    "india": true,
    "senior": false,
    "junior": true,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -12202,6 +12372,7 @@
    "india": true,
    "senior": true,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -12289,7 +12460,7 @@
     "workable:outplayhq -> no board"
    ]
   },
-  "ms": 15828
+  "ms": 21823
  },
  {
   "company": "o9 Solutions India",
@@ -12363,7 +12534,7 @@
     "workable:o9solutions -> no board"
    ]
   },
-  "ms": 12184
+  "ms": 12507
  },
  {
   "company": "Optym India",
@@ -12459,7 +12630,7 @@
     "workable:optym -> no board"
    ]
   },
-  "ms": 11952
+  "ms": 12187
  },
  {
   "company": "OneTrust India",
@@ -12609,6 +12780,7 @@
    "india": true,
    "senior": true,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -12628,6 +12800,7 @@
    "india": true,
    "senior": true,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -12636,7 +12809,7 @@
     {
      "url": "https://www.onetrust.com/careers/",
      "status": 200,
-     "bytes": 174786
+     "bytes": 174798
     },
     {
      "url": "https://careers.onetrust.com",
@@ -12647,52 +12820,52 @@
     {
      "url": "https://onetrust.com/careers",
      "status": 200,
-     "bytes": 174786
+     "bytes": 174798
     },
     {
      "url": "https://onetrust.com/career",
      "status": 200,
-     "bytes": 131254
+     "bytes": 131218
     },
     {
      "url": "https://onetrust.com/jobs",
      "status": 200,
-     "bytes": 131254
+     "bytes": 131218
     },
     {
      "url": "https://onetrust.com/join-us",
      "status": 200,
-     "bytes": 131254
+     "bytes": 131218
     },
     {
      "url": "https://onetrust.com/join-our-team",
      "status": 200,
-     "bytes": 131254
+     "bytes": 131218
     },
     {
      "url": "https://onetrust.com/careers.html",
      "status": 200,
-     "bytes": 174786
+     "bytes": 174798
     },
     {
      "url": "https://onetrust.com/company/careers",
      "status": 200,
-     "bytes": 131254
+     "bytes": 131218
     },
     {
      "url": "https://onetrust.com/about/careers",
      "status": 200,
-     "bytes": 131254
+     "bytes": 131218
     },
     {
      "url": "https://onetrust.com/current-openings",
      "status": 200,
-     "bytes": 131254
+     "bytes": 131218
     },
     {
      "url": "https://onetrust.com/",
      "status": 200,
-     "bytes": 216177
+     "bytes": 216214
     }
    ],
    "candidates": [
@@ -12710,7 +12883,7 @@
     "workable:onetrust -> no board"
    ]
   },
-  "ms": 16530
+  "ms": 19236
  },
  {
   "company": "Outreach India",
@@ -13410,6 +13583,7 @@
    "india": false,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [
     [
      1,
@@ -13437,6 +13611,7 @@
    "india": false,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [
     [
      5,
@@ -13515,7 +13690,7 @@
     "lever:outreach -> 33 jobs"
    ]
   },
-  "ms": 27224
+  "ms": 16673
  },
  {
   "company": "Optiv India",
@@ -14190,6 +14365,7 @@
    "india": false,
    "senior": true,
    "junior": false,
+   "intern": false,
    "exp": [
     [
      4,
@@ -14232,6 +14408,7 @@
    "india": false,
    "senior": true,
    "junior": false,
+   "intern": false,
    "exp": [
     [
      4,
@@ -14302,7 +14479,7 @@
     {
      "url": "https://optiv.com/company/careers",
      "status": 200,
-     "bytes": 155196
+     "bytes": 155195
     },
     {
      "url": "https://optiv.com/about/careers",
@@ -14327,7 +14504,7 @@
     "workday:optiv -> 40 jobs"
    ]
   },
-  "ms": 23382
+  "ms": 19296
  },
  {
   "company": "onsemi India",
@@ -14380,7 +14557,7 @@
     "workable:onsemi -> no board"
    ]
   },
-  "ms": 23780
+  "ms": 30748
  },
  {
   "company": "Oceaneering India",
@@ -14514,6 +14691,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -14556,7 +14734,7 @@
     "workable:oceaneering -> no board"
    ]
   },
-  "ms": 16769
+  "ms": 12683
  },
  {
   "company": "Omnicell India",
@@ -14649,7 +14827,7 @@
     "workable:omnicell -> no board"
    ]
   },
-  "ms": 34164
+  "ms": 35041
  },
  {
   "company": "Oracle NetSuite India",
@@ -14708,6 +14886,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -14723,7 +14902,7 @@
     {
      "url": "https://netsuite.com/careers",
      "status": 200,
-     "bytes": 142252
+     "bytes": 142255
     },
     {
      "url": "https://netsuite.com/career",
@@ -14768,7 +14947,7 @@
     {
      "url": "https://netsuite.com/",
      "status": 200,
-     "bytes": 148262
+     "bytes": 148264
     }
    ],
    "candidates": [
@@ -14796,7 +14975,7 @@
     "workable:netsuite -> no board"
    ]
   },
-  "ms": 26347
+  "ms": 28479
  },
  {
   "company": "OneAdvanced India",
@@ -15308,6 +15487,7 @@
    "india": false,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -15329,6 +15509,7 @@
    "india": false,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -15337,12 +15518,12 @@
     {
      "url": "https://careers.oneadvanced.com/",
      "status": 200,
-     "bytes": 80099
+     "bytes": 78887
     },
     {
      "url": "https://careers.oneadvanced.com",
      "status": 200,
-     "bytes": 80119
+     "bytes": 80099
     },
     {
      "url": "https://oneadvanced.com/careers",
@@ -15367,7 +15548,7 @@
     "icims:oneadvanced -> 32 jobs"
    ]
   },
-  "ms": 7917
+  "ms": 7212
  },
  {
   "company": "Onit India",
@@ -15520,6 +15701,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -15538,6 +15720,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -15546,7 +15729,7 @@
     {
      "url": "https://www.onit.com/careers/",
      "status": 200,
-     "bytes": 113873
+     "bytes": 125666
     },
     {
      "url": "https://careers.onit.com",
@@ -15556,7 +15739,7 @@
     {
      "url": "https://onit.com/careers",
      "status": 200,
-     "bytes": 113873
+     "bytes": 125666
     },
     {
      "url": "https://onit.com/career",
@@ -15575,7 +15758,7 @@
     "lever:onit -> 7 jobs"
    ]
   },
-  "ms": 3922
+  "ms": 5114
  },
  {
   "company": "OpenGov India",
@@ -16458,6 +16641,7 @@
     "india": true,
     "senior": false,
     "junior": false,
+    "intern": false,
     "exp": [
      [
       3,
@@ -16489,6 +16673,7 @@
     "india": true,
     "senior": false,
     "junior": false,
+    "intern": false,
     "exp": [
      [
       3,
@@ -16522,6 +16707,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [
     [
      3,
@@ -16553,6 +16739,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [
     [
      3,
@@ -16598,7 +16785,7 @@
     "ashby:opengov -> 40 jobs"
    ]
   },
-  "ms": 10417
+  "ms": 11245
  },
  {
   "company": "OSI Digital",
@@ -16672,6 +16859,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -16702,12 +16890,17 @@
     {
      "url": "https://osidigital.com/jobs",
      "status": 404,
-     "bytes": 180367
+     "bytes": 170638
     },
     {
      "url": "https://osidigital.com/join-us",
      "status": 404,
      "bytes": 170641
+    },
+    {
+     "url": "https://osidigital.com/join-our-team",
+     "status": 404,
+     "bytes": 170647
     }
    ],
    "candidates": [
@@ -16725,7 +16918,7 @@
     "workable:osidigital -> no board"
    ]
   },
-  "ms": 59390
+  "ms": 75821
  },
  {
   "company": "Onity Group India",
@@ -16885,7 +17078,7 @@
     "skip off-domain https://ebhz.fa.us2.oraclecloud.com"
    ]
   },
-  "ms": 39006
+  "ms": 39545
  },
  {
   "company": "OPPO India",
@@ -17033,7 +17226,7 @@
     "workable:oppo -> no board"
    ]
   },
-  "ms": 33541
+  "ms": 36519
  },
  {
   "company": "Onward Technologies",
@@ -17052,7 +17245,7 @@
    "pages": [],
    "attempts": []
   },
-  "ms": 89993
+  "ms": 90002
  },
  {
   "company": "OpenXcell",
@@ -17111,6 +17304,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -17189,7 +17383,7 @@
     "workable:openxcell -> no board"
    ]
   },
-  "ms": 4033
+  "ms": 5071
  },
  {
   "company": "OrangeMantra",
@@ -17459,6 +17653,7 @@
    "india": true,
    "senior": false,
    "junior": true,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -17507,7 +17702,7 @@
     "workable:orangemantra -> no board"
    ]
   },
-  "ms": 16945
+  "ms": 15239
  },
  {
   "company": "Oodles Technologies",
@@ -17612,6 +17807,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -17631,6 +17827,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -17769,7 +17966,7 @@
     "workable:oodles -> no board"
    ]
   },
-  "ms": 16031
+  "ms": 18081
  },
  {
   "company": "OpenSense Labs",
@@ -17780,21 +17977,6 @@
   "jobs": [
    {
     "title": "Accounts Associate",
-    "location": "",
-    "url": "https://opensenselabs.com/career",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 31
-   },
-   {
-    "title": "Social Media Intern",
     "location": "",
     "url": "https://opensenselabs.com/career",
     "india": true,
@@ -17837,6 +18019,21 @@
     "exp": [],
     "expFits2": false,
     "score": -3
+   },
+   {
+    "title": "Social Media Intern",
+    "location": "",
+    "url": "https://opensenselabs.com/career",
+    "india": true,
+    "locationSaysIndia": false,
+    "hasLocation": false,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": -21
    }
   ],
   "enriched": 0,
@@ -17858,6 +18055,7 @@
    "india": true,
    "senior": false,
    "junior": true,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -17911,7 +18109,7 @@
     "workable:opensenselabs -> no board"
    ]
   },
-  "ms": 10898
+  "ms": 10290
  },
  {
   "company": "OptiSol Business Solutions",
@@ -17947,17 +18145,17 @@
     {
      "url": "https://optisolbusiness.com/career",
      "status": 200,
-     "bytes": 200818
+     "bytes": 200817
     },
     {
      "url": "https://optisolbusiness.com/jobs",
      "status": 200,
-     "bytes": 200818
+     "bytes": 200817
     },
     {
      "url": "https://optisolbusiness.com/join-us",
      "status": 200,
-     "bytes": 354156
+     "bytes": 354153
     }
    ],
    "candidates": [
@@ -17977,7 +18175,7 @@
     "workable:optisolbusiness -> no board"
    ]
   },
-  "ms": 8484
+  "ms": 11629
  },
  {
   "company": "Openwave Computing",
@@ -18132,7 +18330,7 @@
     "workable:openwavecomp -> no board"
    ]
   },
-  "ms": 5985
+  "ms": 8874
  },
  {
   "company": "OneClick IT Consultancy",
@@ -18287,7 +18485,7 @@
     "workable:oneclickitsolution -> no board"
    ]
   },
-  "ms": 15426
+  "ms": 17737
  },
  {
   "company": "Orion eSolutions",
@@ -18361,6 +18559,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -18409,7 +18608,7 @@
     "workable:orionesolutions -> no board"
    ]
   },
-  "ms": 8398
+  "ms": 9049
  },
  {
   "company": "Oyelabs",
@@ -18469,6 +18668,7 @@
    "india": true,
    "senior": true,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -18517,7 +18717,7 @@
     "workable:oyelabs -> no board"
    ]
   },
-  "ms": 26686
+  "ms": 29909
  },
  {
   "company": "Omninos Solutions",
@@ -18580,7 +18780,7 @@
     "workable:omninos -> no board"
    ]
   },
-  "ms": 52552
+  "ms": 50288
  },
  {
   "company": "Owebest Technologies",
@@ -18669,21 +18869,6 @@
     "score": 45
    },
    {
-    "title": "Front End Intern",
-    "location": "",
-    "url": "https://www.owebest.com/career",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 39
-   },
-   {
     "title": "Business Analyst / Business Development Manager",
     "location": "",
     "url": "https://www.owebest.com/career",
@@ -18697,6 +18882,21 @@
     "exp": [],
     "expFits2": false,
     "score": -3
+   },
+   {
+    "title": "Front End Intern",
+    "location": "",
+    "url": "https://www.owebest.com/career",
+    "india": true,
+    "locationSaysIndia": false,
+    "hasLocation": false,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": -13
    }
   ],
   "enriched": 0,
@@ -18718,6 +18918,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [
     [
      2,
@@ -18746,6 +18947,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [
     [
      2,
@@ -18817,7 +19019,7 @@
     "workable:owebest -> no board"
    ]
   },
-  "ms": 4013
+  "ms": 4786
  },
  {
   "company": "Optimus Information",
@@ -19078,7 +19280,7 @@
     "workable:optimusinfo -> no board"
    ]
   },
-  "ms": 24606
+  "ms": 27182
  },
  {
   "company": "Osmosys Software Solutions",
@@ -19131,7 +19333,7 @@
     "workable:osmosys -> no board"
    ]
   },
-  "ms": 33452
+  "ms": 35180
  },
  {
   "company": "Oneture Technologies",
@@ -19367,6 +19569,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [
     [
      1,
@@ -19398,6 +19601,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [
     [
      1,
@@ -19465,7 +19669,7 @@
     "keka:oneture -> 9 jobs"
    ]
   },
-  "ms": 726
+  "ms": 956
  },
  {
   "company": "Ospyn Technologies",
@@ -19559,7 +19763,7 @@
     "workable:ospyn -> no board"
    ]
   },
-  "ms": 15967
+  "ms": 16187
  },
  {
   "company": "Octal IT Solution",
@@ -19632,7 +19836,7 @@
     "workable:octalsoftware -> no board"
    ]
   },
-  "ms": 8264
+  "ms": 7592
  },
  {
   "company": "Ozvid Technologies",
@@ -19887,6 +20091,7 @@
     "india": true,
     "senior": false,
     "junior": false,
+    "intern": false,
     "exp": [],
     "expFits2": false
    },
@@ -19906,6 +20111,7 @@
     "india": true,
     "senior": false,
     "junior": false,
+    "intern": false,
     "exp": [],
     "expFits2": false
    }
@@ -19926,6 +20132,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -19945,6 +20152,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -19997,7 +20205,7 @@
     "workable:ozvid -> no board"
    ]
   },
-  "ms": 5192
+  "ms": 5991
  },
  {
   "company": "OnGraph Technologies",
@@ -20116,6 +20324,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -20174,7 +20383,7 @@
     "workable:ongraph -> no board"
    ]
   },
-  "ms": 11563
+  "ms": 11558
  },
  {
   "company": "Octaware Technologies",
@@ -20318,14 +20527,14 @@
     "workable:octaware -> no board"
    ]
   },
-  "ms": 10652
+  "ms": 8464
  },
  {
   "company": "OmniMD",
   "country": "India",
   "careers": "https://omnimd.com/careers/",
   "source": null,
-  "error": "timed-out",
+  "error": "careers-page-read-but-lists-no-openings",
   "totalJobs": 0,
   "jobs": [],
   "enriched": 0,
@@ -20334,10 +20543,50 @@
   "closest": null,
   "closestEng": null,
   "trace": {
-   "pages": [],
-   "attempts": []
+   "pages": [
+    {
+     "url": "https://omnimd.com/careers/",
+     "status": 200,
+     "bytes": 780873
+    },
+    {
+     "url": "https://careers.omnimd.com",
+     "status": 0,
+     "bytes": 0,
+     "error": "fetch failed"
+    },
+    {
+     "url": "https://omnimd.com/careers",
+     "status": 200,
+     "bytes": 780873
+    },
+    {
+     "url": "https://omnimd.com/career",
+     "status": 404,
+     "bytes": 752618
+    },
+    {
+     "url": "https://omnimd.com/jobs",
+     "status": 404,
+     "bytes": 752570
+    }
+   ],
+   "candidates": [
+    "greenhouse:omnimd(guess)",
+    "lever:omnimd(guess)",
+    "ashby:omnimd(guess)",
+    "recruitee:omnimd(guess)",
+    "workable:omnimd(guess)"
+   ],
+   "attempts": [
+    "greenhouse:omnimd -> no board",
+    "lever:omnimd -> no board",
+    "ashby:omnimd -> no board",
+    "recruitee:omnimd -> no board",
+    "workable:omnimd -> no board"
+   ]
   },
-  "ms": 90000
+  "ms": 85981
  },
  {
   "company": "Openweb Solutions",
@@ -20508,7 +20757,7 @@
     "workable:openwebsolutions -> no board"
    ]
   },
-  "ms": 7090
+  "ms": 6529
  },
  {
   "company": "Omnitech InfoSolutions",
@@ -20571,7 +20820,7 @@
     "workable:omnitech -> no board"
    ]
   },
-  "ms": 60185
+  "ms": 67546
  },
  {
   "company": "Odyssey Technologies",
@@ -20725,7 +20974,7 @@
     "workable:odysseytec -> no board"
    ]
   },
-  "ms": 8112
+  "ms": 8924
  },
  {
   "company": "Omnex India",
@@ -20792,7 +21041,7 @@
     "workable:omnex -> no board"
    ]
   },
-  "ms": 32393
+  "ms": 32223
  },
  {
   "company": "Opus Consulting Solutions",
@@ -20890,7 +21139,7 @@
     "workable:opustechglobal -> no board"
    ]
   },
-  "ms": 35233
+  "ms": 32654
  },
  {
   "company": "Osource Global",
@@ -20979,6 +21228,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -20988,7 +21238,7 @@
     {
      "url": "https://osourceglobal.com/careers/",
      "status": 200,
-     "bytes": 386101
+     "bytes": 386220
     },
     {
      "url": "https://careers.osourceglobal.com",
@@ -20999,12 +21249,12 @@
     {
      "url": "https://osourceglobal.com/careers",
      "status": 200,
-     "bytes": 386235
+     "bytes": 386244
     },
     {
      "url": "https://osourceglobal.com/career",
      "status": 200,
-     "bytes": 386560
+     "bytes": 386257
     }
    ],
    "candidates": [
@@ -21022,7 +21272,7 @@
     "workable:osourceglobal -> no board"
    ]
   },
-  "ms": 8492
+  "ms": 10507
  },
  {
   "company": "Omega Healthcare Management",
@@ -21185,6 +21435,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -21273,7 +21524,7 @@
     "workable:omegahealthcare -> no board"
    ]
   },
-  "ms": 8546
+  "ms": 9044
  },
  {
   "company": "OnMobile Global",
@@ -21337,7 +21588,7 @@
     "workable:onmobile -> no board"
    ]
   },
-  "ms": 7148
+  "ms": 9606
  },
  {
   "company": "Oorwin",
@@ -21389,7 +21640,7 @@
     "workable:oorwin -> no board"
    ]
   },
-  "ms": 5428
+  "ms": 6299
  },
  {
   "company": "Optimizory",
@@ -21413,21 +21664,6 @@
     "exp": [],
     "expFits2": false,
     "score": 49
-   },
-   {
-    "title": "Digital Marketing Intern",
-    "location": "",
-    "url": "https://optimizory.com/careers",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 31
    },
    {
     "title": "Risk Manager",
@@ -21458,6 +21694,21 @@
     "exp": [],
     "expFits2": false,
     "score": -3
+   },
+   {
+    "title": "Digital Marketing Intern",
+    "location": "",
+    "url": "https://optimizory.com/careers",
+    "india": true,
+    "locationSaysIndia": false,
+    "hasLocation": false,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": -21
    }
   ],
   "enriched": 0,
@@ -21479,6 +21730,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -21498,6 +21750,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -21575,7 +21828,7 @@
     "workable:optimizory -> no board"
    ]
   },
-  "ms": 12087
+  "ms": 15492
  },
  {
   "company": "OpsVeda",
@@ -21680,6 +21933,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -21699,6 +21953,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -21781,7 +22036,7 @@
     "workable:opsveda -> no board"
    ]
   },
-  "ms": 24299
+  "ms": 19757
  },
  {
   "company": "Omnify",
@@ -21856,6 +22111,7 @@
    "india": true,
    "senior": true,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -21875,6 +22131,7 @@
    "india": true,
    "senior": true,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -21926,7 +22183,7 @@
     "workable:getomnify -> no board"
    ]
   },
-  "ms": 8848
+  "ms": 10366
  },
  {
   "company": "Orbo.ai",
@@ -22080,7 +22337,7 @@
     "workable:orbo -> no board"
    ]
   },
-  "ms": 7052
+  "ms": 7635
  },
  {
   "company": "ORI (ORIserve)",
@@ -22169,7 +22426,7 @@
     "workable:oriserve -> no board"
    ]
   },
-  "ms": 12282
+  "ms": 12362
  },
  {
   "company": "OpenTurf Technologies",
@@ -22258,6 +22515,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -22277,6 +22535,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -22354,7 +22613,7 @@
     "workable:openturf -> no board"
    ]
   },
-  "ms": 44756
+  "ms": 22322
  },
  {
   "company": "Orangewood Labs",
@@ -22499,7 +22758,7 @@
     "workable:orangewood -> no board"
    ]
   },
-  "ms": 4831
+  "ms": 19766
  },
  {
   "company": "Oben Electric",
@@ -22660,7 +22919,7 @@
     "workable:obenelectric -> no board"
    ]
   },
-  "ms": 8313
+  "ms": 9383
  },
  {
   "company": "Ola Krutrim",
@@ -22685,52 +22944,52 @@
     {
      "url": "https://olakrutrim.com/careers",
      "status": 200,
-     "bytes": 85103
+     "bytes": 85106
     },
     {
      "url": "https://olakrutrim.com/career",
      "status": 200,
-     "bytes": 85103
+     "bytes": 85106
     },
     {
      "url": "https://olakrutrim.com/jobs",
      "status": 200,
-     "bytes": 85103
+     "bytes": 85106
     },
     {
      "url": "https://olakrutrim.com/join-us",
      "status": 200,
-     "bytes": 85103
+     "bytes": 85106
     },
     {
      "url": "https://olakrutrim.com/join-our-team",
      "status": 200,
-     "bytes": 85103
+     "bytes": 85106
     },
     {
      "url": "https://olakrutrim.com/careers.html",
      "status": 200,
-     "bytes": 85103
+     "bytes": 85106
     },
     {
      "url": "https://olakrutrim.com/company/careers",
      "status": 200,
-     "bytes": 85103
+     "bytes": 85106
     },
     {
      "url": "https://olakrutrim.com/about/careers",
      "status": 200,
-     "bytes": 85103
+     "bytes": 85106
     },
     {
      "url": "https://olakrutrim.com/current-openings",
      "status": 200,
-     "bytes": 85103
+     "bytes": 85106
     },
     {
      "url": "https://olakrutrim.com/",
      "status": 200,
-     "bytes": 85103
+     "bytes": 85106
     },
     {
      "url": "https://careers.www.olakrutrim.com",
@@ -22786,7 +23045,7 @@
     {
      "url": "https://www.olakrutrim.com/",
      "status": 200,
-     "bytes": 85103
+     "bytes": 85106
     }
    ],
    "candidates": [
@@ -22804,7 +23063,7 @@
     "workable:olakrutrim -> no board"
    ]
   },
-  "ms": 4876
+  "ms": 8023
  },
  {
   "company": "OkCredit",
@@ -22947,7 +23206,7 @@
     "workable:okcredit -> no board"
    ]
   },
-  "ms": 6205
+  "ms": 7516
  },
  {
   "company": "OneBanc",
@@ -23142,6 +23401,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -23220,7 +23480,7 @@
     "workable:onebanc -> no board"
    ]
   },
-  "ms": 4853
+  "ms": 5226
  },
  {
   "company": "OneMoney",
@@ -23370,7 +23630,7 @@
     "workable:onemoney -> no board"
    ]
   },
-  "ms": 25546
+  "ms": 30222
  },
  {
   "company": "OnFinance AI",
@@ -23524,7 +23784,7 @@
     "workable:onfinance -> no board"
    ]
   },
-  "ms": 14752
+  "ms": 20290
  },
  {
   "company": "OTO Capital",
@@ -23668,7 +23928,7 @@
     "workable:otocapital -> no board"
    ]
   },
-  "ms": 3641
+  "ms": 7270
  },
  {
   "company": "Oliveboard",
@@ -23738,7 +23998,7 @@
     {
      "url": "https://oliveboard.in/",
      "status": 200,
-     "bytes": 284499
+     "bytes": 284516
     },
     {
      "url": "https://careers.www.oliveboard.in",
@@ -23794,7 +24054,7 @@
     {
      "url": "https://www.oliveboard.in/",
      "status": 200,
-     "bytes": 284463
+     "bytes": 284429
     }
    ],
    "candidates": [
@@ -23812,7 +24072,7 @@
     "workable:oliveboard -> no board"
    ]
   },
-  "ms": 7416
+  "ms": 8365
  },
  {
   "company": "Orange Health Labs",
@@ -23832,7 +24092,7 @@
     {
      "url": "https://www.orangehealth.in/careers",
      "status": 200,
-     "bytes": 61812
+     "bytes": 61811
     },
     {
      "url": "https://careers.orangehealth.in",
@@ -23843,12 +24103,12 @@
     {
      "url": "https://orangehealth.in/careers",
      "status": 200,
-     "bytes": 61811
+     "bytes": 61812
     },
     {
      "url": "https://orangehealth.in/career",
      "status": 200,
-     "bytes": 61809
+     "bytes": 61808
     },
     {
      "url": "https://orangehealth.in/jobs",
@@ -23858,7 +24118,12 @@
     {
      "url": "https://orangehealth.in/join-us",
      "status": 200,
-     "bytes": 61849
+     "bytes": 61811
+    },
+    {
+     "url": "https://orangehealth.in/join-our-team",
+     "status": 200,
+     "bytes": 61829
     }
    ],
    "candidates": [
@@ -23888,7 +24153,7 @@
     "workable:orangehealth -> no board"
    ]
   },
-  "ms": 5856
+  "ms": 11181
  },
  {
   "company": "OnGrid",
@@ -24040,7 +24305,7 @@
     "workable:ongrid -> no board"
    ]
   },
-  "ms": 3888
+  "ms": 4547
  },
  {
   "company": "Onco.com",
@@ -24138,26 +24403,182 @@
     "workable:onco -> no board"
    ]
   },
-  "ms": 19412
+  "ms": 20139
  },
  {
   "company": "OLX India",
   "country": "India",
   "careers": "https://www.olx.in/careers",
-  "source": null,
-  "error": "timed-out",
-  "totalJobs": 0,
-  "jobs": [],
+  "source": "headings:https://www.olx.in/jobs_c4",
+  "error": null,
+  "totalJobs": 6,
+  "jobs": [
+   {
+    "title": "IT Engineer & Developer",
+    "location": "",
+    "url": "https://www.olx.in/jobs_c4",
+    "india": true,
+    "locationSaysIndia": false,
+    "hasLocation": false,
+    "isEng": true,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 49
+   },
+   {
+    "title": "Office Assistant",
+    "location": "",
+    "url": "https://www.olx.in/jobs_c4",
+    "india": true,
+    "locationSaysIndia": false,
+    "hasLocation": false,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 19
+   },
+   {
+    "title": "Operator & Technician",
+    "location": "",
+    "url": "https://www.olx.in/jobs_c4",
+    "india": true,
+    "locationSaysIndia": false,
+    "hasLocation": false,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 19
+   },
+   {
+    "title": "Hotel & Travel Executive",
+    "location": "",
+    "url": "https://www.olx.in/jobs_c4",
+    "india": true,
+    "locationSaysIndia": false,
+    "hasLocation": false,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 19
+   },
+   {
+    "title": "Well Expirienced sales person and managers wanted",
+    "location": "",
+    "url": "https://www.olx.in/jobs_c4",
+    "india": true,
+    "locationSaysIndia": false,
+    "hasLocation": false,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 19
+   },
+   {
+    "title": "Palakkad/Agency manager/12th pass- Manipal Cigna health insurance",
+    "location": "",
+    "url": "https://www.olx.in/jobs_c4",
+    "india": true,
+    "locationSaysIndia": false,
+    "hasLocation": false,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [],
+    "expFits2": false,
+    "score": -3
+   }
+  ],
   "enriched": 0,
   "matches": [],
   "nearMatches": [],
-  "closest": null,
-  "closestEng": null,
+  "closest": {
+   "title": "IT Engineer & Developer",
+   "location": "",
+   "url": "https://www.olx.in/jobs_c4",
+   "team": "",
+   "text": "IT Engineer & Developer (507)",
+   "_noEnrich": true,
+   "score": 49,
+   "isMatch": false,
+   "isEng": true,
+   "java": false,
+   "flutter": false,
+   "android": false,
+   "india": true,
+   "senior": false,
+   "junior": false,
+   "intern": false,
+   "exp": [],
+   "expFits2": false
+  },
+  "closestEng": {
+   "title": "IT Engineer & Developer",
+   "location": "",
+   "url": "https://www.olx.in/jobs_c4",
+   "team": "",
+   "text": "IT Engineer & Developer (507)",
+   "_noEnrich": true,
+   "score": 49,
+   "isMatch": false,
+   "isEng": true,
+   "java": false,
+   "flutter": false,
+   "android": false,
+   "india": true,
+   "senior": false,
+   "junior": false,
+   "intern": false,
+   "exp": [],
+   "expFits2": false
+  },
   "trace": {
-   "pages": [],
+   "pages": [
+    {
+     "url": "https://www.olx.in/careers",
+     "status": 404,
+     "bytes": 313955
+    },
+    {
+     "url": "https://careers.olx.in",
+     "status": 200,
+     "bytes": 105328
+    },
+    {
+     "url": "https://olx.in/careers",
+     "status": 404,
+     "bytes": 313955
+    },
+    {
+     "url": "https://olx.in/career",
+     "status": 404,
+     "bytes": 313955
+    },
+    {
+     "url": "https://olx.in/jobs",
+     "status": 200,
+     "bytes": 866780
+    }
+   ],
+   "candidates": [],
    "attempts": []
   },
-  "ms": 90003
+  "ms": 20247
  },
  {
   "company": "ONDC",
@@ -24216,7 +24637,7 @@
     "workable:ondc -> no board"
    ]
   },
-  "ms": 3558
+  "ms": 5041
  },
  {
   "company": "Onsitego",
@@ -24660,6 +25081,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [
     [
      1,
@@ -24725,7 +25147,7 @@
     "keka:onsitego -> 17 jobs"
    ]
   },
-  "ms": 450
+  "ms": 10513
  },
  {
   "company": "Oxane Partners",
@@ -24819,7 +25241,7 @@
     "workable:oxanepartners -> no board"
    ]
   },
-  "ms": 29574
+  "ms": 30006
  },
  {
   "company": "OnePlay",
@@ -24843,9 +25265,8 @@
     },
     {
      "url": "https://oneplay.in/careers",
-     "status": 0,
-     "bytes": 0,
-     "error": "fetch failed"
+     "status": 404,
+     "bytes": 25
     },
     {
      "url": "https://oneplay.in/career",
@@ -24964,7 +25385,7 @@
     "workable:oneplay -> no board"
    ]
   },
-  "ms": 18688
+  "ms": 17150
  },
  {
   "company": "Obopay India",
@@ -25047,7 +25468,7 @@
     "workable:obopay -> no board"
    ]
   },
-  "ms": 27679
+  "ms": 24649
  },
  {
   "company": "Ohmium",
@@ -25344,6 +25765,7 @@
    "india": true,
    "senior": false,
    "junior": true,
+   "intern": false,
    "exp": [
     [
      2,
@@ -25374,6 +25796,7 @@
    "india": true,
    "senior": false,
    "junior": true,
+   "intern": false,
    "exp": [
     [
      2,
@@ -25518,7 +25941,7 @@
     "workday:ohmium -> 13 jobs"
    ]
   },
-  "ms": 15094
+  "ms": 13400
  },
  {
   "company": "Oye Rickshaw",
@@ -25548,7 +25971,7 @@
     {
      "url": "https://oyerickshaw.com/career",
      "status": 403,
-     "bytes": 5637
+     "bytes": 5615
     },
     {
      "url": "https://oyerickshaw.com/jobs",
@@ -25558,7 +25981,7 @@
     {
      "url": "https://oyerickshaw.com/join-us",
      "status": 403,
-     "bytes": 5640
+     "bytes": 5618
     },
     {
      "url": "https://oyerickshaw.com/join-our-team",
@@ -25581,6 +26004,6 @@
     "workable:oyerickshaw -> no board"
    ]
   },
-  "ms": 2897
+  "ms": 5131
  }
 ]

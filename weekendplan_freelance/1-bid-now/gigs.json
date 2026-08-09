@@ -278,12 +278,12 @@
   "title": "Full Stack Developer",
   "company": "SAS Three Groups LLC",
   "url": "https://talent.hubstaff.com/jobs/full-stack-developer-d8b4c4",
-  "text": "Full Stack Developer. Job Overview We are seeking a dynamic and highly skilled Full Stack Developer to join our innovative technology team. In this r.... Skills: Python, Java, JavaScript, Node.js. Engagement: fixed price. Client: SAS Three Groups LLC. Client HQ: Sheridan, Wayoming, United States. Remote job",
+  "text": "Full Stack Developer. Job Overview We are seeking a dynamic and highly skilled Full Stack Developer to join our innovative technology team. In this r.... Skills: Node.js, Python, Java, JavaScript. Engagement: fixed price. Client: SAS Three Groups LLC. Client HQ: Sheridan, Wayoming, United States. Remote job",
   "skills": [
+   "Node.js",
    "Python",
    "Java",
-   "JavaScript",
-   "Node.js"
+   "JavaScript"
   ],
   "location": "Remote (client HQ: Sheridan, Wayoming, United States)",
   "budget": "$6,000 fixed",
@@ -728,41 +728,40 @@
   "sourceKind": "gig"
  },
  {
-  "title": "Blockchain integration to the existed Social-Fi project",
-  "company": "Alkemi Network",
-  "url": "https://talent.hubstaff.com/jobs/blockchain-integration-to-the-existed-social-fi-project",
-  "text": "Blockchain integration to the existed Social-Fi project. HubsAI and Alkemi are building a social platform where real interaction and financial tools actually live together, and we need.... Skills: .NET, Python, Go, Java, Blockchain, Cryptocurrency, Next.js, C/C++. Engagement: hourly. Client: Alkemi Network. Client HQ: Toronto, Ontario, Canada. Remote job",
+  "title": "Backend Engineer",
+  "company": "Meridian Partners",
+  "url": "https://talent.hubstaff.com/jobs/backend-engineer-aaffc6",
+  "text": "Backend Engineer. We are looking for an experienced Backend Engineer to join our growing engineering team. You will be responsible for designing,.... Skills: Node.js, C#, Python, Java. Engagement: hourly. Client: Meridian Partners. Client HQ: Minami Beach, Floria, United States. Remote job",
   "skills": [
-   ".NET",
+   "Node.js",
+   "C#",
    "Python",
-   "Go",
-   "Java",
-   "Blockchain",
-   "Cryptocurrency",
-   "Next.js",
-   "C/C++"
+   "Java"
   ],
-  "location": "Remote (client HQ: Toronto, Ontario, Canada)",
-  "budget": "$120/hr",
+  "location": "Remote (client HQ: Minami Beach, Floria, United States)",
+  "budget": "$10/hr",
   "type": "contract",
-  "posted": "2026-07-20",
+  "posted": "2026-08-06",
   "indiaOk": true,
   "indiaOkInferred": true,
   "stack": [
-   "java"
+   "java",
+   "microservices"
   ],
   "engagement": "hourly",
-  "id": "blockchain-integration-to-the-existed-social-fi-project",
+  "id": "backend-engineer-aaffc6",
   "matchedTerms": [
-   "java"
+   "java",
+   "backend developer",
+   "microservices"
   ],
   "stacks": [
    "springboot",
-   "web"
+   "backend"
   ],
   "stackLabels": [
    "Spring Boot / Java",
-   "Web / full-stack (React / Vue / Angular)"
+   "Other backend (Node / Python / Go / .NET)"
   ],
   "inferredStacks": [],
   "bestPriority": 1,
@@ -861,24 +860,24 @@
   "sourceKind": "gig"
  },
  {
-  "title": "Rent-a-Boyfriend App & Website",
+  "title": "Cloud Accounting/ERP System Development",
   "company": "",
-  "url": "https://www.freelancer.com/projects/web-development/Rent-Boyfriend-App-Website",
-  "text": "I’m building a playful “online rental boyfriend” service and need both a responsive website and companion iOS/Android app developed in parallel. The core experience on every platform is identical: visitors browse detailed boyfriend profiles, filter by interests, location, or availability, and quickly find the right match through a fast, accurate search. Key elements I must see working flawlessly: • Secure sign-up/login (email, Google, Apple, Facebook). • Rich profile pages with photos, short bio, hobbies, pricing per hour/date, and a simple availability badge. • Multi-criteria search (keyword, tags, city, distance). • Favourites/wish-list so users can return to profiles later. • Admin dashboard where I approve new profiles, edit any listing, or suspend accounts. Nice-to-have phases such as in-app messaging or a full calendar booking engine can be left for a later milestone; for now the focus stays on profiles and discovery. Tech is your call, as long as it delivers a smooth, modern UI and a scalable backend (React / Flutter / Next.js / Laravel / Node / Firebase—whatever you’re most productive with). Please outline: 1. Frameworks you’ll use for web and mobile. 2. Timeline to reach a clickable prototype, then production release. 3. How you’ll handle deployment, basic SEO, and app-store submission. Final deliverables are the full source code in a private repo, build instructions, and working deployments on my domain and both app stores.",
+  "url": "https://www.freelancer.com/projects/cloud-computing/Cloud-Accounting-ERP-System-Development",
+  "text": "I am building a modern, cloud-based accounting and financial management solution and need someone who has already walked this road with double-entry engines, multi-tenant security, and mobile-ready architecture. Scope of the first milestone The very first release must run smoothly on Android. Web and iOS will follow, so every design decision—database schema, API layer, authentication—has to be service-oriented and easily portable. Core features to implement in that milestone • Double-entry bookkeeping with a configurable Chart of Accounts • General Ledger, Journal Entries, Accounts Receivable, Accounts Payable, Cashbook, Bank Reconciliation • Accountant role (with the ability to extend later to Admin and Viewer) • Real-time Income Statement and Cash-Flow Statement generation • Comprehensive audit logs for every transaction • Secure, scalable multi-tenant setup (single codebase, isolated data) Tech expectations I am open to the stack you are most productive with—whether that is a Kotlin/Jetpack Android front end talking to a Node.js + PostgreSQL backend, Flutter paired with Firebase, or something else that you can justify for long-term maintainability and compliance. What matters is that the core accounting logic is reliable, test-driven, and documented. What I need from you to move forward 1. A short note on two or three accounting/ERP products you have delivered (links, screenshots, or app store listings are perfect). 2. The technology stack you propose and why it suits a mobile-first, cloud-ready financial app. 3. A realistic timeline broken into phases—MVP for Android, web dashboard, then iOS. 4. Your preferred billing model (hourly or fixed) and the rate you work with. Once I review your past work and plan, we will lock the scope and sign off on the first milestone. Looking forward to collaborating on a robust platform that finance teams can trust every day.",
   "skills": [
-   "PHP",
    "Mobile App Development",
-   "iPhone",
+   "Accounting",
    "Android",
-   "Node.js",
-   "Web Development",
-   "Flutter",
-   "Next.js"
+   "Cloud Computing",
+   "MySQL",
+   "Database Administration",
+   "AngularJS",
+   "API Development"
   ],
   "location": "",
   "budget": "750-1250 INR",
   "type": "freelance-hourly",
-  "posted": "2026-08-07",
+  "posted": "2026-08-08",
   "stacks": [
    "flutter",
    "firebase",
@@ -894,7 +893,9 @@
    "Web / full-stack (React / Vue / Angular)"
   ],
   "inferredStacks": [
-   "firebase"
+   "flutter",
+   "firebase",
+   "backend"
   ],
   "bestPriority": 1,
   "exp": [],
@@ -912,7 +913,7 @@
   "title": "Mobile App Developers – Flutter & Node.js",
   "company": "Waiel N.",
   "url": "https://www.peopleperhour.com/freelance-jobs/technology-programming/mobile-app-development/mobile-app-developers-flutter-node-js-4513148",
-  "text": "Mobile App Developers – Flutter & Node.js. We are building a new mobile application and complete backend platform. We are looking for experienced Mobile App Developers to build the application, backend system, APIs, database, and admin dashboard. Required skills: - Flutter and Dart - Node.js - REST API development - Android and iOS app development - Database design and management - Firebase, PostgreSQL, MySQL, or MongoDB - User authentication and security - Notifications, maps, and payment integrations - Admin dashboard development - App publishing on Google Play and Apple App Store Responsibilities: - Build a scalable Flutter mobile application. - Develop secure backend APIs using Node.js. - Design and manage the database. - Build an admin control panel. - Integrate notifications, maps, payments, and external services. - Improve performance, security, and user experience. - Work closely with the founder and provide regular progress updates. The work may be remote or onsite in Riyadh, Saudi Arabia. Monthly salary: USD 1,000 to USD 2,000. The final salary will be determined after the technical test and trial period. Applicants must be willing to complete a short technical test before hiring.. Category: Technology & Programming / Mobile App Development. Engagement: fixed price. Client: Saudi Arabia. Who can bid: Worldwide. Proposals so far: 53",
+  "text": "Mobile App Developers – Flutter & Node.js. We are building a new mobile application and complete backend platform. We are looking for experienced Mobile App Developers to build the application, backend system, APIs, database, and admin dashboard. Required skills: - Flutter and Dart - Node.js - REST API development - Android and iOS app development - Database design and management - Firebase, PostgreSQL, MySQL, or MongoDB - User authentication and security - Notifications, maps, and payment integrations - Admin dashboard development - App publishing on Google Play and Apple App Store Responsibilities: - Build a scalable Flutter mobile application. - Develop secure backend APIs using Node.js. - Design and manage the database. - Build an admin control panel. - Integrate notifications, maps, payments, and external services. - Improve performance, security, and user experience. - Work closely with the founder and provide regular progress updates. The work may be remote or onsite in Riyadh, Saudi Arabia. Monthly salary: USD 1,000 to USD 2,000. The final salary will be determined after the technical test and trial period. Applicants must be willing to complete a short technical test before hiring.. Category: Technology & Programming / Mobile App Development. Engagement: fixed price. Client: Saudi Arabia. Who can bid: Worldwide. Proposals so far: 54",
   "skills": [
    "Technology & Programming",
    "Mobile App Development"
@@ -932,7 +933,7 @@
   "id": "4513148",
   "projectType": "fixed_price",
   "currency": "USD",
-  "proposals": 53,
+  "proposals": 54,
   "clientCountry": "Saudi Arabia",
   "stacks": [
    "flutter",
@@ -1160,40 +1161,36 @@
   "sourceKind": "gig"
  },
  {
-  "title": "Backend Engineer",
-  "company": "Meridian Partners",
-  "url": "https://talent.hubstaff.com/jobs/backend-engineer-aaffc6",
-  "text": "Backend Engineer. We are looking for an experienced Backend Engineer to join our growing engineering team. You will be responsible for designing,.... Skills: Python, C#, Java, Node.js. Engagement: hourly. Client: Meridian Partners. Client HQ: Minami Beach, Floria, United States. Remote job",
+  "title": "Full Stack Engineer (English Level: C1 or Native)",
+  "company": "Global Bridge Lab",
+  "url": "https://talent.hubstaff.com/jobs/full-stack-engineer-english-level-c1-or-native",
+  "text": "Full Stack Engineer (English Level: C1 or Native). Position Overview We have worked for several years with local companies and clients, but this year we are shifting our strategy.... Skills: Software Development, Python, Java. Engagement: full time. Client: Global Bridge Lab. Client HQ: Tokyo, Tokyo, United States. Remote job",
   "skills": [
+   "Software Development",
    "Python",
-   "C#",
-   "Java",
-   "Node.js"
+   "Java"
   ],
-  "location": "Remote (client HQ: Minami Beach, Floria, United States)",
-  "budget": "$10/hr",
-  "type": "contract",
-  "posted": "2026-08-06",
+  "location": "Remote (client HQ: Tokyo, Tokyo, United States)",
+  "budget": "$15/hr",
+  "type": "remote",
+  "posted": "2026-07-21",
   "indiaOk": true,
   "indiaOkInferred": true,
   "stack": [
-   "java",
-   "microservices"
+   "java"
   ],
-  "engagement": "hourly",
-  "id": "backend-engineer-aaffc6",
+  "engagement": "full_time",
+  "id": "full-stack-engineer-english-level-c1-or-native",
   "matchedTerms": [
-   "java",
-   "backend developer",
-   "microservices"
+   "java"
   ],
   "stacks": [
    "springboot",
-   "backend"
+   "web"
   ],
   "stackLabels": [
    "Spring Boot / Java",
-   "Other backend (Node / Python / Go / .NET)"
+   "Web / full-stack (React / Vue / Angular)"
   ],
   "inferredStacks": [],
   "bestPriority": 1,
@@ -1247,32 +1244,38 @@
   "sourceKind": "gig"
  },
  {
-  "title": "E-commerce Mobile App with GPS Tracking",
+  "title": "Build Android Audio Social App with Live Voice Rooms, Coins, Gifts & Games",
   "company": "",
-  "url": "https://www.freelancer.com/projects/flutter/commerce-Mobile-App-with-GPS",
-  "text": "I need a professional E-commerce mobile app developed for Android and iOS. Key requirements include: User App: Clean and modern UI/UX design, user registration & login, product catalog, search and filter options, shopping cart, and secure checkout system. Admin Panel: A dashboard to manage products, categories, stock, and customer orders. Payment Gateway: Integration for online payments and Cash on Delivery (COD). Tech Stack: Open to suggestions (Flutter, React Native, or Native). Please share your previous e-commerce work samples and estimated timeframe/budget.I also need a separate Delivery Partner App with Real-time GPS Road Tracking: Delivery Partner App Features: Login/Logout for delivery riders. Order assignment notification and acceptance system. Order status updates (Picked up, Out for Delivery, Delivered). Earnings and delivery history for riders. GPS Road Tracking: Real-time GPS live tracking of the delivery rider on a map for both the Admin and the Customer. Route optimization to show the best path to the delivery destination. Please let me know if you can build both the E-commerce app and the Delivery partner app with live GPS tracking.",
+  "url": "https://www.freelancer.com/projects/android/Build-Android-Audio-Social-App",
+  "text": "I am looking for an experienced Android/Flutter developer or small development team to build an Android-first audio social app called VIBORA. IMPORTANT: This is NOT a video streaming app. No video calling or video live streaming is required for the MVP. The app will be an audio social platform where users can join live voice rooms, chat, talk with other users, send virtual gifts, use coins, follow hosts/friends and play games. I have a detailed Developer Requirement Document and UI reference showing the desired style and functionality. CORE FEATURES: 1. USER AUTHENTICATION - Phone/OTP login - User registration - Profile creation - Avatar/profile picture - User ID - Follow/following 2. HOME SCREEN - Live voice rooms - Popular rooms - New rooms - Categories - Search - Room cards with host, room name and member count 3. LIVE AUDIO ROOMS - Real-time multi-user voice room - 8/12/15 microphone seats - Host seat - Speaker/mic status - Join/leave room - Mute/unmute - Invite users to mic - Remove/kick users - Block users - Room announcement - Room text chat - Room share - Report room/user - Private room option - Room password option 4. COINS SYSTEM - User coin balance - Coin recharge packages - Transaction history - Server-side coin ledger - Coins must never be controlled by the mobile client 5. VIRTUAL GIFTS - Rose - Heart - Kiss - Cake - Diamond - Rocket - Unicorn - Castle - Other premium animated gifts Users can send gifts to hosts/users inside an audio room. 6. HOST SYSTEM - Host profile - Host status - Gifts received - Host earnings - Host wallet - Earnings history - Withdrawal request - Withdrawal status 7. ADMIN PANEL Web-based admin panel with: - Dashboard - Users - Hosts - Live rooms - Coins - Gifts - Transactions - Withdrawals - Reports - Banners - Games - App settings Admin must be able to: - Ban/unban users - Manage hosts - Manage rooms - Manage gifts - Change coin packages - Manage withdrawals - Review reports - Enable/disable games - View transaction history 8. RANKING - Daily ranking - Weekly ranking - Monthly ranking - Top hosts - Top gifters - Popular rooms 9. GAMES CENTER There will be TWO sections. A. FRIENDS GAMES - Ludo - Carrom - UNO-style card game These are for playing with friends and social interaction. B. COIN GAMES - Greedy Baby - Lucky Wheel / Roulette-style entertainment game - Slot-style entertainment game For the initial MVP, coin games should use non-cash/non-withdrawable entertainment rewards unless legally approved otherwise. 10. PROFILE - Avatar - User ID - VIP/level - Followers - Following - Gifts received - Follow button - Message button - My room - Wallet - Ranking 11. NOTIFICATIONS - Gift notifications - Follow notifications - Room invitations - System notifications 12. SETTINGS - Account - Privacy - Notifications - Blocked users - Language - Logout - Delete account TECHNICAL REQUIREMENTS: - Android-first MVP - Flutter or native Android/Kotlin - Node.js/TypeScript backend preferred - PostgreSQL preferred for wallet/financial ledger - WebSocket for realtime chat/room state - Agora or LiveKit (or another reliable RTC provider) for live audio - Cloud storage for profile/room images - Secure API - Server-side wallet/coin calculations - Payment gateway integration with secure server-side webhook verification - Admin panel using React/Next.js or similar IMPORTANT SECURITY REQUIREMENTS: - Coins must be server-side controlled - Gift transactions must be atomic - Payment webhooks must be verified - No client-side wallet manipulation - Game results must be server-authoritative - Admin actions must be logged - Basic anti-fraud protection - Report/block/moderation system BUDGET: Maximum initial MVP budget: ₹50,000 INR. I understand that third-party services such as RTC/audio, hosting, OTP, payment gateway, cloud storage and app-store fees may have separate costs. I am NOT asking for a full PartyStar clone at this budget. I want a clean, working MVP that can later be expanded. MILESTONE PAYMENT: Milestone 1: UI + Login + Home + Profile + basic navigation Milestone 2: Live audio rooms + microphone seats + chat + host controls Milestone 3: Coins + recharge + gifts + transaction ledger Milestone 4: Host wallet + earnings + withdrawal workflow + admin panel Milestone 5: Games Center + basic game integrations + testing + bug fixing I will release payment milestone-by-milestone after testing the delivered functionality. DEVELOPER REQUIREMENTS: Please apply only if you have experience with: - Live audio/voice chat rooms - Agora/LiveKit/ZEGOCLOUD or similar RTC - Flutter/Android - Node.js backend - Wallet/coin systems - Virtual gifts - Admin panels - Realtime applications Please send: 1. Your previous live audio/voice room app examples. 2. Demo APK or video if available. 3. Your recommended technology stack. 4. Estimated development timeline. 5. Your milestone-wise price. 6. Explain how you will prevent coin/wallet manipulation. 7. Explain which audio SDK you recommend and why. IMPORTANT: I will not pay 100% upfront. Development must be milestone-based. All source code, database, API documentation, admin panel code and project assets must be handed over to me. The final project must be deployed under accounts owned by me. Please do not apply if you have never developed a realtime audio room application.",
   "skills": [
-   "PHP",
    "Mobile App Development",
-   "iPhone",
    "Android",
-   "App Design",
-   "Payment Gateway Integration",
-   "React Native",
-   "Flutter"
+   "Node.js",
+   "Game Development",
+   "React.js",
+   "UI / User Interface",
+   "Flutter",
+   "Google Firebase",
+   "Android App Development",
+   "Real-time Signal Processing"
   ],
   "location": "",
-  "budget": "1500-12500 INR",
+  "budget": "37500-75000 INR",
   "type": "freelance-fixed",
-  "posted": "2026-08-07",
+  "posted": "2026-08-08",
   "stacks": [
    "flutter",
+   "firebase",
    "mobile",
+   "backend",
    "web"
   ],
   "stackLabels": [
    "Flutter / Dart",
+   "Firebase / Firestore",
    "Other mobile (Android / Kotlin / React Native / iOS)",
+   "Other backend (Node / Python / Go / .NET)",
    "Web / full-stack (React / Vue / Angular)"
   ],
   "inferredStacks": [],
@@ -1550,26 +1553,28 @@
   "sourceKind": "gig"
  },
  {
-  "title": "Full Stack Engineer (English Level: C1 or Native)",
-  "company": "Global Bridge Lab",
-  "url": "https://talent.hubstaff.com/jobs/full-stack-engineer-english-level-c1-or-native",
-  "text": "Full Stack Engineer (English Level: C1 or Native). Position Overview We have worked for several years with local companies and clients, but this year we are shifting our strategy.... Skills: Software Development, Python, Java. Engagement: full time. Client: Global Bridge Lab. Client HQ: Tokyo, Tokyo, United States. Remote job",
+  "title": "Interview-Ready C2C Consultants Available – Java | React | QA | DevOps | Data",
+  "company": "Genius brains",
+  "url": "https://talent.hubstaff.com/jobs/interview-ready-c2c-consultants-available-java-react-qa-devops-data",
+  "text": "Interview-Ready C2C Consultants Available – Java | React | QA | DevOps | Data. Expand Your Team with Experienced Offshore IT Professionals – Immediate Availability As part of our global expansion, we provi.... Skills: DevOps, API Development, Quality Assurance Testing, Quality Control, App Development. Engagement: full time. Client: Genius brains. Client HQ: Edison, NJ, United States. Remote job",
   "skills": [
-   "Software Development",
-   "Python",
-   "Java"
+   "DevOps",
+   "API Development",
+   "Quality Assurance Testing",
+   "Quality Control",
+   "App Development"
   ],
-  "location": "Remote (client HQ: Tokyo, Tokyo, United States)",
-  "budget": "$15/hr",
+  "location": "Remote (client HQ: Edison, NJ, United States)",
+  "budget": "",
   "type": "remote",
-  "posted": "2026-07-21",
+  "posted": "2026-06-16",
   "indiaOk": true,
   "indiaOkInferred": true,
   "stack": [
    "java"
   ],
   "engagement": "full_time",
-  "id": "full-stack-engineer-english-level-c1-or-native",
+  "id": "interview-ready-c2c-consultants-available-java-react-qa-devops-data",
   "matchedTerms": [
    "java"
   ],
@@ -1589,38 +1594,37 @@
   "freelance": true,
   "senior": false,
   "junior": false,
-  "score": 94,
+  "score": 91,
   "source": "hubstaff-talent",
   "sourceKind": "gig"
  },
  {
-  "title": "Instagram Insights Clone Development",
+  "title": "Public Food Safety Mobile Guide",
   "company": "",
-  "url": "https://www.freelancer.com/projects/mobile-app-development/Instagram-Insights-Clone-Development",
-  "text": "Flutter Developer Needed – Instagram Reel Insights Generator (Android APK) Need a Flutter developer to build an Instagram Reel Insights Generator with a UI exact similar to Instagram Insights. Features: Instagram-like Overview, Engagement & Audience screens Editable metrics (Likes, Comments, Shares, Saves, Reach, Impressions, Views, Watch Time, Followers, etc.) Upload/change reel thumbnail Admin panel to manually edit all data Charts & graphs (bar, line, pie) Export insights as PNG/image Clean UI, responsive design, and Flutter source code No Instagram API required. This is only a manual insights generator. Will edit data insight manual way need hidden admin pannel Please share similar Flutter dashboard/UI projects made similarl to like this.",
+  "url": "https://www.freelancer.com/projects/android/Public-Food-Safety-Mobile-Guide",
+  "text": "I’m putting together an interactive food-safety guide aimed squarely at public awareness and I need a seasoned mobile developer who can turn the concept into a polished iOS and Android app. The heart of the project is a series of engaging, bite-sized video tutorials that cover everything from proper hand-washing to safe refrigeration temperatures. I already have subject-matter experts lined up to provide the raw footage; your task is to design and build an intuitive interface, integrate the videos, and make the learning journey smooth for all ages. Because this guide is meant for the general public, clarity and speed matter. I’m looking for a lightweight architecture (React Native or Flutter are both fine) with offline caching so users can replay videos without a connection. Smooth video streaming, a searchable topic index, and simple progress tracking should be built in. While push notifications and quizzes may become future enhancements, they are not part of the initial scope; right now it’s all about effortless viewing and clean navigation. You’ll deliver a fully functional app bundle ready for App Store and Google Play submission, accompanied by all source code and brief build notes. I’ll handle the content approval; you handle the tech, from UI design through final testing. If you have experience with similar educational apps or can showcase crisp video handling within a mobile environment, let’s talk timelines and milestones so we can bring safer food practices to everyone’s pocket.",
   "skills": [
-   "Data Processing",
    "Mobile App Development",
    "Android",
-   "Dart",
-   "App Developer",
+   "PhoneGap",
    "UI / User Interface",
-   "Image Processing",
-   "Flutter",
-   "Data Visualization",
-   "Android App Development"
+   "iOS Development",
+   "React Native",
+   "Flutter"
   ],
   "location": "",
-  "budget": "600-601 INR",
-  "type": "freelance-fixed",
-  "posted": "2026-08-06",
+  "budget": "750-1250 INR",
+  "type": "freelance-hourly",
+  "posted": "2026-08-08",
   "stacks": [
    "flutter",
-   "mobile"
+   "mobile",
+   "web"
   ],
   "stackLabels": [
    "Flutter / Dart",
-   "Other mobile (Android / Kotlin / React Native / iOS)"
+   "Other mobile (Android / Kotlin / React Native / iOS)",
+   "Web / full-stack (React / Vue / Angular)"
   ],
   "inferredStacks": [],
   "bestPriority": 1,
@@ -1639,7 +1643,7 @@
   "title": "Data Entry Clerk",
   "company": "Karen A.",
   "url": "https://www.peopleperhour.com/freelance-jobs/technology-programming/data-science-analysis/data-entry-clerk-4513534",
-  "text": "Data Entry Clerk. We are looking for a focused data entry clerk to continuously update our company's databases. The data entry clerk will liaise with and follow up with employees within the company as well as with customers to collect information. The data entry clerk will capture the data into relevant databases in a timely and accurate manner. You will identify and correct errors, and swiftly bring them to the attention of relevant parties where necessary. To do well in this job, you should collect information and capture data promptly to ensure the business’ databases are current to accurately reflect its developments, updates and transactions. Top candidates will be focused, diligent, energetic and have good people’s skills. Data Entry Clerk Responsibilities: Gathering invoices, statements, reports, personal details, documents and information from employees, other departments and clients. Scanning through information to identify pertinent information. Correcting errors and organizing the information in a manner that will optimize swift and accurate capturing. Creating accurate spreadsheets. Entering and updating information into relevant databases. Ensuring data is backed up. Informing relevant parties regarding errors encountered. Storing hard copies of data in an organized manner to optimize retrieval. Handling additional duties from time to time. Data Entry Clerk Requirements: High school diploma. 1+ years experience in a relevant field. Good command of English. Excellent knowledge of MS Office Word and Excel. Strong interpersonal and communication skills. Ability to concentrate for lengthy periods and perform accurately with adequate speed. Proficient touch typing skills.. Category: Technology & Programming / Data Science & Analysis. Engagement: fixed price. Client: United Kingdom. Who can bid: Worldwide. Proposals so far: 33",
+  "text": "Data Entry Clerk. We are looking for a focused data entry clerk to continuously update our company's databases. The data entry clerk will liaise with and follow up with employees within the company as well as with customers to collect information. The data entry clerk will capture the data into relevant databases in a timely and accurate manner. You will identify and correct errors, and swiftly bring them to the attention of relevant parties where necessary. To do well in this job, you should collect information and capture data promptly to ensure the business’ databases are current to accurately reflect its developments, updates and transactions. Top candidates will be focused, diligent, energetic and have good people’s skills. Data Entry Clerk Responsibilities: Gathering invoices, statements, reports, personal details, documents and information from employees, other departments and clients. Scanning through information to identify pertinent information. Correcting errors and organizing the information in a manner that will optimize swift and accurate capturing. Creating accurate spreadsheets. Entering and updating information into relevant databases. Ensuring data is backed up. Informing relevant parties regarding errors encountered. Storing hard copies of data in an organized manner to optimize retrieval. Handling additional duties from time to time. Data Entry Clerk Requirements: High school diploma. 1+ years experience in a relevant field. Good command of English. Excellent knowledge of MS Office Word and Excel. Strong interpersonal and communication skills. Ability to concentrate for lengthy periods and perform accurately with adequate speed. Proficient touch typing skills.. Category: Technology & Programming / Data Science & Analysis. Engagement: fixed price. Client: United Kingdom. Who can bid: Worldwide. Proposals so far: 34",
   "skills": [
    "Technology & Programming",
    "Data Science & Analysis"
@@ -1653,7 +1657,7 @@
   "id": "4513534",
   "projectType": "fixed_price",
   "currency": "USD",
-  "proposals": 33,
+  "proposals": 34,
   "clientCountry": "United Kingdom",
   "stacks": [
    "mobile"
@@ -1800,38 +1804,43 @@
   "sourceKind": "gig"
  },
  {
-  "title": "Interview-Ready C2C Consultants Available – Java | React | QA | DevOps | Data",
-  "company": "Genius brains",
-  "url": "https://talent.hubstaff.com/jobs/interview-ready-c2c-consultants-available-java-react-qa-devops-data",
-  "text": "Interview-Ready C2C Consultants Available – Java | React | QA | DevOps | Data. Expand Your Team with Experienced Offshore IT Professionals – Immediate Availability As part of our global expansion, we provi.... Skills: Quality Control, API Development, DevOps, App Development, Quality Assurance Testing. Engagement: full time. Client: Genius brains. Client HQ: Edison, NJ, United States. Remote job",
+  "title": "Backend Developer (Remote)",
+  "company": "One Way Tech Hubs",
+  "url": "https://talent.hubstaff.com/jobs/backend-developer-remote-3",
+  "text": "Backend Developer (Remote). Applications that do not include ALL of the following will not be considered: Resume/CV Portfolio or GitHub (if available) Lin.... Skills: JavaScript, OAuth, Python, C#, Java, NoSQL, Node.js, MySQL. Engagement: hourly. Client: One Way Tech Hubs. Client HQ: Edna, Texas, United States. Remote job",
   "skills": [
-   "Quality Control",
-   "API Development",
-   "DevOps",
-   "App Development",
-   "Quality Assurance Testing"
+   "JavaScript",
+   "OAuth",
+   "Python",
+   "C#",
+   "Java",
+   "NoSQL",
+   "Node.js",
+   "MySQL"
   ],
-  "location": "Remote (client HQ: Edison, NJ, United States)",
+  "location": "Remote (client HQ: Edna, Texas, United States)",
   "budget": "",
-  "type": "remote",
-  "posted": "2026-06-16",
+  "type": "contract",
+  "posted": "2026-06-27",
   "indiaOk": true,
   "indiaOkInferred": true,
   "stack": [
-   "java"
+   "java",
+   "mysql"
   ],
-  "engagement": "full_time",
-  "id": "interview-ready-c2c-consultants-available-java-react-qa-devops-data",
+  "engagement": "hourly",
+  "id": "backend-developer-remote-3",
   "matchedTerms": [
-   "java"
+   "java",
+   "backend developer"
   ],
   "stacks": [
    "springboot",
-   "web"
+   "backend"
   ],
   "stackLabels": [
    "Spring Boot / Java",
-   "Web / full-stack (React / Vue / Angular)"
+   "Other backend (Node / Python / Go / .NET)"
   ],
   "inferredStacks": [],
   "bestPriority": 1,
@@ -1846,31 +1855,33 @@
   "sourceKind": "gig"
  },
  {
-  "title": "Flutter Lab Booking App",
+  "title": "Payday Loan Android App Build",
   "company": "",
-  "url": "https://www.freelancer.com/projects/flutter/Flutter-Lab-Booking-App",
-  "text": "I’m putting together a straightforward Flutter application that lets patients book diagnostic tests and track everything from one place. The same codebase must compile cleanly on both Android and iOS, so please keep platform-specific tweaks to a minimum. Core flow Users sign up or log in with their phone number; an OTP verifies them and drops them straight onto a catalogue of available tests and health packages. From there they can schedule an in-lab visit or request home sample collection, pay, and watch the status progress until the final report is ready to download as a PDF. Essentials I need delivered • Clean Flutter code (latest stable) that builds for Android & iOS • Firebase or equally reliable backend for phone-OTP auth and push/WhatsApp notifications • Booking module with date-time picker, price display and coupon placeholder • Integrated payments: Credit/Debit Card, UPI, and Net Banking via a popular Indian gateway (Razorpay or similar) • Order status tracking screen with simple colour-coded stages (Confirmed, Sample Collected, Processing, Ready) • Report repository where users can tap to view or download the PDF • WhatsApp message trigger at each status change (template messages provided) • Lightweight admin panel (web or Flutter web) for test catalogue, price edits, order overview, report upload and status updates • Basic but neat UI; I’ll hand over a style guide and logo • Build, signing and store-ready files plus a brief hand-off document Acceptance check 1. I can register, book, pay, receive WhatsApp alerts, and download a dummy report on both Android and iOS simulators. 2. Admin panel lets me add a new test and update an order without touching the database directly. 3. Payment flows succeed in test mode for the three methods listed. 4. No critical warnings in Flutter doctor; code is commented and handed over in a private Git repo. My initial budget is ₹20,000, so please structure milestones accordingly and keep external subscription costs minimal. If everything runs smoothly, I’m open to ongoing feature work later.",
+  "url": "https://www.freelancer.com/projects/kotlin/Payday-Loan-Android-App-Build",
+  "text": "I need an Android APK that focuses on one clear flow: letting new or existing customers complete a payday-loan application quickly and securely. Core flow • Users land on an OTP screen, enter their phone number, and receive a one-time code to unlock the app. • After successful verification, they reach a single multi-step form that gathers their personal information (name and address), employment details, and bank information. • When the final step is submitted, the data should be stored safely in a backend or Firebase collection I can later review. Interface & tech notes • A lightweight, modern UI in Kotlin or Flutter is fine—choose whichever you work fastest in. • Keep the code organised so I can hand it to another developer later for interest calculations and repayment scheduling. • All sensitive data must be encrypted in transit (HTTPS) and at rest. Deliverables 1. Signed, installable APK ready for internal testing 2. Source code with clear README on build steps and environment variables 3. Simple admin endpoint or Firebase console instructions for viewing new applications Acceptance criteria – OTP login works on at least two different test numbers – Form captures and stores every required field without crashes or empty records – No hard-coded secrets or keys in the repo Timeline is flexible within two weeks, but please outline your milestones when you respond.",
   "skills": [
    "PHP",
+   "Java",
    "Mobile App Development",
-   "iPhone",
    "Android",
    "User Interface / IA",
-   "iOS Development",
-   "Payment Gateway Integration",
+   "Mobile App Testing",
+   "Kotlin",
    "Flutter"
   ],
   "location": "",
-  "budget": "12500-37500 INR",
+  "budget": "600-1500 INR",
   "type": "freelance-fixed",
-  "posted": "2026-08-06",
+  "posted": "2026-08-08",
   "stacks": [
    "flutter",
+   "springboot",
    "firebase",
    "mobile"
   ],
   "stackLabels": [
    "Flutter / Dart",
+   "Spring Boot / Java",
    "Firebase / Firestore",
    "Other mobile (Android / Kotlin / React Native / iOS)"
   ],
@@ -2081,43 +2092,39 @@
   "sourceKind": "gig"
  },
  {
-  "title": "Backend Developer (Remote)",
-  "company": "One Way Tech Hubs",
-  "url": "https://talent.hubstaff.com/jobs/backend-developer-remote-3",
-  "text": "Backend Developer (Remote). Applications that do not include ALL of the following will not be considered: Resume/CV Portfolio or GitHub (if available) Lin.... Skills: Node.js, MySQL, C#, JavaScript, NoSQL, OAuth, Java, Python. Engagement: hourly. Client: One Way Tech Hubs. Client HQ: Edna, Texas, United States. Remote job",
+  "title": "Engineering Manager – Storage Systems",
+  "company": "https://tracy-robinson-recruitmen-ql3i.arcada.app/",
+  "url": "https://talent.hubstaff.com/jobs/engineering-manager-storage-systems",
+  "text": "Engineering Manager – Storage Systems. Location: London, United Kingdom We are seeking an experienced Engineering Manager to lead a team responsible for building and .... Skills: Operations Management, Database Administration, Management, Data Management, Cloud Computing, Java, C/C++, Engineering. Engagement: full time. Client: https://tracy-robinson-recruitmen-ql3i.arcada.app/. Client HQ: San Francisco, California, United States. Remote job",
   "skills": [
-   "Node.js",
-   "MySQL",
-   "C#",
-   "JavaScript",
-   "NoSQL",
-   "OAuth",
+   "Operations Management",
+   "Database Administration",
+   "Management",
+   "Data Management",
+   "Cloud Computing",
    "Java",
-   "Python"
+   "C/C++",
+   "Engineering"
   ],
-  "location": "Remote (client HQ: Edna, Texas, United States)",
+  "location": "Remote (client HQ: San Francisco, California, United States)",
   "budget": "",
-  "type": "contract",
-  "posted": "2026-06-27",
+  "type": "remote",
+  "posted": "2026-06-22",
   "indiaOk": true,
   "indiaOkInferred": true,
   "stack": [
-   "java",
-   "mysql"
+   "java"
   ],
-  "engagement": "hourly",
-  "id": "backend-developer-remote-3",
+  "engagement": "full_time",
+  "id": "engineering-manager-storage-systems",
   "matchedTerms": [
-   "java",
-   "backend developer"
+   "java"
   ],
   "stacks": [
-   "springboot",
-   "backend"
+   "springboot"
   ],
   "stackLabels": [
-   "Spring Boot / Java",
-   "Other backend (Node / Python / Go / .NET)"
+   "Spring Boot / Java"
   ],
   "inferredStacks": [],
   "bestPriority": 1,
@@ -2127,42 +2134,40 @@
   "freelance": true,
   "senior": false,
   "junior": false,
-  "score": 91,
+  "score": 85,
   "source": "hubstaff-talent",
   "sourceKind": "gig"
  },
  {
-  "title": "OTT Streaming Mobile App Development",
+  "title": "Pebelo AI related project",
   "company": "",
-  "url": "https://www.freelancer.com/projects/video-streaming/OTT-Streaming-Mobile-App-Development",
-  "text": "I’m building a full-scale OTT service inspired by Zee5 and now need the companion Android and iOS apps engineered from the ground up. The heart of the product is seamless, high-quality video delivery, so the app must comfortably handle both on-demand titles and a lineup of live TV channels with adaptive bitrate streaming, DRM protection and offline download capability where licences allow. Every user will sign in (email, social, or phone) and create individual profiles under the same account, so the codebase has to manage profile switching, watch-history separation and personalised recommendations in the future. Subscriptions will be taken through standard credit/debit card checkout on our server as well as native in-app purchases on Google Play and the App Store; you’ll wire up the respective SDKs, ensure receipt validation and expose subscription status through secure APIs. Key feature set • Video streaming • Live TV • Profile-based user authentication • Payments: Credit/Debit Card & in-app purchases Deliverables 1. Native or cross-platform source code (Kotlin/Swift, Flutter or React Native are all fine if performance targets are met). 2. Integrated player with DRM, subtitles and Chromecast/AirPlay support. 3. Polished UI/UX that mirrors leading OTT standards. 4. End-to-end testing on the latest Android & iOS versions, plus hand-off builds ready for Play Console and App Store Connect. 5. Brief technical documentation and a short handover call so my backend team can maintain future builds. If you’ve shipped a streaming app before and can prove smooth playback at scale, let’s talk timelines and architecture choices.",
+  "url": "https://www.freelancer.com/projects/flutter/Pebelo-related-project",
+  "text": "The project is a cross-platform mobile application built in Flutter and Dart, designed to run smoothly on both Android and iOS. I need clean, scalable architecture, Riverpod or Provider for state management, and a pixel-perfect, responsive UI that follows current Material/Cupertino guidelines. You will be integrating with two kinds of backend resources: a custom REST server that my team exposes, and selected third-party services such as Firebase for push notifications and analytics. For user login, stick to classic email-and-password authentication with solid form validation and clear error handling. Security, stability, and readable code are top priorities, so please factor unit, widget, and integration tests into your workflow. Because I’m aiming to launch as soon as possible, I expect rapid, transparent progress updates—ideally a short sync every two to three days—and a brief walkthrough of major implementation decisions once each milestone closes. Deliverables • Complete Flutter source code in a public or private Git repository • Working APK/IPA test builds • Setup/README notes so another developer can run the project in one step • Test results and a final bug-free release candidate When you reply, include: 1. Links to two or three relevant Flutter apps you built 2. A concise timeline that meets an ASAP release schedule 3. Your fixed price or milestone breakdown I’m ready to get started as soon as I find the right fit, and I respond quickly to messages. Looking forward to your proposal and seeing how you can bring this app to life.",
   "skills": [
-   "PHP",
+   "JavaScript",
    "Mobile App Development",
    "iPhone",
    "Android",
-   "Swift",
-   "Kotlin",
+   "Dart",
+   "Analytics",
+   "Software Development",
+   "Git",
    "Flutter",
-   "Video Streaming"
+   "REST API"
   ],
   "location": "",
-  "budget": "250000-500000 INR",
+  "budget": "12500-37500 INR",
   "type": "freelance-fixed",
-  "posted": "2026-08-06",
+  "posted": "2026-08-08",
   "stacks": [
    "flutter",
-   "mobile",
-   "web"
+   "mobile"
   ],
   "stackLabels": [
    "Flutter / Dart",
-   "Other mobile (Android / Kotlin / React Native / iOS)",
-   "Web / full-stack (React / Vue / Angular)"
+   "Other mobile (Android / Kotlin / React Native / iOS)"
   ],
-  "inferredStacks": [
-   "web"
-  ],
+  "inferredStacks": [],
   "bestPriority": 1,
   "exp": [],
   "expFits2": false,
@@ -2366,72 +2371,67 @@
   "sourceKind": "gig"
  },
  {
-  "title": "AI Engineer - FDE (Forward Deployed Engineer)",
-  "company": "https://tracy-robinson-recruitmen-ql3i.arcada.app/",
-  "url": "https://talent.hubstaff.com/jobs/ai-engineer-fde-forward-deployed-engineer",
-  "text": "AI Engineer - FDE (Forward Deployed Engineer). Location: United States (Remote/Hybrid Available) We are looking for an experienced AI Engineer / Forward Deployed Engineer (FD.... Skills: Java, Scala, JavaScript, DSP, Linux & Unix Administration, Microsoft SQL Server, AI (Artificial Intelligence), Azure. Engagement: fixed price. Client: https://tracy-robinson-recruitmen-ql3i.arcada.app/. Client HQ: California.,, San Francisco, , United States. Remote job",
+  "title": "Android Developer",
+  "company": "Undisclosed client (Hubstaff Talent)",
+  "url": "https://talent.hubstaff.com/jobs/android-developer-942179",
+  "text": "Android Developer. Remote policy: Full remote Role description and responsibilities At WE ARE META, we focus on finding the perfect match between .... Skills: SQL, Web Development. Engagement: full time. Client HQ: Portugal, Portugal. Remote job",
   "skills": [
-   "Java",
-   "Scala",
-   "JavaScript",
-   "DSP",
-   "Linux & Unix Administration",
-   "Microsoft SQL Server",
-   "AI (Artificial Intelligence)",
-   "Azure"
+   "SQL",
+   "Web Development"
   ],
-  "location": "Remote (client HQ: California.,, San Francisco, , United States)",
-  "budget": "$210,155 fixed",
-  "type": "contract",
-  "posted": "2026-07-17",
+  "location": "Remote (client HQ: Portugal, Portugal)",
+  "budget": "",
+  "type": "remote",
+  "posted": "2026-07-29",
   "indiaOk": true,
   "indiaOkInferred": true,
   "stack": [
-   "java",
-   "sql"
+   "sql",
+   "android"
   ],
-  "engagement": "fixed_price",
-  "id": "ai-engineer-fde-forward-deployed-engineer",
+  "engagement": "full_time",
+  "id": "android-developer-942179",
   "matchedTerms": [
-   "java"
+   "android",
+   "kotlin"
   ],
   "stacks": [
-   "springboot"
+   "mobile"
   ],
   "stackLabels": [
-   "Spring Boot / Java"
+   "Other mobile (Android / Kotlin / React Native / iOS)"
   ],
   "inferredStacks": [],
-  "bestPriority": 1,
+  "bestPriority": 2,
   "exp": [],
   "expFits2": false,
   "india": false,
   "freelance": true,
   "senior": false,
   "junior": false,
-  "score": 88,
+  "score": 67,
   "source": "hubstaff-talent",
   "sourceKind": "gig"
  },
  {
-  "title": "iOS & Android App Development",
+  "title": "Build Online Rental Boyfriend Service",
   "company": "",
-  "url": "https://www.freelancer.com/projects/android-app-development/iOS-Android-App-Development-40629266",
-  "text": "I have an app concept that needs to run smoothly on both iOS and Android. I’ll share the draft wireframes and core feature outline once we have an NDA in place; from there, I’d like you to handle everything—refining the UX, building any required backend, coding, testing, and getting the binaries ready for App Store and Google Play submission. You are free to recommend the most efficient stack: native (Swift + Kotlin) or a proven cross-platform framework such as Flutter or React Native, provided performance and maintainability stay front-of-mind. Clean architecture, well-commented code, and clear documentation are essential so my in-house team can take over future updates without friction. Deliverables • Production-ready source code for both platforms • Staging and release builds that pass App Store / Google Play requirements • Brief hand-over guide covering build and deployment steps Once complete I’ll review the build on real devices; acceptance hinges on bug-free operation, design fidelity to the approved mock-ups, and successful store submissions. If your portfolio includes live apps on both platforms, share the links so I can see your past work in action.",
+  "url": "https://www.freelancer.com/projects/react-native/Build-Online-Rental-Boyfriend-Service",
+  "text": "I’m launching an Online Rental Boyfriend service and need it available both as a responsive website and a companion mobile app (iOS and Android). The first release must let visitors browse, book, and manage “boyfriend” profiles with zero friction. Core scope • Account creation with email, phone, or social login • Public-facing profiles that clearly show each boyfriend’s age and current city/region • Secure booking flow: select a profile, choose rental time-slot, confirm, and pay • Simple admin panel where I can verify ages/locations, edit profile text, and suspend or approve users • Cloud-based database so profile data and bookings stay perfectly in sync between web and app For now I’m prioritising solid user-profile functionality; matchmaking algorithms or real-time chat can wait until phase two, so keep the architecture flexible for those additions. Acceptance criteria 1. One codebase deployed to web plus published in App Store and Google Play. 2. New user can sign up, complete age & location fields, appear in live listing, and be bookable within two minutes. 3. Admin can log in, change a profile’s city, and see that update on both platforms instantly. I’m comfortable with React / React Native, Flutter, or any modern stack you propose, provided it’s well-documented and easy to hand over. Let me know your preferred tech, a brief timeline, and any similar projects you’ve shipped, and we can get started right away.",
   "skills": [
+   "PHP",
    "Mobile App Development",
    "iPhone",
    "Android",
-   "iPad",
-   "iOS Development",
+   "Web Development",
    "React Native",
    "Flutter",
-   "Android App Development"
+   "Database Management"
   ],
   "location": "",
-  "budget": "250000-500000 INR",
-  "type": "freelance-fixed",
-  "posted": "2026-08-06",
+  "budget": "750-1250 INR",
+  "type": "freelance-hourly",
+  "posted": "2026-08-08",
   "stacks": [
    "flutter",
    "mobile",
@@ -2650,88 +2650,82 @@
   "sourceKind": "gig"
  },
  {
-  "title": "Engineering Manager – Storage Systems",
-  "company": "https://tracy-robinson-recruitmen-ql3i.arcada.app/",
-  "url": "https://talent.hubstaff.com/jobs/engineering-manager-storage-systems",
-  "text": "Engineering Manager – Storage Systems. Location: London, United Kingdom We are seeking an experienced Engineering Manager to lead a team responsible for building and .... Skills: Operations Management, C/C++, Database Administration, Data Management, Java, Cloud Computing, Engineering, Data Analytics. Engagement: full time. Client: https://tracy-robinson-recruitmen-ql3i.arcada.app/. Client HQ: San Francisco, California, United States. Remote job",
+  "title": "Mobile Software Engineer",
+  "company": "Koda North",
+  "url": "https://talent.hubstaff.com/jobs/mobile-software-engineer-7",
+  "text": "Mobile Software Engineer. Koda North is hiring Mobile Software Engineers to design, develop, and improve modern mobile applications for iOS and Android p.... Skills: Mobile and Mobile App Testing, Software Development. Engagement: full time. Client: Koda North. Client HQ: Winston salem, North Carolina, United States. Remote job",
   "skills": [
-   "Operations Management",
-   "C/C++",
-   "Database Administration",
-   "Data Management",
-   "Java",
-   "Cloud Computing",
-   "Engineering",
-   "Data Analytics"
+   "Mobile and Mobile App Testing",
+   "Software Development"
   ],
-  "location": "Remote (client HQ: San Francisco, California, United States)",
+  "location": "Remote (client HQ: Winston salem, North Carolina, United States)",
   "budget": "",
   "type": "remote",
-  "posted": "2026-06-22",
+  "posted": "2026-07-22",
   "indiaOk": true,
   "indiaOkInferred": true,
   "stack": [
-   "java"
+   "android",
+   "flutter"
   ],
   "engagement": "full_time",
-  "id": "engineering-manager-storage-systems",
+  "id": "mobile-software-engineer-7",
   "matchedTerms": [
-   "java"
+   "flutter",
+   "dart",
+   "android",
+   "kotlin"
   ],
   "stacks": [
-   "springboot"
+   "mobile"
   ],
   "stackLabels": [
-   "Spring Boot / Java"
+   "Other mobile (Android / Kotlin / React Native / iOS)"
   ],
-  "inferredStacks": [],
-  "bestPriority": 1,
+  "inferredStacks": [
+   "mobile"
+  ],
+  "bestPriority": 2,
   "exp": [],
   "expFits2": false,
   "india": false,
   "freelance": true,
   "senior": false,
   "junior": false,
-  "score": 85,
+  "score": 59,
   "source": "hubstaff-talent",
   "sourceKind": "gig"
  },
  {
-  "title": "Marathi Hyper-Local Job App Development",
+  "title": "Rental Boyfriend Matchmaking Platform Development",
   "company": "",
-  "url": "https://www.freelancer.com/projects/flutter/Marathi-Hyper-Local-Job-App",
-  "text": "Project Title: Android Developer for Hyper-Local Job & Worker App in Marathi (2 Districts | Flutter/Firebase) Project Description: Project Overview: We are looking for an experienced Android Mobile App Developer (Flutter or Native Android) to build a hyper-local job search and worker hiring mobile application. The app will initially operate in only 2 specific districts in Maharashtra and must have a complete Marathi language user interface (UI). Key Requirements & Scope: Platform: Android Only (APK & Google Play Store release). App Language: 100% Marathi UI (All text, form fields, buttons, and notifications in Marathi). Geographic Scope: Hardcoded/Restricted to 2 Districts and their respective Talukas only. Key Features & User Flow: User Auth: Simple Mobile Number + OTP Login (Firebase Auth). No email required. Simple 4-Step Flow: Step 1: Choose intent (नोकरी शोधा / कामासाठी माणूस शोधा). Step 2: Work type selection (रोजंदारी / पूर्ण वेळ / ठेका काम). Step 3: Location & Category filter (2 Districts & Talukas only + Categories). Step 4: View listings or Post a new job. Pay-Per-Post Integration (Monetization): Employers fill out a simple job form in Marathi. Integration of UPI Payment Gateway (Razorpay / PhonePe SDK) to charge a ₹49 flat fee per post before going live. Firebase Cloud Function to automatically expire posts after 30 days. Job Listings & Direct Action: Job cards with direct Call and WhatsApp buttons. Native Ad slots embedded in feed (e.g., after every 10 posts). Top & Bottom Banner Ad slots for local promotions. My Posts / Account: Manage active and expired posts with options to re-post. Technical Stack: Frontend: Flutter / Android (Kotlin) Backend & Database: Firebase (Firestore DB, Phone Auth, Cloud Functions, Push Notifications) Payment Gateway: Razorpay or PhonePe UPI integration Deliverables: Production-ready Android APK & AAB bundle for Play Store. Complete source code with documentation. Simple Web Admin Dashboard (to manage 2 districts, categories, ads, and reported posts). Requirements: Proven experience in Android/Flutter development and Firebase backend. Experience with UPI payment gateway integration (Razorpay/PhonePe). Please share links to previous Android apps you have published.",
+  "url": "https://www.freelancer.com/projects/web-development/Rental-Boyfriend-Matchmaking-Platform",
+  "text": "I want to launch a proof-of-concept “online rental boyfriend” platform focused purely on discovery and matching—no booking, scheduling, or payments for now. The heart of the project is a clean user-profile system that lets each “boyfriend” create a detailed bio, upload multiple photos, and tag interests. Visitors will complete a complementary profile, browse listings, and receive simple interest-based match suggestions generated by a lightweight algorithm. Key needs • Responsive web (or hybrid) front-end where profiles look great on mobile and desktop. • Secure back-end that stores photos, bios, and interest tags while protecting user data. • A basic admin dashboard so I can approve, edit, or deactivate profiles. • Simple matching logic: when a visitor selects interests, the system returns profiles with overlapping tags, ranked by the highest number of shared interests. No advanced scoring or AI at this stage. • Clean, modern UI/UX with emphasis on large images, quick filters, and clear calls to action. Acceptance criteria • User can register, verify email, create/edit full bio with up to six photos and selectable interest tags. • Visitor can sign up, pick interests, and receive at least ten relevant profile suggestions instantly. • Admin panel shows sortable list of all users, toggle for profile status, and basic analytics on profile views and matches. • Deployed to a live URL and handed over with source code, install instructions, and a brief README explaining the matching logic. Stack is flexible—React, Vue, Flutter Web, or a comparable framework paired with a secure REST or GraphQL API are all fine. I value clean, documented code and quick turnaround more than a particular language. Let me know your preferred tools, timeline, and any clarifying questions so we can get started.",
   "skills": [
-   "Java",
+   "PHP",
+   "Website Design",
    "Mobile App Development",
-   "Android",
-   "Mobile App Testing",
-   "Kotlin",
-   "Payment Gateway Integration",
-   "React Native",
-   "Flutter",
-   "Google Firebase",
-   "Android App Development"
+   "iPhone",
+   "UI / User Interface",
+   "Web Development",
+   "Vue.js",
+   "User Experience Research"
   ],
   "location": "",
   "budget": "12500-37500 INR",
   "type": "freelance-fixed",
-  "posted": "2026-08-06",
+  "posted": "2026-08-08",
   "stacks": [
    "flutter",
-   "springboot",
-   "firebase",
-   "mobile",
    "web"
   ],
   "stackLabels": [
    "Flutter / Dart",
-   "Spring Boot / Java",
-   "Firebase / Firestore",
-   "Other mobile (Android / Kotlin / React Native / iOS)",
    "Web / full-stack (React / Vue / Angular)"
   ],
-  "inferredStacks": [],
+  "inferredStacks": [
+   "flutter"
+  ],
   "bestPriority": 1,
   "exp": [],
   "expFits2": false,

@@ -2,13 +2,13 @@
 OPEN ROLES AT 101 "W" COMPANIES
 Looking for : Software Engineer, ~2 years experience
 Priority    : Java, Dart/Flutter        Location preference : India
-Generated   : 2026-08-09 00:14:49 UTC  by test.js
+Generated   : 2026-08-09 05:54:11 UTC  by test.js
 ==============================================================================
 
-Boards read with open roles : 47
+Boards read with open roles : 46
 Boards read, currently empty: 2
-Could not read              : 52
-Total open roles seen       : 850
+Could not read              : 53
+Total open roles seen       : 845
 
 ##############################################################################
 # SECTION 1 — MATCHES: Software Engineer + Java/Dart/Flutter + ~2 yrs
@@ -55,13 +55,13 @@ Total open roles seen       : 850
 
 ##############################################################################
 # SECTION 2 — INDIA: engineering, non-senior, ANY stack
-# 91 role(s). Java/Dart-Flutter still rank highest, but the brief allows
+# 89 role(s). Java/Dart-Flutter still rank highest, but the brief allows
 # any tech stack, so these are the India roles worth a look regardless.
-# 2a: states a window covering ~2 yrs, or states none (57)
+# 2a: states a window covering ~2 yrs, or states none (55)
 # 2b: states a different window — usually 3-5 yrs (34)
 ##############################################################################
 
--- 2a --------------------------------------------- fits ~2 years (57)
+-- 2a --------------------------------------------- fits ~2 years (55)
 
 >> Zinier
     Platform Support Engineer(L1)
@@ -130,11 +130,6 @@ Total open roles seen       : 850
       location : n/a   [INDIA]
       exp req  : 2-6y    stack: —    score: 75
       url      : https://www.getzype.com/jobs/sd2-backend/
->> Zinavo Technologies
-    Junior Web Developer
-      location : n/a   [INDIA]
-      exp req  : not stated    stack: —    score: 61
-      url      : https://www.zinavo.com/careers.html
 >> Zestra Technologies
     Hire Android Developer
       location : n/a   [INDIA]
@@ -265,11 +260,6 @@ Total open roles seen       : 850
       location : n/a   [INDIA]
       exp req  : not stated    stack: —    score: 49
       url      : https://www.zippyops.com/careers/
->> Zinavo Technologies
-    Web Developer
-      location : n/a   [INDIA]
-      exp req  : not stated    stack: —    score: 49
-      url      : https://www.zinavo.com/careers.html
 >> Zaptech Solutions
     Hire Dedicated Developer
       location : n/a   [INDIA]
@@ -362,11 +352,6 @@ Total open roles seen       : 850
       location : India - Trivandrum   [INDIA]
       exp req  : 5-8y / 8-9y    stack: Java    score: 70
       url      : https://job-boards.greenhouse.io/zafinlabsamericasinc/jobs/5121702007
->> Zeeve
-    Devops Trainee Developer
-      location : n/a   [INDIA]
-      exp req  : 0-1y    stack: —    score: 69
-      url      : https://www.zeeve.io/career/devops-trainee-developer/
 >> Zenkins Technologies
     IT Help Desk Support Engineer (L1) – Mumbai
       location : n/a   [INDIA]
@@ -477,6 +462,11 @@ Total open roles seen       : 850
       location : n/a   [INDIA]
       exp req  : 5-9y    stack: —    score: 45
       url      : https://zvolv.com/careers_list/pre-sales-engineer/
+>> Zeeve
+    Devops Trainee Developer
+      location : n/a   [INDIA]
+      exp req  : 0-1y    stack: —    score: 17
+      url      : https://www.zeeve.io/career/devops-trainee-developer/
 
 ##############################################################################
 # SECTION 3 — NEAR MATCHES: engineering + Java/Dart/Flutter, non-senior,
@@ -682,9 +672,9 @@ Total open roles seen       : 850
 
 >> Zifo  [India]
     board    : headings:https://careers.zifo.com/   —  3 open roles
-    Scientific Application Intern
+    Assistant Manager - Finance, Chennai
       location : n/a   [INDIA]
-      exp req  : not stated    stack: —    score: 31
+      exp req  : not stated    stack: —    score: -3
       url      : https://careers.zifo.com/
 
 >> Zimetrics Technologies  [India]
@@ -710,10 +700,10 @@ Total open roles seen       : 850
 
 >> Zeeve  [India]
     board    : feed:https://www.zeeve.io   —  6 open roles
-    Devops Trainee Developer
+    Sr. Golang Developer
       location : n/a   [INDIA]
-      exp req  : 0-1y    stack: —    score: 69
-      url      : https://www.zeeve.io/career/devops-trainee-developer/
+      exp req  : 4-7y    stack: —    score: 35
+      url      : https://www.zeeve.io/career/sr-golang-developer/
 
 >> Zvolv  [India]
     board    : wordpress:https://zvolv.com   —  8 open roles
@@ -767,13 +757,6 @@ Total open roles seen       : 850
       location : n/a   [INDIA]
       exp req  : 4-8y    stack: —    score: 57
       url      : https://www.zippyops.com/careers/
-
->> Zinavo Technologies  [India]
-    board    : headings:https://www.zinavo.com/careers.html   —  5 open roles
-    Junior Web Developer
-      location : n/a   [INDIA]
-      exp req  : not stated    stack: —    score: 61
-      url      : https://www.zinavo.com/careers.html
 
 >> Zaptech Solutions  [India]
     board    : headings:https://zaptechsolutions.com/career.php   —  11 open roles
@@ -916,7 +899,7 @@ Total open roles seen       : 850
       url      : https://zyter.ai/careers/
 
 ##############################################################################
-# SECTION 5 — NOT READ  (52 of 101)
+# SECTION 5 — NOT READ  (53 of 101)
 # lists-no-openings  = careers page loaded fine, published no vacancies
 # blocked-or-error    = bot wall / dead route (403, 404) — needs a browser
 # unreachable         = domain did not respond at all
@@ -990,7 +973,7 @@ Total open roles seen       : 850
 
 >> Zignuts Technolab  [India]  — careers-page-read-but-lists-no-openings
     careers page : undefined
-    http status  : 0, 200, 200, 404
+    http status  : 0, 200, 200, 404, 404, 404
     ATS tried    : greenhouse:zignutstechnolab -> no board ; lever:zignutstechnolab -> no board ; ashby:zignutstechnolab -> no board ; recruitee:zignutstechnolab -> no board
 
 >> ZoomCar  [India]  — careers-page-read-but-lists-no-openings
@@ -1002,6 +985,10 @@ Total open roles seen       : 850
     careers page : undefined
     http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200, 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200, 200, 200
     ATS tried    : greenhouse:zappyhire -> no board ; lever:zappyhire -> no board ; ashby:zappyhire -> no board ; recruitee:zappyhire -> no board
+
+>> Zeb  [United States]  — careers-page-read-but-lists-no-openings
+    careers page : https://zeb.co/careers/
+    http status  : 200, 0, 200, 404, 404, 404, 404, 404, 404, 404, 404, 200
 
 >> Zerodha  [India]  — careers-page-read-but-lists-no-openings
     careers page : undefined
@@ -1161,16 +1148,16 @@ Total open roles seen       : 850
     careers page : undefined
     http status  : 
 
->> Zeb  [United States]  — timed-out
-    careers page : https://zeb.co/careers/
-    http status  : 
-
 >> Zigram  [India]  — timed-out
     careers page : undefined
     http status  : 
 
 >> Zaloni  [United States]  — timed-out
     careers page : undefined
+    http status  : 
+
+>> Zinavo Technologies  [India]  — timed-out
+    careers page : https://www.zinavo.com/careers.html
     http status  : 
 
 >> Zaakpay  [India]  — timed-out

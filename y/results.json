@@ -63,7 +63,7 @@
     "workable:yellow -> no board"
    ]
   },
-  "ms": 11050
+  "ms": 12465
  },
  {
   "company": "Yubi (CredAvenue)",
@@ -425,6 +425,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -446,6 +447,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -530,7 +532,7 @@
     "zohorecruit:go-yubi -> 22 jobs"
    ]
   },
-  "ms": 2236
+  "ms": 5204
  },
  {
   "company": "Yatra Online",
@@ -680,7 +682,7 @@
     "workable:yatra -> no board"
    ]
   },
-  "ms": 8837
+  "ms": 17389
  },
  {
   "company": "YES Bank",
@@ -824,7 +826,7 @@
     "workable:yesbank -> no board"
    ]
   },
-  "ms": 7003
+  "ms": 12420
  },
  {
   "company": "YASH Technologies",
@@ -834,34 +836,6 @@
   "error": null,
   "totalJobs": 57,
   "jobs": [
-   {
-    "title": "Sr. Software Engineer - Java Job",
-    "location": "Pune, IN",
-    "url": "https://careers.yash.com/job/Pune-Sr_-Software-Engineer-Java-Job/1365323566/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-    "india": true,
-    "locationSaysIndia": true,
-    "hasLocation": true,
-    "isEng": true,
-    "java": true,
-    "flutter": false,
-    "senior": true,
-    "exp": [
-     [
-      6,
-      8
-     ],
-     [
-      5,
-      9
-     ],
-     [
-      2,
-      6
-     ]
-    ],
-    "expFits2": true,
-    "score": 78
-   },
    {
     "title": "Sr. Software Engineer - Java Job",
     "location": "Pune, IN",
@@ -905,6 +879,34 @@
      [
       4,
       8
+     ],
+     [
+      2,
+      6
+     ]
+    ],
+    "expFits2": true,
+    "score": 78
+   },
+   {
+    "title": "Sr. Software Engineer - Java Job",
+    "location": "Pune, IN",
+    "url": "https://careers.yash.com/job/Pune-Sr_-Software-Engineer-Java-Job/1365323566/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+    "india": true,
+    "locationSaysIndia": true,
+    "hasLocation": true,
+    "isEng": true,
+    "java": true,
+    "flutter": false,
+    "senior": true,
+    "exp": [
+     [
+      6,
+      8
+     ],
+     [
+      5,
+      9
      ],
      [
       2,
@@ -1206,30 +1208,6 @@
     "score": 48
    },
    {
-    "title": "Sr. Software Engineer - Java Job",
-    "location": "IN",
-    "url": "https://careers.yash.com/job/Sr_-Software-Engineer-Java-Job/1363665566/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": true,
-    "java": true,
-    "flutter": false,
-    "senior": true,
-    "exp": [
-     [
-      4,
-      6
-     ],
-     [
-      6,
-      10
-     ]
-    ],
-    "expFits2": false,
-    "score": 45
-   },
-   {
     "title": "Executive - Inside Sales Job",
     "location": "Hyderabad, TG, IN",
     "url": "https://careers.yash.com/job/Hyderabad-Executive-Inside-Sales-Job-TG/1362620866/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
@@ -1271,6 +1249,30 @@
      ]
     ],
     "expFits2": true,
+    "score": 45
+   },
+   {
+    "title": "Sr. Software Engineer - Java Job",
+    "location": "IN",
+    "url": "https://careers.yash.com/job/Sr_-Software-Engineer-Java-Job/1363665566/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": true,
+    "java": true,
+    "flutter": false,
+    "senior": true,
+    "exp": [
+     [
+      4,
+      6
+     ],
+     [
+      6,
+      10
+     ]
+    ],
+    "expFits2": false,
     "score": 45
    },
    {
@@ -1741,26 +1743,6 @@
     "score": 15
    },
    {
-    "title": "Consultant - Application Monitoring Job",
-    "location": "Bangalore, KA, IN",
-    "url": "https://careers.yash.com/job/Bangalore-Consultant-Application-Monitoring-Job-KA/1365531766/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-    "india": true,
-    "locationSaysIndia": true,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [
-     [
-      5,
-      9
-     ]
-    ],
-    "expFits2": false,
-    "score": 15
-   },
-   {
     "title": "Consultant - SAP Production Planning (SAP PP) Job",
     "location": "Pune, IN",
     "url": "https://careers.yash.com/job/Pune-Consultant-SAP-Production-Planning-%28SAP-PP%29-Job/1364139366/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
@@ -1775,6 +1757,26 @@
      [
       5,
       8
+     ]
+    ],
+    "expFits2": false,
+    "score": 15
+   },
+   {
+    "title": "Consultant - Application Monitoring Job",
+    "location": "Bangalore, KA, IN",
+    "url": "https://careers.yash.com/job/Bangalore-Consultant-Application-Monitoring-Job-KA/1365531766/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+    "india": true,
+    "locationSaysIndia": true,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [
+     [
+      5,
+      9
      ]
     ],
     "expFits2": false,
@@ -1840,30 +1842,6 @@
     "score": 5
    },
    {
-    "title": "Module Lead - Data Bricks Job",
-    "location": "Hyderabad, TG, IN",
-    "url": "https://careers.yash.com/job/Hyderabad-Module-Lead-Data-Bricks-Job-TG/1365399466/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-    "india": true,
-    "locationSaysIndia": true,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": true,
-    "exp": [
-     [
-      5,
-      9
-     ],
-     [
-      3,
-      7
-     ]
-    ],
-    "expFits2": false,
-    "score": 5
-   },
-   {
     "title": "Associate Lead Consultant - SAP ABAP HANA Job",
     "location": "Hyderabad, TG, IN",
     "url": "https://careers.yash.com/job/Hyderabad-Associate-Lead-Consultant-SAP-ABAP-HANA-Job-TG/1364120866/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
@@ -1888,6 +1866,30 @@
     "score": 5
    },
    {
+    "title": "Module Lead - Data Bricks Job",
+    "location": "Hyderabad, TG, IN",
+    "url": "https://careers.yash.com/job/Hyderabad-Module-Lead-Data-Bricks-Job-TG/1365399466/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+    "india": true,
+    "locationSaysIndia": true,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [
+     [
+      5,
+      9
+     ],
+     [
+      3,
+      7
+     ]
+    ],
+    "expFits2": false,
+    "score": 5
+   },
+   {
     "title": "Module Lead - .NET C# Job",
     "location": "Bangalore, KA, IN",
     "url": "https://careers.yash.com/job/Bangalore-Module-Lead-_NET-C-Job-KA/1365500866/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
@@ -1902,6 +1904,30 @@
      [
       8,
       10
+     ]
+    ],
+    "expFits2": false,
+    "score": -7
+   },
+   {
+    "title": "Module Lead - Anaplan Modeler Job",
+    "location": "Hyderabad, TG, IN",
+    "url": "https://careers.yash.com/job/Hyderabad-Module-Lead-Anaplan-Modeler-Job-TG/1331617066/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+    "india": true,
+    "locationSaysIndia": true,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [
+     [
+      5,
+      7
+     ],
+     [
+      7,
+      8
      ]
     ],
     "expFits2": false,
@@ -1932,6 +1958,50 @@
     "score": -7
    },
    {
+    "title": "Sr. Consultant - SAP TM Job",
+    "location": "Hyderabad, TG, IN",
+    "url": "https://careers.yash.com/job/Hyderabad-Sr_-Consultant-SAP-TM-Job-TG/1364136766/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+    "india": true,
+    "locationSaysIndia": true,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [
+     [
+      10,
+      14
+     ]
+    ],
+    "expFits2": false,
+    "score": -7
+   },
+   {
+    "title": "QAD EQMS Consultant / Senior Consultant Job",
+    "location": "Pune, MH, IN",
+    "url": "https://careers.yash.com/job/Pune-QAD-EQMS-Consultant-Senior-Consultant-Job-MH/1364136566/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+    "india": true,
+    "locationSaysIndia": true,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [
+     [
+      5,
+      10
+     ],
+     [
+      10,
+      11
+     ]
+    ],
+    "expFits2": false,
+    "score": -7
+   },
+   {
     "title": "Module Lead - .NET C# Job",
     "location": "Indore, MP, IN",
     "url": "https://careers.yash.com/job/Indore-Module-Lead-_NET-C-Job-MP/1359899266/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
@@ -1946,6 +2016,26 @@
      [
       6,
       9
+     ]
+    ],
+    "expFits2": false,
+    "score": -7
+   },
+   {
+    "title": "Solution Architect - Informatica MDM Job",
+    "location": "Pune, IN",
+    "url": "https://careers.yash.com/job/Pune-Solution-Architect-Informatica-MDM-Job/1362619466/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+    "india": true,
+    "locationSaysIndia": true,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [
+     [
+      10,
+      18
      ]
     ],
     "expFits2": false,
@@ -2010,94 +2100,6 @@
     ],
     "expFits2": false,
     "score": -7
-   },
-   {
-    "title": "Module Lead - Anaplan Modeler Job",
-    "location": "Hyderabad, TG, IN",
-    "url": "https://careers.yash.com/job/Hyderabad-Module-Lead-Anaplan-Modeler-Job-TG/1331617066/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-    "india": true,
-    "locationSaysIndia": true,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": true,
-    "exp": [
-     [
-      5,
-      7
-     ],
-     [
-      7,
-      8
-     ]
-    ],
-    "expFits2": false,
-    "score": -7
-   },
-   {
-    "title": "Solution Architect - Informatica MDM Job",
-    "location": "Pune, IN",
-    "url": "https://careers.yash.com/job/Pune-Solution-Architect-Informatica-MDM-Job/1362619466/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-    "india": true,
-    "locationSaysIndia": true,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": true,
-    "exp": [
-     [
-      10,
-      18
-     ]
-    ],
-    "expFits2": false,
-    "score": -7
-   },
-   {
-    "title": "Sr. Consultant - SAP TM Job",
-    "location": "Hyderabad, TG, IN",
-    "url": "https://careers.yash.com/job/Hyderabad-Sr_-Consultant-SAP-TM-Job-TG/1364136766/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-    "india": true,
-    "locationSaysIndia": true,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": true,
-    "exp": [
-     [
-      10,
-      14
-     ]
-    ],
-    "expFits2": false,
-    "score": -7
-   },
-   {
-    "title": "QAD EQMS Consultant / Senior Consultant Job",
-    "location": "Pune, MH, IN",
-    "url": "https://careers.yash.com/job/Pune-QAD-EQMS-Consultant-Senior-Consultant-Job-MH/1364136566/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-    "india": true,
-    "locationSaysIndia": true,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": true,
-    "exp": [
-     [
-      5,
-      10
-     ],
-     [
-      10,
-      11
-     ]
-    ],
-    "expFits2": false,
-    "score": -7
    }
   ],
   "enriched": 0,
@@ -2106,9 +2108,9 @@
   "closest": {
    "title": "Sr. Software Engineer - Java Job",
    "location": "Pune, IN",
-   "url": "https://careers.yash.com/job/Pune-Sr_-Software-Engineer-Java-Job/1365323566/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+   "url": "https://careers.yash.com/job/Pune-Sr_-Software-Engineer-Java-Job/1365328766/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
    "team": "",
-   "text": "YASH Technologies is a leading technology integrator specializing in helping clients reimagine operating models, enhance competitiveness, optimize costs, foster exceptional stakeholder experiences, and drive business transformation. At YASH, we’re a cluster of the brightest stars working with cutting-edge technologies. Our purpose is anchored in a single truth – bringing real positive changes in an increasingly virtual world and it drives us beyond generational gaps and disruptions of the future. We are looking forward to hire Java Professionals in the following areas : Job description: Experience required: 6-8 years We are seeking a Senior Software Engineer with strong Java backend expertise and hands-on experience in Red Hat Decision Manager (RHDM/Drools) to design and implement business rules and decision automation solutions. Responsibilities: Design, develop, and maintain business rules using RHDM (DRL, Decision Tables, DMN) Build and integrate Java/Spring Boot backend services with the KIE/Drools rules engine Translate business requirements into rule artifacts and decision models Collaborate with business analysts and SMEs to validate rule logic Optimize rule execution performance and manage rule versioning/deployment via Business Central Participate in code reviews, unit testing, and CI/CD pipeline integration Required Skills: 5+ years Java backend development (Spring Boot, REST APIs, microservices) 2+ years hands-on experience with Red Hat Decision Manager / Drools (DRL, Decision Tables, DMN) Strong understanding of rule engine concepts (forward chaining, agenda groups, salience) Experience with relational databases and SQL Familiarity with CI/CD, Git, and containerized deployments (Docker/Kubernetes/OpenShift) Good to Have: Healthcare payer industry experience, particularly in provider domain (provider data management, credentialing, network management, directory services) Familiarity with FHIR, HIPAA, and CMS regulatory standards Experience with Business Central administration and rule deployment lifecycle Qualifications: Bachelor’s degree in Computer Science, Engineering, or related field Strong problem-solving and communication skills \" At YASH, you are empowered to create a career that will take you to where you want to go while working in an inclusive team environment. We leverage career-oriented skilling models and optimize our collective intelligence aided with technology for continuous learning, unlearning, and relearning at a rapid pace and scale. Our Hyperlearning workplace is grounded upon four principles Flexible work arrangements, Free spirit, and emotional positivity Agile self-determination, trust, transparency, and open collaboration All Support needed for the realization of business goals, Stable employment with a great atmosphere and ethical corporate culture",
+   "text": "YASH Technologies is a leading technology integrator specializing in helping clients reimagine operating models, enhance competitiveness, optimize costs, foster exceptional stakeholder experiences, and drive business transformation. At YASH, we’re a cluster of the brightest stars working with cutting-edge technologies. Our purpose is anchored in a single truth – bringing real positive changes in an increasingly virtual world and it drives us beyond generational gaps and disruptions of the future. We are looking forward to hire Java Professionals in the following areas : Job Description: Primary Skills - Java, Javacript, python, react. Working on SAS based solutions. Total 7-9 years of experience . JIRA ( integrated with GitHub) , Team Retro, Mural, workboard, and some home grown apps, JS stack and AWS. MCP AI based - basic knowledge needed. Integration with Service Now ( support also ) React, Node - stack knowledge ( 2-3 years is good ) Java ( 2-3 years is good ) Okta, OAtuh knowledge DBMS - good knowledge Good communication skills as they will need to interact with the customers At YASH, you are empowered to create a career that will take you to where you want to go while working in an inclusive team environment. We leverage career-oriented skilling models and optimize our collective intelligence aided with technology for continuous learning, unlearning, and relearning at a rapid pace and scale. Our Hyperlearning workplace is grounded upon four principles Flexible work arrangements, Free spirit, and emotional positivity Agile self-determination, trust, transparency, and open collaboration All Support needed for the realization of business goals, Stable employment with a great atmosphere and ethical corporate culture",
    "score": 78,
    "isMatch": false,
    "isEng": true,
@@ -2118,18 +2120,19 @@
    "india": true,
    "senior": true,
    "junior": false,
+   "intern": false,
    "exp": [
     [
-     6,
-     8
-    ],
-    [
-     5,
+     7,
      9
     ],
     [
      2,
-     6
+     3
+    ],
+    [
+     9,
+     10
     ]
    ],
    "expFits2": true
@@ -2137,9 +2140,9 @@
   "closestEng": {
    "title": "Sr. Software Engineer - Java Job",
    "location": "Pune, IN",
-   "url": "https://careers.yash.com/job/Pune-Sr_-Software-Engineer-Java-Job/1365323566/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+   "url": "https://careers.yash.com/job/Pune-Sr_-Software-Engineer-Java-Job/1365328766/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
    "team": "",
-   "text": "YASH Technologies is a leading technology integrator specializing in helping clients reimagine operating models, enhance competitiveness, optimize costs, foster exceptional stakeholder experiences, and drive business transformation. At YASH, we’re a cluster of the brightest stars working with cutting-edge technologies. Our purpose is anchored in a single truth – bringing real positive changes in an increasingly virtual world and it drives us beyond generational gaps and disruptions of the future. We are looking forward to hire Java Professionals in the following areas : Job description: Experience required: 6-8 years We are seeking a Senior Software Engineer with strong Java backend expertise and hands-on experience in Red Hat Decision Manager (RHDM/Drools) to design and implement business rules and decision automation solutions. Responsibilities: Design, develop, and maintain business rules using RHDM (DRL, Decision Tables, DMN) Build and integrate Java/Spring Boot backend services with the KIE/Drools rules engine Translate business requirements into rule artifacts and decision models Collaborate with business analysts and SMEs to validate rule logic Optimize rule execution performance and manage rule versioning/deployment via Business Central Participate in code reviews, unit testing, and CI/CD pipeline integration Required Skills: 5+ years Java backend development (Spring Boot, REST APIs, microservices) 2+ years hands-on experience with Red Hat Decision Manager / Drools (DRL, Decision Tables, DMN) Strong understanding of rule engine concepts (forward chaining, agenda groups, salience) Experience with relational databases and SQL Familiarity with CI/CD, Git, and containerized deployments (Docker/Kubernetes/OpenShift) Good to Have: Healthcare payer industry experience, particularly in provider domain (provider data management, credentialing, network management, directory services) Familiarity with FHIR, HIPAA, and CMS regulatory standards Experience with Business Central administration and rule deployment lifecycle Qualifications: Bachelor’s degree in Computer Science, Engineering, or related field Strong problem-solving and communication skills \" At YASH, you are empowered to create a career that will take you to where you want to go while working in an inclusive team environment. We leverage career-oriented skilling models and optimize our collective intelligence aided with technology for continuous learning, unlearning, and relearning at a rapid pace and scale. Our Hyperlearning workplace is grounded upon four principles Flexible work arrangements, Free spirit, and emotional positivity Agile self-determination, trust, transparency, and open collaboration All Support needed for the realization of business goals, Stable employment with a great atmosphere and ethical corporate culture",
+   "text": "YASH Technologies is a leading technology integrator specializing in helping clients reimagine operating models, enhance competitiveness, optimize costs, foster exceptional stakeholder experiences, and drive business transformation. At YASH, we’re a cluster of the brightest stars working with cutting-edge technologies. Our purpose is anchored in a single truth – bringing real positive changes in an increasingly virtual world and it drives us beyond generational gaps and disruptions of the future. We are looking forward to hire Java Professionals in the following areas : Job Description: Primary Skills - Java, Javacript, python, react. Working on SAS based solutions. Total 7-9 years of experience . JIRA ( integrated with GitHub) , Team Retro, Mural, workboard, and some home grown apps, JS stack and AWS. MCP AI based - basic knowledge needed. Integration with Service Now ( support also ) React, Node - stack knowledge ( 2-3 years is good ) Java ( 2-3 years is good ) Okta, OAtuh knowledge DBMS - good knowledge Good communication skills as they will need to interact with the customers At YASH, you are empowered to create a career that will take you to where you want to go while working in an inclusive team environment. We leverage career-oriented skilling models and optimize our collective intelligence aided with technology for continuous learning, unlearning, and relearning at a rapid pace and scale. Our Hyperlearning workplace is grounded upon four principles Flexible work arrangements, Free spirit, and emotional positivity Agile self-determination, trust, transparency, and open collaboration All Support needed for the realization of business goals, Stable employment with a great atmosphere and ethical corporate culture",
    "score": 78,
    "isMatch": false,
    "isEng": true,
@@ -2149,18 +2152,19 @@
    "india": true,
    "senior": true,
    "junior": false,
+   "intern": false,
    "exp": [
     [
-     6,
-     8
-    ],
-    [
-     5,
+     7,
      9
     ],
     [
      2,
-     6
+     3
+    ],
+    [
+     9,
+     10
     ]
    ],
    "expFits2": true
@@ -2225,7 +2229,7 @@
     {
      "url": "https://yash.com/",
      "status": 200,
-     "bytes": 106806
+     "bytes": 136718
     }
    ],
    "candidates": [
@@ -2240,7 +2244,7 @@
     "successfactors:careers.yash.com -> 57 jobs"
    ]
   },
-  "ms": 11200
+  "ms": 16694
  },
  {
   "company": "Yotta Data Services",
@@ -2330,6 +2334,7 @@
    "india": true,
    "senior": true,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -2415,7 +2420,7 @@
     "workable:yotta -> no board"
    ]
   },
-  "ms": 17095
+  "ms": 28607
  },
  {
   "company": "Yulu Bikes",
@@ -2550,6 +2555,7 @@
    "india": true,
    "senior": true,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -2569,6 +2575,7 @@
    "india": true,
    "senior": true,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -2718,7 +2725,7 @@
     "workable:yulu -> no board"
    ]
   },
-  "ms": 7994
+  "ms": 10761
  },
  {
   "company": "YuppTV",
@@ -2793,6 +2800,7 @@
     "india": true,
     "senior": false,
     "junior": false,
+    "intern": false,
     "exp": [],
     "expFits2": false
    }
@@ -2813,6 +2821,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -2832,6 +2841,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -2878,7 +2888,7 @@
     "workable:yupptv -> no board"
    ]
   },
-  "ms": 12016
+  "ms": 14458
  },
  {
   "company": "Yudiz Solutions",
@@ -2993,21 +3003,6 @@
     "score": 53
    },
    {
-    "title": "Sales Intern",
-    "location": "",
-    "url": "https://www.yudiz.com/join-our-team/sales-marketing-intern/",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 31
-   },
-   {
     "title": "Business Development Executive",
     "location": "",
     "url": "https://www.yudiz.com/join-our-team/junior-business-development-executive-product/",
@@ -3096,6 +3091,21 @@
     "exp": [],
     "expFits2": false,
     "score": -3
+   },
+   {
+    "title": "Sales Intern",
+    "location": "",
+    "url": "https://www.yudiz.com/join-our-team/sales-marketing-intern/",
+    "india": true,
+    "locationSaysIndia": false,
+    "hasLocation": false,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": -21
    }
   ],
   "enriched": 3,
@@ -3116,6 +3126,7 @@
     "india": true,
     "senior": false,
     "junior": false,
+    "intern": false,
     "exp": [
      [
       1,
@@ -3158,6 +3169,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [
     [
      1,
@@ -3198,6 +3210,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [
     [
      1,
@@ -3261,7 +3274,7 @@
     "workable:yudiz -> no board"
    ]
   },
-  "ms": 3719
+  "ms": 5276
  },
  {
   "company": "Yugasa Software Labs",
@@ -3349,7 +3362,7 @@
     "workable:yugasa -> no board"
    ]
   },
-  "ms": 9681
+  "ms": 10692
  },
  {
   "company": "Yellow Class",
@@ -3368,7 +3381,7 @@
    "pages": [],
    "attempts": []
   },
-  "ms": 90002
+  "ms": 90003
  },
  {
   "company": "Yalamanchili Software Exports",
@@ -3523,7 +3536,7 @@
     "workable:ysppayments -> no board"
    ]
   },
-  "ms": 11625
+  "ms": 11392
  },
  {
   "company": "Yodlee (Envestnet)",
@@ -3985,7 +3998,7 @@
     {
      "url": "https://yodlee.com/jobs",
      "status": 403,
-     "bytes": 237
+     "bytes": 236
     },
     {
      "url": "https://yodlee.com/join-us",
@@ -3995,12 +4008,12 @@
     {
      "url": "https://yodlee.com/join-our-team",
      "status": 403,
-     "bytes": 236
+     "bytes": 237
     },
     {
      "url": "https://yodlee.com/careers.html",
      "status": 403,
-     "bytes": 237
+     "bytes": 236
     },
     {
      "url": "https://yodlee.com/company/careers",
@@ -4010,7 +4023,7 @@
     {
      "url": "https://yodlee.com/about/careers",
      "status": 403,
-     "bytes": 237
+     "bytes": 236
     },
     {
      "url": "https://yodlee.com/current-openings",
@@ -4031,7 +4044,7 @@
     {
      "url": "https://www.yodlee.com/careers",
      "status": 403,
-     "bytes": 238
+     "bytes": 237
     },
     {
      "url": "https://www.yodlee.com/career",
@@ -4056,12 +4069,12 @@
     {
      "url": "https://www.yodlee.com/careers.html",
      "status": 403,
-     "bytes": 238
+     "bytes": 237
     },
     {
      "url": "https://www.yodlee.com/company/careers",
      "status": 403,
-     "bytes": 238
+     "bytes": 236
     },
     {
      "url": "https://www.yodlee.com/about/careers",
@@ -4094,7 +4107,7 @@
     "workable:yodlee -> no board"
    ]
   },
-  "ms": 14742
+  "ms": 17917
  },
  {
   "company": "YourStory Media",
@@ -4147,7 +4160,7 @@
     "workable:yourstory -> no board"
    ]
   },
-  "ms": 2842
+  "ms": 5221
  },
  {
   "company": "YES Securities",
@@ -4296,6 +4309,7 @@
    "india": true,
    "senior": false,
    "junior": true,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -4361,7 +4375,7 @@
     "workable:yesinvest -> no board"
    ]
   },
-  "ms": 4567
+  "ms": 4595
  },
  {
   "company": "Yash Highvoltage",
@@ -4511,6 +4525,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -4530,6 +4545,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -4673,7 +4689,7 @@
     "workable:yashhighvoltage -> no board"
    ]
   },
-  "ms": 19904
+  "ms": 19164
  },
  {
   "company": "YOLO Bus",
@@ -4827,7 +4843,7 @@
     "workable:yolobus -> no board"
    ]
   },
-  "ms": 15251
+  "ms": 11132
  },
  {
   "company": "Yes Madam",
@@ -4972,7 +4988,7 @@
     "workable:yesmadam -> no board"
    ]
   },
-  "ms": 16783
+  "ms": 17777
  },
  {
   "company": "Yaskawa India",
@@ -5131,7 +5147,7 @@
     "workable:yaskawaindia -> no board"
    ]
   },
-  "ms": 7764
+  "ms": 7519
  },
  {
   "company": "Yara India",
@@ -5219,7 +5235,7 @@
     "workable:yara -> no board"
    ]
   },
-  "ms": 22756
+  "ms": 21976
  },
  {
   "company": "Ymgrad",
@@ -5293,7 +5309,7 @@
     "workable:ymgrad -> no board"
    ]
   },
-  "ms": 13630
+  "ms": 12605
  },
  {
   "company": "Yuvasoft Solutions",
@@ -5362,6 +5378,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [
     [
      1,
@@ -5390,6 +5407,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [
     [
      1,
@@ -5502,7 +5520,7 @@
     "workable:yuvasoftech -> no board"
    ]
   },
-  "ms": 14667
+  "ms": 16783
  },
  {
   "company": "Yash Raj Films",
@@ -5596,7 +5614,7 @@
     "workable:yashrajfilms -> no board"
    ]
   },
-  "ms": 10545
+  "ms": 18606
  },
  {
   "company": "Ysquare Technology",
@@ -5647,6 +5665,21 @@
     "score": 45
    },
    {
+    "title": "Engineering Manager",
+    "location": "",
+    "url": "https://www.ysquaretechnology.com/careers",
+    "india": true,
+    "locationSaysIndia": false,
+    "hasLocation": false,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [],
+    "expFits2": false,
+    "score": -3
+   },
+   {
     "title": "Event Management Intern",
     "location": "",
     "url": "https://www.ysquaretechnology.com/careers",
@@ -5664,22 +5697,7 @@
      ]
     ],
     "expFits2": false,
-    "score": 39
-   },
-   {
-    "title": "Engineering Manager",
-    "location": "",
-    "url": "https://www.ysquaretechnology.com/careers",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": true,
-    "exp": [],
-    "expFits2": false,
-    "score": -3
+    "score": -13
    }
   ],
   "enriched": 0,
@@ -5701,6 +5719,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [
     [
      1,
@@ -5725,6 +5744,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [
     [
      1,
@@ -5822,7 +5842,7 @@
     "workable:ysquaretechnology -> no board"
    ]
   },
-  "ms": 9815
+  "ms": 11492
  },
  {
   "company": "Yellow Slice",
@@ -6028,6 +6048,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [
     [
      0,
@@ -6120,7 +6141,7 @@
     "workable:yellowslice -> no board"
    ]
   },
-  "ms": 13027
+  "ms": 12496
  },
  {
   "company": "Yavar TechWorks",
@@ -6229,6 +6250,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -6248,6 +6270,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -6397,7 +6420,7 @@
     "workable:yodaplus -> no board"
    ]
   },
-  "ms": 7903
+  "ms": 7454
  },
  {
   "company": "Yagna iQ",
@@ -6421,22 +6444,22 @@
     {
      "url": "https://yagnaiq.com/careers",
      "status": 500,
-     "bytes": 606824
+     "bytes": 606827
     },
     {
      "url": "https://yagnaiq.com/career",
      "status": 500,
-     "bytes": 606821
+     "bytes": 606822
     },
     {
      "url": "https://yagnaiq.com/jobs",
      "status": 404,
-     "bytes": 599104
+     "bytes": 599096
     },
     {
      "url": "https://yagnaiq.com/join-us",
      "status": 404,
-     "bytes": 599155
+     "bytes": 599158
     }
    ],
    "candidates": [
@@ -6454,7 +6477,7 @@
     "workable:yagnaiq -> no board"
    ]
   },
-  "ms": 50771
+  "ms": 44886
  },
  {
   "company": "YNOS Venture Engine",
@@ -6598,7 +6621,7 @@
     "workable:ynos -> no board"
    ]
   },
-  "ms": 3780
+  "ms": 4110
  },
  {
   "company": "Yuken India",
@@ -6656,6 +6679,21 @@
     "score": 75
    },
    {
+    "title": "CS Executive Pass with BCOM",
+    "location": "",
+    "url": "https://www.yukenindia.com/career/",
+    "india": true,
+    "locationSaysIndia": false,
+    "hasLocation": false,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 19
+   },
+   {
     "title": "CS Trainee",
     "location": "",
     "url": "https://www.yukenindia.com/career/",
@@ -6668,7 +6706,7 @@
     "senior": false,
     "exp": [],
     "expFits2": false,
-    "score": 31
+    "score": -21
    },
    {
     "title": "Trainee CIVIL Projects",
@@ -6692,22 +6730,7 @@
      ]
     ],
     "expFits2": false,
-    "score": 27
-   },
-   {
-    "title": "CS Executive Pass with BCOM",
-    "location": "",
-    "url": "https://www.yukenindia.com/career/",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 19
+    "score": -25
    }
   ],
   "enriched": 0,
@@ -6729,6 +6752,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [
     [
      2,
@@ -6757,6 +6781,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [
     [
      2,
@@ -6853,7 +6878,7 @@
     "workable:yukenindia -> no board"
    ]
   },
-  "ms": 25296
+  "ms": 24087
  },
  {
   "company": "Yasho Industries",
@@ -6957,7 +6982,7 @@
     "workable:yashoindustries -> no board"
    ]
   },
-  "ms": 21365
+  "ms": 19236
  },
  {
   "company": "Yash Pakka",
@@ -7126,7 +7151,7 @@
     "workable:yashpakka -> no board"
    ]
   },
-  "ms": 20508
+  "ms": 22408
  },
  {
   "company": "Yaap Digital",
@@ -7196,7 +7221,7 @@
     {
      "url": "https://yaap.com/",
      "status": 200,
-     "bytes": 15813
+     "bytes": 15892
     },
     {
      "url": "https://careers.www.yaap.com",
@@ -7252,7 +7277,7 @@
     {
      "url": "https://www.yaap.com/",
      "status": 200,
-     "bytes": 15898
+     "bytes": 15882
     }
    ],
    "candidates": [
@@ -7270,7 +7295,7 @@
     "workable:yaap -> no board"
    ]
   },
-  "ms": 17309
+  "ms": 20027
  },
  {
   "company": "Yahoo",
@@ -7374,7 +7399,7 @@
     "workable:yahooinc -> no board"
    ]
   },
-  "ms": 30262
+  "ms": 31643
  },
  {
   "company": "Yelp",
@@ -7488,36 +7513,6 @@
     "exp": [],
     "expFits2": false,
     "score": 34
-   },
-   {
-    "title": "Community Intern, Long Island",
-    "location": "Long Island, New York",
-    "url": "https://uscareers-yelp.icims.com/jobs/14015/community-intern%2c-long-island/job",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 16
-   },
-   {
-    "title": "Community Intern, North County San Diego",
-    "location": "Remote, Remote",
-    "url": "https://uscareers-yelp.icims.com/jobs/14012/community-intern%2c-north-county-san-diego/job",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 16
    },
    {
     "title": "Entry-Level IT Helpdesk Technician (Remote - United States ET)",
@@ -7685,9 +7680,9 @@
     "score": 4
    },
    {
-    "title": "Inside Sales Representative (Remote - Central or Eastern Region)",
-    "location": "Orlando, Florida",
-    "url": "https://uscareers-yelp.icims.com/jobs/13889/inside-sales-representative-%28remote---central-or-eastern-region%29/job",
+    "title": "Client Partner, SaaS Restaurant Sales (Remote - US)",
+    "location": "Remote, Remote",
+    "url": "https://uscareers-yelp.icims.com/jobs/13718/client-partner%2c-saas-restaurant-sales-%28remote---us%29/job",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
@@ -7700,9 +7695,9 @@
     "score": 4
    },
    {
-    "title": "Client Partner, SaaS Restaurant Sales (Remote - US)",
-    "location": "Remote, Remote",
-    "url": "https://uscareers-yelp.icims.com/jobs/13718/client-partner%2c-saas-restaurant-sales-%28remote---us%29/job",
+    "title": "Inside Sales Representative (Remote - Central or Eastern Region)",
+    "location": "Orlando, Florida",
+    "url": "https://uscareers-yelp.icims.com/jobs/13889/inside-sales-representative-%28remote---central-or-eastern-region%29/job",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
@@ -8088,6 +8083,36 @@
     "exp": [],
     "expFits2": false,
     "score": -18
+   },
+   {
+    "title": "Community Intern, Long Island",
+    "location": "Long Island, New York",
+    "url": "https://uscareers-yelp.icims.com/jobs/14015/community-intern%2c-long-island/job",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": -36
+   },
+   {
+    "title": "Community Intern, North County San Diego",
+    "location": "Remote, Remote",
+    "url": "https://uscareers-yelp.icims.com/jobs/14012/community-intern%2c-north-county-san-diego/job",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": -36
    }
   ],
   "enriched": 0,
@@ -8107,6 +8132,7 @@
     "india": false,
     "senior": false,
     "junior": true,
+    "intern": false,
     "exp": [],
     "expFits2": false
    }
@@ -8127,6 +8153,7 @@
     "india": false,
     "senior": false,
     "junior": false,
+    "intern": false,
     "exp": [],
     "expFits2": false
    }
@@ -8146,6 +8173,7 @@
    "india": false,
    "senior": false,
    "junior": true,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -8164,6 +8192,7 @@
    "india": false,
    "senior": false,
    "junior": true,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -8232,7 +8261,7 @@
     "phenom:_self -> 47 jobs"
    ]
   },
-  "ms": 24960
+  "ms": 23547
  },
  {
   "company": "Yext",
@@ -8804,6 +8833,7 @@
     "india": false,
     "senior": false,
     "junior": false,
+    "intern": false,
     "exp": [
      [
       2,
@@ -8837,6 +8867,7 @@
    "india": false,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [
     [
      2,
@@ -8868,6 +8899,7 @@
    "india": false,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [
     [
      2,
@@ -8945,7 +8977,7 @@
     {
      "url": "https://yext.com/",
      "status": 200,
-     "bytes": 216723
+     "bytes": 216701
     }
    ],
    "candidates": [
@@ -8959,7 +8991,7 @@
     "greenhouse:yext -> 22 jobs (guess, name-verified)"
    ]
   },
-  "ms": 10826
+  "ms": 9418
  },
  {
   "company": "Yotpo",
@@ -9284,6 +9316,7 @@
     "india": false,
     "senior": false,
     "junior": true,
+    "intern": false,
     "exp": [],
     "expFits2": false
    }
@@ -9304,6 +9337,7 @@
    "india": false,
    "senior": false,
    "junior": true,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -9322,6 +9356,7 @@
    "india": false,
    "senior": false,
    "junior": true,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -9456,7 +9491,7 @@
     "greenhouse:yotpo -> 14 jobs (guess, name-verified)"
    ]
   },
-  "ms": 19942
+  "ms": 5582
  },
  {
   "company": "Yubico",
@@ -9744,6 +9779,7 @@
    "india": false,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -9762,6 +9798,7 @@
    "india": false,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -9840,7 +9877,7 @@
     "greenhouse:yubico -> 13 jobs"
    ]
   },
-  "ms": 15818
+  "ms": 12562
  },
  {
   "company": "YugabyteDB",
@@ -10222,6 +10259,7 @@
     "india": true,
     "senior": false,
     "junior": false,
+    "intern": false,
     "exp": [
      [
       3,
@@ -10250,6 +10288,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [
     [
      3,
@@ -10277,6 +10316,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [
     [
      3,
@@ -10369,7 +10409,7 @@
     "greenhouse:yugabyte -> 17 jobs"
    ]
   },
-  "ms": 10521
+  "ms": 9448
  },
  {
   "company": "Yellowbrick Data",
@@ -10437,6 +10477,7 @@
     "india": false,
     "senior": false,
     "junior": false,
+    "intern": false,
     "exp": [
      [
       2,
@@ -10460,6 +10501,7 @@
     "india": false,
     "senior": false,
     "junior": false,
+    "intern": false,
     "exp": [
      [
       1,
@@ -10485,6 +10527,7 @@
    "india": false,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [
     [
      2,
@@ -10508,6 +10551,7 @@
    "india": false,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [
     [
      2,
@@ -10587,7 +10631,7 @@
     "greenhouse:yellowbrickdata -> 2 jobs"
    ]
   },
-  "ms": 30720
+  "ms": 29316
  },
  {
   "company": "Yardi Systems",
@@ -11067,6 +11111,7 @@
    "india": false,
    "senior": false,
    "junior": true,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -11086,6 +11131,7 @@
    "india": false,
    "senior": false,
    "junior": true,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -11122,7 +11168,7 @@
     "workable:yardi -> no board"
    ]
   },
-  "ms": 8232
+  "ms": 8750
  },
  {
   "company": "YipitData",
@@ -12181,6 +12227,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [
     [
      2,
@@ -12204,6 +12251,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [
     [
      2,
@@ -12252,7 +12300,7 @@
     "greenhouse:yipitdata -> 46 jobs"
    ]
   },
-  "ms": 2575
+  "ms": 2789
  },
  {
   "company": "YCharts",
@@ -12288,7 +12336,7 @@
     {
      "url": "https://ycharts.com/career",
      "status": 404,
-     "bytes": 36971
+     "bytes": 36989
     }
    ],
    "candidates": [
@@ -12306,7 +12354,7 @@
     "workable:ycharts -> no board"
    ]
   },
-  "ms": 16150
+  "ms": 17661
  },
  {
   "company": "Yieldmo",
@@ -12395,6 +12443,7 @@
    "india": false,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -12543,7 +12592,7 @@
     "workable:yieldmo -> no board"
    ]
   },
-  "ms": 34529
+  "ms": 36101
  },
  {
   "company": "Willow Wealth (Yieldstreet)",
@@ -12687,7 +12736,7 @@
     "workable:willowwealth -> no board"
    ]
   },
-  "ms": 3696
+  "ms": 4532
  },
  {
   "company": "Ylopo",
@@ -12883,6 +12932,7 @@
    "india": false,
    "senior": false,
    "junior": true,
+   "intern": false,
    "exp": [
     [
      1,
@@ -12962,7 +13012,7 @@
     "greenhouse:ylopo -> 8 jobs (guess, name-verified)"
    ]
   },
-  "ms": 3436
+  "ms": 4565
  },
  {
   "company": "Yembo",
@@ -13021,6 +13071,7 @@
    "india": false,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -13098,7 +13149,7 @@
     "rippling:yembo -> 2 jobs"
    ]
   },
-  "ms": 6443
+  "ms": 12928
  },
  {
   "company": "Yendo",
@@ -13211,6 +13262,7 @@
    "india": false,
    "senior": true,
    "junior": false,
+   "intern": false,
    "exp": [
     [
      5,
@@ -13234,6 +13286,7 @@
    "india": false,
    "senior": true,
    "junior": false,
+   "intern": false,
    "exp": [
     [
      5,
@@ -13317,7 +13370,7 @@
     "ashby:yendo -> 4 jobs"
    ]
   },
-  "ms": 8680
+  "ms": 7962
  },
  {
   "company": "Yellow Systems",
@@ -13391,6 +13444,7 @@
    "india": false,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -13525,7 +13579,7 @@
     "workable:yellow -> no board"
    ]
   },
-  "ms": 15538
+  "ms": 15607
  },
  {
   "company": "Yoodli",
@@ -13817,6 +13871,7 @@
    "india": false,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [
     [
      2,
@@ -13844,6 +13899,7 @@
    "india": false,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [
     [
      2,
@@ -13872,17 +13928,12 @@
     {
      "url": "https://yoodli.ai/career",
      "status": 404,
-     "bytes": 126609
+     "bytes": 126600
     },
     {
      "url": "https://yoodli.ai/jobs",
      "status": 404,
-     "bytes": 126606
-    },
-    {
-     "url": "https://yoodli.ai/join-us",
-     "status": 404,
-     "bytes": 126597
+     "bytes": 126608
     }
    ],
    "candidates": [
@@ -13897,7 +13948,7 @@
     "greenhouse:yoodliinc -> 12 jobs"
    ]
   },
-  "ms": 3467
+  "ms": 2946
  },
  {
   "company": "Yotascale",
@@ -14041,7 +14092,7 @@
     "workable:yotascale -> no board"
    ]
   },
-  "ms": 17117
+  "ms": 17180
  },
  {
   "company": "Yuvo Health",
@@ -14084,6 +14135,7 @@
    "india": false,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -14225,7 +14277,7 @@
     "greenhouse:yuvohealthllc -> 1 jobs"
    ]
   },
-  "ms": 9924
+  "ms": 9487
  },
  {
   "company": "Ytel",
@@ -14483,6 +14535,7 @@
     "india": false,
     "senior": false,
     "junior": false,
+    "intern": false,
     "exp": [],
     "expFits2": false
    }
@@ -14502,6 +14555,7 @@
    "india": false,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -14520,6 +14574,7 @@
    "india": false,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -14584,7 +14639,7 @@
     {
      "url": "https://ytel.com/",
      "status": 200,
-     "bytes": 68477
+     "bytes": 71049
     }
    ],
    "candidates": [
@@ -14602,7 +14657,7 @@
     "workable:ytel -> no board"
    ]
   },
-  "ms": 20452
+  "ms": 32501
  },
  {
   "company": "Yes Energy",
@@ -14973,6 +15028,7 @@
    "india": false,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [
     [
      3,
@@ -14996,6 +15052,7 @@
    "india": false,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [
     [
      3,
@@ -15030,7 +15087,17 @@
     {
      "url": "https://yesenergy.com/jobs",
      "status": 404,
-     "bytes": 63596
+     "bytes": 63604
+    },
+    {
+     "url": "https://yesenergy.com/join-us",
+     "status": 404,
+     "bytes": 63604
+    },
+    {
+     "url": "https://yesenergy.com/join-our-team",
+     "status": 404,
+     "bytes": 63588
     }
    ],
    "candidates": [
@@ -15044,7 +15111,7 @@
     "greenhouse:yesenergy -> 18 jobs"
    ]
   },
-  "ms": 2868
+  "ms": 13535
  },
  {
   "company": "Y Combinator",
@@ -15183,6 +15250,7 @@
    "india": false,
    "senior": false,
    "junior": true,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -15201,6 +15269,7 @@
    "india": false,
    "senior": false,
    "junior": true,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -15230,7 +15299,7 @@
     {
      "url": "https://ycombinator.com/jobs",
      "status": 200,
-     "bytes": 364371
+     "bytes": 364234
     }
    ],
    "candidates": [
@@ -15246,7 +15315,7 @@
     "ashby:ycombinator -> 7 jobs (guess, name-verified)"
    ]
   },
-  "ms": 3738
+  "ms": 4633
  },
  {
   "company": "Yum! Brands",
@@ -15306,6 +15375,7 @@
    "india": false,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -15377,7 +15447,7 @@
    "candidates": [],
    "attempts": []
   },
-  "ms": 16196
+  "ms": 18460
  },
  {
   "company": "Yum China",
@@ -15537,7 +15607,7 @@
     "workable:yumchina -> no board"
    ]
   },
-  "ms": 7472
+  "ms": 8907
  },
  {
   "company": "Ygrene Energy Fund",
@@ -15618,6 +15688,7 @@
    "india": false,
    "senior": true,
    "junior": false,
+   "intern": false,
    "exp": [
     [
      3,
@@ -15714,7 +15785,7 @@
     "workable:ygrene -> no board"
    ]
   },
-  "ms": 8773
+  "ms": 8759
  },
  {
   "company": "Yokogawa Electric",
@@ -15864,7 +15935,7 @@
     "workable:yokogawa -> no board"
    ]
   },
-  "ms": 4202
+  "ms": 4516
  },
  {
   "company": "Yamaha Motor",
@@ -15898,7 +15969,7 @@
     {
      "url": "https://yamaha-motor.com/jobs",
      "status": 404,
-     "bytes": 164246
+     "bytes": 164247
     },
     {
      "url": "https://yamaha-motor.com/join-us",
@@ -15913,7 +15984,7 @@
     {
      "url": "https://yamaha-motor.com/careers.html",
      "status": 404,
-     "bytes": 164248
+     "bytes": 164247
     },
     {
      "url": "https://yamaha-motor.com/company/careers",
@@ -15928,12 +15999,12 @@
     {
      "url": "https://yamaha-motor.com/current-openings",
      "status": 404,
-     "bytes": 164247
+     "bytes": 164249
     },
     {
      "url": "https://yamaha-motor.com/",
      "status": 200,
-     "bytes": 1638421
+     "bytes": 1613105
     }
    ],
    "candidates": [
@@ -15961,7 +16032,7 @@
     "workable:yamahamotor -> no board"
    ]
   },
-  "ms": 54061
+  "ms": 51204
  },
  {
   "company": "Yaskawa Electric",
@@ -16059,7 +16130,7 @@
     "workable:yaskawaglobal -> no board"
    ]
   },
-  "ms": 49764
+  "ms": 46057
  },
  {
   "company": "Yanmar",
@@ -16253,7 +16324,7 @@
    "location": "",
    "url": "https://www.yanmar.com/marine/careers/jobs/development-engineer/",
    "team": "",
-   "text": "Development Engineer - YANMAR Marine International Products Marine Diesel Engines GM Engine 10 mhp YM Series 15-30 mhp JH-CR Series 40-110 mhp 4LV Series 150-250 mhp 8LV Series 320-370 mhp 6LY-CR Series 400-440 mhp 6LF Series 485-550 mhp 6LT Series 500-640 mhp Electric propulsion Controls Drives Panels Gears Technology Technology for Sustainability Common Rail Technology 5x Best in Class YANMAR Global Technology Vision Certifications Powered by YANMAR Testimonials Powered by YANMAR Service Service & parts Dealer Locator Repower Register Your Engine YANMAR Warranty Frequently asked questions About Us YANMAR Marine International YANMAR Global YANMAR Group Brands News Newsletter Careers Events Contact Search Network Search term Products Marine Diesel Engines GM Engine 10 mhp YM Series 15-30 mhp JH-CR Series 40-110 mhp 4LV Series 150-250 mhp 8LV Series 320-370 mhp 6LY-CR Series 400-440 mhp 6LF Series 485-550 mhp 6LT Series 500-640 mhp Electric propulsion Controls Drives Panels Gears Technology Technology for Sustainability Common Rail Technology 5x Best in Class YANMAR Global Technology Vision Certifications Powered by YANMAR Testimonials Powered by YANMAR Service Service & parts Dealer Locator Repower Register Your Engine YANMAR Warranty Frequently asked questions About Us YANMAR Marine International YANMAR Global YANMAR Group Brands News Newsletter Careers Events Contact Yanmar Marine Current vacancies Development Engineer Development Engineer Almere, the Netherlands Fulltime Bachelor’s Degree, e.g. Electrical Engineering, Mechatronics, Automotive or another relevant study Apply Now At Yanmar, we are committed to transforming our business by 2050, focusing on sustainability across our operations, suppliers, and products. This includes pioneering environmentally friendly innovations, such as electric propulsion systems and hybrid marine technologies. Yanmar Marine International (YMI) is at the forefront of marine electrical engineering, leading the development of a hydrogen fuel cell concept boat and creating dual-fuel and fully electric propulsion systems. We aim to work closely with OEMs as electric systems integrators, advancing maritime electrification. We seek an innovative and pragmatic Development Engineer focused on developing various electrical concepts, such as electric propulsion systems. What are you going to do? As a Development Engineer at Yanmar Marine International, you’ll be part of our dynamic Development Team, where every day is challenging and different. You will develop cutting-edge electrical systems and solutions for marine applications by collaborating closely with colleagues from various departments, including sales, supply chain, service, and development engineers from Yanmar in Japan. Your work will encompass innovations and improvement projects to enhance value and quality to serve our customer’s needs. Projects awaiting your expertise include developing a fully electric propulsion system, a serial hybrid drive, and a new genset. Your main tasks and responsibilities: Conduct feasibility studies, determine requirements for new product development, and translate these into functional and technical designs, including detailed drawings and documentation; Collaborate with procurement and sales teams to find suitable components and ensure market relevance; Build prototypes, create test plans, conduct tests, and report results, ensuring thorough design validation; Participate in and organise design reviews, ensuring stakeholder communication and alignment throughout various development projects; Perform FMEA to understand and address potential failure modes of components/systems, ensuring robust and reliable designs; Engage in maintenance projects to improve products based on customer reviews. Who are we looking for? We seek a forward-thinking Development Engineer with experience at some stage of the development process — whether it’s initial concept design, prototyping, testing, or final implementation. You have a passion for electric systems and sustainable solutions, and your entrepreneurial mindset drives you to push boundaries and create impactful innovations. For you, the following statement is spot on: What good is an idea if it remains an idea? try – experiment – iterate – fail – try again – change the world You bring: Minimum Bachelor’s Degree, e.g. Electrical Engineering, Mechatronics, Automotive or another relevant study; Has relevant experience in electric drives, electric propulsion systems, or similar; Familiarity with CAN protocols and other electrical communication systems; Experience in 2D/3D CAD systems; Has a strong ability to analyze, report technical data, and maintain an overview; Exhibits hands-on approach, creativity, enthusiasm, proactivity, and eagerness to learn; Strong language skills, fluent in both spoken and written English. Work location: Your regular workplace is Almere., but hybrid working (40% home/60% office) is possible in this position. Occasional (international) travel to visit suppliers or perform field testing. What do we offer? In this position, you will be involved in exciting development processes and contribute to creating sustainable products. We offer a role in a truly international organisation that respects each individual’s culture and supports individual development. You will work in a dynamic environment where every day is different, with the freedom to take initiative and express ideas. Employee Benefits: A competitive salary that reflects your knowledge and experience. Flexible working hours and the option to work from home. A standard working week of 37.5 hours. Opportunities for training and professional development. Gym subscription and bike plan. Employee benefits plan with discounts on various products and services. Participation in company outings, sports activities, and events. Commuting allowance. 27 vacation days (+ the ability to build up time for time). 8% holiday allowance and year-end bonus based on company results. Yanmar is a leading supplier of innovative engines and technology-driven marine propulsion systems. We want to supply the world’s cleanest, most efficient, reliable, and durable products for the recreational sector – both sailboats and powerboats – and light-duty commercial applications. To keep up with this promise, we are constantly working on new developments; after all, standing still is the fastest way of moving backwards in a rapidly changing world. Are you, like me, committed to developing advanced technology for the best and most sustainable solutions? Let’s meet!If you thrive on solving complex challenges, enjoy collaborating with a driven and supportive team, and like to combine hard work with a sense of fun, this role is for you! Gideon van Dijk Sr. Manager Development & Quality Department The application process is clear and fast: Short telephone acquaintance First interview (online) (Potential) Assessment/exercise Second interview at Yanmar Job offer Let’s get started! More info? Contact Jack Denkers: +31 (0)36 2050 113 Send me an email Apply for a job \" * \" indicates required fields URL This field is for validation purposes and should be left unchanged. This field is hidden when viewing the form Job Title * Name * First Last Email * File * Accepted file types: pdf, docx, doc, Max. file size: 10 MB. Motivation Letter Accepted file types: pdf, docx, doc, Max. file size: 10 MB. Go to the homepage Facebook YouTube LinkedIn Instagram TikTok Marine Commercial Technology Certifications Service & support Dealer Locator Repower YANMAR Warranty Register Your Engine Service & parts FAQs About us YANMAR Marine International News Events Newsletter Careers YANMAR Global Quality Statement Contact Internal links YDS Order Portal YMI Support Portal YMI Media Portal Dealer Locator Request Form Select region Privacy Statement Cookie Policy Copyright YANMAR Marine International. All rights reserved. Find the right sailboat engine setup Answer a few quick questions (≈30 seconds). We’ll recommend a compatible setup and you can ask YMI to contact you. Quick & simple Complete in approximately 30 seconds Expert recommendations Get matched with compatible engine setups Shareable summary Download PDF and share your configuration Start (30 seconds) Note: No pricing shown. Requests are handled by YMI first. \" * \" indicates required fields Step 1 of 4 25% Instagram This field is for validation purposes and should be left unchanged. Quick boat basics Just 5 quick inputs to find your perfect engine match Length (LOA) * Length units * m ft Displacement * Displacement units * kg lbs t Engine type * Diesel Electric Onboard voltage 12V 24V Usage Cruising Racing Day sailing Charter Sail around the world Other Replacing an existing engine Replacing an existing engine Check if this is a repower project Back Boat brand & model Help us identify your boat (optional but recommended for better accuracy). Boat brand Select a brand... AMEL BAVARIA YACHTS BENETEAU CATANA DUFOUR EXCESS FOUNTAINE PAJOT HANSE JEANNEAU LAGOON Boat model Select model... Amel 50 Amel 54 C38 C46 C50 FIRST 27 FIRST 30 - 2024+ FIRST 36 First 44 OCEANIS 30.1 OCEANIS 37.1 OCEANIS 38.1 OCEANIS YACHT 60 Oceanis 34.1 Oceanis 40.1 Oceanis 47 Oceanis 52 BALI 3.8 - CATSMART BALI 4.2 BALI 4.4 BALI 4.6 BALI 4.8 BALI 5.2 BALI 5.4 BALI CATSPACE VOILE CATANA 53 CATANA 65 OCEAN CLASS Dufour 37 Dufour 375 Dufour 38 Dufour 40 Dufour 41 Dufour 44 Dufour 48 Dufour 530 Dufour 54 Dufour 61 EXCESS 13 EXCESS 14 ALEGRIA 67 AURA 51 FP 41 Isla 40 SAMANA 59 SANYA 57 TANNA 47 Hanse 360 Hanse 388 Hanse 410 Hanse 510 Hanse 588 Hanse 590 JEANNEAU YACHT 60 Jeanneau Yacht 55 SUN ODYSSEY 32 SUN ODYSSEY 350 SUN ODYSSEY 380 SUN ODYSSEY 410 Sun Odyssey 415 Sun Odyssey 455 LAGOON 38 LAGOON 43 LAGOON 55 LAGOON 620 NEO LAGOON SIXTY 5 Lagoon 60 Boat brand Boat model Model year / version (optional) Not listed Not listed? Skip or enter manually Back Back No matches found Unfortunately we could not find any engines matching your input. Please feel free to contact us so that we can help you find a solution. Back Back Contact me Submit your configuration and YMI will get in touch with you First name * Last name * Email * Country * Select your country... Afghanistan Åland Islands Albania Algeria American Samoa Andorra Angola Anguilla Antarctica Antigua and Barbuda Argentina Armenia Aruba Australia Austria Azerbaijan Bahamas Bahrain Bangladesh Barbados Belarus Belgium Belize Benin Bermuda Bhutan Bolivia, Plurinational State of Bonaire, Sint Eustatius and Saba Bosnia and Herzegovina Botswana Bouvet Island Brazil British Indian Ocean Territory Brunei Darussalam Bulgaria Burkina Faso Burundi Cabo Verde Cambodia Cameroon Canada Cayman Islands Central African Republic Chad Chile China Christmas Island Cocos (Keeling) Islands Colombia Comoros Congo Congo, the Democratic Republic of Congo Cook Islands Costa Rica Côte d'Ivoire Croatia Cuba Curaçao Cyprus Czechia Denmark Djibouti Dominica Dominican Republic Ecuador Egypt El Salvador Equatorial Guinea Eritrea Estonia Ethiopia Falkland Islands (Malvinas) Faroe Islands Fiji Finland France French Guiana French Polynesia French Southern Territories Gabon Gambia Georgia Germany Ghana Gibraltar Greece Greenland Grenada Guadeloupe Guam Guatemala Guernsey Guinea Guinea-Bissau Guyana Haiti Heard Island and McDonald Islands Holy See Honduras Hong Kong Hungary Iceland India Indonesia Iran, Islamic Republic of Iraq Ireland Isle of Man Israel Italy Jamaica Japan Jersey Jordan Kazakhstan Kenya Kiribati Korea, Democratic People's Republic of Korea, Republic of Kuwait Kyrgyzstan Lao People's Democratic Republic Latvia Lebanon Lesotho Liberia Libya Liechtenstein Lithuania Luxembourg Macao Macedonia, the former Yugoslav Republic of Madagascar Malawi Malaysia Maldives Mali Malta Marshall Islands Martinique Mauritania Mauritius Mayotte Mexico Micronesia, Federated States of Moldova, Republic of Monaco Mongolia Montenegro Montserrat Morocco Mozambique Myanmar Namibia Nauru Nepal Netherlands Netherlands Antilles New Caledonia New Zealand Nicaragua Niger Nigeria Niue Norfolk Island Northern Mariana Islands Norway Oman Pakistan Palau Palestine, State of Panama Papua New Guinea Paraguay Peru Philippines Pitcairn Poland Portugal Puerto Rico Qatar Réunion Romania Russian Federation Rwanda Saint Barthélemy Saint Helena, Ascension and Tristan da Cunha Saint Kitts and Nevis Saint Lucia Saint Martin (French part) Saint Pierre and Miquelon Saint Vincent and the Grenadines Samoa San Marino Sao Tome and Principe Saudi Arabia Senegal Serbia Seychelles Sierra Leone Singapore Sint Maarten (Dutch part) Slovakia Slovenia Solomon Islands Somalia South Africa South Georgia and the South Sandwich Islands South Sudan Spain Sri Lanka Sudan Suriname Svalbard and Jan Mayen Swaziland Sweden Switzerland Syrian Arab Republic Taiwan, Province of China Tajikistan Tanzania, United Republic of Thailand Timor-Leste Togo Tokelau Tonga Trinidad and Tobago Tunisia Turkey Turkmenistan Turks and Caicos Islands Tuvalu Uganda Ukraine United Arab Emirates United Kingdom of Great Britain and Northern Ireland United States Minor Outlying Islands United States of America Uruguay Uzbekistan Vanuatu Venezuela, Bolivarian Republic of Viet Nam Virgin Islands, British Virgin Islands, U.S. Wallis and Futuna Western Sahara Yemen Zambia Zimbabwe Phone (optional) Notes to YMI (optional) Newsletter I would like to subscribe to the newsletter Consent * I have read and agree to the Privacy Policy. * Back Note: No pricing shown. Final specifications and pricing will be provided by YMI. Register your engine Skip to content Open toolbar Accessibility Tools Accessibility Tools Increase Text Increase Text Decrease Text Decrease Text Grayscale Grayscale High Contrast High Contrast Negative Contrast Negative Contrast Light Background Light Background Links Underline Links Underline Readable Font Readable Font Reset Reset",
+   "text": "Development Engineer - YANMAR Marine International Products Marine Diesel Engines GM Engine 10 mhp YM Series 15-30 mhp JH-CR Series 40-110 mhp 4LV Series 150-250 mhp 8LV Series 320-370 mhp 6LY-CR Series 400-440 mhp 6LF Series 485-550 mhp 6LT Series 500-640 mhp Electric propulsion Controls Drives Panels Gears Technology Technology for Sustainability Common Rail Technology 5x Best in Class YANMAR Global Technology Vision Certifications Powered by YANMAR Testimonials Powered by YANMAR Service Service & parts Dealer Locator Repower Register Your Engine YANMAR Warranty Frequently asked questions About Us YANMAR Marine International YANMAR Global YANMAR Group Brands News Newsletter Careers Events Contact Search Network Search term Products Marine Diesel Engines GM Engine 10 mhp YM Series 15-30 mhp JH-CR Series 40-110 mhp 4LV Series 150-250 mhp 8LV Series 320-370 mhp 6LY-CR Series 400-440 mhp 6LF Series 485-550 mhp 6LT Series 500-640 mhp Electric propulsion Controls Drives Panels Gears Technology Technology for Sustainability Common Rail Technology 5x Best in Class YANMAR Global Technology Vision Certifications Powered by YANMAR Testimonials Powered by YANMAR Service Service & parts Dealer Locator Repower Register Your Engine YANMAR Warranty Frequently asked questions About Us YANMAR Marine International YANMAR Global YANMAR Group Brands News Newsletter Careers Events Contact Yanmar Marine Current vacancies Development Engineer Development Engineer Almere, the Netherlands Fulltime Bachelor’s Degree, e.g. Electrical Engineering, Mechatronics, Automotive or another relevant study Apply Now At Yanmar, we are committed to transforming our business by 2050, focusing on sustainability across our operations, suppliers, and products. This includes pioneering environmentally friendly innovations, such as electric propulsion systems and hybrid marine technologies. Yanmar Marine International (YMI) is at the forefront of marine electrical engineering, leading the development of a hydrogen fuel cell concept boat and creating dual-fuel and fully electric propulsion systems. We aim to work closely with OEMs as electric systems integrators, advancing maritime electrification. We seek an innovative and pragmatic Development Engineer focused on developing various electrical concepts, such as electric propulsion systems. What are you going to do? As a Development Engineer at Yanmar Marine International, you’ll be part of our dynamic Development Team, where every day is challenging and different. You will develop cutting-edge electrical systems and solutions for marine applications by collaborating closely with colleagues from various departments, including sales, supply chain, service, and development engineers from Yanmar in Japan. Your work will encompass innovations and improvement projects to enhance value and quality to serve our customer’s needs. Projects awaiting your expertise include developing a fully electric propulsion system, a serial hybrid drive, and a new genset. Your main tasks and responsibilities: Conduct feasibility studies, determine requirements for new product development, and translate these into functional and technical designs, including detailed drawings and documentation; Collaborate with procurement and sales teams to find suitable components and ensure market relevance; Build prototypes, create test plans, conduct tests, and report results, ensuring thorough design validation; Participate in and organise design reviews, ensuring stakeholder communication and alignment throughout various development projects; Perform FMEA to understand and address potential failure modes of components/systems, ensuring robust and reliable designs; Engage in maintenance projects to improve products based on customer reviews. Who are we looking for? We seek a forward-thinking Development Engineer with experience at some stage of the development process — whether it’s initial concept design, prototyping, testing, or final implementation. You have a passion for electric systems and sustainable solutions, and your entrepreneurial mindset drives you to push boundaries and create impactful innovations. For you, the following statement is spot on: What good is an idea if it remains an idea? try – experiment – iterate – fail – try again – change the world You bring: Minimum Bachelor’s Degree, e.g. Electrical Engineering, Mechatronics, Automotive or another relevant study; Has relevant experience in electric drives, electric propulsion systems, or similar; Familiarity with CAN protocols and other electrical communication systems; Experience in 2D/3D CAD systems; Has a strong ability to analyze, report technical data, and maintain an overview; Exhibits hands-on approach, creativity, enthusiasm, proactivity, and eagerness to learn; Strong language skills, fluent in both spoken and written English. Work location: Your regular workplace is Almere., but hybrid working (40% home/60% office) is possible in this position. Occasional (international) travel to visit suppliers or perform field testing. What do we offer? In this position, you will be involved in exciting development processes and contribute to creating sustainable products. We offer a role in a truly international organisation that respects each individual’s culture and supports individual development. You will work in a dynamic environment where every day is different, with the freedom to take initiative and express ideas. Employee Benefits: A competitive salary that reflects your knowledge and experience. Flexible working hours and the option to work from home. A standard working week of 37.5 hours. Opportunities for training and professional development. Gym subscription and bike plan. Employee benefits plan with discounts on various products and services. Participation in company outings, sports activities, and events. Commuting allowance. 27 vacation days (+ the ability to build up time for time). 8% holiday allowance and year-end bonus based on company results. Yanmar is a leading supplier of innovative engines and technology-driven marine propulsion systems. We want to supply the world’s cleanest, most efficient, reliable, and durable products for the recreational sector – both sailboats and powerboats – and light-duty commercial applications. To keep up with this promise, we are constantly working on new developments; after all, standing still is the fastest way of moving backwards in a rapidly changing world. Are you, like me, committed to developing advanced technology for the best and most sustainable solutions? Let’s meet!If you thrive on solving complex challenges, enjoy collaborating with a driven and supportive team, and like to combine hard work with a sense of fun, this role is for you! Gideon van Dijk Sr. Manager Development & Quality Department The application process is clear and fast: Short telephone acquaintance First interview (online) (Potential) Assessment/exercise Second interview at Yanmar Job offer Let’s get started! More info? Contact Jack Denkers: +31 (0)36 2050 113 Send me an email Apply for a job \" * \" indicates required fields URL This field is for validation purposes and should be left unchanged. This field is hidden when viewing the form Job Title * Name * First Last Email * File * Accepted file types: pdf, docx, doc, Max. file size: 10 MB. Motivation Letter Accepted file types: pdf, docx, doc, Max. file size: 10 MB. Go to the homepage Facebook YouTube LinkedIn Instagram TikTok Marine Commercial Technology Certifications Service & support Dealer Locator Repower YANMAR Warranty Register Your Engine Service & parts FAQs About us YANMAR Marine International News Events Newsletter Careers YANMAR Global Quality Statement Contact Internal links YDS Order Portal YMI Support Portal YMI Media Portal Dealer Locator Request Form Select region Privacy Statement Cookie Policy Copyright YANMAR Marine International. All rights reserved. Find the right sailboat engine setup Answer a few quick questions (≈30 seconds). We’ll recommend a compatible setup and you can ask YMI to contact you. Quick & simple Complete in approximately 30 seconds Expert recommendations Get matched with compatible engine setups Shareable summary Download PDF and share your configuration Start (30 seconds) Note: No pricing shown. Requests are handled by YMI first. \" * \" indicates required fields Step 1 of 4 25% Email This field is for validation purposes and should be left unchanged. Quick boat basics Just 5 quick inputs to find your perfect engine match Length (LOA) * Length units * m ft Displacement * Displacement units * kg lbs t Engine type * Diesel Electric Onboard voltage 12V 24V Usage Cruising Racing Day sailing Charter Sail around the world Other Replacing an existing engine Replacing an existing engine Check if this is a repower project Back Boat brand & model Help us identify your boat (optional but recommended for better accuracy). Boat brand Select a brand... AMEL BAVARIA YACHTS BENETEAU CATANA DUFOUR EXCESS FOUNTAINE PAJOT HANSE JEANNEAU LAGOON Boat model Select model... Amel 50 Amel 54 C38 C46 C50 FIRST 27 FIRST 30 - 2024+ FIRST 36 First 44 OCEANIS 30.1 OCEANIS 37.1 OCEANIS 38.1 OCEANIS YACHT 60 Oceanis 34.1 Oceanis 40.1 Oceanis 47 Oceanis 52 BALI 3.8 - CATSMART BALI 4.2 BALI 4.4 BALI 4.6 BALI 4.8 BALI 5.2 BALI 5.4 BALI CATSPACE VOILE CATANA 53 CATANA 65 OCEAN CLASS Dufour 37 Dufour 375 Dufour 38 Dufour 40 Dufour 41 Dufour 44 Dufour 48 Dufour 530 Dufour 54 Dufour 61 EXCESS 13 EXCESS 14 ALEGRIA 67 AURA 51 FP 41 Isla 40 SAMANA 59 SANYA 57 TANNA 47 Hanse 360 Hanse 388 Hanse 410 Hanse 510 Hanse 588 Hanse 590 JEANNEAU YACHT 60 Jeanneau Yacht 55 SUN ODYSSEY 32 SUN ODYSSEY 350 SUN ODYSSEY 380 SUN ODYSSEY 410 Sun Odyssey 415 Sun Odyssey 455 LAGOON 38 LAGOON 43 LAGOON 55 LAGOON 620 NEO LAGOON SIXTY 5 Lagoon 60 Boat brand Boat model Model year / version (optional) Not listed Not listed? Skip or enter manually Back Back No matches found Unfortunately we could not find any engines matching your input. Please feel free to contact us so that we can help you find a solution. Back Back Contact me Submit your configuration and YMI will get in touch with you First name * Last name * Email * Country * Select your country... Afghanistan Åland Islands Albania Algeria American Samoa Andorra Angola Anguilla Antarctica Antigua and Barbuda Argentina Armenia Aruba Australia Austria Azerbaijan Bahamas Bahrain Bangladesh Barbados Belarus Belgium Belize Benin Bermuda Bhutan Bolivia, Plurinational State of Bonaire, Sint Eustatius and Saba Bosnia and Herzegovina Botswana Bouvet Island Brazil British Indian Ocean Territory Brunei Darussalam Bulgaria Burkina Faso Burundi Cabo Verde Cambodia Cameroon Canada Cayman Islands Central African Republic Chad Chile China Christmas Island Cocos (Keeling) Islands Colombia Comoros Congo Congo, the Democratic Republic of Congo Cook Islands Costa Rica Côte d'Ivoire Croatia Cuba Curaçao Cyprus Czechia Denmark Djibouti Dominica Dominican Republic Ecuador Egypt El Salvador Equatorial Guinea Eritrea Estonia Ethiopia Falkland Islands (Malvinas) Faroe Islands Fiji Finland France French Guiana French Polynesia French Southern Territories Gabon Gambia Georgia Germany Ghana Gibraltar Greece Greenland Grenada Guadeloupe Guam Guatemala Guernsey Guinea Guinea-Bissau Guyana Haiti Heard Island and McDonald Islands Holy See Honduras Hong Kong Hungary Iceland India Indonesia Iran, Islamic Republic of Iraq Ireland Isle of Man Israel Italy Jamaica Japan Jersey Jordan Kazakhstan Kenya Kiribati Korea, Democratic People's Republic of Korea, Republic of Kuwait Kyrgyzstan Lao People's Democratic Republic Latvia Lebanon Lesotho Liberia Libya Liechtenstein Lithuania Luxembourg Macao Macedonia, the former Yugoslav Republic of Madagascar Malawi Malaysia Maldives Mali Malta Marshall Islands Martinique Mauritania Mauritius Mayotte Mexico Micronesia, Federated States of Moldova, Republic of Monaco Mongolia Montenegro Montserrat Morocco Mozambique Myanmar Namibia Nauru Nepal Netherlands Netherlands Antilles New Caledonia New Zealand Nicaragua Niger Nigeria Niue Norfolk Island Northern Mariana Islands Norway Oman Pakistan Palau Palestine, State of Panama Papua New Guinea Paraguay Peru Philippines Pitcairn Poland Portugal Puerto Rico Qatar Réunion Romania Russian Federation Rwanda Saint Barthélemy Saint Helena, Ascension and Tristan da Cunha Saint Kitts and Nevis Saint Lucia Saint Martin (French part) Saint Pierre and Miquelon Saint Vincent and the Grenadines Samoa San Marino Sao Tome and Principe Saudi Arabia Senegal Serbia Seychelles Sierra Leone Singapore Sint Maarten (Dutch part) Slovakia Slovenia Solomon Islands Somalia South Africa South Georgia and the South Sandwich Islands South Sudan Spain Sri Lanka Sudan Suriname Svalbard and Jan Mayen Swaziland Sweden Switzerland Syrian Arab Republic Taiwan, Province of China Tajikistan Tanzania, United Republic of Thailand Timor-Leste Togo Tokelau Tonga Trinidad and Tobago Tunisia Turkey Turkmenistan Turks and Caicos Islands Tuvalu Uganda Ukraine United Arab Emirates United Kingdom of Great Britain and Northern Ireland United States Minor Outlying Islands United States of America Uruguay Uzbekistan Vanuatu Venezuela, Bolivarian Republic of Viet Nam Virgin Islands, British Virgin Islands, U.S. Wallis and Futuna Western Sahara Yemen Zambia Zimbabwe Phone (optional) Notes to YMI (optional) Newsletter I would like to subscribe to the newsletter Consent * I have read and agree to the Privacy Policy. * Back Note: No pricing shown. Final specifications and pricing will be provided by YMI. Register your engine Skip to content Open toolbar Accessibility Tools Accessibility Tools Increase Text Increase Text Decrease Text Decrease Text Grayscale Grayscale High Contrast High Contrast Negative Contrast Negative Contrast Light Background Light Background Links Underline Links Underline Readable Font Readable Font Reset Reset",
    "score": 34,
    "isMatch": false,
    "isEng": true,
@@ -16263,6 +16334,7 @@
    "india": false,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -16271,7 +16343,7 @@
    "location": "",
    "url": "https://www.yanmar.com/marine/careers/jobs/development-engineer/",
    "team": "",
-   "text": "Development Engineer - YANMAR Marine International Products Marine Diesel Engines GM Engine 10 mhp YM Series 15-30 mhp JH-CR Series 40-110 mhp 4LV Series 150-250 mhp 8LV Series 320-370 mhp 6LY-CR Series 400-440 mhp 6LF Series 485-550 mhp 6LT Series 500-640 mhp Electric propulsion Controls Drives Panels Gears Technology Technology for Sustainability Common Rail Technology 5x Best in Class YANMAR Global Technology Vision Certifications Powered by YANMAR Testimonials Powered by YANMAR Service Service & parts Dealer Locator Repower Register Your Engine YANMAR Warranty Frequently asked questions About Us YANMAR Marine International YANMAR Global YANMAR Group Brands News Newsletter Careers Events Contact Search Network Search term Products Marine Diesel Engines GM Engine 10 mhp YM Series 15-30 mhp JH-CR Series 40-110 mhp 4LV Series 150-250 mhp 8LV Series 320-370 mhp 6LY-CR Series 400-440 mhp 6LF Series 485-550 mhp 6LT Series 500-640 mhp Electric propulsion Controls Drives Panels Gears Technology Technology for Sustainability Common Rail Technology 5x Best in Class YANMAR Global Technology Vision Certifications Powered by YANMAR Testimonials Powered by YANMAR Service Service & parts Dealer Locator Repower Register Your Engine YANMAR Warranty Frequently asked questions About Us YANMAR Marine International YANMAR Global YANMAR Group Brands News Newsletter Careers Events Contact Yanmar Marine Current vacancies Development Engineer Development Engineer Almere, the Netherlands Fulltime Bachelor’s Degree, e.g. Electrical Engineering, Mechatronics, Automotive or another relevant study Apply Now At Yanmar, we are committed to transforming our business by 2050, focusing on sustainability across our operations, suppliers, and products. This includes pioneering environmentally friendly innovations, such as electric propulsion systems and hybrid marine technologies. Yanmar Marine International (YMI) is at the forefront of marine electrical engineering, leading the development of a hydrogen fuel cell concept boat and creating dual-fuel and fully electric propulsion systems. We aim to work closely with OEMs as electric systems integrators, advancing maritime electrification. We seek an innovative and pragmatic Development Engineer focused on developing various electrical concepts, such as electric propulsion systems. What are you going to do? As a Development Engineer at Yanmar Marine International, you’ll be part of our dynamic Development Team, where every day is challenging and different. You will develop cutting-edge electrical systems and solutions for marine applications by collaborating closely with colleagues from various departments, including sales, supply chain, service, and development engineers from Yanmar in Japan. Your work will encompass innovations and improvement projects to enhance value and quality to serve our customer’s needs. Projects awaiting your expertise include developing a fully electric propulsion system, a serial hybrid drive, and a new genset. Your main tasks and responsibilities: Conduct feasibility studies, determine requirements for new product development, and translate these into functional and technical designs, including detailed drawings and documentation; Collaborate with procurement and sales teams to find suitable components and ensure market relevance; Build prototypes, create test plans, conduct tests, and report results, ensuring thorough design validation; Participate in and organise design reviews, ensuring stakeholder communication and alignment throughout various development projects; Perform FMEA to understand and address potential failure modes of components/systems, ensuring robust and reliable designs; Engage in maintenance projects to improve products based on customer reviews. Who are we looking for? We seek a forward-thinking Development Engineer with experience at some stage of the development process — whether it’s initial concept design, prototyping, testing, or final implementation. You have a passion for electric systems and sustainable solutions, and your entrepreneurial mindset drives you to push boundaries and create impactful innovations. For you, the following statement is spot on: What good is an idea if it remains an idea? try – experiment – iterate – fail – try again – change the world You bring: Minimum Bachelor’s Degree, e.g. Electrical Engineering, Mechatronics, Automotive or another relevant study; Has relevant experience in electric drives, electric propulsion systems, or similar; Familiarity with CAN protocols and other electrical communication systems; Experience in 2D/3D CAD systems; Has a strong ability to analyze, report technical data, and maintain an overview; Exhibits hands-on approach, creativity, enthusiasm, proactivity, and eagerness to learn; Strong language skills, fluent in both spoken and written English. Work location: Your regular workplace is Almere., but hybrid working (40% home/60% office) is possible in this position. Occasional (international) travel to visit suppliers or perform field testing. What do we offer? In this position, you will be involved in exciting development processes and contribute to creating sustainable products. We offer a role in a truly international organisation that respects each individual’s culture and supports individual development. You will work in a dynamic environment where every day is different, with the freedom to take initiative and express ideas. Employee Benefits: A competitive salary that reflects your knowledge and experience. Flexible working hours and the option to work from home. A standard working week of 37.5 hours. Opportunities for training and professional development. Gym subscription and bike plan. Employee benefits plan with discounts on various products and services. Participation in company outings, sports activities, and events. Commuting allowance. 27 vacation days (+ the ability to build up time for time). 8% holiday allowance and year-end bonus based on company results. Yanmar is a leading supplier of innovative engines and technology-driven marine propulsion systems. We want to supply the world’s cleanest, most efficient, reliable, and durable products for the recreational sector – both sailboats and powerboats – and light-duty commercial applications. To keep up with this promise, we are constantly working on new developments; after all, standing still is the fastest way of moving backwards in a rapidly changing world. Are you, like me, committed to developing advanced technology for the best and most sustainable solutions? Let’s meet!If you thrive on solving complex challenges, enjoy collaborating with a driven and supportive team, and like to combine hard work with a sense of fun, this role is for you! Gideon van Dijk Sr. Manager Development & Quality Department The application process is clear and fast: Short telephone acquaintance First interview (online) (Potential) Assessment/exercise Second interview at Yanmar Job offer Let’s get started! More info? Contact Jack Denkers: +31 (0)36 2050 113 Send me an email Apply for a job \" * \" indicates required fields URL This field is for validation purposes and should be left unchanged. This field is hidden when viewing the form Job Title * Name * First Last Email * File * Accepted file types: pdf, docx, doc, Max. file size: 10 MB. Motivation Letter Accepted file types: pdf, docx, doc, Max. file size: 10 MB. Go to the homepage Facebook YouTube LinkedIn Instagram TikTok Marine Commercial Technology Certifications Service & support Dealer Locator Repower YANMAR Warranty Register Your Engine Service & parts FAQs About us YANMAR Marine International News Events Newsletter Careers YANMAR Global Quality Statement Contact Internal links YDS Order Portal YMI Support Portal YMI Media Portal Dealer Locator Request Form Select region Privacy Statement Cookie Policy Copyright YANMAR Marine International. All rights reserved. Find the right sailboat engine setup Answer a few quick questions (≈30 seconds). We’ll recommend a compatible setup and you can ask YMI to contact you. Quick & simple Complete in approximately 30 seconds Expert recommendations Get matched with compatible engine setups Shareable summary Download PDF and share your configuration Start (30 seconds) Note: No pricing shown. Requests are handled by YMI first. \" * \" indicates required fields Step 1 of 4 25% Instagram This field is for validation purposes and should be left unchanged. Quick boat basics Just 5 quick inputs to find your perfect engine match Length (LOA) * Length units * m ft Displacement * Displacement units * kg lbs t Engine type * Diesel Electric Onboard voltage 12V 24V Usage Cruising Racing Day sailing Charter Sail around the world Other Replacing an existing engine Replacing an existing engine Check if this is a repower project Back Boat brand & model Help us identify your boat (optional but recommended for better accuracy). Boat brand Select a brand... AMEL BAVARIA YACHTS BENETEAU CATANA DUFOUR EXCESS FOUNTAINE PAJOT HANSE JEANNEAU LAGOON Boat model Select model... Amel 50 Amel 54 C38 C46 C50 FIRST 27 FIRST 30 - 2024+ FIRST 36 First 44 OCEANIS 30.1 OCEANIS 37.1 OCEANIS 38.1 OCEANIS YACHT 60 Oceanis 34.1 Oceanis 40.1 Oceanis 47 Oceanis 52 BALI 3.8 - CATSMART BALI 4.2 BALI 4.4 BALI 4.6 BALI 4.8 BALI 5.2 BALI 5.4 BALI CATSPACE VOILE CATANA 53 CATANA 65 OCEAN CLASS Dufour 37 Dufour 375 Dufour 38 Dufour 40 Dufour 41 Dufour 44 Dufour 48 Dufour 530 Dufour 54 Dufour 61 EXCESS 13 EXCESS 14 ALEGRIA 67 AURA 51 FP 41 Isla 40 SAMANA 59 SANYA 57 TANNA 47 Hanse 360 Hanse 388 Hanse 410 Hanse 510 Hanse 588 Hanse 590 JEANNEAU YACHT 60 Jeanneau Yacht 55 SUN ODYSSEY 32 SUN ODYSSEY 350 SUN ODYSSEY 380 SUN ODYSSEY 410 Sun Odyssey 415 Sun Odyssey 455 LAGOON 38 LAGOON 43 LAGOON 55 LAGOON 620 NEO LAGOON SIXTY 5 Lagoon 60 Boat brand Boat model Model year / version (optional) Not listed Not listed? Skip or enter manually Back Back No matches found Unfortunately we could not find any engines matching your input. Please feel free to contact us so that we can help you find a solution. Back Back Contact me Submit your configuration and YMI will get in touch with you First name * Last name * Email * Country * Select your country... Afghanistan Åland Islands Albania Algeria American Samoa Andorra Angola Anguilla Antarctica Antigua and Barbuda Argentina Armenia Aruba Australia Austria Azerbaijan Bahamas Bahrain Bangladesh Barbados Belarus Belgium Belize Benin Bermuda Bhutan Bolivia, Plurinational State of Bonaire, Sint Eustatius and Saba Bosnia and Herzegovina Botswana Bouvet Island Brazil British Indian Ocean Territory Brunei Darussalam Bulgaria Burkina Faso Burundi Cabo Verde Cambodia Cameroon Canada Cayman Islands Central African Republic Chad Chile China Christmas Island Cocos (Keeling) Islands Colombia Comoros Congo Congo, the Democratic Republic of Congo Cook Islands Costa Rica Côte d'Ivoire Croatia Cuba Curaçao Cyprus Czechia Denmark Djibouti Dominica Dominican Republic Ecuador Egypt El Salvador Equatorial Guinea Eritrea Estonia Ethiopia Falkland Islands (Malvinas) Faroe Islands Fiji Finland France French Guiana French Polynesia French Southern Territories Gabon Gambia Georgia Germany Ghana Gibraltar Greece Greenland Grenada Guadeloupe Guam Guatemala Guernsey Guinea Guinea-Bissau Guyana Haiti Heard Island and McDonald Islands Holy See Honduras Hong Kong Hungary Iceland India Indonesia Iran, Islamic Republic of Iraq Ireland Isle of Man Israel Italy Jamaica Japan Jersey Jordan Kazakhstan Kenya Kiribati Korea, Democratic People's Republic of Korea, Republic of Kuwait Kyrgyzstan Lao People's Democratic Republic Latvia Lebanon Lesotho Liberia Libya Liechtenstein Lithuania Luxembourg Macao Macedonia, the former Yugoslav Republic of Madagascar Malawi Malaysia Maldives Mali Malta Marshall Islands Martinique Mauritania Mauritius Mayotte Mexico Micronesia, Federated States of Moldova, Republic of Monaco Mongolia Montenegro Montserrat Morocco Mozambique Myanmar Namibia Nauru Nepal Netherlands Netherlands Antilles New Caledonia New Zealand Nicaragua Niger Nigeria Niue Norfolk Island Northern Mariana Islands Norway Oman Pakistan Palau Palestine, State of Panama Papua New Guinea Paraguay Peru Philippines Pitcairn Poland Portugal Puerto Rico Qatar Réunion Romania Russian Federation Rwanda Saint Barthélemy Saint Helena, Ascension and Tristan da Cunha Saint Kitts and Nevis Saint Lucia Saint Martin (French part) Saint Pierre and Miquelon Saint Vincent and the Grenadines Samoa San Marino Sao Tome and Principe Saudi Arabia Senegal Serbia Seychelles Sierra Leone Singapore Sint Maarten (Dutch part) Slovakia Slovenia Solomon Islands Somalia South Africa South Georgia and the South Sandwich Islands South Sudan Spain Sri Lanka Sudan Suriname Svalbard and Jan Mayen Swaziland Sweden Switzerland Syrian Arab Republic Taiwan, Province of China Tajikistan Tanzania, United Republic of Thailand Timor-Leste Togo Tokelau Tonga Trinidad and Tobago Tunisia Turkey Turkmenistan Turks and Caicos Islands Tuvalu Uganda Ukraine United Arab Emirates United Kingdom of Great Britain and Northern Ireland United States Minor Outlying Islands United States of America Uruguay Uzbekistan Vanuatu Venezuela, Bolivarian Republic of Viet Nam Virgin Islands, British Virgin Islands, U.S. Wallis and Futuna Western Sahara Yemen Zambia Zimbabwe Phone (optional) Notes to YMI (optional) Newsletter I would like to subscribe to the newsletter Consent * I have read and agree to the Privacy Policy. * Back Note: No pricing shown. Final specifications and pricing will be provided by YMI. Register your engine Skip to content Open toolbar Accessibility Tools Accessibility Tools Increase Text Increase Text Decrease Text Decrease Text Grayscale Grayscale High Contrast High Contrast Negative Contrast Negative Contrast Light Background Light Background Links Underline Links Underline Readable Font Readable Font Reset Reset",
+   "text": "Development Engineer - YANMAR Marine International Products Marine Diesel Engines GM Engine 10 mhp YM Series 15-30 mhp JH-CR Series 40-110 mhp 4LV Series 150-250 mhp 8LV Series 320-370 mhp 6LY-CR Series 400-440 mhp 6LF Series 485-550 mhp 6LT Series 500-640 mhp Electric propulsion Controls Drives Panels Gears Technology Technology for Sustainability Common Rail Technology 5x Best in Class YANMAR Global Technology Vision Certifications Powered by YANMAR Testimonials Powered by YANMAR Service Service & parts Dealer Locator Repower Register Your Engine YANMAR Warranty Frequently asked questions About Us YANMAR Marine International YANMAR Global YANMAR Group Brands News Newsletter Careers Events Contact Search Network Search term Products Marine Diesel Engines GM Engine 10 mhp YM Series 15-30 mhp JH-CR Series 40-110 mhp 4LV Series 150-250 mhp 8LV Series 320-370 mhp 6LY-CR Series 400-440 mhp 6LF Series 485-550 mhp 6LT Series 500-640 mhp Electric propulsion Controls Drives Panels Gears Technology Technology for Sustainability Common Rail Technology 5x Best in Class YANMAR Global Technology Vision Certifications Powered by YANMAR Testimonials Powered by YANMAR Service Service & parts Dealer Locator Repower Register Your Engine YANMAR Warranty Frequently asked questions About Us YANMAR Marine International YANMAR Global YANMAR Group Brands News Newsletter Careers Events Contact Yanmar Marine Current vacancies Development Engineer Development Engineer Almere, the Netherlands Fulltime Bachelor’s Degree, e.g. Electrical Engineering, Mechatronics, Automotive or another relevant study Apply Now At Yanmar, we are committed to transforming our business by 2050, focusing on sustainability across our operations, suppliers, and products. This includes pioneering environmentally friendly innovations, such as electric propulsion systems and hybrid marine technologies. Yanmar Marine International (YMI) is at the forefront of marine electrical engineering, leading the development of a hydrogen fuel cell concept boat and creating dual-fuel and fully electric propulsion systems. We aim to work closely with OEMs as electric systems integrators, advancing maritime electrification. We seek an innovative and pragmatic Development Engineer focused on developing various electrical concepts, such as electric propulsion systems. What are you going to do? As a Development Engineer at Yanmar Marine International, you’ll be part of our dynamic Development Team, where every day is challenging and different. You will develop cutting-edge electrical systems and solutions for marine applications by collaborating closely with colleagues from various departments, including sales, supply chain, service, and development engineers from Yanmar in Japan. Your work will encompass innovations and improvement projects to enhance value and quality to serve our customer’s needs. Projects awaiting your expertise include developing a fully electric propulsion system, a serial hybrid drive, and a new genset. Your main tasks and responsibilities: Conduct feasibility studies, determine requirements for new product development, and translate these into functional and technical designs, including detailed drawings and documentation; Collaborate with procurement and sales teams to find suitable components and ensure market relevance; Build prototypes, create test plans, conduct tests, and report results, ensuring thorough design validation; Participate in and organise design reviews, ensuring stakeholder communication and alignment throughout various development projects; Perform FMEA to understand and address potential failure modes of components/systems, ensuring robust and reliable designs; Engage in maintenance projects to improve products based on customer reviews. Who are we looking for? We seek a forward-thinking Development Engineer with experience at some stage of the development process — whether it’s initial concept design, prototyping, testing, or final implementation. You have a passion for electric systems and sustainable solutions, and your entrepreneurial mindset drives you to push boundaries and create impactful innovations. For you, the following statement is spot on: What good is an idea if it remains an idea? try – experiment – iterate – fail – try again – change the world You bring: Minimum Bachelor’s Degree, e.g. Electrical Engineering, Mechatronics, Automotive or another relevant study; Has relevant experience in electric drives, electric propulsion systems, or similar; Familiarity with CAN protocols and other electrical communication systems; Experience in 2D/3D CAD systems; Has a strong ability to analyze, report technical data, and maintain an overview; Exhibits hands-on approach, creativity, enthusiasm, proactivity, and eagerness to learn; Strong language skills, fluent in both spoken and written English. Work location: Your regular workplace is Almere., but hybrid working (40% home/60% office) is possible in this position. Occasional (international) travel to visit suppliers or perform field testing. What do we offer? In this position, you will be involved in exciting development processes and contribute to creating sustainable products. We offer a role in a truly international organisation that respects each individual’s culture and supports individual development. You will work in a dynamic environment where every day is different, with the freedom to take initiative and express ideas. Employee Benefits: A competitive salary that reflects your knowledge and experience. Flexible working hours and the option to work from home. A standard working week of 37.5 hours. Opportunities for training and professional development. Gym subscription and bike plan. Employee benefits plan with discounts on various products and services. Participation in company outings, sports activities, and events. Commuting allowance. 27 vacation days (+ the ability to build up time for time). 8% holiday allowance and year-end bonus based on company results. Yanmar is a leading supplier of innovative engines and technology-driven marine propulsion systems. We want to supply the world’s cleanest, most efficient, reliable, and durable products for the recreational sector – both sailboats and powerboats – and light-duty commercial applications. To keep up with this promise, we are constantly working on new developments; after all, standing still is the fastest way of moving backwards in a rapidly changing world. Are you, like me, committed to developing advanced technology for the best and most sustainable solutions? Let’s meet!If you thrive on solving complex challenges, enjoy collaborating with a driven and supportive team, and like to combine hard work with a sense of fun, this role is for you! Gideon van Dijk Sr. Manager Development & Quality Department The application process is clear and fast: Short telephone acquaintance First interview (online) (Potential) Assessment/exercise Second interview at Yanmar Job offer Let’s get started! More info? Contact Jack Denkers: +31 (0)36 2050 113 Send me an email Apply for a job \" * \" indicates required fields URL This field is for validation purposes and should be left unchanged. This field is hidden when viewing the form Job Title * Name * First Last Email * File * Accepted file types: pdf, docx, doc, Max. file size: 10 MB. Motivation Letter Accepted file types: pdf, docx, doc, Max. file size: 10 MB. Go to the homepage Facebook YouTube LinkedIn Instagram TikTok Marine Commercial Technology Certifications Service & support Dealer Locator Repower YANMAR Warranty Register Your Engine Service & parts FAQs About us YANMAR Marine International News Events Newsletter Careers YANMAR Global Quality Statement Contact Internal links YDS Order Portal YMI Support Portal YMI Media Portal Dealer Locator Request Form Select region Privacy Statement Cookie Policy Copyright YANMAR Marine International. All rights reserved. Find the right sailboat engine setup Answer a few quick questions (≈30 seconds). We’ll recommend a compatible setup and you can ask YMI to contact you. Quick & simple Complete in approximately 30 seconds Expert recommendations Get matched with compatible engine setups Shareable summary Download PDF and share your configuration Start (30 seconds) Note: No pricing shown. Requests are handled by YMI first. \" * \" indicates required fields Step 1 of 4 25% Email This field is for validation purposes and should be left unchanged. Quick boat basics Just 5 quick inputs to find your perfect engine match Length (LOA) * Length units * m ft Displacement * Displacement units * kg lbs t Engine type * Diesel Electric Onboard voltage 12V 24V Usage Cruising Racing Day sailing Charter Sail around the world Other Replacing an existing engine Replacing an existing engine Check if this is a repower project Back Boat brand & model Help us identify your boat (optional but recommended for better accuracy). Boat brand Select a brand... AMEL BAVARIA YACHTS BENETEAU CATANA DUFOUR EXCESS FOUNTAINE PAJOT HANSE JEANNEAU LAGOON Boat model Select model... Amel 50 Amel 54 C38 C46 C50 FIRST 27 FIRST 30 - 2024+ FIRST 36 First 44 OCEANIS 30.1 OCEANIS 37.1 OCEANIS 38.1 OCEANIS YACHT 60 Oceanis 34.1 Oceanis 40.1 Oceanis 47 Oceanis 52 BALI 3.8 - CATSMART BALI 4.2 BALI 4.4 BALI 4.6 BALI 4.8 BALI 5.2 BALI 5.4 BALI CATSPACE VOILE CATANA 53 CATANA 65 OCEAN CLASS Dufour 37 Dufour 375 Dufour 38 Dufour 40 Dufour 41 Dufour 44 Dufour 48 Dufour 530 Dufour 54 Dufour 61 EXCESS 13 EXCESS 14 ALEGRIA 67 AURA 51 FP 41 Isla 40 SAMANA 59 SANYA 57 TANNA 47 Hanse 360 Hanse 388 Hanse 410 Hanse 510 Hanse 588 Hanse 590 JEANNEAU YACHT 60 Jeanneau Yacht 55 SUN ODYSSEY 32 SUN ODYSSEY 350 SUN ODYSSEY 380 SUN ODYSSEY 410 Sun Odyssey 415 Sun Odyssey 455 LAGOON 38 LAGOON 43 LAGOON 55 LAGOON 620 NEO LAGOON SIXTY 5 Lagoon 60 Boat brand Boat model Model year / version (optional) Not listed Not listed? Skip or enter manually Back Back No matches found Unfortunately we could not find any engines matching your input. Please feel free to contact us so that we can help you find a solution. Back Back Contact me Submit your configuration and YMI will get in touch with you First name * Last name * Email * Country * Select your country... Afghanistan Åland Islands Albania Algeria American Samoa Andorra Angola Anguilla Antarctica Antigua and Barbuda Argentina Armenia Aruba Australia Austria Azerbaijan Bahamas Bahrain Bangladesh Barbados Belarus Belgium Belize Benin Bermuda Bhutan Bolivia, Plurinational State of Bonaire, Sint Eustatius and Saba Bosnia and Herzegovina Botswana Bouvet Island Brazil British Indian Ocean Territory Brunei Darussalam Bulgaria Burkina Faso Burundi Cabo Verde Cambodia Cameroon Canada Cayman Islands Central African Republic Chad Chile China Christmas Island Cocos (Keeling) Islands Colombia Comoros Congo Congo, the Democratic Republic of Congo Cook Islands Costa Rica Côte d'Ivoire Croatia Cuba Curaçao Cyprus Czechia Denmark Djibouti Dominica Dominican Republic Ecuador Egypt El Salvador Equatorial Guinea Eritrea Estonia Ethiopia Falkland Islands (Malvinas) Faroe Islands Fiji Finland France French Guiana French Polynesia French Southern Territories Gabon Gambia Georgia Germany Ghana Gibraltar Greece Greenland Grenada Guadeloupe Guam Guatemala Guernsey Guinea Guinea-Bissau Guyana Haiti Heard Island and McDonald Islands Holy See Honduras Hong Kong Hungary Iceland India Indonesia Iran, Islamic Republic of Iraq Ireland Isle of Man Israel Italy Jamaica Japan Jersey Jordan Kazakhstan Kenya Kiribati Korea, Democratic People's Republic of Korea, Republic of Kuwait Kyrgyzstan Lao People's Democratic Republic Latvia Lebanon Lesotho Liberia Libya Liechtenstein Lithuania Luxembourg Macao Macedonia, the former Yugoslav Republic of Madagascar Malawi Malaysia Maldives Mali Malta Marshall Islands Martinique Mauritania Mauritius Mayotte Mexico Micronesia, Federated States of Moldova, Republic of Monaco Mongolia Montenegro Montserrat Morocco Mozambique Myanmar Namibia Nauru Nepal Netherlands Netherlands Antilles New Caledonia New Zealand Nicaragua Niger Nigeria Niue Norfolk Island Northern Mariana Islands Norway Oman Pakistan Palau Palestine, State of Panama Papua New Guinea Paraguay Peru Philippines Pitcairn Poland Portugal Puerto Rico Qatar Réunion Romania Russian Federation Rwanda Saint Barthélemy Saint Helena, Ascension and Tristan da Cunha Saint Kitts and Nevis Saint Lucia Saint Martin (French part) Saint Pierre and Miquelon Saint Vincent and the Grenadines Samoa San Marino Sao Tome and Principe Saudi Arabia Senegal Serbia Seychelles Sierra Leone Singapore Sint Maarten (Dutch part) Slovakia Slovenia Solomon Islands Somalia South Africa South Georgia and the South Sandwich Islands South Sudan Spain Sri Lanka Sudan Suriname Svalbard and Jan Mayen Swaziland Sweden Switzerland Syrian Arab Republic Taiwan, Province of China Tajikistan Tanzania, United Republic of Thailand Timor-Leste Togo Tokelau Tonga Trinidad and Tobago Tunisia Turkey Turkmenistan Turks and Caicos Islands Tuvalu Uganda Ukraine United Arab Emirates United Kingdom of Great Britain and Northern Ireland United States Minor Outlying Islands United States of America Uruguay Uzbekistan Vanuatu Venezuela, Bolivarian Republic of Viet Nam Virgin Islands, British Virgin Islands, U.S. Wallis and Futuna Western Sahara Yemen Zambia Zimbabwe Phone (optional) Notes to YMI (optional) Newsletter I would like to subscribe to the newsletter Consent * I have read and agree to the Privacy Policy. * Back Note: No pricing shown. Final specifications and pricing will be provided by YMI. Register your engine Skip to content Open toolbar Accessibility Tools Accessibility Tools Increase Text Increase Text Decrease Text Decrease Text Grayscale Grayscale High Contrast High Contrast Negative Contrast Negative Contrast Light Background Light Background Links Underline Links Underline Readable Font Readable Font Reset Reset",
    "score": 34,
    "isMatch": false,
    "isEng": true,
@@ -16281,6 +16353,7 @@
    "india": false,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -16300,7 +16373,7 @@
     {
      "url": "https://yanmar.com/careers",
      "status": 404,
-     "bytes": 93575
+     "bytes": 93576
     },
     {
      "url": "https://yanmar.com/career",
@@ -16320,7 +16393,7 @@
     {
      "url": "https://yanmar.com/join-our-team",
      "status": 404,
-     "bytes": 93575
+     "bytes": 93576
     },
     {
      "url": "https://yanmar.com/careers.html",
@@ -16340,7 +16413,7 @@
     {
      "url": "https://yanmar.com/current-openings",
      "status": 404,
-     "bytes": 93576
+     "bytes": 93575
     },
     {
      "url": "https://yanmar.com/",
@@ -16356,7 +16429,7 @@
     {
      "url": "https://www.yanmar.com/careers",
      "status": 404,
-     "bytes": 93575
+     "bytes": 93576
     },
     {
      "url": "https://www.yanmar.com/career",
@@ -16376,7 +16449,7 @@
     {
      "url": "https://www.yanmar.com/join-our-team",
      "status": 404,
-     "bytes": 93575
+     "bytes": 93576
     },
     {
      "url": "https://www.yanmar.com/careers.html",
@@ -16396,7 +16469,7 @@
     {
      "url": "https://www.yanmar.com/current-openings",
      "status": 404,
-     "bytes": 93576
+     "bytes": 93575
     },
     {
      "url": "https://www.yanmar.com/",
@@ -16411,7 +16484,7 @@
     {
      "url": "https://www.yanmar.com/global/career/jobs/",
      "status": 200,
-     "bytes": 93884
+     "bytes": 93883
     }
    ],
    "candidates": [
@@ -16429,7 +16502,7 @@
     "workable:yanmar -> no board"
    ]
   },
-  "ms": 17848
+  "ms": 19657
  },
  {
   "company": "Yokohama TWS",
@@ -16504,6 +16577,7 @@
    "india": false,
    "senior": true,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -16529,7 +16603,7 @@
     {
      "url": "https://yokohama-tws.com/career",
      "status": 404,
-     "bytes": 90515
+     "bytes": 90575
     }
    ],
    "candidates": [
@@ -16547,7 +16621,7 @@
     "workable:yokohamatws -> no board"
    ]
   },
-  "ms": 12689
+  "ms": 13370
  },
  {
   "company": "Yara International",
@@ -16635,7 +16709,7 @@
     "workable:yara -> no board"
    ]
   },
-  "ms": 17835
+  "ms": 18843
  },
  {
   "company": "YouGov",
@@ -16655,7 +16729,7 @@
     {
      "url": "https://jobs.yougov.com/",
      "status": 200,
-     "bytes": 2227
+     "bytes": 2226
     },
     {
      "url": "https://careers.yougov.com",
@@ -16671,7 +16745,17 @@
     {
      "url": "https://yougov.com/career",
      "status": 404,
-     "bytes": 337552
+     "bytes": 337579
+    },
+    {
+     "url": "https://yougov.com/jobs",
+     "status": 404,
+     "bytes": 337575
+    },
+    {
+     "url": "https://yougov.com/join-us",
+     "status": 200,
+     "bytes": 78614
     }
    ],
    "candidates": [
@@ -16689,7 +16773,7 @@
     "workable:yougov -> no board"
    ]
   },
-  "ms": 29507
+  "ms": 26611
  },
  {
   "company": "Yolo Group",
@@ -16838,7 +16922,7 @@
     "workable:yolo -> no board"
    ]
   },
-  "ms": 17062
+  "ms": 16953
  },
  {
   "company": "Yoti",
@@ -16926,7 +17010,7 @@
     "workable:yoti -> no board"
    ]
   },
-  "ms": 10982
+  "ms": 10331
  },
  {
   "company": "YuLife",
@@ -16962,17 +17046,17 @@
     {
      "url": "https://yulife.com/careers/",
      "status": 200,
-     "bytes": 42862
+     "bytes": 43245
     },
     {
      "url": "https://careers.yulife.com",
      "status": 200,
-     "bytes": 42862
+     "bytes": 43245
     },
     {
      "url": "https://yulife.com/careers",
      "status": 200,
-     "bytes": 42862
+     "bytes": 43245
     },
     {
      "url": "https://yulife.com/career",
@@ -17035,7 +17119,7 @@
     "workable:yulife -> no board"
    ]
   },
-  "ms": 18484
+  "ms": 17873
  },
  {
   "company": "Yordex",
@@ -17179,7 +17263,7 @@
     "workable:yordex -> no board"
    ]
   },
-  "ms": 13629
+  "ms": 13688
  },
  {
   "company": "Yoyo Wallet",
@@ -17268,6 +17352,7 @@
    "india": false,
    "senior": false,
    "junior": true,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -17287,6 +17372,7 @@
    "india": false,
    "senior": true,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -17437,7 +17523,7 @@
     "workable:yoyowallet -> no board"
    ]
   },
-  "ms": 24886
+  "ms": 26669
  },
  {
   "company": "Yourgene Health",
@@ -17596,7 +17682,7 @@
     "workable:yourgenehealth -> no board"
    ]
   },
-  "ms": 37691
+  "ms": 51185
  },
  {
   "company": "Younited",
@@ -17715,6 +17801,7 @@
    "india": false,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -17846,7 +17933,7 @@
     "lever:younited -> 6 jobs (guess, name-verified)"
    ]
   },
-  "ms": 8886
+  "ms": 4040
  },
  {
   "company": "Youtrust (formerly Yousign)",
@@ -17905,6 +17992,7 @@
    "india": false,
    "senior": false,
    "junior": true,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -17984,7 +18072,7 @@
     "skip off-domain https://www.welcometothejungle.com"
    ]
   },
-  "ms": 14246
+  "ms": 13468
  },
  {
   "company": "Yves Rocher",
@@ -18119,6 +18207,7 @@
    "india": false,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [
     [
      3,
@@ -18146,6 +18235,7 @@
    "india": false,
    "senior": true,
    "junior": false,
+   "intern": false,
    "exp": [
     [
      5,
@@ -18206,7 +18296,7 @@
     "ashby:yubo -> 4 jobs (guess, name-verified)"
    ]
   },
-  "ms": 2910
+  "ms": 4098
  },
  {
   "company": "Ypsomed",
@@ -18253,7 +18343,7 @@
     "workable:ypsomed -> no board"
    ]
   },
-  "ms": 34709
+  "ms": 32629
  },
  {
   "company": "Yousician",
@@ -18319,7 +18409,7 @@
     {
      "url": "https://yousician.com/current-openings",
      "status": 404,
-     "bytes": 68582
+     "bytes": 68583
     },
     {
      "url": "https://yousician.com/",
@@ -18342,7 +18432,7 @@
     "workable:yousician -> no board"
    ]
   },
-  "ms": 30700
+  "ms": 35566
  },
  {
   "company": "Younium",
@@ -18416,6 +18506,7 @@
    "india": false,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [
     [
      6,
@@ -18444,6 +18535,7 @@
    "india": false,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [
     [
      6,
@@ -18534,7 +18626,7 @@
     "workable:younium -> no board"
    ]
   },
-  "ms": 9201
+  "ms": 25762
  },
  {
   "company": "Yodeck",
@@ -18894,6 +18986,7 @@
    "india": false,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -18913,6 +19006,7 @@
    "india": false,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -18994,7 +19088,7 @@
     "workable:yodeck -> no board"
    ]
   },
-  "ms": 9822
+  "ms": 13004
  },
  {
   "company": "Yopeso",
@@ -19191,6 +19285,7 @@
    "india": false,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [
     [
      3,
@@ -19219,6 +19314,7 @@
    "india": false,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [
     [
      3,
@@ -19306,7 +19402,7 @@
     "workable:yopeso -> no board"
    ]
   },
-  "ms": 17236
+  "ms": 15999
  },
  {
   "company": "Yuki",
@@ -19788,6 +19884,7 @@
    "india": false,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [
     [
      3,
@@ -19816,6 +19913,7 @@
    "india": false,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [
     [
      3,
@@ -19894,7 +19992,7 @@
     "workable:yuki -> no board"
    ]
   },
-  "ms": 10158
+  "ms": 11600
  },
  {
   "company": "Yuno",
@@ -20266,21 +20364,6 @@
     ],
     "expFits2": false,
     "score": 20
-   },
-   {
-    "title": "Marketing Intern",
-    "location": "Bogota",
-    "url": "https://jobs.lever.co/yuno/6a5855ae-7f1e-44e2-af47-639724be335e",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 16
    },
    {
     "title": "Engineering Manager",
@@ -20806,6 +20889,21 @@
     ],
     "expFits2": false,
     "score": -22
+   },
+   {
+    "title": "Marketing Intern",
+    "location": "Bogota",
+    "url": "https://jobs.lever.co/yuno/6a5855ae-7f1e-44e2-af47-639724be335e",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": -36
    }
   ],
   "enriched": 1,
@@ -20826,6 +20924,7 @@
    "india": true,
    "senior": true,
    "junior": false,
+   "intern": false,
    "exp": [
     [
      5,
@@ -20853,6 +20952,7 @@
    "india": true,
    "senior": true,
    "junior": false,
+   "intern": false,
    "exp": [
     [
      5,
@@ -20920,7 +21020,7 @@
     "lever:yuno -> 43 jobs"
    ]
   },
-  "ms": 6574
+  "ms": 5424
  },
  {
   "company": "Yassir",
@@ -21024,6 +21124,7 @@
    "india": false,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -21043,6 +21144,7 @@
    "india": false,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -21085,7 +21187,7 @@
     "workable:yassir -> no board"
    ]
   },
-  "ms": 6176
+  "ms": 8203
  },
  {
   "company": "Yoco",
@@ -21178,7 +21280,7 @@
     "workable:yoco -> no board"
    ]
   },
-  "ms": 10584
+  "ms": 18109
  },
  {
   "company": "Yellow Card",
@@ -21352,6 +21454,7 @@
    "india": false,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [
     [
      3,
@@ -21382,6 +21485,7 @@
    "india": false,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [
     [
      3,
@@ -21530,7 +21634,7 @@
     "bamboohr:yellowcard -> 8 jobs"
    ]
   },
-  "ms": 5721
+  "ms": 6382
  },
  {
   "company": "Youverify",
@@ -21630,6 +21734,7 @@
    "india": false,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [
     [
      2,
@@ -21692,7 +21797,7 @@
     "workable:youverify -> no board"
    ]
   },
-  "ms": 19152
+  "ms": 15290
  },
  {
   "company": "Yalla Group",
@@ -21836,7 +21941,7 @@
     "workable:yalla -> no board"
    ]
   },
-  "ms": 7964
+  "ms": 9491
  },
  {
   "company": "Yellowfin BI",
@@ -21946,6 +22051,7 @@
    "india": false,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [
     [
      3,
@@ -21970,6 +22076,7 @@
    "india": false,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [
     [
      3,
@@ -22054,7 +22161,7 @@
     "jazzhr:idera -> 5 jobs"
    ]
   },
-  "ms": 22296
+  "ms": 21275
  },
  {
   "company": "Yodo1",
@@ -22249,6 +22356,7 @@
    "india": false,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -22268,6 +22376,7 @@
    "india": false,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -22309,7 +22418,7 @@
     "workable:yodo1 -> no board"
    ]
   },
-  "ms": 6027
+  "ms": 6293
  },
  {
   "company": "Yggdrasil Gaming",
@@ -22413,6 +22522,7 @@
    "india": false,
    "senior": true,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -22431,6 +22541,7 @@
    "india": false,
    "senior": true,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -22503,7 +22614,7 @@
     "workable:yggdrasilgaming -> no board"
    ]
   },
-  "ms": 35290
+  "ms": 48928
  },
  {
   "company": "Yandex",
@@ -22523,7 +22634,7 @@
     {
      "url": "https://yandex.com/jobs/",
      "status": 200,
-     "bytes": 688382
+     "bytes": 688408
     },
     {
      "url": "https://careers.yandex.com",
@@ -22543,7 +22654,7 @@
     {
      "url": "https://yandex.com/jobs",
      "status": 200,
-     "bytes": 688408
+     "bytes": 688378
     }
    ],
    "candidates": [
@@ -22561,7 +22672,7 @@
     "workable:yandex -> no board"
    ]
   },
-  "ms": 21651
+  "ms": 19410
  },
  {
   "company": "Yellow Pages Canada",
@@ -22617,7 +22728,7 @@
     {
      "url": "https://careers.yp.ca",
      "status": 200,
-     "bytes": 197751
+     "bytes": 197772
     },
     {
      "url": "https://yp.ca/careers",
@@ -22640,7 +22751,7 @@
     "workable:yellowpagescanada -> no board"
    ]
   },
-  "ms": 14050
+  "ms": 14244
  },
  {
   "company": "HappyCo (formerly Yuhu)",
@@ -22886,6 +22997,7 @@
    "india": false,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [
     [
      2,
@@ -22970,7 +23082,7 @@
     "lever:happyco -> 11 jobs"
    ]
   },
-  "ms": 10635
+  "ms": 8671
  },
  {
   "company": "Ynvisible Interactive",
@@ -23028,7 +23140,7 @@
     "workable:ynvisible -> no board"
    ]
   },
-  "ms": 15165
+  "ms": 16165
  },
  {
   "company": "Yaali Bizappln Solutions",
@@ -23182,7 +23294,7 @@
     "workable:yaaligroup -> no board"
    ]
   },
-  "ms": 13189
+  "ms": 14327
  },
  {
   "company": "Yagna Technologies",
@@ -23336,7 +23448,7 @@
     "workable:yagnatechnologies -> no board"
    ]
   },
-  "ms": 5655
+  "ms": 6816
  },
  {
   "company": "Yaksha",
@@ -23425,7 +23537,7 @@
     "workable:yaksha -> no board"
    ]
   },
-  "ms": 16987
+  "ms": 45979
  },
  {
   "company": "Yamuna Technologies",
@@ -23579,7 +23691,7 @@
     "workable:yamunatechnologies -> no board"
    ]
   },
-  "ms": 14116
+  "ms": 15498
  },
  {
   "company": "YantraLab",
@@ -23668,7 +23780,7 @@
     "workable:yantralab -> no board"
    ]
   },
-  "ms": 4435
+  "ms": 4246
  },
  {
   "company": "Yantrasoft",
@@ -23812,7 +23924,7 @@
     "workable:yantrasoft -> no board"
    ]
   },
-  "ms": 4188
+  "ms": 5551
  },
  {
   "company": "Yantra Technologies",
@@ -23966,7 +24078,7 @@
     "workable:yantratech -> no board"
    ]
   },
-  "ms": 7546
+  "ms": 10678
  },
  {
   "company": "Yantrik Technologies",
@@ -24076,6 +24188,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [
     [
      3,
@@ -24100,6 +24213,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [
     [
      3,
@@ -24197,7 +24311,7 @@
     "workable:yantriktechnologies -> no board"
    ]
   },
-  "ms": 21386
+  "ms": 17233
  },
  {
   "company": "Yantra Innovations",
@@ -24301,7 +24415,7 @@
     "workable:yantrainnovation -> no board"
    ]
   },
-  "ms": 14933
+  "ms": 16169
  },
  {
   "company": "Yantra AI",
@@ -24406,6 +24520,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -24425,6 +24540,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -24507,7 +24623,7 @@
     "workable:yantraai -> no board"
    ]
   },
-  "ms": 7857
+  "ms": 10378
  },
  {
   "company": "Yash Apps and Software Services",
@@ -24661,7 +24777,7 @@
     "workable:yashapps -> no board"
    ]
   },
-  "ms": 16524
+  "ms": 17303
  },
  {
   "company": "Yashaswi InfoTech",
@@ -24691,17 +24807,17 @@
     {
      "url": "https://yashaswiinfotech.com/career",
      "status": 404,
-     "bytes": 182487
+     "bytes": 182488
     },
     {
      "url": "https://yashaswiinfotech.com/jobs",
      "status": 404,
-     "bytes": 182481
+     "bytes": 182484
     },
     {
      "url": "https://yashaswiinfotech.com/join-us",
      "status": 404,
-     "bytes": 182488
+     "bytes": 182487
     },
     {
      "url": "https://yashaswiinfotech.com/join-our-team",
@@ -24711,22 +24827,22 @@
     {
      "url": "https://yashaswiinfotech.com/careers.html",
      "status": 404,
-     "bytes": 182495
+     "bytes": 182496
     },
     {
      "url": "https://yashaswiinfotech.com/company/careers",
      "status": 404,
-     "bytes": 182504
+     "bytes": 182503
     },
     {
      "url": "https://yashaswiinfotech.com/about/careers",
      "status": 404,
-     "bytes": 182500
+     "bytes": 182499
     },
     {
      "url": "https://yashaswiinfotech.com/current-openings",
      "status": 404,
-     "bytes": 182500
+     "bytes": 182499
     },
     {
      "url": "https://yashaswiinfotech.com/",
@@ -24749,7 +24865,7 @@
     "workable:yashaswiinfotech -> no board"
    ]
   },
-  "ms": 9677
+  "ms": 11489
  },
  {
   "company": "Yashaswi Technologies",
@@ -24809,6 +24925,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -24882,7 +24999,7 @@
     "workable:yashaswitechnologies -> no board"
    ]
   },
-  "ms": 4326
+  "ms": 4945
  },
  {
   "company": "Yash CompuTech",
@@ -25026,7 +25143,7 @@
     "workable:yashcomputech -> no board"
    ]
   },
-  "ms": 17299
+  "ms": 19728
  },
  {
   "company": "Yashi Consulting",
@@ -25065,8 +25182,9 @@
     },
     {
      "url": "https://yashiconsulting.com/join-us",
-     "status": 404,
-     "bytes": 583
+     "status": 0,
+     "bytes": 0,
+     "error": "fetch failed"
     },
     {
      "url": "https://yashiconsulting.com/join-our-team",
@@ -25085,8 +25203,9 @@
     },
     {
      "url": "https://yashiconsulting.com/about/careers",
-     "status": 404,
-     "bytes": 583
+     "status": 0,
+     "bytes": 0,
+     "error": "fetch failed"
     },
     {
      "url": "https://yashiconsulting.com/current-openings",
@@ -25126,9 +25245,8 @@
     },
     {
      "url": "https://www.yashiconsulting.com/join-our-team",
-     "status": 0,
-     "bytes": 0,
-     "error": "fetch failed"
+     "status": 404,
+     "bytes": 583
     },
     {
      "url": "https://www.yashiconsulting.com/careers.html",
@@ -25171,7 +25289,7 @@
     "workable:yashiconsulting -> no board"
    ]
   },
-  "ms": 20320
+  "ms": 52911
  },
  {
   "company": "Yashi Technologies",
@@ -25325,7 +25443,7 @@
     "workable:yashikatechnologies -> no board"
    ]
   },
-  "ms": 7217
+  "ms": 7704
  },
  {
   "company": "Yash Infotech",
@@ -25479,7 +25597,7 @@
     "workable:yashinfo -> no board"
    ]
   },
-  "ms": 5948
+  "ms": 6701
  },
  {
   "company": "Yash Infosolutions",
@@ -25504,37 +25622,37 @@
     {
      "url": "https://yashinfosolutions.co.in/careers",
      "status": 404,
-     "bytes": 187691
+     "bytes": 187162
     },
     {
      "url": "https://yashinfosolutions.co.in/career",
      "status": 404,
-     "bytes": 187691
+     "bytes": 187162
     },
     {
      "url": "https://yashinfosolutions.co.in/jobs",
      "status": 404,
-     "bytes": 187687
+     "bytes": 187158
     },
     {
      "url": "https://yashinfosolutions.co.in/join-us",
      "status": 404,
-     "bytes": 187691
+     "bytes": 187162
     },
     {
      "url": "https://yashinfosolutions.co.in/join-our-team",
      "status": 404,
-     "bytes": 187699
+     "bytes": 187170
     },
     {
      "url": "https://yashinfosolutions.co.in/careers.html",
      "status": 404,
-     "bytes": 187699
+     "bytes": 187170
     },
     {
      "url": "https://yashinfosolutions.co.in/company/careers",
      "status": 404,
-     "bytes": 187707
+     "bytes": 187178
     }
    ],
    "candidates": [
@@ -25552,7 +25670,7 @@
     "workable:yashinfosolutions -> no board"
    ]
   },
-  "ms": 8342
+  "ms": 8400
  },
  {
   "company": "Yash Infosystems",
@@ -25616,13 +25734,13 @@
     },
     {
      "url": "https://yashinfosystems.com/current-openings",
-     "status": 200,
-     "bytes": 56838
+     "status": 500,
+     "bytes": 2482
     },
     {
      "url": "https://yashinfosystems.com/",
-     "status": 200,
-     "bytes": 56838
+     "status": 500,
+     "bytes": 2482
     },
     {
      "url": "https://careers.www.yashinfosystems.com",
@@ -25662,18 +25780,18 @@
     },
     {
      "url": "https://www.yashinfosystems.com/company/careers",
-     "status": 200,
-     "bytes": 56838
+     "status": 500,
+     "bytes": 2482
     },
     {
      "url": "https://www.yashinfosystems.com/about/careers",
-     "status": 200,
-     "bytes": 56838
+     "status": 500,
+     "bytes": 2482
     },
     {
      "url": "https://www.yashinfosystems.com/current-openings",
-     "status": 200,
-     "bytes": 56838
+     "status": 500,
+     "bytes": 2482
     },
     {
      "url": "https://www.yashinfosystems.com/",
@@ -25696,7 +25814,7 @@
     "workable:yashinfosystems -> no board"
    ]
   },
-  "ms": 6655
+  "ms": 9732
  },
  {
   "company": "Yash Infotech Pvt Ltd",
@@ -25770,7 +25888,7 @@
     "workable:yashinfotech -> no board"
    ]
   },
-  "ms": 58542
+  "ms": 55151
  },
  {
   "company": "Yashi Labs",
@@ -25793,21 +25911,6 @@
     "exp": [],
     "expFits2": false,
     "score": 86
-   },
-   {
-    "title": "Frontend Intern",
-    "location": "",
-    "url": "https://www.yashilabs.com/career/",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 31
    },
    {
     "title": "Senior Frontend Developer",
@@ -25838,6 +25941,21 @@
     "exp": [],
     "expFits2": false,
     "score": -3
+   },
+   {
+    "title": "Frontend Intern",
+    "location": "",
+    "url": "https://www.yashilabs.com/career/",
+    "india": true,
+    "locationSaysIndia": false,
+    "hasLocation": false,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": -21
    }
   ],
   "enriched": 0,
@@ -25858,6 +25976,7 @@
     "india": true,
     "senior": false,
     "junior": true,
+    "intern": false,
     "exp": [],
     "expFits2": false
    }
@@ -25879,6 +25998,7 @@
    "india": true,
    "senior": false,
    "junior": true,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -25898,6 +26018,7 @@
    "india": true,
    "senior": false,
    "junior": true,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -26041,7 +26162,7 @@
     "workable:yashilabs -> no board"
    ]
   },
-  "ms": 5488
+  "ms": 7749
  },
  {
   "company": "Yashvi Infosys",
@@ -26094,7 +26215,7 @@
     "workable:yashviinfosys -> no board"
    ]
   },
-  "ms": 18879
+  "ms": 15710
  },
  {
   "company": "Yashvi Global",
@@ -26238,7 +26359,7 @@
     "workable:yashviglobal -> no board"
    ]
   },
-  "ms": 27466
+  "ms": 68002
  },
  {
   "company": "Yatra Labs",
@@ -26336,7 +26457,7 @@
     "workable:yatralabs -> no board"
    ]
   },
-  "ms": 7490
+  "ms": 11391
  },
  {
   "company": "Yatra Softech",
@@ -26485,7 +26606,7 @@
     "workable:yatrasoftech -> no board"
    ]
   },
-  "ms": 18595
+  "ms": 16654
  },
  {
   "company": "Yathartha Technologies",
@@ -26639,7 +26760,7 @@
     "workable:yatharthatechnologies -> no board"
    ]
   },
-  "ms": 18077
+  "ms": 17414
  },
  {
   "company": "Yashraj Software",
@@ -26744,6 +26865,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -26763,6 +26885,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -26830,7 +26953,7 @@
     "workable:yashrajsoftware -> no board"
    ]
   },
-  "ms": 35021
+  "ms": 37766
  },
  {
   "company": "Yashraj Tech",
@@ -26918,7 +27041,7 @@
     "workable:yashrajtech -> no board"
    ]
   },
-  "ms": 4935
+  "ms": 5227
  },
  {
   "company": "Yahvi Technologies",
@@ -27072,7 +27195,7 @@
     "workable:yahvitechnologies -> no board"
    ]
   },
-  "ms": 10750
+  "ms": 12015
  },
  {
   "company": "YBYTE Technologies",
@@ -27227,7 +27350,7 @@
     "workable:ybytetechnologies -> no board"
    ]
   },
-  "ms": 17514
+  "ms": 19072
  },
  {
   "company": "Ycore Technologies",
@@ -27381,7 +27504,7 @@
     "workable:ycoretechnologies -> no board"
    ]
   },
-  "ms": 4593
+  "ms": 5119
  },
  {
   "company": "Yash Computech Solutions",
@@ -27499,6 +27622,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -27552,7 +27676,7 @@
     "workable:ycsin -> no board"
    ]
   },
-  "ms": 21490
+  "ms": 21621
  },
  {
   "company": "YellowBee AI",
@@ -27696,7 +27820,7 @@
     "workable:yellowbeeai -> no board"
    ]
   },
-  "ms": 2906
+  "ms": 3119
  },
  {
   "company": "Yellowchalk",
@@ -27765,6 +27889,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [
     [
      2,
@@ -27857,7 +27982,7 @@
     "workable:yellowchalk -> no board"
    ]
   },
-  "ms": 3556
+  "ms": 3598
  },
  {
   "company": "Yellow Monkey Tech",
@@ -27986,6 +28111,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [
     [
      2,
@@ -28014,6 +28140,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [
     [
      2,
@@ -28105,7 +28232,7 @@
     "workable:yellowmonkeytech -> no board"
    ]
   },
-  "ms": 18791
+  "ms": 22445
  },
  {
   "company": "Yellow Panther",
@@ -28164,6 +28291,7 @@
    "india": true,
    "senior": true,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -28173,7 +28301,7 @@
     {
      "url": "https://yellowpanther.io/careers/",
      "status": 200,
-     "bytes": 103798
+     "bytes": 103809
     },
     {
      "url": "https://careers.yellowpanther.io",
@@ -28190,46 +28318,6 @@
      "url": "https://yellowpanther.io/career",
      "status": 404,
      "bytes": 27413
-    },
-    {
-     "url": "https://yellowpanther.io/jobs",
-     "status": 404,
-     "bytes": 27413
-    },
-    {
-     "url": "https://yellowpanther.io/join-us",
-     "status": 404,
-     "bytes": 27413
-    },
-    {
-     "url": "https://yellowpanther.io/join-our-team",
-     "status": 404,
-     "bytes": 27413
-    },
-    {
-     "url": "https://yellowpanther.io/careers.html",
-     "status": 404,
-     "bytes": 27413
-    },
-    {
-     "url": "https://yellowpanther.io/company/careers",
-     "status": 404,
-     "bytes": 27413
-    },
-    {
-     "url": "https://yellowpanther.io/about/careers",
-     "status": 404,
-     "bytes": 27413
-    },
-    {
-     "url": "https://yellowpanther.io/current-openings",
-     "status": 404,
-     "bytes": 27413
-    },
-    {
-     "url": "https://yellowpanther.io/",
-     "status": 200,
-     "bytes": 227373
     }
    ],
    "candidates": [
@@ -28247,7 +28335,7 @@
     "workable:yellowpanther -> no board"
    ]
   },
-  "ms": 7898
+  "ms": 4453
  },
  {
   "company": "Yellowspot",
@@ -28401,7 +28489,7 @@
     "workable:yellowspottech -> no board"
    ]
   },
-  "ms": 4535
+  "ms": 6154
  },
  {
   "company": "YellowSense",
@@ -28565,7 +28653,7 @@
     "workable:yellowsense -> no board"
    ]
   },
-  "ms": 4234
+  "ms": 2875
  },
  {
   "company": "YellowSphere",
@@ -28709,7 +28797,7 @@
     "workable:yellowsphere -> no board"
    ]
   },
-  "ms": 3850
+  "ms": 3832
  },
  {
   "company": "Yellow Pixel Studio",
@@ -28797,7 +28885,7 @@
     "workable:yellowpixelstudio -> no board"
    ]
   },
-  "ms": 9350
+  "ms": 19486
  },
  {
   "company": "Yellowtail Solutions",
@@ -28951,7 +29039,7 @@
     "workable:yellowtailsolutions -> no board"
    ]
   },
-  "ms": 25728
+  "ms": 25148
  },
  {
   "company": "Yew Technology",
@@ -29129,6 +29217,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -29172,7 +29261,7 @@
     "workable:yewtechnology -> no board"
    ]
   },
-  "ms": 5673
+  "ms": 6534
  },
  {
   "company": "Yesha Software",
@@ -29326,7 +29415,7 @@
     "workable:yeshasoftware -> no board"
    ]
   },
-  "ms": 16807
+  "ms": 18721
  },
  {
   "company": "Yes Infotech",
@@ -29430,6 +29519,7 @@
     "india": true,
     "senior": false,
     "junior": false,
+    "intern": false,
     "exp": [],
     "expFits2": false
    }
@@ -29450,6 +29540,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -29469,6 +29560,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -29483,7 +29575,7 @@
     {
      "url": "https://yesinfotech.in/careers",
      "status": 404,
-     "bytes": 81813
+     "bytes": 81814
     },
     {
      "url": "https://yesinfotech.in/career",
@@ -29493,7 +29585,7 @@
     {
      "url": "https://yesinfotech.in/jobs",
      "status": 404,
-     "bytes": 81811
+     "bytes": 81810
     },
     {
      "url": "https://yesinfotech.in/join-us",
@@ -29503,7 +29595,7 @@
     {
      "url": "https://yesinfotech.in/join-our-team",
      "status": 404,
-     "bytes": 81819
+     "bytes": 81820
     },
     {
      "url": "https://yesinfotech.in/careers.html",
@@ -29513,17 +29605,17 @@
     {
      "url": "https://yesinfotech.in/company/careers",
      "status": 404,
-     "bytes": 81822
+     "bytes": 81821
     },
     {
      "url": "https://yesinfotech.in/about/careers",
      "status": 404,
-     "bytes": 81820
+     "bytes": 81819
     },
     {
      "url": "https://yesinfotech.in/current-openings",
      "status": 404,
-     "bytes": 81823
+     "bytes": 81822
     },
     {
      "url": "https://yesinfotech.in/",
@@ -29546,7 +29638,7 @@
     "workable:yesinfotech -> no board"
    ]
   },
-  "ms": 5444
+  "ms": 6009
  },
  {
   "company": "YES Softech",
@@ -29690,7 +29782,7 @@
     "workable:yessoftech -> no board"
    ]
   },
-  "ms": 17708
+  "ms": 18042
  },
  {
   "company": "Yethi Consulting",
@@ -29850,13 +29942,13 @@
     "workable:yethi -> no board"
    ]
   },
-  "ms": 7892
+  "ms": 8725
  },
  {
   "company": "Yez Studio",
   "country": "India",
   "source": null,
-  "error": "timed-out",
+  "error": "no-job-data-found",
   "totalJobs": 0,
   "jobs": [],
   "enriched": 0,
@@ -29865,10 +29957,136 @@
   "closest": null,
   "closestEng": null,
   "trace": {
-   "pages": [],
-   "attempts": []
+   "pages": [
+    {
+     "url": "https://careers.yezstudio.com",
+     "status": 0,
+     "bytes": 0,
+     "error": "fetch failed"
+    },
+    {
+     "url": "https://yezstudio.com/careers",
+     "status": 404,
+     "bytes": 25032
+    },
+    {
+     "url": "https://yezstudio.com/career",
+     "status": 404,
+     "bytes": 25032
+    },
+    {
+     "url": "https://yezstudio.com/jobs",
+     "status": 404,
+     "bytes": 25032
+    },
+    {
+     "url": "https://yezstudio.com/join-us",
+     "status": 404,
+     "bytes": 25032
+    },
+    {
+     "url": "https://yezstudio.com/join-our-team",
+     "status": 404,
+     "bytes": 25032
+    },
+    {
+     "url": "https://yezstudio.com/careers.html",
+     "status": 404,
+     "bytes": 25032
+    },
+    {
+     "url": "https://yezstudio.com/company/careers",
+     "status": 404,
+     "bytes": 25032
+    },
+    {
+     "url": "https://yezstudio.com/about/careers",
+     "status": 404,
+     "bytes": 25032
+    },
+    {
+     "url": "https://yezstudio.com/current-openings",
+     "status": 404,
+     "bytes": 25032
+    },
+    {
+     "url": "https://yezstudio.com/",
+     "status": 200,
+     "bytes": 51791
+    },
+    {
+     "url": "https://careers.www.yezstudio.com",
+     "status": 0,
+     "bytes": 0,
+     "error": "fetch failed"
+    },
+    {
+     "url": "https://www.yezstudio.com/careers",
+     "status": 404,
+     "bytes": 25032
+    },
+    {
+     "url": "https://www.yezstudio.com/career",
+     "status": 404,
+     "bytes": 25032
+    },
+    {
+     "url": "https://www.yezstudio.com/jobs",
+     "status": 404,
+     "bytes": 25032
+    },
+    {
+     "url": "https://www.yezstudio.com/join-us",
+     "status": 404,
+     "bytes": 25032
+    },
+    {
+     "url": "https://www.yezstudio.com/join-our-team",
+     "status": 404,
+     "bytes": 25032
+    },
+    {
+     "url": "https://www.yezstudio.com/careers.html",
+     "status": 404,
+     "bytes": 25032
+    },
+    {
+     "url": "https://www.yezstudio.com/company/careers",
+     "status": 404,
+     "bytes": 25032
+    },
+    {
+     "url": "https://www.yezstudio.com/about/careers",
+     "status": 404,
+     "bytes": 25032
+    },
+    {
+     "url": "https://www.yezstudio.com/current-openings",
+     "status": 404,
+     "bytes": 25032
+    },
+    {
+     "url": "https://www.yezstudio.com/",
+     "status": 200,
+     "bytes": 51791
+    }
+   ],
+   "candidates": [
+    "greenhouse:yezstudio(guess)",
+    "lever:yezstudio(guess)",
+    "ashby:yezstudio(guess)",
+    "recruitee:yezstudio(guess)",
+    "workable:yezstudio(guess)"
+   ],
+   "attempts": [
+    "greenhouse:yezstudio -> no board",
+    "lever:yezstudio -> no board",
+    "ashby:yezstudio -> no board",
+    "recruitee:yezstudio -> no board",
+    "workable:yezstudio -> no board"
+   ]
   },
-  "ms": 90002
+  "ms": 78940
  },
  {
   "company": "yenDigital",
@@ -30018,6 +30236,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -30037,6 +30256,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -30119,7 +30339,7 @@
     "workable:yendigital -> no board"
    ]
   },
-  "ms": 12042
+  "ms": 12932
  },
  {
   "company": "Yenmo",
@@ -30263,7 +30483,7 @@
     "workable:yenmo -> no board"
    ]
   },
-  "ms": 5530
+  "ms": 13519
  },
  {
   "company": "Yin Solutions",
@@ -30288,52 +30508,52 @@
     {
      "url": "https://yinsolutions.com/careers",
      "status": 404,
-     "bytes": 107508
+     "bytes": 498414
     },
     {
      "url": "https://yinsolutions.com/career",
      "status": 404,
-     "bytes": 107508
+     "bytes": 498414
     },
     {
      "url": "https://yinsolutions.com/jobs",
      "status": 404,
-     "bytes": 107508
+     "bytes": 498414
     },
     {
      "url": "https://yinsolutions.com/join-us",
      "status": 404,
-     "bytes": 107508
+     "bytes": 498414
     },
     {
      "url": "https://yinsolutions.com/join-our-team",
      "status": 404,
-     "bytes": 107508
+     "bytes": 498414
     },
     {
      "url": "https://yinsolutions.com/careers.html",
      "status": 404,
-     "bytes": 107508
+     "bytes": 498414
     },
     {
      "url": "https://yinsolutions.com/company/careers",
      "status": 404,
-     "bytes": 107508
+     "bytes": 498414
     },
     {
      "url": "https://yinsolutions.com/about/careers",
      "status": 404,
-     "bytes": 107508
+     "bytes": 498414
     },
     {
      "url": "https://yinsolutions.com/current-openings",
      "status": 404,
-     "bytes": 107508
+     "bytes": 498414
     },
     {
      "url": "https://yinsolutions.com/",
      "status": 200,
-     "bytes": 238808
+     "bytes": 827748
     },
     {
      "url": "https://careers.www.yinsolutions.com",
@@ -30344,52 +30564,52 @@
     {
      "url": "https://www.yinsolutions.com/careers",
      "status": 404,
-     "bytes": 107508
+     "bytes": 498414
     },
     {
      "url": "https://www.yinsolutions.com/career",
      "status": 404,
-     "bytes": 107508
+     "bytes": 498414
     },
     {
      "url": "https://www.yinsolutions.com/jobs",
      "status": 404,
-     "bytes": 107508
+     "bytes": 498414
     },
     {
      "url": "https://www.yinsolutions.com/join-us",
      "status": 404,
-     "bytes": 107508
+     "bytes": 498414
     },
     {
      "url": "https://www.yinsolutions.com/join-our-team",
      "status": 404,
-     "bytes": 107508
+     "bytes": 498414
     },
     {
      "url": "https://www.yinsolutions.com/careers.html",
      "status": 404,
-     "bytes": 107508
+     "bytes": 498414
     },
     {
      "url": "https://www.yinsolutions.com/company/careers",
      "status": 404,
-     "bytes": 107508
+     "bytes": 498414
     },
     {
      "url": "https://www.yinsolutions.com/about/careers",
      "status": 404,
-     "bytes": 107508
+     "bytes": 498414
     },
     {
      "url": "https://www.yinsolutions.com/current-openings",
      "status": 404,
-     "bytes": 107508
+     "bytes": 498414
     },
     {
      "url": "https://www.yinsolutions.com/",
      "status": 200,
-     "bytes": 238808
+     "bytes": 827748
     }
    ],
    "candidates": [
@@ -30407,7 +30627,7 @@
     "workable:yinsolutions -> no board"
    ]
   },
-  "ms": 21557
+  "ms": 19277
  },
  {
   "company": "Yitro Global",
@@ -30567,7 +30787,7 @@
     "workable:yitro -> no board"
    ]
   },
-  "ms": 5298
+  "ms": 5370
  },
  {
   "company": "YM Global Technologies",
@@ -30641,7 +30861,7 @@
     "workable:ymgit -> no board"
    ]
   },
-  "ms": 29909
+  "ms": 25793
  },
  {
   "company": "Yobitech",
@@ -30785,7 +31005,7 @@
     "workable:yobitech -> no board"
    ]
   },
-  "ms": 2913
+  "ms": 3310
  },
  {
   "company": "YoBytech",
@@ -30873,7 +31093,7 @@
     "workable:yobytech -> no board"
    ]
   },
-  "ms": 6340
+  "ms": 7434
  },
  {
   "company": "Yocket",
@@ -30929,7 +31149,7 @@
     "workable:yocket -> no board"
    ]
   },
-  "ms": 8504
+  "ms": 8681
  },
  {
   "company": "YOCO Labs",
@@ -31083,7 +31303,7 @@
     "workable:yocolabs -> no board"
    ]
   },
-  "ms": 6993
+  "ms": 9563
  },
  {
   "company": "Yodasoft",
@@ -31166,7 +31386,7 @@
     "workable:yodasoft -> no board"
    ]
   },
-  "ms": 3510
+  "ms": 7041
  },
  {
   "company": "Yoddha Digital",
@@ -31320,7 +31540,7 @@
     "workable:yoddhadigital -> no board"
    ]
   },
-  "ms": 6640
+  "ms": 8614
  },
  {
   "company": "Yoddha Labs",
@@ -31474,7 +31694,7 @@
     "workable:yoddhalabs -> no board"
    ]
   },
-  "ms": 12425
+  "ms": 12800
  },
  {
   "company": "Yodha AI",
@@ -31618,7 +31838,7 @@
     "workable:yodhaai -> no board"
    ]
   },
-  "ms": 5198
+  "ms": 9439
  },
  {
   "company": "Yogi Innovations",
@@ -31762,7 +31982,7 @@
     "workable:yogiinnovations -> no board"
    ]
   },
-  "ms": 63867
+  "ms": 45920
  },
  {
   "company": "Yogik Solutions",
@@ -31832,7 +32052,7 @@
     {
      "url": "https://yogiksolutions.com/",
      "status": 200,
-     "bytes": 187494
+     "bytes": 187407
     },
     {
      "url": "https://careers.www.yogiksolutions.com",
@@ -31888,7 +32108,7 @@
     {
      "url": "https://www.yogiksolutions.com/",
      "status": 200,
-     "bytes": 187494
+     "bytes": 187407
     }
    ],
    "candidates": [
@@ -31916,7 +32136,7 @@
     "workable:yogiksolutions -> no board"
    ]
   },
-  "ms": 15438
+  "ms": 15350
  },
  {
   "company": "Yogi Solutions",
@@ -32070,7 +32290,7 @@
     "workable:yogisolutions -> no board"
    ]
   },
-  "ms": 5438
+  "ms": 3897
  },
  {
   "company": "Yogsoft",
@@ -32164,7 +32384,7 @@
     "workable:yogsoft -> no board"
    ]
   },
-  "ms": 69349
+  "ms": 69748
  },
  {
   "company": "Yogeshwar Technologies",
@@ -32223,21 +32443,6 @@
     "score": 57
    },
    {
-    "title": "Tata Motors Off Campus Drive 2025 – Graduate Apprentice Trainee",
-    "location": "",
-    "url": "https://yogeshwartech.com/tata-motors-off-campus-drive-2025-graduate-apprentice-trainee/",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 31
-   },
-   {
     "title": "Cognizant GenC Off Campus Drive 2025 – Apply Now !",
     "location": "",
     "url": "https://yogeshwartech.com/cognizant-genc-off-campus-drive-2025-apply-now-3/",
@@ -32281,6 +32486,21 @@
     "exp": [],
     "expFits2": false,
     "score": 19
+   },
+   {
+    "title": "Tata Motors Off Campus Drive 2025 – Graduate Apprentice Trainee",
+    "location": "",
+    "url": "https://yogeshwartech.com/tata-motors-off-campus-drive-2025-graduate-apprentice-trainee/",
+    "india": true,
+    "locationSaysIndia": false,
+    "hasLocation": false,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": -21
    }
   ],
   "enriched": 2,
@@ -32302,6 +32522,7 @@
    "india": true,
    "senior": false,
    "junior": true,
+   "intern": false,
    "exp": [
     [
      0,
@@ -32334,6 +32555,7 @@
    "india": true,
    "senior": false,
    "junior": true,
+   "intern": false,
    "exp": [
     [
      0,
@@ -32414,7 +32636,7 @@
     "workable:yogeshwartech -> no board"
    ]
   },
-  "ms": 13749
+  "ms": 14140
  },
  {
   "company": "Yoop Tech",
@@ -32558,7 +32780,7 @@
     "workable:yooptech -> no board"
    ]
   },
-  "ms": 13195
+  "ms": 14407
  },
  {
   "company": "YOptima",
@@ -32647,7 +32869,7 @@
     "workable:yoptima -> no board"
    ]
   },
-  "ms": 22691
+  "ms": 22909
  },
  {
   "company": "Yoro Technologies",
@@ -32801,7 +33023,7 @@
     "workable:yorotechnologies -> no board"
    ]
   },
-  "ms": 4618
+  "ms": 6773
  },
  {
   "company": "Yosoft Solutions",
@@ -32899,7 +33121,7 @@
     "workable:yosoftsolutions -> no board"
    ]
   },
-  "ms": 6125
+  "ms": 6995
  },
  {
   "company": "YoSoftTech",
@@ -33312,6 +33534,7 @@
     "india": true,
     "senior": false,
     "junior": false,
+    "intern": false,
     "exp": [
      [
       0,
@@ -33350,6 +33573,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [
     [
      0,
@@ -33386,6 +33610,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [
     [
      0,
@@ -33485,7 +33710,7 @@
     "workable:yosofttech -> no board"
    ]
   },
-  "ms": 2452
+  "ms": 5123
  },
  {
   "company": "YOTECH Code Craft",
@@ -33583,7 +33808,7 @@
     "workable:yotech -> no board"
    ]
   },
-  "ms": 12351
+  "ms": 11063
  },
  {
   "company": "YottaLab India",
@@ -33747,7 +33972,7 @@
     "workable:yottalab -> no board"
    ]
   },
-  "ms": 7828
+  "ms": 6293
  },
  {
   "company": "YOU Broadband",
@@ -34054,7 +34279,7 @@
     "workable:youbroadband -> no board"
    ]
   },
-  "ms": 3903
+  "ms": 7207
  },
  {
   "company": "Young Web Solutions",
@@ -34117,7 +34342,7 @@
     "workable:youngwebsolutions -> no board"
    ]
   },
-  "ms": 8280
+  "ms": 10577
  },
  {
   "company": "YourDOST",
@@ -34190,7 +34415,7 @@
     "workable:yourdost -> no board"
    ]
   },
-  "ms": 4986
+  "ms": 3135
  },
  {
   "company": "YourDreamTech",
@@ -34320,6 +34545,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [
     [
      2,
@@ -34344,6 +34570,7 @@
    "india": true,
    "senior": true,
    "junior": false,
+   "intern": false,
    "exp": [
     [
      3,
@@ -34396,7 +34623,7 @@
     "workable:yourdreamtech -> no board"
    ]
   },
-  "ms": 6503
+  "ms": 8091
  },
  {
   "company": "YourSoft",
@@ -34540,7 +34767,7 @@
     "workable:yoursoft -> no board"
    ]
   },
-  "ms": 2389
+  "ms": 2663
  },
  {
   "company": "Your Solution",
@@ -34680,6 +34907,7 @@
    "india": true,
    "senior": false,
    "junior": true,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -34699,6 +34927,7 @@
    "india": true,
    "senior": false,
    "junior": true,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -34781,7 +35010,7 @@
     "workable:yoursolution -> no board"
    ]
   },
-  "ms": 3308
+  "ms": 2761
  },
  {
   "company": "YourWayIT",
@@ -34806,47 +35035,47 @@
     {
      "url": "https://yourwayit.com/careers",
      "status": 404,
-     "bytes": 87407
+     "bytes": 731901
     },
     {
      "url": "https://yourwayit.com/career",
      "status": 404,
-     "bytes": 87407
+     "bytes": 731901
     },
     {
      "url": "https://yourwayit.com/jobs",
      "status": 404,
-     "bytes": 87407
+     "bytes": 731901
     },
     {
      "url": "https://yourwayit.com/join-us",
      "status": 404,
-     "bytes": 87407
+     "bytes": 731901
     },
     {
      "url": "https://yourwayit.com/join-our-team",
      "status": 404,
-     "bytes": 87407
+     "bytes": 731901
     },
     {
      "url": "https://yourwayit.com/careers.html",
      "status": 404,
-     "bytes": 87407
+     "bytes": 731901
     },
     {
      "url": "https://yourwayit.com/company/careers",
      "status": 404,
-     "bytes": 87407
+     "bytes": 731901
     },
     {
      "url": "https://yourwayit.com/about/careers",
      "status": 404,
-     "bytes": 87407
+     "bytes": 731901
     },
     {
      "url": "https://yourwayit.com/current-openings",
      "status": 404,
-     "bytes": 87407
+     "bytes": 731901
     },
     {
      "url": "https://yourwayit.com/",
@@ -34862,47 +35091,47 @@
     {
      "url": "https://www.yourwayit.com/careers",
      "status": 404,
-     "bytes": 87407
+     "bytes": 731901
     },
     {
      "url": "https://www.yourwayit.com/career",
      "status": 404,
-     "bytes": 87407
+     "bytes": 731901
     },
     {
      "url": "https://www.yourwayit.com/jobs",
      "status": 404,
-     "bytes": 87407
+     "bytes": 731901
     },
     {
      "url": "https://www.yourwayit.com/join-us",
      "status": 404,
-     "bytes": 87407
+     "bytes": 731901
     },
     {
      "url": "https://www.yourwayit.com/join-our-team",
      "status": 404,
-     "bytes": 87407
+     "bytes": 731901
     },
     {
      "url": "https://www.yourwayit.com/careers.html",
      "status": 404,
-     "bytes": 87407
+     "bytes": 731901
     },
     {
      "url": "https://www.yourwayit.com/company/careers",
      "status": 404,
-     "bytes": 87407
+     "bytes": 731901
     },
     {
      "url": "https://www.yourwayit.com/about/careers",
      "status": 404,
-     "bytes": 87407
+     "bytes": 731901
     },
     {
      "url": "https://www.yourwayit.com/current-openings",
      "status": 404,
-     "bytes": 87407
+     "bytes": 731901
     },
     {
      "url": "https://www.yourwayit.com/",
@@ -34925,7 +35154,7 @@
     "workable:yourwayit -> no board"
    ]
   },
-  "ms": 23050
+  "ms": 20062
  },
  {
   "company": "YouthTech Solutions",
@@ -34999,6 +35228,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -35008,7 +35238,7 @@
     {
      "url": "https://www.youthtechsolutions.com/career/",
      "status": 200,
-     "bytes": 115252
+     "bytes": 115225
     },
     {
      "url": "https://careers.youthtechsolutions.com",
@@ -35025,46 +35255,6 @@
      "url": "https://youthtechsolutions.com/career",
      "status": 200,
      "bytes": 115252
-    },
-    {
-     "url": "https://youthtechsolutions.com/jobs",
-     "status": 404,
-     "bytes": 97086
-    },
-    {
-     "url": "https://youthtechsolutions.com/join-us",
-     "status": 404,
-     "bytes": 97086
-    },
-    {
-     "url": "https://youthtechsolutions.com/join-our-team",
-     "status": 404,
-     "bytes": 97086
-    },
-    {
-     "url": "https://youthtechsolutions.com/careers.html",
-     "status": 404,
-     "bytes": 97086
-    },
-    {
-     "url": "https://youthtechsolutions.com/company/careers",
-     "status": 404,
-     "bytes": 97086
-    },
-    {
-     "url": "https://youthtechsolutions.com/about/careers",
-     "status": 404,
-     "bytes": 97086
-    },
-    {
-     "url": "https://youthtechsolutions.com/current-openings",
-     "status": 404,
-     "bytes": 97086
-    },
-    {
-     "url": "https://youthtechsolutions.com/",
-     "status": 200,
-     "bytes": 156842
     }
    ],
    "candidates": [
@@ -35092,7 +35282,7 @@
     "workable:youthtechsolutions -> no board"
    ]
   },
-  "ms": 12201
+  "ms": 8958
  },
  {
   "company": "YouTech IT Solutions",
@@ -35190,7 +35380,7 @@
     "workable:youtech -> no board"
    ]
   },
-  "ms": 41523
+  "ms": 41375
  },
  {
   "company": "YouLearn Agency",
@@ -35288,7 +35478,7 @@
     "workable:youlearn -> no board"
    ]
   },
-  "ms": 20795
+  "ms": 21136
  },
  {
   "company": "YSoft Solution",
@@ -35393,7 +35583,7 @@
     "workable:ysoftsolution -> no board"
    ]
   },
-  "ms": 15568
+  "ms": 15180
  },
  {
   "company": "Y-Tech Innovations",
@@ -35542,7 +35732,7 @@
     "workable:ytechinnovations -> no board"
    ]
   },
-  "ms": 34974
+  "ms": 35301
  },
  {
   "company": "YUDI Infotech",
@@ -35686,7 +35876,7 @@
     "workable:yudiinfotech -> no board"
    ]
   },
-  "ms": 13220
+  "ms": 13445
  },
  {
   "company": "Yuga Infotech",
@@ -35830,7 +36020,7 @@
     "workable:yugainfotech -> no board"
    ]
   },
-  "ms": 4204
+  "ms": 3030
  },
  {
   "company": "Yugam Group",
@@ -35929,7 +36119,7 @@
     "workable:yugamgroup -> no board"
    ]
   },
-  "ms": 10563
+  "ms": 10961
  },
  {
   "company": "Yugasys",
@@ -36029,7 +36219,7 @@
     "workable:yugasys -> no board"
    ]
   },
-  "ms": 10232
+  "ms": 14799
  },
  {
   "company": "Yugen.ai",
@@ -36134,6 +36324,7 @@
    "india": true,
    "senior": false,
    "junior": true,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -36153,6 +36344,7 @@
    "india": true,
    "senior": false,
    "junior": true,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -36245,7 +36437,7 @@
     "workable:yugen -> no board"
    ]
   },
-  "ms": 15632
+  "ms": 15005
  },
  {
   "company": "Yugen Digital",
@@ -36285,12 +36477,12 @@
     {
      "url": "https://yugendigital.in/join-us",
      "status": 404,
-     "bytes": 200258
+     "bytes": 200256
     },
     {
      "url": "https://yugendigital.in/join-our-team",
      "status": 404,
-     "bytes": 200258
+     "bytes": 200256
     },
     {
      "url": "https://yugendigital.in/careers.html",
@@ -36300,12 +36492,12 @@
     {
      "url": "https://yugendigital.in/company/careers",
      "status": 404,
-     "bytes": 200256
+     "bytes": 200254
     },
     {
      "url": "https://yugendigital.in/about/careers",
      "status": 404,
-     "bytes": 200258
+     "bytes": 200256
     },
     {
      "url": "https://yugendigital.in/current-openings",
@@ -36315,7 +36507,7 @@
     {
      "url": "https://yugendigital.in/",
      "status": 200,
-     "bytes": 657155
+     "bytes": 657248
     },
     {
      "url": "https://careers.www.yugendigital.in",
@@ -36341,12 +36533,12 @@
     {
      "url": "https://www.yugendigital.in/join-us",
      "status": 404,
-     "bytes": 200258
+     "bytes": 200256
     },
     {
      "url": "https://www.yugendigital.in/join-our-team",
      "status": 404,
-     "bytes": 200258
+     "bytes": 200256
     },
     {
      "url": "https://www.yugendigital.in/careers.html",
@@ -36356,12 +36548,12 @@
     {
      "url": "https://www.yugendigital.in/company/careers",
      "status": 404,
-     "bytes": 200256
+     "bytes": 200254
     },
     {
      "url": "https://www.yugendigital.in/about/careers",
      "status": 404,
-     "bytes": 200258
+     "bytes": 200256
     },
     {
      "url": "https://www.yugendigital.in/current-openings",
@@ -36371,7 +36563,7 @@
     {
      "url": "https://www.yugendigital.in/",
      "status": 200,
-     "bytes": 657155
+     "bytes": 657248
     }
    ],
    "candidates": [
@@ -36399,7 +36591,7 @@
     "workable:yugendigital -> no board"
    ]
   },
-  "ms": 19827
+  "ms": 18651
  },
  {
   "company": "Yugensys",
@@ -36543,7 +36735,7 @@
     "workable:yugensys -> no board"
    ]
   },
-  "ms": 10480
+  "ms": 11147
  },
  {
   "company": "Yugantar Infotech",
@@ -36631,7 +36823,7 @@
     "workable:yugantarinfotech -> no board"
    ]
   },
-  "ms": 5198
+  "ms": 6611
  },
  {
   "company": "YugAntar Technologies",
@@ -36785,7 +36977,7 @@
     "workable:yugantartechnologies -> no board"
    ]
   },
-  "ms": 14031
+  "ms": 15712
  },
  {
   "company": "Yug Technologies",
@@ -36935,7 +37127,7 @@
     "workable:yugtechnologies -> no board"
    ]
   },
-  "ms": 4418
+  "ms": 5330
  },
  {
   "company": "Yug Technology",
@@ -37030,6 +37222,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -37049,6 +37242,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -37131,7 +37325,7 @@
     "workable:yugtechnology -> no board"
    ]
   },
-  "ms": 5749
+  "ms": 6072
  },
  {
   "company": "Yuki Software Solutions",
@@ -37285,7 +37479,7 @@
     "workable:yukisoftware -> no board"
    ]
   },
-  "ms": 31362
+  "ms": 17288
  },
  {
   "company": "Yukon Technologies",
@@ -37494,6 +37688,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -37512,6 +37707,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -37705,7 +37901,7 @@
     "workable:yukontechnologies -> no board"
    ]
   },
-  "ms": 6954
+  "ms": 7156
  },
  {
   "company": "YuktaMedia",
@@ -37869,7 +38065,7 @@
     "workable:yuktamedia -> no board"
    ]
   },
-  "ms": 3423
+  "ms": 4744
  },
  {
   "company": "Yukta Software Solutions",
@@ -37957,7 +38153,7 @@
     "workable:yuktasoft -> no board"
    ]
   },
-  "ms": 4841
+  "ms": 6974
  },
  {
   "company": "Yukti Solutions",
@@ -38115,7 +38311,7 @@
     "workable:yuktisolutions -> no board"
    ]
   },
-  "ms": 10731
+  "ms": 10327
  },
  {
   "company": "Yukti Intelligent Systems",
@@ -38213,7 +38409,7 @@
     "workable:yuktisystems -> no board"
    ]
   },
-  "ms": 6002
+  "ms": 5655
  },
  {
   "company": "YuktiTechnology",
@@ -38357,7 +38553,7 @@
     "workable:yuktitechnology -> no board"
    ]
   },
-  "ms": 31897
+  "ms": 31293
  },
  {
   "company": "Yukti Tech Solutions",
@@ -38511,7 +38707,7 @@
     "workable:yuktitechsolutions -> no board"
    ]
   },
-  "ms": 12688
+  "ms": 12768
  },
  {
   "company": "Yukthi Labs",
@@ -38665,7 +38861,7 @@
     "workable:yukthilabs -> no board"
    ]
   },
-  "ms": 27585
+  "ms": 29154
  },
  {
   "company": "Yukthi Software",
@@ -38759,7 +38955,7 @@
     "workable:yukthi -> no board"
    ]
   },
-  "ms": 25022
+  "ms": 24687
  },
  {
   "company": "YuluWeb",
@@ -38847,7 +39043,7 @@
     "workable:yuluweb -> no board"
    ]
   },
-  "ms": 3524
+  "ms": 3437
  },
  {
   "company": "YunaCloud",
@@ -38917,7 +39113,7 @@
     {
      "url": "https://yunacloud.com/",
      "status": 200,
-     "bytes": 994196
+     "bytes": 1716496
     },
     {
      "url": "https://careers.www.yunacloud.com",
@@ -38973,7 +39169,7 @@
     {
      "url": "https://www.yunacloud.com/",
      "status": 200,
-     "bytes": 994196
+     "bytes": 1716496
     }
    ],
    "candidates": [
@@ -38991,7 +39187,7 @@
     "workable:yunacloud -> no board"
    ]
   },
-  "ms": 24788
+  "ms": 23864
  },
  {
   "company": "Yuppie Infotech",
@@ -39135,7 +39331,7 @@
     "workable:yuppieinfotech -> no board"
    ]
   },
-  "ms": 7456
+  "ms": 6669
  },
  {
   "company": "YuSa Infotech",
@@ -39155,7 +39351,7 @@
     {
      "url": "https://yusainfotech.com/careers/",
      "status": 200,
-     "bytes": 153822
+     "bytes": 154435
     },
     {
      "url": "https://careers.yusainfotech.com",
@@ -39177,41 +39373,6 @@
      "url": "https://yusainfotech.com/jobs",
      "status": 404,
      "bytes": 135727
-    },
-    {
-     "url": "https://yusainfotech.com/join-us",
-     "status": 404,
-     "bytes": 135727
-    },
-    {
-     "url": "https://yusainfotech.com/join-our-team",
-     "status": 404,
-     "bytes": 135727
-    },
-    {
-     "url": "https://yusainfotech.com/careers.html",
-     "status": 404,
-     "bytes": 135727
-    },
-    {
-     "url": "https://yusainfotech.com/company/careers",
-     "status": 200,
-     "bytes": 153822
-    },
-    {
-     "url": "https://yusainfotech.com/about/careers",
-     "status": 200,
-     "bytes": 153822
-    },
-    {
-     "url": "https://yusainfotech.com/current-openings",
-     "status": 404,
-     "bytes": 135727
-    },
-    {
-     "url": "https://yusainfotech.com/",
-     "status": 200,
-     "bytes": 182356
     }
    ],
    "candidates": [
@@ -39229,7 +39390,7 @@
     "workable:yusainfotech -> no board"
    ]
   },
-  "ms": 11679
+  "ms": 6529
  },
  {
   "company": "Yuvaan Tech",
@@ -39393,7 +39554,7 @@
     "workable:yuvaantech -> no board"
    ]
   },
-  "ms": 12360
+  "ms": 12972
  },
  {
   "company": "Yuvaan Technologies",
@@ -39512,6 +39673,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -39521,7 +39683,7 @@
     {
      "url": "https://yuvaantechnologies.com/jobs/",
      "status": 200,
-     "bytes": 126731
+     "bytes": 126736
     },
     {
      "url": "https://careers.yuvaantechnologies.com",
@@ -39542,17 +39704,7 @@
     {
      "url": "https://yuvaantechnologies.com/jobs",
      "status": 200,
-     "bytes": 126726
-    },
-    {
-     "url": "https://yuvaantechnologies.com/join-us",
-     "status": 404,
-     "bytes": 101897
-    },
-    {
-     "url": "https://yuvaantechnologies.com/join-our-team",
-     "status": 404,
-     "bytes": 101933
+     "bytes": 126718
     }
    ],
    "candidates": [
@@ -39580,7 +39732,7 @@
     "workable:yuvaantechnologies -> no board"
    ]
   },
-  "ms": 12263
+  "ms": 11828
  },
  {
   "company": "YuvApps",
@@ -39739,7 +39891,7 @@
     "workable:yuvapps -> no board"
    ]
   },
-  "ms": 8103
+  "ms": 14760
  },
  {
   "company": "Yuvasoft Technologies",
@@ -39883,7 +40035,7 @@
     "workable:yuvasoft -> no board"
    ]
   },
-  "ms": 28584
+  "ms": 29678
  },
  {
   "company": "Yuva Software",
@@ -39953,7 +40105,7 @@
     {
      "url": "https://yuvasoftware.com/",
      "status": 200,
-     "bytes": 947691
+     "bytes": 947710
     },
     {
      "url": "https://careers.www.yuvasoftware.com",
@@ -40009,7 +40161,7 @@
     {
      "url": "https://www.yuvasoftware.com/",
      "status": 200,
-     "bytes": 948068
+     "bytes": 948031
     }
    ],
    "candidates": [
@@ -40037,7 +40189,7 @@
     "workable:yuvasoftware -> no board"
    ]
   },
-  "ms": 17138
+  "ms": 19896
  },
  {
   "company": "YuvaTech Labs",
@@ -40191,7 +40343,7 @@
     "workable:yuvatechlabs -> no board"
    ]
   },
-  "ms": 13319
+  "ms": 13749
  },
  {
   "company": "Yuvatech Solutions",
@@ -40345,7 +40497,7 @@
     "workable:yuvatechsolutions -> no board"
    ]
   },
-  "ms": 14756
+  "ms": 14902
  },
  {
   "company": "Yuvi Works",
@@ -40419,6 +40571,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -40553,7 +40706,7 @@
     "workable:yuviworks -> no board"
    ]
   },
-  "ms": 4433
+  "ms": 5807
  },
  {
   "company": "YUVMEDIA",
@@ -40748,6 +40901,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -40767,6 +40921,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -40855,7 +41010,7 @@
     "workable:yuvmedia -> no board"
    ]
   },
-  "ms": 9720
+  "ms": 12243
  },
  {
   "company": "Yadu Tech Solutions",
@@ -41004,7 +41159,7 @@
     "workable:yadutech -> no board"
    ]
   },
-  "ms": 12702
+  "ms": 12500
  },
  {
   "company": "Yan IT Solutions",
@@ -41204,6 +41359,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [
     [
      1,
@@ -41228,6 +41384,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [
     [
      1,
@@ -41381,7 +41538,7 @@
     "workable:yanitsolutions -> no board"
    ]
   },
-  "ms": 9810
+  "ms": 61032
  },
  {
   "company": "Yaantra",
@@ -41525,7 +41682,7 @@
     "workable:yaantra -> no board"
    ]
   },
-  "ms": 16147
+  "ms": 17399
  },
  {
   "company": "Y-Axis Overseas Careers",
@@ -41645,6 +41802,7 @@
    "india": true,
    "senior": false,
    "junior": true,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -41700,63 +41858,23 @@
     "workable:yaxis -> no board"
    ]
   },
-  "ms": 11729
+  "ms": 10754
  },
  {
   "company": "Yashus Digital Marketing",
   "country": "India",
   "careers": "https://yashus.in/career/",
-  "source": "json-ld:https://yashus.in/career/",
+  "source": "rendered",
   "error": null,
-  "totalJobs": 8,
+  "totalJobs": 12,
   "jobs": [
    {
-    "title": "Digital Marketing Executive",
-    "location": "Pune, Maharashtra, IN",
-    "url": "https://yashus.in/career/",
+    "title": "Please check the detailed job description here – Account Manager (Digital Marketing)",
+    "location": "",
+    "url": "https://yashus.in/career/account-manager-digital-marketing/",
     "india": true,
-    "locationSaysIndia": true,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [
-     [
-      2,
-      6
-     ]
-    ],
-    "expFits2": true,
-    "score": 45
-   },
-   {
-    "title": "Graphic Designer",
-    "location": "Pune, Maharashtra, IN",
-    "url": "https://yashus.in/career/",
-    "india": true,
-    "locationSaysIndia": true,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [
-     [
-      3,
-      7
-     ]
-    ],
-    "expFits2": false,
-    "score": 27
-   },
-   {
-    "title": "Account Manager (Digital Marketing)",
-    "location": "Pune, Maharashtra, IN",
-    "url": "https://yashus.in/career/",
-    "india": true,
-    "locationSaysIndia": true,
-    "hasLocation": true,
+    "locationSaysIndia": false,
+    "hasLocation": false,
     "isEng": false,
     "java": false,
     "flutter": false,
@@ -41775,12 +41893,57 @@
     "score": 23
    },
    {
-    "title": "Motion Graphics and Video Editor",
-    "location": "Pune, Maharashtra, IN",
-    "url": "https://yashus.in/career/",
+    "title": "Inside Sales Executive",
+    "location": "",
+    "url": "https://yashus.in/career/#tab-tab-6a7485677c16b",
     "india": true,
-    "locationSaysIndia": true,
-    "hasLocation": true,
+    "locationSaysIndia": false,
+    "hasLocation": false,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 19
+   },
+   {
+    "title": "Please check the detailed job description here – Inside Sales Executive",
+    "location": "",
+    "url": "https://yashus.in/career/inside-sales-executive/",
+    "india": true,
+    "locationSaysIndia": false,
+    "hasLocation": false,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 19
+   },
+   {
+    "title": "Digital Marketing Executive",
+    "location": "",
+    "url": "https://yashus.in/career/#tab-tab-6a7485677cd43",
+    "india": true,
+    "locationSaysIndia": false,
+    "hasLocation": false,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 19
+   },
+   {
+    "title": "Please check the detailed job description here – Digital Marketing Executive",
+    "location": "",
+    "url": "https://yashus.in/career/digital-marketing-executive",
+    "india": true,
+    "locationSaysIndia": false,
+    "hasLocation": false,
     "isEng": false,
     "java": false,
     "flutter": false,
@@ -41791,11 +41954,11 @@
    },
    {
     "title": "Video Editor & Motion Designer",
-    "location": "Pune, Maharashtra, IN",
-    "url": "https://yashus.in/career/",
+    "location": "",
+    "url": "https://yashus.in/career/#tab-tab-6a7485677d246",
     "india": true,
-    "locationSaysIndia": true,
-    "hasLocation": true,
+    "locationSaysIndia": false,
+    "hasLocation": false,
     "isEng": false,
     "java": false,
     "flutter": false,
@@ -41805,12 +41968,12 @@
     "score": 19
    },
    {
-    "title": "Digital Marketing Internship",
-    "location": "Pune, Maharashtra, IN",
-    "url": "https://yashus.in/career/",
+    "title": "Graphics Designer",
+    "location": "",
+    "url": "https://yashus.in/career/#tab-tab-6a7485677d67e",
     "india": true,
-    "locationSaysIndia": true,
-    "hasLocation": true,
+    "locationSaysIndia": false,
+    "hasLocation": false,
     "isEng": false,
     "java": false,
     "flutter": false,
@@ -41820,36 +41983,12 @@
     "score": 19
    },
    {
-    "title": "Digital Marketing Manager",
-    "location": "Pune, Maharashtra, IN",
-    "url": "https://yashus.in/career/",
+    "title": "Business Development Manager for Pune, Mumbai, Thane & Aurangabad Locations",
+    "location": "",
+    "url": "https://yashus.in/career/#tab-tab-6a7485677c455",
     "india": true,
-    "locationSaysIndia": true,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": true,
-    "exp": [
-     [
-      4,
-      8
-     ],
-     [
-      4,
-      5
-     ]
-    ],
-    "expFits2": false,
-    "score": 5
-   },
-   {
-    "title": "Business Development Manager",
-    "location": "Pune, IN",
-    "url": "https://yashus.in/career/",
-    "india": true,
-    "locationSaysIndia": true,
-    "hasLocation": true,
+    "locationSaysIndia": false,
+    "hasLocation": false,
     "isEng": false,
     "java": false,
     "flutter": false,
@@ -41857,102 +41996,78 @@
     "exp": [],
     "expFits2": false,
     "score": -3
+   },
+   {
+    "title": "Please check the detailed job description here – Business Development Manager",
+    "location": "",
+    "url": "https://yashus.in/career/business-development-executive/",
+    "india": true,
+    "locationSaysIndia": false,
+    "hasLocation": false,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [],
+    "expFits2": false,
+    "score": -3
+   },
+   {
+    "title": "Digital Marketing Manager",
+    "location": "",
+    "url": "https://yashus.in/career/#tab-tab-6a7485677c727",
+    "india": true,
+    "locationSaysIndia": false,
+    "hasLocation": false,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [],
+    "expFits2": false,
+    "score": -3
+   },
+   {
+    "title": "Account Manager (Digital Marketing)",
+    "location": "",
+    "url": "https://yashus.in/career/#tab-tab-6a7485677cfcc",
+    "india": true,
+    "locationSaysIndia": false,
+    "hasLocation": false,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [],
+    "expFits2": false,
+    "score": -3
+   },
+   {
+    "title": "Intern – Motion Graphics and Video Editor",
+    "location": "",
+    "url": "https://yashus.in/career/#tab-tab-6a7485677c90f",
+    "india": true,
+    "locationSaysIndia": false,
+    "hasLocation": false,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": -21
    }
   ],
   "enriched": 0,
   "matches": [],
   "nearMatches": [],
-  "closest": {
-   "title": "Digital Marketing Executive",
-   "location": "Pune, Maharashtra, IN",
-   "url": "https://yashus.in/career/",
-   "team": "",
-   "text": "A Digital Marketing Executive plays a crucial role in the Digital Marketing & Analytics team at Yashus. Responsibilities include generating leads, lead qualification, marketing communication, building brand image, and converting leads. The role involves both online and offline promotion of digital products like websites and apps. The candidate will use digital marketing strategies, monitor and optimize campaign performance, and contribute to SEO, SEM, email/SMS marketing, and social media management. Analyzing market research to plan promotions and creative campaigns is also part of the job. Good internet and marketing knowledge is essential. Graduates can apply; relevant education/experience is a plus. Minimum 2 years of relevant digital marketing experience",
-   "score": 45,
-   "isMatch": false,
-   "isEng": false,
-   "java": false,
-   "flutter": false,
-   "android": false,
-   "india": true,
-   "senior": false,
-   "junior": false,
-   "exp": [
-    [
-     2,
-     6
-    ]
-   ],
-   "expFits2": true
-  },
+  "closest": null,
   "closestEng": null,
   "trace": {
-   "pages": [
-    {
-     "url": "https://yashus.in/career/",
-     "status": 200,
-     "bytes": 226943
-    },
-    {
-     "url": "https://careers.yashus.in",
-     "status": 0,
-     "bytes": 0,
-     "error": "fetch failed"
-    },
-    {
-     "url": "https://yashus.in/careers",
-     "status": 0,
-     "bytes": 0,
-     "error": "This operation was aborted"
-    },
-    {
-     "url": "https://yashus.in/career",
-     "status": 200,
-     "bytes": 226943
-    },
-    {
-     "url": "https://yashus.in/jobs",
-     "status": 0,
-     "bytes": 0,
-     "error": "This operation was aborted"
-    },
-    {
-     "url": "https://yashus.in/join-us",
-     "status": 404,
-     "bytes": 121324
-    },
-    {
-     "url": "https://yashus.in/join-our-team",
-     "status": 404,
-     "bytes": 121378
-    }
-   ],
-   "candidates": [
-    "greenhouse:yashusmarketing(guess)",
-    "lever:yashusmarketing(guess)",
-    "ashby:yashusmarketing(guess)",
-    "recruitee:yashusmarketing(guess)",
-    "workable:yashusmarketing(guess)",
-    "greenhouse:yashus(guess)",
-    "lever:yashus(guess)",
-    "ashby:yashus(guess)",
-    "recruitee:yashus(guess)",
-    "workable:yashus(guess)"
-   ],
-   "attempts": [
-    "greenhouse:yashusmarketing -> no board",
-    "lever:yashusmarketing -> no board",
-    "ashby:yashusmarketing -> no board",
-    "recruitee:yashusmarketing -> no board",
-    "workable:yashusmarketing -> no board",
-    "greenhouse:yashus -> no board",
-    "lever:yashus -> no board",
-    "ashby:yashus -> no board",
-    "recruitee:yashus -> no board",
-    "workable:yashus -> no board"
-   ]
+   "pages": [],
+   "attempts": []
   },
-  "ms": 82952
+  "ms": 90001
  },
  {
   "company": "Yappes",
@@ -42041,7 +42156,7 @@
     "workable:yappes -> no board"
    ]
   },
-  "ms": 3500
+  "ms": 4806
  },
  {
   "company": "Yashoda Hospitals",
@@ -42364,6 +42479,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -42373,7 +42489,7 @@
     {
      "url": "https://www.yashodahospitals.com/careers/",
      "status": 200,
-     "bytes": 392324
+     "bytes": 392328
     },
     {
      "url": "https://careers.yashodahospitals.com",
@@ -42384,12 +42500,12 @@
     {
      "url": "https://yashodahospitals.com/careers",
      "status": 200,
-     "bytes": 392141
+     "bytes": 392142
     },
     {
      "url": "https://yashodahospitals.com/career",
      "status": 404,
-     "bytes": 343341
+     "bytes": 343344
     }
    ],
    "candidates": [
@@ -42419,7 +42535,7 @@
     "workable:yashodahospitals -> no board"
    ]
   },
-  "ms": 11456
+  "ms": 12509
  },
  {
   "company": "Yamaha Motor India",
@@ -42439,7 +42555,7 @@
     {
      "url": "https://www.yamaha-motor-india.com/career-home.html",
      "status": 200,
-     "bytes": 162666
+     "bytes": 162665
     },
     {
      "url": "https://careers.yamaha-motor-india.com",
@@ -42460,32 +42576,32 @@
     {
      "url": "https://yamaha-motor-india.com/jobs",
      "status": 404,
-     "bytes": 368
+     "bytes": 367
     },
     {
      "url": "https://yamaha-motor-india.com/join-us",
      "status": 404,
-     "bytes": 370
+     "bytes": 369
     },
     {
      "url": "https://yamaha-motor-india.com/join-our-team",
      "status": 404,
-     "bytes": 370
+     "bytes": 369
     },
     {
      "url": "https://yamaha-motor-india.com/careers.html",
      "status": 404,
-     "bytes": 369
+     "bytes": 370
     },
     {
      "url": "https://yamaha-motor-india.com/company/careers",
      "status": 404,
-     "bytes": 370
+     "bytes": 371
     },
     {
      "url": "https://yamaha-motor-india.com/about/careers",
      "status": 404,
-     "bytes": 370
+     "bytes": 371
     },
     {
      "url": "https://yamaha-motor-india.com/current-openings",
@@ -42495,7 +42611,7 @@
     {
      "url": "https://yamaha-motor-india.com/",
      "status": 200,
-     "bytes": 276451
+     "bytes": 276454
     },
     {
      "url": "https://careers.www.yamaha-motor-india.com",
@@ -42506,12 +42622,12 @@
     {
      "url": "https://www.yamaha-motor-india.com/careers",
      "status": 404,
-     "bytes": 370
+     "bytes": 371
     },
     {
      "url": "https://www.yamaha-motor-india.com/career",
      "status": 200,
-     "bytes": 162667
+     "bytes": 162666
     },
     {
      "url": "https://www.yamaha-motor-india.com/jobs",
@@ -42521,7 +42637,7 @@
     {
      "url": "https://www.yamaha-motor-india.com/join-us",
      "status": 404,
-     "bytes": 367
+     "bytes": 370
     },
     {
      "url": "https://www.yamaha-motor-india.com/join-our-team",
@@ -42536,7 +42652,7 @@
     {
      "url": "https://www.yamaha-motor-india.com/company/careers",
      "status": 404,
-     "bytes": 371
+     "bytes": 370
     },
     {
      "url": "https://www.yamaha-motor-india.com/about/careers",
@@ -42546,12 +42662,12 @@
     {
      "url": "https://www.yamaha-motor-india.com/current-openings",
      "status": 404,
-     "bytes": 370
+     "bytes": 371
     },
     {
      "url": "https://www.yamaha-motor-india.com/",
      "status": 200,
-     "bytes": 276453
+     "bytes": 276454
     },
     {
      "url": "https://www.yamaha-motor-india.com/career-home.html?pageId=gptw",
@@ -42561,12 +42677,12 @@
     {
      "url": "https://www.yamaha-motor-india.com/career-home.html?pageId=registration",
      "status": 200,
-     "bytes": 162675
+     "bytes": 162674
     },
     {
      "url": "https://www.yamaha-motor-india.com/career-home.html?pageId=covid",
      "status": 200,
-     "bytes": 162668
+     "bytes": 162667
     },
     {
      "url": "https://www.yamaha-motor-india.com/career-home.html?pageId=policy",
@@ -42576,7 +42692,7 @@
     {
      "url": "https://www.yamaha-motor-india.com/career-home.html?pageId=open",
      "status": 200,
-     "bytes": 162667
+     "bytes": 162666
     }
    ],
    "candidates": [
@@ -42604,7 +42720,7 @@
     "workable:yamahamotorindia -> no board"
    ]
   },
-  "ms": 8635
+  "ms": 11426
  },
  {
   "company": "YKK India",
@@ -42698,7 +42814,7 @@
     "workable:ykkindia -> no board"
    ]
   },
-  "ms": 4503
+  "ms": 5691
  },
  {
   "company": "Yanmar India",
@@ -42852,7 +42968,7 @@
     "workable:yanmarindia -> no board"
    ]
   },
-  "ms": 4972
+  "ms": 6142
  },
  {
   "company": "Yokohama Off-Highway Tires",
@@ -43012,7 +43128,7 @@
     "workable:yokohamaoht -> no board"
    ]
   },
-  "ms": 20522
+  "ms": 22293
  },
  {
   "company": "Yellowstone Software",
@@ -43085,7 +43201,7 @@
     "workable:yellowstonesoft -> no board"
    ]
   },
-  "ms": 20319
+  "ms": 20118
  },
  {
   "company": "Yseop",
@@ -43159,7 +43275,7 @@
     "workable:yseop -> no board"
    ]
   },
-  "ms": 42289
+  "ms": 44657
  },
  {
   "company": "Yanolja",
@@ -43178,7 +43294,7 @@
     {
      "url": "https://careers.yanolja.com",
      "status": 200,
-     "bytes": 421746
+     "bytes": 421911
     },
     {
      "url": "https://yanolja.com/careers",
@@ -43221,7 +43337,7 @@
     "workable:yanolja -> no board"
    ]
   },
-  "ms": 12302
+  "ms": 15906
  },
  {
   "company": "YY Inc",
@@ -43244,115 +43360,39 @@
     },
     {
      "url": "https://yy.com/careers",
-     "status": 433,
-     "bytes": 0
+     "status": 404,
+     "bytes": 4642
     },
     {
      "url": "https://yy.com/career",
-     "status": 433,
-     "bytes": 0
+     "status": 404,
+     "bytes": 4642
     },
     {
      "url": "https://yy.com/jobs",
-     "status": 433,
-     "bytes": 0
+     "status": 404,
+     "bytes": 4642
     },
     {
      "url": "https://yy.com/join-us",
-     "status": 433,
-     "bytes": 0
+     "status": 404,
+     "bytes": 4642
     },
     {
      "url": "https://yy.com/join-our-team",
-     "status": 433,
-     "bytes": 0
+     "status": 404,
+     "bytes": 4642
     },
     {
      "url": "https://yy.com/careers.html",
-     "status": 433,
-     "bytes": 0
-    },
-    {
-     "url": "https://yy.com/company/careers",
-     "status": 433,
-     "bytes": 0
-    },
-    {
-     "url": "https://yy.com/about/careers",
-     "status": 433,
-     "bytes": 0
-    },
-    {
-     "url": "https://yy.com/current-openings",
-     "status": 433,
-     "bytes": 0
-    },
-    {
-     "url": "https://yy.com/",
-     "status": 433,
-     "bytes": 0
-    },
-    {
-     "url": "https://careers.www.yy.com",
-     "status": 0,
-     "bytes": 0,
-     "error": "fetch failed"
-    },
-    {
-     "url": "https://www.yy.com/careers",
-     "status": 433,
-     "bytes": 0
-    },
-    {
-     "url": "https://www.yy.com/career",
-     "status": 433,
-     "bytes": 0
-    },
-    {
-     "url": "https://www.yy.com/jobs",
-     "status": 433,
-     "bytes": 0
-    },
-    {
-     "url": "https://www.yy.com/join-us",
-     "status": 433,
-     "bytes": 0
-    },
-    {
-     "url": "https://www.yy.com/join-our-team",
-     "status": 433,
-     "bytes": 0
-    },
-    {
-     "url": "https://www.yy.com/careers.html",
-     "status": 433,
-     "bytes": 0
-    },
-    {
-     "url": "https://www.yy.com/company/careers",
-     "status": 433,
-     "bytes": 0
-    },
-    {
-     "url": "https://www.yy.com/about/careers",
-     "status": 433,
-     "bytes": 0
-    },
-    {
-     "url": "https://www.yy.com/current-openings",
-     "status": 433,
-     "bytes": 0
-    },
-    {
-     "url": "https://www.yy.com/",
-     "status": 433,
-     "bytes": 0
+     "status": 404,
+     "bytes": 700
     }
    ],
    "candidates": [],
    "attempts": []
   },
-  "ms": 21929
+  "ms": 35203
  },
  {
   "company": "Yeahka",
@@ -43496,7 +43536,7 @@
     "workable:yeahka -> no board"
    ]
   },
-  "ms": 16142
+  "ms": 16938
  },
  {
   "company": "Yusys Technologies",
@@ -43640,7 +43680,7 @@
     "workable:yusys -> no board"
    ]
   },
-  "ms": 26359
+  "ms": 25377
  },
  {
   "company": "Yidu Tech",
@@ -43794,7 +43834,7 @@
     "workable:yidutech -> no board"
    ]
   },
-  "ms": 23666
+  "ms": 22926
  },
  {
   "company": "Yonyou",
@@ -43938,7 +43978,7 @@
     "workable:yonyou -> no board"
    ]
   },
-  "ms": 18870
+  "ms": 19818
  },
  {
   "company": "Youdao",
@@ -44102,7 +44142,7 @@
     "workable:youdao -> no board"
    ]
   },
-  "ms": 3189
+  "ms": 4868
  },
  {
   "company": "Y Soft",
@@ -44146,6 +44186,7 @@
    "india": false,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -44225,7 +44266,7 @@
     "greenhouse:ysoft -> 1 jobs (guess, name-verified)"
    ]
   },
-  "ms": 5720
+  "ms": 19765
  },
  {
   "company": "Yapily",
@@ -44319,7 +44360,7 @@
     "recruitee:yapily -> no board"
    ]
   },
-  "ms": 17493
+  "ms": 19295
  },
  {
   "company": "Yello",
@@ -44329,21 +44370,6 @@
   "error": null,
   "totalJobs": 4,
   "jobs": [
-   {
-    "title": "National Intern Day",
-    "location": "",
-    "url": "https://yello.co/careers/",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 16
-   },
    {
     "title": "Senior Production Support Engineer II",
     "location": "",
@@ -44388,27 +44414,43 @@
     "exp": [],
     "expFits2": false,
     "score": -18
+   },
+   {
+    "title": "National Intern Day",
+    "location": "",
+    "url": "https://yello.co/careers/",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": false,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": -36
    }
   ],
   "enriched": 0,
   "matches": [],
   "nearMatches": [],
   "closest": {
-   "title": "National Intern Day",
+   "title": "Senior Production Support Engineer II",
    "location": "",
    "url": "https://yello.co/careers/",
    "team": "",
-   "text": "National Intern Day Newsroom © 2026 Yello <div class=\"elementor-element elementor-element-8ee6a04 elementor-widget elementor-widget-text-editor\" data-id=\"8ee6a04\" data-element_type=\"widget\" data-e-type=\"widget\" data-widget_type=\"te",
+   "text": "Senior Production Support Engineer II My leader has taken the time to get to know what my interests are and where I’d like to see myself, both short and long term. They have provided me with the resources and mentorship needed to get me to the next step of my career and it is a continued topic of conversation during 1:1s to ensure my personal goals are being met. <div class=\"elementor-element elementor-element-1a38b596 mt-auto e-flex e-con-boxed e-con e-child\" data-id=\"1a38b596\" data-element_type=\"container\" data-e-t",
    "_noEnrich": true,
-   "score": 16,
+   "score": 12,
    "isMatch": false,
-   "isEng": false,
+   "isEng": true,
    "java": false,
    "flutter": false,
    "android": false,
    "india": false,
-   "senior": false,
-   "junior": true,
+   "senior": true,
+   "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -44428,6 +44470,7 @@
    "india": false,
    "senior": true,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -44510,7 +44553,7 @@
     "workable:yello -> no board"
    ]
   },
-  "ms": 13438
+  "ms": 13682
  },
  {
   "company": "Yesware",
@@ -44806,6 +44849,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -44827,6 +44871,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -44901,7 +44946,7 @@
     "bamboohr:vendasta -> 17 jobs"
    ]
   },
-  "ms": 9411
+  "ms": 8592
  },
  {
   "company": "Yellowdig",
@@ -44950,7 +44995,7 @@
     {
      "url": "https://yellowdig.com/careers.html",
      "status": 404,
-     "bytes": 217511
+     "bytes": 217512
     }
    ],
    "candidates": [
@@ -44968,7 +45013,7 @@
     "workable:yellowdig -> no board"
    ]
   },
-  "ms": 27027
+  "ms": 28121
  },
  {
   "company": "Yumpu",
@@ -44993,17 +45038,17 @@
     {
      "url": "https://yumpu.com/careers",
      "status": 200,
-     "bytes": 89200
+     "bytes": 88701
     },
     {
      "url": "https://yumpu.com/career",
      "status": 200,
-     "bytes": 91408
+     "bytes": 91310
     },
     {
      "url": "https://yumpu.com/jobs",
      "status": 200,
-     "bytes": 98308
+     "bytes": 98268
     }
    ],
    "candidates": [
@@ -45021,7 +45066,7 @@
     "workable:yumpu -> no board"
    ]
   },
-  "ms": 26227
+  "ms": 27054
  },
  {
   "company": "Yoello",
@@ -45165,7 +45210,7 @@
     "workable:yoello -> no board"
    ]
   },
-  "ms": 14270
+  "ms": 16078
  },
  {
   "company": "Yobi",
@@ -45299,6 +45344,7 @@
     "india": false,
     "senior": false,
     "junior": false,
+    "intern": false,
     "exp": [],
     "expFits2": false
    },
@@ -45317,6 +45363,7 @@
     "india": false,
     "senior": false,
     "junior": false,
+    "intern": false,
     "exp": [],
     "expFits2": false
    }
@@ -45336,6 +45383,7 @@
    "india": false,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -45354,6 +45402,7 @@
    "india": false,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -45432,7 +45481,7 @@
     "ashby:yobi -> 7 jobs"
    ]
   },
-  "ms": 7640
+  "ms": 7937
  },
  {
   "company": "Ycode",
@@ -45505,7 +45554,7 @@
     "workable:ycode -> no board"
    ]
   },
-  "ms": 8754
+  "ms": 9157
  },
  {
   "company": "Yeeply",
@@ -45667,7 +45716,7 @@
     "workable:yonder -> no board"
    ]
   },
-  "ms": 2573
+  "ms": 3596
  },
  {
   "company": "Yopa",
@@ -46506,6 +46555,7 @@
    "india": false,
    "senior": false,
    "junior": true,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -46568,7 +46618,7 @@
     "workable:yopa -> no board"
    ]
   },
-  "ms": 12759
+  "ms": 13786
  },
  {
   "company": "Yugo",
@@ -46621,7 +46671,7 @@
     "workable:yugo -> no board"
    ]
   },
-  "ms": 10223
+  "ms": 11113
  },
  {
   "company": "Yazaki",
@@ -46793,7 +46843,7 @@
     "workable:yusenlogistics -> no board"
    ]
   },
-  "ms": 4058
+  "ms": 2740
  },
  {
   "company": "Yokohama Tire",
@@ -47039,6 +47089,7 @@
    "india": false,
    "senior": false,
    "junior": true,
+   "intern": false,
    "exp": [
     [
      0,
@@ -47065,6 +47116,7 @@
    "india": false,
    "senior": false,
    "junior": true,
+   "intern": false,
    "exp": [
     [
      0,
@@ -47078,7 +47130,7 @@
     {
      "url": "https://careers.yokohamatire.com",
      "status": 200,
-     "bytes": 92088
+     "bytes": 92089
     },
     {
      "url": "https://yokohamatire.com/careers",
@@ -47103,7 +47155,7 @@
     "icims:yokohamatire -> 14 jobs"
    ]
   },
-  "ms": 12368
+  "ms": 11417
  },
  {
   "company": "Yumasoft",
@@ -47247,7 +47299,7 @@
     "workable:yumasoft -> no board"
    ]
   },
-  "ms": 15508
+  "ms": 16042
  },
  {
   "company": "Yagna Labs",
@@ -47401,7 +47453,7 @@
     "workable:yagnalabs -> no board"
    ]
   },
-  "ms": 5033
+  "ms": 6457
  },
  {
   "company": "Yamuna Network",
@@ -47545,7 +47597,7 @@
     "workable:yamunanetwork -> no board"
    ]
   },
-  "ms": 21541
+  "ms": 21279
  },
  {
   "company": "Yatra Info",
@@ -47615,7 +47667,7 @@
     {
      "url": "https://yathrainfo.com/",
      "status": 200,
-     "bytes": 141302
+     "bytes": 142225
     },
     {
      "url": "https://careers.www.yathrainfo.com",
@@ -47671,7 +47723,7 @@
     {
      "url": "https://www.yathrainfo.com/",
      "status": 200,
-     "bytes": 141929
+     "bytes": 143363
     }
    ],
    "candidates": [
@@ -47699,7 +47751,7 @@
     "workable:yathrainfo -> no board"
    ]
   },
-  "ms": 18686
+  "ms": 21215
  },
  {
   "company": "Yash Global",
@@ -47762,7 +47814,7 @@
     "workable:yashglobal -> no board"
    ]
   },
-  "ms": 34020
+  "ms": 30233
  },
  {
   "company": "YumaWorks",
@@ -47780,7 +47832,7 @@
    "pages": [],
    "attempts": []
   },
-  "ms": 90002
+  "ms": 90003
  },
  {
   "company": "yes!devs",
@@ -47877,6 +47929,7 @@
    "india": false,
    "senior": true,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -47895,6 +47948,7 @@
    "india": false,
    "senior": true,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -47972,7 +48026,7 @@
     "workable:yesdevs -> no board"
    ]
   },
-  "ms": 22372
+  "ms": 22670
  },
  {
   "company": "Yardstick Technologies",
@@ -48045,7 +48099,7 @@
     "workable:yardsticktechnologies -> no board"
    ]
   },
-  "ms": 47189
+  "ms": 47156
  },
  {
   "company": "Yellowfin Digital",
@@ -48199,6 +48253,6 @@
     "workable:yellowfindigital -> no board"
    ]
   },
-  "ms": 72527
+  "ms": 74409
  }
 ]

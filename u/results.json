@@ -60,7 +60,7 @@
     "workable:uber -> no board"
    ]
   },
-  "ms": 21834
+  "ms": 19293
  },
  {
   "company": "UST Global",
@@ -204,14 +204,14 @@
     "workable:ustglobal -> no board"
    ]
   },
-  "ms": 4924
+  "ms": 5813
  },
  {
   "company": "UnitedHealth Group India",
   "country": "India",
   "source": "headings:https://careers.unitedhealthgroup.com/search-jobs",
   "error": null,
-  "totalJobs": 17,
+  "totalJobs": 21,
   "jobs": [
    {
     "title": "FDE Engineer",
@@ -242,6 +242,21 @@
     "exp": [],
     "expFits2": false,
     "score": 49
+   },
+   {
+    "title": "Senior AIML Engineer",
+    "location": "",
+    "url": "https://careers.unitedhealthgroup.com/search-jobs",
+    "india": true,
+    "locationSaysIndia": false,
+    "hasLocation": false,
+    "isEng": true,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [],
+    "expFits2": false,
+    "score": 27
    },
    {
     "title": "Account Executive",
@@ -334,7 +349,7 @@
     "score": 19
    },
    {
-    "title": "Part Time Float Pharmacy Technician",
+    "title": "Float Pharmacy Technician",
     "location": "",
     "url": "https://careers.unitedhealthgroup.com/search-jobs",
     "india": true,
@@ -349,7 +364,7 @@
     "score": 19
    },
    {
-    "title": "Infusion Pharmacy Technician",
+    "title": "Health Information Management Supervisor",
     "location": "",
     "url": "https://careers.unitedhealthgroup.com/search-jobs",
     "india": true,
@@ -364,7 +379,7 @@
     "score": 19
    },
    {
-    "title": "Claims Representative",
+    "title": "Scheduler Specialist",
     "location": "",
     "url": "https://careers.unitedhealthgroup.com/search-jobs",
     "india": true,
@@ -379,7 +394,7 @@
     "score": 19
    },
    {
-    "title": "Medical Assistant (SEIU), ENT- Atrius Health",
+    "title": "Pharmacy Technician",
     "location": "",
     "url": "https://careers.unitedhealthgroup.com/search-jobs",
     "india": true,
@@ -394,7 +409,7 @@
     "score": 19
    },
    {
-    "title": "Clinical Documentation Improvement Specialist - Hybrid- Phoenix",
+    "title": "Medical Assistant Primary Care",
     "location": "",
     "url": "https://careers.unitedhealthgroup.com/search-jobs",
     "india": true,
@@ -409,7 +424,7 @@
     "score": 19
    },
    {
-    "title": "Associate Director Labor Relations - Remote",
+    "title": "Healthcare Collection Representative - Makati",
     "location": "",
     "url": "https://careers.unitedhealthgroup.com/search-jobs",
     "india": true,
@@ -418,10 +433,25 @@
     "isEng": false,
     "java": false,
     "flutter": false,
-    "senior": true,
+    "senior": false,
     "exp": [],
     "expFits2": false,
-    "score": 9
+    "score": 19
+   },
+   {
+    "title": "Practice Support Assistant II",
+    "location": "",
+    "url": "https://careers.unitedhealthgroup.com/search-jobs",
+    "india": true,
+    "locationSaysIndia": false,
+    "hasLocation": false,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 19
    },
    {
     "title": "Lewin Group LEAD Contract",
@@ -454,7 +484,37 @@
     "score": -3
    },
    {
-    "title": "Senior Float Pharmacy Technician",
+    "title": "Patient Care Manager / Field RN",
+    "location": "",
+    "url": "https://careers.unitedhealthgroup.com/search-jobs",
+    "india": true,
+    "locationSaysIndia": false,
+    "hasLocation": false,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [],
+    "expFits2": false,
+    "score": -3
+   },
+   {
+    "title": "Patient Care Manager RN",
+    "location": "",
+    "url": "https://careers.unitedhealthgroup.com/search-jobs",
+    "india": true,
+    "locationSaysIndia": false,
+    "hasLocation": false,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [],
+    "expFits2": false,
+    "score": -3
+   },
+   {
+    "title": "Infrastructure Project Manager - Remote",
     "location": "",
     "url": "https://careers.unitedhealthgroup.com/search-jobs",
     "india": true,
@@ -488,6 +548,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -507,6 +568,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -515,7 +577,7 @@
     {
      "url": "https://careers.unitedhealthgroup.com",
      "status": 200,
-     "bytes": 8051357
+     "bytes": 8048941
     },
     {
      "url": "https://unitedhealthgroup.com/careers",
@@ -553,7 +615,7 @@
     "workable:unitedhealthgroup -> no board"
    ]
   },
-  "ms": 15522
+  "ms": 13318
  },
  {
   "company": "Udaan",
@@ -699,7 +761,7 @@
     "workable:udaan -> no board"
    ]
   },
-  "ms": 36873
+  "ms": 36613
  },
  {
   "company": "Unacademy",
@@ -749,7 +811,7 @@
     "skip off-domain https://wellfound.com"
    ]
   },
-  "ms": 6978
+  "ms": 8250
  },
  {
   "company": "Upstox",
@@ -807,6 +869,7 @@
    "india": true,
    "senior": true,
    "junior": true,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -870,7 +933,7 @@
     "workable:upstox -> no board"
    ]
   },
-  "ms": 4661
+  "ms": 6424
  },
  {
   "company": "Urban Company",
@@ -894,12 +957,17 @@
     {
      "url": "https://urbancompany.com/careers",
      "status": 404,
-     "bytes": 477563
+     "bytes": 469762
     },
     {
      "url": "https://urbancompany.com/career",
      "status": 404,
-     "bytes": 471489
+     "bytes": 469756
+    },
+    {
+     "url": "https://urbancompany.com/jobs",
+     "status": 404,
+     "bytes": 462920
     }
    ],
    "candidates": [
@@ -927,14 +995,14 @@
     "workable:urbancompany -> no board"
    ]
   },
-  "ms": 14161
+  "ms": 21672
  },
  {
   "company": "UiPath India",
   "country": "India",
   "source": "ashby:uipath",
   "error": null,
-  "totalJobs": 121,
+  "totalJobs": 120,
   "jobs": [
    {
     "title": "Software Engineer -Engineering Systems",
@@ -1534,21 +1602,6 @@
     "title": "Associate Sales Representative (Agentic AI Automation)",
     "location": "Hong Kong",
     "url": "https://jobs.ashbyhq.com/uipath/a6c2b175-d730-4774-9e8a-05c6c97b81fd",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 16
-   },
-   {
-    "title": "Presales & Solution Engineering Intern",
-    "location": "Remote-Warsaw",
-    "url": "https://jobs.ashbyhq.com/uipath/2f0694c3-0a32-43db-8cba-783d8b4632f6",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
@@ -2502,30 +2555,6 @@
     "score": 0
    },
    {
-    "title": "Acquisition Account Executive, Consumer Goods, Manufacturing, Retail & Energy",
-    "location": "Remote-Texas",
-    "url": "https://jobs.ashbyhq.com/uipath/1b6340c9-0461-42b7-9ce2-f173158e6698",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [
-     [
-      5,
-      9
-     ],
-     [
-      10,
-      14
-     ]
-    ],
-    "expFits2": false,
-    "score": 0
-   },
-   {
     "title": "UiPath Test Cloud Sales Specialist South Europe",
     "location": "Paris",
     "url": "https://jobs.ashbyhq.com/uipath/129dff57-b39f-4a9e-9195-c453a743a622",
@@ -3271,6 +3300,21 @@
     ],
     "expFits2": false,
     "score": -22
+   },
+   {
+    "title": "Presales & Solution Engineering Intern",
+    "location": "Remote-Warsaw",
+    "url": "https://jobs.ashbyhq.com/uipath/2f0694c3-0a32-43db-8cba-783d8b4632f6",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": -36
    }
   ],
   "enriched": 0,
@@ -3290,6 +3334,7 @@
     "india": false,
     "senior": false,
     "junior": false,
+    "intern": false,
     "exp": [
      [
       5,
@@ -3317,6 +3362,7 @@
     "india": false,
     "senior": false,
     "junior": false,
+    "intern": false,
     "exp": [
      [
       2,
@@ -3342,6 +3388,7 @@
     "india": false,
     "senior": false,
     "junior": false,
+    "intern": false,
     "exp": [
      [
       3,
@@ -3365,6 +3412,7 @@
     "india": false,
     "senior": false,
     "junior": false,
+    "intern": false,
     "exp": [
      [
       4,
@@ -3389,6 +3437,7 @@
    "india": false,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [
     [
      5,
@@ -3416,6 +3465,7 @@
    "india": false,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [
     [
      5,
@@ -3454,10 +3504,10 @@
     "workable:uipath(guess)"
    ],
    "attempts": [
-    "ashby:uipath -> 121 jobs"
+    "ashby:uipath -> 120 jobs"
    ]
   },
-  "ms": 3571
+  "ms": 3894
  },
  {
   "company": "Ubisoft India",
@@ -3487,22 +3537,22 @@
     {
      "url": "https://ubisoft.com/career",
      "status": 200,
-     "bytes": 600155
+     "bytes": 599710
     },
     {
      "url": "https://ubisoft.com/jobs",
      "status": 200,
-     "bytes": 600155
+     "bytes": 599710
     },
     {
      "url": "https://ubisoft.com/join-us",
      "status": 200,
-     "bytes": 600155
+     "bytes": 599710
     },
     {
      "url": "https://ubisoft.com/join-our-team",
      "status": 200,
-     "bytes": 600155
+     "bytes": 599710
     },
     {
      "url": "https://ubisoft.com/careers.html",
@@ -3512,22 +3562,22 @@
     {
      "url": "https://ubisoft.com/company/careers",
      "status": 200,
-     "bytes": 600155
+     "bytes": 599710
     },
     {
      "url": "https://ubisoft.com/about/careers",
      "status": 200,
-     "bytes": 600155
+     "bytes": 599710
     },
     {
      "url": "https://ubisoft.com/current-openings",
      "status": 200,
-     "bytes": 600155
+     "bytes": 599710
     },
     {
      "url": "https://ubisoft.com/",
      "status": 200,
-     "bytes": 600649
+     "bytes": 684710
     }
    ],
    "candidates": [
@@ -3545,7 +3595,7 @@
     "workable:ubisoft -> no board"
    ]
   },
-  "ms": 34272
+  "ms": 36239
  },
  {
   "company": "Merkle (formerly Ugam)",
@@ -3570,52 +3620,68 @@
     {
      "url": "https://merkle.com/careers",
      "status": 200,
-     "bytes": 138156
+     "bytes": 127579
     },
     {
      "url": "https://merkle.com/career",
-     "status": 404,
-     "bytes": 86172
+     "status": 200,
+     "bytes": 127579
     },
     {
      "url": "https://merkle.com/jobs",
-     "status": 404,
-     "bytes": 86172
+     "status": 200,
+     "bytes": 127579
     },
     {
      "url": "https://merkle.com/join-us",
-     "status": 404,
-     "bytes": 86172
+     "status": 200,
+     "bytes": 127579
     },
     {
      "url": "https://merkle.com/join-our-team",
-     "status": 404,
-     "bytes": 86172
+     "status": 200,
+     "bytes": 127579
     },
     {
      "url": "https://merkle.com/careers.html",
-     "status": 404,
-     "bytes": 86172
+     "status": 200,
+     "bytes": 127579
     },
     {
      "url": "https://merkle.com/company/careers",
-     "status": 404,
-     "bytes": 86172
+     "status": 200,
+     "bytes": 127579
     },
     {
      "url": "https://merkle.com/about/careers",
-     "status": 404,
-     "bytes": 86172
+     "status": 200,
+     "bytes": 127579
     },
     {
      "url": "https://merkle.com/current-openings",
-     "status": 404,
-     "bytes": 86172
+     "status": 200,
+     "bytes": 127579
     },
     {
      "url": "https://merkle.com/",
      "status": 200,
      "bytes": 127579
+    },
+    {
+     "url": "https://careers.www.merkle.com",
+     "status": 0,
+     "bytes": 0,
+     "error": "fetch failed"
+    },
+    {
+     "url": "https://www.merkle.com/careers",
+     "status": 200,
+     "bytes": 138156
+    },
+    {
+     "url": "https://www.merkle.com/career",
+     "status": 404,
+     "bytes": 86172
     }
    ],
    "candidates": [
@@ -3633,7 +3699,7 @@
     "workable:merkle -> no board"
    ]
   },
-  "ms": 22655
+  "ms": 19960
  },
  {
   "company": "Ula",
@@ -3658,12 +3724,12 @@
     {
      "url": "https://ula.app/careers",
      "status": 403,
-     "bytes": 243
+     "bytes": 263
     },
     {
      "url": "https://ula.app/career",
      "status": 403,
-     "bytes": 263
+     "bytes": 243
     },
     {
      "url": "https://ula.app/jobs",
@@ -3678,7 +3744,7 @@
     {
      "url": "https://ula.app/join-our-team",
      "status": 403,
-     "bytes": 243
+     "bytes": 263
     },
     {
      "url": "https://ula.app/careers.html",
@@ -3693,7 +3759,7 @@
     {
      "url": "https://ula.app/about/careers",
      "status": 403,
-     "bytes": 243
+     "bytes": 263
     },
     {
      "url": "https://ula.app/current-openings",
@@ -3714,7 +3780,7 @@
     {
      "url": "https://www.ula.app/careers",
      "status": 403,
-     "bytes": 243
+     "bytes": 263
     },
     {
      "url": "https://www.ula.app/career",
@@ -3749,7 +3815,7 @@
     {
      "url": "https://www.ula.app/about/careers",
      "status": 403,
-     "bytes": 243
+     "bytes": 263
     },
     {
      "url": "https://www.ula.app/current-openings",
@@ -3765,7 +3831,7 @@
    "candidates": [],
    "attempts": []
   },
-  "ms": 5001
+  "ms": 5784
  },
  {
   "company": "Unbxd",
@@ -3909,7 +3975,7 @@
     "workable:unbxd -> no board"
    ]
   },
-  "ms": 32854
+  "ms": 45563
  },
  {
   "company": "Uniphore",
@@ -4588,6 +4654,7 @@
    "india": true,
    "senior": true,
    "junior": false,
+   "intern": false,
    "exp": [
     [
      7,
@@ -4618,6 +4685,7 @@
    "india": true,
    "senior": true,
    "junior": false,
+   "intern": false,
    "exp": [
     [
      7,
@@ -4701,7 +4769,7 @@
     "workday:uniphore -> 37 jobs"
    ]
   },
-  "ms": 12089
+  "ms": 10769
  },
  {
   "company": "Unisys India",
@@ -5369,6 +5437,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [
     [
      1,
@@ -5395,6 +5464,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [
     [
      1,
@@ -5474,7 +5544,7 @@
     "workday:unisys -> 40 jobs"
    ]
   },
-  "ms": 12517
+  "ms": 13434
  },
  {
   "company": "UpGrad",
@@ -5593,6 +5663,7 @@
    "india": true,
    "senior": false,
    "junior": true,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -5632,7 +5703,7 @@
     "workable:upgrad -> no board"
    ]
   },
-  "ms": 11167
+  "ms": 13254
  },
  {
   "company": "Utthunga",
@@ -5691,6 +5762,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -5710,6 +5782,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -5751,7 +5824,7 @@
     "workable:utthunga -> no board"
    ]
   },
-  "ms": 18256
+  "ms": 18996
  },
  {
   "company": "United Airlines India",
@@ -5778,36 +5851,6 @@
   "error": null,
   "totalJobs": 10,
   "jobs": [
-   {
-    "title": "InfoSec & GRC Intern",
-    "location": "",
-    "url": "https://ushur.ai/careers",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 31
-   },
-   {
-    "title": "Technical Consultant Intern",
-    "location": "",
-    "url": "https://ushur.ai/careers",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 31
-   },
    {
     "title": "Analyst Coverage",
     "location": "",
@@ -5927,19 +5970,49 @@
     "exp": [],
     "expFits2": false,
     "score": -3
+   },
+   {
+    "title": "InfoSec & GRC Intern",
+    "location": "",
+    "url": "https://ushur.ai/careers",
+    "india": true,
+    "locationSaysIndia": false,
+    "hasLocation": false,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": -21
+   },
+   {
+    "title": "Technical Consultant Intern",
+    "location": "",
+    "url": "https://ushur.ai/careers",
+    "india": true,
+    "locationSaysIndia": false,
+    "hasLocation": false,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": -21
    }
   ],
   "enriched": 0,
   "matches": [],
   "nearMatches": [],
   "closest": {
-   "title": "InfoSec & GRC Intern",
+   "title": "Analyst Coverage",
    "location": "",
    "url": "https://ushur.ai/careers",
    "team": "",
-   "text": "InfoSec & GRC Intern Bengaluru, India InfoSec & GRC Full Time",
+   "text": "Analyst Coverage Newsroom Partner Program Featured content Guide The 2026 AI Agent Buyers Guide for CX Leaders Evaluate AI agent platforms for measurable impact, scalability, and governance. Read more About Ushur Our vision and the mission we're on Careers Join us and level up customer experiences News & Press Recent news and announcements Contact Us Get in touch, get support Partners Become an Ushur p",
    "_noEnrich": true,
-   "score": 31,
+   "score": 19,
    "isMatch": false,
    "isEng": false,
    "java": false,
@@ -5947,7 +6020,8 @@
    "android": false,
    "india": true,
    "senior": false,
-   "junior": true,
+   "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -6026,7 +6100,7 @@
     "workable:ushur -> no board"
    ]
   },
-  "ms": 12035
+  "ms": 13184
  },
  {
   "company": "Uplers",
@@ -6129,6 +6203,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -6172,7 +6247,7 @@
     "workable:uplers -> no board"
    ]
   },
-  "ms": 7770
+  "ms": 6813
  },
  {
   "company": "Ubuy India",
@@ -6245,7 +6320,7 @@
     "workable:ubuy -> no board"
    ]
   },
-  "ms": 11822
+  "ms": 11600
  },
  {
   "company": "Udacity India",
@@ -6582,6 +6657,7 @@
    "india": false,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [
     [
      5,
@@ -6605,6 +6681,7 @@
    "india": false,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [
     [
      5,
@@ -6683,7 +6760,7 @@
     "greenhouse:udacity -> 16 jobs"
    ]
   },
-  "ms": 17493
+  "ms": 19276
  },
  {
   "company": "Uengage",
@@ -6770,7 +6847,7 @@
     "workable:uengage -> no board"
    ]
   },
-  "ms": 3874
+  "ms": 3807
  },
  {
   "company": "Ultratech Cement",
@@ -6919,7 +6996,7 @@
     "workable:ultratechcement -> no board"
    ]
   },
-  "ms": 2819
+  "ms": 2919
  },
  {
   "company": "Umbrella Infocare",
@@ -7113,6 +7190,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [
     [
      3,
@@ -7137,6 +7215,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [
     [
      3,
@@ -7156,7 +7235,7 @@
     {
      "url": "https://umbrellainfocare.com/careers",
      "status": 404,
-     "bytes": 122068
+     "bytes": 122074
     },
     {
      "url": "https://umbrellainfocare.com/career",
@@ -7176,7 +7255,12 @@
     {
      "url": "https://umbrellainfocare.com/join-our-team",
      "status": 404,
-     "bytes": 122086
+     "bytes": 122080
+    },
+    {
+     "url": "https://umbrellainfocare.com/careers.html",
+     "status": 404,
+     "bytes": 122084
     }
    ],
    "candidates": [
@@ -7196,7 +7280,7 @@
     "workable:umbrellainfocare -> no board"
    ]
   },
-  "ms": 28818
+  "ms": 37368
  },
  {
   "company": "Uncia Technologies",
@@ -7318,6 +7402,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -7477,7 +7562,7 @@
     "workable:unciatech -> no board"
    ]
   },
-  "ms": 15856
+  "ms": 18537
  },
  {
   "company": "Unifize",
@@ -7616,6 +7701,7 @@
    "india": true,
    "senior": true,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -7635,6 +7721,7 @@
    "india": true,
    "senior": true,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -7711,7 +7798,7 @@
     "recruitee:unifize -> no board"
    ]
   },
-  "ms": 9471
+  "ms": 9619
  },
  {
   "company": "Unify Technologies",
@@ -7809,7 +7896,7 @@
     "workable:unifytech -> no board"
    ]
   },
-  "ms": 7034
+  "ms": 11435
  },
  {
   "company": "Unilog",
@@ -7882,7 +7969,7 @@
     "workable:unilogcorp -> no board"
    ]
   },
-  "ms": 10880
+  "ms": 10852
  },
  {
   "company": "Uninstall.io",
@@ -8093,6 +8180,7 @@
     "india": true,
     "senior": false,
     "junior": false,
+    "intern": false,
     "exp": [
      [
       5,
@@ -8130,6 +8218,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [
     [
      3,
@@ -8162,6 +8251,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [
     [
      3,
@@ -8219,22 +8309,7 @@
     {
      "url": "https://unifiedinfotech.net/company/careers",
      "status": 404,
-     "bytes": 210642
-    },
-    {
-     "url": "https://unifiedinfotech.net/about/careers",
-     "status": 200,
-     "bytes": 446040
-    },
-    {
-     "url": "https://unifiedinfotech.net/current-openings",
-     "status": 404,
-     "bytes": 210642
-    },
-    {
-     "url": "https://unifiedinfotech.net/",
-     "status": 200,
-     "bytes": 553601
+     "bytes": 210846
     }
    ],
    "candidates": [
@@ -8252,7 +8327,7 @@
     "workable:unifiedinfotech -> no board"
    ]
   },
-  "ms": 31596
+  "ms": 24655
  },
  {
   "company": "Unnati",
@@ -8396,7 +8471,7 @@
     "workable:unnati -> no board"
    ]
   },
-  "ms": 8689
+  "ms": 8236
  },
  {
   "company": "udChalo (UpCurve Business Services)",
@@ -8601,7 +8676,7 @@
     "workable:udchalo -> no board"
    ]
   },
-  "ms": 4629
+  "ms": 3682
  },
  {
   "company": "Uplift Labs",
@@ -8765,7 +8840,7 @@
     "workable:upliftlabs -> no board"
    ]
   },
-  "ms": 16333
+  "ms": 16492
  },
  {
   "company": "Upstack India",
@@ -8813,6 +8888,7 @@
    "india": false,
    "senior": true,
    "junior": false,
+   "intern": false,
    "exp": [
     [
      10,
@@ -8867,7 +8943,7 @@
     "greenhouse:upstack -> 1 jobs"
    ]
   },
-  "ms": 12034
+  "ms": 11883
  },
  {
   "company": "Urbanpiper",
@@ -8956,7 +9032,7 @@
     "workable:urbanpiper -> no board"
    ]
   },
-  "ms": 17268
+  "ms": 17527
  },
  {
   "company": "Urja Global",
@@ -9100,7 +9176,7 @@
     "workable:urjaglobal -> no board"
    ]
   },
-  "ms": 27404
+  "ms": 28186
  },
  {
   "company": "Ultrahuman",
@@ -9170,7 +9246,7 @@
     {
      "url": "https://ultrahuman.com/",
      "status": 200,
-     "bytes": 342787
+     "bytes": 342802
     },
     {
      "url": "https://careers.www.ultrahuman.com",
@@ -9226,7 +9302,7 @@
     {
      "url": "https://www.ultrahuman.com/",
      "status": 200,
-     "bytes": 342802
+     "bytes": 342801
     }
    ],
    "candidates": [
@@ -9244,7 +9320,7 @@
     "workable:ultrahuman -> no board"
    ]
   },
-  "ms": 16578
+  "ms": 14865
  },
  {
   "company": "Ultraviolette Automotive",
@@ -9811,7 +9887,7 @@
     "workable:ultraviolette -> no board"
    ]
   },
-  "ms": 7600
+  "ms": 9064
  },
  {
   "company": "Urban Ladder",
@@ -9864,7 +9940,7 @@
     "workable:urbanladder -> no board"
    ]
   },
-  "ms": 8816
+  "ms": 10066
  },
  {
   "company": "Uni Cards",
@@ -9883,7 +9959,7 @@
     {
      "url": "https://careers.uni.cards",
      "status": 403,
-     "bytes": 5728
+     "bytes": 5706
     },
     {
      "url": "https://uni.cards/careers",
@@ -9899,6 +9975,16 @@
      "url": "https://uni.cards/jobs",
      "status": 403,
      "bytes": 5710
+    },
+    {
+     "url": "https://uni.cards/join-us",
+     "status": 403,
+     "bytes": 5719
+    },
+    {
+     "url": "https://uni.cards/join-our-team",
+     "status": 403,
+     "bytes": 5737
     }
    ],
    "candidates": [
@@ -9916,7 +10002,7 @@
     "workable:unicards -> no board"
    ]
   },
-  "ms": 2676
+  "ms": 5356
  },
  {
   "company": "Ujjivan Small Finance Bank",
@@ -10020,7 +10106,7 @@
     "workable:ujjivansfb -> no board"
    ]
   },
-  "ms": 7777
+  "ms": 7715
  },
  {
   "company": "Utkarsh Small Finance Bank",
@@ -10040,7 +10126,7 @@
     {
      "url": "https://www.utkarsh.bank.in/careers",
      "status": 200,
-     "bytes": 237281
+     "bytes": 237258
     },
     {
      "url": "https://careers.utkarsh.bank.in",
@@ -10057,6 +10143,11 @@
      "url": "https://utkarsh.bank.in/career",
      "status": 404,
      "bytes": 200444
+    },
+    {
+     "url": "https://utkarsh.bank.in/jobs",
+     "status": 404,
+     "bytes": 200407
     }
    ],
    "candidates": [
@@ -10084,7 +10175,7 @@
     "workable:utkarsh -> no board"
    ]
   },
-  "ms": 16252
+  "ms": 20569
  },
  {
   "company": "U GRO Capital",
@@ -10115,7 +10206,7 @@
     {
      "url": "https://ugrocapital.com/careers",
      "status": 200,
-     "bytes": 171786
+     "bytes": 171534
     },
     {
      "url": "https://ugrocapital.com/career",
@@ -10138,7 +10229,7 @@
     "workable:ugrocapital -> no board"
    ]
   },
-  "ms": 8088
+  "ms": 9681
  },
  {
   "company": "UTI Asset Management",
@@ -10292,7 +10383,7 @@
     "workable:utimf -> no board"
    ]
   },
-  "ms": 5862
+  "ms": 7600
  },
  {
   "company": "Union Bank of India",
@@ -10451,7 +10542,7 @@
     "workable:unionbankofindia -> no board"
    ]
   },
-  "ms": 42115
+  "ms": 44815
  },
  {
   "company": "Uno Minda",
@@ -10547,7 +10638,7 @@
     "workable:unominda -> no board"
    ]
   },
-  "ms": 5334
+  "ms": 6376
  },
  {
   "company": "UPL Limited",
@@ -10791,6 +10882,26 @@
     "score": 15
    },
    {
+    "title": "Shift Leader",
+    "location": "Canelands, KwaZulu-Natal, South Africa",
+    "url": "https://careers.upl-ltd.com/job/Canelands-Shift-Leader-KwaZ/1364484966/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [
+     [
+      3,
+      5
+     ]
+    ],
+    "expFits2": false,
+    "score": 12
+   },
+   {
     "title": "Analytical Chemist",
     "location": "RTP, NC, North Carolina, United States",
     "url": "https://careers.upl-ltd.com/job/RTP%2C-NC-Analytical-Chemist-Nort/1364141166/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
@@ -10809,26 +10920,6 @@
      [
       3,
       7
-     ]
-    ],
-    "expFits2": false,
-    "score": 12
-   },
-   {
-    "title": "Shift Leader",
-    "location": "Canelands, KwaZulu-Natal, South Africa",
-    "url": "https://careers.upl-ltd.com/job/Canelands-Shift-Leader-KwaZ/1364484966/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [
-     [
-      3,
-      5
      ]
     ],
     "expFits2": false,
@@ -10904,6 +10995,26 @@
     "score": -18
    },
    {
+    "title": "Regional Account Manager, Midwest",
+    "location": "FIELD, Iowa, United States",
+    "url": "https://careers.upl-ltd.com/job/FIELD-Regional-Account-Manager%2C-Midwest-Iowa/1330060766/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [
+     [
+      5,
+      9
+     ]
+    ],
+    "expFits2": false,
+    "score": -22
+   },
+   {
     "title": "Customer Service & Data Lead NA",
     "location": "Cary, North Carolina, United States",
     "url": "https://careers.upl-ltd.com/job/Cary-Customer-Service-&-Data-Lead-NA-Nort/1362501066/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
@@ -10966,26 +11077,6 @@
      [
       10,
       14
-     ]
-    ],
-    "expFits2": false,
-    "score": -22
-   },
-   {
-    "title": "Regional Account Manager, Midwest",
-    "location": "FIELD, Iowa, United States",
-    "url": "https://careers.upl-ltd.com/job/FIELD-Regional-Account-Manager%2C-Midwest-Iowa/1330060766/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": true,
-    "exp": [
-     [
-      5,
-      9
      ]
     ],
     "expFits2": false,
@@ -11134,6 +11225,7 @@
    "india": false,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [
     [
      1,
@@ -11161,6 +11253,7 @@
    "india": false,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [
     [
      1,
@@ -11178,12 +11271,12 @@
     {
      "url": "https://careers.upl-ltd.com",
      "status": 200,
-     "bytes": 74821
+     "bytes": 74822
     },
     {
      "url": "https://upl-ltd.com/careers",
      "status": 200,
-     "bytes": 74822
+     "bytes": 74821
     },
     {
      "url": "https://upl-ltd.com/career",
@@ -11218,7 +11311,7 @@
     "successfactors:careers.upl-ltd.com -> 27 jobs"
    ]
   },
-  "ms": 5847
+  "ms": 19308
  },
  {
   "company": "Uniqus Consultech",
@@ -11294,7 +11387,7 @@
     "workable:uniqus -> no board"
    ]
   },
-  "ms": 35931
+  "ms": 28709
  },
  {
   "company": "Unicommerce eSolutions",
@@ -11350,16 +11443,141 @@
     "score": 19
    }
   ],
-  "enriched": 0,
+  "enriched": 1,
   "matches": [],
   "nearMatches": [],
-  "closest": null,
-  "closestEng": null,
-  "trace": {
-   "pages": [],
-   "attempts": []
+  "closest": {
+   "title": "Lead Software Engineer - Backend",
+   "location": "Gurugram",
+   "url": "https://unicommerce.keka.com/careers/jobdetails/54313",
+   "team": "",
+   "text": "Lead Software Engineer - Backend UNICOMMERCE ESOLUTIONS LIMITED Lead Software Engineer - Backend 6 - 8 yrs Gurugram Full-Time java backend lead Apply for this job Share with someone awesome View all job openings",
+   "_enriched": true,
+   "score": 48,
+   "isMatch": false,
+   "isEng": true,
+   "java": true,
+   "flutter": false,
+   "android": false,
+   "india": true,
+   "senior": true,
+   "junior": false,
+   "intern": false,
+   "exp": [
+    [
+     6,
+     8
+    ]
+   ],
+   "expFits2": false
   },
-  "ms": 90002
+  "closestEng": {
+   "title": "Lead Software Engineer - Backend",
+   "location": "Gurugram",
+   "url": "https://unicommerce.keka.com/careers/jobdetails/54313",
+   "team": "",
+   "text": "Lead Software Engineer - Backend UNICOMMERCE ESOLUTIONS LIMITED Lead Software Engineer - Backend 6 - 8 yrs Gurugram Full-Time java backend lead Apply for this job Share with someone awesome View all job openings",
+   "_enriched": true,
+   "score": 48,
+   "isMatch": false,
+   "isEng": true,
+   "java": true,
+   "flutter": false,
+   "android": false,
+   "india": true,
+   "senior": true,
+   "junior": false,
+   "intern": false,
+   "exp": [
+    [
+     6,
+     8
+    ]
+   ],
+   "expFits2": false
+  },
+  "trace": {
+   "pages": [
+    {
+     "url": "https://unicommerce.com/life-at-unicommerce/",
+     "status": 200,
+     "bytes": 397774
+    },
+    {
+     "url": "https://careers.unicommerce.com",
+     "status": 0,
+     "bytes": 0,
+     "error": "fetch failed"
+    },
+    {
+     "url": "https://unicommerce.com/careers",
+     "status": 200,
+     "bytes": 397774
+    },
+    {
+     "url": "https://unicommerce.com/career",
+     "status": 200,
+     "bytes": 397774
+    },
+    {
+     "url": "https://unicommerce.com/jobs",
+     "status": 404,
+     "bytes": 287839
+    },
+    {
+     "url": "https://unicommerce.com/join-us",
+     "status": 404,
+     "bytes": 287839
+    },
+    {
+     "url": "https://unicommerce.com/join-our-team",
+     "status": 404,
+     "bytes": 287839
+    },
+    {
+     "url": "https://unicommerce.com/careers.html",
+     "status": 404,
+     "bytes": 287839
+    },
+    {
+     "url": "https://unicommerce.com/company/careers",
+     "status": 404,
+     "bytes": 287839
+    },
+    {
+     "url": "https://unicommerce.com/about/careers",
+     "status": 404,
+     "bytes": 287839
+    },
+    {
+     "url": "https://unicommerce.com/current-openings",
+     "status": 404,
+     "bytes": 287839
+    },
+    {
+     "url": "https://unicommerce.com/",
+     "status": 200,
+     "bytes": 475972
+    }
+   ],
+   "candidates": [
+    "keka:unicommerce(html)",
+    "greenhouse:unicommerceesolutions(guess)",
+    "lever:unicommerceesolutions(guess)",
+    "ashby:unicommerceesolutions(guess)",
+    "recruitee:unicommerceesolutions(guess)",
+    "workable:unicommerceesolutions(guess)",
+    "greenhouse:unicommerce(guess)",
+    "lever:unicommerce(guess)",
+    "ashby:unicommerce(guess)",
+    "recruitee:unicommerce(guess)",
+    "workable:unicommerce(guess)"
+   ],
+   "attempts": [
+    "keka:unicommerce -> 2 jobs"
+   ]
+  },
+  "ms": 1180
  },
  {
   "company": "UnifyApps",
@@ -11412,7 +11630,7 @@
     "workable:unifyapps -> no board"
    ]
   },
-  "ms": 3784
+  "ms": 6042
  },
  {
   "company": "Uniqode",
@@ -11486,6 +11704,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -11563,7 +11782,7 @@
     "workable:uniqode -> no board"
    ]
   },
-  "ms": 7595
+  "ms": 9560
  },
  {
   "company": "Unolo",
@@ -11717,7 +11936,7 @@
     "workable:unolo -> no board"
    ]
   },
-  "ms": 2866
+  "ms": 3327
  },
  {
   "company": "UptimeAI",
@@ -11975,6 +12194,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [
     [
      2,
@@ -11998,6 +12218,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [
     [
      2,
@@ -12142,7 +12363,7 @@
     "ashby:uptimeai -> 10 jobs (guess, name-verified)"
    ]
   },
-  "ms": 23879
+  "ms": 24783
  },
  {
   "company": "Unbox Robotics",
@@ -12441,30 +12662,6 @@
     "score": 57
    },
    {
-    "title": "Marketing Intern",
-    "location": "Pune",
-    "url": "https://unboxrobotics.keka.com/careers/",
-    "india": true,
-    "locationSaysIndia": true,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [
-     [
-      0,
-      1
-     ],
-     [
-      1,
-      2
-     ]
-    ],
-    "expFits2": true,
-    "score": 57
-   },
-   {
     "title": "Embedded Firmware Engineer",
     "location": "Pune",
     "url": "https://unboxrobotics.keka.com/careers/jobdetails/79496",
@@ -12542,21 +12739,6 @@
     "exp": [],
     "expFits2": false,
     "score": 34
-   },
-   {
-    "title": "Solutions Design Intern",
-    "location": "Pune",
-    "url": "https://unboxrobotics.keka.com/careers/",
-    "india": true,
-    "locationSaysIndia": true,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 31
    },
    {
     "title": "Senior Purchase Executive – Indirect Purchase",
@@ -12695,21 +12877,6 @@
     "score": 23
    },
    {
-    "title": "Mechanical Design Intern",
-    "location": "Remote",
-    "url": "https://unboxrobotics.keka.com/careers/jobdetails/135993",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 16
-   },
-   {
     "title": "Sales Account Executive – UK & Scandinavia",
     "location": "Europe",
     "url": "https://unboxrobotics.keka.com/careers/jobdetails/130394",
@@ -12732,6 +12899,30 @@
     ],
     "expFits2": false,
     "score": 12
+   },
+   {
+    "title": "Marketing Intern",
+    "location": "Pune",
+    "url": "https://unboxrobotics.keka.com/careers/",
+    "india": true,
+    "locationSaysIndia": true,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [
+     [
+      0,
+      1
+     ],
+     [
+      1,
+      2
+     ]
+    ],
+    "expFits2": true,
+    "score": 5
    },
    {
     "title": "Technician - Mechanical",
@@ -12786,6 +12977,36 @@
     ],
     "expFits2": false,
     "score": -7
+   },
+   {
+    "title": "Solutions Design Intern",
+    "location": "Pune",
+    "url": "https://unboxrobotics.keka.com/careers/",
+    "india": true,
+    "locationSaysIndia": true,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": -21
+   },
+   {
+    "title": "Mechanical Design Intern",
+    "location": "Remote",
+    "url": "https://unboxrobotics.keka.com/careers/jobdetails/135993",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": -36
    }
   ],
   "enriched": 0,
@@ -12928,7 +13149,7 @@
     "workable:unboxrobotics -> no board"
    ]
   },
-  "ms": 2982
+  "ms": 10996
  },
  {
   "company": "uTrade Solutions",
@@ -13092,7 +13313,7 @@
     "workable:utradesolutions -> no board"
    ]
   },
-  "ms": 13391
+  "ms": 12929
  },
  {
   "company": "Unimity Solutions",
@@ -13171,7 +13392,7 @@
     "workable:unimity -> no board"
    ]
   },
-  "ms": 16731
+  "ms": 4628
  },
  {
   "company": "U2opia Mobile",
@@ -13246,6 +13467,7 @@
    "india": true,
    "senior": true,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -13339,7 +13561,7 @@
     "workable:u2opia -> no board"
    ]
   },
-  "ms": 12721
+  "ms": 13809
  },
  {
   "company": "UnitedLex",
@@ -13429,6 +13651,7 @@
    "india": false,
    "senior": true,
    "junior": true,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -13512,7 +13735,7 @@
     "workable:unitedlex -> no board"
    ]
   },
-  "ms": 14440
+  "ms": 20507
  },
  {
   "company": "Uolo",
@@ -13661,7 +13884,7 @@
     "workable:uolo -> no board"
    ]
   },
-  "ms": 5882
+  "ms": 4044
  },
  {
   "company": "uFaber Edutech",
@@ -13815,7 +14038,7 @@
     "workable:ufaber -> no board"
    ]
   },
-  "ms": 6259
+  "ms": 5195
  },
  {
   "company": "Urbanic",
@@ -13840,47 +14063,47 @@
     {
      "url": "https://urbanic.com/careers",
      "status": 200,
-     "bytes": 62047
+     "bytes": 62044
     },
     {
      "url": "https://urbanic.com/career",
      "status": 200,
-     "bytes": 62047
+     "bytes": 62045
     },
     {
      "url": "https://urbanic.com/jobs",
      "status": 200,
-     "bytes": 62046
+     "bytes": 62047
     },
     {
      "url": "https://urbanic.com/join-us",
      "status": 200,
-     "bytes": 62046
+     "bytes": 62047
     },
     {
      "url": "https://urbanic.com/join-our-team",
      "status": 200,
-     "bytes": 62047
+     "bytes": 62044
     },
     {
      "url": "https://urbanic.com/careers.html",
      "status": 200,
-     "bytes": 62047
+     "bytes": 62040
     },
     {
      "url": "https://urbanic.com/company/careers",
      "status": 200,
-     "bytes": 62046
+     "bytes": 62045
     },
     {
      "url": "https://urbanic.com/about/careers",
      "status": 200,
-     "bytes": 62043
+     "bytes": 62047
     },
     {
      "url": "https://urbanic.com/current-openings",
      "status": 200,
-     "bytes": 62044
+     "bytes": 62047
     },
     {
      "url": "https://urbanic.com/",
@@ -13896,12 +14119,12 @@
     {
      "url": "https://www.urbanic.com/careers",
      "status": 200,
-     "bytes": 62044
+     "bytes": 62045
     },
     {
      "url": "https://www.urbanic.com/career",
      "status": 200,
-     "bytes": 62044
+     "bytes": 62045
     },
     {
      "url": "https://www.urbanic.com/jobs",
@@ -13911,37 +14134,37 @@
     {
      "url": "https://www.urbanic.com/join-us",
      "status": 200,
-     "bytes": 62040
+     "bytes": 62042
     },
     {
      "url": "https://www.urbanic.com/join-our-team",
      "status": 200,
-     "bytes": 62045
+     "bytes": 62047
     },
     {
      "url": "https://www.urbanic.com/careers.html",
      "status": 200,
-     "bytes": 62044
+     "bytes": 62048
     },
     {
      "url": "https://www.urbanic.com/company/careers",
      "status": 200,
-     "bytes": 62038
+     "bytes": 62047
     },
     {
      "url": "https://www.urbanic.com/about/careers",
      "status": 200,
-     "bytes": 62047
+     "bytes": 62044
     },
     {
      "url": "https://www.urbanic.com/current-openings",
      "status": 200,
-     "bytes": 62046
+     "bytes": 62045
     },
     {
      "url": "https://www.urbanic.com/",
      "status": 200,
-     "bytes": 62048
+     "bytes": 62045
     }
    ],
    "candidates": [
@@ -13959,7 +14182,7 @@
     "workable:urbanic -> no board"
    ]
   },
-  "ms": 9677
+  "ms": 11102
  },
  {
   "company": "USEReady",
@@ -13978,7 +14201,7 @@
     {
      "url": "https://careers.useready.com",
      "status": 200,
-     "bytes": 40032
+     "bytes": 40028
     },
     {
      "url": "https://useready.com/careers",
@@ -14016,7 +14239,7 @@
     "workable:useready -> no board"
    ]
   },
-  "ms": 41539
+  "ms": 40110
  },
  {
   "company": "Upland Software",
@@ -14091,6 +14314,7 @@
    "india": false,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -14151,7 +14375,7 @@
     "workable:uplandsoftware -> no board"
    ]
   },
-  "ms": 17354
+  "ms": 16439
  },
  {
   "company": "Unravel Data",
@@ -14211,6 +14435,7 @@
    "india": false,
    "senior": true,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -14230,6 +14455,7 @@
    "india": false,
    "senior": true,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -14322,7 +14548,7 @@
     "workable:unraveldata -> no board"
    ]
   },
-  "ms": 13041
+  "ms": 13917
  },
  {
   "company": "Uptycs",
@@ -14427,6 +14653,7 @@
    "india": false,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -14510,7 +14737,7 @@
     "workable:uptycs -> no board"
    ]
   },
-  "ms": 8090
+  "ms": 30351
  },
  {
   "company": "Unity Technologies",
@@ -14570,6 +14797,7 @@
    "india": false,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -14589,6 +14817,7 @@
    "india": false,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -14597,12 +14826,12 @@
     {
      "url": "https://unity.com/careers",
      "status": 200,
-     "bytes": 369610
+     "bytes": 370008
     },
     {
      "url": "https://careers.unity.com",
      "status": 200,
-     "bytes": 369610
+     "bytes": 370008
     },
     {
      "url": "https://unity.com/career",
@@ -14640,7 +14869,7 @@
     "workable:unity -> no board"
    ]
   },
-  "ms": 8208
+  "ms": 11053
  },
  {
   "company": "UBS",
@@ -14660,7 +14889,7 @@
     {
      "url": "https://www.ubs.com/global/en/careers.html",
      "status": 200,
-     "bytes": 127835
+     "bytes": 127833
     },
     {
      "url": "https://careers.ubs.com",
@@ -14670,23 +14899,23 @@
     {
      "url": "https://ubs.com/careers",
      "status": 200,
-     "bytes": 127835
+     "bytes": 127833
     },
     {
      "url": "https://ubs.com/career",
      "status": 200,
-     "bytes": 127835
+     "bytes": 127833
     },
     {
      "url": "https://ubs.com/jobs",
      "status": 200,
-     "bytes": 58908
+     "bytes": 58906
     }
    ],
    "candidates": [],
    "attempts": []
   },
-  "ms": 12279
+  "ms": 12031
  },
  {
   "company": "UKG",
@@ -14694,7 +14923,7 @@
   "careers": "https://www.ukg.com/company/careers",
   "source": "sitemap:https://apply.ukg.com",
   "error": null,
-  "totalJobs": 36,
+  "totalJobs": 34,
   "jobs": [
    {
     "title": "Staff Software Engineer (Agentic AI)",
@@ -14721,11 +14950,11 @@
     "score": 63
    },
    {
-    "title": "Site Reliability Engineer III - Eng",
-    "location": ", County Kilkenny,IE",
-    "url": "http://apply.ukg.com/careers/job/893395768282-site-reliability-engineer-iii-eng-kilkenny-n9-ireland?domain=ukg.com",
-    "india": false,
-    "locationSaysIndia": false,
+    "title": "Software Engineer III- Java & AI",
+    "location": "Noida, UP,IN",
+    "url": "http://apply.ukg.com/careers/job/893396040041-software-engineer-iii-java-ai-noida-up-india?domain=ukg.com",
+    "india": true,
+    "locationSaysIndia": true,
     "hasLocation": true,
     "isEng": true,
     "java": true,
@@ -14738,14 +14967,14 @@
      ]
     ],
     "expFits2": false,
-    "score": 45
+    "score": 60
    },
    {
-    "title": "Sr. Staff Software Engineer (Agentic AI)",
-    "location": "Seattle, WA,US",
-    "url": "http://apply.ukg.com/careers/job/893396363345-sr-staff-software-engineer-agentic-ai--seattle-wa-united-states?domain=ukg.com",
-    "india": false,
-    "locationSaysIndia": false,
+    "title": "Software Engineer III- Eng",
+    "location": "Noida, UP,IN",
+    "url": "http://apply.ukg.com/careers/job/893395237964-software-engineer-iii-eng-noida-up-india?domain=ukg.com",
+    "india": true,
+    "locationSaysIndia": true,
     "hasLocation": true,
     "isEng": true,
     "java": true,
@@ -14753,43 +14982,47 @@
     "senior": true,
     "exp": [
      [
-      10,
-      14
+      4,
+      8
+     ]
+    ],
+    "expFits2": false,
+    "score": 60
+   },
+   {
+    "title": "Software Engineer III- Eng",
+    "location": "Noida, UP,IN",
+    "url": "http://apply.ukg.com/careers/job/893395537213-software-engineer-iii-eng-noida-up-india?domain=ukg.com",
+    "india": true,
+    "locationSaysIndia": true,
+    "hasLocation": true,
+    "isEng": true,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [
+     [
+      5,
+      7
      ],
      [
-      3,
-      7
-     ]
-    ],
-    "expFits2": false,
-    "score": 45
-   },
-   {
-    "title": "Software Engineer III (Maternity Cover)",
-    "location": "Sofia, Sofia City Province,BG",
-    "url": "http://apply.ukg.com/careers/job/893395629871-software-engineer-iii-maternity-cover--sofia-bg23-bulgaria?domain=ukg.com",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": true,
-    "java": true,
-    "flutter": false,
-    "senior": true,
-    "exp": [
+      7,
+      11
+     ],
      [
-      4,
-      8
+      2,
+      6
      ]
     ],
-    "expFits2": false,
-    "score": 45
+    "expFits2": true,
+    "score": 53
    },
    {
-    "title": "Payroll Associate with Spanish",
-    "location": "Varna, Varna,BG",
-    "url": "http://apply.ukg.com/careers/job/893395599895-payroll-associate-with-spanish-varna-bulgaria?domain=ukg.com",
-    "india": false,
-    "locationSaysIndia": false,
+    "title": "Benefits Administrator II",
+    "location": "Noida, UP,IN",
+    "url": "http://apply.ukg.com/careers/job/893395803015-benefits-administrator-ii-noida-up-india?domain=ukg.com",
+    "india": true,
+    "locationSaysIndia": true,
     "hasLocation": true,
     "isEng": false,
     "java": false,
@@ -14806,12 +15039,108 @@
      ]
     ],
     "expFits2": true,
-    "score": 42
+    "score": 45
    },
    {
-    "title": "Account Executive - Emerging Markets",
-    "location": "Sydney, NSW,AU",
-    "url": "http://apply.ukg.com/careers/job/893395966747-account-executive-emerging-markets-sydney-nsw-australia?domain=ukg.com",
+    "title": "Customer Experience Analyst",
+    "location": "Pune, MH,IN",
+    "url": "http://apply.ukg.com/careers/job/893394589779-customer-experience-analyst-pune-city-india?domain=ukg.com",
+    "india": true,
+    "locationSaysIndia": true,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [
+     [
+      3,
+      6
+     ],
+     [
+      6,
+      10
+     ],
+     [
+      2,
+      6
+     ],
+     [
+      6,
+      7
+     ],
+     [
+      10,
+      11
+     ]
+    ],
+    "expFits2": true,
+    "score": 45
+   },
+   {
+    "title": "Software Engineer III- Eng (.Net + AI)",
+    "location": "Noida, UP,IN",
+    "url": "http://apply.ukg.com/careers/job/893396415897-software-engineer-iii-eng-net-ai--noida-up-india?domain=ukg.com",
+    "india": true,
+    "locationSaysIndia": true,
+    "hasLocation": true,
+    "isEng": true,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [
+     [
+      4,
+      8
+     ]
+    ],
+    "expFits2": false,
+    "score": 35
+   },
+   {
+    "title": "Software Engineer III- Eng - {.Net + AI}",
+    "location": "Noida, UP,IN",
+    "url": "http://apply.ukg.com/careers/job/893396486776-software-engineer-iii-eng-net-ai--noida-up-india?domain=ukg.com",
+    "india": true,
+    "locationSaysIndia": true,
+    "hasLocation": true,
+    "isEng": true,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [
+     [
+      4,
+      8
+     ]
+    ],
+    "expFits2": false,
+    "score": 35
+   },
+   {
+    "title": "Staff Site Reliability Engineer- Eng",
+    "location": "Lowell, MA,US",
+    "url": "http://apply.ukg.com/careers/job/893393972206-staff-site-reliability-engineer-eng-lowell-ma-united-states?domain=ukg.com",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": true,
+    "java": true,
+    "flutter": false,
+    "senior": true,
+    "exp": [
+     [
+      5,
+      9
+     ]
+    ],
+    "expFits2": false,
+    "score": 33
+   },
+   {
+    "title": "ACCOUNT EXECUTIVE",
+    "location": ",",
+    "url": "http://apply.ukg.com/careers/job/893395048304-account-executive-united-states?domain=ukg.com",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
@@ -14819,6 +15148,204 @@
     "java": false,
     "flutter": false,
     "senior": false,
+    "exp": [
+     [
+      1,
+      3
+     ]
+    ],
+    "expFits2": true,
+    "score": 30
+   },
+   {
+    "title": "Software Engineer III- .Net Fullstack",
+    "location": "Noida, UP,IN",
+    "url": "http://apply.ukg.com/careers/job/893395256194-software-engineer-iii-net-fullstack-noida-up-india?domain=ukg.com",
+    "india": true,
+    "locationSaysIndia": true,
+    "hasLocation": true,
+    "isEng": true,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [],
+    "expFits2": false,
+    "score": 27
+   },
+   {
+    "title": "Account Manager II",
+    "location": "Noida, UP,IN",
+    "url": "http://apply.ukg.com/careers/job/893395765082-account-manager-ii-noida-up-india?domain=ukg.com",
+    "india": true,
+    "locationSaysIndia": true,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [
+     [
+      2,
+      3
+     ]
+    ],
+    "expFits2": true,
+    "score": 23
+   },
+   {
+    "title": "Staff Software Engineer- Eng ( Angular+ .Net )",
+    "location": "Noida, UP,IN",
+    "url": "http://apply.ukg.com/careers/job/893395110370-staff-software-engineer-eng-angular-net--noida-up-india?domain=ukg.com",
+    "india": true,
+    "locationSaysIndia": true,
+    "hasLocation": true,
+    "isEng": true,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [
+     [
+      8,
+      12
+     ]
+    ],
+    "expFits2": false,
+    "score": 23
+   },
+   {
+    "title": "Software Engineer III- Eng",
+    "location": "Alpharetta, GA,US",
+    "url": "http://apply.ukg.com/careers/job/893394028892-software-engineer-iii-eng-alpharetta-ga-united-states?domain=ukg.com",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": true,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [
+     [
+      4,
+      8
+     ]
+    ],
+    "expFits2": false,
+    "score": 20
+   },
+   {
+    "title": "Revenue Accountant",
+    "location": "Lowell, MA,US",
+    "url": "http://apply.ukg.com/careers/job/893394938420-revenue-accountant-lowell-ma-united-states?domain=ukg.com",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [
+     [
+      3,
+      7
+     ]
+    ],
+    "expFits2": false,
+    "score": 12
+   },
+   {
+    "title": "Enterprise Account Executive",
+    "location": ",",
+    "url": "http://apply.ukg.com/careers/job/893395462146-enterprise-account-executive-united-states?domain=ukg.com",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [
+     [
+      5,
+      7
+     ],
+     [
+      7,
+      11
+     ],
+     [
+      3,
+      7
+     ]
+    ],
+    "expFits2": false,
+    "score": 12
+   },
+   {
+    "title": "Software Engineer III- Eng",
+    "location": "Sunrise, FL,US",
+    "url": "http://apply.ukg.com/careers/job/893396023210-software-engineer-iii-eng-sunrise-fl-united-states?domain=ukg.com",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": true,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [],
+    "expFits2": false,
+    "score": 12
+   },
+   {
+    "title": "SALES EXECUTIVE",
+    "location": ",",
+    "url": "http://apply.ukg.com/careers/job/893396865893-sales-executive-united-states?domain=ukg.com",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [
+     [
+      3,
+      5
+     ]
+    ],
+    "expFits2": false,
+    "score": 12
+   },
+   {
+    "title": "SALES EXECUTIVE",
+    "location": ",",
+    "url": "http://apply.ukg.com/careers/job/893395227348-sales-executive-united-states?domain=ukg.com",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [
+     [
+      3,
+      5
+     ]
+    ],
+    "expFits2": false,
+    "score": 12
+   },
+   {
+    "title": "Product Manager II",
+    "location": "Sunrise, FL,US",
+    "url": "http://apply.ukg.com/careers/job/893395200810-product-manager-ii-sunrise-fl-united-states?domain=ukg.com",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": true,
     "exp": [
      [
       2,
@@ -14826,236 +15353,12 @@
      ]
     ],
     "expFits2": true,
-    "score": 30
-   },
-   {
-    "title": "Sr. Staff Software Engineer- Eng",
-    "location": "Noida, UP,IN",
-    "url": "http://apply.ukg.com/careers/job/893396045223-sr-staff-software-engineer-eng-noida-up-india?domain=ukg.com",
-    "india": true,
-    "locationSaysIndia": true,
-    "hasLocation": true,
-    "isEng": true,
-    "java": false,
-    "flutter": false,
-    "senior": true,
-    "exp": [
-     [
-      10,
-      14
-     ],
-     [
-      5,
-      9
-     ]
-    ],
-    "expFits2": false,
-    "score": 23
-   },
-   {
-    "title": "SALES EXECUTIVE",
-    "location": ",",
-    "url": "http://apply.ukg.com/careers/job/893394771168-sales-executive-united-states?domain=ukg.com",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [
-     [
-      3,
-      5
-     ]
-    ],
-    "expFits2": false,
-    "score": 12
-   },
-   {
-    "title": "SALES EXECUTIVE",
-    "location": ",",
-    "url": "http://apply.ukg.com/careers/job/893396343256-sales-executive-united-states?domain=ukg.com",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [
-     [
-      3,
-      5
-     ]
-    ],
-    "expFits2": false,
-    "score": 12
-   },
-   {
-    "title": "SALES EXECUTIVE",
-    "location": ",",
-    "url": "http://apply.ukg.com/careers/job/893396886617-sales-executive-united-states?domain=ukg.com",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [
-     [
-      3,
-      5
-     ]
-    ],
-    "expFits2": false,
-    "score": 12
-   },
-   {
-    "title": "SALES EXECUTIVE",
-    "location": ",",
-    "url": "http://apply.ukg.com/careers/job/893396886103-sales-executive-united-states?domain=ukg.com",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [
-     [
-      3,
-      5
-     ]
-    ],
-    "expFits2": false,
-    "score": 12
-   },
-   {
-    "title": "Sr. Staff Software Engineer- Eng",
-    "location": "Sunrise, FL,US",
-    "url": "http://apply.ukg.com/careers/job/893395105257-sr-staff-software-engineer-eng-sunrise-fl-united-states?domain=ukg.com",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": true,
-    "java": false,
-    "flutter": false,
-    "senior": true,
-    "exp": [
-     [
-      8,
-      12
-     ]
-    ],
-    "expFits2": false,
     "score": 8
    },
    {
-    "title": "Staff Database Reliability Engineer",
-    "location": "Sydney, NSW,AU",
-    "url": "http://apply.ukg.com/careers/job/893395270822-staff-database-reliability-engineer-sydney-nsw-australia?domain=ukg.com",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": true,
-    "java": false,
-    "flutter": false,
-    "senior": true,
-    "exp": [
-     [
-      9,
-      13
-     ]
-    ],
-    "expFits2": false,
-    "score": 8
-   },
-   {
-    "title": "Lead Database Reliability Engineer",
-    "location": "Sydney, NSW,AU",
-    "url": "http://apply.ukg.com/careers/job/893395271000-lead-database-reliability-engineer-sydney-nsw-australia?domain=ukg.com",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": true,
-    "java": false,
-    "flutter": false,
-    "senior": true,
-    "exp": [
-     [
-      7,
-      11
-     ]
-    ],
-    "expFits2": false,
-    "score": 8
-   },
-   {
-    "title": "Sr. Staff Software Engineer- Eng",
-    "location": "Seattle, WA,US",
-    "url": "http://apply.ukg.com/careers/job/893396186154-sr-staff-software-engineer-eng-seattle-wa-united-states?domain=ukg.com",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": true,
-    "java": false,
-    "flutter": false,
-    "senior": true,
-    "exp": [
-     [
-      8,
-      12
-     ]
-    ],
-    "expFits2": false,
-    "score": 8
-   },
-   {
-    "title": "Staff Cloud FinOps Analyst- Eng",
-    "location": "Noida, UP,IN",
-    "url": "http://apply.ukg.com/careers/job/893395600764-staff-cloud-finops-analyst-eng-noida-up-india?domain=ukg.com",
-    "india": true,
-    "locationSaysIndia": true,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": true,
-    "exp": [
-     [
-      3,
-      7
-     ]
-    ],
-    "expFits2": false,
-    "score": 5
-   },
-   {
-    "title": "Manager Tenant Management Operations",
-    "location": "Noida, UP,IN",
-    "url": "http://apply.ukg.com/careers/job/893395967080-manager-tenant-management-operations-noida-up-india?domain=ukg.com",
-    "india": true,
-    "locationSaysIndia": true,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": true,
-    "exp": [
-     [
-      3,
-      7
-     ]
-    ],
-    "expFits2": false,
-    "score": 5
-   },
-   {
-    "title": "Account Executive, Enterprise",
-    "location": "Sydney, NSW,AU",
-    "url": "http://apply.ukg.com/careers/job/893394779709-account-executive-enterprise-sydney-nsw-australia?domain=ukg.com",
+    "title": "Enterprise Sales Executive",
+    "location": "Paris, Île-de-France,FR",
+    "url": "http://apply.ukg.com/careers/job/893392036282-enterprise-sales-executive-paris-na-france?domain=ukg.com",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
@@ -15068,80 +15371,29 @@
     "score": 4
    },
    {
-    "title": "ACCOUNT EXECUTIVE 4",
-    "location": ",",
-    "url": "http://apply.ukg.com/careers/job/893396245901-account-executive-4-united-states?domain=ukg.com",
-    "india": false,
-    "locationSaysIndia": false,
+    "title": "Lead Product Manager",
+    "location": "Bengaluru, KA,IN",
+    "url": "http://apply.ukg.com/careers/job/893396762335-lead-product-manager-bangalore-inka-india?domain=ukg.com",
+    "india": true,
+    "locationSaysIndia": true,
     "hasLocation": true,
     "isEng": false,
     "java": false,
     "flutter": false,
-    "senior": false,
+    "senior": true,
     "exp": [
      [
-      5,
-      7
-     ],
-     [
-      7,
-      11
-     ],
-     [
-      5,
-      9
+      8,
+      12
      ]
     ],
     "expFits2": false,
-    "score": 0
+    "score": -7
    },
    {
-    "title": "ACCOUNT EXECUTIVE 4",
-    "location": ",",
-    "url": "http://apply.ukg.com/careers/job/893394075926-account-executive-4-united-states?domain=ukg.com",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [
-     [
-      5,
-      7
-     ],
-     [
-      7,
-      11
-     ],
-     [
-      5,
-      9
-     ]
-    ],
-    "expFits2": false,
-    "score": 0
-   },
-   {
-    "title": "Senior Garnishment Administrator",
+    "title": "Sr Solution Consultant- WFM Implementation",
     "location": "Pune, MH,IN",
-    "url": "http://apply.ukg.com/careers/job/893395375082-senior-garnishment-administrator-pune-city-india?domain=ukg.com",
-    "india": true,
-    "locationSaysIndia": true,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": true,
-    "exp": [],
-    "expFits2": false,
-    "score": -3
-   },
-   {
-    "title": "Principal Product Manager- Platform Infrastructure",
-    "location": "Noida, UP,IN",
-    "url": "http://apply.ukg.com/careers/job/893396054647-principal-product-manager-platform-infrastructure-noida-up-india?domain=ukg.com",
+    "url": "http://apply.ukg.com/careers/job/893393608562-sr-solution-consultant-wfm-implementation-pune-city-india?domain=ukg.com",
     "india": true,
     "locationSaysIndia": true,
     "hasLocation": true,
@@ -15151,12 +15403,12 @@
     "senior": true,
     "exp": [
      [
-      5,
-      9
+      6,
+      10
      ],
      [
-      10,
-      14
+      5,
+      9
      ]
     ],
     "expFits2": false,
@@ -15187,90 +15439,6 @@
     "score": -7
    },
    {
-    "title": "Lead Solution Consultant",
-    "location": "Noida, UP,IN",
-    "url": "http://apply.ukg.com/careers/job/893396396463-lead-solution-consultant-noida-up-india?domain=ukg.com",
-    "india": true,
-    "locationSaysIndia": true,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": true,
-    "exp": [
-     [
-      8,
-      12
-     ]
-    ],
-    "expFits2": false,
-    "score": -7
-   },
-   {
-    "title": "Sr Services Project Manager",
-    "location": "Pune, MH,IN",
-    "url": "http://apply.ukg.com/careers/job/893394934598-sr-services-project-manager-pune-city-india?domain=ukg.com",
-    "india": true,
-    "locationSaysIndia": true,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": true,
-    "exp": [
-     [
-      8,
-      10
-     ],
-     [
-      10,
-      11
-     ]
-    ],
-    "expFits2": false,
-    "score": -7
-   },
-   {
-    "title": "SR SALES EXECUTIVE",
-    "location": ",",
-    "url": "http://apply.ukg.com/careers/job/893395488802-sr-sales-executive-united-states?domain=ukg.com",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": true,
-    "exp": [
-     [
-      3,
-      5
-     ]
-    ],
-    "expFits2": false,
-    "score": -10
-   },
-   {
-    "title": "Senior Strategic Sales Executive",
-    "location": ",",
-    "url": "http://apply.ukg.com/careers/job/893396566279-senior-strategic-sales-executive-germany?domain=ukg.com",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": true,
-    "exp": [
-     [
-      3,
-      7
-     ]
-    ],
-    "expFits2": false,
-    "score": -10
-   },
-   {
     "title": "Sr Business Development Representative",
     "location": "Lowell, MA,US",
     "url": "http://apply.ukg.com/careers/job/893394016855-sr-business-development-representative-lowell-ma-united-states?domain=ukg.com",
@@ -15291,9 +15459,9 @@
     "score": -10
    },
    {
-    "title": "Sr Business Development Representative, Austin TX, Denver, CO",
-    "location": "Austin, TX,US",
-    "url": "http://apply.ukg.com/careers/job/893395288847-sr-business-development-representative-austin-tx-denver-co-austin-tx-united-states?domain=ukg.com",
+    "title": "Specialty Support Representative III",
+    "location": "Atlanta, GA,US",
+    "url": "http://apply.ukg.com/careers/job/893394584998-specialty-support-representative-iii-atlanta-ga-united-states?domain=ukg.com",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
@@ -15304,16 +15472,20 @@
     "exp": [
      [
       3,
-      7
+      5
+     ],
+     [
+      5,
+      9
      ]
     ],
     "expFits2": false,
     "score": -10
    },
    {
-    "title": "Sr Business Development Representative",
+    "title": "Director, AI Enablement and Innovation",
     "location": ",",
-    "url": "http://apply.ukg.com/careers/job/893395149525-sr-business-development-representative-united-kingdom-of-great-britain-and-nort?domain=ukg.com",
+    "url": "http://apply.ukg.com/careers/job/893395034859-director-ai-enablement-and-innovation-united-states?domain=ukg.com",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
@@ -15323,6 +15495,10 @@
     "senior": true,
     "exp": [
      [
+      8,
+      12
+     ],
+     [
       3,
       7
      ]
@@ -15331,9 +15507,9 @@
     "score": -10
    },
    {
-    "title": "Sr Solution Consultant",
-    "location": "Varna, Varna,BG",
-    "url": "http://apply.ukg.com/careers/job/893396207982-sr-solution-consultant-varna-bulgaria?domain=ukg.com",
+    "title": "Mid-Market Customer Account Manager",
+    "location": ",",
+    "url": "http://apply.ukg.com/careers/job/893396186802-mid-market-customer-account-manager-united-states?domain=ukg.com",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
@@ -15346,9 +15522,9 @@
     "score": -18
    },
    {
-    "title": "Principal Technical Program Manager- Eng",
-    "location": "Seattle, WA,US",
-    "url": "http://apply.ukg.com/careers/job/893395705108-principal-technical-program-manager-eng-seattle-wa-united-states?domain=ukg.com",
+    "title": "Principal Sales Enablement Program Manager",
+    "location": ",",
+    "url": "http://apply.ukg.com/careers/job/893394116522-principal-sales-enablement-program-manager-united-kingdom-of-great-britain-and-nort?domain=ukg.com",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
@@ -15356,19 +15532,14 @@
     "java": false,
     "flutter": false,
     "senior": true,
-    "exp": [
-     [
-      10,
-      14
-     ]
-    ],
+    "exp": [],
     "expFits2": false,
-    "score": -22
+    "score": -18
    },
    {
-    "title": "Sr. Staff Security Analyst- Eng",
-    "location": ",",
-    "url": "http://apply.ukg.com/careers/job/893395521763-sr-staff-security-analyst-eng-united-states?domain=ukg.com",
+    "title": "Lead AI Product Manager, Workforce Management Products",
+    "location": "Lowell, MA,US",
+    "url": "http://apply.ukg.com/careers/job/893394479549-lead-ai-product-manager-workforce-management-products-lowell-ma-united-states?domain=ukg.com",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
@@ -15386,9 +15557,9 @@
     "score": -22
    },
    {
-    "title": "Lead Conversational Designer - Agentic Experiences",
+    "title": "Lead Product Manager",
     "location": "Lowell, MA,US",
-    "url": "http://apply.ukg.com/careers/job/893394645965-lead-conversational-designer-agentic-experiences-lowell-ma-united-states?domain=ukg.com",
+    "url": "http://apply.ukg.com/careers/job/893394939412-lead-product-manager-lowell-ma-united-states?domain=ukg.com",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
@@ -15398,8 +15569,28 @@
     "senior": true,
     "exp": [
      [
-      7,
-      11
+      5,
+      9
+     ]
+    ],
+    "expFits2": false,
+    "score": -22
+   },
+   {
+    "title": "Principal Technical Program Manager- Eng",
+    "location": "Seattle, WA,US",
+    "url": "http://apply.ukg.com/careers/job/893395705108-principal-technical-program-manager-eng-seattle-wa-united-states?domain=ukg.com",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [
+     [
+      10,
+      14
      ]
     ],
     "expFits2": false,
@@ -15426,9 +15617,9 @@
     "score": -22
    },
    {
-    "title": "Global Trade Compliance Manager",
+    "title": "Lead Product Manager-(Healthcare)",
     "location": "Lowell, MA,US",
-    "url": "http://apply.ukg.com/careers/job/893396051438-global-trade-compliance-manager-lowell-ma-united-states?domain=ukg.com",
+    "url": "http://apply.ukg.com/careers/job/893394766038-lead-product-manager-healthcare--lowell-ma-united-states?domain=ukg.com",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
@@ -15438,8 +15629,8 @@
     "senior": true,
     "exp": [
      [
-      5,
-      8
+      7,
+      11
      ]
     ],
     "expFits2": false,
@@ -15464,6 +15655,7 @@
    "india": false,
    "senior": true,
    "junior": false,
+   "intern": false,
    "exp": [
     [
      7,
@@ -15491,6 +15683,7 @@
    "india": false,
    "senior": true,
    "junior": false,
+   "intern": false,
    "exp": [
     [
      7,
@@ -15513,7 +15706,7 @@
     {
      "url": "https://careers.ukg.com",
      "status": 200,
-     "bytes": 240733
+     "bytes": 239219
     },
     {
      "url": "https://ukg.com/careers",
@@ -15524,7 +15717,7 @@
    "candidates": [],
    "attempts": []
   },
-  "ms": 24071
+  "ms": 20970
  },
  {
   "company": "UPS",
@@ -15555,58 +15748,58 @@
     {
      "url": "https://ups.com/careers",
      "status": 200,
-     "bytes": 14421
+     "bytes": 14429
     },
     {
      "url": "https://ups.com/career",
      "status": 200,
-     "bytes": 14421
+     "bytes": 14429
     },
     {
      "url": "https://ups.com/jobs",
      "status": 200,
-     "bytes": 14421
+     "bytes": 14430
     },
     {
      "url": "https://ups.com/join-us",
      "status": 200,
-     "bytes": 14422
+     "bytes": 14429
     },
     {
      "url": "https://ups.com/join-our-team",
      "status": 200,
-     "bytes": 14422
+     "bytes": 14430
     },
     {
      "url": "https://ups.com/careers.html",
      "status": 200,
-     "bytes": 14421
+     "bytes": 14429
     },
     {
      "url": "https://ups.com/company/careers",
      "status": 200,
-     "bytes": 14421
+     "bytes": 14429
     },
     {
      "url": "https://ups.com/about/careers",
      "status": 200,
-     "bytes": 14421
+     "bytes": 14429
     },
     {
      "url": "https://ups.com/current-openings",
      "status": 200,
-     "bytes": 14421
+     "bytes": 14429
     },
     {
      "url": "https://ups.com/",
      "status": 200,
-     "bytes": 47854
+     "bytes": 47860
     }
    ],
    "candidates": [],
    "attempts": []
   },
-  "ms": 27289
+  "ms": 27973
  },
  {
   "company": "Unilever",
@@ -15645,36 +15838,6 @@
     "exp": [],
     "expFits2": false,
     "score": 19
-   },
-   {
-    "title": "Promotor De Merchandising",
-    "location": "Rio de Janeiro, Brazil",
-    "url": "https://unilever.wd3.myworkdayjobs.com/Unilever_Experienced_Professionals/job/Rio-de-Janeiro-Brazil/Promotor-De-Merchandising_R-1186460",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 4
-   },
-   {
-    "title": "Eletricista De Manutencao 3",
-    "location": "Vinhedo, Brazil",
-    "url": "https://unilever.wd3.myworkdayjobs.com/Unilever_Experienced_Professionals/job/Vinhedo-Brazil/Eletricista-De-Manutencao-3_R-1186726",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 4
    },
    {
     "title": "Promotor Merchandising",
@@ -15992,6 +16155,36 @@
     "score": 4
    },
    {
+    "title": "Ausbildung Fachkraft für Lagerlogistik (d/w/m) – 2027",
+    "location": "Heilbronn",
+    "url": "https://unilever.wd3.myworkdayjobs.com/Unilever_Experienced_Professionals/job/Heilbronn/Ausbildung-Fachkraft-fr-Lagerlogistik--d-w-m----2027_R-1183812",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 4
+   },
+   {
+    "title": "Ausbildung Fachkraft für Lebensmitteltechnik (d/w/m) - 2026",
+    "location": "Auerbach, Germany",
+    "url": "https://unilever.wd3.myworkdayjobs.com/Unilever_Experienced_Professionals/job/Auerbach-Germany/Ausbildung-Fachkraft-fr-Lebensmitteltechnik--w-m-d----2026_R-81898",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 4
+   },
+   {
     "title": "Assistant Manager - Balance Sheet Reporting",
     "location": "Uniops Bangalore Centre",
     "url": "https://unilever.wd3.myworkdayjobs.com/Unilever_Experienced_Professionals/job/Uniops-Bangalore-Centre/Assistant-Manager---Balance-Sheet-Reporting_R-1186480",
@@ -16237,6 +16430,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -16246,12 +16440,12 @@
     {
      "url": "https://careers.unilever.com/",
      "status": 200,
-     "bytes": 68800
+     "bytes": 68803
     },
     {
      "url": "https://careers.unilever.com",
      "status": 200,
-     "bytes": 68800
+     "bytes": 68803
     },
     {
      "url": "https://unilever.com/careers",
@@ -16316,7 +16510,7 @@
     "workday:unilever -> 40 jobs"
    ]
   },
-  "ms": 9720
+  "ms": 6808
  },
  {
   "company": "UL Solutions",
@@ -16336,7 +16530,7 @@
     {
      "url": "https://www.ul.com/careers",
      "status": 200,
-     "bytes": 372083
+     "bytes": 372081
     },
     {
      "url": "https://careers.ul.com",
@@ -16347,12 +16541,12 @@
     {
      "url": "https://ul.com/careers",
      "status": 200,
-     "bytes": 372083
+     "bytes": 372081
     },
     {
      "url": "https://ul.com/career",
      "status": 200,
-     "bytes": 372083
+     "bytes": 372081
     },
     {
      "url": "https://ul.com/jobs",
@@ -16373,7 +16567,7 @@
    "candidates": [],
    "attempts": []
   },
-  "ms": 3509
+  "ms": 2366
  },
  {
   "company": "U.S. Bank",
@@ -16484,24 +16678,79 @@
     "score": 33
    },
    {
-    "title": "End Point Systems Engineer",
-    "location": "5 Locations",
-    "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Hopkins-MN/End-Point-Systems-Engineer_2026-0023200",
+    "title": "Client Relationship Consultant 2 (Banker) - Pickerington, OH",
+    "location": "Pickerington, OH",
+    "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Pickerington-OH/Client-Relationship-Consultant-2--Banker----Pickerington--OH_2026-0021077",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
-    "isEng": true,
+    "isEng": false,
     "java": false,
     "flutter": false,
     "senior": false,
-    "exp": [
-     [
-      5,
-      9
-     ]
-    ],
+    "exp": [],
     "expFits2": false,
-    "score": 30
+    "score": 4
+   },
+   {
+    "title": "Client Relationship Consultant (Banker) - Twin Oaks, MO",
+    "location": "Ballwin, MO",
+    "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Ballwin-MO/Client-Relationship-Consultant--Banker----Twin-Oaks--MO_2026-0021136",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 4
+   },
+   {
+    "title": "Client Relationship Consultant 2 (Banker) - University of Missouri - Columbia - MO",
+    "location": "Columbia, MO",
+    "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Columbia-MO/Client-Relationship-Consultant-2--Banker----University-of-Missouri---Columbia---MO_2026-0009762",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 4
+   },
+   {
+    "title": "Client Relationship Consultant 2 (Banker) - Northwest St Louis, MO Area",
+    "location": "3 Locations",
+    "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Saint-Charles-MO/Client-Relationship-Consultant--Banker----Northwest-St-Louis--MO-Area_2026-0017795",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 4
+   },
+   {
+    "title": "Client Relationship Consultant 3 (Banker) - Bryant, AR",
+    "location": "Bryant, AR",
+    "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Bryant-AR/Client-Relationship-Consultant-3--Banker----Bryant--AR_2026-0014297",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 4
    },
    {
     "title": "Operations Processor- Lockbox",
@@ -16804,51 +17053,6 @@
     "score": 4
    },
    {
-    "title": "Customer Implementation Delivery Leader",
-    "location": "6 Locations",
-    "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Knoxville-TN/Customer-Implementation-Delivery-Leader_2026-0021921",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 4
-   },
-   {
-    "title": "Client Relationship Consultant 2 (Banker) - Orland Hills",
-    "location": "Orland Hills, IL",
-    "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Orland-Hills-IL/Client-Relationship-Consultant-2--Banker----Orland-Hills_2026-0024417",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 4
-   },
-   {
-    "title": "Client Relationship Consultant 3 (Banker) - Shawnee KS",
-    "location": "Shawnee, KS",
-    "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Shawnee-KS/Client-Relationship-Consultant-3--Banker----Shawnee-KS_2026-0024279-1",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 4
-   },
-   {
     "title": "Derivative Products Operations Risk Manager",
     "location": "3 Locations",
     "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Earth-City-MO/Derivative-Products-Operations-Risk-Manager_2026-0016441-1",
@@ -16982,24 +17186,9 @@
     "exp": [],
     "expFits2": false,
     "score": -18
-   },
-   {
-    "title": "Branch Manager 3 - Northgate Office",
-    "location": "Bowling Green, KY",
-    "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Bowling-Green-KY/Branch-Manager-3---Northgate-Office_2026-0024198",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": true,
-    "exp": [],
-    "expFits2": false,
-    "score": -18
    }
   ],
-  "enriched": 7,
+  "enriched": 6,
   "matches": [],
   "nearMatches": [
    {
@@ -17020,6 +17209,7 @@
     "india": false,
     "senior": false,
     "junior": false,
+    "intern": false,
     "exp": [],
     "expFits2": false
    },
@@ -17041,6 +17231,7 @@
     "india": false,
     "senior": false,
     "junior": false,
+    "intern": false,
     "exp": [],
     "expFits2": false
    }
@@ -17063,6 +17254,7 @@
    "india": false,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -17084,6 +17276,7 @@
    "india": false,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -17107,22 +17300,22 @@
     {
      "url": "https://usbank.com/career",
      "status": 404,
-     "bytes": 196403
+     "bytes": 196397
     },
     {
      "url": "https://usbank.com/jobs",
      "status": 404,
-     "bytes": 196403
+     "bytes": 196397
     },
     {
      "url": "https://usbank.com/join-us",
      "status": 404,
-     "bytes": 196403
+     "bytes": 196397
     },
     {
      "url": "https://usbank.com/join-our-team",
      "status": 404,
-     "bytes": 196403
+     "bytes": 196397
     },
     {
      "url": "https://usbank.com/careers.html",
@@ -17132,22 +17325,22 @@
     {
      "url": "https://usbank.com/company/careers",
      "status": 404,
-     "bytes": 196403
+     "bytes": 196397
     },
     {
      "url": "https://usbank.com/about/careers",
      "status": 404,
-     "bytes": 196403
+     "bytes": 196397
     },
     {
      "url": "https://usbank.com/current-openings",
      "status": 404,
-     "bytes": 196403
+     "bytes": 196397
     },
     {
      "url": "https://usbank.com/",
      "status": 200,
-     "bytes": 256964
+     "bytes": 256958
     }
    ],
    "candidates": [
@@ -17163,7 +17356,7 @@
     "workday:usbank -> 40 jobs"
    ]
   },
-  "ms": 22568
+  "ms": 21838
  },
  {
   "company": "Udemy",
@@ -17430,6 +17623,7 @@
    "india": false,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -17473,7 +17667,7 @@
     "greenhouse:udemy -> 12 jobs (guess, name-verified)"
    ]
   },
-  "ms": 1964
+  "ms": 1157
  },
  {
   "company": "Unlimit",
@@ -18642,6 +18836,7 @@
     "india": false,
     "senior": false,
     "junior": false,
+    "intern": false,
     "exp": [
      [
       4,
@@ -18665,6 +18860,7 @@
     "india": false,
     "senior": false,
     "junior": false,
+    "intern": false,
     "exp": [
      [
       5,
@@ -18689,6 +18885,7 @@
    "india": false,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [
     [
      4,
@@ -18712,6 +18909,7 @@
    "india": false,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [
     [
      4,
@@ -18736,17 +18934,17 @@
     {
      "url": "https://unlimit.com/career",
      "status": 200,
-     "bytes": 214934
+     "bytes": 214936
     },
     {
      "url": "https://unlimit.com/jobs",
      "status": 200,
-     "bytes": 214932
+     "bytes": 214936
     },
     {
      "url": "https://unlimit.com/join-us",
      "status": 200,
-     "bytes": 214934
+     "bytes": 214936
     },
     {
      "url": "https://unlimit.com/join-our-team",
@@ -18756,7 +18954,7 @@
     {
      "url": "https://unlimit.com/careers.html",
      "status": 200,
-     "bytes": 214936
+     "bytes": 214932
     },
     {
      "url": "https://unlimit.com/company/careers",
@@ -18766,17 +18964,17 @@
     {
      "url": "https://unlimit.com/about/careers",
      "status": 200,
-     "bytes": 214936
+     "bytes": 214934
     },
     {
      "url": "https://unlimit.com/current-openings",
      "status": 200,
-     "bytes": 214936
+     "bytes": 214934
     },
     {
      "url": "https://unlimit.com/",
      "status": 200,
-     "bytes": 214934
+     "bytes": 214936
     },
     {
      "url": "https://careers.www.unlimit.com",
@@ -18792,7 +18990,7 @@
     {
      "url": "https://www.unlimit.com/career",
      "status": 200,
-     "bytes": 214936
+     "bytes": 214934
     },
     {
      "url": "https://www.unlimit.com/jobs",
@@ -18801,13 +18999,18 @@
     },
     {
      "url": "https://www.unlimit.com/join-us",
-     "status": 429,
-     "bytes": 5772
+     "status": 200,
+     "bytes": 214936
     },
     {
      "url": "https://www.unlimit.com/join-our-team",
      "status": 429,
-     "bytes": 5807
+     "bytes": 5772
+    },
+    {
+     "url": "https://www.unlimit.com/careers.html",
+     "status": 429,
+     "bytes": 5826
     }
    ],
    "candidates": [
@@ -18822,7 +19025,7 @@
     "lever:unlimit -> 58 jobs (guess, name-verified)"
    ]
   },
-  "ms": 16605
+  "ms": 17174
  },
  {
   "company": "Urolime Technologies",
@@ -18969,6 +19172,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [
     [
      3,
@@ -19001,6 +19205,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [
     [
      3,
@@ -19091,7 +19296,7 @@
     "workable:urolime -> no board"
    ]
   },
-  "ms": 16937
+  "ms": 17460
  },
  {
   "company": "Unthinkable Solutions",
@@ -19144,7 +19349,7 @@
     "workable:unthinkable -> no board"
    ]
   },
-  "ms": 33586
+  "ms": 34057
  },
  {
   "company": "Uneecops Technologies",
@@ -19279,6 +19484,7 @@
     "india": true,
     "senior": false,
     "junior": false,
+    "intern": false,
     "exp": [
      [
       3,
@@ -19304,6 +19510,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [
     [
      3,
@@ -19328,6 +19535,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [
     [
      3,
@@ -19341,7 +19549,7 @@
     {
      "url": "https://www.uneecops.com/talent/",
      "status": 200,
-     "bytes": 544032
+     "bytes": 544030
     },
     {
      "url": "https://careers.uneecops.com",
@@ -19352,17 +19560,17 @@
     {
      "url": "https://uneecops.com/careers",
      "status": 404,
-     "bytes": 252747
+     "bytes": 252750
     },
     {
      "url": "https://uneecops.com/career",
      "status": 200,
-     "bytes": 544032
+     "bytes": 544030
     },
     {
      "url": "https://uneecops.com/jobs",
      "status": 200,
-     "bytes": 411206
+     "bytes": 411210
     }
    ],
    "candidates": [
@@ -19380,7 +19588,7 @@
     "workable:uneecops -> no board"
    ]
   },
-  "ms": 10346
+  "ms": 11448
  },
  {
   "company": "Unico Connect",
@@ -20133,6 +20341,7 @@
     "india": true,
     "senior": false,
     "junior": false,
+    "intern": false,
     "exp": [
      [
       1,
@@ -20159,6 +20368,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [
     [
      1,
@@ -20183,6 +20393,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [
     [
      1,
@@ -20240,7 +20451,7 @@
     "workable:unicoconnect -> no board"
    ]
   },
-  "ms": 5425
+  "ms": 6724
  },
  {
   "company": "Uplogic Technologies",
@@ -20344,7 +20555,7 @@
     "workable:uplogictech -> no board"
    ]
   },
-  "ms": 43769
+  "ms": 47589
  },
  {
   "company": "Universal Sompo General Insurance",
@@ -20498,7 +20709,7 @@
     "workable:universalsompo -> no board"
    ]
   },
-  "ms": 20134
+  "ms": 17937
  },
  {
   "company": "Univariety",
@@ -20645,7 +20856,7 @@
     "workable:univariety -> no board"
    ]
   },
-  "ms": 3014
+  "ms": 2878
  },
  {
   "company": "Unifynd Technologies",
@@ -20739,7 +20950,7 @@
     "workable:unifynd -> no board"
    ]
   },
-  "ms": 21001
+  "ms": 22571
  },
  {
   "company": "Ultroneous Technologies",
@@ -20812,7 +21023,7 @@
     "workable:ultroneous -> no board"
    ]
   },
-  "ms": 4785
+  "ms": 5563
  },
  {
   "company": "Ummeed Housing Finance",
@@ -20871,6 +21082,7 @@
    "india": true,
    "senior": true,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -20901,22 +21113,22 @@
     {
      "url": "https://ummeedhfc.com/join-us",
      "status": 200,
-     "bytes": 86639
+     "bytes": 86642
     },
     {
      "url": "https://ummeedhfc.com/join-our-team",
      "status": 200,
-     "bytes": 86642
+     "bytes": 86641
     },
     {
      "url": "https://ummeedhfc.com/careers.html",
      "status": 200,
-     "bytes": 86640
+     "bytes": 86641
     },
     {
      "url": "https://ummeedhfc.com/company/careers",
      "status": 200,
-     "bytes": 86641
+     "bytes": 86640
     },
     {
      "url": "https://ummeedhfc.com/about/careers",
@@ -20926,12 +21138,12 @@
     {
      "url": "https://ummeedhfc.com/current-openings",
      "status": 200,
-     "bytes": 86641
+     "bytes": 86642
     },
     {
      "url": "https://ummeedhfc.com/",
      "status": 200,
-     "bytes": 86642
+     "bytes": 86641
     },
     {
      "url": "https://careers.www.ummeedhfc.com",
@@ -20975,7 +21187,7 @@
     "workable:ummeedhfc -> no board"
    ]
   },
-  "ms": 14388
+  "ms": 16271
  },
  {
   "company": "Unity Small Finance Bank",
@@ -20995,7 +21207,7 @@
     {
      "url": "https://unity.bank.in/careers",
      "status": 200,
-     "bytes": 263397
+     "bytes": 263401
     },
     {
      "url": "https://careers.unity.bank.in",
@@ -21059,7 +21271,7 @@
     "workable:unity -> no board"
    ]
   },
-  "ms": 7535
+  "ms": 5687
  },
  {
   "company": "Ustraa",
@@ -21084,27 +21296,17 @@
     {
      "url": "https://ustraa.com/careers",
      "status": 404,
-     "bytes": 384454
+     "bytes": 394575
     },
     {
      "url": "https://ustraa.com/career",
      "status": 404,
-     "bytes": 390757
+     "bytes": 392279
     },
     {
      "url": "https://ustraa.com/jobs",
      "status": 404,
-     "bytes": 384458
-    },
-    {
-     "url": "https://ustraa.com/join-us",
-     "status": 404,
-     "bytes": 390764
-    },
-    {
-     "url": "https://ustraa.com/join-our-team",
-     "status": 404,
-     "bytes": 384464
+     "bytes": 394543
     }
    ],
    "candidates": [
@@ -21122,7 +21324,7 @@
     "workable:ustraa -> no board"
    ]
   },
-  "ms": 8272
+  "ms": 7776
  },
  {
   "company": "Upshot.ai",
@@ -21181,6 +21383,7 @@
    "india": true,
    "senior": true,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -21190,7 +21393,7 @@
     {
      "url": "https://careers.upshot.ai",
      "status": 200,
-     "bytes": 197348
+     "bytes": 197359
     },
     {
      "url": "https://upshot.ai/careers",
@@ -21233,7 +21436,7 @@
     "workable:upshot -> no board"
    ]
   },
-  "ms": 10337
+  "ms": 11000
  },
  {
   "company": "Uravu Labs",
@@ -21387,7 +21590,7 @@
     "workable:uravulabs -> no board"
    ]
   },
-  "ms": 7107
+  "ms": 6455
  },
  {
   "company": "Unlu",
@@ -21531,7 +21734,7 @@
     "workable:unlu -> no board"
    ]
   },
-  "ms": 3390
+  "ms": 2981
  },
  {
   "company": "UrbanMatrix Technologies",
@@ -21675,7 +21878,7 @@
     "workable:urbanmatrix -> no board"
    ]
   },
-  "ms": 3512
+  "ms": 3213
  },
  {
   "company": "Uniquify",
@@ -21819,7 +22022,7 @@
     "workable:uniquify -> no board"
    ]
   },
-  "ms": 15833
+  "ms": 18105
  },
  {
   "company": "Unimoni India",
@@ -21849,12 +22052,12 @@
     {
      "url": "https://unimoni.in/career",
      "status": 200,
-     "bytes": 138453
+     "bytes": 136427
     },
     {
      "url": "https://unimoni.in/jobs",
      "status": 200,
-     "bytes": 136427
+     "bytes": 138453
     }
    ],
    "candidates": [
@@ -21872,6 +22075,6 @@
     "workable:unimoni -> no board"
    ]
   },
-  "ms": 5381
+  "ms": 5165
  }
 ]

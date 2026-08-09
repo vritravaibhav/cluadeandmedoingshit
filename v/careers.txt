@@ -2,13 +2,13 @@
 OPEN ROLES AT 157 "W" COMPANIES
 Looking for : Software Engineer, ~2 years experience
 Priority    : Java, Dart/Flutter        Location preference : India
-Generated   : 2026-08-09 00:04:13 UTC  by test.js
+Generated   : 2026-08-09 05:43:25 UTC  by test.js
 ==============================================================================
 
 Boards read with open roles : 73
 Boards read, currently empty: 3
 Could not read              : 81
-Total open roles seen       : 1127
+Total open roles seen       : 1126
 
 ##############################################################################
 # SECTION 1 — MATCHES: Software Engineer + Java/Dart/Flutter + ~2 yrs
@@ -176,11 +176,6 @@ Total open roles seen       : 1127
       location : n/a   [INDIA]
       exp req  : not stated    stack: —    score: 61
       url      : https://www.velotio.com/careers/associate-devops-engineer
->> Vidyalai
-    Full Stack Developer Intern
-      location : n/a   [INDIA]
-      exp req  : not stated    stack: —    score: 61
-      url      : https://erp.vidyalai.com/jobs
 >> Varthana
     L1 Support Engineer
       location : n/a   [INDIA]
@@ -481,6 +476,11 @@ Total open roles seen       : 1127
       location : Chennai   [INDIA]
       exp req  : not stated    stack: —    score: 49
       url      : https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Chennai/Discipline-Engineer_REQ2026076443
+>> Vidyalai
+    Full Stack Developer Intern
+      location : n/a   [INDIA]
+      exp req  : not stated    stack: —    score: 9
+      url      : https://erp.vidyalai.com/jobs
 
 -- 2b ------------------------------------ states a wider window (27)
 
@@ -673,7 +673,7 @@ Total open roles seen       : 1127
       url      : https://visa.wd5.myworkdayjobs.com/Visa/job/IN---Bengaluru-India/Staff-Software-Engineer_REF082021W
 
 >> Volvo India  [India]
-    board    : successfactors:jobs.volvogroup.com   —  55 open roles
+    board    : successfactors:jobs.volvogroup.com   —  58 open roles
     Developer Platform Engineer
       location : Venissieux, FR, 69200
       exp req  : not stated    stack: Java    score: 59
@@ -755,9 +755,9 @@ Total open roles seen       : 1127
 
 >> Vidyalai  [India]
     board    : headings:https://erp.vidyalai.com/jobs   —  12 open roles
-    Full Stack Developer Intern
+    Full Stack Developer
       location : n/a   [INDIA]
-      exp req  : not stated    stack: —    score: 61
+      exp req  : not stated    stack: —    score: 49
       url      : https://erp.vidyalai.com/jobs
 
 >> Vinsys  [India]
@@ -849,7 +849,7 @@ Total open roles seen       : 1127
       url      : https://www.vertiv.com/en-us/about/career-center/?utm_source=careers+launch&utm_campaign=careers&utm_medium=print
 
 >> Vestas India  [India]
-    board    : successfactors:careers.vestas.com   —  45 open roles
+    board    : successfactors:careers.vestas.com   —  41 open roles
     Backend Developer
       location : Leça do Balio, Grande Porto, PT, 4465-671
       exp req  : 3-7y    stack: Java    score: 67
@@ -1201,6 +1201,11 @@ Total open roles seen       : 1127
     http status  : 0, 403, 403, 403, 403, 403
     ATS tried    : greenhouse:visteon -> no board ; lever:visteon -> no board ; ashby:visteon -> no board ; recruitee:visteon -> no board
 
+>> Vuram  [India]  — blocked-or-error-response
+    careers page : undefined
+    http status  : 0, 404, 404, 404, 404, 404, 404, 404
+    ATS tried    : greenhouse:vuram -> no board ; lever:vuram -> no board ; ashby:vuram -> no board ; recruitee:vuram -> no board
+
 >> Veersa Technologies  [India]  — blocked-or-error-response
     careers page : undefined
     http status  : 0, 404, 404, 404, 404, 404, 404, 404
@@ -1225,6 +1230,11 @@ Total open roles seen       : 1127
     careers page : undefined
     http status  : 0, 404, 404, 404, 404, 404
     ATS tried    : greenhouse:voiro -> no board ; lever:voiro -> no board ; ashby:voiro -> no board ; recruitee:voiro -> no board
+
+>> VideoVerse  [India]  — blocked-or-error-response
+    careers page : undefined
+    http status  : 0, 404, 404, 404, 404, 404
+    ATS tried    : greenhouse:videoverse -> no board ; lever:videoverse -> no board ; ashby:videoverse -> no board ; recruitee:videoverse -> no board
 
 >> Vaibhav Global  [India]  — blocked-or-error-response
     careers page : undefined
@@ -1438,7 +1448,7 @@ Total open roles seen       : 1127
 
 >> Viavi Solutions India  [India]  — careers-page-read-but-lists-no-openings
     careers page : https://www.viavisolutions.com/en-us/corporate/careers
-    http status  : 200, 0, 200, 404, 404
+    http status  : 200, 0, 200, 404
     ATS tried    : greenhouse:viavi -> no board ; lever:viavi -> no board ; ashby:viavi -> no board ; recruitee:viavi -> no board
 
 >> Volvo Cars India  [India]  — careers-page-read-but-lists-no-openings
@@ -1480,11 +1490,6 @@ Total open roles seen       : 1127
     careers page : undefined
     http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
     ATS tried    : greenhouse:voltas -> no board ; lever:voltas -> no board ; ashby:voltas -> no board ; recruitee:voltas -> no board
-
->> Vuram  [India]  — no-job-data-found
-    careers page : undefined
-    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
-    ATS tried    : greenhouse:vuram -> no board ; lever:vuram -> no board ; ashby:vuram -> no board ; recruitee:vuram -> no board
 
 >> Verse Innovation  [India]  — no-job-data-found
     careers page : undefined
@@ -1587,8 +1592,4 @@ Total open roles seen       : 1127
 
 >> Vardhaman Infotech  [India]  — timed-out
     careers page : https://www.vardhamaninfotech.com/careers/
-    http status  : 
-
->> VideoVerse  [India]  — timed-out
-    careers page : undefined
     http status  : 

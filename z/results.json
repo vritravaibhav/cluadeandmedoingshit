@@ -65,7 +65,7 @@
     "workable:zoho -> no board"
    ]
   },
-  "ms": 16952
+  "ms": 6641
  },
  {
   "company": "Zomato",
@@ -95,12 +95,12 @@
     {
      "url": "https://zomato.com/career",
      "status": 200,
-     "bytes": 113154
+     "bytes": 113146
     },
     {
      "url": "https://zomato.com/jobs",
      "status": 200,
-     "bytes": 112845
+     "bytes": 112848
     }
    ],
    "candidates": [
@@ -118,7 +118,7 @@
     "workable:zomato -> no board"
    ]
   },
-  "ms": 11701
+  "ms": 11414
  },
  {
   "company": "Zepto",
@@ -272,7 +272,7 @@
     "workable:zeptonow -> no board"
    ]
   },
-  "ms": 21816
+  "ms": 24748
  },
  {
   "company": "Zeta",
@@ -883,6 +883,7 @@
     "india": true,
     "senior": false,
     "junior": false,
+    "intern": false,
     "exp": [
      [
       2,
@@ -912,6 +913,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [
     [
      2,
@@ -939,6 +941,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [
     [
      2,
@@ -1083,7 +1086,7 @@
     "lever:zeta -> 25 jobs (guess, name-verified)"
    ]
   },
-  "ms": 21667
+  "ms": 34719
  },
  {
   "company": "Zscaler India",
@@ -1157,6 +1160,7 @@
    "india": false,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -1235,7 +1239,7 @@
     "workable:zscaler -> no board"
    ]
   },
-  "ms": 25358
+  "ms": 25952
  },
  {
   "company": "Zebra Technologies India",
@@ -1502,21 +1506,6 @@
     "score": 16
    },
    {
-    "title": "2026 (6-months) Internship (Singapore) - Portfolio Marketing Intern",
-    "location": "Singapore",
-    "url": "https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Singapore/XMLNAME-2026--6-months--Internship--Singapore----Portfolio-Marketing-Intern_JR102443-1",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 16
-   },
-   {
     "title": "Machine Operator, I",
     "location": "Greenville, Wisconsin",
     "url": "https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Greenville-Wisconsin/Machine-Operator--I_JR102759",
@@ -1615,21 +1604,6 @@
     "title": "Supervisor Engineering Technician-Hardware Test Labs",
     "location": "Holtsville, New York",
     "url": "https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Holtsville-New-York/Supervisor-Engineering-Technician-Hardware-Test-Labs_JR102301-1",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 4
-   },
-   {
-    "title": "Finance Development Program-2",
-    "location": "Holtsville, New York",
-    "url": "https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Holtsville-New-York/Finance-Development-Program-2_JR102813",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
@@ -1895,6 +1869,36 @@
     "exp": [],
     "expFits2": false,
     "score": -18
+   },
+   {
+    "title": "Senior Director, Technical Program Management",
+    "location": "Holtsville, New York",
+    "url": "https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Holtsville-New-York/Senior-Director--Technical-Program-Management_JR102351",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [],
+    "expFits2": false,
+    "score": -18
+   },
+   {
+    "title": "2026 (6-months) Internship (Singapore) - Portfolio Marketing Intern",
+    "location": "Singapore",
+    "url": "https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Singapore/XMLNAME-2026--6-months--Internship--Singapore----Portfolio-Marketing-Intern_JR102443-1",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": -36
    }
   ],
   "enriched": 10,
@@ -1917,6 +1921,7 @@
     "india": false,
     "senior": false,
     "junior": true,
+    "intern": false,
     "exp": [],
     "expFits2": false
    }
@@ -1940,6 +1945,7 @@
     "india": true,
     "senior": false,
     "junior": false,
+    "intern": false,
     "exp": [
      [
       3,
@@ -1966,6 +1972,7 @@
     "india": true,
     "senior": false,
     "junior": false,
+    "intern": false,
     "exp": [
      [
       8,
@@ -1993,6 +2000,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [
     [
      3,
@@ -2019,6 +2027,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [
     [
      3,
@@ -2042,12 +2051,12 @@
     {
      "url": "https://zebra.com/career",
      "status": 404,
-     "bytes": 293124
+     "bytes": 293125
     },
     {
      "url": "https://zebra.com/jobs",
      "status": 404,
-     "bytes": 293131
+     "bytes": 293124
     },
     {
      "url": "https://zebra.com/join-us",
@@ -2082,7 +2091,7 @@
     {
      "url": "https://zebra.com/",
      "status": 200,
-     "bytes": 381484
+     "bytes": 381511
     }
    ],
    "candidates": [
@@ -2097,7 +2106,7 @@
     "workday:zebra -> 40 jobs"
    ]
   },
-  "ms": 18715
+  "ms": 17182
  },
  {
   "company": "Zensar Technologies",
@@ -2122,17 +2131,17 @@
     {
      "url": "https://zensar.com/careers",
      "status": 200,
-     "bytes": 396887
+     "bytes": 396892
     },
     {
      "url": "https://zensar.com/career",
      "status": 200,
-     "bytes": 127643
+     "bytes": 126285
     },
     {
      "url": "https://zensar.com/jobs",
      "status": 200,
-     "bytes": 127713
+     "bytes": 126203
     }
    ],
    "candidates": [
@@ -2150,7 +2159,7 @@
     "workable:zensar -> no board"
    ]
   },
-  "ms": 10580
+  "ms": 11389
  },
  {
   "company": "ZoomInfo India",
@@ -2223,7 +2232,7 @@
     "workable:zoominfo -> no board"
    ]
   },
-  "ms": 20243
+  "ms": 18424
  },
  {
   "company": "Zolo",
@@ -2248,17 +2257,17 @@
     {
      "url": "https://zolostays.com/careers",
      "status": 200,
-     "bytes": 438385
+     "bytes": 438061
     },
     {
      "url": "https://zolostays.com/career",
      "status": 404,
-     "bytes": 14781
+     "bytes": 14814
     },
     {
      "url": "https://zolostays.com/jobs",
      "status": 404,
-     "bytes": 14755
+     "bytes": 14773
     }
    ],
    "candidates": [
@@ -2286,7 +2295,7 @@
     "workable:zolostays -> no board"
    ]
   },
-  "ms": 8071
+  "ms": 8912
  },
  {
   "company": "Zetwerk",
@@ -2750,6 +2759,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -2769,6 +2779,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -2846,7 +2857,7 @@
     "workable:zetwerk -> no board"
    ]
   },
-  "ms": 13137
+  "ms": 13277
  },
  {
   "company": "Zluri",
@@ -3091,6 +3102,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [
     [
      2,
@@ -3119,6 +3131,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [
     [
      2,
@@ -3161,7 +3174,7 @@
     "keka:zluri -> 9 jobs"
    ]
   },
-  "ms": 3136
+  "ms": 3310
  },
  {
   "company": "Zopper",
@@ -3270,6 +3283,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -3409,7 +3423,7 @@
     "workable:zopper -> no board"
    ]
   },
-  "ms": 16778
+  "ms": 13018
  },
  {
   "company": "Zwayam",
@@ -3438,7 +3452,7 @@
     {
      "url": "https://zwayam.com/career",
      "status": 200,
-     "bytes": 29742
+     "bytes": 29740
     },
     {
      "url": "https://zwayam.com/jobs",
@@ -3481,7 +3495,7 @@
     "workable:zwayam -> no board"
    ]
   },
-  "ms": 4388
+  "ms": 5809
  },
  {
   "company": "Zuci Systems",
@@ -3540,7 +3554,7 @@
     "workable:zucisystems -> no board"
    ]
   },
-  "ms": 30216
+  "ms": 41544
  },
  {
   "company": "Zignuts Technolab",
@@ -3565,7 +3579,7 @@
     {
      "url": "https://zignuts.com/careers",
      "status": 200,
-     "bytes": 191832
+     "bytes": 192096
     },
     {
      "url": "https://zignuts.com/career",
@@ -3576,6 +3590,16 @@
      "url": "https://zignuts.com/jobs",
      "status": 404,
      "bytes": 68190
+    },
+    {
+     "url": "https://zignuts.com/join-us",
+     "status": 404,
+     "bytes": 68196
+    },
+    {
+     "url": "https://zignuts.com/join-our-team",
+     "status": 404,
+     "bytes": 68208
     }
    ],
    "candidates": [
@@ -3603,7 +3627,7 @@
     "workable:zignuts -> no board"
    ]
   },
-  "ms": 5537
+  "ms": 6919
  },
  {
   "company": "Zeliot",
@@ -3728,6 +3752,7 @@
     "india": true,
     "senior": false,
     "junior": false,
+    "intern": false,
     "exp": [
      [
       3,
@@ -3757,6 +3782,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [
     [
      3,
@@ -3785,6 +3811,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [
     [
      3,
@@ -3868,7 +3895,7 @@
     "keka:zeliot -> 4 jobs"
    ]
   },
-  "ms": 2876
+  "ms": 1894
  },
  {
   "company": "Zenoti",
@@ -4642,6 +4669,7 @@
    "india": true,
    "senior": true,
    "junior": false,
+   "intern": false,
    "exp": [
     [
      8,
@@ -4669,6 +4697,7 @@
    "india": true,
    "senior": true,
    "junior": false,
+   "intern": false,
    "exp": [
     [
      8,
@@ -4725,7 +4754,7 @@
     "greenhouse:zenoti -> 37 jobs"
    ]
   },
-  "ms": 12808
+  "ms": 14387
  },
  {
   "company": "Zolvit",
@@ -4869,7 +4898,7 @@
     "workable:zolvit -> no board"
    ]
   },
-  "ms": 9722
+  "ms": 9984
  },
  {
   "company": "ZoomCar",
@@ -4894,52 +4923,52 @@
     {
      "url": "https://zoomcar.com/careers",
      "status": 200,
-     "bytes": 14904
+     "bytes": 14991
     },
     {
      "url": "https://zoomcar.com/career",
      "status": 200,
-     "bytes": 14904
+     "bytes": 14991
     },
     {
      "url": "https://zoomcar.com/jobs",
      "status": 200,
-     "bytes": 14904
+     "bytes": 14991
     },
     {
      "url": "https://zoomcar.com/join-us",
      "status": 200,
-     "bytes": 14904
+     "bytes": 14991
     },
     {
      "url": "https://zoomcar.com/join-our-team",
      "status": 200,
-     "bytes": 14904
+     "bytes": 14991
     },
     {
      "url": "https://zoomcar.com/careers.html",
      "status": 200,
-     "bytes": 14904
+     "bytes": 14991
     },
     {
      "url": "https://zoomcar.com/company/careers",
      "status": 200,
-     "bytes": 14904
+     "bytes": 14991
     },
     {
      "url": "https://zoomcar.com/about/careers",
      "status": 200,
-     "bytes": 14904
+     "bytes": 14991
     },
     {
      "url": "https://zoomcar.com/current-openings",
      "status": 200,
-     "bytes": 14904
+     "bytes": 14991
     },
     {
      "url": "https://zoomcar.com/",
      "status": 200,
-     "bytes": 14904
+     "bytes": 14991
     },
     {
      "url": "https://careers.www.zoomcar.com",
@@ -4950,52 +4979,52 @@
     {
      "url": "https://www.zoomcar.com/careers",
      "status": 200,
-     "bytes": 14904
+     "bytes": 14991
     },
     {
      "url": "https://www.zoomcar.com/career",
      "status": 200,
-     "bytes": 14904
+     "bytes": 14991
     },
     {
      "url": "https://www.zoomcar.com/jobs",
      "status": 200,
-     "bytes": 14904
+     "bytes": 14991
     },
     {
      "url": "https://www.zoomcar.com/join-us",
      "status": 200,
-     "bytes": 14904
+     "bytes": 14991
     },
     {
      "url": "https://www.zoomcar.com/join-our-team",
      "status": 200,
-     "bytes": 14904
+     "bytes": 14991
     },
     {
      "url": "https://www.zoomcar.com/careers.html",
      "status": 200,
-     "bytes": 14904
+     "bytes": 14991
     },
     {
      "url": "https://www.zoomcar.com/company/careers",
      "status": 200,
-     "bytes": 14904
+     "bytes": 14991
     },
     {
      "url": "https://www.zoomcar.com/about/careers",
      "status": 200,
-     "bytes": 14904
+     "bytes": 14991
     },
     {
      "url": "https://www.zoomcar.com/current-openings",
      "status": 200,
-     "bytes": 14904
+     "bytes": 14991
     },
     {
      "url": "https://www.zoomcar.com/",
      "status": 200,
-     "bytes": 14904
+     "bytes": 14991
     }
    ],
    "candidates": [
@@ -5013,7 +5042,7 @@
     "workable:zoomcar -> no board"
    ]
   },
-  "ms": 8024
+  "ms": 10146
  },
  {
   "company": "Zyoin",
@@ -5101,7 +5130,7 @@
     "workable:zyoin -> no board"
    ]
   },
-  "ms": 24877
+  "ms": 24924
  },
  {
   "company": "Zycus",
@@ -5119,7 +5148,7 @@
    "pages": [],
    "attempts": []
   },
-  "ms": 90003
+  "ms": 90004
  },
  {
   "company": "Zaggle",
@@ -5239,6 +5268,7 @@
    "india": true,
    "senior": true,
    "junior": false,
+   "intern": false,
    "exp": [
     [
      2,
@@ -5263,7 +5293,7 @@
     {
      "url": "https://zaggle.in/careers",
      "status": 200,
-     "bytes": 110809
+     "bytes": 110820
     },
     {
      "url": "https://zaggle.in/career",
@@ -5326,7 +5356,7 @@
     "workable:zaggle -> no board"
    ]
   },
-  "ms": 8936
+  "ms": 10048
  },
  {
   "company": "Zappyhire",
@@ -5480,14 +5510,14 @@
     "workable:zappyhire -> no board"
    ]
   },
-  "ms": 27792
+  "ms": 28215
  },
  {
   "company": "Zeb",
   "country": "United States",
   "careers": "https://zeb.co/careers/",
   "source": null,
-  "error": "timed-out",
+  "error": "careers-page-read-but-lists-no-openings",
   "totalJobs": 0,
   "jobs": [],
   "enriched": 0,
@@ -5496,10 +5526,73 @@
   "closest": null,
   "closestEng": null,
   "trace": {
-   "pages": [],
+   "pages": [
+    {
+     "url": "https://zeb.co/careers/",
+     "status": 200,
+     "bytes": 46564
+    },
+    {
+     "url": "https://careers.zeb.co",
+     "status": 0,
+     "bytes": 0,
+     "error": "fetch failed"
+    },
+    {
+     "url": "https://zeb.co/careers",
+     "status": 200,
+     "bytes": 46564
+    },
+    {
+     "url": "https://zeb.co/career",
+     "status": 404,
+     "bytes": 27792
+    },
+    {
+     "url": "https://zeb.co/jobs",
+     "status": 404,
+     "bytes": 27792
+    },
+    {
+     "url": "https://zeb.co/join-us",
+     "status": 404,
+     "bytes": 27792
+    },
+    {
+     "url": "https://zeb.co/join-our-team",
+     "status": 404,
+     "bytes": 27792
+    },
+    {
+     "url": "https://zeb.co/careers.html",
+     "status": 404,
+     "bytes": 27792
+    },
+    {
+     "url": "https://zeb.co/company/careers",
+     "status": 404,
+     "bytes": 27792
+    },
+    {
+     "url": "https://zeb.co/about/careers",
+     "status": 404,
+     "bytes": 27792
+    },
+    {
+     "url": "https://zeb.co/current-openings",
+     "status": 404,
+     "bytes": 27792
+    },
+    {
+     "url": "https://zeb.co/",
+     "status": 200,
+     "bytes": 77647
+    }
+   ],
+   "candidates": [],
    "attempts": []
   },
-  "ms": 90003
+  "ms": 68243
  },
  {
   "company": "Zell Education",
@@ -5562,7 +5655,7 @@
     "workable:zelleducation -> no board"
    ]
   },
-  "ms": 2472
+  "ms": 4008
  },
  {
   "company": "Zenatix",
@@ -5706,7 +5799,7 @@
     "workable:zenatix -> no board"
    ]
   },
-  "ms": 25120
+  "ms": 26990
  },
  {
   "company": "Zend Technologies India",
@@ -5794,7 +5887,7 @@
     "workable:zend -> no board"
    ]
   },
-  "ms": 23688
+  "ms": 9697
  },
  {
   "company": "Zenlayer India",
@@ -6215,6 +6308,7 @@
    "india": false,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [
     [
      1,
@@ -6241,6 +6335,7 @@
    "india": false,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [
     [
      1,
@@ -6305,7 +6400,7 @@
     {
      "url": "https://zenlayer.com/",
      "status": 200,
-     "bytes": 227201
+     "bytes": 227200
     },
     {
      "url": "https://careers.www.zenlayer.com",
@@ -6316,12 +6411,12 @@
     {
      "url": "https://www.zenlayer.com/careers",
      "status": 200,
-     "bytes": 185178
+     "bytes": 185177
     },
     {
      "url": "https://www.zenlayer.com/career",
      "status": 404,
-     "bytes": 152082
+     "bytes": 152081
     }
    ],
    "candidates": [
@@ -6336,7 +6431,7 @@
     "bamboohr:zenlayer -> 25 jobs"
    ]
   },
-  "ms": 23286
+  "ms": 23916
  },
  {
   "company": "Zenskar",
@@ -6361,7 +6456,7 @@
     {
      "url": "https://zenskar.com/careers",
      "status": 200,
-     "bytes": 1234145
+     "bytes": 1234118
     },
     {
      "url": "https://zenskar.com/career",
@@ -6389,7 +6484,7 @@
     "workable:zenskar -> no board"
    ]
   },
-  "ms": 28831
+  "ms": 28556
  },
  {
   "company": "Zentek Infosoft",
@@ -6432,6 +6527,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -6475,7 +6571,7 @@
     "workable:zentekinfosoft -> no board"
    ]
   },
-  "ms": 10611
+  "ms": 13311
  },
  {
   "company": "Zerodha",
@@ -6527,7 +6623,7 @@
     "workable:zerodha -> no board"
    ]
   },
-  "ms": 3141
+  "ms": 3967
  },
  {
   "company": "Zeus Learning",
@@ -6586,6 +6682,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -6664,7 +6761,7 @@
     "workable:zeuslearning -> no board"
    ]
   },
-  "ms": 10317
+  "ms": 12452
  },
  {
   "company": "Ziff Davis India",
@@ -6719,7 +6816,7 @@
     "workable:ziffdavis -> no board"
    ]
   },
-  "ms": 21893
+  "ms": 25562
  },
  {
   "company": "Zigram",
@@ -6737,7 +6834,7 @@
    "pages": [],
    "attempts": []
   },
-  "ms": 90004
+  "ms": 90003
  },
  {
   "company": "Zimyo",
@@ -6748,21 +6845,6 @@
   "jobs": [
    {
     "title": "Junior Accountant",
-    "location": "",
-    "url": "https://www.zimyo.com/templates/job-descriptions/",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 31
-   },
-   {
-    "title": "Management Trainee",
     "location": "",
     "url": "https://www.zimyo.com/templates/job-descriptions/",
     "india": true,
@@ -7645,6 +7727,21 @@
     "exp": [],
     "expFits2": false,
     "score": -3
+   },
+   {
+    "title": "Management Trainee",
+    "location": "",
+    "url": "https://www.zimyo.com/templates/job-descriptions/",
+    "india": true,
+    "locationSaysIndia": false,
+    "hasLocation": false,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": -21
    }
   ],
   "enriched": 0,
@@ -7666,6 +7763,7 @@
    "india": true,
    "senior": false,
    "junior": true,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -7726,7 +7824,7 @@
     {
      "url": "https://zimyo.com/",
      "status": 200,
-     "bytes": 389124
+     "bytes": 389303
     },
     {
      "url": "https://careers.www.zimyo.com",
@@ -7782,7 +7880,7 @@
     {
      "url": "https://www.zimyo.com/",
      "status": 200,
-     "bytes": 389124
+     "bytes": 389303
     },
     {
      "url": "https://www.zimyo.com/templates/job-descriptions/",
@@ -7810,7 +7908,7 @@
     "workable:zimyo -> no board"
    ]
   },
-  "ms": 36268
+  "ms": 40488
  },
  {
   "company": "Zinnov",
@@ -8554,6 +8652,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [
     [
      3,
@@ -8577,6 +8676,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [
     [
      3,
@@ -8650,7 +8750,7 @@
     "greenhouse:zinnov -> 40 jobs"
    ]
   },
-  "ms": 31346
+  "ms": 32222
  },
  {
   "company": "Zippee",
@@ -8724,30 +8824,6 @@
     "score": 57
    },
    {
-    "title": "Management Trainee - Operations",
-    "location": "Gurugram, HR",
-    "url": "https://zippee.keka.com/careers/jobdetails/70660",
-    "india": true,
-    "locationSaysIndia": true,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [
-     [
-      0,
-      3
-     ],
-     [
-      3,
-      4
-     ]
-    ],
-    "expFits2": true,
-    "score": 57
-   },
-   {
     "title": "Loss Prevention Associate- SLP",
     "location": "Kochi, KL",
     "url": "https://zippee.keka.com/careers/jobdetails/67284",
@@ -8762,30 +8838,6 @@
      [
       0,
       5
-     ]
-    ],
-    "expFits2": true,
-    "score": 57
-   },
-   {
-    "title": "HR Intern- 6 Months/PPO",
-    "location": "Gurugram, HR",
-    "url": "https://zippee.keka.com/careers/jobdetails/4394",
-    "india": true,
-    "locationSaysIndia": true,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [
-     [
-      0,
-      1
-     ],
-     [
-      1,
-      2
      ]
     ],
     "expFits2": true,
@@ -9177,21 +9229,6 @@
     ],
     "expFits2": true,
     "score": 45
-   },
-   {
-    "title": "MIS Intern",
-    "location": "Gurugram, HR",
-    "url": "https://zippee.keka.com/careers/jobdetails/62314",
-    "india": true,
-    "locationSaysIndia": true,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 31
    },
    {
     "title": "Dark Store Supervisor- Dubai",
@@ -9602,6 +9639,30 @@
     "score": 5
    },
    {
+    "title": "Management Trainee - Operations",
+    "location": "Gurugram, HR",
+    "url": "https://zippee.keka.com/careers/jobdetails/70660",
+    "india": true,
+    "locationSaysIndia": true,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [
+     [
+      0,
+      3
+     ],
+     [
+      3,
+      4
+     ]
+    ],
+    "expFits2": true,
+    "score": 5
+   },
+   {
     "title": "Assistant Manager - Central Operations",
     "location": "Gurugram, HR",
     "url": "https://zippee.keka.com/careers/jobdetails/58915",
@@ -9778,6 +9839,30 @@
     "score": 5
    },
    {
+    "title": "HR Intern- 6 Months/PPO",
+    "location": "Gurugram, HR",
+    "url": "https://zippee.keka.com/careers/jobdetails/4394",
+    "india": true,
+    "locationSaysIndia": true,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [
+     [
+      0,
+      1
+     ],
+     [
+      1,
+      2
+     ]
+    ],
+    "expFits2": true,
+    "score": 5
+   },
+   {
     "title": "Cluster Manager - Dark Store Operations",
     "location": "Andheri, Maharashtra",
     "url": "https://zippee.keka.com/careers/jobdetails/70378",
@@ -9851,6 +9936,21 @@
     ],
     "expFits2": false,
     "score": -7
+   },
+   {
+    "title": "MIS Intern",
+    "location": "Gurugram, HR",
+    "url": "https://zippee.keka.com/careers/jobdetails/62314",
+    "india": true,
+    "locationSaysIndia": true,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": -21
    }
   ],
   "enriched": 0,
@@ -9870,6 +9970,7 @@
     "india": true,
     "senior": false,
     "junior": false,
+    "intern": false,
     "exp": [
      [
       1,
@@ -9899,6 +10000,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [
     [
      1,
@@ -9926,6 +10028,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [
     [
      1,
@@ -10070,7 +10173,7 @@
     "keka:zippee -> 55 jobs"
    ]
   },
-  "ms": 2251
+  "ms": 2910
  },
  {
   "company": "Zippserv",
@@ -10214,7 +10317,7 @@
     "workable:zippserv -> no board"
    ]
   },
-  "ms": 13705
+  "ms": 14107
  },
  {
   "company": "Zomentum",
@@ -10263,7 +10366,7 @@
     "workable:zomentum -> no board"
    ]
   },
-  "ms": 9284
+  "ms": 11121
  },
  {
   "company": "Zonka Feedback",
@@ -10407,7 +10510,7 @@
     "workable:zonkafeedback -> no board"
    ]
   },
-  "ms": 23378
+  "ms": 57650
  },
  {
   "company": "Zopsmart",
@@ -10551,7 +10654,7 @@
     "workable:zopsmart -> no board"
    ]
   },
-  "ms": 44385
+  "ms": 31872
  },
  {
   "company": "Zuddl",
@@ -10798,6 +10901,7 @@
    "india": true,
    "senior": true,
    "junior": false,
+   "intern": false,
    "exp": [
     [
      4,
@@ -10825,6 +10929,7 @@
    "india": true,
    "senior": true,
    "junior": false,
+   "intern": false,
    "exp": [
     [
      4,
@@ -10908,7 +11013,7 @@
     "keka:zuddl -> 10 jobs"
    ]
   },
-  "ms": 8262
+  "ms": 8192
  },
  {
   "company": "Zurich India",
@@ -11008,21 +11113,6 @@
     "score": 42
    },
    {
-    "title": "Trainee Desarrollo y Automatización",
-    "location": "Barcelona, ES",
-    "url": "https://www.careers.zurich.com/job/Barcelona-Trainee-Desarrollo-y-Automatizaci%C3%B3n/1368533357/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": true,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 41
-   },
-   {
     "title": "AI Senior Engineer",
     "location": "Krakow, PL",
     "url": "https://www.careers.zurich.com/job/Krakow-AI-Senior-Engineer/1354266857/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
@@ -11038,6 +11128,21 @@
     "score": 37
    },
    {
+    "title": "Account Engineer",
+    "location": "North Sydney, AU",
+    "url": "https://www.careers.zurich.com/job/North-Sydney-Account-Engineer/1357858857/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": true,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 34
+   },
+   {
     "title": "Workplace Services Engineer 80-100% (m/w/d)",
     "location": "Zürich, CH",
     "url": "https://www.careers.zurich.com/job/Z%C3%BCrich-Workplace-Services-Engineer-80-100-%28mwd%29/1358259657/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
@@ -11051,30 +11156,6 @@
     "exp": [],
     "expFits2": false,
     "score": 34
-   },
-   {
-    "title": "Talent Acquisition Coordinator (1 Year Contract)",
-    "location": "Kuala Lumpur, MY",
-    "url": "https://www.careers.zurich.com/job/Kuala-Lumpur-Talent-Acquisition-Coordinator-%281-Year-Contract%29/1366193157/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [
-     [
-      1,
-      3
-     ],
-     [
-      3,
-      4
-     ]
-    ],
-    "expFits2": true,
-    "score": 30
    },
    {
     "title": "RCIS Crop Field Service Representative",
@@ -11142,36 +11223,6 @@
     ],
     "expFits2": false,
     "score": 25
-   },
-   {
-    "title": "AI Agent Engineering Intern",
-    "location": "Barcelona, ES",
-    "url": "https://www.careers.zurich.com/job/Barcelona-AI-Agent-Engineering-Intern/1366107957/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 16
-   },
-   {
-    "title": "Business Analyst Intern",
-    "location": "Barcelona, ES",
-    "url": "https://www.careers.zurich.com/job/Barcelona-Business-Analyst-Intern/1363396557/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 16
    },
    {
     "title": "Senior Automation Tester, APAC",
@@ -11252,26 +11303,6 @@
     "score": 12
    },
    {
-    "title": "Senior Underwriter / Underwriter (Middle Market / Commercial Insurance)",
-    "location": "Hong Kong, HK",
-    "url": "https://www.careers.zurich.com/job/Hong-Kong-Senior-Underwriter-Underwriter-%28Middle-Market-Commercial-Insurance%29/804953002/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": true,
-    "exp": [
-     [
-      2,
-      6
-     ]
-    ],
-    "expFits2": true,
-    "score": 8
-   },
-   {
     "title": "Senior DevOps Engineer, APAC",
     "location": "Kuala Lumpur, MY",
     "url": "https://www.careers.zurich.com/job/Kuala-Lumpur-Senior-DevOps-Engineer%2C-APAC/1363302357/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
@@ -11292,9 +11323,9 @@
     "score": 8
    },
    {
-    "title": "Senior Executive, Talent Acquisition",
-    "location": "Kuala Lumpur, MY",
-    "url": "https://www.careers.zurich.com/job/Kuala-Lumpur-Senior-Executive%2C-Talent-Acquisition/1366192657/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+    "title": "Senior Underwriter / Underwriter (Middle Market / Commercial Insurance)",
+    "location": "Hong Kong, HK",
+    "url": "https://www.careers.zurich.com/job/Hong-Kong-Senior-Underwriter-Underwriter-%28Middle-Market-Commercial-Insurance%29/804953002/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
@@ -11304,12 +11335,8 @@
     "senior": true,
     "exp": [
      [
-      6,
-      10
-     ],
-     [
-      1,
-      5
+      2,
+      6
      ]
     ],
     "expFits2": true,
@@ -11352,6 +11379,51 @@
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": false,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 4
+   },
+   {
+    "title": "Coordinador/a Redes de Peritos y Proveedores Diversos - Bilbao",
+    "location": "Bilbao, ES",
+    "url": "https://www.careers.zurich.com/job/Bilbao-Coordinadora-Redes-de-Peritos-y-Proveedores-Diversos-Bilbao/1363639157/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 4
+   },
+   {
+    "title": "IFA Protection Consultant",
+    "location": "Swindon, GB-WIL, GB",
+    "url": "https://www.careers.zurich.com/job/Swindon-IFA-Protection-Consultant-GB-W/1363650757/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 4
+   },
+   {
+    "title": "New Business Underwriting Specialist (Life Insurance)",
+    "location": "Kuala Lumpur, MY",
+    "url": "https://www.careers.zurich.com/job/Kuala-Lumpur-New-Business-Underwriting-Specialist-%28Life-Insurance%29/809185202/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
     "isEng": false,
     "java": false,
     "flutter": false,
@@ -11466,51 +11538,6 @@
     "score": 4
    },
    {
-    "title": "Responsable de Negocio - Corredores - Málaga",
-    "location": "Malaga, ES",
-    "url": "https://www.careers.zurich.com/job/Malaga-Responsable-de-Negocio-Corredores-M%C3%A1laga/1332391757/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 4
-   },
-   {
-    "title": "Assistant(e) de souscription",
-    "location": "Paris, FR",
-    "url": "https://www.careers.zurich.com/job/Paris-Assistant%28e%29-de-souscription/1332595657/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 4
-   },
-   {
-    "title": "Claims Analytics Specialist",
-    "location": "Toronto, ON, CA",
-    "url": "https://www.careers.zurich.com/job/Toronto-Claims-Analytics-Specialist-ON/1366334957/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 4
-   },
-   {
     "title": "Retail Claims Consultant",
     "location": "North Sydney, AU",
     "url": "https://www.careers.zurich.com/job/North-Sydney-Retail-Claims-Consultant/1360891157/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
@@ -11526,54 +11553,9 @@
     "score": 4
    },
    {
-    "title": "Data Platform & Analytics Internship",
-    "location": "Barcelona, ES",
-    "url": "https://www.careers.zurich.com/job/Barcelona-Data-Platform-&-Analytics-Internship/1363397457/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 4
-   },
-   {
     "title": "Pricing Analyst",
     "location": "Kuala Lumpur, MY",
     "url": "https://www.careers.zurich.com/job/Kuala-Lumpur-Pricing-Analyst/775951702/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 4
-   },
-   {
-    "title": "ZICTT Business Specialist Internship",
-    "location": "Barcelona, ES",
-    "url": "https://www.careers.zurich.com/job/Barcelona-ZICTT-Business-Specialist-Internship/1360511857/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 4
-   },
-   {
-    "title": "Underwriter OR Underwriting Specialist, Construction Casualty",
-    "location": "Addison, TX, US",
-    "url": "https://www.careers.zurich.com/job/Addison-Underwriter-OR-Underwriting-Specialist%2C-Construction-Casualty-TX/1360559757/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
@@ -11650,6 +11632,81 @@
     "score": -10
    },
    {
+    "title": "Trainee Desarrollo y Automatización",
+    "location": "Barcelona, ES",
+    "url": "https://www.careers.zurich.com/job/Barcelona-Trainee-Desarrollo-y-Automatizaci%C3%B3n/1368533357/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": true,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": -11
+   },
+   {
+    "title": "Digital Architect",
+    "location": "Dublin, IE-D, IE",
+    "url": "https://www.careers.zurich.com/job/Dublin-Digital-Architect-IE-D/1362130357/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [],
+    "expFits2": false,
+    "score": -18
+   },
+   {
+    "title": "Senior Business Analyst",
+    "location": "Kuala Lumpur, MY",
+    "url": "https://www.careers.zurich.com/job/Kuala-Lumpur-Senior-Business-Analyst/1360910857/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [],
+    "expFits2": false,
+    "score": -18
+   },
+   {
+    "title": "Recruitment & FA Development Manager",
+    "location": "Kuala Lumpur, MY",
+    "url": "https://www.careers.zurich.com/job/Kuala-Lumpur-Recruitment-&-FA-Development-Manager/1355537757/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [],
+    "expFits2": false,
+    "score": -18
+   },
+   {
+    "title": "Senior Marketing Specialist",
+    "location": "Kuala Lumpur, MY",
+    "url": "https://www.careers.zurich.com/job/Kuala-Lumpur-Senior-Marketing-Specialist/809184802/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [],
+    "expFits2": false,
+    "score": -18
+   },
+   {
     "title": "UNDERWRITER IV",
     "location": "Monterrey, MX",
     "url": "https://www.careers.zurich.com/job/Monterrey-UNDERWRITER-IV/1366323057/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
@@ -11680,39 +11737,9 @@
     "score": -18
    },
    {
-    "title": "VP adjoint(e), Consultant(e) principal(e) en gestion des risques en biens",
-    "location": "Quebec, QC, CA",
-    "url": "https://www.careers.zurich.com/job/Quebec-VP-adjoint%28e%29%2C-Consultant%28e%29-principal%28e%29-en-gestion-des-risques-en-biens-QC/1360839857/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": true,
-    "exp": [],
-    "expFits2": false,
-    "score": -18
-   },
-   {
     "title": "Senior Travel Claims Technician",
     "location": "London, GB-LND, GB",
     "url": "https://www.careers.zurich.com/job/London-Senior-Travel-Claims-Technician-GB-L/1363530457/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": true,
-    "exp": [],
-    "expFits2": false,
-    "score": -18
-   },
-   {
-    "title": "AVP, Senior Property Risk Consultant",
-    "location": "Quebec, QC, CA",
-    "url": "https://www.careers.zurich.com/job/Quebec-AVP%2C-Senior-Property-Risk-Consultant-QC/1360839757/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
@@ -11740,9 +11767,9 @@
     "score": -18
    },
    {
-    "title": "Lead Claims Assessor",
-    "location": "Dublin, IE-D, IE",
-    "url": "https://www.careers.zurich.com/job/Dublin-Lead-Claims-Assessor-IE-D/1357940057/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+    "title": "AVP, Senior Property Risk Consultant",
+    "location": "Quebec, QC, CA",
+    "url": "https://www.careers.zurich.com/job/Quebec-AVP%2C-Senior-Property-Risk-Consultant-QC/1360839757/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
@@ -11770,9 +11797,9 @@
     "score": -18
    },
    {
-    "title": "Senior Construction Specialties Risk Engineering Consultant",
-    "location": "Los Angeles, CA, US",
-    "url": "https://www.careers.zurich.com/job/Los-Angeles-Senior-Construction-Specialties-Risk-Engineering-Consultant-CA-90001/1360570057/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+    "title": "VP adjoint(e), Consultant(e) principal(e) en gestion des risques en biens",
+    "location": "Quebec, QC, CA",
+    "url": "https://www.careers.zurich.com/job/Quebec-VP-adjoint%28e%29%2C-Consultant%28e%29-principal%28e%29-en-gestion-des-risques-en-biens-QC/1360839857/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
@@ -11783,6 +11810,74 @@
     "exp": [],
     "expFits2": false,
     "score": -18
+   },
+   {
+    "title": "Claims Handler - Commercial Insurance (Mid to Expert Level)",
+    "location": "Warsaw, PL",
+    "url": "https://www.careers.zurich.com/job/Warsaw-Claims-Handler-Commercial-Insurance-%28Mid-to-Expert-Level%29/1352989857/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [
+     [
+      5,
+      9
+     ],
+     [
+      8,
+      12
+     ]
+    ],
+    "expFits2": false,
+    "score": -22
+   },
+   {
+    "title": "Senior Surety Underwriter",
+    "location": "Warsaw, PL",
+    "url": "https://www.careers.zurich.com/job/Warsaw-Senior-Surety-Underwriter/1358128057/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [
+     [
+      7,
+      11
+     ]
+    ],
+    "expFits2": false,
+    "score": -22
+   },
+   {
+    "title": "Assistant Manager, Advisory Compliance",
+    "location": "Kuala Lumpur, MY",
+    "url": "https://www.careers.zurich.com/job/Kuala-Lumpur-Assistant-Manager%2C-Advisory-Compliance/1355535657/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [
+     [
+      5,
+      9
+     ],
+     [
+      5,
+      6
+     ]
+    ],
+    "expFits2": false,
+    "score": -22
    },
    {
     "title": "Head of Partnership",
@@ -11857,44 +11952,49 @@
     "score": -22
    },
    {
-    "title": "Business Development Manager Sr",
-    "location": "Virtual, NY, US",
-    "url": "https://www.careers.zurich.com/job/Virtual-Business-Development-Manager-Sr-NY/1366204057/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+    "title": "Data Platform & Analytics Internship",
+    "location": "Barcelona, ES",
+    "url": "https://www.careers.zurich.com/job/Barcelona-Data-Platform-&-Analytics-Internship/1363397457/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
     "isEng": false,
     "java": false,
     "flutter": false,
-    "senior": true,
-    "exp": [
-     [
-      5,
-      7
-     ]
-    ],
+    "senior": false,
+    "exp": [],
     "expFits2": false,
-    "score": -22
+    "score": -36
    },
    {
-    "title": "Valuation Actuary Lead - Zurich Topas Life",
-    "location": "Jakarta, ID",
-    "url": "https://www.careers.zurich.com/job/Jakarta-Valuation-Actuary-Lead-Zurich-Topas-Life/1329986157/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+    "title": "AI Agent Engineering Intern",
+    "location": "Barcelona, ES",
+    "url": "https://www.careers.zurich.com/job/Barcelona-AI-Agent-Engineering-Intern/1366107957/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
     "isEng": false,
     "java": false,
     "flutter": false,
-    "senior": true,
-    "exp": [
-     [
-      8,
-      12
-     ]
-    ],
+    "senior": false,
+    "exp": [],
     "expFits2": false,
-    "score": -22
+    "score": -36
+   },
+   {
+    "title": "Business Analyst Intern",
+    "location": "Barcelona, ES",
+    "url": "https://www.careers.zurich.com/job/Barcelona-Business-Analyst-Intern/1363396557/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": -36
    }
   ],
   "enriched": 0,
@@ -11915,6 +12015,7 @@
     "india": false,
     "senior": false,
     "junior": false,
+    "intern": false,
     "exp": [
      [
       3,
@@ -11938,6 +12039,7 @@
     "india": false,
     "senior": false,
     "junior": false,
+    "intern": false,
     "exp": [],
     "expFits2": false
    },
@@ -11956,6 +12058,7 @@
     "india": false,
     "senior": false,
     "junior": false,
+    "intern": false,
     "exp": [],
     "expFits2": false
    }
@@ -11975,6 +12078,7 @@
    "india": false,
    "senior": false,
    "junior": true,
+   "intern": false,
    "exp": [
     [
      2,
@@ -11998,6 +12102,7 @@
    "india": false,
    "senior": false,
    "junior": true,
+   "intern": false,
    "exp": [
     [
      2,
@@ -12011,7 +12116,7 @@
     {
      "url": "https://careers.zurich.com",
      "status": 200,
-     "bytes": 61046
+     "bytes": 61045
     },
     {
      "url": "https://zurich.com/careers",
@@ -12036,63 +12141,27 @@
     {
      "url": "https://zurich.com/join-our-team",
      "status": 200,
-     "bytes": 212
+     "bytes": 947
     },
     {
      "url": "https://zurich.com/careers.html",
      "status": 200,
-     "bytes": 212
+     "bytes": 947
     },
     {
      "url": "https://zurich.com/company/careers",
      "status": 200,
-     "bytes": 949
+     "bytes": 951
     },
     {
      "url": "https://zurich.com/about/careers",
      "status": 200,
-     "bytes": 951
+     "bytes": 949
     },
     {
      "url": "https://zurich.com/current-openings",
      "status": 200,
-     "bytes": 955
-    },
-    {
-     "url": "https://zurich.com/",
-     "status": 200,
-     "bytes": 949
-    },
-    {
-     "url": "https://careers.www.zurich.com",
-     "status": 0,
-     "bytes": 0,
-     "error": "fetch failed"
-    },
-    {
-     "url": "https://www.zurich.com/careers",
-     "status": 200,
-     "bytes": 949
-    },
-    {
-     "url": "https://www.zurich.com/career",
-     "status": 200,
-     "bytes": 953
-    },
-    {
-     "url": "https://www.zurich.com/jobs",
-     "status": 200,
-     "bytes": 949
-    },
-    {
-     "url": "https://www.zurich.com/join-us",
-     "status": 200,
-     "bytes": 953
-    },
-    {
-     "url": "https://www.zurich.com/join-our-team",
-     "status": 200,
-     "bytes": 959
+     "bytes": 957
     }
    ],
    "candidates": [
@@ -12107,7 +12176,7 @@
     "successfactors:www.careers.zurich.com -> 56 jobs"
    ]
   },
-  "ms": 13520
+  "ms": 10314
  },
  {
   "company": "Zwende",
@@ -12177,7 +12246,7 @@
     {
      "url": "https://zwende.com/",
      "status": 200,
-     "bytes": 1177333
+     "bytes": 1179780
     },
     {
      "url": "https://careers.www.zwende.com",
@@ -12233,7 +12302,7 @@
     {
      "url": "https://www.zwende.com/",
      "status": 200,
-     "bytes": 1177333
+     "bytes": 1179780
     }
    ],
    "candidates": [
@@ -12251,7 +12320,7 @@
     "workable:zwende -> no board"
    ]
   },
-  "ms": 12651
+  "ms": 16846
  },
  {
   "company": "Zykrr",
@@ -12395,7 +12464,7 @@
     "workable:zykrr -> no board"
    ]
   },
-  "ms": 10770
+  "ms": 12115
  },
  {
   "company": "ZS",
@@ -12628,7 +12697,7 @@
    "candidates": [],
    "attempts": []
   },
-  "ms": 7281
+  "ms": 5555
  },
  {
   "company": "Zeotap",
@@ -12722,7 +12791,7 @@
     "workable:zeotap -> no board"
    ]
   },
-  "ms": 20566
+  "ms": 20801
  },
  {
   "company": "Zolve",
@@ -12977,6 +13046,7 @@
    "india": true,
    "senior": false,
    "junior": true,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -12986,7 +13056,7 @@
     {
      "url": "https://zolve.freshteam.com/jobs",
      "status": 200,
-     "bytes": 57033
+     "bytes": 57057
     },
     {
      "url": "https://careers.zolve.com",
@@ -13020,7 +13090,7 @@
     "workable:zolve -> no board"
    ]
   },
-  "ms": 8266
+  "ms": 8196
  },
  {
   "company": "Zupee",
@@ -13129,7 +13199,7 @@
     "workable:zupee -> no board"
    ]
   },
-  "ms": 5990
+  "ms": 5747
  },
  {
   "company": "Zenduty",
@@ -13277,7 +13347,7 @@
     "workable:zenduty -> no board"
    ]
   },
-  "ms": 36379
+  "ms": 24561
  },
  {
   "company": "Zuper",
@@ -13418,6 +13488,7 @@
    "india": false,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [
     [
      1,
@@ -13507,7 +13578,7 @@
     "keka:zupersoft -> 5 jobs"
    ]
   },
-  "ms": 945
+  "ms": 1083
  },
  {
   "company": "Zinier",
@@ -13971,6 +14042,7 @@
     "india": true,
     "senior": false,
     "junior": true,
+    "intern": false,
     "exp": [
      [
       0,
@@ -13999,6 +14071,7 @@
     "india": true,
     "senior": false,
     "junior": false,
+    "intern": false,
     "exp": [
      [
       2,
@@ -14023,6 +14096,7 @@
     "india": true,
     "senior": false,
     "junior": false,
+    "intern": false,
     "exp": [
      [
       4,
@@ -14053,6 +14127,7 @@
     "india": true,
     "senior": false,
     "junior": true,
+    "intern": false,
     "exp": [
      [
       4,
@@ -14081,6 +14156,7 @@
     "india": true,
     "senior": false,
     "junior": false,
+    "intern": false,
     "exp": [
      [
       4,
@@ -14109,6 +14185,7 @@
     "india": true,
     "senior": false,
     "junior": false,
+    "intern": false,
     "exp": [
      [
       4,
@@ -14134,6 +14211,7 @@
    "india": true,
    "senior": false,
    "junior": true,
+   "intern": false,
    "exp": [
     [
      0,
@@ -14162,6 +14240,7 @@
    "india": true,
    "senior": false,
    "junior": true,
+   "intern": false,
    "exp": [
     [
      0,
@@ -14250,7 +14329,7 @@
     "breezy:zinier -> 25 jobs"
    ]
   },
-  "ms": 9428
+  "ms": 9088
  },
  {
   "company": "Zaloni",
@@ -14268,7 +14347,7 @@
    "pages": [],
    "attempts": []
   },
-  "ms": 90004
+  "ms": 90001
  },
  {
   "company": "ZeOmega",
@@ -14358,7 +14437,7 @@
     "workable:zeomega -> no board"
    ]
   },
-  "ms": 15269
+  "ms": 17794
  },
  {
   "company": "Zolon Tech",
@@ -14536,6 +14615,7 @@
    "india": false,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -14556,7 +14636,7 @@
     {
      "url": "https://zolontech.com/career",
      "status": 200,
-     "bytes": 282148
+     "bytes": 282175
     },
     {
      "url": "https://zolontech.com/jobs",
@@ -14599,7 +14679,7 @@
     "workable:zolontech -> no board"
    ]
   },
-  "ms": 12588
+  "ms": 15515
  },
  {
   "company": "Zenwork",
@@ -14866,6 +14946,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -14884,6 +14965,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -14943,7 +15025,7 @@
     "keka:zenwork -> 11 jobs"
    ]
   },
-  "ms": 5021
+  "ms": 4777
  },
  {
   "company": "ZoomRx",
@@ -15030,7 +15112,7 @@
     "workable:zoomrx -> no board"
    ]
   },
-  "ms": 17229
+  "ms": 55320
  },
  {
   "company": "Zifo",
@@ -15040,36 +15122,6 @@
   "error": null,
   "totalJobs": 3,
   "jobs": [
-   {
-    "title": "Scientific Application Intern",
-    "location": "",
-    "url": "https://careers.zifo.com/",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 31
-   },
-   {
-    "title": "Business Process Intern",
-    "location": "",
-    "url": "https://careers.zifo.com/",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 31
-   },
    {
     "title": "Assistant Manager - Finance, Chennai",
     "location": "",
@@ -15084,27 +15136,58 @@
     "exp": [],
     "expFits2": false,
     "score": -3
+   },
+   {
+    "title": "Scientific Application Intern",
+    "location": "",
+    "url": "https://careers.zifo.com/",
+    "india": true,
+    "locationSaysIndia": false,
+    "hasLocation": false,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": -21
+   },
+   {
+    "title": "Business Process Intern",
+    "location": "",
+    "url": "https://careers.zifo.com/",
+    "india": true,
+    "locationSaysIndia": false,
+    "hasLocation": false,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": -21
    }
   ],
   "enriched": 0,
   "matches": [],
   "nearMatches": [],
   "closest": {
-   "title": "Scientific Application Intern",
+   "title": "Assistant Manager - Finance, Chennai",
    "location": "",
    "url": "https://careers.zifo.com/",
    "team": "",
-   "text": "Scientific Application Intern",
+   "text": "Assistant Manager - Finance, Chennai Zifo North America Click here to see North America jobs Zifo Europe Click here to see Europe jobs Internship Openings The internship program at Zifo Technologies Inc. typically runs from late May to early August. The details of the intern program along with the application process will be published in January.",
    "_noEnrich": true,
-   "score": 31,
+   "score": -3,
    "isMatch": false,
    "isEng": false,
    "java": false,
    "flutter": false,
    "android": false,
    "india": true,
-   "senior": false,
-   "junior": true,
+   "senior": true,
+   "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -15129,7 +15212,7 @@
     {
      "url": "https://zifo.com/career",
      "status": 404,
-     "bytes": 369553
+     "bytes": 369552
     },
     {
      "url": "https://zifo.com/jobs",
@@ -15152,7 +15235,7 @@
     "workable:zifo -> no board"
    ]
   },
-  "ms": 11768
+  "ms": 12590
  },
  {
   "company": "Zimetrics Technologies",
@@ -15257,6 +15340,7 @@
    "india": true,
    "senior": true,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -15276,6 +15360,7 @@
    "india": true,
    "senior": true,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -15328,7 +15413,7 @@
     "workable:zimetrics -> no board"
    ]
   },
-  "ms": 17049
+  "ms": 12217
  },
  {
   "company": "Zyxware Technologies",
@@ -15513,6 +15598,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [
     [
      4,
@@ -15537,6 +15623,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [
     [
      4,
@@ -15583,7 +15670,7 @@
     "workable:zyxware -> no board"
    ]
   },
-  "ms": 6906
+  "ms": 4353
  },
  {
   "company": "Zerone Consulting",
@@ -15733,7 +15820,7 @@
     "workable:zeroneconsulting -> no board"
    ]
   },
-  "ms": 25750
+  "ms": 27283
  },
  {
   "company": "Zealous System",
@@ -15808,6 +15895,7 @@
     "india": true,
     "senior": false,
     "junior": false,
+    "intern": false,
     "exp": [],
     "expFits2": false
    }
@@ -15828,6 +15916,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -15847,6 +15936,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -15855,7 +15945,7 @@
     {
      "url": "https://zealousys.com/career/",
      "status": 200,
-     "bytes": 474324
+     "bytes": 474351
     },
     {
      "url": "https://careers.zealousys.com",
@@ -15877,6 +15967,16 @@
      "url": "https://zealousys.com/jobs",
      "status": 404,
      "bytes": 234070
+    },
+    {
+     "url": "https://zealousys.com/join-us",
+     "status": 404,
+     "bytes": 234075
+    },
+    {
+     "url": "https://zealousys.com/join-our-team",
+     "status": 404,
+     "bytes": 234079
     }
    ],
    "candidates": [
@@ -15904,7 +16004,7 @@
     "workable:zealousys -> no board"
    ]
   },
-  "ms": 16525
+  "ms": 21993
  },
  {
   "company": "Zestard Technologies",
@@ -15967,7 +16067,7 @@
     "workable:zestard -> no board"
    ]
   },
-  "ms": 3197
+  "ms": 3316
  },
  {
   "company": "Zapbuild",
@@ -16021,7 +16121,7 @@
     "workable:zapbuild -> no board"
    ]
   },
-  "ms": 79682
+  "ms": 80730
  },
  {
   "company": "Zeeve",
@@ -16030,26 +16130,6 @@
   "error": null,
   "totalJobs": 6,
   "jobs": [
-   {
-    "title": "Devops Trainee Developer",
-    "location": "",
-    "url": "https://www.zeeve.io/career/devops-trainee-developer/",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": true,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [
-     [
-      0,
-      1
-     ]
-    ],
-    "expFits2": false,
-    "score": 69
-   },
    {
     "title": "Sr. Golang Developer",
     "location": "",
@@ -16069,21 +16149,6 @@
     ],
     "expFits2": false,
     "score": 35
-   },
-   {
-    "title": "Blockchain Trainee",
-    "location": "",
-    "url": "https://www.zeeve.io/career/blockchain-trainee/",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 31
    },
    {
     "title": "Sr. Rust Developer",
@@ -16121,6 +16186,26 @@
     "score": 22
    },
    {
+    "title": "Devops Trainee Developer",
+    "location": "",
+    "url": "https://www.zeeve.io/career/devops-trainee-developer/",
+    "india": true,
+    "locationSaysIndia": false,
+    "hasLocation": false,
+    "isEng": true,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [
+     [
+      0,
+      1
+     ]
+    ],
+    "expFits2": false,
+    "score": 17
+   },
+   {
     "title": "Technical Project Manager",
     "location": "",
     "url": "https://www.zeeve.io/career/technical-project-manager/",
@@ -16134,55 +16219,72 @@
     "exp": [],
     "expFits2": false,
     "score": -3
+   },
+   {
+    "title": "Blockchain Trainee",
+    "location": "",
+    "url": "https://www.zeeve.io/career/blockchain-trainee/",
+    "india": true,
+    "locationSaysIndia": false,
+    "hasLocation": false,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": -21
    }
   ],
   "enriched": 3,
   "matches": [],
   "nearMatches": [],
   "closest": {
-   "title": "Devops Trainee Developer",
+   "title": "Sr. Golang Developer",
    "location": "",
-   "url": "https://www.zeeve.io/career/devops-trainee-developer/",
+   "url": "https://www.zeeve.io/career/sr-golang-developer/",
    "team": "",
-   "text": "Devops Trainee Developer - Blockchain Deployment and Management Platform | Zeeve Skip to content Solutions By Industry Banking & Capital Markets Blockchain Build For Regulated Finance Fintech & Payments Power programmable payments & embedded finance Telecom Monetize Telecom Assets in new ways ESG & Supply Chain Bring Trust & Visibility across partners Web3 & Digital Asset Networks Launch faster & scale with confidence By Use cases Institutional Digital Asset Framework Compliance, control and scale from day one Tokenized Funds & RWAs Tokenized Deposits Stablecoins & CBDCs Digital Securities Cross-Border & Settlement Rails Move money faster with more control Trade Finance Lorem ipsum dolor sit amet, consecte adipiscing elit Capital Markets Lorem ipsum dolor sit amet, consecte adipiscing elit DeFi/DePIN for Startups Lorem ipsum dolor sit amet, consecte adipiscing elit Custom Lorem ipsum dolor sit amet, consecte adipiscing elit Platform Zeeve Enterprise Platform Governance & Reliability from day one Tokenized Deposits Cosmos Tokenization Suite Zeeve Tegaris Zeeve Privacy Layer ZK Infrastructure Operate ZK networks with confidence Integrations Zeeve Integrations Products Managed Custom Blockchain From Deployment to Production Tokenized Deposits Cosmos Tokenization Suite Zeeve Tegaris Zeeve Privacy Layer Appchains as a Service Appchains as a Service RPC & Node Infrastructure RPC & Node Infrastructure Validator & Staking Infrastructure Validator & Staking Infrastructure Traceye (Indexing & Data) Traceye (Indexing & Data) Vizion Lorem ipsum dolor sit amet, consecte adipiscing elit Advisory & Engineering Resources Blogs Research, insights and tutorials from web3 experts. Case Studies Real-world success stories of Zeeve Clientele. Whitepapers & Reports Lorem ipsum dolor sit amet, consecte adipiscing elit Events & Webinars Check our webinars, AMAs, and global event participation. Developer Docs Platform and product know-how documentation. Company About Zeeve, Leadership The operational layer behind enterprise use cases Why Zeeve Why Zeeve Customers & Case Studies Real-world success stories of Zeeve Clientele. Security & Compliance Security & Compliance Partner Ecosystem Collaborate with us to accelerate blockchain adoption. Careers Join our team at Zeeve Contact Schedule a Call with Zeeve Expert X Signup Solutions By Industry Banking & Capital Markets Blockchain Build For Regulated Finance Fintech & Payments Power programmable payments & embedded finance Telecom Monetize Telecom Assets in new ways ESG & Supply Chain Bring Trust & Visibility across partners Web3 & Digital Asset Networks Launch faster & scale with confidence By Use cases Institutional Digital Asset Framework Compliance, control and scale from day one Tokenized Funds & RWAs Tokenized Deposits Stablecoins & CBDCs Digital Securities Cross-Border & Settlement Rails Move money faster with more control Trade Finance Lorem ipsum dolor sit amet, consecte adipiscing elit Capital Markets Lorem ipsum dolor sit amet, consecte adipiscing elit DeFi/DePIN for Startups Lorem ipsum dolor sit amet, consecte adipiscing elit Custom Lorem ipsum dolor sit amet, consecte adipiscing elit Platform Zeeve Enterprise Platform Governance & Reliability from day one Tokenized Deposits Cosmos Tokenization Suite Zeeve Tegaris Zeeve Privacy Layer ZK Infrastructure Operate ZK networks with confidence Integrations Zeeve Integrations Products Managed Custom Blockchain From Deployment to Production Tokenized Deposits Cosmos Tokenization Suite Zeeve Tegaris Zeeve Privacy Layer Appchains as a Service Appchains as a Service RPC & Node Infrastructure RPC & Node Infrastructure Validator & Staking Infrastructure Validator & Staking Infrastructure Traceye (Indexing & Data) Traceye (Indexing & Data) Vizion Lorem ipsum dolor sit amet, consecte adipiscing elit Advisory & Engineering Resources Blogs Research, insights and tutorials from web3 experts. Case Studies Real-world success stories of Zeeve Clientele. Whitepapers & Reports Lorem ipsum dolor sit amet, consecte adipiscing elit Events & Webinars Check our webinars, AMAs, and global event participation. Developer Docs Platform and product know-how documentation. Company About Zeeve, Leadership The operational layer behind enterprise use cases Why Zeeve Why Zeeve Customers & Case Studies Real-world success stories of Zeeve Clientele. Security & Compliance Security & Compliance Partner Ecosystem Collaborate with us to accelerate blockchain adoption. Careers Join our team at Zeeve Contact Schedule a Call with Zeeve Expert X Signup Devops Trainee Developer Job Summary We are looking for a passionate and enthusiastic DevOps Fresher who is eager to build a career in Cloud, Automation, and Infrastructure Management. The ideal candidate should have a basic understanding of DevOps practices, CI/CD pipelines, cloud platforms, Linux systems, and monitoring tools. The candidate will work closely with the engineering and infrastructure teams to support deployment processes, automate workflows, and maintain system reliability. Key Responsibilities Assist in managing CI/CD pipelines for application deployments Support cloud infrastructure setup and monitoring activities Work with development teams to automate build and deployment processes Monitor system performance and troubleshoot deployment issues Maintain and manage Linux-based servers and environments Support containerization and orchestration activities using Docker/Kubernetes Participate in release management and production support Document processes, configurations, and operational procedures Required Skills Basic understanding of DevOps concepts and SDLC Knowledge of Linux/Unix operating systems Familiarity with Git and version control systems Basic understanding of CI/CD tools such as Jenkins/GitHub Actions Understanding of cloud platforms like AWS, Azure, or GCP Familiarity with Docker and Kubernetes concepts Basic scripting knowledge in Shell/Python/Bash Good problem-solving and troubleshooting skills Preferred Skills Knowledge of Infrastructure as Code tools such as Terraform or Ansible Exposure to monitoring/logging tools like Grafana, Prometheus, or ELK Understanding of networking fundamentals and security basics Internship or academic project experience in DevOps/Cloud Educational Qualification B.Tech/B.E./BCA/MCA in Computer Science, IT, or related field Recent graduates passing out in 2025/2026 can apply What We Offer Opportunity to work on modern cloud and DevOps technologies Hands-on learning and mentorship from experienced engineers Collaborative and growth-oriented work environment Career development opportunities in Cloud & DevOps Engineering Apply Now Share Now Date Posted 5 June 2026 Location Noida sector 142 Work Type Full-Time Classification --> Experience 0–1 Year Preference Start your Blockchain Project with the help of our Team of Experts. Meet our world famous support team. They are fast, they are smart, and they will help you out any time. Contact us or Start for free Zeeve is an enterprise-grade Blockchain Infrastructure Automation Platform. Join the growing list of clients that trust us with their Blockchain initiatives. Twitter Linkedin-in Medium-m Telegram-plane Contact Info USA: Zeeve Inc, 395 Santa Monica Place, Unit 308, Santa Monica, California, 90405 Email: success@zeeve.io Quick Links SCAPE About Zeeve Privacy & Security Zeeve Platform Contact Us Terms & Conditions © 2021 Zeeve . All rights reserved Zeeve is an enterprise-grade Blockchain Infrastructure Automation Platform. Join the growing list of clients that trust us with their Blockchain initiatives Quick links Refund Policy Contact us Protocols Community Media Kit Events Newsroom Our Partners DPA ZDFS About Zeeve Careers Disclaimer Cookie Policy Privacy & Security Announcement Terms & Conditions Enterprise Blockchain Newsletter Please enable JavaScript in your browser to complete this form. Please enable JavaScript in your browser to complete this form. Email Email * * I give consent to process my personal information at Zeeve and agree to Zeeve's Terms and Conditions and Zeeve's Privacy Policy where Zeeve may collect, use and disclose personal information. Subscribe Social Links Address Zeeve Inc, 300 Spectrum Center Dr. Suite 400 Irvine, CA 92618, United States Сontact email success@zeeve.io Contact Number ‎+1 (949) 754-4494 Social Links @ 2026 Zeeve . All Rights Reserved",
+   "text": "Sr. Golang Developer - Blockchain Deployment and Management Platform | Zeeve Skip to content Solutions By Industry Banking & Capital Markets Blockchain Build For Regulated Finance Fintech & Payments Power programmable payments & embedded finance Telecom Monetize Telecom Assets in new ways ESG & Supply Chain Bring Trust & Visibility across partners Web3 & Digital Asset Networks Launch faster & scale with confidence By Use cases Institutional Digital Asset Framework Compliance, control and scale from day one Tokenized Funds & RWAs Tokenized Deposits Stablecoins & CBDCs Digital Securities Cross-Border & Settlement Rails Move money faster with more control Trade Finance Lorem ipsum dolor sit amet, consecte adipiscing elit Capital Markets Lorem ipsum dolor sit amet, consecte adipiscing elit DeFi/DePIN for Startups Lorem ipsum dolor sit amet, consecte adipiscing elit Custom Lorem ipsum dolor sit amet, consecte adipiscing elit Platform Zeeve Enterprise Platform Governance & Reliability from day one Tokenized Deposits Cosmos Tokenization Suite Zeeve Tegaris Zeeve Privacy Layer ZK Infrastructure Operate ZK networks with confidence Integrations Zeeve Integrations Products Managed Custom Blockchain From Deployment to Production Tokenized Deposits Cosmos Tokenization Suite Zeeve Tegaris Zeeve Privacy Layer Appchains as a Service Appchains as a Service RPC & Node Infrastructure RPC & Node Infrastructure Validator & Staking Infrastructure Validator & Staking Infrastructure Traceye (Indexing & Data) Traceye (Indexing & Data) Vizion Lorem ipsum dolor sit amet, consecte adipiscing elit Advisory & Engineering Resources Blogs Research, insights and tutorials from web3 experts. Case Studies Real-world success stories of Zeeve Clientele. Whitepapers & Reports Lorem ipsum dolor sit amet, consecte adipiscing elit Events & Webinars Check our webinars, AMAs, and global event participation. Developer Docs Platform and product know-how documentation. Company About Zeeve, Leadership The operational layer behind enterprise use cases Why Zeeve Why Zeeve Customers & Case Studies Real-world success stories of Zeeve Clientele. Security & Compliance Security & Compliance Partner Ecosystem Collaborate with us to accelerate blockchain adoption. Careers Join our team at Zeeve Contact Schedule a Call with Zeeve Expert X Signup Solutions By Industry Banking & Capital Markets Blockchain Build For Regulated Finance Fintech & Payments Power programmable payments & embedded finance Telecom Monetize Telecom Assets in new ways ESG & Supply Chain Bring Trust & Visibility across partners Web3 & Digital Asset Networks Launch faster & scale with confidence By Use cases Institutional Digital Asset Framework Compliance, control and scale from day one Tokenized Funds & RWAs Tokenized Deposits Stablecoins & CBDCs Digital Securities Cross-Border & Settlement Rails Move money faster with more control Trade Finance Lorem ipsum dolor sit amet, consecte adipiscing elit Capital Markets Lorem ipsum dolor sit amet, consecte adipiscing elit DeFi/DePIN for Startups Lorem ipsum dolor sit amet, consecte adipiscing elit Custom Lorem ipsum dolor sit amet, consecte adipiscing elit Platform Zeeve Enterprise Platform Governance & Reliability from day one Tokenized Deposits Cosmos Tokenization Suite Zeeve Tegaris Zeeve Privacy Layer ZK Infrastructure Operate ZK networks with confidence Integrations Zeeve Integrations Products Managed Custom Blockchain From Deployment to Production Tokenized Deposits Cosmos Tokenization Suite Zeeve Tegaris Zeeve Privacy Layer Appchains as a Service Appchains as a Service RPC & Node Infrastructure RPC & Node Infrastructure Validator & Staking Infrastructure Validator & Staking Infrastructure Traceye (Indexing & Data) Traceye (Indexing & Data) Vizion Lorem ipsum dolor sit amet, consecte adipiscing elit Advisory & Engineering Resources Blogs Research, insights and tutorials from web3 experts. Case Studies Real-world success stories of Zeeve Clientele. Whitepapers & Reports Lorem ipsum dolor sit amet, consecte adipiscing elit Events & Webinars Check our webinars, AMAs, and global event participation. Developer Docs Platform and product know-how documentation. Company About Zeeve, Leadership The operational layer behind enterprise use cases Why Zeeve Why Zeeve Customers & Case Studies Real-world success stories of Zeeve Clientele. Security & Compliance Security & Compliance Partner Ecosystem Collaborate with us to accelerate blockchain adoption. Careers Join our team at Zeeve Contact Schedule a Call with Zeeve Expert X Signup Sr. Golang Developer About Zeeve Zeeve is a leading Blockchain Infrastructure platform enabling enterprises, startups, and Web3 innovators to deploy, manage, and scale decentralized networks seamlessly. We work with cutting-edge technologies across Layer 1, Layer 2, and enterprise blockchain ecosystems. Role Overview We are seeking a talented and enthusiastic Go Lang Developer to join our dynamic team at Zeeve Deeptech Pvt Ltd. The ideal candidate will have a strong background in software development with a deep understanding of Go (Golang) programming. You will be responsible for developing, implementing, and maintaining robust, scalable, and high-performance applications and system services that power our cutting edge blockchain technology. Key Responsibilities Develop and Maintain Applications: Design, develop, test, and maintain Go-based applications and microservices. Blockchain Network Client Development: Work on developing distributed system clients to form feature rich networks. API Development: Create and maintain RESTful APIs for seamless integration with other services and applications. Testing & Integrations: Develop unit & integration tests for various services and modules with good coverage. Performance Optimization: Optimize applications for maximum speed and scalability. Code Review and Collaboration: Participate in code reviews, provide constructive feedback, and collaborate with team members to ensure high-quality code. Troubleshooting and Debugging: Identify and resolve performance and scalability issues in a timely manner. Documentation: Maintain clear and comprehensive documentation for all developed code and systems. Continuous Learning: Stay updated with the latest industry trends and best practices in Go development and blockchain technology. Qualifications Education: B.Tech/B.E. in Computer Science, Information Technology, Electronics, or related field. Technical Skills Proficiency in Go (Golang) programming. Strong understanding of concurrent programming and experience with multi-threaded applications. Experience with RESTful API development and integration. Familiarity with containerization technologies such as Docker and orchestration tools like Kubernetes. Knowledge of database systems, both SQL and NoSQL. Soft Skills Strong problem-solving skills and attention to detail. Excellent communication and teamwork abilities. Ability to work independently and manage time effectively. Preferred Qualifications Experience with blockchain frameworks like Ethereum, Hyperledger, or Corda. Knowledge of cryptographic principles and security practices. Familiarity with DevOps practices and CI/CD pipelines. Contribution to open-source projects. Apply Now Share Now Date Posted 7 June 2026 Location Noida sector 142 Work Type Full-Time Classification --> Experience 4–7 Years Preference Preference: Immediate joiners or candidates serving a short notice period (10–15 days) will be preferred. Start your Blockchain Project with the help of our Team of Experts. Meet our world famous support team. They are fast, they are smart, and they will help you out any time. Contact us or Start for free Zeeve is an enterprise-grade Blockchain Infrastructure Automation Platform. Join the growing list of clients that trust us with their Blockchain initiatives. Twitter Linkedin-in Medium-m Telegram-plane Contact Info USA: Zeeve Inc, 395 Santa Monica Place, Unit 308, Santa Monica, California, 90405 Email: success@zeeve.io Quick Links SCAPE About Zeeve Privacy & Security Zeeve Platform Contact Us Terms & Conditions © 2021 Zeeve . All rights reserved Zeeve is an enterprise-grade Blockchain Infrastructure Automation Platform. Join the growing list of clients that trust us with their Blockchain initiatives Quick links Refund Policy Contact us Protocols Community Media Kit Events Newsroom Our Partners DPA ZDFS About Zeeve Careers Disclaimer Cookie Policy Privacy & Security Announcement Terms & Conditions Enterprise Blockchain Newsletter Please enable JavaScript in your browser to complete this form. Please enable JavaScript in your browser to complete this form. Email Email * * I give consent to process my personal information at Zeeve and agree to Zeeve's Terms and Conditions and Zeeve's Privacy Policy where Zeeve may collect, use and disclose personal information. Subscribe Social Links Address Zeeve Inc, 300 Spectrum Center Dr. Suite 400 Irvine, CA 92618, United States Сontact email success@zeeve.io Contact Number ‎+1 (949) 754-4494 Social Links @ 2026 Zeeve . All Rights Reserved",
    "_enriched": true,
-   "score": 69,
+   "score": 35,
    "isMatch": false,
    "isEng": true,
    "java": false,
    "flutter": false,
    "android": false,
    "india": true,
-   "senior": false,
-   "junior": true,
+   "senior": true,
+   "junior": false,
+   "intern": false,
    "exp": [
     [
-     0,
-     1
+     4,
+     7
     ]
    ],
    "expFits2": false
   },
   "closestEng": {
-   "title": "Devops Trainee Developer",
+   "title": "Sr. Golang Developer",
    "location": "",
-   "url": "https://www.zeeve.io/career/devops-trainee-developer/",
+   "url": "https://www.zeeve.io/career/sr-golang-developer/",
    "team": "",
-   "text": "Devops Trainee Developer - Blockchain Deployment and Management Platform | Zeeve Skip to content Solutions By Industry Banking & Capital Markets Blockchain Build For Regulated Finance Fintech & Payments Power programmable payments & embedded finance Telecom Monetize Telecom Assets in new ways ESG & Supply Chain Bring Trust & Visibility across partners Web3 & Digital Asset Networks Launch faster & scale with confidence By Use cases Institutional Digital Asset Framework Compliance, control and scale from day one Tokenized Funds & RWAs Tokenized Deposits Stablecoins & CBDCs Digital Securities Cross-Border & Settlement Rails Move money faster with more control Trade Finance Lorem ipsum dolor sit amet, consecte adipiscing elit Capital Markets Lorem ipsum dolor sit amet, consecte adipiscing elit DeFi/DePIN for Startups Lorem ipsum dolor sit amet, consecte adipiscing elit Custom Lorem ipsum dolor sit amet, consecte adipiscing elit Platform Zeeve Enterprise Platform Governance & Reliability from day one Tokenized Deposits Cosmos Tokenization Suite Zeeve Tegaris Zeeve Privacy Layer ZK Infrastructure Operate ZK networks with confidence Integrations Zeeve Integrations Products Managed Custom Blockchain From Deployment to Production Tokenized Deposits Cosmos Tokenization Suite Zeeve Tegaris Zeeve Privacy Layer Appchains as a Service Appchains as a Service RPC & Node Infrastructure RPC & Node Infrastructure Validator & Staking Infrastructure Validator & Staking Infrastructure Traceye (Indexing & Data) Traceye (Indexing & Data) Vizion Lorem ipsum dolor sit amet, consecte adipiscing elit Advisory & Engineering Resources Blogs Research, insights and tutorials from web3 experts. Case Studies Real-world success stories of Zeeve Clientele. Whitepapers & Reports Lorem ipsum dolor sit amet, consecte adipiscing elit Events & Webinars Check our webinars, AMAs, and global event participation. Developer Docs Platform and product know-how documentation. Company About Zeeve, Leadership The operational layer behind enterprise use cases Why Zeeve Why Zeeve Customers & Case Studies Real-world success stories of Zeeve Clientele. Security & Compliance Security & Compliance Partner Ecosystem Collaborate with us to accelerate blockchain adoption. Careers Join our team at Zeeve Contact Schedule a Call with Zeeve Expert X Signup Solutions By Industry Banking & Capital Markets Blockchain Build For Regulated Finance Fintech & Payments Power programmable payments & embedded finance Telecom Monetize Telecom Assets in new ways ESG & Supply Chain Bring Trust & Visibility across partners Web3 & Digital Asset Networks Launch faster & scale with confidence By Use cases Institutional Digital Asset Framework Compliance, control and scale from day one Tokenized Funds & RWAs Tokenized Deposits Stablecoins & CBDCs Digital Securities Cross-Border & Settlement Rails Move money faster with more control Trade Finance Lorem ipsum dolor sit amet, consecte adipiscing elit Capital Markets Lorem ipsum dolor sit amet, consecte adipiscing elit DeFi/DePIN for Startups Lorem ipsum dolor sit amet, consecte adipiscing elit Custom Lorem ipsum dolor sit amet, consecte adipiscing elit Platform Zeeve Enterprise Platform Governance & Reliability from day one Tokenized Deposits Cosmos Tokenization Suite Zeeve Tegaris Zeeve Privacy Layer ZK Infrastructure Operate ZK networks with confidence Integrations Zeeve Integrations Products Managed Custom Blockchain From Deployment to Production Tokenized Deposits Cosmos Tokenization Suite Zeeve Tegaris Zeeve Privacy Layer Appchains as a Service Appchains as a Service RPC & Node Infrastructure RPC & Node Infrastructure Validator & Staking Infrastructure Validator & Staking Infrastructure Traceye (Indexing & Data) Traceye (Indexing & Data) Vizion Lorem ipsum dolor sit amet, consecte adipiscing elit Advisory & Engineering Resources Blogs Research, insights and tutorials from web3 experts. Case Studies Real-world success stories of Zeeve Clientele. Whitepapers & Reports Lorem ipsum dolor sit amet, consecte adipiscing elit Events & Webinars Check our webinars, AMAs, and global event participation. Developer Docs Platform and product know-how documentation. Company About Zeeve, Leadership The operational layer behind enterprise use cases Why Zeeve Why Zeeve Customers & Case Studies Real-world success stories of Zeeve Clientele. Security & Compliance Security & Compliance Partner Ecosystem Collaborate with us to accelerate blockchain adoption. Careers Join our team at Zeeve Contact Schedule a Call with Zeeve Expert X Signup Devops Trainee Developer Job Summary We are looking for a passionate and enthusiastic DevOps Fresher who is eager to build a career in Cloud, Automation, and Infrastructure Management. The ideal candidate should have a basic understanding of DevOps practices, CI/CD pipelines, cloud platforms, Linux systems, and monitoring tools. The candidate will work closely with the engineering and infrastructure teams to support deployment processes, automate workflows, and maintain system reliability. Key Responsibilities Assist in managing CI/CD pipelines for application deployments Support cloud infrastructure setup and monitoring activities Work with development teams to automate build and deployment processes Monitor system performance and troubleshoot deployment issues Maintain and manage Linux-based servers and environments Support containerization and orchestration activities using Docker/Kubernetes Participate in release management and production support Document processes, configurations, and operational procedures Required Skills Basic understanding of DevOps concepts and SDLC Knowledge of Linux/Unix operating systems Familiarity with Git and version control systems Basic understanding of CI/CD tools such as Jenkins/GitHub Actions Understanding of cloud platforms like AWS, Azure, or GCP Familiarity with Docker and Kubernetes concepts Basic scripting knowledge in Shell/Python/Bash Good problem-solving and troubleshooting skills Preferred Skills Knowledge of Infrastructure as Code tools such as Terraform or Ansible Exposure to monitoring/logging tools like Grafana, Prometheus, or ELK Understanding of networking fundamentals and security basics Internship or academic project experience in DevOps/Cloud Educational Qualification B.Tech/B.E./BCA/MCA in Computer Science, IT, or related field Recent graduates passing out in 2025/2026 can apply What We Offer Opportunity to work on modern cloud and DevOps technologies Hands-on learning and mentorship from experienced engineers Collaborative and growth-oriented work environment Career development opportunities in Cloud & DevOps Engineering Apply Now Share Now Date Posted 5 June 2026 Location Noida sector 142 Work Type Full-Time Classification --> Experience 0–1 Year Preference Start your Blockchain Project with the help of our Team of Experts. Meet our world famous support team. They are fast, they are smart, and they will help you out any time. Contact us or Start for free Zeeve is an enterprise-grade Blockchain Infrastructure Automation Platform. Join the growing list of clients that trust us with their Blockchain initiatives. Twitter Linkedin-in Medium-m Telegram-plane Contact Info USA: Zeeve Inc, 395 Santa Monica Place, Unit 308, Santa Monica, California, 90405 Email: success@zeeve.io Quick Links SCAPE About Zeeve Privacy & Security Zeeve Platform Contact Us Terms & Conditions © 2021 Zeeve . All rights reserved Zeeve is an enterprise-grade Blockchain Infrastructure Automation Platform. Join the growing list of clients that trust us with their Blockchain initiatives Quick links Refund Policy Contact us Protocols Community Media Kit Events Newsroom Our Partners DPA ZDFS About Zeeve Careers Disclaimer Cookie Policy Privacy & Security Announcement Terms & Conditions Enterprise Blockchain Newsletter Please enable JavaScript in your browser to complete this form. Please enable JavaScript in your browser to complete this form. Email Email * * I give consent to process my personal information at Zeeve and agree to Zeeve's Terms and Conditions and Zeeve's Privacy Policy where Zeeve may collect, use and disclose personal information. Subscribe Social Links Address Zeeve Inc, 300 Spectrum Center Dr. Suite 400 Irvine, CA 92618, United States Сontact email success@zeeve.io Contact Number ‎+1 (949) 754-4494 Social Links @ 2026 Zeeve . All Rights Reserved",
+   "text": "Sr. Golang Developer - Blockchain Deployment and Management Platform | Zeeve Skip to content Solutions By Industry Banking & Capital Markets Blockchain Build For Regulated Finance Fintech & Payments Power programmable payments & embedded finance Telecom Monetize Telecom Assets in new ways ESG & Supply Chain Bring Trust & Visibility across partners Web3 & Digital Asset Networks Launch faster & scale with confidence By Use cases Institutional Digital Asset Framework Compliance, control and scale from day one Tokenized Funds & RWAs Tokenized Deposits Stablecoins & CBDCs Digital Securities Cross-Border & Settlement Rails Move money faster with more control Trade Finance Lorem ipsum dolor sit amet, consecte adipiscing elit Capital Markets Lorem ipsum dolor sit amet, consecte adipiscing elit DeFi/DePIN for Startups Lorem ipsum dolor sit amet, consecte adipiscing elit Custom Lorem ipsum dolor sit amet, consecte adipiscing elit Platform Zeeve Enterprise Platform Governance & Reliability from day one Tokenized Deposits Cosmos Tokenization Suite Zeeve Tegaris Zeeve Privacy Layer ZK Infrastructure Operate ZK networks with confidence Integrations Zeeve Integrations Products Managed Custom Blockchain From Deployment to Production Tokenized Deposits Cosmos Tokenization Suite Zeeve Tegaris Zeeve Privacy Layer Appchains as a Service Appchains as a Service RPC & Node Infrastructure RPC & Node Infrastructure Validator & Staking Infrastructure Validator & Staking Infrastructure Traceye (Indexing & Data) Traceye (Indexing & Data) Vizion Lorem ipsum dolor sit amet, consecte adipiscing elit Advisory & Engineering Resources Blogs Research, insights and tutorials from web3 experts. Case Studies Real-world success stories of Zeeve Clientele. Whitepapers & Reports Lorem ipsum dolor sit amet, consecte adipiscing elit Events & Webinars Check our webinars, AMAs, and global event participation. Developer Docs Platform and product know-how documentation. Company About Zeeve, Leadership The operational layer behind enterprise use cases Why Zeeve Why Zeeve Customers & Case Studies Real-world success stories of Zeeve Clientele. Security & Compliance Security & Compliance Partner Ecosystem Collaborate with us to accelerate blockchain adoption. Careers Join our team at Zeeve Contact Schedule a Call with Zeeve Expert X Signup Solutions By Industry Banking & Capital Markets Blockchain Build For Regulated Finance Fintech & Payments Power programmable payments & embedded finance Telecom Monetize Telecom Assets in new ways ESG & Supply Chain Bring Trust & Visibility across partners Web3 & Digital Asset Networks Launch faster & scale with confidence By Use cases Institutional Digital Asset Framework Compliance, control and scale from day one Tokenized Funds & RWAs Tokenized Deposits Stablecoins & CBDCs Digital Securities Cross-Border & Settlement Rails Move money faster with more control Trade Finance Lorem ipsum dolor sit amet, consecte adipiscing elit Capital Markets Lorem ipsum dolor sit amet, consecte adipiscing elit DeFi/DePIN for Startups Lorem ipsum dolor sit amet, consecte adipiscing elit Custom Lorem ipsum dolor sit amet, consecte adipiscing elit Platform Zeeve Enterprise Platform Governance & Reliability from day one Tokenized Deposits Cosmos Tokenization Suite Zeeve Tegaris Zeeve Privacy Layer ZK Infrastructure Operate ZK networks with confidence Integrations Zeeve Integrations Products Managed Custom Blockchain From Deployment to Production Tokenized Deposits Cosmos Tokenization Suite Zeeve Tegaris Zeeve Privacy Layer Appchains as a Service Appchains as a Service RPC & Node Infrastructure RPC & Node Infrastructure Validator & Staking Infrastructure Validator & Staking Infrastructure Traceye (Indexing & Data) Traceye (Indexing & Data) Vizion Lorem ipsum dolor sit amet, consecte adipiscing elit Advisory & Engineering Resources Blogs Research, insights and tutorials from web3 experts. Case Studies Real-world success stories of Zeeve Clientele. Whitepapers & Reports Lorem ipsum dolor sit amet, consecte adipiscing elit Events & Webinars Check our webinars, AMAs, and global event participation. Developer Docs Platform and product know-how documentation. Company About Zeeve, Leadership The operational layer behind enterprise use cases Why Zeeve Why Zeeve Customers & Case Studies Real-world success stories of Zeeve Clientele. Security & Compliance Security & Compliance Partner Ecosystem Collaborate with us to accelerate blockchain adoption. Careers Join our team at Zeeve Contact Schedule a Call with Zeeve Expert X Signup Sr. Golang Developer About Zeeve Zeeve is a leading Blockchain Infrastructure platform enabling enterprises, startups, and Web3 innovators to deploy, manage, and scale decentralized networks seamlessly. We work with cutting-edge technologies across Layer 1, Layer 2, and enterprise blockchain ecosystems. Role Overview We are seeking a talented and enthusiastic Go Lang Developer to join our dynamic team at Zeeve Deeptech Pvt Ltd. The ideal candidate will have a strong background in software development with a deep understanding of Go (Golang) programming. You will be responsible for developing, implementing, and maintaining robust, scalable, and high-performance applications and system services that power our cutting edge blockchain technology. Key Responsibilities Develop and Maintain Applications: Design, develop, test, and maintain Go-based applications and microservices. Blockchain Network Client Development: Work on developing distributed system clients to form feature rich networks. API Development: Create and maintain RESTful APIs for seamless integration with other services and applications. Testing & Integrations: Develop unit & integration tests for various services and modules with good coverage. Performance Optimization: Optimize applications for maximum speed and scalability. Code Review and Collaboration: Participate in code reviews, provide constructive feedback, and collaborate with team members to ensure high-quality code. Troubleshooting and Debugging: Identify and resolve performance and scalability issues in a timely manner. Documentation: Maintain clear and comprehensive documentation for all developed code and systems. Continuous Learning: Stay updated with the latest industry trends and best practices in Go development and blockchain technology. Qualifications Education: B.Tech/B.E. in Computer Science, Information Technology, Electronics, or related field. Technical Skills Proficiency in Go (Golang) programming. Strong understanding of concurrent programming and experience with multi-threaded applications. Experience with RESTful API development and integration. Familiarity with containerization technologies such as Docker and orchestration tools like Kubernetes. Knowledge of database systems, both SQL and NoSQL. Soft Skills Strong problem-solving skills and attention to detail. Excellent communication and teamwork abilities. Ability to work independently and manage time effectively. Preferred Qualifications Experience with blockchain frameworks like Ethereum, Hyperledger, or Corda. Knowledge of cryptographic principles and security practices. Familiarity with DevOps practices and CI/CD pipelines. Contribution to open-source projects. Apply Now Share Now Date Posted 7 June 2026 Location Noida sector 142 Work Type Full-Time Classification --> Experience 4–7 Years Preference Preference: Immediate joiners or candidates serving a short notice period (10–15 days) will be preferred. Start your Blockchain Project with the help of our Team of Experts. Meet our world famous support team. They are fast, they are smart, and they will help you out any time. Contact us or Start for free Zeeve is an enterprise-grade Blockchain Infrastructure Automation Platform. Join the growing list of clients that trust us with their Blockchain initiatives. Twitter Linkedin-in Medium-m Telegram-plane Contact Info USA: Zeeve Inc, 395 Santa Monica Place, Unit 308, Santa Monica, California, 90405 Email: success@zeeve.io Quick Links SCAPE About Zeeve Privacy & Security Zeeve Platform Contact Us Terms & Conditions © 2021 Zeeve . All rights reserved Zeeve is an enterprise-grade Blockchain Infrastructure Automation Platform. Join the growing list of clients that trust us with their Blockchain initiatives Quick links Refund Policy Contact us Protocols Community Media Kit Events Newsroom Our Partners DPA ZDFS About Zeeve Careers Disclaimer Cookie Policy Privacy & Security Announcement Terms & Conditions Enterprise Blockchain Newsletter Please enable JavaScript in your browser to complete this form. Please enable JavaScript in your browser to complete this form. Email Email * * I give consent to process my personal information at Zeeve and agree to Zeeve's Terms and Conditions and Zeeve's Privacy Policy where Zeeve may collect, use and disclose personal information. Subscribe Social Links Address Zeeve Inc, 300 Spectrum Center Dr. Suite 400 Irvine, CA 92618, United States Сontact email success@zeeve.io Contact Number ‎+1 (949) 754-4494 Social Links @ 2026 Zeeve . All Rights Reserved",
    "_enriched": true,
-   "score": 69,
+   "score": 35,
    "isMatch": false,
    "isEng": true,
    "java": false,
    "flutter": false,
    "android": false,
    "india": true,
-   "senior": false,
-   "junior": true,
+   "senior": true,
+   "junior": false,
+   "intern": false,
    "exp": [
     [
-     0,
-     1
+     4,
+     7
     ]
    ],
    "expFits2": false
@@ -16198,7 +16300,7 @@
     {
      "url": "https://zeeve.io/careers",
      "status": 200,
-     "bytes": 2706175
+     "bytes": 2706146
     },
     {
      "url": "https://zeeve.io/career",
@@ -16208,42 +16310,42 @@
     {
      "url": "https://zeeve.io/jobs",
      "status": 200,
-     "bytes": 2706175
+     "bytes": 2706146
     },
     {
      "url": "https://zeeve.io/join-us",
      "status": 200,
-     "bytes": 2706175
+     "bytes": 2706146
     },
     {
      "url": "https://zeeve.io/join-our-team",
      "status": 200,
-     "bytes": 2706175
+     "bytes": 2706146
     },
     {
      "url": "https://zeeve.io/careers.html",
      "status": 200,
-     "bytes": 2706175
+     "bytes": 2706146
     },
     {
      "url": "https://zeeve.io/company/careers",
      "status": 200,
-     "bytes": 2706175
+     "bytes": 2706146
     },
     {
      "url": "https://zeeve.io/about/careers",
      "status": 200,
-     "bytes": 2706175
+     "bytes": 2706146
     },
     {
      "url": "https://zeeve.io/current-openings",
      "status": 200,
-     "bytes": 2706175
+     "bytes": 2706146
     },
     {
      "url": "https://zeeve.io/",
      "status": 200,
-     "bytes": 2706175
+     "bytes": 2706146
     },
     {
      "url": "https://careers.www.zeeve.io",
@@ -16254,7 +16356,7 @@
     {
      "url": "https://www.zeeve.io/careers",
      "status": 200,
-     "bytes": 2706175
+     "bytes": 2706146
     },
     {
      "url": "https://www.zeeve.io/career",
@@ -16277,7 +16379,7 @@
     "workable:zeeve -> no board"
    ]
   },
-  "ms": 20187
+  "ms": 21030
  },
  {
   "company": "Zvolv",
@@ -16450,6 +16552,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [
     [
      1,
@@ -16478,6 +16581,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [
     [
      1,
@@ -16534,7 +16638,7 @@
     "workable:zvolv -> no board"
    ]
   },
-  "ms": 5632
+  "ms": 10472
  },
  {
   "company": "Zoop.one",
@@ -16559,7 +16663,7 @@
     {
      "url": "https://zoop.one/careers",
      "status": 200,
-     "bytes": 361400
+     "bytes": 344270
     },
     {
      "url": "https://zoop.one/career",
@@ -16598,7 +16702,7 @@
     "skip off-domain https://in.linkedin.com"
    ]
   },
-  "ms": 6383
+  "ms": 6840
  },
  {
   "company": "ZipGrid",
@@ -16762,6 +16866,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -16825,7 +16930,7 @@
     "workable:zipgrid -> no board"
    ]
   },
-  "ms": 3742
+  "ms": 4171
  },
  {
   "company": "Zoconut",
@@ -16973,7 +17078,7 @@
     "workable:zoconut -> no board"
    ]
   },
-  "ms": 13156
+  "ms": 12823
  },
  {
   "company": "ZebPay",
@@ -17093,6 +17198,7 @@
    "india": false,
    "senior": true,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -17112,6 +17218,7 @@
    "india": false,
    "senior": true,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -17174,7 +17281,7 @@
     "workable:zebpay -> no board"
    ]
   },
-  "ms": 7659
+  "ms": 8129
  },
  {
   "company": "Zithara",
@@ -17248,7 +17355,7 @@
     "workable:zithara -> no board"
    ]
   },
-  "ms": 4802
+  "ms": 4894
  },
  {
   "company": "ZestIOT",
@@ -17307,7 +17414,7 @@
     "workable:zestiot -> no board"
    ]
   },
-  "ms": 12721
+  "ms": 12583
  },
  {
   "company": "Zeus Numerix",
@@ -17392,6 +17499,21 @@
     "score": 49
    },
    {
+    "title": "Marketing Executive",
+    "location": "",
+    "url": "https://zeusnumerix.com/careers.php",
+    "india": true,
+    "locationSaysIndia": false,
+    "hasLocation": false,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 19
+   },
+   {
     "title": "Graduate Trainee - Mechanical Design",
     "location": "",
     "url": "https://zeusnumerix.com/careers.php",
@@ -17404,7 +17526,7 @@
     "senior": false,
     "exp": [],
     "expFits2": false,
-    "score": 31
+    "score": -21
    },
    {
     "title": "Graduate Trainee - Embedded",
@@ -17419,7 +17541,7 @@
     "senior": false,
     "exp": [],
     "expFits2": false,
-    "score": 31
+    "score": -21
    },
    {
     "title": "Graduate Trainee CFD/FEA",
@@ -17434,22 +17556,7 @@
     "senior": false,
     "exp": [],
     "expFits2": false,
-    "score": 31
-   },
-   {
-    "title": "Marketing Executive",
-    "location": "",
-    "url": "https://zeusnumerix.com/careers.php",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 19
+    "score": -21
    }
   ],
   "enriched": 0,
@@ -17471,6 +17578,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -17490,6 +17598,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -17628,7 +17737,7 @@
     "workable:zeusnumerix -> no board"
    ]
   },
-  "ms": 6219
+  "ms": 5737
  },
  {
   "company": "ZeroDrag",
@@ -17772,7 +17881,7 @@
     "workable:zerodrag -> no board"
    ]
   },
-  "ms": 10343
+  "ms": 21627
  },
  {
   "company": "Zamp",
@@ -18017,7 +18126,7 @@
     "workable:zamp -> no board"
    ]
   },
-  "ms": 5231
+  "ms": 5177
  },
  {
   "company": "Zynga India",
@@ -18876,6 +18985,7 @@
    "india": false,
    "senior": true,
    "junior": false,
+   "intern": false,
    "exp": [
     [
      6,
@@ -18899,6 +19009,7 @@
    "india": false,
    "senior": true,
    "junior": false,
+   "intern": false,
    "exp": [
     [
      6,
@@ -19016,7 +19127,7 @@
     "greenhouse:zyngacareers -> 42 jobs"
    ]
   },
-  "ms": 7718
+  "ms": 7724
  },
  {
   "company": "Zuora India",
@@ -19166,7 +19277,7 @@
     "workable:zuora -> no board"
    ]
   },
-  "ms": 18793
+  "ms": 20332
  },
  {
   "company": "Zendesk India",
@@ -19338,21 +19449,6 @@
     ],
     "expFits2": false,
     "score": 20
-   },
-   {
-    "title": "Machine Learning Engineering Intern",
-    "location": "2 Locations",
-    "url": "https://zendesk.wd1.myworkdayjobs.com/zendesk/job/Remote-Germany/Machine-Learning-Engineering-Intern_R35062-1",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 16
    },
    {
     "title": "Staff Machine Learning Engineer",
@@ -19823,6 +19919,21 @@
     "exp": [],
     "expFits2": false,
     "score": -18
+   },
+   {
+    "title": "Machine Learning Engineering Intern",
+    "location": "2 Locations",
+    "url": "https://zendesk.wd1.myworkdayjobs.com/zendesk/job/Remote-Germany/Machine-Learning-Engineering-Intern_R35062-1",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": -36
    }
   ],
   "enriched": 10,
@@ -19846,6 +19957,7 @@
     "india": false,
     "senior": false,
     "junior": false,
+    "intern": false,
     "exp": [
      [
       5,
@@ -19873,6 +19985,7 @@
    "india": false,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [
     [
      5,
@@ -19899,6 +20012,7 @@
    "india": false,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [
     [
      5,
@@ -19942,7 +20056,7 @@
     "workday:zendesk -> 40 jobs"
    ]
   },
-  "ms": 18307
+  "ms": 12666
  },
  {
   "company": "Zeta Global India",
@@ -22648,6 +22762,7 @@
    "india": true,
    "senior": true,
    "junior": false,
+   "intern": false,
    "exp": [
     [
      3,
@@ -22691,6 +22806,7 @@
    "india": true,
    "senior": true,
    "junior": false,
+   "intern": false,
    "exp": [
     [
      3,
@@ -22764,7 +22880,7 @@
     "greenhouse:zetaglobal -> 125 jobs"
    ]
   },
-  "ms": 6466
+  "ms": 6101
  },
  {
   "company": "Zafin",
@@ -23357,6 +23473,7 @@
     "india": false,
     "senior": false,
     "junior": false,
+    "intern": false,
     "exp": [
      [
       1,
@@ -23386,6 +23503,7 @@
     "india": true,
     "senior": false,
     "junior": false,
+    "intern": false,
     "exp": [
      [
       3,
@@ -23413,6 +23531,7 @@
     "india": true,
     "senior": false,
     "junior": false,
+    "intern": false,
     "exp": [
      [
       3,
@@ -23436,6 +23555,7 @@
     "india": true,
     "senior": false,
     "junior": false,
+    "intern": false,
     "exp": [
      [
       5,
@@ -23463,6 +23583,7 @@
     "india": false,
     "senior": false,
     "junior": false,
+    "intern": false,
     "exp": [],
     "expFits2": false
    },
@@ -23481,6 +23602,7 @@
     "india": false,
     "senior": false,
     "junior": false,
+    "intern": false,
     "exp": [
      [
       5,
@@ -23509,6 +23631,7 @@
    "india": false,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [
     [
      1,
@@ -23536,6 +23659,7 @@
    "india": false,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [
     [
      1,
@@ -23594,7 +23718,7 @@
     "greenhouse:zafinlabsamericasinc -> 27 jobs"
    ]
   },
-  "ms": 5297
+  "ms": 5572
  },
  {
   "company": "Zymr",
@@ -23759,6 +23883,7 @@
    "india": false,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -23773,7 +23898,7 @@
     {
      "url": "https://careers.zymr.com",
      "status": 200,
-     "bytes": 22033
+     "bytes": 22073
     },
     {
      "url": "https://zymr.com/careers",
@@ -23805,7 +23930,7 @@
     "workable:zymr -> no board"
    ]
   },
-  "ms": 8822
+  "ms": 7468
  },
  {
   "company": "Zestra Technologies",
@@ -24090,6 +24215,7 @@
     "india": true,
     "senior": false,
     "junior": false,
+    "intern": false,
     "exp": [],
     "expFits2": false
    },
@@ -24109,6 +24235,7 @@
     "india": true,
     "senior": false,
     "junior": false,
+    "intern": false,
     "exp": [],
     "expFits2": false
    }
@@ -24129,6 +24256,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -24148,6 +24276,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -24240,7 +24369,7 @@
     "workable:zestratech -> no board"
    ]
   },
-  "ms": 6779
+  "ms": 6550
  },
  {
   "company": "ZealousWeb Technologies",
@@ -24275,7 +24404,7 @@
     {
      "url": "https://zealousweb.com/career",
      "status": 404,
-     "bytes": 174586
+     "bytes": 174585
     }
    ],
    "candidates": [
@@ -24295,7 +24424,7 @@
     "workable:zealousweb -> no board"
    ]
   },
-  "ms": 7018
+  "ms": 7077
  },
  {
   "company": "Zaigo Infotech",
@@ -24375,6 +24504,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -24394,6 +24524,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -24471,7 +24602,7 @@
     "workable:zaigoinfotech -> no board"
    ]
   },
-  "ms": 3751
+  "ms": 3926
  },
  {
   "company": "Zensark Technologies",
@@ -24544,7 +24675,7 @@
     "workable:zensark -> no board"
    ]
   },
-  "ms": 15235
+  "ms": 16068
  },
  {
   "company": "Zerozilla Infotech",
@@ -24647,6 +24778,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [
     [
      3,
@@ -24675,6 +24807,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [
     [
      3,
@@ -24741,7 +24874,7 @@
     "workable:zerozilla -> no board"
    ]
   },
-  "ms": 11399
+  "ms": 11886
  },
  {
   "company": "ZippyOps",
@@ -25021,6 +25154,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [
     [
      4,
@@ -25045,6 +25179,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [
     [
      4,
@@ -25102,7 +25237,7 @@
     "workable:zippyops -> no board"
    ]
   },
-  "ms": 7629
+  "ms": 9862
  },
  {
   "company": "Zithas Technologies",
@@ -25246,7 +25381,7 @@
     "workable:zithas -> no board"
    ]
   },
-  "ms": 2745
+  "ms": 3061
  },
  {
   "company": "Zinavo Technologies",
@@ -25275,124 +25410,13 @@
   "enriched": 0,
   "matches": [],
   "nearMatches": [],
-  "closest": {
-   "title": "Junior Web Developer",
-   "location": "",
-   "url": "https://www.zinavo.com/careers.html",
-   "team": "",
-   "text": "Junior Web Developer 3 BDE",
-   "_noEnrich": true,
-   "score": 61,
-   "isMatch": false,
-   "isEng": true,
-   "java": false,
-   "flutter": false,
-   "android": false,
-   "india": true,
-   "senior": false,
-   "junior": true,
-   "exp": [],
-   "expFits2": false
-  },
-  "closestEng": {
-   "title": "Junior Web Developer",
-   "location": "",
-   "url": "https://www.zinavo.com/careers.html",
-   "team": "",
-   "text": "Junior Web Developer 3 BDE",
-   "_noEnrich": true,
-   "score": 61,
-   "isMatch": false,
-   "isEng": true,
-   "java": false,
-   "flutter": false,
-   "android": false,
-   "india": true,
-   "senior": false,
-   "junior": true,
-   "exp": [],
-   "expFits2": false
-  },
+  "closest": null,
+  "closestEng": null,
   "trace": {
-   "pages": [
-    {
-     "url": "https://www.zinavo.com/careers.html",
-     "status": 200,
-     "bytes": 406882
-    },
-    {
-     "url": "https://careers.zinavo.com",
-     "status": 0,
-     "bytes": 0,
-     "error": "fetch failed"
-    },
-    {
-     "url": "https://zinavo.com/careers",
-     "status": 200,
-     "bytes": 392417
-    },
-    {
-     "url": "https://zinavo.com/career",
-     "status": 200,
-     "bytes": 392417
-    },
-    {
-     "url": "https://zinavo.com/jobs",
-     "status": 200,
-     "bytes": 392417
-    },
-    {
-     "url": "https://zinavo.com/join-us",
-     "status": 200,
-     "bytes": 392417
-    },
-    {
-     "url": "https://zinavo.com/join-our-team",
-     "status": 200,
-     "bytes": 392417
-    },
-    {
-     "url": "https://zinavo.com/careers.html",
-     "status": 200,
-     "bytes": 406882
-    },
-    {
-     "url": "https://zinavo.com/company/careers",
-     "status": 200,
-     "bytes": 392417
-    },
-    {
-     "url": "https://zinavo.com/about/careers",
-     "status": 200,
-     "bytes": 392417
-    },
-    {
-     "url": "https://zinavo.com/current-openings",
-     "status": 200,
-     "bytes": 392417
-    },
-    {
-     "url": "https://zinavo.com/",
-     "status": 200,
-     "bytes": 556165
-    }
-   ],
-   "candidates": [
-    "greenhouse:zinavo(guess)",
-    "lever:zinavo(guess)",
-    "ashby:zinavo(guess)",
-    "recruitee:zinavo(guess)",
-    "workable:zinavo(guess)"
-   ],
-   "attempts": [
-    "greenhouse:zinavo -> no board",
-    "lever:zinavo -> no board",
-    "ashby:zinavo -> no board",
-    "recruitee:zinavo -> no board",
-    "workable:zinavo -> no board"
-   ]
+   "pages": [],
+   "attempts": []
   },
-  "ms": 38663
+  "ms": 90002
  },
  {
   "company": "Zaptech Solutions",
@@ -25587,6 +25611,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -25606,6 +25631,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -25630,7 +25656,7 @@
     {
      "url": "https://zaptechsolutions.com/career",
      "status": 200,
-     "bytes": 54714
+     "bytes": 54715
     },
     {
      "url": "https://zaptechsolutions.com/jobs",
@@ -25698,7 +25724,7 @@
     "workable:zaptechsolutions -> no board"
    ]
   },
-  "ms": 11825
+  "ms": 11266
  },
  {
   "company": "Zestminds Technologies",
@@ -25757,6 +25783,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -25776,6 +25803,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -25838,7 +25866,7 @@
     "workable:zestminds -> no board"
    ]
   },
-  "ms": 2525
+  "ms": 2733
  },
  {
   "company": "Zenkins Technologies",
@@ -26048,6 +26076,7 @@
    "india": true,
    "senior": false,
    "junior": true,
+   "intern": false,
    "exp": [
     [
      3,
@@ -26072,6 +26101,7 @@
    "india": true,
    "senior": false,
    "junior": true,
+   "intern": false,
    "exp": [
     [
      3,
@@ -26118,7 +26148,7 @@
     "workable:zenkins -> no board"
    ]
   },
-  "ms": 16001
+  "ms": 12798
  },
  {
   "company": "Zoftcares Solutions",
@@ -26207,7 +26237,7 @@
     "workable:zoftcares -> no board"
    ]
   },
-  "ms": 3399
+  "ms": 3572
  },
  {
   "company": "Zumen",
@@ -26351,7 +26381,7 @@
     "workable:zumen -> no board"
    ]
   },
-  "ms": 2518
+  "ms": 3478
  },
  {
   "company": "Zenesys",
@@ -26515,7 +26545,7 @@
     "workable:zenesys -> no board"
    ]
   },
-  "ms": 15791
+  "ms": 15844
  },
  {
   "company": "ZEISS India",
@@ -26568,7 +26598,7 @@
     "workable:zeiss -> no board"
    ]
   },
-  "ms": 25518
+  "ms": 7273
  },
  {
   "company": "Zoom Communications India",
@@ -26642,6 +26672,7 @@
    "india": false,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -26661,6 +26692,7 @@
    "india": false,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -26748,7 +26780,7 @@
     "workable:zoom -> no board"
    ]
   },
-  "ms": 20701
+  "ms": 18936
  },
  {
   "company": "Zyter",
@@ -26882,6 +26914,7 @@
    "india": false,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [],
    "expFits2": false
   },
@@ -26960,7 +26993,7 @@
     "workable:zyter -> no board"
    ]
   },
-  "ms": 6011
+  "ms": 9284
  },
  {
   "company": "Zype",
@@ -27037,6 +27070,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [
     [
      2,
@@ -27061,6 +27095,7 @@
    "india": true,
    "senior": false,
    "junior": false,
+   "intern": false,
    "exp": [
     [
      2,
@@ -27118,7 +27153,7 @@
     "workable:getzype -> no board"
    ]
   },
-  "ms": 9288
+  "ms": 10258
  },
  {
   "company": "Zaakpay",
@@ -27136,7 +27171,7 @@
    "pages": [],
    "attempts": []
   },
-  "ms": 90004
+  "ms": 90008
  },
  {
   "company": "Zoxima Solutions",
@@ -27280,6 +27315,6 @@
     "workable:zoxima -> no board"
    ]
   },
-  "ms": 4395
+  "ms": 4788
  }
 ]

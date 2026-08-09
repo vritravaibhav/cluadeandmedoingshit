@@ -1746,7 +1746,12 @@ const RE_ANDROID = /\b(android|kotlin)\b/i;
 const RE_ENG_TITLE =
   /(software|backend|back[\s-]?end|frontend|front[\s-]?end|full[\s-]?stack|application|platform|mobile|android|ios|web|java|python|node|golang|api|sde|systems?|qa|test|data|devops|cloud|ml|ai)\s*[-\s]*(engineer|developer|dev\b|programmer|architect)|(\bengineer\b|\bdeveloper\b|\bsde\b|\bsdet\b|\bprogrammer\b|\btech lead\b)/i;
 const RE_SENIOR = /\b(senior|sr\.?|staff|principal|lead|architect|manager|director|head|vp|chief|iii|iv|expert|avp|dvp)\b/i;
-const RE_JUNIOR = /\b(junior|jr\.?|associate|entry|graduate|trainee|fresher|intern|sde[\s-]?1|engineer\s*i\b|level\s*1|l1|i\b)\b/i;
+const RE_INTERN = /\b(intern|internship|trainee|apprentice|co[- ]?op)\b/i;
+/* 'intern' used to sit in RE_JUNIOR, which ADDS score -- so internships ranked
+ * high in a two-year list (a Stripe internship reached #15 of the priority
+ * folder). Junior is a positive signal for this candidate; an internship is not
+ * the same thing and is not a target at all. */
+const RE_JUNIOR = /\b(junior|jr\.?|associate|entry|graduate|fresher|sde[\s-]?1|engineer\s*i\b|level\s*1|l1|i\b)\b/i;
 const RE_INDIA =
   /\b(india|bangalore|bengaluru|hyderabad|pune|mumbai|chennai|delhi|gurgaon|gurugram|noida|kolkata|ahmedabad|jaipur|indore|kochi|coimbatore|trivandrum|thiruvananthapuram|chandigarh|vadodara|nagpur|mysore|mysuru)\b/i;
 
@@ -1809,6 +1814,8 @@ function score(j, company, boiler = {}) {
   const near2 = wins.some(([a, b]) => a <= 4 && b >= 1);
   const senior = RE_SENIOR.test(title);
   const junior = RE_JUNIOR.test(title);
+  // Not a two-year target at all, and it used to score as a junior bonus.
+  const intern = RE_INTERN.test(title);
   const india = RE_INDIA.test(`${j.location} ${j.text.slice(0, 500)}`) || (company.country === 'India' && !j.location);
 
   let s = 0;
@@ -1819,14 +1826,15 @@ function score(j, company, boiler = {}) {
   if (fits2) s += 30;
   else if (near2) s += 12;
   else if (!wins.length) s += 4;
-  if (junior) s += 12;
+  if (junior && !intern) s += 12;
+  if (intern) s -= 40;
   if (senior) s -= 22;
   if (india) s += 15;
 
   const priority = java || flutter;
-  const isMatch = isEng && priority && !senior && (fits2 || (!wins.length && junior));
+  const isMatch = isEng && priority && !senior && !intern && (fits2 || (!wins.length && junior));
 
-  return { score: s, isMatch, isEng, java, flutter, android, india, senior, junior, exp: wins.slice(0, 6), expFits2: fits2 };
+  return { score: s, isMatch, isEng, java, flutter, android, india, senior, junior, intern, exp: wins.slice(0, 6), expFits2: fits2 };
 }
 
 /* Job listings often omit the description; open the posting to read the

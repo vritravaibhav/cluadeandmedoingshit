@@ -2,13 +2,13 @@
 OPEN ROLES AT 92 "W" COMPANIES
 Looking for : Software Engineer, ~2 years experience
 Priority    : Java, Dart/Flutter        Location preference : India
-Generated   : 2026-08-08 23:58:16 UTC  by test.js
+Generated   : 2026-08-09 05:37:49 UTC  by test.js
 ==============================================================================
 
-Boards read with open roles : 34
+Boards read with open roles : 35
 Boards read, currently empty: 1
-Could not read              : 57
-Total open roles seen       : 583
+Could not read              : 56
+Total open roles seen       : 586
 
 ##############################################################################
 # SECTION 1 — MATCHES: Software Engineer + Java/Dart/Flutter + ~2 yrs
@@ -261,7 +261,7 @@ Total open roles seen       : 583
 ##############################################################################
 
 >> UnitedHealth Group India  [India]
-    board    : headings:https://careers.unitedhealthgroup.com/search-jobs   —  17 open roles
+    board    : headings:https://careers.unitedhealthgroup.com/search-jobs   —  21 open roles
     FDE Engineer
       location : n/a   [INDIA]
       exp req  : not stated    stack: —    score: 49
@@ -275,7 +275,7 @@ Total open roles seen       : 583
       url      : https://upstox.com/careers/
 
 >> UiPath India  [India]
-    board    : ashby:uipath   —  121 open roles
+    board    : ashby:uipath   —  120 open roles
     Software Engineer -Engineering Systems
       location : Bucharest
       exp req  : 5-9y / 1-5y    stack: Java    score: 85
@@ -311,9 +311,9 @@ Total open roles seen       : 583
 
 >> Ushur  [India]
     board    : headings:https://ushur.ai/careers   —  10 open roles
-    InfoSec & GRC Intern
+    Analyst Coverage
       location : n/a   [INDIA]
-      exp req  : not stated    stack: —    score: 31
+      exp req  : not stated    stack: —    score: 19
       url      : https://ushur.ai/careers
 
 >> Uplers  [India]
@@ -375,6 +375,13 @@ Total open roles seen       : 583
 >> Uniqus Consultech  [India]
     board    : zohorecruit:uniqusus (0 open)   —  0 open roles
     (board reached successfully, but it has 0 open roles right now)
+
+>> Unicommerce eSolutions  [India]
+    board    : keka:unicommerce   —  2 open roles
+    Lead Software Engineer - Backend
+      location : Gurugram   [INDIA]
+      exp req  : 6-8y    stack: Java    score: 48
+      url      : https://unicommerce.keka.com/careers/jobdetails/54313
 
 >> Uniqode  [India]
     board    : headings:https://www.uniqode.com/careers   —  3 open roles
@@ -468,7 +475,7 @@ Total open roles seen       : 583
       url      : https://unity.com/careers
 
 >> UKG  [United States]
-    board    : sitemap:https://apply.ukg.com   —  36 open roles
+    board    : sitemap:https://apply.ukg.com   —  34 open roles
     Staff Software Engineer (Agentic AI)
       location : Lowell, MA,US
       exp req  : 7-11y / 2-6y    stack: Java    score: 63
@@ -503,7 +510,7 @@ Total open roles seen       : 583
       url      : https://jobs.lever.co/unlimit/b172b5c0-d94c-443c-9552-ac877458fb27
 
 ##############################################################################
-# SECTION 5 — NOT READ  (57 of 92)
+# SECTION 5 — NOT READ  (56 of 92)
 # lists-no-openings  = careers page loaded fine, published no vacancies
 # blocked-or-error    = bot wall / dead route (403, 404) — needs a browser
 # unreachable         = domain did not respond at all
@@ -527,7 +534,7 @@ Total open roles seen       : 583
 
 >> Uni Cards  [India]  — blocked-or-error-response
     careers page : undefined
-    http status  : 403, 403, 403, 403
+    http status  : 403, 403, 403, 403, 403, 403
     ATS tried    : greenhouse:unicards -> no board ; lever:unicards -> no board ; ashby:unicards -> no board ; recruitee:unicards -> no board
 
 >> uTrade Solutions  [India]  — blocked-or-error-response
@@ -537,7 +544,7 @@ Total open roles seen       : 583
 
 >> Ustraa  [India]  — blocked-or-error-response
     careers page : undefined
-    http status  : 0, 404, 404, 404, 404, 404
+    http status  : 0, 404, 404, 404
     ATS tried    : greenhouse:ustraa -> no board ; lever:ustraa -> no board ; ashby:ustraa -> no board ; recruitee:ustraa -> no board
 
 >> Udaan  [India]  — careers-page-read-but-lists-no-openings
@@ -552,12 +559,12 @@ Total open roles seen       : 583
 
 >> Urban Company  [India]  — careers-page-read-but-lists-no-openings
     careers page : undefined
-    http status  : 200, 404, 404
+    http status  : 200, 404, 404, 404
     ATS tried    : greenhouse:urban -> no board ; lever:urban -> no board ; ashby:urban -> no board ; recruitee:urban -> no board
 
 >> Merkle (formerly Ugam)  [India]  — careers-page-read-but-lists-no-openings
     careers page : undefined
-    http status  : 0, 200, 404, 404, 404, 404, 404, 404, 404, 404, 200
+    http status  : 0, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 0, 200, 404
     ATS tried    : greenhouse:merkle -> no board ; lever:merkle -> no board ; ashby:merkle -> no board ; recruitee:merkle -> no board
 
 >> Ubuy India  [India]  — careers-page-read-but-lists-no-openings
@@ -602,7 +609,7 @@ Total open roles seen       : 583
 
 >> Utkarsh Small Finance Bank  [India]  — careers-page-read-but-lists-no-openings
     careers page : https://www.utkarsh.bank.in/careers
-    http status  : 200, 0, 200, 404
+    http status  : 200, 0, 200, 404, 404
     ATS tried    : greenhouse:utkarshsmallfinance -> no board ; lever:utkarshsmallfinance -> no board ; ashby:utkarshsmallfinance -> no board ; recruitee:utkarshsmallfinance -> no board
 
 >> U GRO Capital  [India]  — careers-page-read-but-lists-no-openings
@@ -782,8 +789,4 @@ Total open roles seen       : 583
 
 >> Uninstall.io  [India]  — timed-out
     careers page : undefined
-    http status  : 
-
->> Unicommerce eSolutions  [India]  — timed-out
-    careers page : https://unicommerce.com/life-at-unicommerce/
     http status  : 

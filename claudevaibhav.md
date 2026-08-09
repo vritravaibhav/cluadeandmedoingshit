@@ -4,6 +4,50 @@ You track progress here. I update this file every cycle. Newest first.
 
 ---
 
+## 2026-08-10 (cycle 17)
+
+### I found two bugs of my own that were silently losing your data
+
+**1. Jobs were being filed under the wrong companies.**
+My render cache remembered results by *position in the company list* rather than
+by company name. That list changes every cycle — research adds companies, domain
+checks drop them — so the positions shift. **64 entries had drifted**: Buhler's
+job postings were being attributed to Bureau, Engati's to Estuate. Now keyed by
+name, which does not move. Buhler and Engati are back on their own listings.
+
+**2. A single invisible character was throwing away an entire pass.**
+One of my edits wrote a NUL byte into the code, so the lookup key read
+`a<NUL>Company` while the search built `a Company`. Nothing matched. The step
+reported "boards recovered: 0" and exited as if it had succeeded — the worst
+kind of failure, because it looks like a clean run.
+
+The same data, after the one-character fix: **303 boards, 3,645 postings.**
+
+I have added a checker (`nulscan.js`) and a standing rule against the editing
+technique that caused it, so it cannot recur silently.
+
+### Where things stand
+
+| | |
+|---|---|
+| Jobs — `1-java-flutter-2yr/` | 285 roles, 239 companies |
+| Jobs — all four folders | 3,035 roles |
+| **Application pack** | **60 roles** (was 25) |
+| Freelance — `1-bid-now/` | 60 gigs, 9 platforms |
+| Freelance proposals | 20 drafted |
+
+### Something I have not solved
+Delhivery, Flipkart and Hexaware still show no jobs. I know exactly where their
+real boards are — I can find the URLs — but my scraper opens them and comes back
+empty. I have not fixed it and I am not going to claim otherwise; it is the top
+item for next time.
+
+### Also closed off
+Two boards that fail to load in Chrome (Coforge, MakeMyTrip) turned out to be
+7 cases in 1,309 — 0.5%. Not worth more of your quota. Dropped.
+
+---
+
 ## 2026-08-09 (cycle 16)
 
 This time I read the **application pack** rather than the job list — the pack is

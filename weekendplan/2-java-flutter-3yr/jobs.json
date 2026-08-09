@@ -25,13 +25,13 @@
   "ambiguous": false
  },
  {
-  "letter": "e",
-  "company": "Excellent Webworld",
+  "letter": "i",
+  "company": "Infowind Technologies",
   "country": "India",
-  "board": "feed:https://www.excellentwebworld.com",
-  "title": "How Much Does It Cost to Hire an App Developer? A Comprehensive Guide",
+  "board": "sitemap:https://www.infowindtech.com",
+  "title": "MERN Stack Developer",
   "location": "",
-  "url": "https://www.excellentwebworld.com/cost-to-hire-an-app-developers/",
+  "url": "https://www.infowindtech.com/career/mern-stack-developer/",
   "india": true,
   "isEng": true,
   "senior": false,
@@ -40,16 +40,8 @@
   "score": 128,
   "exp": [
    [
-    0,
-    2
-   ],
-   [
     2,
-    5
-   ],
-   [
-    5,
-    9
+    6
    ]
   ],
   "fits2": true,
@@ -357,6 +349,31 @@
   "ambiguous": false
  },
  {
+  "letter": "i",
+  "company": "Infowind Technologies",
+  "country": "India",
+  "board": "sitemap:https://www.infowindtech.com",
+  "title": "React Native Developer",
+  "location": "",
+  "url": "https://www.infowindtech.com/career/react-native-developer/",
+  "india": true,
+  "isEng": true,
+  "senior": false,
+  "java": true,
+  "flutter": true,
+  "score": 110,
+  "exp": [
+   [
+    3,
+    7
+   ]
+  ],
+  "fits2": false,
+  "fits3": true,
+  "unstated": false,
+  "ambiguous": false
+ },
+ {
   "letter": "p",
   "company": "PlaySimple Games",
   "country": "India",
@@ -444,6 +461,31 @@
   "ambiguous": false
  },
  {
+  "letter": "b",
+  "company": "BinaryFolks",
+  "country": "India",
+  "board": "feed:https://binaryfolks.com",
+  "title": "Mobile App Developer",
+  "location": "",
+  "url": "https://binaryfolks.com/career/mobile-app-developer-for-binaryfolks/",
+  "india": true,
+  "isEng": true,
+  "senior": false,
+  "java": false,
+  "flutter": true,
+  "score": 103,
+  "exp": [
+   [
+    1,
+    20
+   ]
+  ],
+  "fits2": true,
+  "fits3": true,
+  "unstated": false,
+  "ambiguous": false
+ },
+ {
   "letter": "c",
   "company": "Classic Informatics",
   "country": "India",
@@ -461,6 +503,31 @@
    [
     2,
     5
+   ]
+  ],
+  "fits2": true,
+  "fits3": true,
+  "unstated": false,
+  "ambiguous": false
+ },
+ {
+  "letter": "c",
+  "company": "Codzgarage Infotech",
+  "country": "India",
+  "board": "headings:https://www.codzgarage.com/career/",
+  "title": "Flutter Developer",
+  "location": "",
+  "url": "https://www.codzgarage.com/career/",
+  "india": true,
+  "isEng": true,
+  "senior": false,
+  "java": false,
+  "flutter": true,
+  "score": 103,
+  "exp": [
+   [
+    2,
+    4
    ]
   ],
   "fits2": true,
@@ -540,6 +607,35 @@
    [
     2,
     6
+   ]
+  ],
+  "fits2": true,
+  "fits3": true,
+  "unstated": false,
+  "ambiguous": false
+ },
+ {
+  "letter": "e",
+  "company": "Ezeiatech",
+  "country": "India",
+  "board": "html:https://ezeiatech.com/careers/",
+  "title": "Software Engineer Flutter",
+  "location": "",
+  "url": "https://ezeiatech.com/careers/software-engineer-flutter",
+  "india": true,
+  "isEng": true,
+  "senior": false,
+  "java": false,
+  "flutter": true,
+  "score": 103,
+  "exp": [
+   [
+    2,
+    4
+   ],
+   [
+    4,
+    5
    ]
   ],
   "fits2": true,
@@ -672,6 +768,56 @@
   "exp": [
    [
     2,
+    4
+   ]
+  ],
+  "fits2": true,
+  "fits3": true,
+  "unstated": false,
+  "ambiguous": false
+ },
+ {
+  "letter": "u",
+  "company": "Unico Connect",
+  "country": "India",
+  "board": "headings:https://unicoconnect.com/careers",
+  "title": "Flutter Mobile App Developer",
+  "location": "",
+  "url": "https://unicoconnect.com/careers",
+  "india": true,
+  "isEng": true,
+  "senior": false,
+  "java": false,
+  "flutter": true,
+  "score": 103,
+  "exp": [
+   [
+    1,
+    3
+   ]
+  ],
+  "fits2": true,
+  "fits3": true,
+  "unstated": false,
+  "ambiguous": false
+ },
+ {
+  "letter": "v",
+  "company": "Vibrant Info",
+  "country": "India",
+  "board": "feed:https://www.vibrant-info.com",
+  "title": "Webflow Developer",
+  "location": "",
+  "url": "https://www.vibrant-info.com/jobs/webflow-developer",
+  "india": true,
+  "isEng": true,
+  "senior": false,
+  "java": false,
+  "flutter": true,
+  "score": 103,
+  "exp": [
+   [
+    0,
     4
    ]
   ],
@@ -1212,6 +1358,35 @@
   "ambiguous": false
  },
  {
+  "letter": "e",
+  "company": "Ezeiatech",
+  "country": "India",
+  "board": "html:https://ezeiatech.com/careers/",
+  "title": "Software Engineer Java",
+  "location": "",
+  "url": "https://ezeiatech.com/careers/software-engineer-java",
+  "india": true,
+  "isEng": true,
+  "senior": false,
+  "java": true,
+  "flutter": false,
+  "score": 100,
+  "exp": [
+   [
+    2,
+    4
+   ],
+   [
+    4,
+    5
+   ]
+  ],
+  "fits2": true,
+  "fits3": true,
+  "unstated": false,
+  "ambiguous": false
+ },
+ {
   "letter": "f",
   "company": "FuGenX Technologies",
   "country": "India",
@@ -1541,6 +1716,35 @@
  },
  {
   "letter": "k",
+  "company": "Klizo Solutions",
+  "country": "India",
+  "board": "wordpress:https://careers.klizos.com",
+  "title": "Blockchain Developer",
+  "location": "",
+  "url": "https://careers.klizos.com/job/blockchain-developer/",
+  "india": true,
+  "isEng": true,
+  "senior": false,
+  "java": true,
+  "flutter": false,
+  "score": 100,
+  "exp": [
+   [
+    2,
+    6
+   ],
+   [
+    2,
+    3
+   ]
+  ],
+  "fits2": true,
+  "fits3": true,
+  "unstated": false,
+  "ambiguous": false
+ },
+ {
+  "letter": "k",
   "company": "KONE",
   "country": "Finland",
   "board": "workday:kone",
@@ -1586,6 +1790,31 @@
    [
     2,
     3
+   ]
+  ],
+  "fits2": true,
+  "fits3": true,
+  "unstated": false,
+  "ambiguous": false
+ },
+ {
+  "letter": "l",
+  "company": "Lexplosion Solutions",
+  "country": "India",
+  "board": "feed:https://lexplosion.in",
+  "title": "Full Stack Developer (Frontend-Focused – Vue.js)",
+  "location": "",
+  "url": "https://lexplosion.in/jobs/full-stack-developer-frontend-focused-vue-js/",
+  "india": true,
+  "isEng": true,
+  "senior": false,
+  "java": true,
+  "flutter": false,
+  "score": 100,
+  "exp": [
+   [
+    2,
+    4
    ]
   ],
   "fits2": true,
@@ -2133,6 +2362,56 @@
   "ambiguous": false
  },
  {
+  "letter": "p",
+  "company": "PayU",
+  "country": "India",
+  "board": "successfactors:careers.payu.in",
+  "title": "Software Engineer",
+  "location": "Bengaluru, IN",
+  "url": "https://careers.payu.in/PayU/job/Bengaluru-Software-Engineer/3217480/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+  "india": true,
+  "isEng": true,
+  "senior": false,
+  "java": true,
+  "flutter": false,
+  "score": 100,
+  "exp": [
+   [
+    2,
+    6
+   ]
+  ],
+  "fits2": true,
+  "fits3": true,
+  "unstated": false,
+  "ambiguous": false
+ },
+ {
+  "letter": "p",
+  "company": "PayU",
+  "country": "India",
+  "board": "successfactors:careers.payu.in",
+  "title": "Software Engineer..",
+  "location": "Bengaluru, IN",
+  "url": "https://careers.payu.in/PayU/job/Bengaluru-Software-Engineer_/3217280/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+  "india": true,
+  "isEng": true,
+  "senior": false,
+  "java": true,
+  "flutter": false,
+  "score": 100,
+  "exp": [
+   [
+    2,
+    6
+   ]
+  ],
+  "fits2": true,
+  "fits3": true,
+  "unstated": false,
+  "ambiguous": false
+ },
+ {
   "letter": "q",
   "company": "QualityAI (formerly Qualitest)",
   "country": "India",
@@ -2527,6 +2806,35 @@
   "ambiguous": false
  },
  {
+  "letter": "w",
+  "company": "WeeTech Solution",
+  "country": "India",
+  "board": "headings:https://www.weetechsolution.com/career/",
+  "title": "Java Spring Developer",
+  "location": "",
+  "url": "https://www.weetechsolution.com/career/",
+  "india": true,
+  "isEng": true,
+  "senior": false,
+  "java": true,
+  "flutter": false,
+  "score": 100,
+  "exp": [
+   [
+    0,
+    2
+   ],
+   [
+    2,
+    3
+   ]
+  ],
+  "fits2": true,
+  "fits3": true,
+  "unstated": false,
+  "ambiguous": false
+ },
+ {
   "letter": "y",
   "company": "Yudiz Solutions",
   "country": "India",
@@ -2805,6 +3113,31 @@
   "java": true,
   "flutter": false,
   "score": 94,
+  "exp": [
+   [
+    3,
+    7
+   ]
+  ],
+  "fits2": false,
+  "fits3": true,
+  "unstated": false,
+  "ambiguous": false
+ },
+ {
+  "letter": "a",
+  "company": "Appventurez",
+  "country": "India",
+  "board": "headings:https://www.appventurez.com/careers",
+  "title": "Flutter Developer",
+  "location": "",
+  "url": "https://www.appventurez.com/careers",
+  "india": true,
+  "isEng": true,
+  "senior": false,
+  "java": false,
+  "flutter": true,
+  "score": 85,
   "exp": [
    [
     3,
@@ -3641,6 +3974,31 @@
  },
  {
   "letter": "e",
+  "company": "ESSPL",
+  "country": "India",
+  "board": "headings:https://www.esspl.com/career/",
+  "title": "Java Developer",
+  "location": "",
+  "url": "https://www.esspl.com/career/",
+  "india": true,
+  "isEng": true,
+  "senior": false,
+  "java": true,
+  "flutter": false,
+  "score": 82,
+  "exp": [
+   [
+    3,
+    7
+   ]
+  ],
+  "fits2": false,
+  "fits3": true,
+  "unstated": false,
+  "ambiguous": false
+ },
+ {
+  "letter": "e",
   "company": "Exusia",
   "country": "United States",
   "board": "html:https://exusia.com/jobs/",
@@ -3982,6 +4340,35 @@
  },
  {
   "letter": "i",
+  "company": "InterraIT",
+  "country": "India",
+  "board": "wordpress:https://interrait.com",
+  "title": "Software Engineer (L5- Java Developer)",
+  "location": "",
+  "url": "https://interrait.com/jobs/software-engineer-l5-java-developer/",
+  "india": true,
+  "isEng": true,
+  "senior": false,
+  "java": true,
+  "flutter": false,
+  "score": 82,
+  "exp": [
+   [
+    3,
+    5
+   ],
+   [
+    3,
+    7
+   ]
+  ],
+  "fits2": false,
+  "fits3": true,
+  "unstated": false,
+  "ambiguous": false
+ },
+ {
+  "letter": "i",
   "company": "IonIdea",
   "country": "India",
   "board": "headings:https://www.ionidea.com/careers.php",
@@ -4013,6 +4400,31 @@
   "title": "Golang Developer",
   "location": "",
   "url": "https://careers.kumaran.com/jobs/Careers/31840000017757029/Golang-Developer?source=RSS",
+  "india": true,
+  "isEng": true,
+  "senior": false,
+  "java": true,
+  "flutter": false,
+  "score": 82,
+  "exp": [
+   [
+    3,
+    7
+   ]
+  ],
+  "fits2": false,
+  "fits3": true,
+  "unstated": false,
+  "ambiguous": false
+ },
+ {
+  "letter": "k",
+  "company": "Klizo Solutions",
+  "country": "India",
+  "board": "wordpress:https://careers.klizos.com",
+  "title": "Python Developer",
+  "location": "",
+  "url": "https://careers.klizos.com/job/python-developer/",
   "india": true,
   "isEng": true,
   "senior": false,
@@ -4123,6 +4535,35 @@
    [
     3,
     6
+   ]
+  ],
+  "fits2": false,
+  "fits3": true,
+  "unstated": false,
+  "ambiguous": false
+ },
+ {
+  "letter": "m",
+  "company": "Mind Digital Group",
+  "country": "India",
+  "board": "wordpress:https://www.minddigital.com",
+  "title": "Android Developer",
+  "location": "",
+  "url": "https://www.minddigital.com/career/android-developer/",
+  "india": true,
+  "isEng": true,
+  "senior": false,
+  "java": true,
+  "flutter": false,
+  "score": 82,
+  "exp": [
+   [
+    3,
+    7
+   ],
+   [
+    3,
+    4
    ]
   ],
   "fits2": false,
@@ -4502,60 +4943,6 @@
  },
  {
   "letter": "s",
-  "company": "SourceFuse",
-  "country": "US",
-  "board": "wordpress:https://www.sourcefuse.com",
-  "title": "Polyglot Developer",
-  "location": "",
-  "url": "https://www.sourcefuse.com/resources/blog/job/polygot-engineer/",
-  "india": true,
-  "isEng": true,
-  "senior": false,
-  "java": true,
-  "flutter": false,
-  "score": 82,
-  "exp": [
-   [
-    3,
-    6
-   ]
-  ],
-  "fits2": false,
-  "fits3": true,
-  "unstated": false,
-  "ambiguous": false
- },
- {
-  "letter": "s",
-  "company": "SourceFuse",
-  "country": "US",
-  "board": "wordpress:https://www.sourcefuse.com",
-  "title": "Fullstack Developer",
-  "location": "",
-  "url": "https://www.sourcefuse.com/resources/blog/job/fullstack-developer/",
-  "india": true,
-  "isEng": true,
-  "senior": false,
-  "java": true,
-  "flutter": false,
-  "score": 82,
-  "exp": [
-   [
-    3,
-    6
-   ],
-   [
-    4,
-    8
-   ]
-  ],
-  "fits2": false,
-  "fits3": true,
-  "unstated": false,
-  "ambiguous": false
- },
- {
-  "letter": "s",
   "company": "Sprih",
   "country": "India",
   "board": "feed:https://www.sprih.com",
@@ -4705,6 +5092,31 @@
    [
     5,
     6
+   ]
+  ],
+  "fits2": false,
+  "fits3": true,
+  "unstated": false,
+  "ambiguous": false
+ },
+ {
+  "letter": "t",
+  "company": "TCG Digital",
+  "country": "India",
+  "board": "headings:https://www.tcgdigital.com/careers/",
+  "title": "AWS Java Developer",
+  "location": "",
+  "url": "https://www.tcgdigital.com/careers/",
+  "india": true,
+  "isEng": true,
+  "senior": false,
+  "java": true,
+  "flutter": false,
+  "score": 82,
+  "exp": [
+   [
+    3,
+    5
    ]
   ],
   "fits2": false,
@@ -4980,92 +5392,6 @@
  },
  {
   "letter": "i",
-  "company": "Infowind Technologies",
-  "country": "India",
-  "board": "feed:https://www.infowindtech.com",
-  "title": "What Is the Cost of Hiring a Software Developer?",
-  "location": "",
-  "url": "https://www.infowindtech.com/blogs/what-is-the-cost-of-hiring-software-developer/",
-  "india": true,
-  "isEng": true,
-  "senior": false,
-  "java": true,
-  "flutter": true,
-  "score": 128,
-  "exp": [
-   [
-    0,
-    2
-   ],
-   [
-    3,
-    5
-   ],
-   [
-    6,
-    10
-   ],
-   [
-    10,
-    14
-   ],
-   [
-    2,
-    3
-   ],
-   [
-    5,
-    6
-   ]
-  ],
-  "fits2": true,
-  "fits3": true,
-  "unstated": false,
-  "ambiguous": true
- },
- {
-  "letter": "z",
-  "company": "Zenkins Technologies",
-  "country": "India",
-  "board": "feed:https://zenkins.com",
-  "title": "Cost to Hire a Developer in India (2026): Complete Pricing Guide",
-  "location": "",
-  "url": "https://zenkins.com/insights/cost-to-hire-a-developer-in-india/",
-  "india": true,
-  "isEng": true,
-  "senior": false,
-  "java": true,
-  "flutter": true,
-  "score": 128,
-  "exp": [
-   [
-    0,
-    1
-   ],
-   [
-    1,
-    3
-   ],
-   [
-    3,
-    6
-   ],
-   [
-    6,
-    10
-   ],
-   [
-    10,
-    14
-   ]
-  ],
-  "fits2": true,
-  "fits3": true,
-  "unstated": false,
-  "ambiguous": true
- },
- {
-  "letter": "i",
   "company": "iTech India",
   "country": "India",
   "board": "keka:itech",
@@ -5217,6 +5543,141 @@
   "ambiguous": true
  },
  {
+  "letter": "c",
+  "company": "Codiant Software Technologies",
+  "country": "India",
+  "board": "wordpress:https://codiant.com",
+  "title": "Full Stack Developer",
+  "location": "",
+  "url": "https://codiant.com/current-opening/full-stack-developer/",
+  "india": true,
+  "isEng": true,
+  "senior": false,
+  "java": true,
+  "flutter": false,
+  "score": 100,
+  "exp": [
+   [
+    5,
+    10
+   ],
+   [
+    2,
+    5
+   ],
+   [
+    0,
+    4
+   ],
+   [
+    3,
+    7
+   ],
+   [
+    6,
+    10
+   ],
+   [
+    10,
+    11
+   ]
+  ],
+  "fits2": true,
+  "fits3": true,
+  "unstated": false,
+  "ambiguous": true
+ },
+ {
+  "letter": "c",
+  "company": "Codiant Software Technologies",
+  "country": "India",
+  "board": "wordpress:https://codiant.com",
+  "title": "iOS Developer",
+  "location": "",
+  "url": "https://codiant.com/current-opening/ios-developer/",
+  "india": true,
+  "isEng": true,
+  "senior": false,
+  "java": true,
+  "flutter": false,
+  "score": 100,
+  "exp": [
+   [
+    2,
+    3
+   ],
+   [
+    3,
+    7
+   ],
+   [
+    0,
+    4
+   ],
+   [
+    6,
+    10
+   ],
+   [
+    3,
+    4
+   ],
+   [
+    7,
+    8
+   ]
+  ],
+  "fits2": true,
+  "fits3": true,
+  "unstated": false,
+  "ambiguous": true
+ },
+ {
+  "letter": "c",
+  "company": "Codiant Software Technologies",
+  "country": "India",
+  "board": "wordpress:https://codiant.com",
+  "title": "Android Developer",
+  "location": "",
+  "url": "https://codiant.com/current-opening/android-developer/",
+  "india": true,
+  "isEng": true,
+  "senior": false,
+  "java": true,
+  "flutter": false,
+  "score": 100,
+  "exp": [
+   [
+    0,
+    4
+   ],
+   [
+    5,
+    10
+   ],
+   [
+    3,
+    7
+   ],
+   [
+    6,
+    10
+   ],
+   [
+    4,
+    5
+   ],
+   [
+    10,
+    11
+   ]
+  ],
+  "fits2": true,
+  "fits3": true,
+  "unstated": false,
+  "ambiguous": true
+ },
+ {
   "letter": "d",
   "company": "Digital Harbor",
   "country": "India",
@@ -5316,6 +5777,39 @@
    [
     1,
     2
+   ]
+  ],
+  "fits2": true,
+  "fits3": true,
+  "unstated": false,
+  "ambiguous": true
+ },
+ {
+  "letter": "k",
+  "company": "Klizo Solutions",
+  "country": "India",
+  "board": "wordpress:https://careers.klizos.com",
+  "title": "QA Engineer (Manual testing and basic knowledge in Automation)",
+  "location": "",
+  "url": "https://careers.klizos.com/job/qa-engineer-automation-manual/",
+  "india": true,
+  "isEng": true,
+  "senior": false,
+  "java": true,
+  "flutter": false,
+  "score": 100,
+  "exp": [
+   [
+    2,
+    3
+   ],
+   [
+    3,
+    7
+   ],
+   [
+    10,
+    14
    ]
   ],
   "fits2": true,
@@ -5535,6 +6029,39 @@
    [
     7,
     8
+   ]
+  ],
+  "fits2": false,
+  "fits3": true,
+  "unstated": false,
+  "ambiguous": true
+ },
+ {
+  "letter": "k",
+  "company": "Klizo Solutions",
+  "country": "India",
+  "board": "wordpress:https://careers.klizos.com",
+  "title": "Java Developer",
+  "location": "",
+  "url": "https://careers.klizos.com/job/java-developer/",
+  "india": true,
+  "isEng": true,
+  "senior": false,
+  "java": true,
+  "flutter": false,
+  "score": 82,
+  "exp": [
+   [
+    5,
+    9
+   ],
+   [
+    3,
+    7
+   ],
+   [
+    10,
+    14
    ]
   ],
   "fits2": false,

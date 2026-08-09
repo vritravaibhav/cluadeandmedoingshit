@@ -1,13 +1,13 @@
 Checking 250 companies (concurrency 8)
 
 [  1/250] Larsen & Toubro                2 jobs  via headings:https://www.larsentoubro.com/corporate/careers
-[  2/250] Laurus Labs                    1 jobs  via json-ld:https://www.lauruslabs.com/careers.html
-[  3/250] Lakshmi Machine Works        !! careers-page-read-but-lists-no-openings
-[  4/250] L&T Technology Services        2 jobs  via headings:https://www.ltts.com/careers
+[  2/250] L&T Technology Services        2 jobs  via headings:https://www.ltts.com/careers
+[  3/250] Laurus Labs                    1 jobs  via json-ld:https://www.lauruslabs.com/careers.html
+[  4/250] Lakshmi Machine Works        !! careers-page-read-but-lists-no-openings
 [  5/250] L&T Finance                    6 jobs  via headings:https://www.ltfinance.com/careers
-[  6/250] LawSikho                     !! careers-page-read-but-lists-no-openings
-[  7/250] L&T Semiconductor Technologi !! careers-page-read-but-lists-no-openings
-[  8/250] Lawyered                       4 jobs  via next-data:https://www.lawyered.in/careers
+[  6/250] Lawyered                       4 jobs  via next-data:https://www.lawyered.in/careers
+[  7/250] LawSikho                     !! careers-page-read-but-lists-no-openings
+[  8/250] L&T Semiconductor Technologi !! careers-page-read-but-lists-no-openings
 [  9/250] LDS Infotech                 !! careers-page-read-but-lists-no-openings
 [ 10/250] Leap Finance                   3 jobs  via headings:https://careers.leapfinance.com/
 [ 11/250] LeadSquared                    2 jobs  via headings:https://www.leadsquared.com/careers/
@@ -15,245 +15,245 @@ Checking 250 companies (concurrency 8)
 [ 13/250] Leena AI                       8 jobs  via headings:https://leena.ai/careers/
 [ 14/250] LenDenClub                    19 jobs  via keka:lendenclub
 [ 15/250] Lendbox                      !! careers-page-read-but-lists-no-openings
-[ 16/250] LeewayHertz                    0 jobs  via zohorecruit:leewayhertz (0 open)
-[ 17/250] Lentra                       !! careers-page-read-but-lists-no-openings
-[ 18/250] Let's Nurture                  2 jobs  via feed:https://www.letsnurture.com
-[ 19/250] Lenskart                     !! careers-page-read-but-lists-no-openings
-[ 20/250] LetsTransport                !! careers-page-read-but-lists-no-openings
-[ 21/250] TestMu AI (formerly LambdaTe !! careers-page-read-but-lists-no-openings
+[ 16/250] Lentra                       !! careers-page-read-but-lists-no-openings
+[ 17/250] LeewayHertz                    0 jobs  via zohorecruit:leewayhertz (0 open)
+[ 18/250] Lendingkart                    6 jobs  via feed:https://www.lendingkart.com
+[ 19/250] Let's Nurture                  2 jobs  via feed:https://www.letsnurture.com
+[ 20/250] Lenskart                     !! careers-page-read-but-lists-no-openings
+[ 21/250] LetsTransport                !! careers-page-read-but-lists-no-openings
 [ 22/250] LG Soft India                !! careers-page-read-but-lists-no-openings
-[ 23/250] Lendingkart                    6 jobs  via sitemap:https://www.lendingkart.com
-[ 24/250] LatentView Analytics         !! careers-page-read-but-lists-no-openings
-[ 25/250] Lexplosion Solutions          10 jobs  via feed:https://lexplosion.in
-[ 26/250] LIC                            3 jobs  via headings:https://licindia.in/careers
+[ 23/250] TestMu AI (formerly LambdaTe !! careers-page-read-but-lists-no-openings
+[ 24/250] LIC Housing Finance            2 jobs  via headings:https://www.lichousing.com/careers
+[ 25/250] Lexplosion Solutions           7 jobs  via feed:https://lexplosion.in   ** 1 MATCH **
+[ 26/250] Liberty General Insurance    !! careers-page-read-but-lists-no-openings
 [ 27/250] Leverage Edu                 !! no-job-data-found
-[ 28/250] LIC Housing Finance            2 jobs  via headings:https://www.lichousing.com/careers
-[ 29/250] Liberty General Insurance    !! careers-page-read-but-lists-no-openings
-[ 30/250] Lightrains                   185 jobs  via feed:https://lightrains.com
-[ 31/250] Lightfury Games              !! careers-page-read-but-lists-no-openings
-[ 32/250] Lifelong India               !! careers-page-read-but-lists-no-openings
-[ 33/250] LimeRoad                     !! careers-page-read-but-lists-no-openings
-[ 34/250] Licious                      !! careers-page-read-but-lists-no-openings
+[ 28/250] LatentView Analytics         !! careers-page-read-but-lists-no-openings
+[ 29/250] Lightfury Games              !! careers-page-read-but-lists-no-openings
+[ 30/250] Lightrains                    15 jobs  via html:https://lightrains.com/about/careers
+[ 31/250] Licious                      !! careers-page-read-but-lists-no-openings
+[ 32/250] Lifesight                     22 jobs  via keka:lifesight
+[ 33/250] LIC                            3 jobs  via headings:https://licindia.in/careers
+[ 34/250] Lifelong India               !! careers-page-read-but-lists-no-openings
 [ 35/250] LightMetrics                 !! careers-page-read-but-lists-no-openings
-[ 36/250] L&T Realty                   !! timed-out
-[ 37/250] Lifesight                     22 jobs  via keka:lifesight
+[ 36/250] LimeRoad                     !! careers-page-read-but-lists-no-openings
+[ 37/250] LiquiLoans                     2 jobs  via headings:https://www.liquiloans.com/careers
 [ 38/250] Lila Games                    14 jobs  via headings:https://lilagames.com/careers/
-[ 39/250] LiquiLoans                     2 jobs  via headings:https://www.liquiloans.com/careers
-[ 40/250] Lithium Urban Technologies   !! careers-page-unreachable
+[ 39/250] L&T Realty                   !! timed-out
+[ 40/250] LimeTray                     !! careers-page-read-but-lists-no-openings
 [ 41/250] LimeChat                     !! careers-page-read-but-lists-no-openings
-[ 42/250] LimeTray                     !! careers-page-read-but-lists-no-openings
+[ 42/250] Lithium Urban Technologies   !! careers-page-unreachable
 [ 43/250] Bounteous (Lister Technologi  24 jobs  via lever:bounteous   ** 1 MATCH **
-[ 44/250] LEAD School                  !! timed-out
-[ 45/250] LinearLoop                   !! careers-page-read-but-lists-no-openings
-[ 46/250] Livekeeping                  !! careers-page-read-but-lists-no-openings
-[ 47/250] Litmus7                      !! careers-page-read-but-lists-no-openings
-[ 48/250] Little Black Book              5 jobs  via next-data:https://lbb.in/careers/
-[ 49/250] Livspace                      60 jobs  via headings:https://www.livspace.com/in/careers
-[ 50/250] Livlong                      !! no-job-data-found
-[ 51/250] Livpure                      !! careers-page-read-but-lists-no-openings
-[ 52/250] Lloyds Technology Centre      40 jobs  via workday:lbg
-[ 53/250] Live Deftsoft                 10 jobs  via feed:https://deftsoft.com
-[ 54/250] Lirisoft                     !! careers-page-read-but-lists-no-openings
+[ 44/250] Livekeeping                  !! careers-page-read-but-lists-no-openings
+[ 45/250] Little Black Book              5 jobs  via next-data:https://lbb.in/careers/
+[ 46/250] Litmus7                      !! careers-page-read-but-lists-no-openings
+[ 47/250] LEAD School                  !! timed-out
+[ 48/250] Livlong                      !! no-job-data-found
+[ 49/250] LinearLoop                   !! careers-page-read-but-lists-no-openings
+[ 50/250] Livspace                      60 jobs  via headings:https://www.livspace.com/in/careers
+[ 51/250] Lirisoft                     !! careers-page-read-but-lists-no-openings
+[ 52/250] Livpure                      !! careers-page-read-but-lists-no-openings
+[ 53/250] Lloyds Technology Centre      40 jobs  via workday:lbg
+[ 54/250] Live Deftsoft                  1 jobs  via feed:https://deftsoft.com
 [ 55/250] Locobuzz                       8 jobs  via headings:https://locobuzz.com/careers/
 [ 56/250] LoanTap                      !! careers-page-read-but-lists-no-openings
 [ 57/250] Locus                          2 jobs  via headings:https://locus.sh/careers/
-[ 58/250] LocoNav                        4 jobs  via headings:https://loconav.com/career
-[ 59/250] LogicSpice                    10 jobs  via feed:https://www.logicspice.com
+[ 58/250] LogicSpice                     5 jobs  via feed:https://www.logicspice.com
+[ 59/250] LocoNav                        4 jobs  via headings:https://loconav.com/career
 [ 60/250] LogicRays Technologies         6 jobs  via headings:https://www.logicrays.com/job-openings.php
-[ 61/250] Lodha Group                   25 jobs  via headings:https://www.lodhagroup.com/hr/explore-career
+[ 61/250] Logiciel Solutions             0 jobs  via zohorecruit:logiciel (0 open)
 [ 62/250] Loadshare Networks           !! careers-page-read-but-lists-no-openings
-[ 63/250] Logic Fruit Technologies      10 jobs  via feed:https://www.logic-fruit.com
-[ 64/250] Logiciel Solutions             0 jobs  via zohorecruit:logiciel (0 open)
+[ 63/250] Lodha Group                   25 jobs  via headings:https://www.lodhagroup.com/hr/explore-career
+[ 64/250] Logituit                       8 jobs  via headings:https://logituit.com/careers/
 [ 65/250] Loop Health                   34 jobs  via keka:loop   ** 1 MATCH **
-[ 66/250] LogiNext                      36 jobs  via sitemap:https://loginext.hire.trakstar.com   ** 3 MATCH **
-[ 67/250] LogiQuad Solutions            10 jobs  via feed:https://logiquad.com
-[ 68/250] Logituit                       8 jobs  via headings:https://logituit.com/careers/
+[ 66/250] Loop Subscriptions            20 jobs  via headings:https://careers.loopwork.co/
+[ 67/250] Logic Fruit Technologies       3 jobs  via headings:https://www.logic-fruit.com/career/
+[ 68/250] Logistic Infotech              6 jobs  via headings:https://www.logisticinfotech.com/career/   ** 1 MATCH **
 [ 69/250] LTM (formerly LTIMindtree)    36 jobs  via successfactors:careers.ltm.com
-[ 70/250] Lucent Innovation            589 jobs  via feed:https://www.lucentinnovation.com
-[ 71/250] Loop Subscriptions            20 jobs  via headings:https://careers.loopwork.co/
-[ 72/250] Lucas-TVS                     10 jobs  via feed:https://career.lucas-tvs.com
-[ 73/250] Lollypop Design Studio        26 jobs  via wordpress:https://lollypop.design
-[ 74/250] Logistic Infotech              6 jobs  via headings:https://www.logisticinfotech.com/career/   ** 1 MATCH **
+[ 70/250] Lollypop Design Studio        26 jobs  via wordpress:https://lollypop.design
+[ 71/250] LogiNext                      36 jobs  via sitemap:https://loginext.hire.trakstar.com   ** 3 MATCH **
+[ 72/250] Lucas-TVS                      4 jobs  via feed:https://career.lucas-tvs.com
+[ 73/250] Lucent Innovation            !! careers-page-read-but-lists-no-openings
+[ 74/250] LogiQuad Solutions             3 jobs  via wordpress:https://logiquad.com
 [ 75/250] Lucid Outsourcing Solutions   10 jobs  via feed:https://lucidoutsourcing.com
-[ 76/250] Lumax Auto Technologies      !! careers-page-read-but-lists-no-openings
-[ 77/250] Lumiq                          0 jobs  via zohorecruit:lumiq (0 open)
+[ 76/250] Lumiq                          0 jobs  via zohorecruit:lumiq (0 open)
+[ 77/250] Luminous Power Technologies   16 jobs  via successfactors:careers.luminousindia.com
 [ 78/250] Lumel Technologies             9 jobs  via keka:lumel   ** 1 MATCH **
-[ 79/250] Luminous Infoways              7 jobs  via wordpress:https://luminousinfoways.com
-[ 80/250] Lumina Datamatics            !! careers-page-unreachable
-[ 81/250] Lupin                         42 jobs  via successfactors:careers.lupin.com
-[ 82/250] Loylty Rewardz               !! careers-page-read-but-lists-no-openings
-[ 83/250] Lynkit                       !! careers-page-read-but-lists-no-openings
-[ 84/250] Lybrate                      !! careers-page-read-but-lists-no-openings
-[ 85/250] L'Oreal                        2 jobs  via headings:https://www.loreal.com/en/careers/
-[ 86/250] Luminous Power Technologies   16 jobs  via successfactors:careers.luminousindia.com
-[ 87/250] Lyros Technologies           !! careers-page-read-but-lists-no-openings
+[ 79/250] Lumax Auto Technologies      !! careers-page-read-but-lists-no-openings
+[ 80/250] Loylty Rewardz               !! careers-page-read-but-lists-no-openings
+[ 81/250] Lumina Datamatics            !! careers-page-unreachable
+[ 82/250] Luminous Infoways              7 jobs  via wordpress:https://luminousinfoways.com
+[ 83/250] Lyros Technologies           !! careers-page-read-but-lists-no-openings
+[ 84/250] Lynkit                       !! careers-page-read-but-lists-no-openings
+[ 85/250] Lucid Softech                !! careers-page-read-but-lists-no-openings
+[ 86/250] Lupin                         42 jobs  via successfactors:careers.lupin.com
+[ 87/250] Lybrate                      !! careers-page-read-but-lists-no-openings
 [ 88/250] Landis+Gyr                    33 jobs  via successfactors:careers.landisgyr.com
 [ 89/250] Landmark Group               !! careers-page-read-but-lists-no-openings
-[ 90/250] Lucid Softech                !! careers-page-read-but-lists-no-openings
-[ 91/250] LeanTaaS                       2 jobs  via lever:leantaas
-[ 92/250] Lattice Semiconductor         95 jobs  via icims:latticesemi
-[ 93/250] Lyzr AI                       36 jobs  via feed:https://careers.lyzr.ai   ** 1 MATCH **
-[ 94/250] Lear Corporation               6 jobs  via headings:https://www.lear.com/careers
-[ 95/250] Labcorp                        4 jobs  via headings:https://careers.labcorp.com/global/en
-[ 96/250] LG Electronics                93 jobs  via greenhouse:lgelectronics
-[ 97/250] LexisNexis Risk Solutions     40 jobs  via workday:relx   ** 1 MATCH **
-[ 98/250] Legrand                        2 jobs  via headings:https://www.legrand.com/careers
-[ 99/250] Lexmark                        1 jobs  via workday:lexmark
+[ 90/250] Lyzr AI                       36 jobs  via feed:https://careers.lyzr.ai   ** 1 MATCH **
+[ 91/250] Lattice Semiconductor         95 jobs  via icims:latticesemi
+[ 92/250] LeanTaaS                       2 jobs  via lever:leantaas
+[ 93/250] L'Oreal                        2 jobs  via headings:https://www.loreal.com/en/careers/
+[ 94/250] Labcorp                        4 jobs  via headings:https://careers.labcorp.com/global/en
+[ 95/250] Lear Corporation               6 jobs  via headings:https://www.lear.com/careers
+[ 96/250] Levi Strauss & Co.            40 jobs  via workday:levistraussandco
+[ 97/250] Lexmark                        1 jobs  via workday:lexmark
+[ 98/250] LG Electronics                93 jobs  via greenhouse:lgelectronics
+[ 99/250] Legrand                        2 jobs  via headings:https://www.legrand.com/careers
 [100/250] Lighthouse                    48 jobs  via greenhouse:lighthouse
-[101/250] Lam Research                   4 jobs  via headings:https://www.lamresearch.com/careers/careers-overview/?utm_source=vanity&utm_campaign=lam_careers_vanity&utm_medium=vanity&utm_content=careers_vanity
+[101/250] LexisNexis Risk Solutions     40 jobs  via workday:relx   ** 1 MATCH **
 [102/250] Lightspeed Commerce          143 jobs  via ashby:lightspeedhq
-[103/250] Levi Strauss & Co.            40 jobs  via workday:levistraussandco
-[104/250] LinkedIn                      23 jobs  via lever:linkedin
-[105/250] Lennox International         213 jobs  via icims:globalcareers-lennox
-[106/250] Lightstorm                   !! careers-page-read-but-lists-no-openings
-[107/250] LoginRadius                    7 jobs  via headings:https://www.loginradius.com/careers
-[108/250] Litera                        55 jobs  via workday:litera   ** 1 MATCH **
-[109/250] Lenovo                       !! careers-page-read-but-lists-no-openings
-[110/250] Lloyd's List Intelligence      8 jobs  via feed:https://careers.lloydslistintelligence.com
-[111/250] LogicMonitor                  62 jobs  via greenhouse:logicmonitor   ** 1 MATCH **
-[112/250] LSEG                          40 jobs  via workday:lseg
-[113/250] Linde                        !! careers-page-read-but-lists-no-openings
+[103/250] Lennox International         213 jobs  via icims:globalcareers-lennox
+[104/250] Lam Research                   4 jobs  via headings:https://www.lamresearch.com/careers/careers-overview/?utm_source=vanity&utm_campaign=lam_careers_vanity&utm_medium=vanity&utm_content=careers_vanity
+[105/250] Lightstorm                   !! careers-page-read-but-lists-no-openings
+[106/250] LinkedIn                      23 jobs  via lever:linkedin
+[107/250] Litera                        55 jobs  via workday:litera   ** 1 MATCH **
+[108/250] Lenovo                       !! careers-page-read-but-lists-no-openings
+[109/250] Lloyd's List Intelligence      8 jobs  via feed:https://careers.lloydslistintelligence.com
+[110/250] LoginRadius                    7 jobs  via headings:https://www.loginradius.com/careers
+[111/250] Linde                        !! careers-page-read-but-lists-no-openings
+[112/250] LogicMonitor                  62 jobs  via greenhouse:logicmonitor   ** 1 MATCH **
+[113/250] LSEG                          40 jobs  via workday:lseg
 [114/250] Lucidworks                   !! blocked-or-error-response
 [115/250] Lubrizol                     !! blocked-or-error-response
-[116/250] Lionbridge                   !! careers-page-read-but-lists-no-openings
+[116/250] Logitech                     !! blocked-or-error-response
 [117/250] LumenData                     10 jobs  via zohorecruit:lumendata.com
-[118/250] Lloyd's Register             !! careers-page-read-but-lists-no-openings
-[119/250] Logitech                     !! blocked-or-error-response
-[120/250] Lululemon                     20 jobs  via feed:https://careers.lululemon.com
-[121/250] Lyra Network                 !! careers-page-unreachable
-[122/250] Luxoft                       !! blocked-or-error-response
+[118/250] Lionbridge                   !! careers-page-read-but-lists-no-openings
+[119/250] Lululemon                     20 jobs  via feed:https://careers.lululemon.com
+[120/250] Lyra Network                 !! careers-page-unreachable
+[121/250] Luxoft                       !! blocked-or-error-response
+[122/250] Lowe's                       159 jobs  via phenom:_self
 [123/250] Level AI                      22 jobs  via lever:levelai   ** 1 MATCH **
 [124/250] Lulu Group International     !! no-job-data-found
 [125/250] Legalo                       !! no-job-data-found
-[126/250] Carelon (formerly Legato Hea !! no-job-data-found
+[126/250] Lloyd's Register             !! careers-page-read-but-lists-no-openings
 [127/250] LeadIQ India                   3 jobs  via headings:https://leadiq.com/careers
-[128/250] Liminal                       14 jobs  via keka:liminal
-[129/250] Lowe's                       161 jobs  via phenom:_self
-[130/250] Lumen Technologies           !! careers-page-read-but-lists-no-openings
-[131/250] Lakshya Digital               10 jobs  via feed:https://lakshyadigital.com
-[132/250] Langoor                        4 jobs  via headings:https://careers.langoor.com/
-[133/250] Lucid Motors India           !! careers-page-read-but-lists-no-openings
-[134/250] Laserwords                   !! careers-page-unreachable
-[135/250] Lucideus                      16 jobs  via lever:safe
-[136/250] Learnbay                      10 jobs  via headings:https://www.learnbay.co/careers
-[137/250] Leadsoc Technologies          11 jobs  via headings:https://www.leadsoc.com/careers/
-[138/250] Lightning Job                !! careers-page-read-but-lists-no-openings
-[139/250] Lapiz Digital Services         9 jobs  via feed:https://www.lapizdigital.com
-[140/250] Learnyst                       2 jobs  via headings:https://www.learnyst.com/careers
-[141/250] Lutron Electronics            38 jobs  via sitemap:https://careers.lutron.com
-[142/250] LegalKart                    !! blocked-or-error-response
-[143/250] Lepton Software               13 jobs  via keka:leptonsoftware
-[144/250] LegalWiz.in                    9 jobs  via feed:https://www.legalwiz.in
-[145/250] Leo9 Studio                  !! no-job-data-found
+[128/250] Lumen Technologies           !! careers-page-read-but-lists-no-openings
+[129/250] Carelon (formerly Legato Hea !! no-job-data-found
+[130/250] Liminal                       14 jobs  via keka:liminal
+[131/250] Langoor                        4 jobs  via headings:https://careers.langoor.com/
+[132/250] Lucideus                      16 jobs  via lever:safe
+[133/250] Laserwords                   !! careers-page-unreachable
+[134/250] Lucid Motors India           !! careers-page-read-but-lists-no-openings
+[135/250] Lakshya Digital                6 jobs  via headings:https://lakshyadigital.com/careers/
+[136/250] LawRato                      !! careers-page-read-but-lists-no-openings
+[137/250] Learnbay                      10 jobs  via headings:https://www.learnbay.co/careers
+[138/250] Leadsoc Technologies          11 jobs  via headings:https://www.leadsoc.com/careers/
+[139/250] Learnyst                       2 jobs  via headings:https://www.learnyst.com/careers
+[140/250] Lapiz Digital Services         9 jobs  via feed:https://www.lapizdigital.com
+[141/250] LegalKart                    !! blocked-or-error-response
+[142/250] Lepton Software               13 jobs  via keka:leptonsoftware
+[143/250] Lightning Job                !! careers-page-read-but-lists-no-openings
+[144/250] Leo9 Studio                  !! no-job-data-found
+[145/250] Lutron Electronics            38 jobs  via sitemap:https://careers.lutron.com
 [146/250] Lissun                       !! no-job-data-found
-[147/250] Lifease Solutions            !! no-job-data-found
+[147/250] LegalWiz.in                   20 jobs  via headings:https://www.legalwiz.in/career
 [148/250] LearningMate                 !! careers-page-read-but-lists-no-openings
-[149/250] Loyalty Juggernaut           !! no-job-data-found
-[150/250] Livares Technologies         !! no-job-data-found
+[149/250] Livares Technologies         !! no-job-data-found
+[150/250] Lifease Solutions            !! no-job-data-found
 [151/250] Lemnisk                        1 jobs  via wordpress:https://www.lemnisk.co
-[152/250] LiteBreeze                    10 jobs  via feed:https://litebreeze.com
+[152/250] Loyalty Juggernaut           !! no-job-data-found
 [153/250] Lincode Labs                 !! no-job-data-found
-[154/250] LawRato                      !! careers-page-read-but-lists-no-openings
-[155/250] LibSys                       !! careers-page-read-but-lists-no-openings
-[156/250] Loco                         !! blocked-or-error-response
-[157/250] Logicwind                    !! careers-page-read-but-lists-no-openings
+[154/250] Loco                         !! blocked-or-error-response
+[155/250] Logicwind                    !! careers-page-read-but-lists-no-openings
+[156/250] LibSys                       !! careers-page-read-but-lists-no-openings
+[157/250] Labellerr                      6 jobs  via headings:https://www.labellerr.com/careers
 [158/250] Lampros Tech                   2 jobs  via headings:https://lampros.tech/careers
-[159/250] Litmus Branding                2 jobs  via headings:https://www.litmusbranding.com/careers/
-[160/250] Labellerr                      6 jobs  via headings:https://www.labellerr.com/careers
+[159/250] Lenvica                       10 jobs  via feed:https://lenvica.com
+[160/250] Litmus Branding                2 jobs  via headings:https://www.litmusbranding.com/careers/
 [161/250] Lumenci                        3 jobs  via jazzhr:lumenci
-[162/250] Lyearn                       !! no-job-data-found
-[163/250] Lucidity                     !! no-job-data-found
-[164/250] Lenvica                       10 jobs  via feed:https://lenvica.com
-[165/250] LivFin                       !! no-job-data-found
+[162/250] Lucidity                     !! no-job-data-found
+[163/250] Lyearn                       !! no-job-data-found
+[164/250] LivFin                       !! no-job-data-found
+[165/250] LocalCircles                   6 jobs  via html:https://www.localcircles.com/a/index/core?career
 [166/250] LearnTube                    !! careers-page-read-but-lists-no-openings
-[167/250] LocalCircles                   6 jobs  via html:https://www.localcircles.com/a/index/core?career
-[168/250] Logisy                       !! no-job-data-found
-[169/250] Legistify                     22 jobs  via headings:https://legistify.com/careers
-[170/250] LifeCell                     !! no-job-data-found
-[171/250] Leegality                     16 jobs  via zohorecruit:careers.leegality.com
-[172/250] LOBB                           5 jobs  via headings:https://careers.lobb.in/
+[167/250] Logisy                       !! no-job-data-found
+[168/250] Legistify                     22 jobs  via headings:https://legistify.com/careers
+[169/250] LifeCell                     !! no-job-data-found
+[170/250] Leegality                     16 jobs  via zohorecruit:careers.leegality.com
+[171/250] Leapswitch Networks          !! careers-page-read-but-lists-no-openings
+[172/250] Leadzen.ai                   !! blocked-or-error-response
 [173/250] Liquide                        0 jobs  via zohorecruit:liquide (0 open)
-[174/250] Leapswitch Networks          !! careers-page-read-but-lists-no-openings
-[175/250] Leadzen.ai                   !! blocked-or-error-response
+[174/250] LOBB                           5 jobs  via headings:https://careers.lobb.in/
+[175/250] Lera Technologies              4 jobs  via keka:lera
 [176/250] Linarc                       !! timed-out
-[177/250] Lera Technologies              4 jobs  via keka:lera
-[178/250] Lisbell Technologies         !! careers-page-read-but-lists-no-openings
-[179/250] LucidPlus Infotech           !! no-job-data-found
-[180/250] Linways Technologies         !! careers-page-read-but-lists-no-openings
-[181/250] LXME                         !! no-job-data-found
-[182/250] Luure.ai                     !! no-job-data-found
-[183/250] Looppanel                    !! careers-page-read-but-lists-no-openings
-[184/250] Logipulse                    !! blocked-or-error-response
-[185/250] Labglo Technologies            6 jobs  via feed:https://labglo.com
-[186/250] Let's Build                  !! no-job-data-found
-[187/250] LabGex Innovations           !! careers-page-read-but-lists-no-openings
-[188/250] Lektik                         2 jobs  via sitemap:https://www.lektik.com
-[189/250] Leader Group                   2 jobs  via feed:https://jobs.leadergroup.com
-[190/250] Law Qube Technologies        !! no-job-data-found
-[191/250] Lanware Solutions            !! careers-page-read-but-lists-no-openings
+[177/250] LucidPlus Infotech           !! no-job-data-found
+[178/250] Linways Technologies         !! careers-page-read-but-lists-no-openings
+[179/250] Lisbell Technologies         !! careers-page-read-but-lists-no-openings
+[180/250] LXME                         !! no-job-data-found
+[181/250] Looppanel                    !! careers-page-read-but-lists-no-openings
+[182/250] Logipulse                    !! blocked-or-error-response
+[183/250] Labglo Technologies            6 jobs  via feed:https://labglo.com
+[184/250] Luure.ai                     !! no-job-data-found
+[185/250] LabGex Innovations           !! careers-page-read-but-lists-no-openings
+[186/250] Law Qube Technologies        !! no-job-data-found
+[187/250] Let's Build                  !! no-job-data-found
+[188/250] Lanware Solutions            !! careers-page-read-but-lists-no-openings
+[189/250] Lektik                         2 jobs  via sitemap:https://www.lektik.com
+[190/250] Leader Group                   2 jobs  via feed:https://jobs.leadergroup.com
+[191/250] Ladera Technology              6 jobs  via headings:https://laderatechnology.com/careers/
 [192/250] Lumenze Digital              !! no-job-data-found
 [193/250] Launched Global              !! careers-page-read-but-lists-no-openings
-[194/250] Ladera Technology              6 jobs  via headings:https://laderatechnology.com/careers/
-[195/250] Lazer Ken IT Services        !! no-job-data-found
-[196/250] Leapmile Robotics            !! careers-page-read-but-lists-no-openings
-[197/250] Leeway Softech               !! careers-page-read-but-lists-no-openings
-[198/250] Lakshya Software Technologie !! no-job-data-found
+[194/250] LiteBreeze                   !! timed-out
+[195/250] Lakshya Software Technologie !! no-job-data-found
+[196/250] Lazer Ken IT Services        !! no-job-data-found
+[197/250] Leapmile Robotics            !! careers-page-read-but-lists-no-openings
+[198/250] Leeway Softech               !! careers-page-read-but-lists-no-openings
 [199/250] Life and Opportunity Solutio !! no-job-data-found
-[200/250] Lentera Technologies           9 jobs  via feed:https://www.lentera.in
-[201/250] LambdaZen                    !! careers-page-read-but-lists-no-openings
-[202/250] Legasis                      !! careers-page-read-but-lists-no-openings
+[200/250] Lentera Technologies           2 jobs  via feed:https://www.lentera.in
+[201/250] Legasis                      !! careers-page-read-but-lists-no-openings
+[202/250] LambdaZen                    !! careers-page-read-but-lists-no-openings
 [203/250] Linear Code Technologies     !! no-job-data-found
-[204/250] Lester Infoservices            3 jobs  via headings:https://www.lesterinc.com/careers-offerings/
-[205/250] Lifeline Systech Solutions   !! no-job-data-found
-[206/250] LightHouse Info Systems      !! no-job-data-found
-[207/250] Linkfields Innovations       !! careers-page-read-but-lists-no-openings
-[208/250] Lissomsoft                   !! careers-page-read-but-lists-no-openings
+[204/250] Lifeline Systech Solutions   !! no-job-data-found
+[205/250] Lester Infoservices            3 jobs  via headings:https://www.lesterinc.com/careers-offerings/
+[206/250] Linkfields Innovations       !! careers-page-read-but-lists-no-openings
+[207/250] Lissomsoft                   !! careers-page-read-but-lists-no-openings
+[208/250] LightHouse Info Systems      !! no-job-data-found
 [209/250] Logic ERP Solutions          !! blocked-or-error-response
 [210/250] LinkageIT                    !! no-job-data-found
-[211/250] LN Webworks                   10 jobs  via feed:https://www.lnwebworks.com   ** 1 MATCH **
-[212/250] Logix Shapers                !! blocked-or-error-response
-[213/250] Lexington Soft                10 jobs  via html:https://www.lexingtonsoft.com/careers/
-[214/250] Logixal                       16 jobs  via headings:https://logixal.com/careers
+[211/250] Logixal                       16 jobs  via headings:https://logixal.com/careers
+[212/250] LN Webworks                   10 jobs  via feed:https://www.lnwebworks.com   ** 1 MATCH **
+[213/250] Logix Shapers                !! blocked-or-error-response
+[214/250] Lexington Soft                10 jobs  via html:https://www.lexingtonsoft.com/careers/
 [215/250] Logic Systems & Solutions    !! no-job-data-found
 [216/250] Lytty                        !! careers-page-read-but-lists-no-openings
 [217/250] Lowcode Labs                 !! no-job-data-found
 [218/250] Lean IT Corp                   6 jobs  via headings:https://leanitcorp.com/job-profile/
-[219/250] The Sustainability Cloud (Lo   6 jobs  via feed:https://www.thesustainabilitycloud.com
-[220/250] Lilac Infotech                 4 jobs  via headings:https://lilacinfotech.com/careers
-[221/250] Logiology Solutions            9 jobs  via headings:https://logiology.com/career
-[222/250] Lean Transition Solutions    !! timed-out
-[223/250] Lex Nimble Solutions         !! no-job-data-found
-[224/250] Loginsoft                     14 jobs  via headings:https://www.loginsoft.com/careers
-[225/250] Leadrat                        6 jobs  via html:https://leadrat.com/career/
-[226/250] Lexlegis.ai                   13 jobs  via breezy:lexlegis
-[227/250] LEO1                         !! no-job-data-found
-[228/250] Faveo Helpdesk (Ladybird Web !! timed-out
-[229/250] Limenzy Technologies           5 jobs  via headings:https://limenzy.com/careers
-[230/250] Learnpedia                   !! careers-page-read-but-lists-no-openings
-[231/250] Livguard                     !! no-job-data-found
-[232/250] Lotus Wireless Technologies  !! careers-page-read-but-lists-no-openings
-[233/250] Lakebrains Technologies      !! careers-page-unreachable
+[219/250] Lilac Infotech                 4 jobs  via headings:https://lilacinfotech.com/careers
+[220/250] Lean Transition Solutions    !! timed-out
+[221/250] Faveo Helpdesk (Ladybird Web !! timed-out
+[222/250] Lex Nimble Solutions         !! no-job-data-found
+[223/250] Loginsoft                     14 jobs  via headings:https://www.loginsoft.com/careers
+[224/250] Lexlegis.ai                   13 jobs  via breezy:lexlegis
+[225/250] Logiology Solutions            9 jobs  via headings:https://logiology.com/career
+[226/250] LEO1                         !! no-job-data-found
+[227/250] Learnpedia                   !! careers-page-read-but-lists-no-openings
+[228/250] Livguard                     !! no-job-data-found
+[229/250] Leadrat                        6 jobs  via html:https://leadrat.com/career/
+[230/250] Limenzy Technologies           5 jobs  via headings:https://limenzy.com/careers
+[231/250] Lotus Wireless Technologies  !! careers-page-read-but-lists-no-openings
+[232/250] Lakebrains Technologies      !! careers-page-unreachable
+[233/250] Lenok Solutions              !! careers-page-read-but-lists-no-openings
 [234/250] Loyal IT Solutions           !! careers-page-unreachable
 [235/250] Letitbex AI                  !! careers-page-read-but-lists-no-openings
-[236/250] Lenok Solutions              !! careers-page-read-but-lists-no-openings
+[236/250] The Sustainability Cloud (Lo !! blocked-or-error-response
 [237/250] Leap Club                    !! no-job-data-found
 [238/250] Lean Impeccable Technologies !! blocked-or-error-response
-[239/250] LogicGo Infotech               8 jobs  via feed:https://logicgoinfotech.com
-[240/250] LogicMatter                  !! no-job-data-found
-[241/250] LS Digital                   !! careers-page-read-but-lists-no-openings
-[242/250] LivePerson                    17 jobs  via greenhouse:liveperson   ** 1 MATCH **
-[243/250] Littelfuse                    40 jobs  via workday:littelfuse
-[244/250] Linxas                       !! careers-page-read-but-lists-no-openings
-[245/250] L.G. Balakrishnan & Bros     !! careers-page-read-but-lists-no-openings
-[246/250] LotusFlare                    57 jobs  via feed:https://careers.lotusflare.com   ** 1 MATCH **
-[247/250] LuLu Financial Holdings      !! no-job-data-found
-[248/250] LoudCloud Systems            !! no-job-data-found
-[249/250] Lightbeam Health Solutions   !! careers-page-read-but-lists-no-openings
-[250/250] Lantronix                    !! timed-out
+[239/250] LogicGo Infotech               2 jobs  via feed:https://logicgoinfotech.com
+[240/250] LivePerson                    17 jobs  via greenhouse:liveperson   ** 1 MATCH **
+[241/250] LogicMatter                  !! no-job-data-found
+[242/250] Linxas                       !! careers-page-read-but-lists-no-openings
+[243/250] LS Digital                   !! careers-page-read-but-lists-no-openings
+[244/250] Littelfuse                    40 jobs  via workday:littelfuse
+[245/250] LotusFlare                    57 jobs  via feed:https://careers.lotusflare.com   ** 1 MATCH **
+[246/250] LuLu Financial Holdings      !! no-job-data-found
+[247/250] LoudCloud Systems            !! no-job-data-found
+[248/250] L.G. Balakrishnan & Bros     !! careers-page-read-but-lists-no-openings
+[249/250] Lantronix                    !! careers-page-read-but-lists-no-openings
+[250/250] Lightbeam Health Solutions   !! careers-page-read-but-lists-no-openings
 
-  boards read with jobs : 116
+  boards read with jobs : 113
   boards read, 0 open   : 4
-  could not read        : 130
-  companies w/ matches  : 13
+  could not read        : 133
+  companies w/ matches  : 14
 
 Wrote careers.txt + results.json

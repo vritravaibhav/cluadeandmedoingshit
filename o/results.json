@@ -21,12 +21,12 @@
     {
      "url": "https://oracle.com/careers",
      "status": 200,
-     "bytes": 51479
+     "bytes": 51478
     },
     {
      "url": "https://oracle.com/career",
      "status": 200,
-     "bytes": 51479
+     "bytes": 51478
     },
     {
      "url": "https://oracle.com/jobs",
@@ -55,7 +55,7 @@
     "workable:oracle -> no board"
    ]
   },
-  "ms": 35135
+  "ms": 24001
  },
  {
   "company": "Ola",
@@ -159,7 +159,7 @@
     "workable:olacabs -> no board"
    ]
   },
-  "ms": 25735
+  "ms": 18821
  },
  {
   "company": "Ola Electric",
@@ -177,7 +177,7 @@
    "pages": [],
    "attempts": []
   },
-  "ms": 90003
+  "ms": 90001
  },
  {
   "company": "OYO",
@@ -217,7 +217,22 @@
     {
      "url": "https://oyorooms.com/join-us",
      "status": 404,
-     "bytes": 68847
+     "bytes": 68993
+    },
+    {
+     "url": "https://oyorooms.com/join-our-team",
+     "status": 404,
+     "bytes": 68999
+    },
+    {
+     "url": "https://oyorooms.com/careers.html",
+     "status": 404,
+     "bytes": 68998
+    },
+    {
+     "url": "https://oyorooms.com/company/careers",
+     "status": 404,
+     "bytes": 69001
     }
    ],
    "candidates": [
@@ -235,7 +250,7 @@
     "workable:oyorooms -> no board"
    ]
   },
-  "ms": 22980
+  "ms": 15068
  },
  {
   "company": "Optum India",
@@ -260,7 +275,7 @@
     {
      "url": "https://optum.com/careers",
      "status": 200,
-     "bytes": 144525
+     "bytes": 144523
     },
     {
      "url": "https://optum.com/career",
@@ -288,7 +303,7 @@
     "workable:optum -> no board"
    ]
   },
-  "ms": 37957
+  "ms": 32169
  },
  {
   "company": "Oxyzo",
@@ -366,7 +381,7 @@
     "workable:oxyzo -> no board"
    ]
   },
-  "ms": 12744
+  "ms": 15230
  },
  {
   "company": "Observe.AI",
@@ -891,27 +906,111 @@
     "greenhouse:observeai -> 19 jobs"
    ]
   },
-  "ms": 5116
+  "ms": 4735
  },
  {
   "company": "Olam India",
   "country": "India",
-  "source": null,
-  "error": "careers-page-read-but-lists-no-openings",
-  "totalJobs": 0,
-  "jobs": [],
+  "source": "successfactors:careers.olamgroup.com",
+  "error": null,
+  "totalJobs": 3,
+  "jobs": [
+   {
+    "title": "No jobs currently available - Check out our other opportunities.",
+    "location": "",
+    "url": "https://careers.olamgroup.com",
+    "india": true,
+    "locationSaysIndia": false,
+    "hasLocation": false,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 19
+   },
+   {
+    "title": "Production Manager",
+    "location": "Amuwo Odofin, NG",
+    "url": "https://careers.olamgroup.com/job/Amuwo-Odofin-Production-Manager/1058396666/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [
+     [
+      10,
+      14
+     ],
+     [
+      3,
+      7
+     ],
+     [
+      3,
+      4
+     ]
+    ],
+    "expFits2": false,
+    "score": -10
+   },
+   {
+    "title": "Planning Manager",
+    "location": "OKFOOD-1, NG",
+    "url": "https://careers.olamgroup.com/job/OKFOOD-1-Planning-Manager/1056677366/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [
+     [
+      10,
+      14
+     ],
+     [
+      10,
+      11
+     ]
+    ],
+    "expFits2": false,
+    "score": -22
+   }
+  ],
   "enriched": 0,
   "matches": [],
   "nearMatches": [],
-  "closest": null,
+  "closest": {
+   "title": "No jobs currently available - Check out our other opportunities.",
+   "location": "",
+   "url": "https://careers.olamgroup.com",
+   "team": "",
+   "text": "Click above to see other opportunities available at Olam International Limited",
+   "score": 19,
+   "isMatch": false,
+   "isEng": false,
+   "java": false,
+   "flutter": false,
+   "android": false,
+   "india": true,
+   "senior": false,
+   "junior": false,
+   "exp": [],
+   "expFits2": false
+  },
   "closestEng": null,
   "trace": {
    "pages": [
     {
      "url": "https://careers.olamgroup.com",
-     "status": 0,
-     "bytes": 0,
-     "error": "This operation was aborted"
+     "status": 200,
+     "bytes": 143531
     },
     {
      "url": "https://olamgroup.com/careers",
@@ -922,49 +1021,10 @@
      "url": "https://olamgroup.com/career",
      "status": 404,
      "bytes": 170886
-    },
-    {
-     "url": "https://olamgroup.com/jobs",
-     "status": 404,
-     "bytes": 170887
-    },
-    {
-     "url": "https://olamgroup.com/join-us",
-     "status": 404,
-     "bytes": 170887
-    },
-    {
-     "url": "https://olamgroup.com/join-our-team",
-     "status": 404,
-     "bytes": 170887
-    },
-    {
-     "url": "https://olamgroup.com/careers.html",
-     "status": 200,
-     "bytes": 197522
-    },
-    {
-     "url": "https://olamgroup.com/company/careers",
-     "status": 404,
-     "bytes": 170879
-    },
-    {
-     "url": "https://olamgroup.com/about/careers",
-     "status": 404,
-     "bytes": 170879
-    },
-    {
-     "url": "https://olamgroup.com/current-openings",
-     "status": 404,
-     "bytes": 170880
-    },
-    {
-     "url": "https://olamgroup.com/",
-     "status": 200,
-     "bytes": 195832
     }
    ],
    "candidates": [
+    "successfactors:https://careers.olamgroup.com(html)",
     "greenhouse:olam(guess)",
     "lever:olam(guess)",
     "ashby:olam(guess)",
@@ -977,19 +1037,10 @@
     "workable:olamgroup(guess)"
    ],
    "attempts": [
-    "greenhouse:olam -> no board",
-    "lever:olam -> no board",
-    "ashby:olam -> no board",
-    "recruitee:olam -> no board",
-    "workable:olam -> no board",
-    "greenhouse:olamgroup -> no board",
-    "lever:olamgroup -> no board",
-    "ashby:olamgroup -> no board",
-    "recruitee:olamgroup -> no board",
-    "workable:olamgroup -> no board"
+    "successfactors:careers.olamgroup.com -> 3 jobs"
    ]
   },
-  "ms": 56350
+  "ms": 7594
  },
  {
   "company": "OneCard",
@@ -1014,12 +1065,12 @@
     {
      "url": "https://getonecard.app/careers",
      "status": 403,
-     "bytes": 243
+     "bytes": 263
     },
     {
      "url": "https://getonecard.app/career",
      "status": 403,
-     "bytes": 243
+     "bytes": 111
     },
     {
      "url": "https://getonecard.app/jobs",
@@ -1029,12 +1080,12 @@
     {
      "url": "https://getonecard.app/join-us",
      "status": 403,
-     "bytes": 263
+     "bytes": 111
     },
     {
      "url": "https://getonecard.app/join-our-team",
      "status": 403,
-     "bytes": 243
+     "bytes": 263
     },
     {
      "url": "https://getonecard.app/careers.html",
@@ -1044,12 +1095,12 @@
     {
      "url": "https://getonecard.app/company/careers",
      "status": 403,
-     "bytes": 243
+     "bytes": 111
     },
     {
      "url": "https://getonecard.app/about/careers",
      "status": 403,
-     "bytes": 263
+     "bytes": 243
     },
     {
      "url": "https://getonecard.app/current-openings",
@@ -1075,42 +1126,42 @@
     {
      "url": "https://www.getonecard.app/career",
      "status": 403,
-     "bytes": 243
+     "bytes": 111
     },
     {
      "url": "https://www.getonecard.app/jobs",
      "status": 403,
-     "bytes": 243
+     "bytes": 111
     },
     {
      "url": "https://www.getonecard.app/join-us",
      "status": 403,
-     "bytes": 243
+     "bytes": 263
     },
     {
      "url": "https://www.getonecard.app/join-our-team",
      "status": 403,
-     "bytes": 263
+     "bytes": 111
     },
     {
      "url": "https://www.getonecard.app/careers.html",
      "status": 403,
-     "bytes": 243
+     "bytes": 263
     },
     {
      "url": "https://www.getonecard.app/company/careers",
      "status": 403,
-     "bytes": 263
+     "bytes": 243
     },
     {
      "url": "https://www.getonecard.app/about/careers",
      "status": 403,
-     "bytes": 263
+     "bytes": 111
     },
     {
      "url": "https://www.getonecard.app/current-openings",
      "status": 403,
-     "bytes": 263
+     "bytes": 243
     },
     {
      "url": "https://www.getonecard.app/",
@@ -1148,7 +1199,7 @@
     "workable:getonecard -> no board"
    ]
   },
-  "ms": 14010
+  "ms": 7668
  },
  {
   "company": "Onsurity",
@@ -1210,14 +1261,14 @@
     "workable:onsurity -> no board"
    ]
   },
-  "ms": 5506
+  "ms": 4101
  },
  {
   "company": "OpenText India",
   "country": "India",
   "source": "phenom:_self",
   "error": null,
-  "totalJobs": 132,
+  "totalJobs": 163,
   "jobs": [
    {
     "title": "Premium Support Engineer- Fortify",
@@ -1309,26 +1360,6 @@
     "score": 38
    },
    {
-    "title": "Sr. AI Developer",
-    "location": "Cork",
-    "url": "https://careers.opentext.com/us/en/job/52403",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": true,
-    "java": false,
-    "flutter": false,
-    "senior": true,
-    "exp": [
-     [
-      1,
-      5
-     ]
-    ],
-    "expFits2": true,
-    "score": 38
-   },
-   {
     "title": "Lead AI Developer",
     "location": "Cork",
     "url": "https://careers.opentext.com/us/en/job/52306",
@@ -1377,6 +1408,26 @@
     "score": 38
    },
    {
+    "title": "Sr. AI Developer",
+    "location": "Cork",
+    "url": "https://careers.opentext.com/us/en/job/52403",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": true,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [
+     [
+      1,
+      5
+     ]
+    ],
+    "expFits2": true,
+    "score": 38
+   },
+   {
     "title": "Sr. Software Developer",
     "location": "Gaithersburg, Maryland",
     "url": "https://careers.opentext.com/us/en/job/52634",
@@ -1401,9 +1452,9 @@
     "score": 38
    },
    {
-    "title": "Lead Software Developer",
-    "location": "Waterloo, Ontario",
-    "url": "https://careers.opentext.com/us/en/job/52330",
+    "title": "Sr. Premium Support Engineer - Identity & Access Management (IAM)",
+    "location": "Reading",
+    "url": "https://careers.opentext.com/us/en/job/52129",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
@@ -1416,9 +1467,39 @@
     "score": 37
    },
    {
-    "title": "Sr. Premium Support Engineer - Identity & Access Management (IAM)",
-    "location": "Reading",
-    "url": "https://careers.opentext.com/us/en/job/52129",
+    "title": "Senior Software Developer (Java)",
+    "location": "Richmond Hill, Ontario",
+    "url": "https://careers.opentext.com/us/en/job/52474",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": true,
+    "java": true,
+    "flutter": false,
+    "senior": true,
+    "exp": [],
+    "expFits2": false,
+    "score": 37
+   },
+   {
+    "title": "Sr. Quality Assurance Developer (Performance Testing)",
+    "location": "Richmond Hill, Ontario",
+    "url": "https://careers.opentext.com/us/en/job/52345",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": true,
+    "java": true,
+    "flutter": false,
+    "senior": true,
+    "exp": [],
+    "expFits2": false,
+    "score": 37
+   },
+   {
+    "title": "Sr. Principal AI Developer",
+    "location": "Waterloo, Ontario",
+    "url": "https://careers.opentext.com/us/en/job/50073",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
@@ -1446,39 +1527,9 @@
     "score": 37
    },
    {
-    "title": "Principal IT Software Developer",
-    "location": "Waterloo, Ontario",
-    "url": "https://careers.opentext.com/us/en/job/52320",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": true,
-    "java": true,
-    "flutter": false,
-    "senior": true,
-    "exp": [],
-    "expFits2": false,
-    "score": 37
-   },
-   {
     "title": "Cloud Applications Developer",
     "location": "Cork",
     "url": "https://careers.opentext.com/us/en/job/50682",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": true,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 34
-   },
-   {
-    "title": "Data Center Engineer",
-    "location": "Brook Park, Ohio",
-    "url": "https://careers.opentext.com/us/en/job/52108",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
@@ -1529,6 +1580,26 @@
     ],
     "expFits2": false,
     "score": 33
+   },
+   {
+    "title": "Client Operations Project Coordinator",
+    "location": "Waterloo, Ontario",
+    "url": "https://careers.opentext.com/us/en/job/51702",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [
+     [
+      1,
+      3
+     ]
+    ],
+    "expFits2": true,
+    "score": 30
    },
    {
     "title": "Cloud Applications Consultant - F.I.E.R",
@@ -1651,6 +1722,21 @@
     "score": 12
    },
    {
+    "title": "Sr. Network Engineer (Firewall)",
+    "location": "Cork",
+    "url": "https://careers.opentext.com/us/en/job/51491",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": true,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [],
+    "expFits2": false,
+    "score": 12
+   },
+   {
     "title": "Sr. AI Developer",
     "location": "Cork",
     "url": "https://careers.opentext.com/us/en/job/52387",
@@ -1726,9 +1812,39 @@
     "score": 12
    },
    {
-    "title": "Lead AI Developer",
+    "title": "Sr. Value Engineer",
+    "location": "Virtual",
+    "url": "https://careers.opentext.com/us/en/job/52381",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": true,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [],
+    "expFits2": false,
+    "score": 12
+   },
+   {
+    "title": "Senior Cloud Applications Developer",
     "location": "Cork",
-    "url": "https://careers.opentext.com/us/en/job/52383",
+    "url": "https://careers.opentext.com/us/en/job/50681",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": true,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [],
+    "expFits2": false,
+    "score": 12
+   },
+   {
+    "title": "Senior Site Reliability Engineer",
+    "location": "Cork",
+    "url": "https://careers.opentext.com/us/en/job/50382",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
@@ -1757,6 +1873,21 @@
       5
      ]
     ],
+    "expFits2": false,
+    "score": 12
+   },
+   {
+    "title": "Sr. Data Center Engineer",
+    "location": "Pleasanton, California",
+    "url": "https://careers.opentext.com/us/en/job/52202",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": true,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [],
     "expFits2": false,
     "score": 12
    },
@@ -1833,9 +1964,44 @@
     "score": 8
    },
    {
+    "title": "Senior Data Center Engineer",
+    "location": "Amstelveen",
+    "url": "https://careers.opentext.com/us/en/job/52175",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": true,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [
+     [
+      10,
+      14
+     ]
+    ],
+    "expFits2": false,
+    "score": 8
+   },
+   {
     "title": "Lead Premium Support Specialist - TeamSite",
     "location": "Richmond Hill, Ontario",
     "url": "https://careers.opentext.com/us/en/job/52050",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": true,
+    "flutter": false,
+    "senior": true,
+    "exp": [],
+    "expFits2": false,
+    "score": 7
+   },
+   {
+    "title": "Lead Premium Support Specialist - Fortify (Enterprise Application Security)",
+    "location": "Richmond Hill, Ontario",
+    "url": "https://careers.opentext.com/us/en/job/52048",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
@@ -1923,21 +2089,6 @@
     "score": 4
    },
    {
-    "title": "Premium Support Specialist",
-    "location": "Cluj-Napoca",
-    "url": "https://careers.opentext.com/us/en/job/51921",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 4
-   },
-   {
     "title": "Solution Sales Executive-DevOps",
     "location": "Virtual",
     "url": "https://careers.opentext.com/us/en/job/52744",
@@ -1968,9 +2119,9 @@
     "score": 4
    },
    {
-    "title": "Client Executive",
-    "location": "Virtual",
-    "url": "https://careers.opentext.com/us/en/job/52073",
+    "title": "Strategic Solution Sales Executive - Content & Experience",
+    "location": "Canberra, Australian Capital Territory",
+    "url": "https://careers.opentext.com/us/en/job/51782",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
@@ -2001,6 +2152,21 @@
     "title": "Cloud Services Project Coordinator",
     "location": "Virtual",
     "url": "https://careers.opentext.com/us/en/job/52881",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 4
+   },
+   {
+    "title": "Client Executive",
+    "location": "Virtual",
+    "url": "https://careers.opentext.com/us/en/job/52073",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
@@ -2403,24 +2569,9 @@
     "score": 4
    },
    {
-    "title": "Technical Consultant Legal Tech",
-    "location": "Rheinbach",
-    "url": "https://careers.opentext.com/us/en/job/51226",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 4
-   },
-   {
-    "title": "Strategic SDR - German Speaking - DACH",
+    "title": "Enterprise SDR - German Speaking - Alps",
     "location": "Grasbrunn",
-    "url": "https://careers.opentext.com/us/en/job/52493",
+    "url": "https://careers.opentext.com/us/en/job/52494",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
@@ -2433,9 +2584,39 @@
     "score": 4
    },
    {
-    "title": "Commercial Solution Sales Executive",
+    "title": "Commercial Solution Sales Executive - ITOM",
+    "location": "North Sydney, New South Wales",
+    "url": "https://careers.opentext.com/us/en/job/52379",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 4
+   },
+   {
+    "title": "Solution Sales Executive",
     "location": "Virtual",
-    "url": "https://careers.opentext.com/us/en/job/52928",
+    "url": "https://careers.opentext.com/us/en/job/52491",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 4
+   },
+   {
+    "title": "Strategic Solution Sales Executive - Cyber",
+    "location": "Virtual",
+    "url": "https://careers.opentext.com/us/en/job/52584",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
@@ -2478,9 +2659,24 @@
     "score": 4
    },
    {
+    "title": "Commercial SDR - Swedish Speaking - Nordics",
+    "location": "Stockholm",
+    "url": "https://careers.opentext.com/us/en/job/52254",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 4
+   },
+   {
     "title": "Commercial Solution Sales Executive",
     "location": "Virtual",
-    "url": "https://careers.opentext.com/us/en/job/52430",
+    "url": "https://careers.opentext.com/us/en/job/52815",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
@@ -2493,9 +2689,9 @@
     "score": 4
    },
    {
-    "title": "ITOM Commercial Solutions Sales Executive",
-    "location": "Tokyo, Tokyo",
-    "url": "https://careers.opentext.com/us/en/job/51140",
+    "title": "Strategic Solution Sales Executive - Content",
+    "location": "Virtual",
+    "url": "https://careers.opentext.com/us/en/job/52969",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
@@ -2508,9 +2704,69 @@
     "score": 4
    },
    {
-    "title": "Lead Consultant",
+    "title": "Strategic Solution Sales Executive",
+    "location": "Virtual",
+    "url": "https://careers.opentext.com/us/en/job/52844",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 4
+   },
+   {
+    "title": "Commercial Solution Sales Executive",
+    "location": "Virtual",
+    "url": "https://careers.opentext.com/us/en/job/52289",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 4
+   },
+   {
+    "title": "Strategic Solution Sales Executive (m/f/d)",
+    "location": "Virtual",
+    "url": "https://careers.opentext.com/us/en/job/52462",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 4
+   },
+   {
+    "title": "Mid-Market Solution Sales Executive",
+    "location": "Dallas, Texas",
+    "url": "https://careers.opentext.com/us/en/job/52868",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 4
+   },
+   {
+    "title": "Sr. Technical Support Specialist- VIM",
     "location": "Bangalore, Karnataka",
-    "url": "https://careers.opentext.com/us/en/job/52664",
+    "url": "https://careers.opentext.com/us/en/job/52590",
     "india": true,
     "locationSaysIndia": true,
     "hasLocation": true,
@@ -2523,9 +2779,24 @@
     "score": -3
    },
    {
-    "title": "Sr. Technical Support Specialist- VIM",
-    "location": "Bangalore, Karnataka",
-    "url": "https://careers.opentext.com/us/en/job/52590",
+    "title": "Sr. Account Executive",
+    "location": "Mumbai, Maharashtra",
+    "url": "https://careers.opentext.com/us/en/job/51957",
+    "india": true,
+    "locationSaysIndia": true,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [],
+    "expFits2": false,
+    "score": -3
+   },
+   {
+    "title": "Principal Consultant/Architect Professional Services",
+    "location": "Hyderabad, Telangana",
+    "url": "https://careers.opentext.com/us/en/job/52179",
     "india": true,
     "locationSaysIndia": true,
     "hasLocation": true,
@@ -2688,21 +2959,6 @@
     "score": -18
    },
    {
-    "title": "Sr. Analyst, Workforce Planning",
-    "location": "Waterloo, Ontario",
-    "url": "https://careers.opentext.com/us/en/job/52748",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": true,
-    "exp": [],
-    "expFits2": false,
-    "score": -18
-   },
-   {
     "title": "Lead Solutions Consultant",
     "location": "Virtual",
     "url": "https://careers.opentext.com/us/en/job/51035",
@@ -2733,9 +2989,9 @@
     "score": -18
    },
    {
-    "title": "Manager, Software Development (AppSec/ DAST)",
-    "location": "Alpharetta, Georgia",
-    "url": "https://careers.opentext.com/us/en/job/52019",
+    "title": "Client Director- Financial Services",
+    "location": "Virtual",
+    "url": "https://careers.opentext.com/us/en/job/51755",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
@@ -2748,54 +3004,9 @@
     "score": -18
    },
    {
-    "title": "Lead Consultant / Architect - Document Control and Engineering Information Management (m/f/d)",
-    "location": "Stockholm",
-    "url": "https://careers.opentext.com/us/en/job/51884",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": true,
-    "exp": [],
-    "expFits2": false,
-    "score": -18
-   },
-   {
-    "title": "Principal Product Manager",
-    "location": "Alpharetta, Georgia",
-    "url": "https://careers.opentext.com/us/en/job/52176",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": true,
-    "exp": [],
-    "expFits2": false,
-    "score": -18
-   },
-   {
-    "title": "Lead Financial Analyst",
-    "location": "Mississauga, Ontario",
-    "url": "https://careers.opentext.com/us/en/job/52036",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": true,
-    "exp": [],
-    "expFits2": false,
-    "score": -18
-   },
-   {
-    "title": "Senior Client Relationship Manager",
-    "location": "Broomfield, Colorado",
-    "url": "https://careers.opentext.com/us/en/job/52692",
+    "title": "Sr. Director, Workforce, Talent Planning & Organization Design",
+    "location": "Waterloo, Ontario",
+    "url": "https://careers.opentext.com/us/en/job/51877",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
@@ -2853,6 +3064,21 @@
     "score": -18
    },
    {
+    "title": "Senior Client Relationship Manager",
+    "location": "Broomfield, Colorado",
+    "url": "https://careers.opentext.com/us/en/job/52692",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [],
+    "expFits2": false,
+    "score": -18
+   },
+   {
     "title": "Principal Technical Support Specialist",
     "location": "Richmond Hill, Ontario",
     "url": "https://careers.opentext.com/us/en/job/52500",
@@ -2871,6 +3097,51 @@
     "title": "Global Campaign Manager",
     "location": "Richmond Hill, Ontario",
     "url": "https://careers.opentext.com/us/en/job/52606",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [],
+    "expFits2": false,
+    "score": -18
+   },
+   {
+    "title": "Lead Consultant / Architect - Document Control and Engineering Information Management (m/f/d)",
+    "location": "Stockholm",
+    "url": "https://careers.opentext.com/us/en/job/51884",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [],
+    "expFits2": false,
+    "score": -18
+   },
+   {
+    "title": "Principal Product Manager",
+    "location": "Alpharetta, Georgia",
+    "url": "https://careers.opentext.com/us/en/job/52176",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [],
+    "expFits2": false,
+    "score": -18
+   },
+   {
+    "title": "Lead Financial Analyst",
+    "location": "Mississauga, Ontario",
+    "url": "https://careers.opentext.com/us/en/job/52036",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
@@ -3093,9 +3364,24 @@
     "score": -18
    },
    {
-    "title": "Lead Service Manager - Incident Response Analyst",
+    "title": "Sr. Accountant",
+    "location": "Makati City, National Capital Region (NCR)",
+    "url": "https://careers.opentext.com/us/en/job/52680",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [],
+    "expFits2": false,
+    "score": -18
+   },
+   {
+    "title": "Sr. Accountant",
     "location": "Waterloo, Ontario",
-    "url": "https://careers.opentext.com/us/en/job/52563",
+    "url": "https://careers.opentext.com/us/en/job/51727",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
@@ -3108,9 +3394,9 @@
     "score": -18
    },
    {
-    "title": "Sr. Technical Support Specialist - Digital Experience",
-    "location": "Sofia",
-    "url": "https://careers.opentext.com/us/en/job/52686",
+    "title": "Sr. Technical Support Specialist",
+    "location": "North Sydney, New South Wales",
+    "url": "https://careers.opentext.com/us/en/job/52100",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
@@ -3123,9 +3409,9 @@
     "score": -18
    },
    {
-    "title": "Lead Security Compliance Analyst (EU Sovereign Cloud)",
-    "location": "Cork",
-    "url": "https://careers.opentext.com/us/en/job/52208",
+    "title": "Sr. Manager, Privacy & Compliance",
+    "location": "Richmond Hill, Ontario",
+    "url": "https://careers.opentext.com/us/en/job/51913",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
@@ -3138,9 +3424,9 @@
     "score": -18
    },
    {
-    "title": "Sr. Account Executive - DevOps Cloud",
-    "location": "Taipei City, Taipei",
-    "url": "https://careers.opentext.com/us/en/job/52279",
+    "title": "Lead Data Product Owner",
+    "location": "Richmond Hill, Ontario",
+    "url": "https://careers.opentext.com/us/en/job/52095",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
@@ -3153,9 +3439,54 @@
     "score": -18
    },
    {
-    "title": "Lead Solution Architect - Professional Services",
-    "location": "Virtual",
-    "url": "https://careers.opentext.com/us/en/job/51662",
+    "title": "Sr. Systems Administrator",
+    "location": "Mississauga, Ontario",
+    "url": "https://careers.opentext.com/us/en/job/52416",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [],
+    "expFits2": false,
+    "score": -18
+   },
+   {
+    "title": "Manager, Cloud Support Operations",
+    "location": "Mississauga, Ontario",
+    "url": "https://careers.opentext.com/us/en/job/52274",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [],
+    "expFits2": false,
+    "score": -18
+   },
+   {
+    "title": "Principal Product Manager",
+    "location": "Reading",
+    "url": "https://careers.opentext.com/us/en/job/50968",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [],
+    "expFits2": false,
+    "score": -18
+   },
+   {
+    "title": "Director, Platform Systems",
+    "location": "Mississauga, Ontario",
+    "url": "https://careers.opentext.com/us/en/job/52837",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
@@ -3243,6 +3574,21 @@
     "score": -18
    },
    {
+    "title": "Director, Facilities",
+    "location": "Makati City, National Capital Region (NCR)",
+    "url": "https://careers.opentext.com/us/en/job/52836",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [],
+    "expFits2": false,
+    "score": -18
+   },
+   {
     "title": "Lead Premium Support Specialist - Operations Bridge",
     "location": "Richmond Hill, Ontario",
     "url": "https://careers.opentext.com/us/en/job/52052",
@@ -3258,9 +3604,174 @@
     "score": -18
    },
    {
-    "title": "Director, Facilities",
+    "title": "Lead Solution Architect - Professional Services",
+    "location": "Virtual",
+    "url": "https://careers.opentext.com/us/en/job/51662",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [],
+    "expFits2": false,
+    "score": -18
+   },
+   {
+    "title": "Lead FinOps Specialist",
+    "location": "Mississauga, Ontario",
+    "url": "https://careers.opentext.com/us/en/job/52509",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [],
+    "expFits2": false,
+    "score": -18
+   },
+   {
+    "title": "Sr. Technical Support Specialist",
+    "location": "Waterloo, Ontario",
+    "url": "https://careers.opentext.com/us/en/job/52616",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [],
+    "expFits2": false,
+    "score": -18
+   },
+   {
+    "title": "Sourcing Manager",
+    "location": "Richmond Hill, Ontario",
+    "url": "https://careers.opentext.com/us/en/job/52866",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [],
+    "expFits2": false,
+    "score": -18
+   },
+   {
+    "title": "Lead Consultant / Architect - Document Control and Engineering Information Management (m/f/d",
+    "location": "Duesseldorf",
+    "url": "https://careers.opentext.com/us/en/job/52006",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [],
+    "expFits2": false,
+    "score": -18
+   },
+   {
+    "title": "Client Operations Project Manager",
+    "location": "Waterloo, Ontario",
+    "url": "https://careers.opentext.com/us/en/job/52245",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [],
+    "expFits2": false,
+    "score": -18
+   },
+   {
+    "title": "Lead Solutions Consultant (SMB/C)",
+    "location": "Tokyo, Tokyo",
+    "url": "https://careers.opentext.com/us/en/job/51981",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [],
+    "expFits2": false,
+    "score": -18
+   },
+   {
+    "title": "Manager, SAP VIM",
     "location": "Makati City, National Capital Region (NCR)",
-    "url": "https://careers.opentext.com/us/en/job/52836",
+    "url": "https://careers.opentext.com/us/en/job/52914",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [],
+    "expFits2": false,
+    "score": -18
+   },
+   {
+    "title": "SEO Manager",
+    "location": "Richmond Hill, Ontario",
+    "url": "https://careers.opentext.com/us/en/job/52993",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [],
+    "expFits2": false,
+    "score": -18
+   },
+   {
+    "title": "Sr. Client Support Representative",
+    "location": "Makati City, National Capital Region (NCR)",
+    "url": "https://careers.opentext.com/us/en/job/52777",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [],
+    "expFits2": false,
+    "score": -18
+   },
+   {
+    "title": "Sr. Director, Product Management - Portfolio",
+    "location": "Richmond Hill, Ontario",
+    "url": "https://careers.opentext.com/us/en/job/52611",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [],
+    "expFits2": false,
+    "score": -18
+   },
+   {
+    "title": "Sr. Variable Compensation Analyst",
+    "location": "Waterloo, Ontario",
+    "url": "https://careers.opentext.com/us/en/job/52725",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
@@ -3291,9 +3802,29 @@
     ],
     "expFits2": false,
     "score": -22
+   },
+   {
+    "title": "Service Manager",
+    "location": "Waterloo, Ontario",
+    "url": "https://careers.opentext.com/us/en/job/52897",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [
+     [
+      5,
+      9
+     ]
+    ],
+    "expFits2": false,
+    "score": -22
    }
   ],
-  "enriched": 8,
+  "enriched": 9,
   "matches": [],
   "nearMatches": [
    {
@@ -3418,10 +3949,10 @@
     "workable:opentext(guess)"
    ],
    "attempts": [
-    "phenom:_self -> 132 jobs"
+    "phenom:_self -> 163 jobs"
    ]
   },
-  "ms": 21847
+  "ms": 25597
  },
  {
   "company": "Optiver India",
@@ -3629,7 +4160,7 @@
    "location": "",
    "url": "https://www.optiver.com/join-us/jobs/technology/austin/fpga-engineer-intern-summer-2027-austin/",
    "team": "",
-   "text": "FPGA Engineer Intern (Summer 2027 - Austin) Skip to menu Skip to search Skip to main content Skip to footer Menu Back to Technology jobs in Austin FPGA Engineer Intern (Summer 2027 - Austin) Level Internship Location Austin Department Technology Apply Apply As an FPGA Engineer Intern, you’ll work side-by-side with your mentor and teammates to build real-world applications that power a global trading firm. Your projects will be scoped based on your team’s real needs — not hypothetical tasks — and your mentor will be fully invested in helping you build high-quality solutions designed to last. You’ll contribute to meaningful projects focusing on nanosecond response times, highly parallelized algorithms, and customized low-level networking. Optiver is building with cutting edge AI technology in the most competitive, data rich landscapes in the world: financial markets. That means no two days are the same, and every day brings new, exciting technical challenges to solve. This opportunity is also available in our Chicago office — learn more and apply. What you’ll do: Our internship is designed for fast thinkers with a critical mindset and a drive to solve tough problems. You’ll experience what it’s like to be a full-time engineer at a leading trading firm – working on projects that blend cutting-edge FPGA technology with real-world trading strategies, directly contributing to the efficiency and performance of our trading systems. Mentored by Optiver engineers, our program gives you the opportunity to: Accelerate network infrastructure and trading system components with high-speed hardware designs. Research new low-latency techniques and platforms and identify opportunities for integration with our trading system. Collaborate in a multidisciplinary team of traders, software developers, and infrastructure engineers. Leverage the best hardware available or build in-house versions to ensure our FPGAs can interface with cutting-edge server hardware. What you’ll get: You’ll join a culture of collaboration and excellence, surrounded by curious thinkers and creative problem-solvers. Motivated by a passion for continuous improvement, you’ll thrive in a supportive, high-performing environment alongside talented colleagues, collectively tackling some of the toughest challenges in the financial markets. In addition, you’ll receive: The opportunity to work alongside best-in-class professionals from over 40 different countries A highly-competitive internship compensation package Optiver-covered flights, living accommodations, and commuting stipends Extensive office perks, including breakfast, lunch and snacks, regular social events, clubs, sporting leagues and more Who you are: A student pursuing a bachelor’s, master’s, or PhD in Computer Engineering, Electrical Engineering, or another related field On track to graduate between December 2027 to June 2028, with junior standing or higher A student with strong engineering instincts and hands-on experience in digital design with FPGAs or ASICs Experienced in writing hardware in VHDL, Verilog, or System Verilog Passionate for writing clean code, well-architected systems, and continuous improvement A collaborative teammate comfortable working with developers, traders and business teams Who we are: Optiver is a leading technology- and research-driven trading firm. Our teams of scientists, engineers, mathematicians, and traders work side by side to develop, test, and scale ideas that shape how we understand and trade global markets. Powered by a global platform built for rapid experimentation and iteration, we combine the scientific rigor of a research institution with the pace of a technology company. Our differences are our edge. Optiver does not discriminate on the basis of race, religion, color, sex, gender identity, sexual orientation, age, physical or mental disability, or other legally protected characteristics. Optiver is supportive of US immigration sponsorship for this role. Optiver has a global application re-apply policy for our intern and graduate roles. If you have completed any portion of an online assessment or interviewed for an FPGA Engineer graduate or internship role at any Optiver location in the past 8 months, please note that you are not yet eligible to reapply. We welcome you to re-apply to after the 8-month cool off period. Open positions Quantitative Intern (Summer 2027) Chicago Internship Trading Internship Trading Explore all open roles Explore all open roles Footer navigation At Optiver, we continuously quote buy and sell prices across financial markets, using our own capital and advanced technology to provide liquidity at scale across products, venues and market conditions. More about Optiver What we do Research Trading Technology Risk Trade with us Join us All jobs How we work Students Meet us at an event Our locations About Us Education Principal Strategic Investments Optiver Foundation Alumni Contact © Copyright 2026. All Rights Reserved Privacy Policy Disclosures Cookie Policy Notices",
+   "text": "FPGA Engineer Intern (Summer 2027 - Austin) Skip to menu Skip to search Skip to main content Skip to footer Menu Back to Technology jobs in Austin FPGA Engineer Intern (Summer 2027 - Austin) Level Internship Location Austin Department Technology Apply Apply As an FPGA Engineer Intern, you’ll work side-by-side with your mentor and teammates to build real-world applications that power a global trading firm. Your projects will be scoped based on your team’s real needs — not hypothetical tasks — and your mentor will be fully invested in helping you build high-quality solutions designed to last. You’ll contribute to meaningful projects focusing on nanosecond response times, highly parallelized algorithms, and customized low-level networking. Optiver is building with cutting edge AI technology in the most competitive, data rich landscapes in the world: financial markets. That means no two days are the same, and every day brings new, exciting technical challenges to solve. This opportunity is also available in our Chicago office — learn more and apply. What you’ll do: Our internship is designed for fast thinkers with a critical mindset and a drive to solve tough problems. You’ll experience what it’s like to be a full-time engineer at a leading trading firm – working on projects that blend cutting-edge FPGA technology with real-world trading strategies, directly contributing to the efficiency and performance of our trading systems. Mentored by Optiver engineers, our program gives you the opportunity to: Accelerate network infrastructure and trading system components with high-speed hardware designs. Research new low-latency techniques and platforms and identify opportunities for integration with our trading system. Collaborate in a multidisciplinary team of traders, software developers, and infrastructure engineers. Leverage the best hardware available or build in-house versions to ensure our FPGAs can interface with cutting-edge server hardware. What you’ll get: You’ll join a culture of collaboration and excellence, surrounded by curious thinkers and creative problem-solvers. Motivated by a passion for continuous improvement, you’ll thrive in a supportive, high-performing environment alongside talented colleagues, collectively tackling some of the toughest challenges in the financial markets. In addition, you’ll receive: The opportunity to work alongside best-in-class professionals from over 40 different countries A highly-competitive internship compensation package Optiver-covered flights, living accommodations, and commuting stipends Extensive office perks, including breakfast, lunch and snacks, regular social events, clubs, sporting leagues and more Who you are: A student pursuing a bachelor’s, master’s, or PhD in Computer Engineering, Electrical Engineering, or another related field On track to graduate between December 2027 to June 2028, with junior standing or higher A student with strong engineering instincts and hands-on experience in digital design with FPGAs or ASICs Experienced in writing hardware in VHDL, Verilog, or System Verilog Passionate for writing clean code, well-architected systems, and continuous improvement A collaborative teammate comfortable working with developers, traders and business teams Who we are: Optiver is a leading technology- and research-driven trading firm. Our teams of scientists, engineers, mathematicians, and traders work side by side to develop, test, and scale ideas that shape how we understand and trade global markets. Powered by a global platform built for rapid experimentation and iteration, we combine the scientific rigor of a research institution with the pace of a technology company. Our differences are our edge. Optiver does not discriminate on the basis of race, religion, color, sex, gender identity, sexual orientation, age, physical or mental disability, or other legally protected characteristics. Optiver is supportive of US immigration sponsorship for this role. Optiver has a global application re-apply policy for our intern and graduate roles. If you have completed any portion of an online assessment or interviewed for an FPGA Engineer graduate or internship role at any Optiver location in the past 8 months, please note that you are not yet eligible to reapply. We welcome you to re-apply to after the 8-month cool off period. Open positions Senior Observability Platform Engineer Sydney Experienced Technology Experienced Technology Senior Data Engineer Sydney Experienced Technology Experienced Technology Principal Data Engineer Sydney Experienced Technology Experienced Technology Explore all open roles Explore all open roles Footer navigation At Optiver, we continuously quote buy and sell prices across financial markets, using our own capital and advanced technology to provide liquidity at scale across products, venues and market conditions. More about Optiver What we do Research Trading Technology Risk Trade with us Join us All jobs How we work Students Meet us at an event Our locations About Us Education Principal Strategic Investments Optiver Foundation Alumni Contact © Copyright 2026. All Rights Reserved Privacy Policy Disclosures Cookie Policy Notices",
    "_enriched": true,
    "score": 61,
    "isMatch": false,
@@ -3648,7 +4179,7 @@
    "location": "",
    "url": "https://www.optiver.com/join-us/jobs/technology/austin/fpga-engineer-intern-summer-2027-austin/",
    "team": "",
-   "text": "FPGA Engineer Intern (Summer 2027 - Austin) Skip to menu Skip to search Skip to main content Skip to footer Menu Back to Technology jobs in Austin FPGA Engineer Intern (Summer 2027 - Austin) Level Internship Location Austin Department Technology Apply Apply As an FPGA Engineer Intern, you’ll work side-by-side with your mentor and teammates to build real-world applications that power a global trading firm. Your projects will be scoped based on your team’s real needs — not hypothetical tasks — and your mentor will be fully invested in helping you build high-quality solutions designed to last. You’ll contribute to meaningful projects focusing on nanosecond response times, highly parallelized algorithms, and customized low-level networking. Optiver is building with cutting edge AI technology in the most competitive, data rich landscapes in the world: financial markets. That means no two days are the same, and every day brings new, exciting technical challenges to solve. This opportunity is also available in our Chicago office — learn more and apply. What you’ll do: Our internship is designed for fast thinkers with a critical mindset and a drive to solve tough problems. You’ll experience what it’s like to be a full-time engineer at a leading trading firm – working on projects that blend cutting-edge FPGA technology with real-world trading strategies, directly contributing to the efficiency and performance of our trading systems. Mentored by Optiver engineers, our program gives you the opportunity to: Accelerate network infrastructure and trading system components with high-speed hardware designs. Research new low-latency techniques and platforms and identify opportunities for integration with our trading system. Collaborate in a multidisciplinary team of traders, software developers, and infrastructure engineers. Leverage the best hardware available or build in-house versions to ensure our FPGAs can interface with cutting-edge server hardware. What you’ll get: You’ll join a culture of collaboration and excellence, surrounded by curious thinkers and creative problem-solvers. Motivated by a passion for continuous improvement, you’ll thrive in a supportive, high-performing environment alongside talented colleagues, collectively tackling some of the toughest challenges in the financial markets. In addition, you’ll receive: The opportunity to work alongside best-in-class professionals from over 40 different countries A highly-competitive internship compensation package Optiver-covered flights, living accommodations, and commuting stipends Extensive office perks, including breakfast, lunch and snacks, regular social events, clubs, sporting leagues and more Who you are: A student pursuing a bachelor’s, master’s, or PhD in Computer Engineering, Electrical Engineering, or another related field On track to graduate between December 2027 to June 2028, with junior standing or higher A student with strong engineering instincts and hands-on experience in digital design with FPGAs or ASICs Experienced in writing hardware in VHDL, Verilog, or System Verilog Passionate for writing clean code, well-architected systems, and continuous improvement A collaborative teammate comfortable working with developers, traders and business teams Who we are: Optiver is a leading technology- and research-driven trading firm. Our teams of scientists, engineers, mathematicians, and traders work side by side to develop, test, and scale ideas that shape how we understand and trade global markets. Powered by a global platform built for rapid experimentation and iteration, we combine the scientific rigor of a research institution with the pace of a technology company. Our differences are our edge. Optiver does not discriminate on the basis of race, religion, color, sex, gender identity, sexual orientation, age, physical or mental disability, or other legally protected characteristics. Optiver is supportive of US immigration sponsorship for this role. Optiver has a global application re-apply policy for our intern and graduate roles. If you have completed any portion of an online assessment or interviewed for an FPGA Engineer graduate or internship role at any Optiver location in the past 8 months, please note that you are not yet eligible to reapply. We welcome you to re-apply to after the 8-month cool off period. Open positions Quantitative Intern (Summer 2027) Chicago Internship Trading Internship Trading Explore all open roles Explore all open roles Footer navigation At Optiver, we continuously quote buy and sell prices across financial markets, using our own capital and advanced technology to provide liquidity at scale across products, venues and market conditions. More about Optiver What we do Research Trading Technology Risk Trade with us Join us All jobs How we work Students Meet us at an event Our locations About Us Education Principal Strategic Investments Optiver Foundation Alumni Contact © Copyright 2026. All Rights Reserved Privacy Policy Disclosures Cookie Policy Notices",
+   "text": "FPGA Engineer Intern (Summer 2027 - Austin) Skip to menu Skip to search Skip to main content Skip to footer Menu Back to Technology jobs in Austin FPGA Engineer Intern (Summer 2027 - Austin) Level Internship Location Austin Department Technology Apply Apply As an FPGA Engineer Intern, you’ll work side-by-side with your mentor and teammates to build real-world applications that power a global trading firm. Your projects will be scoped based on your team’s real needs — not hypothetical tasks — and your mentor will be fully invested in helping you build high-quality solutions designed to last. You’ll contribute to meaningful projects focusing on nanosecond response times, highly parallelized algorithms, and customized low-level networking. Optiver is building with cutting edge AI technology in the most competitive, data rich landscapes in the world: financial markets. That means no two days are the same, and every day brings new, exciting technical challenges to solve. This opportunity is also available in our Chicago office — learn more and apply. What you’ll do: Our internship is designed for fast thinkers with a critical mindset and a drive to solve tough problems. You’ll experience what it’s like to be a full-time engineer at a leading trading firm – working on projects that blend cutting-edge FPGA technology with real-world trading strategies, directly contributing to the efficiency and performance of our trading systems. Mentored by Optiver engineers, our program gives you the opportunity to: Accelerate network infrastructure and trading system components with high-speed hardware designs. Research new low-latency techniques and platforms and identify opportunities for integration with our trading system. Collaborate in a multidisciplinary team of traders, software developers, and infrastructure engineers. Leverage the best hardware available or build in-house versions to ensure our FPGAs can interface with cutting-edge server hardware. What you’ll get: You’ll join a culture of collaboration and excellence, surrounded by curious thinkers and creative problem-solvers. Motivated by a passion for continuous improvement, you’ll thrive in a supportive, high-performing environment alongside talented colleagues, collectively tackling some of the toughest challenges in the financial markets. In addition, you’ll receive: The opportunity to work alongside best-in-class professionals from over 40 different countries A highly-competitive internship compensation package Optiver-covered flights, living accommodations, and commuting stipends Extensive office perks, including breakfast, lunch and snacks, regular social events, clubs, sporting leagues and more Who you are: A student pursuing a bachelor’s, master’s, or PhD in Computer Engineering, Electrical Engineering, or another related field On track to graduate between December 2027 to June 2028, with junior standing or higher A student with strong engineering instincts and hands-on experience in digital design with FPGAs or ASICs Experienced in writing hardware in VHDL, Verilog, or System Verilog Passionate for writing clean code, well-architected systems, and continuous improvement A collaborative teammate comfortable working with developers, traders and business teams Who we are: Optiver is a leading technology- and research-driven trading firm. Our teams of scientists, engineers, mathematicians, and traders work side by side to develop, test, and scale ideas that shape how we understand and trade global markets. Powered by a global platform built for rapid experimentation and iteration, we combine the scientific rigor of a research institution with the pace of a technology company. Our differences are our edge. Optiver does not discriminate on the basis of race, religion, color, sex, gender identity, sexual orientation, age, physical or mental disability, or other legally protected characteristics. Optiver is supportive of US immigration sponsorship for this role. Optiver has a global application re-apply policy for our intern and graduate roles. If you have completed any portion of an online assessment or interviewed for an FPGA Engineer graduate or internship role at any Optiver location in the past 8 months, please note that you are not yet eligible to reapply. We welcome you to re-apply to after the 8-month cool off period. Open positions Senior Observability Platform Engineer Sydney Experienced Technology Experienced Technology Senior Data Engineer Sydney Experienced Technology Experienced Technology Principal Data Engineer Sydney Experienced Technology Experienced Technology Explore all open roles Explore all open roles Footer navigation At Optiver, we continuously quote buy and sell prices across financial markets, using our own capital and advanced technology to provide liquidity at scale across products, venues and market conditions. More about Optiver What we do Research Trading Technology Risk Trade with us Join us All jobs How we work Students Meet us at an event Our locations About Us Education Principal Strategic Investments Optiver Foundation Alumni Contact © Copyright 2026. All Rights Reserved Privacy Policy Disclosures Cookie Policy Notices",
    "_enriched": true,
    "score": 61,
    "isMatch": false,
@@ -3673,7 +4204,7 @@
     {
      "url": "https://optiver.com/careers",
      "status": 200,
-     "bytes": 166916
+     "bytes": 166896
     },
     {
      "url": "https://optiver.com/career",
@@ -3688,7 +4219,7 @@
     {
      "url": "https://optiver.com/join-us",
      "status": 200,
-     "bytes": 230834
+     "bytes": 230824
     }
    ],
    "candidates": [
@@ -3706,7 +4237,7 @@
     "workable:optiver -> no board"
    ]
   },
-  "ms": 7331
+  "ms": 7322
  },
  {
   "company": "Orange Business India",
@@ -3908,7 +4439,7 @@
     "workable:orangebusiness -> no board"
    ]
   },
-  "ms": 19690
+  "ms": 16269
  },
  {
   "company": "Orion Innovation",
@@ -5857,7 +6388,7 @@
     "greenhouse:orioninnovation -> 83 jobs (guess, name-verified)"
    ]
   },
-  "ms": 8844
+  "ms": 8168
  },
  {
   "company": "Otis India",
@@ -5882,7 +6413,7 @@
     {
      "url": "https://otis.com/careers",
      "status": 200,
-     "bytes": 299790
+     "bytes": 299787
     },
     {
      "url": "https://otis.com/career",
@@ -5912,7 +6443,7 @@
     "workable:otis -> no board"
    ]
   },
-  "ms": 23556
+  "ms": 22808
  },
  {
   "company": "Ozonetel",
@@ -6251,187 +6782,19 @@
     "workable:ozonetel -> no board"
    ]
   },
-  "ms": 8588
+  "ms": 8880
  },
  {
   "company": "Odessa India",
   "country": "India",
-  "source": "feed:https://www.odessainc.com",
-  "error": null,
-  "totalJobs": 10,
-  "jobs": [
-   {
-    "title": "How APIs power modern auto finance software",
-    "location": "",
-    "url": "https://www.odessainc.com/blog/how-apis-power-modern-auto-finance-software/",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 19
-   },
-   {
-    "title": "Odessa’s vision for the future of asset finance",
-    "location": "",
-    "url": "https://www.odessainc.com/blog/vision-for-the-future-of-asset-finance/",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 19
-   },
-   {
-    "title": "The Global Expansion Checklist for Asset Finance",
-    "location": "",
-    "url": "https://www.odessainc.com/blog/global-expansion-checklist-for-asset-finance/",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 19
-   },
-   {
-    "title": "The value of Odessa in a world of AI coding agents",
-    "location": "",
-    "url": "https://www.odessainc.com/blog/value-of-odessa-in-a-world-of-ai-coding-agents/",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 19
-   },
-   {
-    "title": "Real-world AI use cases in auto finance",
-    "location": "",
-    "url": "https://www.odessainc.com/blog/real-world-ai-use-cases-in-auto-finance/",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 19
-   },
-   {
-    "title": "The affordability gap auto finance can’t ignore",
-    "location": "",
-    "url": "https://www.odessainc.com/blog/the-affordability-gap-auto-finance-cant-ignore/",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 19
-   },
-   {
-    "title": "Progress on your terms, not your vendor’s",
-    "location": "",
-    "url": "https://www.odessainc.com/blog/progress-on-your-terms-not-your-vendors/",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 19
-   },
-   {
-    "title": "Beyond the chatbots: How Agentic AI supercharges asset finance",
-    "location": "",
-    "url": "https://www.odessainc.com/blog/how-agentic-ai-supercharges-asset-finance/",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 19
-   },
-   {
-    "title": "Getting compliance right for global asset finance success",
-    "location": "",
-    "url": "https://www.odessainc.com/blog/global-asset-finance-compliance-success/",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 19
-   },
-   {
-    "title": "Shaping Odessa Auto: A product manager’s view from the trenches",
-    "location": "",
-    "url": "https://www.odessainc.com/blog/shaping-odessa-auto-a-product-managers-view-from-the-trenches/",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": true,
-    "exp": [],
-    "expFits2": false,
-    "score": -3
-   }
-  ],
+  "source": null,
+  "error": "careers-page-read-but-lists-no-openings",
+  "totalJobs": 0,
+  "jobs": [],
   "enriched": 0,
   "matches": [],
   "nearMatches": [],
-  "closest": {
-   "title": "How APIs power modern auto finance software",
-   "location": "",
-   "url": "https://www.odessainc.com/blog/how-apis-power-modern-auto-finance-software/",
-   "team": "",
-   "text": "The post How APIs power modern auto finance software appeared first on Odessa Inc .",
-   "score": 19,
-   "isMatch": false,
-   "isEng": false,
-   "java": false,
-   "flutter": false,
-   "android": false,
-   "india": true,
-   "senior": false,
-   "junior": false,
-   "exp": [],
-   "expFits2": false
-  },
+  "closest": null,
   "closestEng": null,
   "trace": {
    "pages": [
@@ -6517,7 +6880,7 @@
     "workable:odessainc -> no board"
    ]
   },
-  "ms": 29338
+  "ms": 38155
  },
  {
   "company": "OfBusiness",
@@ -7033,7 +7396,7 @@
     "workable:ofbusiness -> no board"
    ]
   },
-  "ms": 9223
+  "ms": 9314
  },
  {
   "company": "Okta India",
@@ -7164,7 +7527,7 @@
     {
      "url": "https://okta.com/jobs",
      "status": 404,
-     "bytes": 1068762
+     "bytes": 1068761
     }
    ],
    "candidates": [
@@ -7182,7 +7545,7 @@
     "workable:okta -> no board"
    ]
   },
-  "ms": 17274
+  "ms": 15395
  },
  {
   "company": "Olyv",
@@ -8127,7 +8490,7 @@
     "keka:smartcoin -> 34 jobs"
    ]
   },
-  "ms": 4064
+  "ms": 3371
  },
  {
   "company": "OneAssist",
@@ -8277,7 +8640,7 @@
     "workable:oneassist -> no board"
    ]
   },
-  "ms": 6215
+  "ms": 6209
  },
  {
   "company": "Open Financial",
@@ -8417,7 +8780,7 @@
     "keka:openfinancial -> 1 jobs"
    ]
   },
-  "ms": 1193
+  "ms": 1626
  },
  {
   "company": "Opcito Technologies",
@@ -8559,7 +8922,7 @@
     {
      "url": "https://opcito.com/career",
      "status": 200,
-     "bytes": 90721
+     "bytes": 90720
     },
     {
      "url": "https://opcito.com/jobs",
@@ -8592,7 +8955,7 @@
     "workable:opcito -> no board"
    ]
   },
-  "ms": 8146
+  "ms": 8053
  },
  {
   "company": "Objectways",
@@ -8980,7 +9343,7 @@
     "workable:objectways -> no board"
    ]
   },
-  "ms": 14547
+  "ms": 15877
  },
  {
   "company": "Ocrolus India",
@@ -9048,7 +9411,7 @@
     "workable:ocrolus -> no board"
    ]
   },
-  "ms": 33556
+  "ms": 32151
  },
  {
   "company": "Octro",
@@ -9095,7 +9458,7 @@
     "workable:octro -> no board"
    ]
   },
-  "ms": 13961
+  "ms": 11346
  },
  {
   "company": "Odoo India",
@@ -9191,7 +9554,7 @@
     "workable:odoo -> no board"
    ]
   },
-  "ms": 11691
+  "ms": 10519
  },
  {
   "company": "Oizom",
@@ -9216,7 +9579,7 @@
     {
      "url": "https://oizom.com/careers",
      "status": 200,
-     "bytes": 351304
+     "bytes": 351213
     },
     {
      "url": "https://oizom.com/career",
@@ -9232,6 +9595,11 @@
      "url": "https://oizom.com/join-us",
      "status": 200,
      "bytes": 351213
+    },
+    {
+     "url": "https://oizom.com/join-our-team",
+     "status": 200,
+     "bytes": 351231
     }
    ],
    "candidates": [
@@ -9249,7 +9617,7 @@
     "workable:oizom -> no board"
    ]
   },
-  "ms": 8315
+  "ms": 6348
  },
  {
   "company": "Olive Crypto",
@@ -9393,7 +9761,7 @@
     "workable:olivecrypto -> no board"
    ]
   },
-  "ms": 5008
+  "ms": 4242
  },
  {
   "company": "Omniful",
@@ -9606,7 +9974,7 @@
     "workable:omniful -> no board"
    ]
   },
-  "ms": 3437
+  "ms": 2429
  },
  {
   "company": "Onclusive India",
@@ -9694,7 +10062,7 @@
     "workable:onclusive -> no board"
    ]
   },
-  "ms": 15899
+  "ms": 17544
  },
  {
   "company": "Osmos (formerly Onlinesales.ai)",
@@ -9788,7 +10156,7 @@
     "workable:osmos -> no board"
    ]
   },
-  "ms": 11755
+  "ms": 12499
  },
  {
   "company": "Ontic India",
@@ -10180,7 +10548,7 @@
     "ashby:Ontic -> 11 jobs"
    ]
   },
-  "ms": 12815
+  "ms": 11713
  },
  {
   "company": "Oracle Cerner India",
@@ -10199,7 +10567,7 @@
     {
      "url": "https://careers.cerner.com",
      "status": 200,
-     "bytes": 51479
+     "bytes": 51478
     },
     {
      "url": "https://cerner.com/careers",
@@ -10315,7 +10683,7 @@
     {
      "url": "https://www.cerner.com/",
      "status": 200,
-     "bytes": 61174
+     "bytes": 61172
     }
    ],
    "candidates": [
@@ -10343,7 +10711,7 @@
     "workable:cerner -> no board"
    ]
   },
-  "ms": 57577
+  "ms": 48118
  },
  {
   "company": "Orbis Financial",
@@ -10363,7 +10731,7 @@
     {
      "url": "https://orbisfinancial.in/career/",
      "status": 200,
-     "bytes": 244628
+     "bytes": 244629
     },
     {
      "url": "https://careers.orbisfinancial.in",
@@ -10374,12 +10742,12 @@
     {
      "url": "https://orbisfinancial.in/careers",
      "status": 404,
-     "bytes": 169537
+     "bytes": 169536
     },
     {
      "url": "https://orbisfinancial.in/career",
      "status": 200,
-     "bytes": 244628
+     "bytes": 244629
     },
     {
      "url": "https://orbisfinancial.in/jobs",
@@ -10394,7 +10762,7 @@
     {
      "url": "https://orbisfinancial.in/join-our-team",
      "status": 404,
-     "bytes": 169541
+     "bytes": 169543
     },
     {
      "url": "https://orbisfinancial.in/careers.html",
@@ -10404,17 +10772,7 @@
     {
      "url": "https://orbisfinancial.in/company/careers",
      "status": 404,
-     "bytes": 169544
-    },
-    {
-     "url": "https://orbisfinancial.in/about/careers",
-     "status": 404,
-     "bytes": 169543
-    },
-    {
-     "url": "https://orbisfinancial.in/current-openings",
-     "status": 404,
-     "bytes": 169546
+     "bytes": 169545
     }
    ],
    "candidates": [
@@ -10432,7 +10790,7 @@
     "workable:orbisfinancial -> no board"
    ]
   },
-  "ms": 16673
+  "ms": 16338
  },
  {
   "company": "Orient Technologies",
@@ -10633,7 +10991,7 @@
     "workable:orientindia -> no board"
    ]
   },
-  "ms": 11229
+  "ms": 9375
  },
  {
   "company": "Origa Leasing",
@@ -10797,7 +11155,7 @@
     "workable:origa -> no board"
    ]
   },
-  "ms": 5713
+  "ms": 5424
  },
  {
   "company": "Orkes India",
@@ -11234,7 +11592,7 @@
     "greenhouse:orkes -> 20 jobs"
    ]
   },
-  "ms": 1841
+  "ms": 1262
  },
  {
   "company": "Osmos",
@@ -11388,19 +11746,88 @@
     "workable:osmos -> no board"
    ]
   },
-  "ms": 7141
+  "ms": 6307
  },
  {
   "company": "Ottonomy",
   "country": "India",
   "source": "feed:https://ottonomy.io",
   "error": null,
-  "totalJobs": 10,
+  "totalJobs": 6,
   "jobs": [
    {
-    "title": "Comment on Ottonomy’s new delivery robot gets an automatic package dispenser by Crea un account binance",
+    "title": "Production Planning & Supply Chain Engineer",
     "location": "",
-    "url": "https://ottonomy.io/in-the-news/ottonomys-new-delivery-robot-gets-an-automatic-package-dispenser/#comment-2044",
+    "url": "https://ottonomy.io/jobs/production-planning-supply-chain-engineer/",
+    "india": true,
+    "locationSaysIndia": false,
+    "hasLocation": false,
+    "isEng": true,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [
+     [
+      2,
+      5
+     ],
+     [
+      5,
+      6
+     ]
+    ],
+    "expFits2": true,
+    "score": 75
+   },
+   {
+    "title": "Robotics Developer – ROS and Applications",
+    "location": "",
+    "url": "https://ottonomy.io/jobs/robotics-developer-ros-and-applications/",
+    "india": true,
+    "locationSaysIndia": false,
+    "hasLocation": false,
+    "isEng": true,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 49
+   },
+   {
+    "title": "Robotics Developer – Perception and AI",
+    "location": "",
+    "url": "https://ottonomy.io/jobs/robotics-developer-perception-and-ai/",
+    "india": true,
+    "locationSaysIndia": false,
+    "hasLocation": false,
+    "isEng": true,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 49
+   },
+   {
+    "title": "R&D Robotics & Artificial Intelligence Intern",
+    "location": "",
+    "url": "https://ottonomy.io/jobs/rd-robotics-artificial-intelligence-intern/",
+    "india": true,
+    "locationSaysIndia": false,
+    "hasLocation": false,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 31
+   },
+   {
+    "title": "Robotics Technician – Electronics",
+    "location": "",
+    "url": "https://ottonomy.io/jobs/robotics-technician-electronics/",
     "india": true,
     "locationSaysIndia": false,
     "hasLocation": false,
@@ -11413,163 +11840,80 @@
     "score": 19
    },
    {
-    "title": "Comment on Fully Autonomous Delivery Robots Might Just Become An Everyday Reality by registrera dig f\"or binance",
+    "title": "Lead Technician",
     "location": "",
-    "url": "https://ottonomy.io/in-the-news/fully-autonomous-delivery-robots-might-just-become-an-everyday-reality/#comment-2043",
+    "url": "https://ottonomy.io/jobs/lead-technician/",
     "india": true,
     "locationSaysIndia": false,
     "hasLocation": false,
     "isEng": false,
     "java": false,
     "flutter": false,
-    "senior": false,
+    "senior": true,
     "exp": [],
     "expFits2": false,
-    "score": 19
-   },
-   {
-    "title": "Comment on Fully Autonomous Delivery Robots Might Just Become An Everyday Reality by Skapa ett gratis konto",
-    "location": "",
-    "url": "https://ottonomy.io/in-the-news/fully-autonomous-delivery-robots-might-just-become-an-everyday-reality/#comment-2042",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 19
-   },
-   {
-    "title": "Comment on Ottonomy Debuts a Swervy, Customizable Delivery Robot in Ottobot 2.0 as it Closes $3.3M Seed Round by binance anm\"alningsbonus",
-    "location": "",
-    "url": "https://ottonomy.io/in-the-news/ottonomy-debuts-a-swervy-customizable-delivery-robot-in-ottobot-2-0-as-it-closes-3-3m-seed-round/#comment-2041",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 19
-   },
-   {
-    "title": "Comment on Plugging in for Automated Delivery: Ottonomy Launches Contactless Delivery Robot with Los Angeles-based Mobile Ordering App, Crave by binance konto skapande",
-    "location": "",
-    "url": "https://ottonomy.io/in-the-news/plugging-in-for-automated-delivery-ottonomy-launches-contactless-delivery-robot-with-los-angeles-based-mobile-ordering-app-crave/#comment-2040",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 19
-   },
-   {
-    "title": "Comment on Ottonomy Debuts a Swervy, Customizable Delivery Robot in Ottobot 2.0 as it Closes $3.3M Seed Round by binance h\"anvisning",
-    "location": "",
-    "url": "https://ottonomy.io/in-the-news/ottonomy-debuts-a-swervy-customizable-delivery-robot-in-ottobot-2-0-as-it-closes-3-3m-seed-round/#comment-2039",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 19
-   },
-   {
-    "title": "Comment on Ottonomy Develops Autonomous Robots for Indoor and Outdoor Deliveries by binance Inscreva-se",
-    "location": "",
-    "url": "https://ottonomy.io/in-the-news/ottonomy-develops-autonomous-robots-for-indoor-and-outdoor-deliveries/#comment-2038",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 19
-   },
-   {
-    "title": "Comment on Presto Partners With Ottonomy for Autonomous Curbside Delivery by Skapa ett gratis konto",
-    "location": "",
-    "url": "https://ottonomy.io/in-the-news/presto-partners-with-ottonomy-for-autonomous-curbside-delivery/#comment-2037",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 19
-   },
-   {
-    "title": "Comment on Plugging in for Automated Delivery: Ottonomy Launches Contactless Delivery Robot with Los Angeles-based Mobile Ordering App, Crave by ^Inregistrare pe Binance",
-    "location": "",
-    "url": "https://ottonomy.io/in-the-news/plugging-in-for-automated-delivery-ottonomy-launches-contactless-delivery-robot-with-los-angeles-based-mobile-ordering-app-crave/#comment-2036",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 19
-   },
-   {
-    "title": "Comment on Moving Toward High-Information Navigation Maps: Efficient Camera and Lidar Fusion. Ottonomy @NVIDIA GTC by binance",
-    "location": "",
-    "url": "https://ottonomy.io/in-the-news/moving-toward-high-information-navigation-maps-efficient-camera-and-lidar-fusion-ottonomy-nvidia-gtc/#comment-2035",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 19
+    "score": -3
    }
   ],
-  "enriched": 0,
+  "enriched": 3,
   "matches": [],
   "nearMatches": [],
   "closest": {
-   "title": "Comment on Ottonomy’s new delivery robot gets an automatic package dispenser by Crea un account binance",
+   "title": "Production Planning & Supply Chain Engineer",
    "location": "",
-   "url": "https://ottonomy.io/in-the-news/ottonomys-new-delivery-robot-gets-an-automatic-package-dispenser/#comment-2044",
+   "url": "https://ottonomy.io/jobs/production-planning-supply-chain-engineer/",
    "team": "",
-   "text": "Your point of view caught my eye and was very interesting. Thanks. I have a question for you.",
-   "score": 19,
+   "text": "About Ottonomy Ottonomy is a global leader in autonomous delivery robots, deploying real-world autonomous systems across airports, hospitals, and commercial environments worldwide. At Ottonomy, we don’t just design robots — we build, deploy, and operate them globally. This role gives you direct ownership of production readiness, material flow, and delivery execution. If you want your planning decisions to translate into real robots operating in real environments, this is the place to be. Basic Qualifications (Mandatory) Bachelor’s degree in Mechanical, Electrical, Electronics, or related field 2–5 years of experience in manufacturing, production planning, supply chain, or assembly operations Experience in low-volume, high-mix production environments Strong understanding of shop floor practices, production planning, and quality control Ability to read and interpret mechanical drawings, wiring diagrams, and BOMs Experience working with technicians, operators, and vendors Comfortable using Excel and basic ERP/Jira/MES tools (preferred) Skills Required Strong understanding of production planning, material requirement planning (MRP), and demand-based scheduling Experience working with engineering BOMs and managing revisions Ability to track build schedules and proactively identify risks or shortages Knowledge of supplier coordination, ordering processes, and delivery tracking Familiarity with procurement workflows and vendor management Understanding of low-volume, high-mix manufacturing challenges Exposure to robotics, automation, EVs, electronics, or electromechanical products (preferred) Familiarity with SOP creation, line balancing, and process optimization Strong ownership mindset and accountability Practical problem-solving skills with a hands-on approach Clear communication skills to work effectively with engineering, manufacturing, and vendor teams Organized, detail-oriented, and proactive in follow-ups Key Responsibilities Create and maintain production plans based on demand forecasts and engineering BOMs Track daily and weekly build progress and highlight risks or delays early Coordinate with manufacturing and fabrication partners to meet production schedules Ensure the timely availability of electrical, mechanical, and bought-out components Work with approved suppliers for ordering, follow-ups, and delivery tracking Support procurement processes, including documentation and coordination Act as the link between hardware design, manufacturing, quality, and field teams Support issue resolution related to material shortages, BOM changes, or production delays Monitor material flow and inventory alignment with production plans Contribute to the continuous improvement of planning and supply chain processes Maintain accurate planning trackers, reports, and coordination updates",
+   "_enriched": true,
+   "score": 75,
    "isMatch": false,
-   "isEng": false,
+   "isEng": true,
    "java": false,
    "flutter": false,
    "android": false,
    "india": true,
    "senior": false,
    "junior": false,
-   "exp": [],
-   "expFits2": false
+   "exp": [
+    [
+     2,
+     5
+    ],
+    [
+     5,
+     6
+    ]
+   ],
+   "expFits2": true
   },
-  "closestEng": null,
+  "closestEng": {
+   "title": "Production Planning & Supply Chain Engineer",
+   "location": "",
+   "url": "https://ottonomy.io/jobs/production-planning-supply-chain-engineer/",
+   "team": "",
+   "text": "About Ottonomy Ottonomy is a global leader in autonomous delivery robots, deploying real-world autonomous systems across airports, hospitals, and commercial environments worldwide. At Ottonomy, we don’t just design robots — we build, deploy, and operate them globally. This role gives you direct ownership of production readiness, material flow, and delivery execution. If you want your planning decisions to translate into real robots operating in real environments, this is the place to be. Basic Qualifications (Mandatory) Bachelor’s degree in Mechanical, Electrical, Electronics, or related field 2–5 years of experience in manufacturing, production planning, supply chain, or assembly operations Experience in low-volume, high-mix production environments Strong understanding of shop floor practices, production planning, and quality control Ability to read and interpret mechanical drawings, wiring diagrams, and BOMs Experience working with technicians, operators, and vendors Comfortable using Excel and basic ERP/Jira/MES tools (preferred) Skills Required Strong understanding of production planning, material requirement planning (MRP), and demand-based scheduling Experience working with engineering BOMs and managing revisions Ability to track build schedules and proactively identify risks or shortages Knowledge of supplier coordination, ordering processes, and delivery tracking Familiarity with procurement workflows and vendor management Understanding of low-volume, high-mix manufacturing challenges Exposure to robotics, automation, EVs, electronics, or electromechanical products (preferred) Familiarity with SOP creation, line balancing, and process optimization Strong ownership mindset and accountability Practical problem-solving skills with a hands-on approach Clear communication skills to work effectively with engineering, manufacturing, and vendor teams Organized, detail-oriented, and proactive in follow-ups Key Responsibilities Create and maintain production plans based on demand forecasts and engineering BOMs Track daily and weekly build progress and highlight risks or delays early Coordinate with manufacturing and fabrication partners to meet production schedules Ensure the timely availability of electrical, mechanical, and bought-out components Work with approved suppliers for ordering, follow-ups, and delivery tracking Support procurement processes, including documentation and coordination Act as the link between hardware design, manufacturing, quality, and field teams Support issue resolution related to material shortages, BOM changes, or production delays Monitor material flow and inventory alignment with production plans Contribute to the continuous improvement of planning and supply chain processes Maintain accurate planning trackers, reports, and coordination updates",
+   "_enriched": true,
+   "score": 75,
+   "isMatch": false,
+   "isEng": true,
+   "java": false,
+   "flutter": false,
+   "android": false,
+   "india": true,
+   "senior": false,
+   "junior": false,
+   "exp": [
+    [
+     2,
+     5
+    ],
+    [
+     5,
+     6
+    ]
+   ],
+   "expFits2": true
+  },
   "trace": {
    "pages": [
     {
@@ -11705,7 +12049,7 @@
     "workable:ottonomy -> no board"
    ]
   },
-  "ms": 19784
+  "ms": 17390
  },
  {
   "company": "Outplay",
@@ -11945,7 +12289,7 @@
     "workable:outplayhq -> no board"
    ]
   },
-  "ms": 22101
+  "ms": 15828
  },
  {
   "company": "o9 Solutions India",
@@ -12019,7 +12363,7 @@
     "workable:o9solutions -> no board"
    ]
   },
-  "ms": 8500
+  "ms": 12184
  },
  {
   "company": "Optym India",
@@ -12115,7 +12459,7 @@
     "workable:optym -> no board"
    ]
   },
-  "ms": 12401
+  "ms": 11952
  },
  {
   "company": "OneTrust India",
@@ -12292,7 +12636,7 @@
     {
      "url": "https://www.onetrust.com/careers/",
      "status": 200,
-     "bytes": 174785
+     "bytes": 174786
     },
     {
      "url": "https://careers.onetrust.com",
@@ -12303,52 +12647,52 @@
     {
      "url": "https://onetrust.com/careers",
      "status": 200,
-     "bytes": 174785
+     "bytes": 174786
     },
     {
      "url": "https://onetrust.com/career",
      "status": 200,
-     "bytes": 131244
+     "bytes": 131254
     },
     {
      "url": "https://onetrust.com/jobs",
      "status": 200,
-     "bytes": 131244
+     "bytes": 131254
     },
     {
      "url": "https://onetrust.com/join-us",
      "status": 200,
-     "bytes": 131244
+     "bytes": 131254
     },
     {
      "url": "https://onetrust.com/join-our-team",
      "status": 200,
-     "bytes": 131244
+     "bytes": 131254
     },
     {
      "url": "https://onetrust.com/careers.html",
      "status": 200,
-     "bytes": 174785
+     "bytes": 174786
     },
     {
      "url": "https://onetrust.com/company/careers",
      "status": 200,
-     "bytes": 131244
+     "bytes": 131254
     },
     {
      "url": "https://onetrust.com/about/careers",
      "status": 200,
-     "bytes": 131244
+     "bytes": 131254
     },
     {
      "url": "https://onetrust.com/current-openings",
      "status": 200,
-     "bytes": 131244
+     "bytes": 131254
     },
     {
      "url": "https://onetrust.com/",
      "status": 200,
-     "bytes": 216189
+     "bytes": 216177
     }
    ],
    "candidates": [
@@ -12366,7 +12710,7 @@
     "workable:onetrust -> no board"
    ]
   },
-  "ms": 20061
+  "ms": 16530
  },
  {
   "company": "Outreach India",
@@ -13171,7 +13515,7 @@
     "lever:outreach -> 33 jobs"
    ]
   },
-  "ms": 11862
+  "ms": 27224
  },
  {
   "company": "Optiv India",
@@ -13917,7 +14261,7 @@
     {
      "url": "https://www.optiv.com/company/careers",
      "status": 200,
-     "bytes": 155196
+     "bytes": 155195
     },
     {
      "url": "https://careers.optiv.com",
@@ -13958,7 +14302,7 @@
     {
      "url": "https://optiv.com/company/careers",
      "status": 200,
-     "bytes": 155197
+     "bytes": 155196
     },
     {
      "url": "https://optiv.com/about/careers",
@@ -13983,7 +14327,7 @@
     "workday:optiv -> 40 jobs"
    ]
   },
-  "ms": 17814
+  "ms": 23382
  },
  {
   "company": "onsemi India",
@@ -14036,7 +14380,7 @@
     "workable:onsemi -> no board"
    ]
   },
-  "ms": 35220
+  "ms": 23780
  },
  {
   "company": "Oceaneering India",
@@ -14044,7 +14388,7 @@
   "careers": "https://www.oceaneering.com/careers/",
   "source": "feed:https://www.oceaneering.com",
   "error": null,
-  "totalJobs": 10,
+  "totalJobs": 7,
   "jobs": [
    {
     "title": "Oceaneering Wins Five-Year Asset Integrity Contract in Qatar",
@@ -14077,39 +14421,9 @@
     "score": 19
    },
    {
-    "title": "Oceaneering Secures Multi-Discipline Cross-Regional Offshore Survey Contracts for Ocean Intervention II",
-    "location": "",
-    "url": "https://www.oceaneering.com/oceaneering-secures-multi-discipline-cross-regional-offshore-survey-contracts-for-ocean-intervention-ii/",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 19
-   },
-   {
     "title": "Oceaneering wins 2026 NOIA Safety in Seas Award",
     "location": "",
     "url": "https://www.oceaneering.com/oceaneering-wins-2026-noia-safety-in-seas-award/",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 19
-   },
-   {
-    "title": "Oceaneering Completes First Onshore‑Piloted Remote ROV Operation on an Offshore Rig in Brazil",
-    "location": "",
-    "url": "https://www.oceaneering.com/oceaneering-completes-first-onshore%e2%80%91piloted-remote-rov-operation-on-an-offshore-rig-in-brazil/",
     "india": true,
     "locationSaysIndia": false,
     "hasLocation": false,
@@ -14155,21 +14469,6 @@
     "title": "Oceaneering Wins ASQE Diamond Award for Quality Excellence",
     "location": "",
     "url": "https://www.oceaneering.com/oceaneering-wins-asqe-diamond-award-for-quality-excellence/",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 19
-   },
-   {
-    "title": "Oceaneering Expands Vision™ Platform with Subsea Module for Engineering‑Grade Integrity Visualization",
-    "location": "",
-    "url": "https://www.oceaneering.com/oceaneering-expands-vision-platform-with-subsea-module-for-engineering%e2%80%91grade-integrity-visualization/",
     "india": true,
     "locationSaysIndia": false,
     "hasLocation": false,
@@ -14257,7 +14556,7 @@
     "workable:oceaneering -> no board"
    ]
   },
-  "ms": 15465
+  "ms": 16769
  },
  {
   "company": "Omnicell India",
@@ -14292,47 +14591,47 @@
     {
      "url": "https://omnicell.com/career",
      "status": 200,
-     "bytes": 48380
+     "bytes": 48426
     },
     {
      "url": "https://omnicell.com/jobs",
      "status": 200,
-     "bytes": 48380
+     "bytes": 48426
     },
     {
      "url": "https://omnicell.com/join-us",
      "status": 200,
-     "bytes": 48380
+     "bytes": 48426
     },
     {
      "url": "https://omnicell.com/join-our-team",
      "status": 200,
-     "bytes": 48380
+     "bytes": 48426
     },
     {
      "url": "https://omnicell.com/careers.html",
      "status": 200,
-     "bytes": 48380
+     "bytes": 48426
     },
     {
      "url": "https://omnicell.com/company/careers",
      "status": 200,
-     "bytes": 48380
+     "bytes": 48426
     },
     {
      "url": "https://omnicell.com/about/careers",
      "status": 200,
-     "bytes": 48380
+     "bytes": 48426
     },
     {
      "url": "https://omnicell.com/current-openings",
      "status": 200,
-     "bytes": 48380
+     "bytes": 48426
     },
     {
      "url": "https://omnicell.com/",
      "status": 200,
-     "bytes": 112462
+     "bytes": 112508
     }
    ],
    "candidates": [
@@ -14350,7 +14649,7 @@
     "workable:omnicell -> no board"
    ]
   },
-  "ms": 32481
+  "ms": 34164
  },
  {
   "company": "Oracle NetSuite India",
@@ -14424,7 +14723,7 @@
     {
      "url": "https://netsuite.com/careers",
      "status": 200,
-     "bytes": 142254
+     "bytes": 142252
     },
     {
      "url": "https://netsuite.com/career",
@@ -14469,7 +14768,7 @@
     {
      "url": "https://netsuite.com/",
      "status": 200,
-     "bytes": 148264
+     "bytes": 148262
     }
    ],
    "candidates": [
@@ -14497,7 +14796,7 @@
     "workable:netsuite -> no board"
    ]
   },
-  "ms": 20642
+  "ms": 26347
  },
  {
   "company": "OneAdvanced India",
@@ -15048,7 +15347,7 @@
     {
      "url": "https://oneadvanced.com/careers",
      "status": 200,
-     "bytes": 80119
+     "bytes": 80099
     },
     {
      "url": "https://oneadvanced.com/career",
@@ -15068,7 +15367,7 @@
     "icims:oneadvanced -> 32 jobs"
    ]
   },
-  "ms": 6304
+  "ms": 7917
  },
  {
   "company": "Onit India",
@@ -15247,7 +15546,7 @@
     {
      "url": "https://www.onit.com/careers/",
      "status": 200,
-     "bytes": 125666
+     "bytes": 113873
     },
     {
      "url": "https://careers.onit.com",
@@ -15257,7 +15556,7 @@
     {
      "url": "https://onit.com/careers",
      "status": 200,
-     "bytes": 125666
+     "bytes": 113873
     },
     {
      "url": "https://onit.com/career",
@@ -15276,7 +15575,7 @@
     "lever:onit -> 7 jobs"
    ]
   },
-  "ms": 4461
+  "ms": 3922
  },
  {
   "company": "OpenGov India",
@@ -16299,7 +16598,7 @@
     "ashby:opengov -> 40 jobs"
    ]
   },
-  "ms": 14554
+  "ms": 10417
  },
  {
   "company": "OSI Digital",
@@ -16307,98 +16606,8 @@
   "careers": "https://osidigital.com/careers/",
   "source": "feed:https://osidigital.com",
   "error": null,
-  "totalJobs": 10,
+  "totalJobs": 3,
   "jobs": [
-   {
-    "title": "Embedded Analytics Webinar Series: Provisioning a Robust, Scalable & Secure Platform – June 25",
-    "location": "",
-    "url": "https://osidigital.com/embedded-analytics-webinar-series-provisioning-a-robust-scalable-secure-platform-june-25/",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 19
-   },
-   {
-    "title": "Embedded Analytics Webinar Series: Seamless Integration – June 18",
-    "location": "",
-    "url": "https://osidigital.com/embedded-analytics-webinar-series-seamless-integration-june-18/",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 19
-   },
-   {
-    "title": "Embedded Analytics Webinar Series: Visual Design Best Practices – June 4",
-    "location": "",
-    "url": "https://osidigital.com/embedded-analytics-webinar-series-visual-design-best-practices-for-embedded-analytics-june-4/",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 19
-   },
-   {
-    "title": "Embedded Analytics Webinar Series: Preparing for an Embedded Analytics External Implementation – May 21",
-    "location": "",
-    "url": "https://osidigital.com/embedded-analytics-webinar-series-preparing-for-an-embedded-analytics-external-implementation-may-21/",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 19
-   },
-   {
-    "title": "Preparing for a Cloud-First World: Are You Ready?",
-    "location": "",
-    "url": "https://osidigital.com/preparing-for-a-cloud-first-world-are-you-ready/",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 19
-   },
-   {
-    "title": "Embedded Analytics Webinar Series: Discovering the Value of Embedded Analytics – May 7",
-    "location": "",
-    "url": "https://osidigital.com/embedded-analytics-webinar-series-discovering-the-value-of-embedded-analytics-may-7/",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 19
-   },
    {
     "title": "Lessons on Rapid, Low-Code App Development – April 30, Boston",
     "location": "",
@@ -16430,21 +16639,6 @@
     "score": 19
    },
    {
-    "title": "Cloud Migration Strategies for the Modern Enterprise – April 17, San Diego",
-    "location": "",
-    "url": "https://osidigital.com/drive-business-value-with-agile-integration-workshop-jan-25-san-diego-2/",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 19
-   },
-   {
     "title": "OSI Customers Showcase Cloud Implementation Excellence at #OracleMBX",
     "location": "",
     "url": "https://osidigital.com/osi-customers-showcase-cloud-implementation-excellence-at-oraclembx/",
@@ -16464,11 +16658,11 @@
   "matches": [],
   "nearMatches": [],
   "closest": {
-   "title": "Embedded Analytics Webinar Series: Provisioning a Robust, Scalable & Secure Platform – June 25",
+   "title": "Lessons on Rapid, Low-Code App Development – April 30, Boston",
    "location": "",
-   "url": "https://osidigital.com/embedded-analytics-webinar-series-provisioning-a-robust-scalable-secure-platform-june-25/",
+   "url": "https://osidigital.com/drive-business-value-with-agile-integration-workshop-jan-25-san-diego-2-2/",
    "team": "",
-   "text": "The OSI Digital Embedded Analytics Webinar Series explores the value of implementing embedded analytics and what it takes to successfully execute these projects efficiently and effectively for your organization. Webinar 5: Provisioning a Robust, Scalable, and Secure Embedded Analytics Platform This webinar presents a unique opportunity for technical resources to learn how embedded analytics can help you provision and […]",
+   "text": "Join the OSI Digital and Dell Boomi learning series to gain insights on how to extend your application and data integration processes with workflow automation. Connecting People, Applications & Data Dell Boomi Flow is a modern cloud-based low-code application development and workflow automation tool. Using drag and drop based declarative tooling, users can create engaging experiences […]",
    "score": 19,
    "isMatch": false,
    "isEng": false,
@@ -16508,17 +16702,12 @@
     {
      "url": "https://osidigital.com/jobs",
      "status": 404,
-     "bytes": 170638
+     "bytes": 180367
     },
     {
      "url": "https://osidigital.com/join-us",
      "status": 404,
      "bytes": 170641
-    },
-    {
-     "url": "https://osidigital.com/join-our-team",
-     "status": 404,
-     "bytes": 170647
     }
    ],
    "candidates": [
@@ -16536,7 +16725,7 @@
     "workable:osidigital -> no board"
    ]
   },
-  "ms": 81036
+  "ms": 59390
  },
  {
   "company": "Onity Group India",
@@ -16696,7 +16885,7 @@
     "skip off-domain https://ebhz.fa.us2.oraclecloud.com"
    ]
   },
-  "ms": 37787
+  "ms": 39006
  },
  {
   "company": "OPPO India",
@@ -16844,7 +17033,7 @@
     "workable:oppo -> no board"
    ]
   },
-  "ms": 32795
+  "ms": 33541
  },
  {
   "company": "Onward Technologies",
@@ -16863,7 +17052,7 @@
    "pages": [],
    "attempts": []
   },
-  "ms": 90001
+  "ms": 89993
  },
  {
   "company": "OpenXcell",
@@ -17000,7 +17189,7 @@
     "workable:openxcell -> no board"
    ]
   },
-  "ms": 6442
+  "ms": 4033
  },
  {
   "company": "OrangeMantra",
@@ -17318,7 +17507,7 @@
     "workable:orangemantra -> no board"
    ]
   },
-  "ms": 15862
+  "ms": 16945
  },
  {
   "company": "Oodles Technologies",
@@ -17580,7 +17769,7 @@
     "workable:oodles -> no board"
    ]
   },
-  "ms": 16003
+  "ms": 16031
  },
  {
   "company": "OpenSense Labs",
@@ -17694,7 +17883,7 @@
     {
      "url": "https://opensenselabs.com/jobs",
      "status": 404,
-     "bytes": 37618
+     "bytes": 37846
     }
    ],
    "candidates": [
@@ -17722,7 +17911,7 @@
     "workable:opensenselabs -> no board"
    ]
   },
-  "ms": 11886
+  "ms": 10898
  },
  {
   "company": "OptiSol Business Solutions",
@@ -17742,7 +17931,7 @@
     {
      "url": "https://www.optisolbusiness.com/current-openings",
      "status": 200,
-     "bytes": 173577
+     "bytes": 173578
     },
     {
      "url": "https://careers.optisolbusiness.com",
@@ -17753,22 +17942,22 @@
     {
      "url": "https://optisolbusiness.com/careers",
      "status": 200,
-     "bytes": 173577
+     "bytes": 173578
     },
     {
      "url": "https://optisolbusiness.com/career",
      "status": 200,
-     "bytes": 200816
+     "bytes": 200818
     },
     {
      "url": "https://optisolbusiness.com/jobs",
      "status": 200,
-     "bytes": 200816
+     "bytes": 200818
     },
     {
      "url": "https://optisolbusiness.com/join-us",
      "status": 200,
-     "bytes": 354158
+     "bytes": 354156
     }
    ],
    "candidates": [
@@ -17788,7 +17977,7 @@
     "workable:optisolbusiness -> no board"
    ]
   },
-  "ms": 9552
+  "ms": 8484
  },
  {
   "company": "Openwave Computing",
@@ -17943,7 +18132,7 @@
     "workable:openwavecomp -> no board"
    ]
   },
-  "ms": 5699
+  "ms": 5985
  },
  {
   "company": "OneClick IT Consultancy",
@@ -18098,7 +18287,7 @@
     "workable:oneclickitsolution -> no board"
    ]
   },
-  "ms": 16562
+  "ms": 15426
  },
  {
   "company": "Orion eSolutions",
@@ -18106,87 +18295,12 @@
   "careers": "https://orionesolutions.com/we-are-hiring/",
   "source": "feed:https://orionesolutions.com",
   "error": null,
-  "totalJobs": 10,
+  "totalJobs": 3,
   "jobs": [
    {
     "title": "Best Software Development Tools",
     "location": "",
     "url": "https://orionesolutions.com/most-popular-software-development-tools/",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 19
-   },
-   {
-    "title": "Complete E-commerce Platform Comparison: Latest Solutions and Best Webshop Platforms for Your Business",
-    "location": "",
-    "url": "https://orionesolutions.com/complete-e-commerce-platform-comparison-latest-solutions-and-best-webshop-platforms-for-your-business/",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 19
-   },
-   {
-    "title": "AI Powered Automation Benefits: How Artificial Intelligence Transforms Automated Business Processes and Workflow Automation",
-    "location": "",
-    "url": "https://orionesolutions.com/ai-powered-automation-benefits-how-artificial-intelligence-transforms-automated-business-processes-and-workflow-automation/",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 19
-   },
-   {
-    "title": "Building AI for consumer applications: Challenges, risks, and real lessons",
-    "location": "",
-    "url": "https://orionesolutions.com/building-ai-for-consumer-applications-challenges-risks-and-real-lessons/",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 19
-   },
-   {
-    "title": "AI Agents vs. Traditional Automation: What’s better for your business?",
-    "location": "",
-    "url": "https://orionesolutions.com/ai-agents-vs-traditional-automation/",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 19
-   },
-   {
-    "title": "How Generative AI is Reshaping Software Development and Design",
-    "location": "",
-    "url": "https://orionesolutions.com/how-generative-ai-reshaping-software-development-design/",
     "india": true,
     "locationSaysIndia": false,
     "hasLocation": false,
@@ -18217,36 +18331,6 @@
     "title": "Integrating AI into Product Development: What You Need to Know",
     "location": "",
     "url": "https://orionesolutions.com/integrating-ai-into-product-development/",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 19
-   },
-   {
-    "title": "AI Technology Stack: How to Choose the Right One for Your Software",
-    "location": "",
-    "url": "https://orionesolutions.com/ai-technology-stack-how-to-choose-the-right-one/",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 19
-   },
-   {
-    "title": "Boosting E-commerce Sales with AI Voice Assistants: A Guide for American Retailers",
-    "location": "",
-    "url": "https://orionesolutions.com/boosting-e-commerce-sales-with-ai-voice-assistants-a-guide-for-american-retailers/",
     "india": true,
     "locationSaysIndia": false,
     "hasLocation": false,
@@ -18325,7 +18409,7 @@
     "workable:orionesolutions -> no board"
    ]
   },
-  "ms": 7604
+  "ms": 8398
  },
  {
   "company": "Oyelabs",
@@ -18394,7 +18478,7 @@
     {
      "url": "https://oyelabs.com/careers/",
      "status": 200,
-     "bytes": 415813
+     "bytes": 415812
     },
     {
      "url": "https://careers.oyelabs.com",
@@ -18405,17 +18489,17 @@
     {
      "url": "https://oyelabs.com/careers",
      "status": 200,
-     "bytes": 415813
+     "bytes": 415812
     },
     {
      "url": "https://oyelabs.com/career",
      "status": 200,
-     "bytes": 574123
+     "bytes": 574121
     },
     {
      "url": "https://oyelabs.com/jobs",
      "status": 404,
-     "bytes": 297729
+     "bytes": 297730
     }
    ],
    "candidates": [
@@ -18433,7 +18517,7 @@
     "workable:oyelabs -> no board"
    ]
   },
-  "ms": 32767
+  "ms": 26686
  },
  {
   "company": "Omninos Solutions",
@@ -18496,7 +18580,7 @@
     "workable:omninos -> no board"
    ]
   },
-  "ms": 52889
+  "ms": 52552
  },
  {
   "company": "Owebest Technologies",
@@ -18690,7 +18774,7 @@
     {
      "url": "https://owebest.com/career",
      "status": 200,
-     "bytes": 358044
+     "bytes": 358047
     },
     {
      "url": "https://owebest.com/jobs",
@@ -18733,7 +18817,7 @@
     "workable:owebest -> no board"
    ]
   },
-  "ms": 5493
+  "ms": 4013
  },
  {
   "company": "Optimus Information",
@@ -18994,7 +19078,7 @@
     "workable:optimusinfo -> no board"
    ]
   },
-  "ms": 25705
+  "ms": 24606
  },
  {
   "company": "Osmosys Software Solutions",
@@ -19047,7 +19131,7 @@
     "workable:osmosys -> no board"
    ]
   },
-  "ms": 34167
+  "ms": 33452
  },
  {
   "company": "Oneture Technologies",
@@ -19381,7 +19465,7 @@
     "keka:oneture -> 9 jobs"
    ]
   },
-  "ms": 2200
+  "ms": 726
  },
  {
   "company": "Ospyn Technologies",
@@ -19475,205 +19559,20 @@
     "workable:ospyn -> no board"
    ]
   },
-  "ms": 17036
+  "ms": 15967
  },
  {
   "company": "Octal IT Solution",
   "country": "India",
-  "source": "feed:https://octalsoftware.com",
-  "error": null,
-  "totalJobs": 10,
-  "jobs": [
-   {
-    "title": "How to Hire the Best AI Developers for Custom Projects: Process, Costs & Key Considerations",
-    "location": "",
-    "url": "https://www.octalsoftware.com/blog/how-to-hire-an-ai-developer",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": true,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 49
-   },
-   {
-    "title": "Metaverse NFT Marketplace Development: A Complete Guide",
-    "location": "",
-    "url": "https://www.octalsoftware.com/blog/metaverse-nft-marketplace-development",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 19
-   },
-   {
-    "title": "Complete Guide to Gold Tokenization Platform Development for Businesses",
-    "location": "",
-    "url": "https://www.octalsoftware.com/blog/gold-tokenization-platform-development",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 19
-   },
-   {
-    "title": "Benefits of Web3 for Cryptocurrency Exchange Development",
-    "location": "",
-    "url": "https://www.octalsoftware.com/blog/benefits-of-web3-for-cryptocurrency-exchange-development",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 19
-   },
-   {
-    "title": "How to Choose the Right Progressive Web App Development Company",
-    "location": "",
-    "url": "https://www.octalsoftware.com/blog/how-to-choose-a-pwa-development-company",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 19
-   },
-   {
-    "title": "Decentralized Exchange (DEX) Development Cost in 2026: A Complete Guide",
-    "location": "",
-    "url": "https://www.octalsoftware.com/blog/dex-development-cost",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 19
-   },
-   {
-    "title": "How to Build a Restaurant Management App: Complete Development Guide",
-    "location": "",
-    "url": "https://www.octalsoftware.com/blog/restaurant-management-app-development",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 19
-   },
-   {
-    "title": "How to Develop a Video-Based eLearning Platform: A Complete Guide (2026)",
-    "location": "",
-    "url": "https://www.octalsoftware.com/blog/develop-video-based-elearning-platform",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 19
-   },
-   {
-    "title": "How to Hire Dedicated Web3 Developers: Complete Guide",
-    "location": "",
-    "url": "https://www.octalsoftware.com/blog/hire-web3-developers",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 19
-   },
-   {
-    "title": "Popular Blockchain Applications and Real-World Use Cases 2026",
-    "location": "",
-    "url": "https://www.octalsoftware.com/blog/blockchain-use-cases",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 19
-   }
-  ],
+  "source": null,
+  "error": "blocked-or-error-response",
+  "totalJobs": 0,
+  "jobs": [],
   "enriched": 0,
   "matches": [],
   "nearMatches": [],
-  "closest": {
-   "title": "How to Hire the Best AI Developers for Custom Projects: Process, Costs & Key Considerations",
-   "location": "",
-   "url": "https://www.octalsoftware.com/blog/how-to-hire-an-ai-developer",
-   "team": "",
-   "text": "What if the developer you hire today writes half their code using an AI copilot? But then can’t explain why the model failed the moment it hit production? This is the whole gap businesses stumble into when they rush to hire AI developers. The global AI market is projected to climb from $539.5 billion in […] The post How to Hire the Best AI Developers for Custom Projects: Process, Costs & Key Considerations appeared first on Octal IT Solution .",
-   "score": 49,
-   "isMatch": false,
-   "isEng": true,
-   "java": false,
-   "flutter": false,
-   "android": false,
-   "india": true,
-   "senior": false,
-   "junior": false,
-   "exp": [],
-   "expFits2": false
-  },
-  "closestEng": {
-   "title": "How to Hire the Best AI Developers for Custom Projects: Process, Costs & Key Considerations",
-   "location": "",
-   "url": "https://www.octalsoftware.com/blog/how-to-hire-an-ai-developer",
-   "team": "",
-   "text": "What if the developer you hire today writes half their code using an AI copilot? But then can’t explain why the model failed the moment it hit production? This is the whole gap businesses stumble into when they rush to hire AI developers. The global AI market is projected to climb from $539.5 billion in […] The post How to Hire the Best AI Developers for Custom Projects: Process, Costs & Key Considerations appeared first on Octal IT Solution .",
-   "score": 49,
-   "isMatch": false,
-   "isEng": true,
-   "java": false,
-   "flutter": false,
-   "android": false,
-   "india": true,
-   "senior": false,
-   "junior": false,
-   "exp": [],
-   "expFits2": false
-  },
+  "closest": null,
+  "closestEng": null,
   "trace": {
    "pages": [
     {
@@ -19733,7 +19632,7 @@
     "workable:octalsoftware -> no board"
    ]
   },
-  "ms": 9102
+  "ms": 8264
  },
  {
   "company": "Ozvid Technologies",
@@ -20098,7 +19997,7 @@
     "workable:ozvid -> no board"
    ]
   },
-  "ms": 5308
+  "ms": 5192
  },
  {
   "company": "OnGraph Technologies",
@@ -20106,72 +20005,12 @@
   "careers": "https://www.ongraph.com/careers/",
   "source": "feed:https://www.ongraph.com",
   "error": null,
-  "totalJobs": 10,
+  "totalJobs": 6,
   "jobs": [
    {
     "title": "Reduce Third-Party Sample Costs Owned Research Panel",
     "location": "",
     "url": "https://www.ongraph.com/reduce-third-party-sample-costs-owned-research-panel/",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 19
-   },
-   {
-    "title": "Why Market Research Is Becoming a Software Product",
-    "location": "",
-    "url": "https://www.ongraph.com/why-market-research-is-becoming-a-software-product/",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 19
-   },
-   {
-    "title": "Why Investing in Custom Market Research Solutions Beats Off-the-Shelf Tools",
-    "location": "",
-    "url": "https://www.ongraph.com/why-investing-in-custom-market-research-solutions-beats-off-the-shelf-tools/",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 19
-   },
-   {
-    "title": "How to Integrate Reward APIs to Boost Panel Engagement",
-    "location": "",
-    "url": "https://www.ongraph.com/how-to-integrate-reward-apis-to-boost-panel-engagement/",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 19
-   },
-   {
-    "title": "GPT-5 Guide 2026: Features, API Pricing, Use Cases & Latest Comparisons",
-    "location": "",
-    "url": "https://www.ongraph.com/gpt5/",
     "india": true,
     "locationSaysIndia": false,
     "hasLocation": false,
@@ -20335,7 +20174,7 @@
     "workable:ongraph -> no board"
    ]
   },
-  "ms": 13947
+  "ms": 11563
  },
  {
   "company": "Octaware Technologies",
@@ -20479,234 +20318,26 @@
     "workable:octaware -> no board"
    ]
   },
-  "ms": 11575
+  "ms": 10652
  },
  {
   "company": "OmniMD",
   "country": "India",
   "careers": "https://omnimd.com/careers/",
-  "source": "feed:https://omnimd.com",
-  "error": null,
-  "totalJobs": 10,
-  "jobs": [
-   {
-    "title": "Good Faith Estimate Rules for Independent Practices in 2026: The Compliance Gaps Nobody Warns You About",
-    "location": "",
-    "url": "https://omnimd.com/blog/good-faith-estimate-compliance-gaps/",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 19
-   },
-   {
-    "title": "CCM Reimbursement Guide 2026: CPT Codes & Billing Explained",
-    "location": "",
-    "url": "https://omnimd.com/blog/ccm-reimbursement-guide/",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 19
-   },
-   {
-    "title": "Why the EHR You Chose for Your Practice Was Designed for Someone Else’s",
-    "location": "",
-    "url": "https://omnimd.com/blog/oversized-ehr-cost-independent-practices/",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 19
-   },
-   {
-    "title": "Medical Credentialing Companies in 2026: What US Clinics Need to Know Before Hiring One",
-    "location": "",
-    "url": "https://omnimd.com/blog/questions-to-ask-credentialing-partner/",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 19
-   },
-   {
-    "title": "Why Most Ambulatory Practices Are Getting AI Wrong (And What the Data Says Actually Works)",
-    "location": "",
-    "url": "https://omnimd.com/blog/future-of-ai-in-ambulatory-practice-roadmap/",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 19
-   },
-   {
-    "title": "Your Billing Reports Look Fine. Here’s Why You’re Still Losing Money",
-    "location": "",
-    "url": "https://omnimd.com/blog/medical-billing-kpis-for-clinic-owners/",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 19
-   },
-   {
-    "title": "What AI Is Actually Doing in US Cardiology Clinics Right Now (And What’s Still Broken)",
-    "location": "",
-    "url": "https://omnimd.com/blog/ai-in-cardiology/",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 19
-   },
-   {
-    "title": "EHR Integration in 2026: What It Really Costs, the Risks Nobody Talks About, and 21 Questions to Ask Before You Sign Anything",
-    "location": "",
-    "url": "https://omnimd.com/blog/ehr-integration-guide/",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 19
-   },
-   {
-    "title": "Why Real-Time Eligibility Verification Is No Longer Optional for Urgent Care Centers",
-    "location": "",
-    "url": "https://omnimd.com/blog/real-time-eligibility-verification-urgent-care-efficiency/",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 19
-   },
-   {
-    "title": "How to Maximize Patient Care Through Interoperability in Healthcare",
-    "location": "",
-    "url": "https://omnimd.com/blog/maximizing-patient-care-through-interoperability-in-healthcare-a-how-to-guide/",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 19
-   }
-  ],
+  "source": null,
+  "error": "timed-out",
+  "totalJobs": 0,
+  "jobs": [],
   "enriched": 0,
   "matches": [],
   "nearMatches": [],
-  "closest": {
-   "title": "Good Faith Estimate Rules for Independent Practices in 2026: The Compliance Gaps Nobody Warns You About",
-   "location": "",
-   "url": "https://omnimd.com/blog/good-faith-estimate-compliance-gaps/",
-   "team": "",
-   "text": "Good Faith Estimate Rules for Independent Practices in 2026: The Compliance Gaps Nobody Warns You About Every independent practice handling self-pay patients already knows the outline of the Good Faith Estimate rule. What keeps tripping practices up in 2026 is not that outline. It is five specific moments where the rule gets applied a little...",
-   "score": 19,
-   "isMatch": false,
-   "isEng": false,
-   "java": false,
-   "flutter": false,
-   "android": false,
-   "india": true,
-   "senior": false,
-   "junior": false,
-   "exp": [],
-   "expFits2": false
-  },
+  "closest": null,
   "closestEng": null,
   "trace": {
-   "pages": [
-    {
-     "url": "https://omnimd.com/careers/",
-     "status": 200,
-     "bytes": 780873
-    },
-    {
-     "url": "https://careers.omnimd.com",
-     "status": 0,
-     "bytes": 0,
-     "error": "fetch failed"
-    },
-    {
-     "url": "https://omnimd.com/careers",
-     "status": 200,
-     "bytes": 780873
-    },
-    {
-     "url": "https://omnimd.com/career",
-     "status": 404,
-     "bytes": 752617
-    },
-    {
-     "url": "https://omnimd.com/jobs",
-     "status": 404,
-     "bytes": 752568
-    }
-   ],
-   "candidates": [
-    "greenhouse:omnimd(guess)",
-    "lever:omnimd(guess)",
-    "ashby:omnimd(guess)",
-    "recruitee:omnimd(guess)",
-    "workable:omnimd(guess)"
-   ],
-   "attempts": [
-    "greenhouse:omnimd -> no board",
-    "lever:omnimd -> no board",
-    "ashby:omnimd -> no board",
-    "recruitee:omnimd -> no board",
-    "workable:omnimd -> no board"
-   ]
+   "pages": [],
+   "attempts": []
   },
-  "ms": 26009
+  "ms": 90000
  },
  {
   "company": "Openweb Solutions",
@@ -20877,7 +20508,7 @@
     "workable:openwebsolutions -> no board"
    ]
   },
-  "ms": 8415
+  "ms": 7090
  },
  {
   "company": "Omnitech InfoSolutions",
@@ -20940,7 +20571,7 @@
     "workable:omnitech -> no board"
    ]
   },
-  "ms": 61208
+  "ms": 60185
  },
  {
   "company": "Odyssey Technologies",
@@ -21094,7 +20725,7 @@
     "workable:odysseytec -> no board"
    ]
   },
-  "ms": 15940
+  "ms": 8112
  },
  {
   "company": "Omnex India",
@@ -21161,7 +20792,7 @@
     "workable:omnex -> no board"
    ]
   },
-  "ms": 33478
+  "ms": 32393
  },
  {
   "company": "Opus Consulting Solutions",
@@ -21259,7 +20890,7 @@
     "workable:opustechglobal -> no board"
    ]
   },
-  "ms": 37698
+  "ms": 35233
  },
  {
   "company": "Osource Global",
@@ -21267,7 +20898,7 @@
   "careers": "https://osourceglobal.com/careers/",
   "source": "feed:https://osourceglobal.com",
   "error": null,
-  "totalJobs": 10,
+  "totalJobs": 4,
   "jobs": [
    {
     "title": "Candidate Drop-Off: Common Causes and Practical Ways to Reduce It",
@@ -21300,99 +20931,9 @@
     "score": 19
    },
    {
-    "title": "TDS and TCS Reconciliation: Common Mismatches and How to Resolve Them",
-    "location": "",
-    "url": "https://osourceglobal.com/tds-tcs-reconciliation/",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 19
-   },
-   {
-    "title": "What Is Spend Visibility? 7 Ways CFOs Can Improve It With Spend Analysis",
-    "location": "",
-    "url": "https://osourceglobal.com/spend-analysis-cfo-spend-visibility/",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 19
-   },
-   {
-    "title": "How Can Automated Form 26AS Reconciliation Identify TDS and TCS mismatches faster?",
-    "location": "",
-    "url": "https://osourceglobal.com/form-26as-reconciliation/",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 19
-   },
-   {
     "title": "7 Signs Your HR Team Is Ready for HR Automation",
     "location": "",
     "url": "https://osourceglobal.com/hr-process-automation/",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 19
-   },
-   {
-    "title": "How Manual HR Processes Create Hidden Costs Across the Employee Lifecycle",
-    "location": "",
-    "url": "https://osourceglobal.com/employee-lifecycle-hidden-costs/",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 19
-   },
-   {
-    "title": "How Can Automated Reconciliation Help Finance Teams Close 90% Faster?",
-    "location": "",
-    "url": "https://osourceglobal.com/automated-reconciliation-for-faster-close/",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 19
-   },
-   {
-    "title": "Reconciliation Software Buyer’s Checklist: 10 Questions Every CFO Should Ask",
-    "location": "",
-    "url": "https://osourceglobal.com/reconciliation-software-buyers-checklist/",
     "india": true,
     "locationSaysIndia": false,
     "hasLocation": false,
@@ -21447,7 +20988,7 @@
     {
      "url": "https://osourceglobal.com/careers/",
      "status": 200,
-     "bytes": 386347
+     "bytes": 386101
     },
     {
      "url": "https://careers.osourceglobal.com",
@@ -21458,12 +20999,12 @@
     {
      "url": "https://osourceglobal.com/careers",
      "status": 200,
-     "bytes": 386333
+     "bytes": 386235
     },
     {
      "url": "https://osourceglobal.com/career",
      "status": 200,
-     "bytes": 386431
+     "bytes": 386560
     }
    ],
    "candidates": [
@@ -21481,14 +21022,14 @@
     "workable:osourceglobal -> no board"
    ]
   },
-  "ms": 7821
+  "ms": 8492
  },
  {
   "company": "Omega Healthcare Management",
   "country": "India",
   "source": "feed:https://www.omegahealthcare.com",
   "error": null,
-  "totalJobs": 10,
+  "totalJobs": 9,
   "jobs": [
    {
     "title": "Omega Reports Second Quarter 2026 Results and Recent Developments",
@@ -21584,21 +21125,6 @@
     "title": "Omega Announces First Quarter Earnings Release Date and Conference Call",
     "location": "",
     "url": "https://www.omegahealthcare.com/investors/news-events/press-releases/detail/341/omega-announces-first-quarter-earnings-release-date-and",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 19
-   },
-   {
-    "title": "Omega Reports Fourth Quarter and Full Year 2025 Results and Recent Developments",
-    "location": "",
-    "url": "https://www.omegahealthcare.com/investors/news-events/press-releases/detail/340/omega-reports-fourth-quarter-and-full-year-2025-results-and",
     "india": true,
     "locationSaysIndia": false,
     "hasLocation": false,
@@ -21747,7 +21273,7 @@
     "workable:omegahealthcare -> no board"
    ]
   },
-  "ms": 9278
+  "ms": 8546
  },
  {
   "company": "OnMobile Global",
@@ -21811,187 +21337,19 @@
     "workable:onmobile -> no board"
    ]
   },
-  "ms": 8032
+  "ms": 7148
  },
  {
   "company": "Oorwin",
   "country": "India",
-  "source": "feed:https://oorwin.com",
-  "error": null,
-  "totalJobs": 10,
-  "jobs": [
-   {
-    "title": "Master Effective Interview Techniques with Oorwin: A Step-by-Step Recruiter’s Guide",
-    "location": "",
-    "url": "https://oorwin.com/blog/master-effective-interview-techniques-with-oorwin-a-step-by-step-recruiters-guide.html",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 19
-   },
-   {
-    "title": "Data vs. Gut Feel: The Secret to Smarter Recruitment Decisions in 2025",
-    "location": "",
-    "url": "https://oorwin.com/blog/data-vs-gut-feel-the-secret-to-smarter-recruitment-decisions-in-2025.html",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 19
-   },
-   {
-    "title": "How to Cut Hiring Time in Half Using Oorwin: A Recruiter’s Guide",
-    "location": "",
-    "url": "https://oorwin.com/blog/how-to-cut-hiring-time-in-half-using-oorwin-a-recruiters-guide.html",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 19
-   },
-   {
-    "title": "How Oorwin’s Boolean Engine Makes Resume Harvesting 3X Faster for Tech Roles",
-    "location": "",
-    "url": "https://oorwin.com/blog/how-oorwins-boolean-engine-makes-resume-harvesting-3x-faster-for-tech-roles.html",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 19
-   },
-   {
-    "title": "Immigration Compliance Automation with Oorwin HRMS: Step-by-Step Guide",
-    "location": "",
-    "url": "https://oorwin.com/blog/immigration-compliance-software-oorwin-guide.html",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 19
-   },
-   {
-    "title": "How to Master Candidate Tracking System Campaigns [2025 Guide]",
-    "location": "",
-    "url": "https://oorwin.com/blog/how-to-master-candidate-tracking-system-campaigns-2025-guide.html",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 19
-   },
-   {
-    "title": "How to Integrate SuccessFactors ATS with Oorwin: A Step-by-Step Guide",
-    "location": "",
-    "url": "https://oorwin.com/blog/how-to-integrate-successfactors-ats-with-oorwin-a-step-by-step-guide.html",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 19
-   },
-   {
-    "title": "The Essential Metrics for Recruiters: What Actually Drives Hiring Success [2025 Guide]",
-    "location": "",
-    "url": "https://oorwin.com/blog/the-essential-metrics-for-recruiters-what-actually-drives-hiring-success-2025-guide.html",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 19
-   },
-   {
-    "title": "AI in Recruitment: How Artificial Intelligence is Revolutionizing Talent Acquisition",
-    "location": "",
-    "url": "https://oorwin.com/blog/the-recruiter-industrys-ai-revolution-transforming-talent-acquisition.html",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 19
-   },
-   {
-    "title": "20+ Key KPIs to Measure Recruitment Success",
-    "location": "",
-    "url": "https://oorwin.com/blog/20-key-kpis-to-measure-recruitment-success.html",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 19
-   }
-  ],
+  "source": null,
+  "error": "careers-page-read-but-lists-no-openings",
+  "totalJobs": 0,
+  "jobs": [],
   "enriched": 0,
   "matches": [],
   "nearMatches": [],
-  "closest": {
-   "title": "Master Effective Interview Techniques with Oorwin: A Step-by-Step Recruiter’s Guide",
-   "location": "",
-   "url": "https://oorwin.com/blog/master-effective-interview-techniques-with-oorwin-a-step-by-step-recruiters-guide.html",
-   "team": "",
-   "text": "In today’s highly competitive hiring landscape, mastering the interview process is critical for acquiring top talent. Whether you’re a seasoned recruiter or new to the hiring field, using a smart recruitment platform like Oorwin can significantly improve your outcomes. This step-by-step guide shows how to harness Oorwin’s AI-driven tools to streamline your interview process—from candidate […] The post Master Effective Interview Techniques with Oorwin: A Step-by-Step Recruiter’s Guide appeared first on Oorwin: .",
-   "score": 19,
-   "isMatch": false,
-   "isEng": false,
-   "java": false,
-   "flutter": false,
-   "android": false,
-   "india": true,
-   "senior": false,
-   "junior": false,
-   "exp": [],
-   "expFits2": false
-  },
+  "closest": null,
   "closestEng": null,
   "trace": {
    "pages": [
@@ -22031,7 +21389,7 @@
     "workable:oorwin -> no board"
    ]
   },
-  "ms": 4751
+  "ms": 5428
  },
  {
   "company": "Optimizory",
@@ -22217,7 +21575,7 @@
     "workable:optimizory -> no board"
    ]
   },
-  "ms": 10621
+  "ms": 12087
  },
  {
   "company": "OpsVeda",
@@ -22423,7 +21781,7 @@
     "workable:opsveda -> no board"
    ]
   },
-  "ms": 28638
+  "ms": 24299
  },
  {
   "company": "Omnify",
@@ -22568,7 +21926,7 @@
     "workable:getomnify -> no board"
    ]
   },
-  "ms": 11297
+  "ms": 8848
  },
  {
   "company": "Orbo.ai",
@@ -22722,7 +22080,7 @@
     "workable:orbo -> no board"
    ]
   },
-  "ms": 9256
+  "ms": 7052
  },
  {
   "company": "ORI (ORIserve)",
@@ -22811,14 +22169,14 @@
     "workable:oriserve -> no board"
    ]
   },
-  "ms": 13447
+  "ms": 12282
  },
  {
   "company": "OpenTurf Technologies",
   "country": "India",
   "source": "feed:https://www.openturf.in",
   "error": null,
-  "totalJobs": 10,
+  "totalJobs": 4,
   "jobs": [
    {
     "title": "The Real Problem with “AI Engineers”",
@@ -22836,21 +22194,6 @@
     "score": 49
    },
    {
-    "title": "Inside Anthropic: How One of the World’s Leading AI Labs Operates",
-    "location": "",
-    "url": "https://www.openturf.in/nibbles-july-2026/",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 19
-   },
-   {
     "title": "The AI Maturity Pyramid",
     "location": "",
     "url": "https://www.openturf.in/nibbles-june-2026/",
@@ -22866,84 +22209,9 @@
     "score": 19
    },
    {
-    "title": "How AI Improves Learning Operations and Insights",
-    "location": "",
-    "url": "https://www.openturf.in/how-ai-improves-learning-operations-and-insights/",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 19
-   },
-   {
     "title": "Reshuffle — Launching the Interactive Companion to the Book",
     "location": "",
     "url": "https://www.openturf.in/nibbles-may-2026/",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 19
-   },
-   {
-    "title": "How Logistics Companies Can Automate Document Heavy Workflows",
-    "location": "",
-    "url": "https://www.openturf.in/how-logistics-companies-can-automate-document-heavy-workflows/",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 19
-   },
-   {
-    "title": "How AI Is Transforming Healthcare Operations Through Cost Efficiency",
-    "location": "",
-    "url": "https://www.openturf.in/how-ai-is-transforming-healthcare-operations-through-cost-efficiency/",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 19
-   },
-   {
-    "title": "From Experimentation to Real Business Impact: How Companies Are Winning with Automation in 2026 and Beyond",
-    "location": "",
-    "url": "https://www.openturf.in/automation-ai-business-impact-2026/",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 19
-   },
-   {
-    "title": "Why Responsible AI Is the Next Big Differentiator",
-    "location": "",
-    "url": "https://www.openturf.in/why-responsible-ai-is-the-next-big-differentiator/",
     "india": true,
     "locationSaysIndia": false,
     "hasLocation": false,
@@ -23086,7 +22354,7 @@
     "workable:openturf -> no board"
    ]
   },
-  "ms": 23765
+  "ms": 44756
  },
  {
   "company": "Orangewood Labs",
@@ -23231,7 +22499,7 @@
     "workable:orangewood -> no board"
    ]
   },
-  "ms": 7015
+  "ms": 4831
  },
  {
   "company": "Oben Electric",
@@ -23362,7 +22630,7 @@
     {
      "url": "https://www.obenelectric.com/",
      "status": 200,
-     "bytes": 377351
+     "bytes": 377292
     }
    ],
    "candidates": [
@@ -23392,7 +22660,7 @@
     "workable:obenelectric -> no board"
    ]
   },
-  "ms": 12264
+  "ms": 8313
  },
  {
   "company": "Ola Krutrim",
@@ -23417,7 +22685,7 @@
     {
      "url": "https://olakrutrim.com/careers",
      "status": 200,
-     "bytes": 85058
+     "bytes": 85103
     },
     {
      "url": "https://olakrutrim.com/career",
@@ -23474,6 +22742,51 @@
      "url": "https://www.olakrutrim.com/careers",
      "status": 404,
      "bytes": 7236
+    },
+    {
+     "url": "https://www.olakrutrim.com/career",
+     "status": 404,
+     "bytes": 7236
+    },
+    {
+     "url": "https://www.olakrutrim.com/jobs",
+     "status": 404,
+     "bytes": 7236
+    },
+    {
+     "url": "https://www.olakrutrim.com/join-us",
+     "status": 404,
+     "bytes": 7236
+    },
+    {
+     "url": "https://www.olakrutrim.com/join-our-team",
+     "status": 404,
+     "bytes": 7236
+    },
+    {
+     "url": "https://www.olakrutrim.com/careers.html",
+     "status": 404,
+     "bytes": 7236
+    },
+    {
+     "url": "https://www.olakrutrim.com/company/careers",
+     "status": 404,
+     "bytes": 7236
+    },
+    {
+     "url": "https://www.olakrutrim.com/about/careers",
+     "status": 404,
+     "bytes": 7236
+    },
+    {
+     "url": "https://www.olakrutrim.com/current-openings",
+     "status": 404,
+     "bytes": 7236
+    },
+    {
+     "url": "https://www.olakrutrim.com/",
+     "status": 200,
+     "bytes": 85103
     }
    ],
    "candidates": [
@@ -23491,7 +22804,7 @@
     "workable:olakrutrim -> no board"
    ]
   },
-  "ms": 6629
+  "ms": 4876
  },
  {
   "company": "OkCredit",
@@ -23634,7 +22947,7 @@
     "workable:okcredit -> no board"
    ]
   },
-  "ms": 8382
+  "ms": 6205
  },
  {
   "company": "OneBanc",
@@ -23889,7 +23202,7 @@
     {
      "url": "https://onebanc.ai/",
      "status": 200,
-     "bytes": 68790
+     "bytes": 68773
     }
    ],
    "candidates": [
@@ -23907,7 +23220,7 @@
     "workable:onebanc -> no board"
    ]
   },
-  "ms": 8298
+  "ms": 4853
  },
  {
   "company": "OneMoney",
@@ -24057,7 +23370,7 @@
     "workable:onemoney -> no board"
    ]
   },
-  "ms": 24390
+  "ms": 25546
  },
  {
   "company": "OnFinance AI",
@@ -24211,7 +23524,7 @@
     "workable:onfinance -> no board"
    ]
   },
-  "ms": 28992
+  "ms": 14752
  },
  {
   "company": "OTO Capital",
@@ -24355,7 +23668,7 @@
     "workable:otocapital -> no board"
    ]
   },
-  "ms": 5334
+  "ms": 3641
  },
  {
   "company": "Oliveboard",
@@ -24425,7 +23738,7 @@
     {
      "url": "https://oliveboard.in/",
      "status": 200,
-     "bytes": 284438
+     "bytes": 284499
     },
     {
      "url": "https://careers.www.oliveboard.in",
@@ -24481,7 +23794,7 @@
     {
      "url": "https://www.oliveboard.in/",
      "status": 200,
-     "bytes": 284215
+     "bytes": 284463
     }
    ],
    "candidates": [
@@ -24499,7 +23812,7 @@
     "workable:oliveboard -> no board"
    ]
   },
-  "ms": 8309
+  "ms": 7416
  },
  {
   "company": "Orange Health Labs",
@@ -24530,17 +23843,17 @@
     {
      "url": "https://orangehealth.in/careers",
      "status": 200,
-     "bytes": 61812
+     "bytes": 61811
     },
     {
      "url": "https://orangehealth.in/career",
      "status": 200,
-     "bytes": 61808
+     "bytes": 61809
     },
     {
      "url": "https://orangehealth.in/jobs",
      "status": 200,
-     "bytes": 106110
+     "bytes": 106109
     },
     {
      "url": "https://orangehealth.in/join-us",
@@ -24575,7 +23888,7 @@
     "workable:orangehealth -> no board"
    ]
   },
-  "ms": 19750
+  "ms": 5856
  },
  {
   "company": "OnGrid",
@@ -24727,7 +24040,7 @@
     "workable:ongrid -> no board"
    ]
   },
-  "ms": 5113
+  "ms": 3888
  },
  {
   "company": "Onco.com",
@@ -24825,165 +24138,26 @@
     "workable:onco -> no board"
    ]
   },
-  "ms": 21432
+  "ms": 19412
  },
  {
   "company": "OLX India",
   "country": "India",
   "careers": "https://www.olx.in/careers",
-  "source": "headings:https://www.olx.in/jobs_c4",
-  "error": null,
-  "totalJobs": 5,
-  "jobs": [
-   {
-    "title": "IT Engineer & Developer",
-    "location": "",
-    "url": "https://www.olx.in/jobs_c4",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": true,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 49
-   },
-   {
-    "title": "Office Assistant",
-    "location": "",
-    "url": "https://www.olx.in/jobs_c4",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 19
-   },
-   {
-    "title": "Operator & Technician",
-    "location": "",
-    "url": "https://www.olx.in/jobs_c4",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 19
-   },
-   {
-    "title": "Hotel & Travel Executive",
-    "location": "",
-    "url": "https://www.olx.in/jobs_c4",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 19
-   },
-   {
-    "title": "Wheel Alignment Technician wanted",
-    "location": "",
-    "url": "https://www.olx.in/jobs_c4",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 19
-   }
-  ],
+  "source": null,
+  "error": "timed-out",
+  "totalJobs": 0,
+  "jobs": [],
   "enriched": 0,
   "matches": [],
   "nearMatches": [],
-  "closest": {
-   "title": "IT Engineer & Developer",
-   "location": "",
-   "url": "https://www.olx.in/jobs_c4",
-   "team": "",
-   "text": "IT Engineer & Developer (517)",
-   "_noEnrich": true,
-   "score": 49,
-   "isMatch": false,
-   "isEng": true,
-   "java": false,
-   "flutter": false,
-   "android": false,
-   "india": true,
-   "senior": false,
-   "junior": false,
-   "exp": [],
-   "expFits2": false
-  },
-  "closestEng": {
-   "title": "IT Engineer & Developer",
-   "location": "",
-   "url": "https://www.olx.in/jobs_c4",
-   "team": "",
-   "text": "IT Engineer & Developer (517)",
-   "_noEnrich": true,
-   "score": 49,
-   "isMatch": false,
-   "isEng": true,
-   "java": false,
-   "flutter": false,
-   "android": false,
-   "india": true,
-   "senior": false,
-   "junior": false,
-   "exp": [],
-   "expFits2": false
-  },
+  "closest": null,
+  "closestEng": null,
   "trace": {
-   "pages": [
-    {
-     "url": "https://www.olx.in/careers",
-     "status": 404,
-     "bytes": 313962
-    },
-    {
-     "url": "https://careers.olx.in",
-     "status": 200,
-     "bytes": 105328
-    },
-    {
-     "url": "https://olx.in/careers",
-     "status": 404,
-     "bytes": 313963
-    },
-    {
-     "url": "https://olx.in/career",
-     "status": 404,
-     "bytes": 313962
-    },
-    {
-     "url": "https://olx.in/jobs",
-     "status": 200,
-     "bytes": 859454
-    }
-   ],
-   "candidates": [],
+   "pages": [],
    "attempts": []
   },
-  "ms": 15403
+  "ms": 90003
  },
  {
   "company": "ONDC",
@@ -25042,7 +24216,7 @@
     "workable:ondc -> no board"
    ]
   },
-  "ms": 13914
+  "ms": 3558
  },
  {
   "company": "Onsitego",
@@ -25471,15 +24645,36 @@
   "enriched": 0,
   "matches": [],
   "nearMatches": [],
-  "closest": null,
+  "closest": {
+   "title": "Customer Support Executive",
+   "location": "Mumbai, MH",
+   "url": "https://onsitego.keka.com/careers/jobdetails/149623",
+   "team": "Non Voice",
+   "text": "Company Overview Onsitego is India’s #1 device care company and leading after-sales service provider We offer Extended Warranty, Damage Protection, AMC Plans and On-Demand Repair Services for Home appliances and digital services . We have been in the device protection business since 2010 and have served more than 80 lakh customers across Pan –India. We cover all electronic devices and home appliances. Our plans are widely available across retail stores like Croma, Vijay sales and online marketplaces .. We are driven by the mission to consistently deliver 'WOW' experiences to customers. Our customer obsession allows us to have the highest Net Promoter Score (NPS) globally in after-sales services. Our hassle-free & reliable services are widely available across electronic stores and online marketplaces. We invite the brightest minds to join us in this journey that helps improve the lives of millions of device users across the country. Website: www.onsitego.com Job Purpose: We are looking an experienced Customer Excellence for managing large Volume of incoming calls/emails/Chats. Responsibilities: ∙ Responsible for managing large volume of calls/emails/chats ∙ Considering business operations,you will be moved to calls/emails.chats for your better exposure and learning. ∙ Identify and assess customers’ needs to achieve satisfaction ∙ Build sustainable relationships and trust with customer accounts through open and interactive communication ∙ Provide accurate, valid and complete information by using the right methods/tools ∙ Handle customer complaints, provide appropriate solutions and alternatives within the time limits; follow up to ensure resolution. Keep records of customer interactions, process customer accounts and file documents ∙ Take the extra mile to engage customers ∙ Engaging in active listening with callers, confirming or clarifying information and diffusing angry clients, as needed ∙ Understanding and striving to meet or exceed contact center metrics while providing excellent consistent customer service ∙ Escalate well deserved calls to the Escalations team as per the defined standards and protocol ∙ Follow communication procedures, guidelines and policies ∙ Responsible for delivering performance metrics as per the KPI’s. Desired candidate profile: ∙ Excellent written and verbal communications skills and having relevant experience in blended process-calls/emails and chats. ∙ Excellent customer service skills, including maintaining focus on the customer issues ∙ BPO/KPO Experience is must ∙ Flexible with the working schedule. Experience: 1+ years Qualification: Graduate",
+   "score": 45,
+   "isMatch": false,
+   "isEng": false,
+   "java": false,
+   "flutter": false,
+   "android": false,
+   "india": true,
+   "senior": false,
+   "junior": false,
+   "exp": [
+    [
+     1,
+     5
+    ]
+   ],
+   "expFits2": true
+  },
   "closestEng": null,
   "trace": {
    "pages": [
     {
      "url": "https://onsitego.com/careers",
-     "status": 0,
-     "bytes": 0,
-     "error": "fetch failed"
+     "status": 200,
+     "bytes": 17265
     },
     {
      "url": "https://careers.onsitego.com",
@@ -25516,14 +24711,10 @@
      "url": "https://onsitego.com/company/careers",
      "status": 404,
      "bytes": 5972
-    },
-    {
-     "url": "https://onsitego.com/about/careers",
-     "status": 200,
-     "bytes": 33111
     }
    ],
    "candidates": [
+    "keka:onsitego(html)",
     "greenhouse:onsitego(guess)",
     "lever:onsitego(guess)",
     "ashby:onsitego(guess)",
@@ -25531,14 +24722,10 @@
     "workable:onsitego(guess)"
    ],
    "attempts": [
-    "greenhouse:onsitego -> no board",
-    "lever:onsitego -> no board",
-    "ashby:onsitego -> no board",
-    "recruitee:onsitego -> no board",
-    "workable:onsitego -> no board"
+    "keka:onsitego -> 17 jobs"
    ]
   },
-  "ms": 16663
+  "ms": 450
  },
  {
   "company": "Oxane Partners",
@@ -25632,7 +24819,7 @@
     "workable:oxanepartners -> no board"
    ]
   },
-  "ms": 23650
+  "ms": 29574
  },
  {
   "company": "OnePlay",
@@ -25656,8 +24843,9 @@
     },
     {
      "url": "https://oneplay.in/careers",
-     "status": 404,
-     "bytes": 25
+     "status": 0,
+     "bytes": 0,
+     "error": "fetch failed"
     },
     {
      "url": "https://oneplay.in/career",
@@ -25776,7 +24964,7 @@
     "workable:oneplay -> no board"
    ]
   },
-  "ms": 6875
+  "ms": 18688
  },
  {
   "company": "Obopay India",
@@ -25859,7 +25047,7 @@
     "workable:obopay -> no board"
    ]
   },
-  "ms": 16905
+  "ms": 27679
  },
  {
   "company": "Ohmium",
@@ -26330,7 +25518,7 @@
     "workday:ohmium -> 13 jobs"
    ]
   },
-  "ms": 13650
+  "ms": 15094
  },
  {
   "company": "Oye Rickshaw",
@@ -26355,7 +25543,7 @@
     {
      "url": "https://oyerickshaw.com/careers",
      "status": 403,
-     "bytes": 5618
+     "bytes": 5640
     },
     {
      "url": "https://oyerickshaw.com/career",
@@ -26366,6 +25554,16 @@
      "url": "https://oyerickshaw.com/jobs",
      "status": 403,
      "bytes": 5609
+    },
+    {
+     "url": "https://oyerickshaw.com/join-us",
+     "status": 403,
+     "bytes": 5640
+    },
+    {
+     "url": "https://oyerickshaw.com/join-our-team",
+     "status": 403,
+     "bytes": 5680
     }
    ],
    "candidates": [
@@ -26383,6 +25581,6 @@
     "workable:oyerickshaw -> no board"
    ]
   },
-  "ms": 3613
+  "ms": 2897
  }
 ]

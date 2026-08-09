@@ -1244,7 +1244,7 @@ async function feedJobs(origin, html) {
     const items = [...r.text.matchAll(/<item[\s>]([\s\S]*?)<\/item>/gi)].map((m) => {
       const g = (t) => (m[1].match(new RegExp(`<${t}[^>]*>(?:<!\\[CDATA\\[)?([\\s\\S]*?)(?:\\]\\]>)?</${t}>`, 'i')) || [, ''])[1];
       return job({ title: stripHtml(g('title')), url: stripHtml(g('link')), text: stripHtml(g('description')) });
-    }).filter((j) => j.title);
+    }).filter((j) => j.title && !isMarketingContent(j.title, j.url));
     if (items.length && items.some((j) => /job|engineer|develop|manager|analyst|executive|intern|hiring/i.test(j.title)))
       return items;
   }
@@ -1272,7 +1272,8 @@ async function wpJobs(origin) {
         })
       );
   }
-  return out.length ? out : null;
+  const kept = out.filter((j) => j && j.title && !isMarketingContent(j.title, j.url));
+  return kept.length ? kept : null;
 }
 
 // 5. sitemap that lists job detail pages
@@ -1304,7 +1305,10 @@ async function sitemapJobs(origin) {
     const ld = jsonLdJobs(r.text, u);
     if (ld.length) return ld[0];
     const t = r.text.match(/<title>([^<]+)<\/title>/i);
-    return t ? job({ title: t[1].split(/[|–-]/)[0].trim(), url: u, text: stripHtml(r.text) }) : null;
+    if (!t) return null;
+    const st = t[1].split(/[|–-]/)[0].trim();
+    if (isMarketingContent(st, u)) return null;
+    return job({ title: st, url: u, text: stripHtml(r.text) });
   });
   const clean = jobs.filter(Boolean);
   return clean.length ? clean : null;
@@ -1334,6 +1338,40 @@ const NOT_A_JOB = new RegExp('^(' + [
   'professional development', 'the candidate experience', 'young professionals',
   'chro message', 'vacancies', 'deferred modules',
 ].join('|') + ')$', 'i');
+
+/*
+ * RSS feeds and sitemaps are site-wide, so a dev shop's marketing blog arrives
+ * through exactly the same pipe as its vacancies — and its posts are all about
+ * hiring, so every keyword filter waves them through. Four of the top five
+ * entries in the priority folder were articles like "How Much Does It Cost to
+ * Hire an App Developer?" and "Cost to Hire a Developer in India (2026)".
+ *
+ * The URL is the stronger signal (/blog/, /insights/), the headline shape is
+ * the backstop. Applied only to the feed/sitemap/wordpress extractors — an ATS
+ * board never serves its blog through its jobs API, so this must not narrow
+ * the real providers.
+ */
+const NOT_POSTING_URL =
+  /\/(blogs?|insights?|news|resources?|articles?|guides?|press|events?|webinars?|whitepapers?|ebooks?|podcasts?|case-stud\w*|stories|tags?|category|categories|author|about|services?|solutions?|portfolio|clients?)\//i;
+
+const BLOG_HEADLINE = new RegExp(
+  [
+    '^(how|why|what|when|where|which|top\\s*\\d*|\\d+\\s+(best|top|ways|tips|reasons|things))\\b',
+    '^(introducing|announcing|celebrating|understanding|exploring|choosing|building|unlocking|leveraging|navigating|comparing)\\b',
+    '\\b(a comprehensive guide|complete guide|ultimate guide|step[- ]by[- ]step|pricing guide|cost to hire|cost of hiring|vs\\.?\\s|case study|webinar|whitepaper|checklist|roadmap|trends?\\s+(in|for)\\s|\\d{4}\\)?\\s*:)\\b',
+    '\\?\\s*$',
+  ].join('|'),
+  'i',
+);
+
+/** Reject marketing content that arrived through a site-wide feed or sitemap. */
+function isMarketingContent(title, url) {
+  if (url && NOT_POSTING_URL.test(String(url))) return true;
+  const t = String(title || '');
+  if (BLOG_HEADLINE.test(t)) return true;
+  // Vacancy titles are noun phrases. Prose this long is an article headline.
+  return t.split(/\s+/).length > 10;
+}
 
 /* A plural role noun at the end is a category heading, not a vacancy:
  * "Board of Directors", "Executive assistants", "Client Services". */
@@ -2083,7 +2121,7 @@ function reportOnly() {
  * over the classifiers so rendered jobs are scored by exactly the same rules
  * as fetched ones, instead of a second copy that drifts. */
 if (require.main !== module) {
-  module.exports = { score, boilerplateStacks, expWindows, stripHtml, RE_INDIA, RE_ENG_TITLE };
+  module.exports = { score, boilerplateStacks, expWindows, stripHtml, RE_INDIA, RE_ENG_TITLE, ownAtsBoard, ATS_HOSTS };
 } else if (ARGS.includes('--report-only')) reportOnly();
 else
   run().catch((e) => {

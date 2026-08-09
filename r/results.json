@@ -89,7 +89,7 @@
     {
      "url": "https://careers.jio.com",
      "status": 200,
-     "bytes": 79536
+     "bytes": 79533
     },
     {
      "url": "https://jio.com/careers",
@@ -239,7 +239,7 @@
     "workable:reliancejio -> no board"
    ]
   },
-  "ms": 14868
+  "ms": 14492
  },
  {
   "company": "Razorpay",
@@ -861,12 +861,12 @@
     {
      "url": "https://razorpay.com/careers",
      "status": 200,
-     "bytes": 950135
+     "bytes": 950237
     },
     {
      "url": "https://razorpay.com/career",
      "status": 200,
-     "bytes": 950242
+     "bytes": 950237
     },
     {
      "url": "https://razorpay.com/jobs",
@@ -891,7 +891,7 @@
     "greenhouse:razorpaysoftwareprivatelimited -> 23 jobs"
    ]
   },
-  "ms": 1774
+  "ms": 2231
  },
  {
   "company": "Rapido",
@@ -981,7 +981,7 @@
     "workable:rapido -> no board"
    ]
   },
-  "ms": 18244
+  "ms": 18522
  },
  {
   "company": "Rakuten India",
@@ -1373,7 +1373,7 @@
     {
      "url": "https://rakuten.com/",
      "status": 200,
-     "bytes": 1956918
+     "bytes": 1956914
     }
    ],
    "candidates": [
@@ -1388,7 +1388,7 @@
     "workday:rakuten -> 16 jobs"
    ]
   },
-  "ms": 23016
+  "ms": 19307
  },
  {
   "company": "Redbus",
@@ -1458,7 +1458,7 @@
     {
      "url": "https://redbus.in/",
      "status": 200,
-     "bytes": 449382
+     "bytes": 449372
     }
    ],
    "candidates": [
@@ -1476,7 +1476,7 @@
     "workable:redbus -> no board"
    ]
   },
-  "ms": 16900
+  "ms": 18217
  },
  {
   "company": "Robert Bosch India",
@@ -1549,7 +1549,7 @@
     "workable:bosch -> no board"
    ]
   },
-  "ms": 33692
+  "ms": 25829
  },
  {
   "company": "Rockwell Automation India",
@@ -2414,14 +2414,14 @@
     "workday:rockwellautomation -> 40 jobs"
    ]
   },
-  "ms": 27035
+  "ms": 22634
  },
  {
   "company": "Rupeek",
   "country": "India",
   "source": "headings:https://rupeek.com/careers",
   "error": null,
-  "totalJobs": 12,
+  "totalJobs": 11,
   "jobs": [
    {
     "title": "DevOps Engineer L1",
@@ -2470,21 +2470,6 @@
    },
    {
     "title": "Manager-Brand & Cluster Marketing",
-    "location": "",
-    "url": "https://rupeek.com/careers",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": true,
-    "exp": [],
-    "expFits2": false,
-    "score": -3
-   },
-   {
-    "title": "Program Manager",
     "location": "",
     "url": "https://rupeek.com/careers",
     "india": true,
@@ -2656,7 +2641,7 @@
     {
      "url": "https://rupeek.com/careers",
      "status": 200,
-     "bytes": 103229
+     "bytes": 101566
     },
     {
      "url": "https://rupeek.com/career",
@@ -2694,7 +2679,7 @@
     "workable:rupeek -> no board"
    ]
   },
-  "ms": 11774
+  "ms": 12557
  },
  {
   "company": "RBL Bank",
@@ -2757,7 +2742,7 @@
     "workable:rblbank -> no board"
    ]
   },
-  "ms": 20922
+  "ms": 26127
  },
  {
   "company": "Rebel Foods",
@@ -2893,7 +2878,7 @@
     "workable:rebelfoods -> no board"
    ]
   },
-  "ms": 57092
+  "ms": 44180
  },
  {
   "company": "Recko",
@@ -2927,7 +2912,7 @@
     {
      "url": "https://recko.io/jobs",
      "status": 403,
-     "bytes": 263
+     "bytes": 243
     },
     {
      "url": "https://recko.io/join-us",
@@ -2957,7 +2942,7 @@
     {
      "url": "https://recko.io/current-openings",
      "status": 403,
-     "bytes": 263
+     "bytes": 243
     },
     {
      "url": "https://recko.io/",
@@ -2978,7 +2963,7 @@
     {
      "url": "https://www.recko.io/career",
      "status": 403,
-     "bytes": 243
+     "bytes": 263
     },
     {
      "url": "https://www.recko.io/jobs",
@@ -2993,7 +2978,7 @@
     {
      "url": "https://www.recko.io/join-our-team",
      "status": 403,
-     "bytes": 243
+     "bytes": 263
     },
     {
      "url": "https://www.recko.io/careers.html",
@@ -3040,7 +3025,7 @@
     "workable:recko -> no board"
    ]
   },
-  "ms": 5064
+  "ms": 5397
  },
  {
   "company": "Red Hat India",
@@ -3782,7 +3767,7 @@
     "workday:redhat -> 40 jobs"
    ]
   },
-  "ms": 10425
+  "ms": 11193
  },
  {
   "company": "Reltio India",
@@ -3856,17 +3841,17 @@
     {
      "url": "https://reltio.com/careers",
      "status": 200,
-     "bytes": 106721
+     "bytes": 106677
     },
     {
      "url": "https://reltio.com/career",
      "status": 200,
-     "bytes": 106752
+     "bytes": 106699
     },
     {
      "url": "https://reltio.com/jobs",
      "status": 404,
-     "bytes": 88184
+     "bytes": 88201
     }
    ],
    "candidates": [
@@ -3884,7 +3869,7 @@
     "workable:reltio -> no board"
    ]
   },
-  "ms": 14209
+  "ms": 13195
  },
  {
   "company": "ReNew",
@@ -4640,7 +4625,7 @@
     {
      "url": "https://renew.com/careers",
      "status": 200,
-     "bytes": 304574
+     "bytes": 304573
     },
     {
      "url": "https://renew.com/career",
@@ -4650,12 +4635,12 @@
     {
      "url": "https://renew.com/jobs",
      "status": 200,
-     "bytes": 304573
+     "bytes": 304574
     },
     {
      "url": "https://renew.com/join-us",
      "status": 200,
-     "bytes": 304573
+     "bytes": 304574
     },
     {
      "url": "https://renew.com/join-our-team",
@@ -4670,7 +4655,7 @@
     {
      "url": "https://renew.com/company/careers",
      "status": 200,
-     "bytes": 304575
+     "bytes": 304574
     },
     {
      "url": "https://renew.com/about/careers",
@@ -4685,7 +4670,7 @@
     {
      "url": "https://renew.com/",
      "status": 200,
-     "bytes": 304574
+     "bytes": 304575
     },
     {
      "url": "https://careers.www.renew.com",
@@ -4701,12 +4686,12 @@
     {
      "url": "https://www.renew.com/career",
      "status": 200,
-     "bytes": 304575
+     "bytes": 304574
     },
     {
      "url": "https://www.renew.com/jobs",
      "status": 200,
-     "bytes": 304575
+     "bytes": 304574
     },
     {
      "url": "https://www.renew.com/join-us",
@@ -4726,22 +4711,22 @@
     {
      "url": "https://www.renew.com/company/careers",
      "status": 200,
-     "bytes": 304575
+     "bytes": 304574
     },
     {
      "url": "https://www.renew.com/about/careers",
      "status": 200,
-     "bytes": 304574
+     "bytes": 304575
     },
     {
      "url": "https://www.renew.com/current-openings",
      "status": 200,
-     "bytes": 304575
+     "bytes": 304574
     },
     {
      "url": "https://www.renew.com/",
      "status": 200,
-     "bytes": 304573
+     "bytes": 304574
     },
     {
      "url": "https://careers.renew.com/go/Business-Development-Jobs/622944/",
@@ -4766,7 +4751,7 @@
     "successfactors:careers.renew.com -> 32 jobs"
    ]
   },
-  "ms": 6752
+  "ms": 9769
  },
  {
   "company": "Rentomojo",
@@ -4843,7 +4828,7 @@
     "workable:rentomojo -> no board"
    ]
   },
-  "ms": 9091
+  "ms": 4960
  },
  {
   "company": "Republic Media",
@@ -4867,12 +4852,12 @@
     {
      "url": "https://republicworld.com/careers",
      "status": 200,
-     "bytes": 422494
+     "bytes": 424320
     },
     {
      "url": "https://republicworld.com/career",
      "status": 404,
-     "bytes": 237127
+     "bytes": 236867
     }
    ],
    "candidates": [
@@ -4900,7 +4885,7 @@
     "workable:republicworld -> no board"
    ]
   },
-  "ms": 15062
+  "ms": 11854
  },
  {
   "company": "Revolut India",
@@ -4925,12 +4910,12 @@
     {
      "url": "https://revolut.com/careers",
      "status": 403,
-     "bytes": 873121
+     "bytes": 873143
     },
     {
      "url": "https://revolut.com/career",
      "status": 403,
-     "bytes": 873118
+     "bytes": 873140
     },
     {
      "url": "https://revolut.com/jobs",
@@ -4940,7 +4925,7 @@
     {
      "url": "https://revolut.com/join-us",
      "status": 403,
-     "bytes": 873121
+     "bytes": 873143
     },
     {
      "url": "https://revolut.com/join-our-team",
@@ -4963,7 +4948,7 @@
     "workable:revolut -> no board"
    ]
   },
-  "ms": 10806
+  "ms": 10227
  },
  {
   "company": "Ripplehire",
@@ -5117,7 +5102,7 @@
     "workable:ripplehire -> no board"
    ]
   },
-  "ms": 25423
+  "ms": 25376
  },
  {
   "company": "Rocketlane",
@@ -5706,7 +5691,7 @@
     "workable:rocketlane -> no board"
    ]
   },
-  "ms": 18743
+  "ms": 15553
  },
  {
   "company": "Roposo",
@@ -5724,7 +5709,7 @@
    "pages": [],
    "attempts": []
   },
-  "ms": 90003
+  "ms": 90001
  },
  {
   "company": "Decklar (formerly Roambee)",
@@ -5748,37 +5733,37 @@
     {
      "url": "https://decklar.com/careers",
      "status": 404,
-     "bytes": 311998
+     "bytes": 312186
     },
     {
      "url": "https://decklar.com/career",
      "status": 404,
-     "bytes": 311998
+     "bytes": 312186
     },
     {
      "url": "https://decklar.com/jobs",
      "status": 404,
-     "bytes": 311998
+     "bytes": 312186
     },
     {
      "url": "https://decklar.com/join-us",
      "status": 404,
-     "bytes": 311998
+     "bytes": 312186
     },
     {
      "url": "https://decklar.com/join-our-team",
      "status": 404,
-     "bytes": 311998
+     "bytes": 312186
     },
     {
      "url": "https://decklar.com/careers.html",
      "status": 404,
-     "bytes": 311998
+     "bytes": 312186
     },
     {
      "url": "https://decklar.com/company/careers",
      "status": 200,
-     "bytes": 383755
+     "bytes": 383943
     }
    ],
    "candidates": [
@@ -5800,13 +5785,13 @@
     "workable:decklar -> no board"
    ]
   },
-  "ms": 36738
+  "ms": 34348
  },
  {
   "company": "Routematic",
   "country": "India",
   "source": null,
-  "error": "blocked-or-error-response",
+  "error": "careers-page-unreachable",
   "totalJobs": 0,
   "jobs": [],
   "enriched": 0,
@@ -5823,53 +5808,53 @@
     },
     {
      "url": "https://routematic.com/careers",
-     "status": 307,
-     "bytes": 1411
+     "status": 429,
+     "bytes": 120
     },
     {
      "url": "https://routematic.com/career",
-     "status": 307,
-     "bytes": 1411
+     "status": 429,
+     "bytes": 120
     },
     {
      "url": "https://routematic.com/jobs",
-     "status": 307,
-     "bytes": 1411
+     "status": 429,
+     "bytes": 120
     },
     {
      "url": "https://routematic.com/join-us",
-     "status": 307,
-     "bytes": 1411
+     "status": 429,
+     "bytes": 120
     },
     {
      "url": "https://routematic.com/join-our-team",
-     "status": 307,
-     "bytes": 1411
+     "status": 429,
+     "bytes": 120
     },
     {
      "url": "https://routematic.com/careers.html",
-     "status": 307,
-     "bytes": 1411
+     "status": 429,
+     "bytes": 120
     },
     {
      "url": "https://routematic.com/company/careers",
-     "status": 307,
-     "bytes": 1411
+     "status": 429,
+     "bytes": 120
     },
     {
      "url": "https://routematic.com/about/careers",
-     "status": 307,
-     "bytes": 1307
+     "status": 429,
+     "bytes": 120
     },
     {
      "url": "https://routematic.com/current-openings",
-     "status": 307,
-     "bytes": 1307
+     "status": 429,
+     "bytes": 120
     },
     {
      "url": "https://routematic.com/",
-     "status": 307,
-     "bytes": 1307
+     "status": 429,
+     "bytes": 120
     },
     {
      "url": "https://careers.www.routematic.com",
@@ -5879,8 +5864,53 @@
     },
     {
      "url": "https://www.routematic.com/careers",
-     "status": 307,
-     "bytes": 1359
+     "status": 429,
+     "bytes": 120
+    },
+    {
+     "url": "https://www.routematic.com/career",
+     "status": 429,
+     "bytes": 120
+    },
+    {
+     "url": "https://www.routematic.com/jobs",
+     "status": 429,
+     "bytes": 120
+    },
+    {
+     "url": "https://www.routematic.com/join-us",
+     "status": 429,
+     "bytes": 120
+    },
+    {
+     "url": "https://www.routematic.com/join-our-team",
+     "status": 429,
+     "bytes": 120
+    },
+    {
+     "url": "https://www.routematic.com/careers.html",
+     "status": 429,
+     "bytes": 120
+    },
+    {
+     "url": "https://www.routematic.com/company/careers",
+     "status": 429,
+     "bytes": 120
+    },
+    {
+     "url": "https://www.routematic.com/about/careers",
+     "status": 429,
+     "bytes": 120
+    },
+    {
+     "url": "https://www.routematic.com/current-openings",
+     "status": 429,
+     "bytes": 120
+    },
+    {
+     "url": "https://www.routematic.com/",
+     "status": 429,
+     "bytes": 120
     }
    ],
    "candidates": [
@@ -5898,7 +5928,7 @@
     "workable:routematic -> no board"
    ]
   },
-  "ms": 18367
+  "ms": 6240
  },
  {
   "company": "Rubrik India",
@@ -5923,52 +5953,47 @@
     {
      "url": "https://rubrik.com/careers",
      "status": 200,
-     "bytes": 105187
+     "bytes": 105188
     },
     {
      "url": "https://rubrik.com/career",
      "status": 404,
-     "bytes": 94987
+     "bytes": 94992
     },
     {
      "url": "https://rubrik.com/jobs",
      "status": 404,
-     "bytes": 94980
+     "bytes": 94992
     },
     {
      "url": "https://rubrik.com/join-us",
      "status": 404,
-     "bytes": 94987
+     "bytes": 94992
     },
     {
      "url": "https://rubrik.com/join-our-team",
      "status": 404,
-     "bytes": 94987
+     "bytes": 94992
     },
     {
      "url": "https://rubrik.com/careers.html",
      "status": 200,
-     "bytes": 105187
+     "bytes": 105186
     },
     {
      "url": "https://rubrik.com/company/careers",
      "status": 200,
-     "bytes": 105187
+     "bytes": 105186
     },
     {
      "url": "https://rubrik.com/about/careers",
      "status": 404,
-     "bytes": 94980
+     "bytes": 94992
     },
     {
      "url": "https://rubrik.com/current-openings",
      "status": 404,
-     "bytes": 94987
-    },
-    {
-     "url": "https://rubrik.com/",
-     "status": 200,
-     "bytes": 159387
+     "bytes": 94984
     }
    ],
    "candidates": [
@@ -5986,7 +6011,7 @@
     "workable:rubrik -> no board"
    ]
   },
-  "ms": 33480
+  "ms": 31753
  },
  {
   "company": "Rupifi",
@@ -6074,7 +6099,7 @@
     "workable:rupifi -> no board"
    ]
   },
-  "ms": 5558
+  "ms": 5845
  },
  {
   "company": "Ripik.ai",
@@ -6244,7 +6269,7 @@
     "workable:ripik -> no board"
    ]
   },
-  "ms": 24001
+  "ms": 22643
  },
  {
   "company": "Ramco Systems",
@@ -6381,7 +6406,7 @@
     "workable:ramco -> no board"
    ]
   },
-  "ms": 33370
+  "ms": 27506
  },
  {
   "company": "RateGain",
@@ -6525,7 +6550,7 @@
     "workable:rategain -> no board"
    ]
   },
-  "ms": 16174
+  "ms": 17448
  },
  {
   "company": "Reveal Health",
@@ -6625,7 +6650,7 @@
     "workable:revealhealthtech -> no board"
    ]
   },
-  "ms": 12080
+  "ms": 11403
  },
  {
   "company": "Robosoft Technologies",
@@ -6905,7 +6930,7 @@
     "workable:robosoftin -> no board"
    ]
   },
-  "ms": 8195
+  "ms": 5986
  },
  {
   "company": "Radisys India",
@@ -6988,7 +7013,7 @@
     "workable:radisys -> no board"
    ]
   },
-  "ms": 42938
+  "ms": 43232
  },
  {
   "company": "Raksha Health",
@@ -7141,7 +7166,7 @@
     "workable:rakshatpa -> no board"
    ]
   },
-  "ms": 6729
+  "ms": 6271
  },
  {
   "company": "Rambus India",
@@ -8171,7 +8196,7 @@
     "icims:rambus -> 57 jobs"
    ]
   },
-  "ms": 19185
+  "ms": 20696
  },
  {
   "company": "Rapyder Cloud",
@@ -8237,7 +8262,7 @@
     "workable:rapyder -> no board"
    ]
   },
-  "ms": 17610
+  "ms": 19312
  },
  {
   "company": "Rasa India",
@@ -8385,7 +8410,7 @@
     "ashby:Rasa -> 2 jobs"
    ]
   },
-  "ms": 6117
+  "ms": 4625
  },
  {
   "company": "Ratnaafin",
@@ -8453,7 +8478,7 @@
     "workable:ratnaafin -> no board"
    ]
   },
-  "ms": 5267
+  "ms": 4753
  },
  {
   "company": "Rayonier India",
@@ -8768,7 +8793,7 @@
     "workday:rayonier -> 14 jobs"
    ]
   },
-  "ms": 9832
+  "ms": 10066
  },
  {
   "company": "Razer India",
@@ -9534,7 +9559,7 @@
     {
      "url": "https://razer.com/careers",
      "status": 404,
-     "bytes": 1326878
+     "bytes": 1326319
     },
     {
      "url": "https://razer.com/career",
@@ -9554,15 +9579,39 @@
     "workday:razer -> 40 jobs"
    ]
   },
-  "ms": 9089
+  "ms": 8218
  },
  {
   "company": "Reckitt India",
   "country": "India",
   "source": "successfactors:careers.reckitt.com",
   "error": null,
-  "totalJobs": 43,
+  "totalJobs": 45,
   "jobs": [
+   {
+    "title": "Production supervisor - Packing",
+    "location": "Chachoengsao, Chachoengsao, TH, N/A",
+    "url": "https://careers.reckitt.com/job/Chachoengsao-Production-supervisor-Packing-Chac-NA/1369371333/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [
+     [
+      2,
+      6
+     ],
+     [
+      2,
+      3
+     ]
+    ],
+    "expFits2": true,
+    "score": 30
+   },
    {
     "title": "Nights Maintenance Supervisor",
     "location": "Zeeland, MI, US, 49464",
@@ -9607,26 +9656,6 @@
     "title": "EMO Quality Associate",
     "location": "Shanghai, Shanghai, CN, N/A",
     "url": "https://careers.reckitt.com/job/Shanghai-EMO-Quality-Associate-Shan-NA/1412643533/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [
-     [
-      3,
-      7
-     ]
-    ],
-    "expFits2": false,
-    "score": 24
-   },
-   {
-    "title": "EMO Quality Associate",
-    "location": "Shanghai, Shanghai, CN, N/A",
-    "url": "https://careers.reckitt.com/job/Shanghai-EMO-Quality-Associate-Shan-NA/1412645833/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
@@ -9757,26 +9786,6 @@
     "score": 16
    },
    {
-    "title": "Hospital Nutrition Business Manager - Enfamil Infant Formula - Huntsville, AL",
-    "location": "Huntsville, AL, US, 35801",
-    "url": "https://careers.reckitt.com/job/Huntsville-Hospital-Nutrition-Business-Manager-Enfamil-Infant-Formula-Huntsville%2C-AL-AL-35801/1413937033/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": true,
-    "exp": [
-     [
-      2,
-      6
-     ]
-    ],
-    "expFits2": true,
-    "score": 8
-   },
-   {
     "title": "IT&D Senior Data Scientist",
     "location": "Warszawa, Mazovia Province, PL, N/A",
     "url": "https://careers.reckitt.com/job/Warszawa-IT&D-Senior-Data-Scientist-Mazo-NA/1403230833/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
@@ -9797,19 +9806,24 @@
     "score": 8
    },
    {
-    "title": "Talent Acquisition Business Partner",
-    "location": "Chartres, Centre, FR, 28000",
-    "url": "https://careers.reckitt.com/job/Chartres-Talent-Acquisition-Business-Partner-Cent-28000/1413835733/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+    "title": "Hospital Nutrition Business Manager - Enfamil Infant Formula - Huntsville, AL",
+    "location": "Huntsville, AL, US, 35801",
+    "url": "https://careers.reckitt.com/job/Huntsville-Hospital-Nutrition-Business-Manager-Enfamil-Infant-Formula-Huntsville%2C-AL-AL-35801/1413937033/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
     "isEng": false,
     "java": false,
     "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 4
+    "senior": true,
+    "exp": [
+     [
+      2,
+      6
+     ]
+    ],
+    "expFits2": true,
+    "score": 8
    },
    {
     "title": "Aseptic Packaging Operator",
@@ -9827,39 +9841,24 @@
     "score": 4
    },
    {
-    "title": "RAS Assistant",
-    "location": "Milano, Lombardia, IT, 20141",
-    "url": "https://careers.reckitt.com/job/Milano-RAS-Assistant-Lomb-20141/1413776233/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 4
-   },
-   {
-    "title": "Digital media Strategist F/H",
-    "location": "Massy, Ile-de-France, FR, 91300",
-    "url": "https://careers.reckitt.com/job/Massy-Digital-media-Strategist-FH-Ile-91300/1413694333/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 4
-   },
-   {
     "title": "PC Training Coordinator",
     "location": "Samut Prakan, Samut Prakan, TH, N/A",
     "url": "https://careers.reckitt.com/job/Samut-Prakan-PC-Training-Coordinator-Samu-NA/1403141333/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 4
+   },
+   {
+    "title": "RAS Assistant",
+    "location": "Milano, Lombardia, IT, 20141",
+    "url": "https://careers.reckitt.com/job/Milano-RAS-Assistant-Lomb-20141/1413776233/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
@@ -9917,21 +9916,6 @@
     "score": 4
    },
    {
-    "title": "Process Technologist (1 year Contract)",
-    "location": "Chachoengsao, Chachoengsao, TH, N/A",
-    "url": "https://careers.reckitt.com/job/Chachoengsao-Process-Technologist-%281-year-Contract%29-Chac-NA/1413126133/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 4
-   },
-   {
     "title": "Gebietsleiter OTC - Bremen / Oldenburg / Emden / Cuxhaven / Buxtehude / Langenhagen (all genders)",
     "location": "Bremen, Bremen, DE, 38300",
     "url": "https://careers.reckitt.com/job/Bremen-Gebietsleiter-OTC-Bremen-Oldenburg-Emden-Cuxhaven-Buxtehude-Langenhagen-%28all-genders%29-Brem-38300/1403058033/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
@@ -9947,9 +9931,69 @@
     "score": 4
    },
    {
+    "title": "Process Technologist (1 year Contract)",
+    "location": "Chachoengsao, Chachoengsao, TH, N/A",
+    "url": "https://careers.reckitt.com/job/Chachoengsao-Process-Technologist-%281-year-Contract%29-Chac-NA/1413126133/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 4
+   },
+   {
     "title": "Technical Operator, Multi-Pak",
     "location": "Evansville, IN, US, 47701",
     "url": "https://careers.reckitt.com/job/Evansville-Technical-Operator%2C-Multi-Pak-IN-47701/1413527733/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 4
+   },
+   {
+    "title": "R&D LIMS Static Data Assistant",
+    "location": "Kingston upon Hull, East Yorkshire, GB, HU1 1AA",
+    "url": "https://careers.reckitt.com/job/Kingston-upon-Hull-R&D-LIMS-Static-Data-Assistant-East-HU1-1AA/1400410133/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 4
+   },
+   {
+    "title": "Talent Acquisition Business Partner",
+    "location": "Chartres, Centre, FR, 28000",
+    "url": "https://careers.reckitt.com/job/Chartres-Talent-Acquisition-Business-Partner-Cent-28000/1413835733/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 4
+   },
+   {
+    "title": "Digital media Strategist F/H",
+    "location": "Massy, Ile-de-France, FR, 91300",
+    "url": "https://careers.reckitt.com/job/Massy-Digital-media-Strategist-FH-Ile-91300/1413694333/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
@@ -10057,30 +10101,6 @@
     "score": -7
    },
    {
-    "title": "IT&D Senior Analyst, Network Services",
-    "location": "Hyderabad, Telangana, IN, N/A",
-    "url": "https://careers.reckitt.com/job/Hyderabad-IT&D-Senior-Analyst%2C-Network-Services-Tela-NA/1402350433/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-    "india": true,
-    "locationSaysIndia": true,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": true,
-    "exp": [
-     [
-      10,
-      14
-     ],
-     [
-      10,
-      11
-     ]
-    ],
-    "expFits2": false,
-    "score": -7
-   },
-   {
     "title": "IT&D Manager, Advanced RGM LSM",
     "location": "Hyderabad, Telangana, IN, N/A",
     "url": "https://careers.reckitt.com/job/Hyderabad-IT&D-Manager%2C-Advanced-RGM-LSM-Tela-NA/1401902933/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
@@ -10099,6 +10119,50 @@
      [
       8,
       12
+     ]
+    ],
+    "expFits2": false,
+    "score": -7
+   },
+   {
+    "title": "IT&D Senior Analyst SAP Procurement",
+    "location": "Hyderabad, Telangana, IN, N/A",
+    "url": "https://careers.reckitt.com/job/Hyderabad-IT&D-Senior-Analyst-SAP-Procurement-Tela-NA/1412784833/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+    "india": true,
+    "locationSaysIndia": true,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [
+     [
+      7,
+      12
+     ]
+    ],
+    "expFits2": false,
+    "score": -7
+   },
+   {
+    "title": "IT&D Senior Analyst, Network Services",
+    "location": "Hyderabad, Telangana, IN, N/A",
+    "url": "https://careers.reckitt.com/job/Hyderabad-IT&D-Senior-Analyst%2C-Network-Services-Tela-NA/1402350433/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+    "india": true,
+    "locationSaysIndia": true,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [
+     [
+      10,
+      14
+     ],
+     [
+      10,
+      11
      ]
     ],
     "expFits2": false,
@@ -10209,9 +10273,9 @@
     "score": -18
    },
    {
-    "title": "IT&D Solution Architect, SAP Manufacturing",
-    "location": "Shanghai, Shanghai, CN, N/A",
-    "url": "https://careers.reckitt.com/job/Shanghai-IT&D-Solution-Architect%2C-SAP-Manufacturing-Shan-NA/1413148333/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+    "title": "Manufacturing Integration Lead",
+    "location": "Slough, Berkshire, GB, SL1 1DT",
+    "url": "https://careers.reckitt.com/job/Slough-Manufacturing-Integration-Lead-Berk-SL1-1DT/1402295133/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
@@ -10224,9 +10288,9 @@
     "score": -18
    },
    {
-    "title": "Manufacturing Integration Lead",
-    "location": "Slough, Berkshire, GB, SL1 1DT",
-    "url": "https://careers.reckitt.com/job/Slough-Manufacturing-Integration-Lead-Berk-SL1-1DT/1402295133/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+    "title": "IT&D Solution Architect, SAP Manufacturing",
+    "location": "Shanghai, Shanghai, CN, N/A",
+    "url": "https://careers.reckitt.com/job/Shanghai-IT&D-Solution-Architect%2C-SAP-Manufacturing-Shan-NA/1413148333/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
@@ -10254,26 +10318,6 @@
     "score": -18
    },
    {
-    "title": "Head of FP&A ANZ",
-    "location": "Sydney, New South Wales, AU, 2000",
-    "url": "https://careers.reckitt.com/job/Sydney-Head-of-FP&A-ANZ-New-2000/1413563033/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": true,
-    "exp": [
-     [
-      10,
-      14
-     ]
-    ],
-    "expFits2": false,
-    "score": -22
-   },
-   {
     "title": "IT&D Manager, EUC",
     "location": "Warszawa, Mazovia Province, PL, N/A",
     "url": "https://careers.reckitt.com/job/Warszawa-IT&D-Manager%2C-EUC-Mazo-NA/1403348133/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
@@ -10292,6 +10336,26 @@
      [
       5,
       6
+     ]
+    ],
+    "expFits2": false,
+    "score": -22
+   },
+   {
+    "title": "Head of FP&A ANZ",
+    "location": "Sydney, New South Wales, AU, 2000",
+    "url": "https://careers.reckitt.com/job/Sydney-Head-of-FP&A-ANZ-New-2000/1413563033/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [
+     [
+      10,
+      14
      ]
     ],
     "expFits2": false,
@@ -10342,11 +10406,11 @@
   "matches": [],
   "nearMatches": [],
   "closest": {
-   "title": "Nights Maintenance Supervisor",
-   "location": "Zeeland, MI, US, 49464",
-   "url": "https://careers.reckitt.com/job/Zeeland-Nights-Maintenance-Supervisor-MI-49464/1412922733/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+   "title": "Production supervisor - Packing",
+   "location": "Chachoengsao, Chachoengsao, TH, N/A",
+   "url": "https://careers.reckitt.com/job/Chachoengsao-Production-supervisor-Packing-Chac-NA/1369371333/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
    "team": "",
-   "text": "We are Reckitt Home to the world's best loved and trusted hygiene, health, and nutrition brands. Our purpose defines why we exist: to protect, heal and nurture in the relentless pursuit of a cleaner, healthier world. We are a global team united by this purpose. Join us in our fight to make access to the highest quality hygiene, wellness, and nourishment a right and not a privilege. ​Supply​ Our supply chain is the backbone of our business. It's how we get our trusted products to people all over the world, safely and efficiently. And it's our talented and passionate teams that make this happen. If you're looking for a career in supply chain, there's no better place to be than Reckitt. We offer a variety of exciting opportunities in all areas of the supply chain, from planning and procurement to manufacturing and logistics. You could join our Global Supply Planning team to develop and implement our global supply strategy, or work with our Procurement Centre of Excellence team to negotiate and manage our supplier relationships. Our Manufacturing Excellence team help us improve the efficiency, quality and safety of our manufacturing operations, and our Logistics Excellence team develop new and innovative ways to distribute our products to customers. About the role Embark on a transformative leadership journey with Reckitt as our nights Maintenance Supervisor. In this strategic role, you will inspire and oversee a skilled engineering team within one of our bustling large-scale factories. Your expertise will be pivotal in executing projects that enhance our operational efficiency and adapt to the evolving supply chain demands. If you're someone who thrives in an environment where proactive improvement is the norm, this opportunity will empower you to make impactful decisions and champion innovations that shape our industry. Your responsibilities Off shift maintenance team supervision, providing effective direction, prioritization, and resource management. Lead a team of skilled trades persons to support a complex manufacturing environment. Provides technical leadership within the maintenance group to resolve, troubleshoot or escalate production, machine, and process issues. Builds technical competencies within the off-shift maintenance team by coaching and sharing technical knowledge and training. Completes administrative tasks to support the team and processes. Support projects with both internal as well as external resources. Coordinates and oversees the maintenance activities including PM, corrective work, emergency work, shift to shift handoff and asset health events. Lead process improvement projects through lean, 5S and Six Sigma projects. Deliver and report on KPI metrics. Performs all job functions in full compliance within Reckitt policies and procedures. Spends 80% of the time on the shop floor supporting the maintenance team. Gathers shift to shift information and communicates in an effective manner so that a detailed understanding of the issues is understood. Support the main pillars of maintenance: predictive maintenance technologies, root cause and 8 step problem solving, operator care, maintenance storeroom optimization, and planning This role is not currently sponsoring visas or considering international movement at this time. The experience we're looking for High school diploma required with a 2-year technical degree preferred (mechanical, electrical, mechatronics) or equivalent Minimum of 2+ years production maintenance experience and/or candidate preferred 2+ years of maintenance or food manufacturing supervisory experience Strong knowledge in packaging, processing, and manufacturing maintenance in addition to reliability maintenance processes GMP and food production knowledge preferred Proven decision-making skills Strong troubleshooting, planning, prioritizing and delegating skills Ability to communicate and work effectively in a team-oriented environment Self-starter with strong leadership, analytical, administrative and people skills Ability to handle multiple priorities Proven supervisory skills and the ability to deliver technical concepts to a customer base with a wide variety and degree of technical competence Highly results oriented, accountable for decisions Ability to establish rapport and energize employees to work as a team in a transitional business unit Flexible work hours and some weekend coverage What we offer With inclusion at the heart of everything we do, working alongside our four global Employee Resource Groups, we support our people at every step of their career journey, helping them to succeed in their own individual way. We invest in the wellbeing of our people through parental benefits, an Employee Assistance Program to promote mental health, and life insurance for all employees globally. We have a range of other benefits in line with the local market. Through our global share plans we offer the opportunity to save and share in Reckitt's potential future successes. For eligible roles, we also offer short-term incentives to recognise, appreciate and reward your work for delivering outstanding results. You will be rewarded in line with Reckitt's pay for performance philosophy. US salary ranges USD $73,000.00 - $109,000.00 US pay transparency The base salary range for this role will vary based on experience in job and industry, training and education, skills relevant to the position, and other factors permitted by law. In addition to the base salary, the position is eligible for an annual discretionary bonus, which is subject to change each year. Reckitt offers eligible employees competitive benefits including medical, prescription, dental, vision, and life and disability insurance; paid time off for vacation, sick and Company recognized holidays; a 401(k) plan; 16-week paid parental leave or 26 weeks for the birthing parent; adoption and fertility support; tuition reimbursement; discounts; and much more. Our compensation and benefits packages aim to give our talent the reward, protection, and peace of mind they deserve. If reasonable accommodation is needed to complete your application, please contact NAtalentacquisition@reckitt.com. Reckitt is committed to the full inclusion of all qualified individuals. Equality We recognise that in real life, great people don't always 'tick all the boxes'. That's why we hire for potential as well as experience. Even if you don't meet every point on the job description, if this role and our company feels like a good fit for you, we still want to hear from you. All qualified applicants will receive consideration for employment without regard to age, disability or medical condition; colour, ethnicity, race, citizenship, and national origin; religion, faith; pregnancy, family status and caring responsibilities; sexual orientation; sex, gender identity, gender expression, and transgender identity; protected veteran status; size or any other basis protected by appropriate law.",
+   "text": "We are Reckitt Home to the world's best loved and trusted hygiene, health, and nutrition brands. Our purpose defines why we exist: to protect, heal and nurture in the relentless pursuit of a cleaner, healthier world. We are a global team united by this purpose. Join us in our fight to make access to the highest quality hygiene, wellness, and nourishment a right and not a privilege. ​Supply​ Our supply chain is the backbone of our business. It's how we get our trusted products to people all over the world, safely and efficiently. And it's our talented and passionate teams that make this happen. If you're looking for a career in supply chain, there's no better place to be than Reckitt. We offer a variety of exciting opportunities in all areas of the supply chain, from planning and procurement to manufacturing and logistics. You could join our Global Supply Planning team to develop and implement our global supply strategy, or work with our Procurement Centre of Excellence team to negotiate and manage our supplier relationships. Our Manufacturing Excellence team help us improve the efficiency, quality and safety of our manufacturing operations, and our Logistics Excellence team develop new and innovative ways to distribute our products to customers. About the role To oversee and coordinate production activities, ensuring that all processes, equipment, and personnel comply with company standards, safety regulations, and quality requirements. The Production Supervisor drives teams to achieve KPIs in terms of Safety, Quality, Service, and Cost as per company requirements. This role also leads problem-solving efforts and ensures balanced contribution from the team while supporting continuous improvement initiatives to meet site objectives. Your responsibilities Ensure operators and subordinates perform tasks according to established standards. Summarize and report work results on a daily, weekly, and monthly basis to supervisory management. Implement corrective actions as directed by the Manager. Maintain cleanliness of all relevant plant areas and equipment to ensure compliance with Good Manufacturing Practices (GMP). Ensure teams operate equipment and follow processes safely, in compliance with Standard Operating Procedures (SOPs) and environmental requirements. Ensure team members understand and comply with company environmental, health, and safety policies and procedures, and align with site objectives. Monitor assigned processes and promptly report any irregularities or out-of-specification conditions to the supervisor for appropriate action. Perform other reasonable duties as assigned by supervisory management. The experience we're looking for Bachelor’s degree in Engineering, Industrial Management, or related field (or equivalent experience). Minimum 2 years of experience in production or manufacturing operations Knowledge of Good Manufacturing Practices (GMP) and Standard Operating Procedures (SOPs). The skills for success Understanding of safety, quality, and environmental compliance requirements. Ability to analyze production data and implement corrective actions. Strong leadership and team management skills. Problem-solving and decision-making abilities. Effective communication and reporting skills. Ability to work under pressure and meet deadlines. Ability to communicate in English. Ability to work on shift and 6 working day per week What we offer With inclusion at the heart of everything we do, working alongside our four global Employee Resource Groups, we support our people at every step of their career journey, helping them to succeed in their own individual way. We invest in the wellbeing of our people through parental benefits, an Employee Assistance Program to promote mental health, and life insurance for all employees globally. We have a range of other benefits in line with the local market. Through our global share plans we offer the opportunity to save and share in Reckitt's potential future successes. For eligible roles, we also offer short-term incentives to recognise, appreciate and reward your work for delivering outstanding results. You will be rewarded in line with Reckitt's pay for performance philosophy. Equality We recognise that in real life, great people don't always 'tick all the boxes'. That's why we hire for potential as well as experience. Even if you don't meet every point on the job description, if this role and our company feels like a good fit for you, we still want to hear from you. All qualified applicants will receive consideration for employment without regard to age, disability or medical condition; colour, ethnicity, race, citizenship, and national origin; religion, faith; pregnancy, family status and caring responsibilities; sexual orientation; sex, gender identity, gender expression, and transgender identity; protected veteran status; size or any other basis protected by appropriate law.",
    "score": 30,
    "isMatch": false,
    "isEng": false,
@@ -10360,6 +10424,10 @@
     [
      2,
      6
+    ],
+    [
+     2,
+     3
     ]
    ],
    "expFits2": true
@@ -10392,10 +10460,10 @@
     "workable:reckitt(guess)"
    ],
    "attempts": [
-    "successfactors:careers.reckitt.com -> 43 jobs"
+    "successfactors:careers.reckitt.com -> 45 jobs"
    ]
   },
-  "ms": 8121
+  "ms": 10683
  },
  {
   "company": "Recur Club",
@@ -10545,7 +10613,7 @@
     "workable:recurclub -> no board"
    ]
   },
-  "ms": 17797
+  "ms": 17790
  },
  {
   "company": "Redington India",
@@ -10666,7 +10734,7 @@
     "workable:redingtongroup -> no board"
    ]
   },
-  "ms": 32458
+  "ms": 31853
  },
  {
   "company": "RedSeer",
@@ -10691,7 +10759,7 @@
     {
      "url": "https://redseer.com/careers",
      "status": 200,
-     "bytes": 191728
+     "bytes": 191730
     },
     {
      "url": "https://redseer.com/career",
@@ -10721,7 +10789,7 @@
     "workable:redseer -> no board"
    ]
   },
-  "ms": 5401
+  "ms": 4616
  },
  {
   "company": "Refyne",
@@ -10865,7 +10933,7 @@
     "workable:refyne -> no board"
    ]
   },
-  "ms": 15943
+  "ms": 13682
  },
  {
   "company": "Regeneron India",
@@ -10952,7 +11020,7 @@
     "workable:regeneron -> no board"
    ]
   },
-  "ms": 18198
+  "ms": 19057
  },
  {
   "company": "Relevance Lab",
@@ -11851,7 +11919,7 @@
     "workable:relevancelab -> no board"
    ]
   },
-  "ms": 12580
+  "ms": 11497
  },
  {
   "company": "Reliance Retail",
@@ -11995,7 +12063,7 @@
     "workable:relianceretail -> no board"
    ]
   },
-  "ms": 4005
+  "ms": 3041
  },
  {
   "company": "Rely",
@@ -12139,7 +12207,7 @@
     "workable:rely -> no board"
    ]
   },
-  "ms": 20347
+  "ms": 18006
  },
  {
   "company": "Resilinc India",
@@ -12292,7 +12360,7 @@
     "workable:resilinc -> no board"
    ]
   },
-  "ms": 19157
+  "ms": 19265
  },
  {
   "company": "Reveleer India",
@@ -12549,7 +12617,7 @@
     "breezy:reveleer -> 9 jobs"
    ]
   },
-  "ms": 8835
+  "ms": 8308
  },
  {
   "company": "Rezo.ai",
@@ -12649,7 +12717,7 @@
     "workable:rezo -> no board"
    ]
   },
-  "ms": 12777
+  "ms": 11146
  },
  {
   "company": "RIB Software India",
@@ -12793,7 +12861,7 @@
     "workable:ribsoftware -> no board"
    ]
   },
-  "ms": 13728
+  "ms": 11194
  },
  {
   "company": "Ridecell India",
@@ -12942,7 +13010,7 @@
     "workable:ridecell -> no board"
    ]
   },
-  "ms": 4127
+  "ms": 6198
  },
  {
   "company": "Rightpoint India",
@@ -13391,7 +13459,7 @@
     "jobvite:genpactexperience -> 18 jobs"
    ]
   },
-  "ms": 4834
+  "ms": 6183
  },
  {
   "company": "Rishabh Software",
@@ -13415,7 +13483,7 @@
     {
      "url": "https://rishabhsoft.com/careers",
      "status": 200,
-     "bytes": 263733
+     "bytes": 263734
     },
     {
      "url": "https://rishabhsoft.com/career",
@@ -13425,7 +13493,7 @@
     {
      "url": "https://rishabhsoft.com/jobs",
      "status": 404,
-     "bytes": 235607
+     "bytes": 235600
     }
    ],
    "candidates": [
@@ -13453,7 +13521,7 @@
     "workable:rishabhsoft -> no board"
    ]
   },
-  "ms": 25859
+  "ms": 21605
  },
  {
   "company": "RSPL Group",
@@ -13612,7 +13680,7 @@
     "workable:rsplgroup -> no board"
    ]
   },
-  "ms": 17142
+  "ms": 22485
  },
  {
   "company": "RtCamp",
@@ -14086,7 +14154,7 @@
     "workable:rtcamp -> no board"
    ]
   },
-  "ms": 13478
+  "ms": 14567
  },
  {
   "company": "R Systems International",
@@ -14111,12 +14179,12 @@
     {
      "url": "https://careers.rsystems.com",
      "status": 200,
-     "bytes": 9844
+     "bytes": 9886
     },
     {
      "url": "https://rsystems.com/careers",
      "status": 404,
-     "bytes": 153677
+     "bytes": 153260
     }
    ],
    "candidates": [
@@ -14134,7 +14202,7 @@
     "workable:rsystems -> no board"
    ]
   },
-  "ms": 20902
+  "ms": 18930
  },
  {
   "company": "Route Mobile",
@@ -14169,13 +14237,13 @@
    "pages": [],
    "attempts": []
   },
-  "ms": 287020
+  "ms": 288190
  },
  {
   "company": "RS Software (India)",
   "country": "India",
   "source": null,
-  "error": "no-job-data-found",
+  "error": "timed-out",
   "totalJobs": 0,
   "jobs": [],
   "enriched": 0,
@@ -14184,91 +14252,10 @@
   "closest": null,
   "closestEng": null,
   "trace": {
-   "pages": [
-    {
-     "url": "https://careers.rssoftware.com",
-     "status": 0,
-     "bytes": 0,
-     "error": "fetch failed"
-    },
-    {
-     "url": "https://rssoftware.com/careers",
-     "status": 200,
-     "bytes": 67141
-    },
-    {
-     "url": "https://rssoftware.com/career",
-     "status": 200,
-     "bytes": 67141
-    },
-    {
-     "url": "https://rssoftware.com/jobs",
-     "status": 200,
-     "bytes": 67141
-    },
-    {
-     "url": "https://rssoftware.com/join-us",
-     "status": 200,
-     "bytes": 67141
-    },
-    {
-     "url": "https://rssoftware.com/join-our-team",
-     "status": 200,
-     "bytes": 67141
-    },
-    {
-     "url": "https://rssoftware.com/careers.html",
-     "status": 200,
-     "bytes": 67141
-    },
-    {
-     "url": "https://rssoftware.com/company/careers",
-     "status": 404,
-     "bytes": 1130
-    },
-    {
-     "url": "https://rssoftware.com/about/careers",
-     "status": 404,
-     "bytes": 1130
-    },
-    {
-     "url": "https://rssoftware.com/current-openings",
-     "status": 200,
-     "bytes": 67141
-    },
-    {
-     "url": "https://rssoftware.com/",
-     "status": 200,
-     "bytes": 67141
-    },
-    {
-     "url": "https://careers.www.rssoftware.com",
-     "status": 0,
-     "bytes": 0,
-     "error": "fetch failed"
-    },
-    {
-     "url": "https://www.rssoftware.com/careers",
-     "status": 200,
-     "bytes": 67641
-    }
-   ],
-   "candidates": [
-    "greenhouse:rssoftware(guess)",
-    "lever:rssoftware(guess)",
-    "ashby:rssoftware(guess)",
-    "recruitee:rssoftware(guess)",
-    "workable:rssoftware(guess)"
-   ],
-   "attempts": [
-    "greenhouse:rssoftware -> no board",
-    "lever:rssoftware -> no board",
-    "ashby:rssoftware -> no board",
-    "recruitee:rssoftware -> no board",
-    "workable:rssoftware -> no board"
-   ]
+   "pages": [],
+   "attempts": []
   },
-  "ms": 16599
+  "ms": 286630
  },
  {
   "company": "Radixweb",
@@ -14352,7 +14339,7 @@
     "workable:radixweb -> no board"
    ]
   },
-  "ms": 9723
+  "ms": 11593
  },
  {
   "company": "Rlogical Techsoft",
@@ -14370,7 +14357,7 @@
    "pages": [],
    "attempts": []
   },
-  "ms": 281623
+  "ms": 277568
  },
  {
   "company": "Rapidops",
@@ -14389,7 +14376,7 @@
    "pages": [],
    "attempts": []
   },
-  "ms": 274962
+  "ms": 274786
  },
  {
   "company": "RipenApps Technologies",
@@ -14625,7 +14612,7 @@
     "workable:ripenapps -> no board"
    ]
   },
-  "ms": 2574
+  "ms": 3981
  },
  {
   "company": "RapidValue Solutions",
@@ -14643,7 +14630,7 @@
    "pages": [],
    "attempts": []
   },
-  "ms": 271951
+  "ms": 270690
  },
  {
   "company": "Ray Business Technologies",
@@ -14661,7 +14648,7 @@
    "pages": [],
    "attempts": []
   },
-  "ms": 271406
+  "ms": 269666
  },
  {
   "company": "Rite Software Solutions",
@@ -14679,7 +14666,7 @@
    "pages": [],
    "attempts": []
   },
-  "ms": 269558
+  "ms": 269207
  },
  {
   "company": "Reflections Info Systems",
@@ -14744,25 +14731,399 @@
    "pages": [],
    "attempts": []
   },
-  "ms": 266637
+  "ms": 268811
  },
  {
   "company": "Rejolut",
   "country": "India",
-  "source": null,
-  "error": "timed-out",
-  "totalJobs": 0,
-  "jobs": [],
-  "enriched": 0,
+  "source": "feed:https://rejolut.com",
+  "error": null,
+  "totalJobs": 10,
+  "jobs": [
+   {
+    "title": "React js Developer",
+    "location": "",
+    "url": "https://rejolut.com/jobs/react-js-developer/",
+    "india": true,
+    "locationSaysIndia": false,
+    "hasLocation": false,
+    "isEng": true,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [
+     [
+      1,
+      3
+     ],
+     [
+      1,
+      5
+     ]
+    ],
+    "expFits2": true,
+    "score": 75
+   },
+   {
+    "title": "Node JS Developer",
+    "location": "",
+    "url": "https://rejolut.com/jobs/node-js-developer/",
+    "india": true,
+    "locationSaysIndia": false,
+    "hasLocation": false,
+    "isEng": true,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [
+     [
+      1,
+      3
+     ]
+    ],
+    "expFits2": true,
+    "score": 75
+   },
+   {
+    "title": "HTML/CSS Developer",
+    "location": "",
+    "url": "https://rejolut.com/jobs/html-css-developer/",
+    "india": true,
+    "locationSaysIndia": false,
+    "hasLocation": false,
+    "isEng": true,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [
+     [
+      1,
+      3
+     ]
+    ],
+    "expFits2": true,
+    "score": 75
+   },
+   {
+    "title": "Golang Developer",
+    "location": "",
+    "url": "https://rejolut.com/jobs/golang-developer-2/",
+    "india": true,
+    "locationSaysIndia": false,
+    "hasLocation": false,
+    "isEng": true,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [
+     [
+      1,
+      3
+     ],
+     [
+      1,
+      5
+     ]
+    ],
+    "expFits2": true,
+    "score": 75
+   },
+   {
+    "title": "DevOps Engineer",
+    "location": "",
+    "url": "https://rejolut.com/jobs/devops-engineer/",
+    "india": true,
+    "locationSaysIndia": false,
+    "hasLocation": false,
+    "isEng": true,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [
+     [
+      1,
+      3
+     ]
+    ],
+    "expFits2": true,
+    "score": 75
+   },
+   {
+    "title": "Project Manager",
+    "location": "",
+    "url": "https://rejolut.com/jobs/project-manager/",
+    "india": true,
+    "locationSaysIndia": false,
+    "hasLocation": false,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [
+     [
+      2,
+      3
+     ]
+    ],
+    "expFits2": true,
+    "score": 23
+   },
+   {
+    "title": "Business Analyst",
+    "location": "",
+    "url": "https://rejolut.com/jobs/business-analyst/",
+    "india": true,
+    "locationSaysIndia": false,
+    "hasLocation": false,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 19
+   },
+   {
+    "title": "Human Resource Executive",
+    "location": "",
+    "url": "https://rejolut.com/jobs/human-resource-executive/",
+    "india": true,
+    "locationSaysIndia": false,
+    "hasLocation": false,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 19
+   },
+   {
+    "title": "VP Sales",
+    "location": "",
+    "url": "https://rejolut.com/jobs/vp-sales/",
+    "india": true,
+    "locationSaysIndia": false,
+    "hasLocation": false,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [],
+    "expFits2": false,
+    "score": -3
+   },
+   {
+    "title": "Business Development Manager",
+    "location": "",
+    "url": "https://rejolut.com/jobs/business-development-manager-2/",
+    "india": true,
+    "locationSaysIndia": false,
+    "hasLocation": false,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [],
+    "expFits2": false,
+    "score": -3
+   }
+  ],
+  "enriched": 5,
   "matches": [],
   "nearMatches": [],
-  "closest": null,
-  "closestEng": null,
-  "trace": {
-   "pages": [],
-   "attempts": []
+  "closest": {
+   "title": "React js Developer",
+   "location": "",
+   "url": "https://rejolut.com/jobs/react-js-developer/",
+   "team": "",
+   "text": "Rejolut is one of the award winning fastest growing emerging tech company which is working on leading technology like Blockchian, ML & AI, Complex mobile & web apps, IoT etc. The ideal candidate will be responsible for developing highly scalable and secure code. Navi Mumbai 1 - 3 years Job Description: Proficient in client & server-side JavaScript, HTML5, CSS3 and webpack Competent in building single page web applications using Node.js and React Js Redux for state management Universal rendering (Client-side rendering and Server-side rendering) Experience with cross-browser, cross-platform, and design constraints on the web Experience in developing automated unit and functional tests Experience in an agile development process Solid knowledge of algorithms and design patterns Have a passion for quality and writing clean, readable code that scales and performs well Good interpersonal communication skills 1+ years of software design and web application development Culture Close-knit, hardworking, supportive colleagues Challenging work Flat organization with no hierarchy If you like problem solving, and love latest technology, there are very few better places How we are different We are young and dynamic team who are obsessed with solving business problem at scale -We are a technology agnostic company who focus more on finding the optimal solution to business problem rather than technology Why to join us We provide huge learning curve. Spending 1.5-2 years with us will put you 3 years ahead in the career We work only on cutting edge technology like React, React Native, Flutter, NodeJS, Python, Go, Svelte, ELM There are two technology Co-founder in the company who are pretty much hands-on and have earlier bult the Consumer application which is downloaded millions of time and are in leadership position in copanies like Samsung, Purplle, Loylty Rewardz Get mentored by the best in the industry Flexible working hours Perks best in the industry Schedule: Day Shift/Flexible working hours Monday to Friday",
+   "_enriched": true,
+   "score": 75,
+   "isMatch": false,
+   "isEng": true,
+   "java": false,
+   "flutter": false,
+   "android": false,
+   "india": true,
+   "senior": false,
+   "junior": false,
+   "exp": [
+    [
+     1,
+     3
+    ],
+    [
+     1,
+     5
+    ]
+   ],
+   "expFits2": true
   },
-  "ms": 263959
+  "closestEng": {
+   "title": "React js Developer",
+   "location": "",
+   "url": "https://rejolut.com/jobs/react-js-developer/",
+   "team": "",
+   "text": "Rejolut is one of the award winning fastest growing emerging tech company which is working on leading technology like Blockchian, ML & AI, Complex mobile & web apps, IoT etc. The ideal candidate will be responsible for developing highly scalable and secure code. Navi Mumbai 1 - 3 years Job Description: Proficient in client & server-side JavaScript, HTML5, CSS3 and webpack Competent in building single page web applications using Node.js and React Js Redux for state management Universal rendering (Client-side rendering and Server-side rendering) Experience with cross-browser, cross-platform, and design constraints on the web Experience in developing automated unit and functional tests Experience in an agile development process Solid knowledge of algorithms and design patterns Have a passion for quality and writing clean, readable code that scales and performs well Good interpersonal communication skills 1+ years of software design and web application development Culture Close-knit, hardworking, supportive colleagues Challenging work Flat organization with no hierarchy If you like problem solving, and love latest technology, there are very few better places How we are different We are young and dynamic team who are obsessed with solving business problem at scale -We are a technology agnostic company who focus more on finding the optimal solution to business problem rather than technology Why to join us We provide huge learning curve. Spending 1.5-2 years with us will put you 3 years ahead in the career We work only on cutting edge technology like React, React Native, Flutter, NodeJS, Python, Go, Svelte, ELM There are two technology Co-founder in the company who are pretty much hands-on and have earlier bult the Consumer application which is downloaded millions of time and are in leadership position in copanies like Samsung, Purplle, Loylty Rewardz Get mentored by the best in the industry Flexible working hours Perks best in the industry Schedule: Day Shift/Flexible working hours Monday to Friday",
+   "_enriched": true,
+   "score": 75,
+   "isMatch": false,
+   "isEng": true,
+   "java": false,
+   "flutter": false,
+   "android": false,
+   "india": true,
+   "senior": false,
+   "junior": false,
+   "exp": [
+    [
+     1,
+     3
+    ],
+    [
+     1,
+     5
+    ]
+   ],
+   "expFits2": true
+  },
+  "trace": {
+   "pages": [
+    {
+     "url": "https://careers.rejolut.com",
+     "status": 0,
+     "bytes": 0,
+     "error": "fetch failed"
+    },
+    {
+     "url": "https://rejolut.com/careers",
+     "status": 200,
+     "bytes": 949076
+    },
+    {
+     "url": "https://rejolut.com/career",
+     "status": 200,
+     "bytes": 949076
+    },
+    {
+     "url": "https://rejolut.com/jobs",
+     "status": 200,
+     "bytes": 317411
+    },
+    {
+     "url": "https://rejolut.com/join-us",
+     "status": 200,
+     "bytes": 949076
+    },
+    {
+     "url": "https://rejolut.com/join-our-team",
+     "status": 200,
+     "bytes": 949076
+    },
+    {
+     "url": "https://rejolut.com/careers.html",
+     "status": 200,
+     "bytes": 949076
+    },
+    {
+     "url": "https://rejolut.com/company/careers",
+     "status": 200,
+     "bytes": 949076
+    },
+    {
+     "url": "https://rejolut.com/about/careers",
+     "status": 200,
+     "bytes": 949076
+    },
+    {
+     "url": "https://rejolut.com/current-openings",
+     "status": 200,
+     "bytes": 949076
+    },
+    {
+     "url": "https://rejolut.com/",
+     "status": 200,
+     "bytes": 949076
+    },
+    {
+     "url": "https://careers.www.rejolut.com",
+     "status": 0,
+     "bytes": 0,
+     "error": "fetch failed"
+    },
+    {
+     "url": "https://www.rejolut.com/careers",
+     "status": 200,
+     "bytes": 949076
+    },
+    {
+     "url": "https://www.rejolut.com/career",
+     "status": 200,
+     "bytes": 949076
+    },
+    {
+     "url": "https://www.rejolut.com/jobs",
+     "status": 200,
+     "bytes": 317411
+    },
+    {
+     "url": "https://www.rejolut.com/join-us",
+     "status": 200,
+     "bytes": 949076
+    },
+    {
+     "url": "https://www.rejolut.com/join-our-team",
+     "status": 200,
+     "bytes": 949076
+    },
+    {
+     "url": "https://www.rejolut.com/careers.html",
+     "status": 200,
+     "bytes": 949076
+    },
+    {
+     "url": "https://www.rejolut.com/company/careers",
+     "status": 200,
+     "bytes": 949076
+    },
+    {
+     "url": "https://www.rejolut.com/about/careers",
+     "status": 200,
+     "bytes": 949076
+    },
+    {
+     "url": "https://www.rejolut.com/current-openings",
+     "status": 200,
+     "bytes": 949076
+    },
+    {
+     "url": "https://www.rejolut.com/",
+     "status": 200,
+     "bytes": 949076
+    },
+    {
+     "url": "https://rejolut.com/career-at-rejolut/",
+     "status": 200,
+     "bytes": 598962
+    }
+   ],
+   "candidates": [
+    "greenhouse:rejolut(guess)",
+    "lever:rejolut(guess)",
+    "ashby:rejolut(guess)",
+    "recruitee:rejolut(guess)",
+    "workable:rejolut(guess)"
+   ],
+   "attempts": [
+    "greenhouse:rejolut -> no board",
+    "lever:rejolut -> no board",
+    "ashby:rejolut -> no board",
+    "recruitee:rejolut -> no board",
+    "workable:rejolut -> no board"
+   ]
+  },
+  "ms": 44782
  },
  {
   "company": "Radiansys",
@@ -15053,7 +15414,7 @@
     "workable:radiansys -> no board"
    ]
   },
-  "ms": 11638
+  "ms": 12217
  },
  {
   "company": "Redbytes Software",
@@ -15207,7 +15568,7 @@
     "workable:redbytes -> no board"
    ]
   },
-  "ms": 25593
+  "ms": 29408
  },
  {
   "company": "Rushkar Technology",
@@ -15295,218 +15656,20 @@
     "workable:rushkar -> no board"
    ]
   },
-  "ms": 27409
+  "ms": 28959
  },
  {
   "company": "Root Info Solutions",
   "country": "India",
   "careers": "https://rootinfosol.com/careers",
-  "source": "feed:https://www.rootinfosol.com",
-  "error": null,
-  "totalJobs": 12,
-  "jobs": [
-   {
-    "title": "Offshore QA That Actually Works: Test Strategy, Automation, and Review Gates (2026)",
-    "location": "",
-    "url": "https://www.rootinfosol.com/offshore-qa-that-actually-works-test-strategy-automation-review-gates/?utm_source=rss&utm_medium=rss&utm_campaign=offshore-qa-that-actually-works-test-strategy-automation-review-gates",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 19
-   },
-   {
-    "title": "Running Agile with Offshore Teams: Cadences, Tools, Communication, and Overlap Hours (2026)",
-    "location": "",
-    "url": "https://www.rootinfosol.com/running-agile-with-offshore-teams-cadences-tools-overlap-hours/?utm_source=rss&utm_medium=rss&utm_campaign=running-agile-with-offshore-teams-cadences-tools-overlap-hours",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 19
-   },
-   {
-    "title": "The True Cost of Outsourcing: What TCO Includes Beyond Hourly Rates (2026)",
-    "location": "",
-    "url": "https://www.rootinfosol.com/the-true-cost-of-outsourcing-what-tco-includes-beyond-hourly-rates-2026/?utm_source=rss&utm_medium=rss&utm_campaign=the-true-cost-of-outsourcing-what-tco-includes-beyond-hourly-rates-2026",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 19
-   },
-   {
-    "title": "Outsourcing Pricing Models: Fixed Price vs Time & Materials vs Dedicated Team (2026)",
-    "location": "",
-    "url": "https://www.rootinfosol.com/outsourcing-pricing-models-fixed-price-vs-time-materials-dedicated-team/?utm_source=rss&utm_medium=rss&utm_campaign=outsourcing-pricing-models-fixed-price-vs-time-materials-dedicated-team",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 19
-   },
-   {
-    "title": "Software Outsourcing Contracts That Don’t Break: Scope, SLAs, IP, and Change Control (2026)",
-    "location": "",
-    "url": "https://www.rootinfosol.com/software-outsourcing-contract-scope-slas-ip-change-control/?utm_source=rss&utm_medium=rss&utm_campaign=software-outsourcing-contract-scope-slas-ip-change-control",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 19
-   },
-   {
-    "title": "How to Choose an Outsourcing Partner: A Practical Scorecard + Red Flags (2026)",
-    "location": "",
-    "url": "https://www.rootinfosol.com/how-to-choose-an-outsourcing-partner-scorecard/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-choose-an-outsourcing-partner-scorecard",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 19
-   },
-   {
-    "title": "When NOT to Outsource: 7 Situations Where In-House Wins (CTO Guide, 2026)",
-    "location": "",
-    "url": "https://www.rootinfosol.com/when-not-to-outsource-software-development/?utm_source=rss&utm_medium=rss&utm_campaign=when-not-to-outsource-software-development",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 19
-   },
-   {
-    "title": "Hidden Costs of Outsourcing: Communication, QA, Turnover, and Technical Debt (2026)",
-    "location": "",
-    "url": "https://www.rootinfosol.com/hidden-costs-software-outsourcing-2026/?utm_source=rss&utm_medium=rss&utm_campaign=hidden-costs-software-outsourcing-2026",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 19
-   },
-   {
-    "title": "Vibe Coding: The Tool Gets Smarter. The Blind Spot Doesn’t Shrink",
-    "location": "",
-    "url": "https://www.rootinfosol.com/vibe-coding-ai-tools-engineering-judgment/?utm_source=rss&utm_medium=rss&utm_campaign=vibe-coding-ai-tools-engineering-judgment",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 19
-   },
-   {
-    "title": "Nearshore vs Offshore vs Onshore Development: A CTO’s Decision Matrix (2026)",
-    "location": "",
-    "url": "https://www.rootinfosol.com/nearshore-vs-offshore-vs-onshore-development-cto-decision-matrix/?utm_source=rss&utm_medium=rss&utm_campaign=nearshore-vs-offshore-vs-onshore-development-cto-decision-matrix",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 19
-   },
-   {
-    "title": "Offshore Software Development Outsourcing in 2026: Models, Costs, Risks, and a Partner Selection Framework",
-    "location": "",
-    "url": "https://www.rootinfosol.com/offshore-software-development-outsourcing-2026/?utm_source=rss&utm_medium=rss&utm_campaign=offshore-software-development-outsourcing-2026",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 19
-   },
-   {
-    "title": "Staff Augmentation vs Dedicated Team vs Project Outsourcing: What to Choose (and When)",
-    "location": "",
-    "url": "https://www.rootinfosol.com/staff-augmentation-vs-dedicated-team-vs-project-outsourcing/?utm_source=rss&utm_medium=rss&utm_campaign=staff-augmentation-vs-dedicated-team-vs-project-outsourcing",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": true,
-    "exp": [],
-    "expFits2": false,
-    "score": -3
-   }
-  ],
+  "source": null,
+  "error": "careers-page-read-but-lists-no-openings",
+  "totalJobs": 0,
+  "jobs": [],
   "enriched": 0,
   "matches": [],
   "nearMatches": [],
-  "closest": {
-   "title": "Offshore QA That Actually Works: Test Strategy, Automation, and Review Gates (2026)",
-   "location": "",
-   "url": "https://www.rootinfosol.com/offshore-qa-that-actually-works-test-strategy-automation-review-gates/?utm_source=rss&utm_medium=rss&utm_campaign=offshore-qa-that-actually-works-test-strategy-automation-review-gates",
-   "team": "",
-   "text": "Offshore QA is not hard because teams are offshore. It fails because testing is treated like a phase at the end, instead of a set of gates that protect every change. When that happens, you get a predictable pattern: This guide is a CTO-friendly QA playbook for outsourced teams in 2026: test strategy, automation that […]",
-   "score": 19,
-   "isMatch": false,
-   "isEng": false,
-   "java": false,
-   "flutter": false,
-   "android": false,
-   "india": true,
-   "senior": false,
-   "junior": false,
-   "exp": [],
-   "expFits2": false
-  },
+  "closest": null,
   "closestEng": null,
   "trace": {
    "pages": [
@@ -15529,12 +15692,12 @@
     {
      "url": "https://rootinfosol.com/jobs",
      "status": 404,
-     "bytes": 175241
+     "bytes": 174942
     },
     {
      "url": "https://rootinfosol.com/join-us",
      "status": 404,
-     "bytes": 175253
+     "bytes": 174954
     }
    ],
    "candidates": [
@@ -15562,7 +15725,7 @@
     "workable:rootinfosol -> no board"
    ]
   },
-  "ms": 12113
+  "ms": 28821
  },
  {
   "company": "Rootquotient",
@@ -15706,7 +15869,7 @@
     "workable:rootquotient -> no board"
    ]
   },
-  "ms": 18423
+  "ms": 17527
  },
  {
   "company": "Ranosys Technologies",
@@ -15987,7 +16150,7 @@
     "workable:ranosys -> no board"
    ]
   },
-  "ms": 10446
+  "ms": 13634
  },
  {
   "company": "Rapid Circle",
@@ -16051,7 +16214,7 @@
     "workable:rapidcircle -> no board"
    ]
   },
-  "ms": 29221
+  "ms": 30720
  },
  {
   "company": "RNF Technologies",
@@ -16105,7 +16268,7 @@
     "workable:rnftechnologies -> no board"
    ]
   },
-  "ms": 15304
+  "ms": 13442
  },
  {
   "company": "Relinns Technologies",
@@ -16177,7 +16340,7 @@
     "workable:relinns -> no board"
    ]
   },
-  "ms": 21259
+  "ms": 23500
  },
  {
   "company": "Reckonsys",
@@ -16281,20 +16444,80 @@
     "workable:reckonsys -> no board"
    ]
   },
-  "ms": 9472
+  "ms": 10828
  },
  {
   "company": "Rysun Labs",
   "country": "India",
   "careers": "https://rysun.com/careers",
-  "source": "feed:https://www.rysun.com",
+  "source": "wordpress:https://www.rysun.com",
   "error": null,
-  "totalJobs": 10,
+  "totalJobs": 88,
   "jobs": [
    {
-    "title": "Responsible AI Engineering: Building Enterprise Trust into the AI Lifecycle",
+    "title": "Java Developer",
     "location": "",
-    "url": "https://www.rysun.com/blog/responsible-ai-engineering-building-enterprise-trust-into-the-ai-lifecycle/",
+    "url": "https://www.rysun.com/job/java-developer/",
+    "india": true,
+    "locationSaysIndia": false,
+    "hasLocation": false,
+    "isEng": true,
+    "java": true,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 74
+   },
+   {
+    "title": "Jr. ASP.Net MVC Developer",
+    "location": "",
+    "url": "https://www.rysun.com/job/jr-asp-net-mvc-developer/",
+    "india": true,
+    "locationSaysIndia": false,
+    "hasLocation": false,
+    "isEng": true,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 61
+   },
+   {
+    "title": "Intern – Application Support Engineer",
+    "location": "",
+    "url": "https://www.rysun.com/job/intern-application-support/",
+    "india": true,
+    "locationSaysIndia": false,
+    "hasLocation": false,
+    "isEng": true,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 61
+   },
+   {
+    "title": "Lead Java Developer",
+    "location": "",
+    "url": "https://www.rysun.com/job/lead-java-developer/",
+    "india": true,
+    "locationSaysIndia": false,
+    "hasLocation": false,
+    "isEng": true,
+    "java": true,
+    "flutter": false,
+    "senior": true,
+    "exp": [],
+    "expFits2": false,
+    "score": 52
+   },
+   {
+    "title": "Devops Engineer",
+    "location": "",
+    "url": "https://www.rysun.com/job/devops-engineer/",
     "india": true,
     "locationSaysIndia": false,
     "hasLocation": false,
@@ -16307,9 +16530,459 @@
     "score": 49
    },
    {
-    "title": "The Enterprise AI Governance Blueprint: Ownership, Approvals, and Control",
+    "title": "Power BI Developer",
     "location": "",
-    "url": "https://www.rysun.com/blog/the-enterprise-ai-governance-blueprint-ownership-approvals-and-control/",
+    "url": "https://www.rysun.com/job/power-bi-developer/",
+    "india": true,
+    "locationSaysIndia": false,
+    "hasLocation": false,
+    "isEng": true,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 49
+   },
+   {
+    "title": "Data Science Engineer",
+    "location": "",
+    "url": "https://www.rysun.com/job/ai-engineer/",
+    "india": true,
+    "locationSaysIndia": false,
+    "hasLocation": false,
+    "isEng": true,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 49
+   },
+   {
+    "title": "IT Support Engineer",
+    "location": "",
+    "url": "https://www.rysun.com/job/it-support-engineer/",
+    "india": true,
+    "locationSaysIndia": false,
+    "hasLocation": false,
+    "isEng": true,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 49
+   },
+   {
+    "title": "SQL Developer",
+    "location": "",
+    "url": "https://www.rysun.com/job/sql-developer/",
+    "india": true,
+    "locationSaysIndia": false,
+    "hasLocation": false,
+    "isEng": true,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 49
+   },
+   {
+    "title": "Application Support Engineer",
+    "location": "",
+    "url": "https://www.rysun.com/job/application-support-engineer-2/",
+    "india": true,
+    "locationSaysIndia": false,
+    "hasLocation": false,
+    "isEng": true,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 49
+   },
+   {
+    "title": "Azure Infrastructure Engineer",
+    "location": "",
+    "url": "https://www.rysun.com/job/azure-infrastructure-engineer/",
+    "india": true,
+    "locationSaysIndia": false,
+    "hasLocation": false,
+    "isEng": true,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 49
+   },
+   {
+    "title": "Boomi Developer",
+    "location": "",
+    "url": "https://www.rysun.com/job/boomi-developer/",
+    "india": true,
+    "locationSaysIndia": false,
+    "hasLocation": false,
+    "isEng": true,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 49
+   },
+   {
+    "title": "Customer Success Engineer",
+    "location": "",
+    "url": "https://www.rysun.com/job/customer-success-engineer/",
+    "india": true,
+    "locationSaysIndia": false,
+    "hasLocation": false,
+    "isEng": true,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 49
+   },
+   {
+    "title": ".Net Developer",
+    "location": "",
+    "url": "https://www.rysun.com/job/net-developer/",
+    "india": true,
+    "locationSaysIndia": false,
+    "hasLocation": false,
+    "isEng": true,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 49
+   },
+   {
+    "title": "WordPress Developer",
+    "location": "",
+    "url": "https://www.rysun.com/job/wordpress-developer/",
+    "india": true,
+    "locationSaysIndia": false,
+    "hasLocation": false,
+    "isEng": true,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 49
+   },
+   {
+    "title": "Shopify Developer",
+    "location": "",
+    "url": "https://www.rysun.com/job/shopify-developer/",
+    "india": true,
+    "locationSaysIndia": false,
+    "hasLocation": false,
+    "isEng": true,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 49
+   },
+   {
+    "title": "Cloud Support Engineer",
+    "location": "",
+    "url": "https://www.rysun.com/job/cloud-support-engineer/",
+    "india": true,
+    "locationSaysIndia": false,
+    "hasLocation": false,
+    "isEng": true,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 49
+   },
+   {
+    "title": "MERN Stack Developer",
+    "location": "",
+    "url": "https://www.rysun.com/job/mern-stack-developer/",
+    "india": true,
+    "locationSaysIndia": false,
+    "hasLocation": false,
+    "isEng": true,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 49
+   },
+   {
+    "title": "C/C++ Developer",
+    "location": "",
+    "url": "https://www.rysun.com/job/c-c-developer/",
+    "india": true,
+    "locationSaysIndia": false,
+    "hasLocation": false,
+    "isEng": true,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 49
+   },
+   {
+    "title": "Laravel Developer",
+    "location": "",
+    "url": "https://www.rysun.com/job/laravel-developer-2/",
+    "india": true,
+    "locationSaysIndia": false,
+    "hasLocation": false,
+    "isEng": true,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 49
+   },
+   {
+    "title": "Laravel Developer",
+    "location": "",
+    "url": "https://www.rysun.com/job/laravel-developer/",
+    "india": true,
+    "locationSaysIndia": false,
+    "hasLocation": false,
+    "isEng": true,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 49
+   },
+   {
+    "title": "Application Support Engineer",
+    "location": "",
+    "url": "https://www.rysun.com/job/application-support-engineer/",
+    "india": true,
+    "locationSaysIndia": false,
+    "hasLocation": false,
+    "isEng": true,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 49
+   },
+   {
+    "title": "ASP.Net MVC Developer",
+    "location": "",
+    "url": "https://www.rysun.com/job/asp-net-mvc-developer/",
+    "india": true,
+    "locationSaysIndia": false,
+    "hasLocation": false,
+    "isEng": true,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 49
+   },
+   {
+    "title": "Angular Developer",
+    "location": "",
+    "url": "https://www.rysun.com/job/angular-developer/",
+    "india": true,
+    "locationSaysIndia": false,
+    "hasLocation": false,
+    "isEng": true,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 49
+   },
+   {
+    "title": "Sr. iOS Developer",
+    "location": "",
+    "url": "https://www.rysun.com/job/sr-ios-developer/",
+    "india": true,
+    "locationSaysIndia": false,
+    "hasLocation": false,
+    "isEng": true,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [],
+    "expFits2": false,
+    "score": 27
+   },
+   {
+    "title": "Sr. IT Support Engineer",
+    "location": "",
+    "url": "https://www.rysun.com/job/sr-it-support-engineer/",
+    "india": true,
+    "locationSaysIndia": false,
+    "hasLocation": false,
+    "isEng": true,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [],
+    "expFits2": false,
+    "score": 27
+   },
+   {
+    "title": "Shopify Lead Developer",
+    "location": "",
+    "url": "https://www.rysun.com/job/shopify-lead-developer/",
+    "india": true,
+    "locationSaysIndia": false,
+    "hasLocation": false,
+    "isEng": true,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [],
+    "expFits2": false,
+    "score": 27
+   },
+   {
+    "title": "Lead Database Developer",
+    "location": "",
+    "url": "https://www.rysun.com/job/lead-database-developer/",
+    "india": true,
+    "locationSaysIndia": false,
+    "hasLocation": false,
+    "isEng": true,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [],
+    "expFits2": false,
+    "score": 27
+   },
+   {
+    "title": "MERN/MEAN Stack Lead Developer",
+    "location": "",
+    "url": "https://www.rysun.com/job/mern-stack-lead-developer/",
+    "india": true,
+    "locationSaysIndia": false,
+    "hasLocation": false,
+    "isEng": true,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [],
+    "expFits2": false,
+    "score": 27
+   },
+   {
+    "title": "ASP.Net MVC Lead Developer",
+    "location": "",
+    "url": "https://www.rysun.com/job/asp-net-mvc-lead-developer/",
+    "india": true,
+    "locationSaysIndia": false,
+    "hasLocation": false,
+    "isEng": true,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [],
+    "expFits2": false,
+    "score": 27
+   },
+   {
+    "title": "Big Data Lead Developer",
+    "location": "",
+    "url": "https://www.rysun.com/job/big-data-architect/",
+    "india": true,
+    "locationSaysIndia": false,
+    "hasLocation": false,
+    "isEng": true,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [],
+    "expFits2": false,
+    "score": 27
+   },
+   {
+    "title": "Lead Magento Developer",
+    "location": "",
+    "url": "https://www.rysun.com/job/magento-developer/",
+    "india": true,
+    "locationSaysIndia": false,
+    "hasLocation": false,
+    "isEng": true,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [],
+    "expFits2": false,
+    "score": 27
+   },
+   {
+    "title": "Lead SQL Developer",
+    "location": "",
+    "url": "https://www.rysun.com/job/lead-sql-developer/",
+    "india": true,
+    "locationSaysIndia": false,
+    "hasLocation": false,
+    "isEng": true,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [],
+    "expFits2": false,
+    "score": 27
+   },
+   {
+    "title": "Sr. Power BI Developer",
+    "location": "",
+    "url": "https://www.rysun.com/job/sr-powerbi-developer-lead/",
+    "india": true,
+    "locationSaysIndia": false,
+    "hasLocation": false,
+    "isEng": true,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [],
+    "expFits2": false,
+    "score": 27
+   },
+   {
+    "title": "Senior Data Engineer",
+    "location": "",
+    "url": "https://www.rysun.com/job/big-data-developer/",
+    "india": true,
+    "locationSaysIndia": false,
+    "hasLocation": false,
+    "isEng": true,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [],
+    "expFits2": false,
+    "score": 27
+   },
+   {
+    "title": "Ui/Ux Designer",
+    "location": "",
+    "url": "https://www.rysun.com/job/ui-ux-designer-2/",
     "india": true,
     "locationSaysIndia": false,
     "hasLocation": false,
@@ -16322,9 +16995,9 @@
     "score": 19
    },
    {
-    "title": "How Agentic AI Powers Autonomous Enterprise Execution",
+    "title": "Business Analyst (Payment Processing)",
     "location": "",
-    "url": "https://www.rysun.com/blog/how-agentic-ai-powers-autonomous-enterprise-execution/",
+    "url": "https://www.rysun.com/job/business-analyst-payment-processing/",
     "india": true,
     "locationSaysIndia": false,
     "hasLocation": false,
@@ -16337,9 +17010,9 @@
     "score": 19
    },
    {
-    "title": "LLMOps: The Operating Model that Makes Enterprise GenAI Work",
+    "title": "Business Analyst (Manufacturing Logistics)",
     "location": "",
-    "url": "https://www.rysun.com/blog/llmops-the-operating-model-that-makes-enterprise-genai-work/",
+    "url": "https://www.rysun.com/job/business-analyst-2/",
     "india": true,
     "locationSaysIndia": false,
     "hasLocation": false,
@@ -16352,9 +17025,9 @@
     "score": 19
    },
    {
-    "title": "Turning Enterprise Data into Intelligence with AI in the Microsoft Ecosystem",
+    "title": "QA- Manual Tester",
     "location": "",
-    "url": "https://www.rysun.com/blog/turning-enterprise-data-into-intelligence-with-ai-in-the-microsoft-ecosystem/",
+    "url": "https://www.rysun.com/job/qa-manual-tester/",
     "india": true,
     "locationSaysIndia": false,
     "hasLocation": false,
@@ -16367,9 +17040,9 @@
     "score": 19
    },
    {
-    "title": "How AI Is Reshaping Risk Management in Financial Services",
+    "title": "Tender Executive – IT",
     "location": "",
-    "url": "https://www.rysun.com/blog/how-ai-is-reshaping-risk-management-in-financial-services/",
+    "url": "https://www.rysun.com/job/tender-executive-it/",
     "india": true,
     "locationSaysIndia": false,
     "hasLocation": false,
@@ -16382,9 +17055,9 @@
     "score": 19
    },
    {
-    "title": "AI Governance: Moving Beyond Checklists to Real Control",
+    "title": "Domain Integration Specialist",
     "location": "",
-    "url": "https://www.rysun.com/blog/ai-governance-moving-beyond-checklists-to-real-control/",
+    "url": "https://www.rysun.com/job/domain-integration/",
     "india": true,
     "locationSaysIndia": false,
     "hasLocation": false,
@@ -16397,9 +17070,9 @@
     "score": 19
    },
    {
-    "title": "Turning Agentic AI into Enterprise Value",
+    "title": "Business Analyst (Product)",
     "location": "",
-    "url": "https://www.rysun.com/blog/turning-agentic-ai-into-enterprise-value/",
+    "url": "https://www.rysun.com/job/business-analyst-product/",
     "india": true,
     "locationSaysIndia": false,
     "hasLocation": false,
@@ -16412,9 +17085,9 @@
     "score": 19
    },
    {
-    "title": "AI in Healthcare: Transforming Patient Care with Intelligent Automation",
+    "title": "JD Edwards Technical Consultant",
     "location": "",
-    "url": "https://www.rysun.com/blog/ai-in-healthcare-transforming-patient-care-with-intelligent-automation/",
+    "url": "https://www.rysun.com/job/jd-edwards-technical-consultant/",
     "india": true,
     "locationSaysIndia": false,
     "hasLocation": false,
@@ -16427,9 +17100,9 @@
     "score": 19
    },
    {
-    "title": "How Leaner Data Builds Better AI",
+    "title": "M365 Admin",
     "location": "",
-    "url": "https://www.rysun.com/blog/how-leaner-data-builds-better-ai/",
+    "url": "https://www.rysun.com/job/m365-admin/",
     "india": true,
     "locationSaysIndia": false,
     "hasLocation": false,
@@ -16440,22 +17113,700 @@
     "exp": [],
     "expFits2": false,
     "score": 19
+   },
+   {
+    "title": "SEO Executive",
+    "location": "",
+    "url": "https://www.rysun.com/job/seo-executive/",
+    "india": true,
+    "locationSaysIndia": false,
+    "hasLocation": false,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 19
+   },
+   {
+    "title": "IT Talent Acquisition Executive",
+    "location": "",
+    "url": "https://www.rysun.com/job/hr-recruiter/",
+    "india": true,
+    "locationSaysIndia": false,
+    "hasLocation": false,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 19
+   },
+   {
+    "title": "QA Internship",
+    "location": "",
+    "url": "https://www.rysun.com/job/qa-internship/",
+    "india": true,
+    "locationSaysIndia": false,
+    "hasLocation": false,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 19
+   },
+   {
+    "title": "Digital Marketing Executive",
+    "location": "",
+    "url": "https://www.rysun.com/job/digital-marketing-executive/",
+    "india": true,
+    "locationSaysIndia": false,
+    "hasLocation": false,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 19
+   },
+   {
+    "title": "Chartered Accountant",
+    "location": "",
+    "url": "https://www.rysun.com/job/chartered-accountant/",
+    "india": true,
+    "locationSaysIndia": false,
+    "hasLocation": false,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 19
+   },
+   {
+    "title": "Content Writer",
+    "location": "",
+    "url": "https://www.rysun.com/job/content-writer/",
+    "india": true,
+    "locationSaysIndia": false,
+    "hasLocation": false,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 19
+   },
+   {
+    "title": "Graphic Designer",
+    "location": "",
+    "url": "https://www.rysun.com/job/motion-graphic-designer/",
+    "india": true,
+    "locationSaysIndia": false,
+    "hasLocation": false,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 19
+   },
+   {
+    "title": "QA- Automation Tester",
+    "location": "",
+    "url": "https://www.rysun.com/job/qa-automation-tester/",
+    "india": true,
+    "locationSaysIndia": false,
+    "hasLocation": false,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 19
+   },
+   {
+    "title": "Data Scientist",
+    "location": "",
+    "url": "https://www.rysun.com/job/data-scientist-2/",
+    "india": true,
+    "locationSaysIndia": false,
+    "hasLocation": false,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 19
+   },
+   {
+    "title": "Accounts Executive",
+    "location": "",
+    "url": "https://www.rysun.com/job/accounts-executive/",
+    "india": true,
+    "locationSaysIndia": false,
+    "hasLocation": false,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 19
+   },
+   {
+    "title": "Dummy",
+    "location": "",
+    "url": "https://www.rysun.com/job/dummy/",
+    "india": true,
+    "locationSaysIndia": false,
+    "hasLocation": false,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 19
+   },
+   {
+    "title": "Product Sales Executive",
+    "location": "",
+    "url": "https://www.rysun.com/job/product-sales-executive-2/",
+    "india": true,
+    "locationSaysIndia": false,
+    "hasLocation": false,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 19
+   },
+   {
+    "title": "Business Analyst",
+    "location": "",
+    "url": "https://www.rysun.com/job/business-analyst/",
+    "india": true,
+    "locationSaysIndia": false,
+    "hasLocation": false,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 19
+   },
+   {
+    "title": "Product Sales Executive",
+    "location": "",
+    "url": "https://www.rysun.com/job/product-sales-executive/",
+    "india": true,
+    "locationSaysIndia": false,
+    "hasLocation": false,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 19
+   },
+   {
+    "title": "IT Project Co-Ordinator",
+    "location": "",
+    "url": "https://www.rysun.com/job/project-co-ordinator/",
+    "india": true,
+    "locationSaysIndia": false,
+    "hasLocation": false,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 19
+   },
+   {
+    "title": "US IT Recruiter",
+    "location": "",
+    "url": "https://www.rysun.com/job/us-it-recruiter/",
+    "india": true,
+    "locationSaysIndia": false,
+    "hasLocation": false,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 19
+   },
+   {
+    "title": "UI/UX Designer",
+    "location": "",
+    "url": "https://www.rysun.com/job/ui-ux-designer/",
+    "india": true,
+    "locationSaysIndia": false,
+    "hasLocation": false,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 19
+   },
+   {
+    "title": "Product Manager",
+    "location": "",
+    "url": "https://www.rysun.com/job/product-manager-2/",
+    "india": true,
+    "locationSaysIndia": false,
+    "hasLocation": false,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [],
+    "expFits2": false,
+    "score": -3
+   },
+   {
+    "title": "Senior SEO Executive",
+    "location": "",
+    "url": "https://www.rysun.com/job/senior-seo-executive/",
+    "india": true,
+    "locationSaysIndia": false,
+    "hasLocation": false,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [],
+    "expFits2": false,
+    "score": -3
+   },
+   {
+    "title": "AI Product Manager",
+    "location": "",
+    "url": "https://www.rysun.com/job/ai-product-manager/",
+    "india": true,
+    "locationSaysIndia": false,
+    "hasLocation": false,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [],
+    "expFits2": false,
+    "score": -3
+   },
+   {
+    "title": "Technical Architect",
+    "location": "",
+    "url": "https://www.rysun.com/job/technical-architect/",
+    "india": true,
+    "locationSaysIndia": false,
+    "hasLocation": false,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [],
+    "expFits2": false,
+    "score": -3
+   },
+   {
+    "title": "Technical Delivery Manager",
+    "location": "",
+    "url": "https://www.rysun.com/job/technical-delivery-manager-2/",
+    "india": true,
+    "locationSaysIndia": false,
+    "hasLocation": false,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [],
+    "expFits2": false,
+    "score": -3
+   },
+   {
+    "title": "Technical Delivery Manager (Product)",
+    "location": "",
+    "url": "https://www.rysun.com/job/technical-delivery-manager-product/",
+    "india": true,
+    "locationSaysIndia": false,
+    "hasLocation": false,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [],
+    "expFits2": false,
+    "score": -3
+   },
+   {
+    "title": "Data Practice Lead",
+    "location": "",
+    "url": "https://www.rysun.com/job/data-practice-lead/",
+    "india": true,
+    "locationSaysIndia": false,
+    "hasLocation": false,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [],
+    "expFits2": false,
+    "score": -3
+   },
+   {
+    "title": "Technical Delivery Manager",
+    "location": "",
+    "url": "https://www.rysun.com/job/technical-delivery-manager/",
+    "india": true,
+    "locationSaysIndia": false,
+    "hasLocation": false,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [],
+    "expFits2": false,
+    "score": -3
+   },
+   {
+    "title": "Enterprise Sales Manager",
+    "location": "",
+    "url": "https://www.rysun.com/job/enterprise-sales-manager/",
+    "india": true,
+    "locationSaysIndia": false,
+    "hasLocation": false,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [],
+    "expFits2": false,
+    "score": -3
+   },
+   {
+    "title": "IT Infrastructure Manager",
+    "location": "",
+    "url": "https://www.rysun.com/job/it-infrastructure-manager/",
+    "india": true,
+    "locationSaysIndia": false,
+    "hasLocation": false,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [],
+    "expFits2": false,
+    "score": -3
+   },
+   {
+    "title": "PMO Head",
+    "location": "",
+    "url": "https://www.rysun.com/job/pmo-head/",
+    "india": true,
+    "locationSaysIndia": false,
+    "hasLocation": false,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [],
+    "expFits2": false,
+    "score": -3
+   },
+   {
+    "title": "Azure Infrastructure Lead – Rotational Shift",
+    "location": "",
+    "url": "https://www.rysun.com/job/azure-infrastructure-lead-rotational-shift/",
+    "india": true,
+    "locationSaysIndia": false,
+    "hasLocation": false,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [],
+    "expFits2": false,
+    "score": -3
+   },
+   {
+    "title": "Magento Architect",
+    "location": "",
+    "url": "https://www.rysun.com/job/magento-architect/",
+    "india": true,
+    "locationSaysIndia": false,
+    "hasLocation": false,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [],
+    "expFits2": false,
+    "score": -3
+   },
+   {
+    "title": "Incident Manager – US Shift",
+    "location": "",
+    "url": "https://www.rysun.com/job/incident-manager/",
+    "india": true,
+    "locationSaysIndia": false,
+    "hasLocation": false,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [],
+    "expFits2": false,
+    "score": -3
+   },
+   {
+    "title": "Data Science Architect",
+    "location": "",
+    "url": "https://www.rysun.com/job/data-science-architect/",
+    "india": true,
+    "locationSaysIndia": false,
+    "hasLocation": false,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [],
+    "expFits2": false,
+    "score": -3
+   },
+   {
+    "title": "Technical Lead",
+    "location": "",
+    "url": "https://www.rysun.com/job/technical-lead/",
+    "india": true,
+    "locationSaysIndia": false,
+    "hasLocation": false,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [],
+    "expFits2": false,
+    "score": -3
+   },
+   {
+    "title": "Business Analyst Lead",
+    "location": "",
+    "url": "https://www.rysun.com/job/business-analyst-lead/",
+    "india": true,
+    "locationSaysIndia": false,
+    "hasLocation": false,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [],
+    "expFits2": false,
+    "score": -3
+   },
+   {
+    "title": "Sr. Manual Tester",
+    "location": "",
+    "url": "https://www.rysun.com/job/manual-tester/",
+    "india": true,
+    "locationSaysIndia": false,
+    "hasLocation": false,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [],
+    "expFits2": false,
+    "score": -3
+   },
+   {
+    "title": "Sr. Business Development Manager",
+    "location": "",
+    "url": "https://www.rysun.com/job/sr-business-development-manager/",
+    "india": true,
+    "locationSaysIndia": false,
+    "hasLocation": false,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [],
+    "expFits2": false,
+    "score": -3
+   },
+   {
+    "title": "Lead QA Automation",
+    "location": "",
+    "url": "https://www.rysun.com/job/lead-qa-automation/",
+    "india": true,
+    "locationSaysIndia": false,
+    "hasLocation": false,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [],
+    "expFits2": false,
+    "score": -3
+   },
+   {
+    "title": "Product Manager",
+    "location": "",
+    "url": "https://www.rysun.com/job/product-manager/",
+    "india": true,
+    "locationSaysIndia": false,
+    "hasLocation": false,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [],
+    "expFits2": false,
+    "score": -3
+   },
+   {
+    "title": "Sr. Digital Marketing Executive",
+    "location": "",
+    "url": "https://www.rysun.com/job/sr-digital-marketing-executive/",
+    "india": true,
+    "locationSaysIndia": false,
+    "hasLocation": false,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [],
+    "expFits2": false,
+    "score": -3
+   },
+   {
+    "title": "Marketing Manager",
+    "location": "",
+    "url": "https://www.rysun.com/job/marketing-manager/",
+    "india": true,
+    "locationSaysIndia": false,
+    "hasLocation": false,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [],
+    "expFits2": false,
+    "score": -3
+   },
+   {
+    "title": "Business Development Manager (South Africa)",
+    "location": "",
+    "url": "https://www.rysun.com/job/business-development-manager-south-africa/",
+    "india": true,
+    "locationSaysIndia": false,
+    "hasLocation": false,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [],
+    "expFits2": false,
+    "score": -3
+   },
+   {
+    "title": "Delivery Manager (South Africa)",
+    "location": "",
+    "url": "https://www.rysun.com/job/delivery-manager-south-africa/",
+    "india": true,
+    "locationSaysIndia": false,
+    "hasLocation": false,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [],
+    "expFits2": false,
+    "score": -3
+   },
+   {
+    "title": "Lead Data Scientist",
+    "location": "",
+    "url": "https://www.rysun.com/job/data-scientist/",
+    "india": true,
+    "locationSaysIndia": false,
+    "hasLocation": false,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [],
+    "expFits2": false,
+    "score": -3
+   },
+   {
+    "title": "Technical Project Manager",
+    "location": "",
+    "url": "https://www.rysun.com/job/project-coordinator/",
+    "india": true,
+    "locationSaysIndia": false,
+    "hasLocation": false,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [],
+    "expFits2": false,
+    "score": -3
    }
   ],
-  "enriched": 1,
+  "enriched": 10,
   "matches": [],
-  "nearMatches": [],
+  "nearMatches": [
+   {
+    "title": "Java Developer",
+    "location": "",
+    "url": "https://www.rysun.com/job/java-developer/",
+    "team": "",
+    "text": "",
+    "score": 74,
+    "isMatch": false,
+    "isEng": true,
+    "java": true,
+    "flutter": false,
+    "android": false,
+    "india": true,
+    "senior": false,
+    "junior": false,
+    "exp": [],
+    "expFits2": false
+   }
+  ],
   "closest": {
-   "title": "Responsible AI Engineering: Building Enterprise Trust into the AI Lifecycle",
+   "title": "Java Developer",
    "location": "",
-   "url": "https://www.rysun.com/blog/responsible-ai-engineering-building-enterprise-trust-into-the-ai-lifecycle/",
+   "url": "https://www.rysun.com/job/java-developer/",
    "team": "",
-   "text": "Responsible AI Engineering: Building Trust into the AI Lifecycle --> Rysun Infinite Possibilities Company About us Driving value through AI & Data Leaders Great minds shaping vision Our Partners Strong alliances driving innovation Products Great minds shaping vision Our Certifications Trusted standards for compliance Capabilities AI Enterprise AI and ML solutions Data Data integration and analytics Digital Digital transformation solutions Cloud & DevOps Cloud, DevOps, and automation Intelligent Digital Workplace Smart workplace transformation Industries Retail & Ecommerce Unified commerce & customer data Healthcare & Life Sciences Healthcare innovation through AI & Data Financial Services Secure data and AI for finance High-Tech AI-driven growth for high-tech Insights Success Stories Transformation backed by results Blogs Insights on AI, data, and digital News Rysun news and company updates Events Conferences, talks, and meetups Rysun XChange Ideas, innovation, and community Careers Life at Rysun Culture built on innovation and trust Current Openings Roles shaping the future of tech Submit Your Profile Join our growing talent network let’s Talk --> Search for: Hit enter to search or ESC to close Contact Us Search for: Hit enter to search or ESC to close Responsible AI Engineering: Building Enterprise Trust into the AI Lifecycle AI --> --> Table of Contents Toggle Table of Content Toggle AI Trust is Now an Engineering Priority Why Responsible AI Must Start at Design The Engineering Building Blocks of Responsible AI Why GenAI and Agentic AI Raise the Control Bar The Operating Model: Responsible AI is a Team Sport A Practical Responsible AI Lifecycle for Enterprises What Responsible AI Looks Like in Real Enterprise Scenarios How Rysun Helps Enterprises Implement Responsible AI Final Perspective: Trust is Built into the System Frequently Asked Questions (FAQs) Share AI Trust is Now an Engineering Priority Responsible AI cannot be added as a final review step after an AI solution is already designed, trained, integrated, and deployed. By then, the most important decisions have already been made: what data was used, what risks were accepted, what systems were connected, what human controls were designed, and how the solution will behave when it faces real-world ambiguity. For CXOs, this is becoming a board-level issue. AI is moving from pilots into customer journeys, employee workflows, financial decisions, software engineering, operations, and enterprise automation. That makes trust a business requirement, not only a compliance concern. PwC’s 2025 analysis estimates that robust Responsible AI programs can reduce the likelihood of adverse AI incidents by up to 50%, while companies with stronger programs may see valuations up to 4% higher and revenues up to 3.5% higher than companies taking a compliance-only approach. At the same time, the operating environment is getting more complex. Microsoft’s 2025 Responsible AI Transparency Report notes that more than 30% of respondents in an IDC survey cited lack of governance and risk management solutions as the top barrier to adopting and scaling AI, while more than 75% of respondents using Responsible AI tools for risk management said those tools helped with privacy, customer experience, business decisions, brand reputation, and trust. The message is clear: enterprise AI will not scale on experimentation alone. It needs engineering discipline, governance workflows, and production-grade controls built into the lifecycle. Why Responsible AI Must Start at Design Responsible AI starts before a model is selected or a prompt is written. It begins when the enterprise decides whether a use case should be automated, augmented, monitored, restricted, or rejected. A customer service chatbot, an AI claims assistant, an employee HR bot, a fraud detection model, and an agentic workflow that can trigger enterprise actions all carry different levels of risk. The design phase should answer practical questions: Is the use case customer-facing or internal? Does it influence pricing, eligibility, hiring, credit, care, safety, or compliance decisions? Will the AI system access confidential, regulated, or personally identifiable data? Can the output be reviewed before action is taken? What happens if the system is wrong, incomplete, biased, or manipulated? This is where many AI programs lose control. Teams move quickly to prove capability, but they do not always define risk boundaries, escalation paths, or accountability. Responsible AI engineering changes that pattern. It treats trust, safety, privacy, explainability, and monitoring as non-functional requirements, just like scalability, uptime, and security. The Engineering Building Blocks of Responsible AI Data Quality and Data Readiness AI quality depends heavily on data quality . Poorly governed data can introduce bias, leakage, duplication, missing context, and unreliable recommendations. Responsible AI programs should include profiling, validation rules, data lineage, consent tracking, metadata management, and checks for representativeness. For enterprise environments, this is especially important when AI systems draw from multiple sources such as CRM, ERP, HRMS, claims systems, product catalogs, support tickets, documents, policies, and knowledge bases. The goal is not only to make data usable, but to make it traceable and fit for the decision the AI system supports. Bias Testing and Fairness Checks Bias testing should be part of the AI testing pipeline, not a one-time ethics review. Teams need to test outputs across user segments, geographies, product categories, customer profiles, languages, and edge cases. In financial services, this may include checking whether AI-assisted risk scoring treats similar applicants consistently. In healthcare, it may include testing whether a care coordination assistant performs reliably across age groups, languages, or clinical contexts. In retail, it may involve checking whether recommendations unintentionally exclude certain customer segments or over-promote products based on incomplete signals. Model and Output Evaluation Traditional software testing checks whether code behaves according to defined rules. AI testing must also evaluate accuracy, consistency, safety, hallucination risk, relevance, toxicity, groundedness, and refusal behavior. For GenAI systems, evaluation should include automated test sets, human review, regression testing after model changes, benchmark comparisons, and scenario-based testing. For agentic AI, evaluation must go further and test whether the system chooses the right tools, follows permissions, respects business rules, and knows when to stop or escalate. Prompt Governance Prompts are now part of enterprise logic. They shape how AI systems interpret user intent, retrieve information, apply policies, format outputs, and trigger actions. Responsible prompt governance includes version control, approval workflows, testing across scenarios, prompt injection protection, reusable prompt patterns, and documentation of intended behavior. Prompts should not live as hidden strings inside applications without ownership or change control. They should be managed like critical configuration assets. Explainability and Transparency Executives do not need every model to be fully interpretable in mathematical detail, but enterprise users need to understand why a recommendation was made, what data informed it, and what confidence or uncertainty is attached to it. Explainability can take different forms: feature importance for predictive models, source citations for retrieval-based systems, decision summaries for workflow assistants, and audit-ready rationale for high-impact use cases. The right level of explainability depends on the business risk and regulatory context. Audit Logs and Traceability AI systems should leave a reliable record of what happened. That includes the user request, model version, prompt version, data sources used, retrieved documents, output generated, human edits, approvals, actions taken, and system responses. This matters when a decision is challenged, an incident occurs, or a regulator, customer, or internal risk team asks for evidence. Without auditability, AI becomes difficult to defend and harder to improve. Access Controls and Security Responsible AI also depends on strong identity, access, and data controls. AI systems should only access the data and tools that the user, role, or process is authorized to use. This is critical for GenAI and agentic systems because they may summarize sensitive documents, query enterprise databases, generate code, create tickets, update records, or initiate workflows. Security design should include role-based access, least-privilege permissions, data masking, secrets management, tenant isolation, and policy-aware retrieval. Red Teaming and Abuse Testing Red teaming helps enterprises test how AI systems behave under pressure. Teams should attempt prompt injection, data extraction, policy bypass, adversarial inputs, unsafe requests, misinformation scenarios, and tool misuse. The objective is not to prove that a system is perfect. It is to discover failure modes before customers, employees, attackers, or regulators do. Red teaming should be repeated when prompts, models, tools, data sources, integrations, or user permissions change. Continuous Monitoring Responsible AI does not end at deployment. Production systems need ongoing monitoring for drift, hallucination patterns, unsafe outputs, user feedback, latency, cost, adoption, policy violations, and incident trends. Monitoring should feed back into engineering, risk, and governance processes. A responsible AI system should improve over time, but only with clear controls around retraining, prompt updates, model changes, and release approvals. Why GenAI and Agentic AI Raise the Control Bar GenAI changed the risk profile of enterprise AI because outputs are probabilistic. The same input can produce different responses. The system may sound confident while being incomplete, outdated, or wrong. It may also expose sensitive information if retrieval, permissions, or prompt controls are weak. Agentic AI raises the stakes further. These systems do not only generate content. They may plan steps, call tools, query systems, trigger workflows, send communications, update records, or recommend actions across enterprise applications. That means the question is no longer only, “What if AI gives the wrong answer?” It is also, “What if AI takes the wrong action?” A responsible agentic AI architecture needs additional controls: Human approval for high-impact actions Tool-level permissions and action boundaries Business rule validation before execution Kill switches and escalation paths Session-level memory controls Action logs and replay capability Testing for multi-step failure scenarios Monitoring for unusual behavior or repeated errors For CXOs, this is where Responsible AI becomes closely connected to enterprise architecture, cybersecurity, data governance, workflow design, and operating risk. The Operating Model: Responsible AI is a Team Sport Responsible AI cannot sit with one team alone. Engineering teams may understand the system architecture, but they may not own regulatory interpretation. Legal and compliance teams may understand obligations, but they may not see model behavior in production. Business owners may understand process impact, but they may not understand technical failure modes. A practical operating model brings together: Engineering and architecture teams to design controls into the solution Data teams to manage quality, lineage, privacy, and metadata Security teams to enforce access, threat testing, and incident response Legal and compliance teams to interpret obligations and review risk exposure Business owners to define acceptable use, process impact, and success metrics Human reviewers to handle exceptions, feedback, and high-risk decisions Executive sponsors to set risk appetite and investment priorities A 2026 AI trust maturity model identified strategy, risk management, data and technology, governance, and agentic AI controls as core maturity dimensions. The inclusion of agentic AI controls reflects the shift from AI systems that only assist users to AI systems that can interact with tools and enterprise workflows. For organizations scaling AI, this operating model should be supported by clear intake processes, risk tiering, design reviews, testing gates, release approvals, documentation standards, and post-deployment monitoring. A Practical Responsible AI Lifecycle for Enterprises A mature Responsible AI program can be designed around six lifecycle stages. Use Case Intake and Risk Classification Every AI idea should pass through a structured intake process. The enterprise should classify the use case by business value, user impact, data sensitivity, autonomy level, regulatory exposure, and operational risk. Low-risk productivity use cases may move quickly. High-impact use cases involving customers, employees, financial outcomes, healthcare, legal interpretation, or automated actions should go through stronger review. Responsible Architecture and Control Design Architecture should define how the AI system will interact with data, models, prompts, users, applications, and monitoring tools. This stage should identify required controls such as retrieval grounding, content filters, access policies, human review, logging, and fallback behavior. Data and Model Readiness Teams should validate whether the data is complete, current, permitted, representative, and traceable. For model selection, they should evaluate fit, risk, performance, hosting model, data handling terms, security posture, and integration requirements. Testing and Validation Testing should include functional testing, AI evaluation, bias checks, security testing, prompt injection testing, red teaming, user acceptance testing, and bus",
-   "_enriched": true,
-   "score": 49,
+   "text": "",
+   "score": 74,
    "isMatch": false,
    "isEng": true,
-   "java": false,
+   "java": true,
    "flutter": false,
    "android": false,
    "india": true,
@@ -16465,16 +17816,15 @@
    "expFits2": false
   },
   "closestEng": {
-   "title": "Responsible AI Engineering: Building Enterprise Trust into the AI Lifecycle",
+   "title": "Java Developer",
    "location": "",
-   "url": "https://www.rysun.com/blog/responsible-ai-engineering-building-enterprise-trust-into-the-ai-lifecycle/",
+   "url": "https://www.rysun.com/job/java-developer/",
    "team": "",
-   "text": "Responsible AI Engineering: Building Trust into the AI Lifecycle --> Rysun Infinite Possibilities Company About us Driving value through AI & Data Leaders Great minds shaping vision Our Partners Strong alliances driving innovation Products Great minds shaping vision Our Certifications Trusted standards for compliance Capabilities AI Enterprise AI and ML solutions Data Data integration and analytics Digital Digital transformation solutions Cloud & DevOps Cloud, DevOps, and automation Intelligent Digital Workplace Smart workplace transformation Industries Retail & Ecommerce Unified commerce & customer data Healthcare & Life Sciences Healthcare innovation through AI & Data Financial Services Secure data and AI for finance High-Tech AI-driven growth for high-tech Insights Success Stories Transformation backed by results Blogs Insights on AI, data, and digital News Rysun news and company updates Events Conferences, talks, and meetups Rysun XChange Ideas, innovation, and community Careers Life at Rysun Culture built on innovation and trust Current Openings Roles shaping the future of tech Submit Your Profile Join our growing talent network let’s Talk --> Search for: Hit enter to search or ESC to close Contact Us Search for: Hit enter to search or ESC to close Responsible AI Engineering: Building Enterprise Trust into the AI Lifecycle AI --> --> Table of Contents Toggle Table of Content Toggle AI Trust is Now an Engineering Priority Why Responsible AI Must Start at Design The Engineering Building Blocks of Responsible AI Why GenAI and Agentic AI Raise the Control Bar The Operating Model: Responsible AI is a Team Sport A Practical Responsible AI Lifecycle for Enterprises What Responsible AI Looks Like in Real Enterprise Scenarios How Rysun Helps Enterprises Implement Responsible AI Final Perspective: Trust is Built into the System Frequently Asked Questions (FAQs) Share AI Trust is Now an Engineering Priority Responsible AI cannot be added as a final review step after an AI solution is already designed, trained, integrated, and deployed. By then, the most important decisions have already been made: what data was used, what risks were accepted, what systems were connected, what human controls were designed, and how the solution will behave when it faces real-world ambiguity. For CXOs, this is becoming a board-level issue. AI is moving from pilots into customer journeys, employee workflows, financial decisions, software engineering, operations, and enterprise automation. That makes trust a business requirement, not only a compliance concern. PwC’s 2025 analysis estimates that robust Responsible AI programs can reduce the likelihood of adverse AI incidents by up to 50%, while companies with stronger programs may see valuations up to 4% higher and revenues up to 3.5% higher than companies taking a compliance-only approach. At the same time, the operating environment is getting more complex. Microsoft’s 2025 Responsible AI Transparency Report notes that more than 30% of respondents in an IDC survey cited lack of governance and risk management solutions as the top barrier to adopting and scaling AI, while more than 75% of respondents using Responsible AI tools for risk management said those tools helped with privacy, customer experience, business decisions, brand reputation, and trust. The message is clear: enterprise AI will not scale on experimentation alone. It needs engineering discipline, governance workflows, and production-grade controls built into the lifecycle. Why Responsible AI Must Start at Design Responsible AI starts before a model is selected or a prompt is written. It begins when the enterprise decides whether a use case should be automated, augmented, monitored, restricted, or rejected. A customer service chatbot, an AI claims assistant, an employee HR bot, a fraud detection model, and an agentic workflow that can trigger enterprise actions all carry different levels of risk. The design phase should answer practical questions: Is the use case customer-facing or internal? Does it influence pricing, eligibility, hiring, credit, care, safety, or compliance decisions? Will the AI system access confidential, regulated, or personally identifiable data? Can the output be reviewed before action is taken? What happens if the system is wrong, incomplete, biased, or manipulated? This is where many AI programs lose control. Teams move quickly to prove capability, but they do not always define risk boundaries, escalation paths, or accountability. Responsible AI engineering changes that pattern. It treats trust, safety, privacy, explainability, and monitoring as non-functional requirements, just like scalability, uptime, and security. The Engineering Building Blocks of Responsible AI Data Quality and Data Readiness AI quality depends heavily on data quality . Poorly governed data can introduce bias, leakage, duplication, missing context, and unreliable recommendations. Responsible AI programs should include profiling, validation rules, data lineage, consent tracking, metadata management, and checks for representativeness. For enterprise environments, this is especially important when AI systems draw from multiple sources such as CRM, ERP, HRMS, claims systems, product catalogs, support tickets, documents, policies, and knowledge bases. The goal is not only to make data usable, but to make it traceable and fit for the decision the AI system supports. Bias Testing and Fairness Checks Bias testing should be part of the AI testing pipeline, not a one-time ethics review. Teams need to test outputs across user segments, geographies, product categories, customer profiles, languages, and edge cases. In financial services, this may include checking whether AI-assisted risk scoring treats similar applicants consistently. In healthcare, it may include testing whether a care coordination assistant performs reliably across age groups, languages, or clinical contexts. In retail, it may involve checking whether recommendations unintentionally exclude certain customer segments or over-promote products based on incomplete signals. Model and Output Evaluation Traditional software testing checks whether code behaves according to defined rules. AI testing must also evaluate accuracy, consistency, safety, hallucination risk, relevance, toxicity, groundedness, and refusal behavior. For GenAI systems, evaluation should include automated test sets, human review, regression testing after model changes, benchmark comparisons, and scenario-based testing. For agentic AI, evaluation must go further and test whether the system chooses the right tools, follows permissions, respects business rules, and knows when to stop or escalate. Prompt Governance Prompts are now part of enterprise logic. They shape how AI systems interpret user intent, retrieve information, apply policies, format outputs, and trigger actions. Responsible prompt governance includes version control, approval workflows, testing across scenarios, prompt injection protection, reusable prompt patterns, and documentation of intended behavior. Prompts should not live as hidden strings inside applications without ownership or change control. They should be managed like critical configuration assets. Explainability and Transparency Executives do not need every model to be fully interpretable in mathematical detail, but enterprise users need to understand why a recommendation was made, what data informed it, and what confidence or uncertainty is attached to it. Explainability can take different forms: feature importance for predictive models, source citations for retrieval-based systems, decision summaries for workflow assistants, and audit-ready rationale for high-impact use cases. The right level of explainability depends on the business risk and regulatory context. Audit Logs and Traceability AI systems should leave a reliable record of what happened. That includes the user request, model version, prompt version, data sources used, retrieved documents, output generated, human edits, approvals, actions taken, and system responses. This matters when a decision is challenged, an incident occurs, or a regulator, customer, or internal risk team asks for evidence. Without auditability, AI becomes difficult to defend and harder to improve. Access Controls and Security Responsible AI also depends on strong identity, access, and data controls. AI systems should only access the data and tools that the user, role, or process is authorized to use. This is critical for GenAI and agentic systems because they may summarize sensitive documents, query enterprise databases, generate code, create tickets, update records, or initiate workflows. Security design should include role-based access, least-privilege permissions, data masking, secrets management, tenant isolation, and policy-aware retrieval. Red Teaming and Abuse Testing Red teaming helps enterprises test how AI systems behave under pressure. Teams should attempt prompt injection, data extraction, policy bypass, adversarial inputs, unsafe requests, misinformation scenarios, and tool misuse. The objective is not to prove that a system is perfect. It is to discover failure modes before customers, employees, attackers, or regulators do. Red teaming should be repeated when prompts, models, tools, data sources, integrations, or user permissions change. Continuous Monitoring Responsible AI does not end at deployment. Production systems need ongoing monitoring for drift, hallucination patterns, unsafe outputs, user feedback, latency, cost, adoption, policy violations, and incident trends. Monitoring should feed back into engineering, risk, and governance processes. A responsible AI system should improve over time, but only with clear controls around retraining, prompt updates, model changes, and release approvals. Why GenAI and Agentic AI Raise the Control Bar GenAI changed the risk profile of enterprise AI because outputs are probabilistic. The same input can produce different responses. The system may sound confident while being incomplete, outdated, or wrong. It may also expose sensitive information if retrieval, permissions, or prompt controls are weak. Agentic AI raises the stakes further. These systems do not only generate content. They may plan steps, call tools, query systems, trigger workflows, send communications, update records, or recommend actions across enterprise applications. That means the question is no longer only, “What if AI gives the wrong answer?” It is also, “What if AI takes the wrong action?” A responsible agentic AI architecture needs additional controls: Human approval for high-impact actions Tool-level permissions and action boundaries Business rule validation before execution Kill switches and escalation paths Session-level memory controls Action logs and replay capability Testing for multi-step failure scenarios Monitoring for unusual behavior or repeated errors For CXOs, this is where Responsible AI becomes closely connected to enterprise architecture, cybersecurity, data governance, workflow design, and operating risk. The Operating Model: Responsible AI is a Team Sport Responsible AI cannot sit with one team alone. Engineering teams may understand the system architecture, but they may not own regulatory interpretation. Legal and compliance teams may understand obligations, but they may not see model behavior in production. Business owners may understand process impact, but they may not understand technical failure modes. A practical operating model brings together: Engineering and architecture teams to design controls into the solution Data teams to manage quality, lineage, privacy, and metadata Security teams to enforce access, threat testing, and incident response Legal and compliance teams to interpret obligations and review risk exposure Business owners to define acceptable use, process impact, and success metrics Human reviewers to handle exceptions, feedback, and high-risk decisions Executive sponsors to set risk appetite and investment priorities A 2026 AI trust maturity model identified strategy, risk management, data and technology, governance, and agentic AI controls as core maturity dimensions. The inclusion of agentic AI controls reflects the shift from AI systems that only assist users to AI systems that can interact with tools and enterprise workflows. For organizations scaling AI, this operating model should be supported by clear intake processes, risk tiering, design reviews, testing gates, release approvals, documentation standards, and post-deployment monitoring. A Practical Responsible AI Lifecycle for Enterprises A mature Responsible AI program can be designed around six lifecycle stages. Use Case Intake and Risk Classification Every AI idea should pass through a structured intake process. The enterprise should classify the use case by business value, user impact, data sensitivity, autonomy level, regulatory exposure, and operational risk. Low-risk productivity use cases may move quickly. High-impact use cases involving customers, employees, financial outcomes, healthcare, legal interpretation, or automated actions should go through stronger review. Responsible Architecture and Control Design Architecture should define how the AI system will interact with data, models, prompts, users, applications, and monitoring tools. This stage should identify required controls such as retrieval grounding, content filters, access policies, human review, logging, and fallback behavior. Data and Model Readiness Teams should validate whether the data is complete, current, permitted, representative, and traceable. For model selection, they should evaluate fit, risk, performance, hosting model, data handling terms, security posture, and integration requirements. Testing and Validation Testing should include functional testing, AI evaluation, bias checks, security testing, prompt injection testing, red teaming, user acceptance testing, and bus",
-   "_enriched": true,
-   "score": 49,
+   "text": "",
+   "score": 74,
    "isMatch": false,
    "isEng": true,
-   "java": false,
+   "java": true,
    "flutter": false,
    "android": false,
    "india": true,
@@ -16557,7 +17907,7 @@
     "workable:rysun -> no board"
    ]
   },
-  "ms": 24573
+  "ms": 38922
  },
  {
   "company": "Redian Software Global",
@@ -16617,7 +17967,7 @@
     "workable:rediansoftware -> no board"
    ]
   },
-  "ms": 8184
+  "ms": 7411
  },
  {
   "company": "Reveation Labs",
@@ -16670,7 +18020,7 @@
     "workable:reveation -> no board"
    ]
   },
-  "ms": 11278
+  "ms": 11266
  },
  {
   "company": "Revalsys Technologies",
@@ -16758,7 +18108,7 @@
     "workable:revalsys -> no board"
    ]
   },
-  "ms": 7756
+  "ms": 6656
  },
  {
   "company": "Riaxe Systems",
@@ -17208,7 +18558,7 @@
     "workable:riaxe -> no board"
    ]
   },
-  "ms": 22944
+  "ms": 22507
  },
  {
   "company": "RemoteState",
@@ -17233,12 +18583,12 @@
     {
      "url": "https://remotestate.com/careers",
      "status": 404,
-     "bytes": 37995
+     "bytes": 37998
     },
     {
      "url": "https://remotestate.com/career",
      "status": 404,
-     "bytes": 37980
+     "bytes": 37997
     },
     {
      "url": "https://remotestate.com/jobs",
@@ -17248,27 +18598,12 @@
     {
      "url": "https://remotestate.com/join-us",
      "status": 404,
-     "bytes": 37997
+     "bytes": 37985
     },
     {
      "url": "https://remotestate.com/join-our-team",
      "status": 404,
-     "bytes": 37992
-    },
-    {
-     "url": "https://remotestate.com/careers.html",
-     "status": 404,
-     "bytes": 37990
-    },
-    {
-     "url": "https://remotestate.com/company/careers",
-     "status": 404,
-     "bytes": 37993
-    },
-    {
-     "url": "https://remotestate.com/about/careers",
-     "status": 404,
-     "bytes": 38012
+     "bytes": 38006
     }
    ],
    "candidates": [
@@ -17286,7 +18621,7 @@
     "workable:remotestate -> no board"
    ]
   },
-  "ms": 9952
+  "ms": 9130
  },
  {
   "company": "Rejig Digital",
@@ -17440,7 +18775,7 @@
     "workable:rejigdigital -> no board"
    ]
   },
-  "ms": 26721
+  "ms": 27557
  },
  {
   "company": "Rapidsoft Technologies",
@@ -17821,7 +19156,7 @@
     "workable:rapidsofttechnologies -> no board"
    ]
   },
-  "ms": 6741
+  "ms": 5553
  },
  {
   "company": "Rhythmflows Solutions",
@@ -17985,7 +19320,7 @@
     "workable:rhythmflows -> no board"
    ]
   },
-  "ms": 3509
+  "ms": 3129
  },
  {
   "company": "RejoiceHub",
@@ -18260,7 +19595,7 @@
     "workable:rejoicehub -> no board"
    ]
   },
-  "ms": 5107
+  "ms": 4335
  },
  {
   "company": "RChilli",
@@ -18526,7 +19861,7 @@
     "workable:rchilli -> no board"
    ]
   },
-  "ms": 18841
+  "ms": 18974
  },
  {
   "company": "Rocketium",
@@ -18725,7 +20060,7 @@
     "keka:rocketium -> 4 jobs"
    ]
   },
-  "ms": 9970
+  "ms": 10414
  },
  {
   "company": "Rezolve.ai",
@@ -18783,7 +20118,7 @@
     "workable:rezolve -> no board"
    ]
   },
-  "ms": 13229
+  "ms": 14879
  },
  {
   "company": "Reverie Language Technologies",
@@ -18807,52 +20142,52 @@
     {
      "url": "https://reverieinc.com/careers",
      "status": 404,
-     "bytes": 237619
+     "bytes": 237823
     },
     {
      "url": "https://reverieinc.com/career",
      "status": 404,
-     "bytes": 237619
+     "bytes": 237823
     },
     {
      "url": "https://reverieinc.com/jobs",
      "status": 404,
-     "bytes": 237619
+     "bytes": 237823
     },
     {
      "url": "https://reverieinc.com/join-us",
      "status": 404,
-     "bytes": 237619
+     "bytes": 237823
     },
     {
      "url": "https://reverieinc.com/join-our-team",
      "status": 404,
-     "bytes": 237619
+     "bytes": 237823
     },
     {
      "url": "https://reverieinc.com/careers.html",
      "status": 404,
-     "bytes": 237619
+     "bytes": 237823
     },
     {
      "url": "https://reverieinc.com/company/careers",
      "status": 404,
-     "bytes": 237619
+     "bytes": 237823
     },
     {
      "url": "https://reverieinc.com/about/careers",
      "status": 404,
-     "bytes": 237619
+     "bytes": 237823
     },
     {
      "url": "https://reverieinc.com/current-openings",
      "status": 404,
-     "bytes": 237619
+     "bytes": 237823
     },
     {
      "url": "https://reverieinc.com/",
      "status": 200,
-     "bytes": 330857
+     "bytes": 331061
     }
    ],
    "candidates": [
@@ -18880,7 +20215,7 @@
     "workable:reverieinc -> no board"
    ]
   },
-  "ms": 29432
+  "ms": 33202
  },
  {
   "company": "Recykal",
@@ -19024,7 +20359,7 @@
     "workable:recykal -> no board"
    ]
   },
-  "ms": 3811
+  "ms": 6265
  },
  {
   "company": "Ripplr",
@@ -19168,7 +20503,7 @@
     "workable:ripplr -> no board"
    ]
   },
-  "ms": 3998
+  "ms": 6517
  },
  {
   "company": "Roadzen",
@@ -19312,7 +20647,7 @@
     "workable:roadzen -> no board"
    ]
   },
-  "ms": 3782
+  "ms": 5297
  },
  {
   "company": "Rooter",
@@ -19382,7 +20717,7 @@
     {
      "url": "https://rooter.gg/",
      "status": 200,
-     "bytes": 97391
+     "bytes": 96112
     }
    ],
    "candidates": [
@@ -19400,7 +20735,7 @@
     "workable:rooter -> no board"
    ]
   },
-  "ms": 5253
+  "ms": 5619
  },
  {
   "company": "RailYatri",
@@ -19488,7 +20823,7 @@
     "workable:railyatri -> no board"
    ]
   },
-  "ms": 5812
+  "ms": 8280
  },
  {
   "company": "Riskcovry",
@@ -19543,13 +20878,13 @@
     "workable:riskcovry -> no board"
    ]
   },
-  "ms": 5530
+  "ms": 8801
  },
  {
   "company": "RenewBuy",
   "country": "India",
   "source": null,
-  "error": "timed-out",
+  "error": "no-job-data-found",
   "totalJobs": 0,
   "jobs": [],
   "enriched": 0,
@@ -19558,10 +20893,80 @@
   "closest": null,
   "closestEng": null,
   "trace": {
-   "pages": [],
-   "attempts": []
+   "pages": [
+    {
+     "url": "https://careers.renewbuy.com",
+     "status": 0,
+     "bytes": 0,
+     "error": "fetch failed"
+    },
+    {
+     "url": "https://renewbuy.com/careers",
+     "status": 502,
+     "bytes": 54520
+    },
+    {
+     "url": "https://renewbuy.com/career",
+     "status": 502,
+     "bytes": 54520
+    },
+    {
+     "url": "https://renewbuy.com/jobs",
+     "status": 404,
+     "bytes": 1134366
+    },
+    {
+     "url": "https://renewbuy.com/join-us",
+     "status": 404,
+     "bytes": 1134366
+    },
+    {
+     "url": "https://renewbuy.com/join-our-team",
+     "status": 404,
+     "bytes": 1134366
+    },
+    {
+     "url": "https://renewbuy.com/careers.html",
+     "status": 502,
+     "bytes": 54520
+    },
+    {
+     "url": "https://renewbuy.com/company/careers",
+     "status": 404,
+     "bytes": 1134366
+    },
+    {
+     "url": "https://renewbuy.com/about/careers",
+     "status": 404,
+     "bytes": 1134366
+    },
+    {
+     "url": "https://renewbuy.com/current-openings",
+     "status": 404,
+     "bytes": 1134366
+    },
+    {
+     "url": "https://renewbuy.com/",
+     "status": 200,
+     "bytes": 383021
+    }
+   ],
+   "candidates": [
+    "greenhouse:renewbuy(guess)",
+    "lever:renewbuy(guess)",
+    "ashby:renewbuy(guess)",
+    "recruitee:renewbuy(guess)",
+    "workable:renewbuy(guess)"
+   ],
+   "attempts": [
+    "greenhouse:renewbuy -> no board",
+    "lever:renewbuy -> no board",
+    "ashby:renewbuy -> no board",
+    "recruitee:renewbuy -> no board",
+    "workable:renewbuy -> no board"
+   ]
   },
-  "ms": 90003
+  "ms": 12008
  },
  {
   "company": "Redcliffe Labs",
@@ -19632,7 +21037,7 @@
     {
      "url": "https://redcliffelabs.com/",
      "status": 200,
-     "bytes": 145095
+     "bytes": 145079
     }
    ],
    "candidates": [
@@ -19660,7 +21065,7 @@
     "workable:redcliffelabs -> no board"
    ]
   },
-  "ms": 20267
+  "ms": 18767
  },
  {
   "company": "RevFin",
@@ -19724,7 +21129,7 @@
     "workable:revfin -> no board"
    ]
   },
-  "ms": 3726
+  "ms": 7364
  },
  {
   "company": "Rang De",
@@ -19818,7 +21223,7 @@
     "workable:rangde -> no board"
    ]
   },
-  "ms": 4360
+  "ms": 4498
  },
  {
   "company": "ReBIT (Reserve Bank Information Technology)",
@@ -19962,7 +21367,7 @@
     "workable:rebit -> no board"
    ]
   },
-  "ms": 3000
+  "ms": 2812
  },
  {
   "company": "RailTel Corporation of India",
@@ -20198,7 +21603,7 @@
     "workable:railtelindia -> no board"
    ]
   },
-  "ms": 7586
+  "ms": 12110
  },
  {
   "company": "Repos Energy",
@@ -20295,7 +21700,7 @@
     "workable:reposenergy -> no board"
    ]
   },
-  "ms": 11411
+  "ms": 12710
  },
  {
   "company": "Rista Apps",
@@ -20439,7 +21844,7 @@
     "workable:ristaapps -> no board"
    ]
   },
-  "ms": 4490
+  "ms": 4205
  },
  {
   "company": "Roadcast",
@@ -20769,7 +22174,7 @@
     "workable:roadcast -> no board"
    ]
   },
-  "ms": 2263
+  "ms": 2444
  },
  {
   "company": "Rubick.ai",
@@ -21488,7 +22893,7 @@
     "keka:rubick -> 21 jobs"
    ]
   },
-  "ms": 8986
+  "ms": 9269
  },
  {
   "company": "Runo",
@@ -21632,7 +23037,7 @@
     "workable:runo -> no board"
    ]
   },
-  "ms": 4787
+  "ms": 4984
  },
  {
   "company": "RevenueHero",
@@ -21717,7 +23122,7 @@
     "zohorecruit:revenuehero -> 1 jobs"
    ]
   },
-  "ms": 3171
+  "ms": 4363
  },
  {
   "company": "Robylon AI",
@@ -21871,7 +23276,7 @@
     "workable:robylon -> no board"
    ]
   },
-  "ms": 17154
+  "ms": 15051
  },
  {
   "company": "Rigi",
@@ -22078,7 +23483,7 @@
     "keka:rigi -> 2 jobs"
    ]
   },
-  "ms": 1287
+  "ms": 2057
  },
  {
   "company": "Reelo",
@@ -22508,7 +23913,7 @@
     "keka:reelo -> 17 jobs"
    ]
   },
-  "ms": 4140
+  "ms": 7078
  },
  {
   "company": "Refrens",
@@ -22652,7 +24057,7 @@
     "workable:refrens -> no board"
    ]
   },
-  "ms": 4700
+  "ms": 6411
  },
  {
   "company": "Recruit CRM",
@@ -24237,7 +25642,7 @@
     "workable:recruitcrm -> no board"
    ]
   },
-  "ms": 5821
+  "ms": 5417
  },
  {
   "company": "Resulticks",
@@ -24326,7 +25731,7 @@
     "workable:resulticks -> no board"
    ]
   },
-  "ms": 16886
+  "ms": 17362
  },
  {
   "company": "Retailio",
@@ -24629,7 +26034,7 @@
     "workable:retailio -> no board"
    ]
   },
-  "ms": 5763
+  "ms": 4249
  },
  {
   "company": "Robro Systems",
@@ -24745,7 +26150,7 @@
     "workable:robrosystems -> no board"
    ]
   },
-  "ms": 11249
+  "ms": 10439
  },
  {
   "company": "RapiPay Fintech",
@@ -24988,7 +26393,7 @@
     {
      "url": "https://in.rapipay.com/careers/",
      "status": 200,
-     "bytes": 171056
+     "bytes": 171058
     }
    ],
    "candidates": [
@@ -25016,7 +26421,7 @@
     "workable:rapipay -> no board"
    ]
   },
-  "ms": 10024
+  "ms": 10099
  },
  {
   "company": "Rupyy",
@@ -25089,7 +26494,7 @@
     "workable:rupyy -> no board"
    ]
   },
-  "ms": 6319
+  "ms": 6566
  },
  {
   "company": "Rio Money",
@@ -25233,7 +26638,7 @@
     "workable:riomoney -> no board"
    ]
   },
-  "ms": 4863
+  "ms": 3813
  },
  {
   "company": "RoboMQ",
@@ -25355,7 +26760,7 @@
     "lever:robomq -> 1 jobs (guess, name-verified)"
    ]
   },
-  "ms": 15511
+  "ms": 14062
  },
  {
   "company": "Reliance Games",
@@ -25927,7 +27332,7 @@
     "workable:reliancegames -> no board"
    ]
   },
-  "ms": 17880
+  "ms": 21833
  },
  {
   "company": "Reliance Industries",
@@ -26041,7 +27446,7 @@
     {
      "url": "https://ril.com/career",
      "status": 404,
-     "bytes": 81755
+     "bytes": 81761
     },
     {
      "url": "https://ril.com/jobs",
@@ -26064,7 +27469,7 @@
     "workable:reliance -> no board"
    ]
   },
-  "ms": 5786
+  "ms": 5675
  },
  {
   "company": "Reliance General Insurance",
@@ -26089,17 +27494,17 @@
     {
      "url": "https://reliancegeneral.co.in/careers",
      "status": 404,
-     "bytes": 180748
+     "bytes": 179892
     },
     {
      "url": "https://reliancegeneral.co.in/career",
      "status": 404,
-     "bytes": 180788
+     "bytes": 179740
     },
     {
      "url": "https://reliancegeneral.co.in/jobs",
      "status": 404,
-     "bytes": 180632
+     "bytes": 179880
     }
    ],
    "candidates": [
@@ -26127,7 +27532,7 @@
     "workable:reliancegeneral -> no board"
    ]
   },
-  "ms": 9848
+  "ms": 11497
  },
  {
   "company": "Reliance Nippon Life Insurance",
@@ -26270,7 +27675,7 @@
     "workable:reliancenipponlife -> no board"
    ]
   },
-  "ms": 8088
+  "ms": 8110
  },
  {
   "company": "Religare Enterprises",
@@ -26367,7 +27772,7 @@
     "workable:religare -> no board"
    ]
   },
-  "ms": 15188
+  "ms": 15629
  },
  {
   "company": "Royal Sundaram General Insurance",
@@ -26392,7 +27797,7 @@
     {
      "url": "https://royalsundaram.in/careers",
      "status": 200,
-     "bytes": 172711
+     "bytes": 172710
     },
     {
      "url": "https://royalsundaram.in/career",
@@ -26437,7 +27842,7 @@
     {
      "url": "https://royalsundaram.in/",
      "status": 200,
-     "bytes": 294031
+     "bytes": 294030
     }
    ],
    "candidates": [
@@ -26467,7 +27872,7 @@
     "workable:royalsundaram -> no board"
    ]
   },
-  "ms": 6959
+  "ms": 7703
  },
  {
   "company": "Royal Enfield",
@@ -26617,7 +28022,7 @@
     "workable:royalenfield -> no board"
    ]
   },
-  "ms": 23105
+  "ms": 22633
  },
  {
   "company": "Renault Nissan Technology & Business Centre India",
@@ -26637,7 +28042,7 @@
     {
      "url": "https://rntbci.in/careers",
      "status": 200,
-     "bytes": 7782
+     "bytes": 7781
     },
     {
      "url": "https://careers.rntbci.in",
@@ -26648,12 +28053,12 @@
     {
      "url": "https://rntbci.in/career",
      "status": 404,
-     "bytes": 7681
+     "bytes": 7682
     },
     {
      "url": "https://rntbci.in/jobs",
      "status": 404,
-     "bytes": 7681
+     "bytes": 7682
     },
     {
      "url": "https://rntbci.in/join-us",
@@ -26663,7 +28068,7 @@
     {
      "url": "https://rntbci.in/join-our-team",
      "status": 404,
-     "bytes": 7681
+     "bytes": 7682
     },
     {
      "url": "https://rntbci.in/careers.html",
@@ -26673,12 +28078,12 @@
     {
      "url": "https://rntbci.in/company/careers",
      "status": 404,
-     "bytes": 7681
+     "bytes": 7682
     },
     {
      "url": "https://rntbci.in/about/careers",
      "status": 404,
-     "bytes": 7683
+     "bytes": 7682
     },
     {
      "url": "https://rntbci.in/current-openings",
@@ -26688,7 +28093,7 @@
     {
      "url": "https://rntbci.in/",
      "status": 200,
-     "bytes": 12349
+     "bytes": 12350
     }
    ],
    "candidates": [
@@ -26716,7 +28121,7 @@
     "workable:rntbci -> no board"
    ]
   },
-  "ms": 12453
+  "ms": 13979
  },
  {
   "company": "Renesas Electronics India",
@@ -26979,17 +28384,7 @@
     {
      "url": "https://renesas.com/about/careers",
      "status": 200,
-     "bytes": 81209
-    },
-    {
-     "url": "https://renesas.com/current-openings",
-     "status": 404,
-     "bytes": 6051
-    },
-    {
-     "url": "https://renesas.com/",
-     "status": 200,
-     "bytes": 241578
+     "bytes": 81225
     }
    ],
    "candidates": [
@@ -27017,7 +28412,7 @@
     "workable:renesas -> no board"
    ]
   },
-  "ms": 16345
+  "ms": 15634
  },
  {
   "company": "Ribbon Communications India",
@@ -27147,7 +28542,7 @@
     {
      "url": "https://ribboncommunications.com/career",
      "status": 404,
-     "bytes": 194378
+     "bytes": 194382
     },
     {
      "url": "https://ribboncommunications.com/jobs",
@@ -27157,12 +28552,12 @@
     {
      "url": "https://ribboncommunications.com/join-us",
      "status": 404,
-     "bytes": 194381
+     "bytes": 194385
     },
     {
      "url": "https://ribboncommunications.com/join-our-team",
      "status": 404,
-     "bytes": 194399
+     "bytes": 194403
     }
    ],
    "candidates": [
@@ -27182,7 +28577,7 @@
     "workable:ribboncommunications -> no board"
    ]
   },
-  "ms": 10258
+  "ms": 9477
  },
  {
   "company": "Riverbed Technology India",
@@ -27481,7 +28876,7 @@
     "icims:riverbed -> 10 jobs"
    ]
   },
-  "ms": 12599
+  "ms": 6908
  },
  {
   "company": "RingCentral India",
@@ -28590,7 +29985,7 @@
     "workday:ringcentral -> 62 jobs"
    ]
   },
-  "ms": 10200
+  "ms": 9308
  },
  {
   "company": "Roku India",
@@ -28699,7 +30094,7 @@
     "workable:roku -> no board"
    ]
   },
-  "ms": 31400
+  "ms": 31139
  },
  {
   "company": "Rockstar Games India",
@@ -28788,7 +30183,7 @@
     "workable:rockstargames -> no board"
    ]
   },
-  "ms": 14505
+  "ms": 12356
  },
  {
   "company": "Resideo India",
@@ -28841,7 +30236,7 @@
     {
      "url": "https://resideo.com/careers",
      "status": 200,
-     "bytes": 153770
+     "bytes": 155551
     },
     {
      "url": "https://careers.resideo.com",
@@ -28869,7 +30264,7 @@
     "workable:resideo -> no board"
    ]
   },
-  "ms": 17689
+  "ms": 16704
  },
  {
   "company": "RSA Security India",
@@ -28894,17 +30289,17 @@
     {
      "url": "https://rsa.com/careers",
      "status": 404,
-     "bytes": 343074
+     "bytes": 343069
     },
     {
      "url": "https://rsa.com/career",
      "status": 404,
-     "bytes": 343043
+     "bytes": 343431
     },
     {
      "url": "https://rsa.com/jobs",
      "status": 404,
-     "bytes": 342983
+     "bytes": 342980
     }
    ],
    "candidates": [
@@ -28922,7 +30317,7 @@
     "workable:rsasecurity -> no board"
    ]
   },
-  "ms": 31419
+  "ms": 27683
  },
  {
   "company": "Rocket Software India",
@@ -29061,7 +30456,7 @@
     "workable:rocketsoftware -> no board"
    ]
   },
-  "ms": 6740
+  "ms": 5205
  },
  {
   "company": "ResMed India",
@@ -29787,12 +31182,12 @@
     {
      "url": "https://resmed.com/careers",
      "status": 200,
-     "bytes": 71592
+     "bytes": 71590
     },
     {
      "url": "https://careers.resmed.com",
      "status": 200,
-     "bytes": 71592
+     "bytes": 71590
     },
     {
      "url": "https://resmed.com/career",
@@ -29807,7 +31202,7 @@
     {
      "url": "https://resmed.com/join-us",
      "status": 200,
-     "bytes": 750807
+     "bytes": 676692
     }
    ],
    "candidates": [
@@ -29825,7 +31220,7 @@
     "workday:resmed -> 40 jobs"
    ]
   },
-  "ms": 20061
+  "ms": 21062
  },
  {
   "company": "Rimini Street India",
@@ -31778,7 +33173,7 @@
     "workday:riministreet -> 110 jobs"
    ]
   },
-  "ms": 24975
+  "ms": 25938
  },
  {
   "company": "Redis India",
@@ -31999,7 +33394,7 @@
     "workable:redis -> no board"
    ]
   },
-  "ms": 11633
+  "ms": 9421
  },
  {
   "company": "Rippling India",
@@ -32169,7 +33564,7 @@
     "workable:rippling -> no board"
    ]
   },
-  "ms": 9791
+  "ms": 9942
  },
  {
   "company": "RudderStack India",
@@ -32253,7 +33648,7 @@
     "rippling:rudderstack-careers -> 1 jobs"
    ]
   },
-  "ms": 3318
+  "ms": 1246
  },
  {
   "company": "Rolls-Royce India",
@@ -32382,7 +33777,7 @@
     "workable:rollsroyce -> no board"
    ]
   },
-  "ms": 10476
+  "ms": 10764
  },
  {
   "company": "Roche India",
@@ -32488,7 +33883,7 @@
     "workable:roche -> no board"
    ]
   },
-  "ms": 56246
+  "ms": 58165
  },
  {
   "company": "RWS Group India",
@@ -33474,7 +34869,7 @@
     {
      "url": "https://rws.com/careers",
      "status": 200,
-     "bytes": 146462
+     "bytes": 145632
     },
     {
      "url": "https://careers.rws.com",
@@ -33485,22 +34880,32 @@
     {
      "url": "https://rws.com/career",
      "status": 404,
-     "bytes": 134707
+     "bytes": 134415
     },
     {
      "url": "https://rws.com/jobs",
      "status": 404,
-     "bytes": 134707
+     "bytes": 134415
     },
     {
      "url": "https://rws.com/join-us",
      "status": 404,
-     "bytes": 134707
+     "bytes": 134415
     },
     {
      "url": "https://rws.com/join-our-team",
      "status": 404,
-     "bytes": 134394
+     "bytes": 134415
+    },
+    {
+     "url": "https://rws.com/careers.html",
+     "status": 200,
+     "bytes": 145632
+    },
+    {
+     "url": "https://rws.com/company/careers",
+     "status": 404,
+     "bytes": 134687
     }
    ],
    "candidates": [
@@ -33511,7 +34916,7 @@
     "lever:rws -> 59 jobs"
    ]
   },
-  "ms": 5834
+  "ms": 10005
  },
  {
   "company": "Rapid7 India",
@@ -33574,14 +34979,14 @@
     "workable:rapid7 -> no board"
    ]
   },
-  "ms": 28463
+  "ms": 29761
  },
  {
   "company": "RTX India",
   "country": "United States",
   "careers": "https://rtx.com/careers",
   "source": null,
-  "error": "careers-page-read-but-lists-no-openings",
+  "error": "timed-out",
   "totalJobs": 0,
   "jobs": [],
   "enriched": 0,
@@ -33590,46 +34995,10 @@
   "closest": null,
   "closestEng": null,
   "trace": {
-   "pages": [
-    {
-     "url": "https://rtx.com/careers",
-     "status": 200,
-     "bytes": 381264
-    },
-    {
-     "url": "https://careers.rtx.com",
-     "status": 200,
-     "bytes": 381264
-    },
-    {
-     "url": "https://rtx.com/career",
-     "status": 404,
-     "bytes": 37826
-    },
-    {
-     "url": "https://rtx.com/jobs",
-     "status": 200,
-     "bytes": 381264
-    },
-    {
-     "url": "https://rtx.com/join-us",
-     "status": 404,
-     "bytes": 37828
-    },
-    {
-     "url": "https://rtx.com/join-our-team",
-     "status": 404,
-     "bytes": 37840
-    }
-   ],
-   "candidates": [
-    "phenom:_self(html)"
-   ],
-   "attempts": [
-    "phenom:_self -> no board"
-   ]
+   "pages": [],
+   "attempts": []
   },
-  "ms": 82570
+  "ms": 90004
  },
  {
   "company": "Rackspace Technology India",
@@ -34314,7 +35683,7 @@
     "workday:rackspace -> 32 jobs"
    ]
   },
-  "ms": 27008
+  "ms": 32661
  },
  {
   "company": "Ryan India",
@@ -34334,7 +35703,7 @@
     {
      "url": "https://ryan.com/careers",
      "status": 200,
-     "bytes": 65601
+     "bytes": 65600
     },
     {
      "url": "https://careers.ryan.com",
@@ -34345,7 +35714,7 @@
     {
      "url": "https://ryan.com/career",
      "status": 404,
-     "bytes": 43284
+     "bytes": 43283
     },
     {
      "url": "https://ryan.com/jobs",
@@ -34360,17 +35729,7 @@
     {
      "url": "https://ryan.com/join-our-team",
      "status": 404,
-     "bytes": 43290
-    },
-    {
-     "url": "https://ryan.com/careers.html",
-     "status": 404,
-     "bytes": 43289
-    },
-    {
-     "url": "https://ryan.com/company/careers",
-     "status": 404,
-     "bytes": 43292
+     "bytes": 43291
     }
    ],
    "candidates": [
@@ -34388,7 +35747,7 @@
     "workable:ryan -> no board"
    ]
   },
-  "ms": 24515
+  "ms": 35237
  },
  {
   "company": "Revvity India",
@@ -34532,7 +35891,7 @@
     "workable:revvity -> no board"
    ]
   },
-  "ms": 6835
+  "ms": 5490
  },
  {
   "company": "Rivos",
@@ -34686,6 +36045,6 @@
     "workable:rivosinc -> no board"
    ]
   },
-  "ms": 15628
+  "ms": 15886
  }
 ]

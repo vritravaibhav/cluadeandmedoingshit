@@ -495,10 +495,9 @@ module.exports=[
   "careers": "https://www.whsmithcareers.co.uk/"
  },
  {
-  "name": "Webhelp (Concentrix)",
+  "name": "Concentrix (formerly Webhelp)",
   "country": "France",
-  "site": "webhelp.com",
-  "careers": "https://jobs.concentrix.com/"
+  "site": "concentrix.com"
  },
  {
   "name": "Wolseley",

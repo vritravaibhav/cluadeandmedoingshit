@@ -326,3 +326,37 @@ First run: 23/25 postings read for real requirements, 2 generic.
 2. Boards that fail to load in Chromium: Coforge (ERR_HTTP2_PROTOCOL_ERROR),
    MakeMyTrip (timeout). May need an HTTP/1.1 retry.
 3. Periodic domain re-verification (free).
+
+## Proposal + application packs (cycle 15)
+weekendplan_freelance/proposals.js drafts a bid proposal per gig from
+1-bid-now/gigs.json -> proposals.txt. NOT a copy of the job cover letter: a
+client skimming twenty bids stops reading anything that opens with the
+candidate. It opens on what they asked for, adds only the evidence that gig
+earns, quotes the client's own words, and leaves a MARKED slot for the one
+human sentence about their project.
+  DESIGN NOTE: a first version wrote "the part that usually decides whether it
+  works is getting X right early" — manufactured insight, and on a single-skill
+  gig it degenerated into "you're after Flutter ... getting Flutter right
+  early". A template-looking bid wastes one of six monthly bids, so the script
+  now states only what it actually knows and leaves the rest to the human.
+Application packs now exist for both job folders:
+  node w/apply-india.js --from=../weekendplan/1-java-flutter-2yr/jobs.json \
+                        --out=../weekendplan/1-java-flutter-2yr/apply-pack.txt --top=25
+  (same for 2-java-flutter-3yr; folder 2 pack = 20 roles)
+
+## Domain re-verification (cycle 15)
+5,938 ok / 8 redirect / 4 dead / 2 parked — cycle 8's fixes held.
+Acted on: eZee Technosys -> yanoljacloudsolution.com (a real rebrand my cycle-8
+table missed), Garuda Aerospace garudaerospace.com -> garudaaerospace.com (a
+TYPO in my own authored list), Webhelp -> concentrix.com (merged). Dropped
+CredR, Fibonalabs, Lulu Group (parked on HugeDomains).
+TOOL BUG FOUND AND FIXED: the PARKED regex listed `dan\.com` bare, which
+matched as a SUBSTRING inside willdan.com and flagged a live company as parked.
+Marketplace hosts are now anchored to a host boundary. Fourth false-positive
+class in this verifier — always confirm a flagged domain serially before acting.
+
+## Next cycle
+1. Keep hand-reading folder 1 and 1-bid-now — 5 cycles running, still finding
+   real defects that no total surfaces.
+2. Boards that fail to load in Chromium: Coforge (ERR_HTTP2_PROTOCOL_ERROR),
+   MakeMyTrip (timeout). May need an HTTP/1.1 retry.

@@ -49,7 +49,14 @@ const UA =
   'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 ' +
   '(KHTML, like Gecko) Chrome/124.0 Safari/537.36';
 
-const PARKED = /(hugedomains|domain (is )?for sale|buy this domain|godaddy\.com\/domainsearch|sedoparking|parkingcrew|afternic|dan\.com|namecheap.*parking|this domain (may be|is) for sale)/i;
+/*
+ * `dan\.com` used to be listed bare here, and it matched as a SUBSTRING inside
+ * willdan.com — flagging a live company as a parked domain. Marketplace hosts
+ * must be anchored to a host boundary (scheme, //, or a leading dot), never
+ * matched loose against page text.
+ */
+const PARKED =
+  /(hugedomains|domain (is )?for sale|buy this domain|godaddy\.com\/domainsearch|sedoparking|parkingcrew|afternic|(?:^|\/\/|\.)dan\.com\b|namecheap.*parking|this domain (may be|is) for sale)/i;
 
 const host = (u) => {
   try { return new URL(u).hostname.replace(/^www\./, '').toLowerCase(); } catch { return ''; }

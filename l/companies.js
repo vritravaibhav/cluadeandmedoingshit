@@ -711,12 +711,6 @@ module.exports=[
   "careers": "https://lucidworks.com/careers/"
  },
  {
-  "name": "Lulu Group International",
-  "country": "UAE",
-  "site": "luluinternational.com",
-  "careers": "https://www.luluinternational.com/careers"
- },
- {
   "name": "Lululemon",
   "country": "Canada",
   "site": "lululemon.com",

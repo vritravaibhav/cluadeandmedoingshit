@@ -823,7 +823,7 @@ module.exports=[
  {
   "name": "Garuda Aerospace",
   "country": "India",
-  "site": "garudaerospace.com"
+  "site": "garudaaerospace.com"
  },
  {
   "name": "Gramophone",

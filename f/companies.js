@@ -790,11 +790,6 @@ module.exports=[
   "site": "fsltechnologies.com"
  },
  {
-  "name": "Fibonalabs",
-  "country": "India",
-  "site": "fibonalabs.com"
- },
- {
   "name": "Frugal Testing",
   "country": "India",
   "site": "frugaltesting.com",

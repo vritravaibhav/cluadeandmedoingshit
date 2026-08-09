@@ -1468,11 +1468,6 @@ module.exports=[
   "site": "cloudkeeper.com"
  },
  {
-  "name": "CredR",
-  "country": "India",
-  "site": "credr.com"
- },
- {
   "name": "CogniTensor",
   "country": "India",
   "site": "cognitensor.com"

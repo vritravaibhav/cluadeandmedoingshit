@@ -343,7 +343,7 @@ async function main() {
       }
       done++;
       if (jobs.length) {
-        found.set(`${t.L}:${t.i}`, jobs);
+        found.set(`${t.L} ${t.company.company}`, jobs);
         // Persist immediately — see JSONL comment above.
         try {
           fs.appendFileSync(JSONL, JSON.stringify({ L: t.L, i: t.i, company: t.company.company, jobs }) + '\n');
@@ -365,13 +365,27 @@ async function main() {
  * re-run on its own (--merge-only) after an interrupted render.
  */
 function mergeFromDisk(attempted = 0) {
+  /*
+   * Keyed by letter + COMPANY NAME, never by array index.
+   *
+   * The first version keyed on `${letter}:${index}` into companies.js. That
+   * file is edited constantly — companies get added by research, dropped by
+   * domain verification — so an index recorded in one run points at a
+   * different company in the next. Auditing the log found 64 of 1,432 entries
+   * had drifted: Buhler's postings would have merged into Bureau, Engati's
+   * into Estuate. Silent mis-attribution, the same failure as a guessed ATS
+   * token, arrived at from a different direction.
+   *
+   * The name is stable across edits and is already recorded on every line.
+   * Later entries win, so a fresh render supersedes a stale one.
+   */
   const found = new Map();
   if (fs.existsSync(JSONL)) {
     for (const line of fs.readFileSync(JSONL, 'utf8').split('\n')) {
       if (!line.trim()) continue;
       try {
         const r = JSON.parse(line);
-        if (r && r.jobs && r.jobs.length) found.set(`${r.L}:${r.i}`, r.jobs);
+        if (r && r.company && r.jobs && r.jobs.length) found.set(`${r.L} ${r.company}`, r.jobs);
       } catch { /* truncated final line after a kill — skip it */ }
     }
   }
@@ -382,8 +396,8 @@ function mergeFromDisk(attempted = 0) {
     if (!fs.existsSync(f)) continue;
     const data = JSON.parse(fs.readFileSync(f, 'utf8'));
     let touched = false;
-    data.forEach((entry, i) => {
-      const jobs = found.get(`${L}:${i}`);
+    data.forEach((entry) => {
+      const jobs = found.get(`${L} ${entry.company}`);
       if (!jobs || !jobs.length) return;
       const company = { name: entry.company, country: entry.country, site: '' };
       const boiler = ENGINE.boilerplateStacks(jobs);

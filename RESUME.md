@@ -388,3 +388,37 @@ does nothing is worse than no filter, because the comment claims it works.
    the list was clean and the pack was not.
 2. Boards that fail to load in Chromium: Coforge (ERR_HTTP2_PROTOCOL_ERROR),
    MakeMyTrip (timeout). May need an HTTP/1.1 retry.
+
+## SILENT DATA CORRUPTION FOUND AND FIXED (cycle 17) — read this before editing
+Two separate bugs, both in code I wrote, both silent:
+
+1. render-scan's JSONL was keyed `${letter}:${arrayIndex}` into companies.js.
+   That file is edited every cycle (research adds, verification drops), so an
+   index recorded in one run points at a DIFFERENT company in the next. Audit
+   found 64 of 1,432 entries had drifted: Buhler's postings merging into
+   Bureau, Engati's into Estuate. Mis-attribution, same class as a guessed ATS
+   token. Now keyed on letter + COMPANY NAME, which is stable.
+
+2. A `perl -0pi -e` edit wrote a literal NUL byte into a template literal
+   (`found.set(\`${r.L}<NUL>${r.company}\`)`), so the map was keyed "a<NUL>Co"
+   while lookups built "a Co". Every lookup missed and the merge reported
+   "boards recovered: 0" while exiting successfully. After the fix the same
+   data yielded 303 boards / 3,645 postings.
+   perl -0 treats NUL as the record separator — DO NOT use `perl -0pi` for
+   source edits in this repo. Use the Edit tool. weekendplan/nulscan.js scans
+   every script for stray NULs (`--fix` repairs them); run it after any
+   scripted edit.
+
+## Second hop: finds the URL, does not always extract
+Delhivery/Flipkart/Hexaware still return 0 after the hop, though isolated tests
+confirm it locates their board URLs (darwinbox / turbohire / jobs.hexaware).
+The hop navigates but the destination yields nothing — likely needs a further
+wait or interaction on the target board. NOT yet solved; do not assume it is.
+
+## Closed: Chromium load failures are not worth chasing
+Hard timeouts are 7 of 1,309 render attempts (0.5%). Coforge and MakeMyTrip are
+in that set. Dropping this from the backlog.
+
+## Next cycle
+1. Second-hop extraction (above) — the URL is found, the jobs are not.
+2. Keep hand-reading the packs and lists.

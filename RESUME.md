@@ -360,3 +360,31 @@ class in this verifier — always confirm a flagged domain serially before actin
    real defects that no total surfaces.
 2. Boards that fail to load in Chromium: Coforge (ERR_HTTP2_PROTOCOL_ERROR),
    MakeMyTrip (timeout). May need an HTTP/1.1 retry.
+
+## Pack audit (cycle 16) — two real defects in what actually gets SENT
+Hand-read the generated apply-pack, not just the job list. When a posting could
+not be fetched (JS-only board, bot wall) the cover note emitted:
+    Most relevant to this role:
+    <nothing>
+    ...and can share code for any of the above.
+An empty evidence list plus a dangling reference. That letter is worse than
+sending none — it reads careless to the one person you are trying to impress.
+Now falls back to the three strongest general claims and re-titles the section
+"What I bring:". Also stripped ATS placeholder tokens out of the location line
+(iCIMS emits "Bangalore, UNAVAILABLE, IN").
+
+## A no-op fix I wrote and reverted (worth not repeating)
+A "Flutterwave App Developer" gig (African payments company) sits in the Flutter
+shortlist. I assumed a substring match and added a FALSE_FRIENDS strip for
+flutterwave/javascript. It changed nothing, because STACK is already
+word-bounded — \bflutter\b never matched "Flutterwave". The real evidence is a
+standalone "Flutter / Dart" label Twine itself attached to the listing. Reverted
+rather than leave dead code carrying a confident but wrong explanation.
+LESSON: confirm the mechanism before writing the fix; a filter that silently
+does nothing is worse than no filter, because the comment claims it works.
+
+## Next cycle
+1. Keep hand-reading — now including the PACKS, not just the lists. This cycle
+   the list was clean and the pack was not.
+2. Boards that fail to load in Chromium: Coforge (ERR_HTTP2_PROTOCOL_ERROR),
+   MakeMyTrip (timeout). May need an HTTP/1.1 retry.

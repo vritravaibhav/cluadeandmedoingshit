@@ -223,18 +223,30 @@ function coverNote(job, text) {
     /flutter|dart|spring|java|rest|micro|sql|mongo|redis|firebase|android|kotlin|docker|websocket|test/i.test(w)
   );
 
-  const body = ev.slice(0, 4).map((e) => `• ${e.line}`).join('\n');
+  /*
+   * When the posting could not be fetched (JS-only board, bot wall) there is
+   * nothing to match evidence against, and an earlier version happily emitted
+   * "Most relevant to this role:" followed by an empty list, then "code for any
+   * of the above" referring to nothing. That letter is worse than sending none
+   * — it reads as careless to the one person you are trying to impress.
+   * Fall back to the strongest general claims instead, which are true of every
+   * role this pack covers.
+   */
+  const FALLBACK = ['flutter', 'spring', 'native'];
+  const chosen = ev.length ? ev.slice(0, 4) : EVIDENCE.filter((e) => FALLBACK.includes(e.k));
+  const body = chosen.map((e) => `• ${e.line}`).join('\n');
 
   return [
     `Hi,`,
     ``,
     `I'd like to apply for ${job.title}${job.company ? ` at ${job.company}` : ''}.`,
     ``,
-    `I'm a software engineer with ~${yearsExp} years building exactly this kind of system — currently ${ME.current}. ${
-      overlap.length ? `The posting asks for ${overlap.slice(0, 5).join(', ')}; that is the stack I work in daily.` : ''
-    }`,
+    (
+      `I'm a software engineer with ~${yearsExp} years building exactly this kind of system — currently ${ME.current}.` +
+      (overlap.length ? ` The posting asks for ${overlap.slice(0, 5).join(', ')}; that is the stack I work in daily.` : '')
+    ),
     ``,
-    `Most relevant to this role:`,
+    ev.length ? `Most relevant to this role:` : `What I bring:`,
     body,
     ``,
     `I'm based in India, available on ${ME.noticePeriod} notice, and can share code for any of the above.`,
@@ -336,7 +348,13 @@ const STD_ANSWERS = [
     if (j._closed) L.push('  !! THIS POSTING HAS CLOSED since the sweep — skip it.');
     L.push(`  apply at : ${j.url}`);
     L.push(`  board    : ${j.source}`);
-    L.push(`  location : ${j.location || 'India'}`);
+    // ATS exports leak placeholder tokens into the location field — iCIMS
+    // emits "Bangalore, UNAVAILABLE, IN". Drop them rather than print them.
+    const loc = String(j.location || '')
+      .split(/\s*,\s*/)
+      .filter((x) => x && !/^(unavailable|n\/a|na|null|undefined|none|tbd|remote-)$/i.test(x))
+      .join(', ');
+    L.push(`  location : ${loc || 'India'}`);
     L.push(`  exp asked: ${j.exp && j.exp.length ? j.exp.map(([a, b]) => `${a}-${b}y`).join(' / ') : 'not stated'}`);
     if (j._asks.length) L.push(`  they want: ${j._asks.join(', ')}`);
     L.push('');

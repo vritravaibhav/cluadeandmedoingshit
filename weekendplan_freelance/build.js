@@ -167,6 +167,17 @@ function main() {
    * actually name the stack — match on that directly instead.
    */
   const STACK = /\b(flutter|dart|java|spring\s?boot|spring|android|kotlin|firebase|firestore|jetpack)\b/i;
+  /*
+   * A note on near-misses, since this looks wrong at a glance: a "Flutterwave
+   * App Developer" gig sits in the shortlist. Flutterwave is an African
+   * payments company, not Flutter — but the match is not a substring bug. The
+   * STACK regex is word-bounded (\bflutter\b does not match "Flutterwave"),
+   * and the evidence is a genuine standalone "Flutter / Dart" label that Twine
+   * itself attached to the listing. So the gig really is tagged for this stack
+   * upstream; whether the client wants Flutter is a judgement the data cannot
+   * settle. Left in deliberately — one borderline gig in sixty is cheaper than
+   * a heuristic that starts dropping real ones.
+   */
   const onStack = (j) =>
     STACK.test(
       `${j.title || ''} ${j.text || ''} ${[].concat(j.stackLabels || j.stacks || j.inferredStacks || []).join(' ')}`,

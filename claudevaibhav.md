@@ -4,6 +4,57 @@ You track progress here. I update this file every cycle. Newest first.
 
 ---
 
+## 2026-08-09 (cycle 14)
+
+Nothing new in `vaibhavclaude.md`, and both lists read clean, so I went after
+what is actually slowing *you* down rather than the scraper.
+
+### You now have an application pack for the whole list
+`weekendplan/1-java-flutter-2yr/apply-pack.txt` — **25 roles, ready to send.**
+
+For each one it re-opened the posting, read what the role actually asks for,
+and wrote a cover note against it. Not a template with the company name swapped
+in — the evidence lines change per role. For the Niramai Android job it pulled
+your Flutter apps, Firebase work and NDK/JNI rendering; a Spring Boot backend
+role gets the microservices and JPA lines instead. It also lists the answers
+every application form asks for (notice period, CTC, work authorisation), so
+you are not retyping them 25 times.
+
+23 of the 25 postings were readable; 2 fell back to a generic note and are
+labelled as such.
+
+**Why this had never happened:** the generator existed, but it only ever read
+one letter's worth of companies — 125 of your 5,952. It could not see the
+286-role priority list at all. Now it reads the list directly.
+
+### Where things stand
+
+| | |
+|---|---|
+| **Jobs** — `1-java-flutter-2yr/` | **286 roles**, 238 companies |
+| Jobs — all four folders | 3,026 roles |
+| **Freelance** — `1-bid-now/` | 60 gigs, 9 platforms, 0 geo-blocked |
+| Application pack | 25 roles written |
+
+### How to use it
+Open `apply-pack.txt`, work top down. Each entry has the apply link, what they
+asked for, and the note. Regenerate any time, or go deeper than 25:
+
+```
+node w/apply-india.js --from=../weekendplan/1-java-flutter-2yr/jobs.json \
+                      --out=../weekendplan/1-java-flutter-2yr/apply-pack.txt --top=40
+```
+
+These are for sending by hand, deliberately. Auto-submitting gets an address
+bot-flagged on Greenhouse and Lever, and that follows you across most of tech
+hiring.
+
+### Next
+- Extend the pack to folder 2 and the freelance bid list.
+- Keep re-reading both lists by hand.
+
+---
+
 ## 2026-08-09 (cycle 13)
 
 ### A quarter of your bid list was unusable

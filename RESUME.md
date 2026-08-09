@@ -309,8 +309,20 @@ Three times now a fix has been applied to one path and not its siblings:
 When fixing a class of bug, grep for every other place that produces or
 consumes the same thing BEFORE calling it done.
 
+## Application pack generalised (cycle 14)
+w/apply-india.js was hardwired to careerv1.results.json — letter W only, 125 of
+5,952 companies — so the 286-role priority list had no application material.
+It now takes --from / --out and detects a weekendplan jobs.json (already
+filtered/deduped/ranked, so used as-is; the old results.json shape still works):
+  node w/apply-india.js --from=../weekendplan/1-java-flutter-2yr/jobs.json \
+                        --out=../weekendplan/1-java-flutter-2yr/apply-pack.txt --top=25
+First run: 23/25 postings read for real requirements, 2 generic.
+
 ## Next cycle
-1. Keep hand-reading both lists — 4 cycles running, still finding real defects.
+1. Extend the pack to folder 2 and to weekendplan_freelance/1-bid-now (the
+   cover-note logic is generic; the freelance one wants proposal framing, not
+   a job cover letter).
+2. Keep hand-reading both lists — 4 cycles running, still finding real defects.
 2. Boards that fail to load in Chromium: Coforge (ERR_HTTP2_PROTOCOL_ERROR),
    MakeMyTrip (timeout). May need an HTTP/1.1 retry.
 3. Periodic domain re-verification (free).

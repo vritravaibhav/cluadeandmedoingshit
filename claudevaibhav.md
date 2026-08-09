@@ -4,6 +4,56 @@ You track progress here. I update this file every cycle. Newest first.
 
 ---
 
+## 2026-08-09 (cycle 15)
+
+### You can now send, not just browse
+
+| File | What it is |
+|---|---|
+| `weekendplan/1-java-flutter-2yr/apply-pack.txt` | 25 job applications, written |
+| `weekendplan/2-java-flutter-3yr/apply-pack.txt` | 20 more |
+| `weekendplan_freelance/1-bid-now/proposals.txt` | **20 freelance bid proposals** |
+
+The freelance proposals are a different thing from the job letters on purpose.
+A client is skimming twenty bids and stops reading anything that opens with the
+freelancer. So each one opens on what *they* asked for, adds only the evidence
+that gig actually earns, and quotes their own words underneath.
+
+**One deliberate gap in them.** Each proposal has a marked blank line for one
+sentence about their specific project. I left it blank rather than filling it,
+because I do not know their project and a made-up line reads as a template —
+and a template bid burns one of your six monthly bids for nothing. Their brief
+is quoted right below it, so writing that sentence takes about fifteen seconds
+and is the single highest-value edit you can make.
+
+My first version *did* try to fill it, and produced "you're after Flutter, and
+the part that usually decides whether it works is getting Flutter right early."
+That is filler. I took it out.
+
+### Company list health
+Re-checked all 5,952 domains: **5,938 fine**. Fixed three that had moved —
+eZee Technosys is now Yanolja Cloud Solution, Webhelp merged into Concentrix,
+and Garuda Aerospace was a **typo in my own list** (`garudaerospace` vs
+`garudaaerospace`). Dropped three whose domains are gone or parked.
+
+Also fixed a bug in my own checker: it had flagged **Willdan** as a parked
+domain because the string `dan.com` appears inside `willdan.com`. A live
+company nearly got deleted over a substring match.
+
+### Where things stand
+
+| | |
+|---|---|
+| Jobs — `1-java-flutter-2yr/` | 286 roles, 238 companies |
+| Jobs — all four folders | 3,026 roles |
+| Freelance — `1-bid-now/` | 60 gigs, 9 platforms, 0 geo-blocked |
+| Ready to send | 45 job applications + 20 proposals |
+
+### Next
+- Keep re-reading both lists by hand. Five cycles, still finding things.
+
+---
+
 ## 2026-08-09 (cycle 14)
 
 Nothing new in `vaibhavclaude.md`, and both lists read clean, so I went after

@@ -38,12 +38,12 @@
     {
      "url": "https://iauro.com/jobs",
      "status": 200,
-     "bytes": 657450
+     "bytes": 658322
     },
     {
      "url": "https://iauro.com/join-us",
      "status": 404,
-     "bytes": 657912
+     "bytes": 657982
     }
    ],
    "candidates": [
@@ -61,7 +61,7 @@
     "workable:iauro -> no board"
    ]
   },
-  "ms": 10845
+  "ms": 12408
  },
  {
   "company": "iBase-t",
@@ -198,7 +198,7 @@
     {
      "url": "https://ibaset.com/careers",
      "status": 200,
-     "bytes": 104801
+     "bytes": 104805
     },
     {
      "url": "https://ibaset.com/career",
@@ -243,7 +243,7 @@
     {
      "url": "https://ibaset.com/",
      "status": 200,
-     "bytes": 158607
+     "bytes": 158609
     }
    ],
    "candidates": [
@@ -258,7 +258,7 @@
     "keka:ibaset -> 3 jobs"
    ]
   },
-  "ms": 11401
+  "ms": 11873
  },
  {
   "company": "Ibexlabs",
@@ -429,7 +429,7 @@
     {
      "url": "https://ibexlabs.com/careers/",
      "status": 200,
-     "bytes": 466149
+     "bytes": 466153
     },
     {
      "url": "https://careers.ibexlabs.com",
@@ -440,12 +440,12 @@
     {
      "url": "https://ibexlabs.com/careers",
      "status": 200,
-     "bytes": 466149
+     "bytes": 466153
     },
     {
      "url": "https://ibexlabs.com/career",
      "status": 200,
-     "bytes": 466149
+     "bytes": 466153
     },
     {
      "url": "https://ibexlabs.com/jobs",
@@ -470,12 +470,12 @@
     {
      "url": "https://ibexlabs.com/company/careers",
      "status": 200,
-     "bytes": 466149
+     "bytes": 466153
     },
     {
      "url": "https://ibexlabs.com/about/careers",
      "status": 200,
-     "bytes": 466149
+     "bytes": 466153
     },
     {
      "url": "https://ibexlabs.com/current-openings",
@@ -485,7 +485,7 @@
     {
      "url": "https://ibexlabs.com/",
      "status": 200,
-     "bytes": 507100
+     "bytes": 507778
     }
    ],
    "candidates": [
@@ -500,7 +500,7 @@
     "keka:ibexlabs -> 5 jobs"
    ]
   },
-  "ms": 11850
+  "ms": 13379
  },
  {
   "company": "IBM",
@@ -567,7 +567,7 @@
    "candidates": [],
    "attempts": []
   },
-  "ms": 40743
+  "ms": 56977
  },
  {
   "company": "IBS Software",
@@ -650,7 +650,7 @@
     "workable:ibsplc -> no board"
    ]
   },
-  "ms": 27240
+  "ms": 26306
  },
  {
   "company": "IBSFINtech",
@@ -738,7 +738,7 @@
     "workable:ibsfintech -> no board"
    ]
   },
-  "ms": 7918
+  "ms": 8056
  },
  {
   "company": "iBUS Network Solutions",
@@ -827,7 +827,7 @@
     "workable:ibusglobal -> no board"
    ]
   },
-  "ms": 23233
+  "ms": 23226
  },
  {
   "company": "IceCream Labs",
@@ -986,7 +986,7 @@
     "workable:icecreamlabs -> no board"
    ]
   },
-  "ms": 14937
+  "ms": 9530
  },
  {
   "company": "Icertis",
@@ -1130,7 +1130,7 @@
     "workable:icertis -> no board"
    ]
   },
-  "ms": 15800
+  "ms": 14619
  },
  {
   "company": "ICF",
@@ -1138,7 +1138,7 @@
   "careers": "https://www.icf.com/careers",
   "source": "phenom:_self",
   "error": null,
-  "totalJobs": 185,
+  "totalJobs": 182,
   "jobs": [
    {
     "title": "Computer Scientist / Software Developer, Junior - Security Clearance Required",
@@ -1158,7 +1158,7 @@
    {
     "title": "Data Engineer (Clearance Required)",
     "location": "Reston, Virginia",
-    "url": "https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Reston-VA/Data-Engineer--Clearance-Required-_R2601258/apply",
+    "url": "https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Reston-VA/Data-Engineer--Clearance-Required-_R2601816/apply",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
@@ -1178,7 +1178,7 @@
    {
     "title": "Data Engineer (Clearance Required)",
     "location": "Reston, Virginia",
-    "url": "https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Reston-VA/Data-Engineer--Clearance-Required-_R2601816/apply",
+    "url": "https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Reston-VA/Data-Engineer--Clearance-Required-_R2601258/apply",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
@@ -1436,21 +1436,6 @@
     "score": 34
    },
    {
-    "title": "Substation Protection & Control Engineer - REMOTE",
-    "location": "Cincinnati, Ohio",
-    "url": "https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Cincinnati-OH/Distribution-Substation-Protection---Control-Engineer---REMOTE_R2600951/apply",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": true,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 34
-   },
-   {
     "title": "DevSecOps Engineer (Top Secret Clearance)",
     "location": "Reston, Virginia",
     "url": "https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Reston-VA/DevSecOps-Engineer--Top-Secret-Clearance-_R2602073-1/apply",
@@ -1466,9 +1451,9 @@
     "score": 34
    },
    {
-    "title": "Network Engineer - (US only)",
+    "title": "ServiceNow ITSM Process Integrator/Developer",
     "location": "Reston, Virginia",
-    "url": "https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Reston-VA/Network-Engineer----US-only-_R2600783/apply",
+    "url": "https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Reston-VA/ITSM-Process-Integrator-Developer_R2602176/apply",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
@@ -1484,6 +1469,21 @@
     "title": "Software Security Engineer- Cloud/GovCloud (Top Secret cleared)",
     "location": "Reston, Virginia",
     "url": "https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Reston-VA/Software-Security-Engineer--Cloud-GovCloud--Top-Secret-cleared-_R2602072/apply",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": true,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 34
+   },
+   {
+    "title": "Network Engineer - (US only)",
+    "location": "Reston, Virginia",
+    "url": "https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Reston-VA/Network-Engineer----US-only-_R2600783/apply",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
@@ -1544,21 +1544,6 @@
     "title": "Security Engineer - Remote",
     "location": "Reston, Virginia",
     "url": "https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Reston-VA/Security-Engineer---Remote_R2602303/apply",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": true,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 34
-   },
-   {
-    "title": "Salesforce Integration Engineer (Public Trust)",
-    "location": "Reston, Virginia",
-    "url": "https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Reston-VA/Salesforce-Integration-Engineer--Public-Trust-_R2602429/apply",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
@@ -1659,21 +1644,6 @@
     "title": "Analyst - Natural Gases & Fuels",
     "location": "New Delhi",
     "url": "https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/New-Delhi-India/Analyst---Natural-Gases---Fuels_R2601900/apply",
-    "india": true,
-    "locationSaysIndia": true,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 19
-   },
-   {
-    "title": "Energy Market Analyst - Power",
-    "location": "New Delhi",
-    "url": "https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/New-Delhi-India/Energy-Market-Analyst---Power_R2602081-1/apply",
     "india": true,
     "locationSaysIndia": true,
     "hasLocation": true,
@@ -1806,21 +1776,6 @@
     "score": 16
    },
    {
-    "title": "ICF Incorporated, LLC: Senior Software Engineer – Reston, VA",
-    "location": "Reston, Virginia",
-    "url": "https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Reston-VA/ICF-Incorporated--LLC--Senior-Software-Engineer---Reston--VA_R2601993/apply",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": true,
-    "java": false,
-    "flutter": false,
-    "senior": true,
-    "exp": [],
-    "expFits2": false,
-    "score": 12
-   },
-   {
     "title": "Senior Cyber Range Engineer (High Level Clearance Required)",
     "location": "Fort Meade, Maryland",
     "url": "https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Fort-Meade-MD/Senior-Cyber-Range-Engineer--High-Level-Clearance-Required-_R2601208-1/apply",
@@ -1836,9 +1791,9 @@
     "score": 12
    },
    {
-    "title": "ICF Incorporated, LLC: Senior Software Engineer (Multiple Positions) Reston, VA.",
+    "title": "ICF Incorporated, LLC: Senior Software Engineer – Reston, VA",
     "location": "Reston, Virginia",
-    "url": "https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Reston-VA/ICF-Incorporated--LLC--Senior-Software-Engineer--Multiple-Positions--Reston--VA_R2602023/apply",
+    "url": "https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Reston-VA/ICF-Incorporated--LLC--Senior-Software-Engineer---Reston--VA_R2601993/apply",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
@@ -1851,9 +1806,9 @@
     "score": 12
    },
    {
-    "title": "Senior Transmission Line Engineer - REMOTE",
-    "location": "Houston, Texas",
-    "url": "https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Houston-TX/Senior-Transmission-Line-Engineer---REMOTE_R2601221-1/apply",
+    "title": "ICF Incorporated, LLC: Senior Software Engineer (Multiple Positions) Reston, VA.",
+    "location": "Reston, Virginia",
+    "url": "https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Reston-VA/ICF-Incorporated--LLC--Senior-Software-Engineer--Multiple-Positions--Reston--VA_R2602023/apply",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
@@ -2016,9 +1971,9 @@
     "score": 4
    },
    {
-    "title": "Budget Coordinator/Cost Analyst",
-    "location": "Reston, Virginia",
-    "url": "https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Reston-VA/Budget-Coordinator-Cost-Analyst_R2601831/apply",
+    "title": "Cyber Partner Engagement Specialist",
+    "location": "Arlington, Virginia",
+    "url": "https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Arlington-VA/Cyber-Partner-Engagement-Specialist_R2601759/apply",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
@@ -2031,9 +1986,9 @@
     "score": 4
    },
    {
-    "title": "Residential Energy Auditor",
-    "location": "Ottawa, Ontario",
-    "url": "https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Ottawa-ON/QA-QC-Lead_R2601691/apply",
+    "title": "Budget Coordinator/Cost Analyst",
+    "location": "Reston, Virginia",
+    "url": "https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Reston-VA/Budget-Coordinator-Cost-Analyst_R2601831/apply",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
@@ -2091,9 +2046,9 @@
     "score": 4
    },
    {
-    "title": "On-Call Research Specialist, Physical Activity (Future Opportunity)",
-    "location": "Reston, Virginia",
-    "url": "https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Reston-VA/Research-Specialist--Physical-Activity--Future-Opportunity-_R2601951/apply",
+    "title": "Residential Energy Auditor",
+    "location": "Ottawa, Ontario",
+    "url": "https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Ottawa-ON/QA-QC-Lead_R2601691/apply",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
@@ -2106,9 +2061,9 @@
     "score": 4
    },
    {
-    "title": "Environmental Specialist (SECRET CLEARANCE)",
-    "location": "Huntsville, Alabama",
-    "url": "https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Huntsville-AL/Environmental-Specialist--SECRET-CLEARANCE-_R2601994/apply",
+    "title": "On-Call Research Specialist, Physical Activity (Future Opportunity)",
+    "location": "Reston, Virginia",
+    "url": "https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Reston-VA/Research-Specialist--Physical-Activity--Future-Opportunity-_R2601951/apply",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
@@ -2136,9 +2091,9 @@
     "score": 4
    },
    {
-    "title": "Event Marketing Specialist",
-    "location": "Reston, Virginia",
-    "url": "https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Reston-VA/Event-Marketing-Specialist_R2601742/apply",
+    "title": "Environmental Specialist (SECRET CLEARANCE)",
+    "location": "Huntsville, Alabama",
+    "url": "https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Huntsville-AL/Environmental-Specialist--SECRET-CLEARANCE-_R2601994/apply",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
@@ -2331,9 +2286,9 @@
     "score": 4
    },
    {
-    "title": "Scientific Writer/Editor - ON-CALL",
-    "location": "Fairfax, Virginia",
-    "url": "https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Nationwide-Remote-Office-US99/Scientific-Writer-Editor---ON-CALL_R2602145/apply",
+    "title": "ICF Incorporated, LLC: Enterprise Atlassian Administrator– Reston, VA",
+    "location": "Reston, Virginia",
+    "url": "https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Reston-VA/ICF-Incorporated--LLC--Enterprise-Atlassian-Administrator--Reston--VA_R2602250/apply",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
@@ -2349,21 +2304,6 @@
     "title": "Communications Coordinator, Media Relations (Future Opportunity)",
     "location": "Arlington, Virginia",
     "url": "https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Arlington-VA/Communications-Coordinator--Media-Relations--Future-Opportunity-_R2602174/apply",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 4
-   },
-   {
-    "title": "ICF Incorporated, LLC: Enterprise Atlassian Administrator– Reston, VA",
-    "location": "Reston, Virginia",
-    "url": "https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Reston-VA/ICF-Incorporated--LLC--Enterprise-Atlassian-Administrator--Reston--VA_R2602250/apply",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
@@ -2451,9 +2391,9 @@
     "score": 4
    },
    {
-    "title": "IT Business Analyst",
-    "location": "Newark, New Jersey",
-    "url": "https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Newark-NJ/IT-Business-Analyst_R2601281/apply",
+    "title": "Scientific Working Groups and Committees (SWC) Coordinator - ON-CALL",
+    "location": "Fairfax, Virginia",
+    "url": "https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Nationwide-Remote-Office-US99/Scientific-Working-Groups-and-Committees--SWC--Coordinator---ON-CALL_R2602280/apply",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
@@ -2466,9 +2406,9 @@
     "score": 4
    },
    {
-    "title": "Scientific Working Groups and Committees (SWC) Coordinator - ON-CALL",
-    "location": "Fairfax, Virginia",
-    "url": "https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Nationwide-Remote-Office-US99/Scientific-Working-Groups-and-Committees--SWC--Coordinator---ON-CALL_R2602280/apply",
+    "title": "IT Business Analyst",
+    "location": "Newark, New Jersey",
+    "url": "https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Newark-NJ/IT-Business-Analyst_R2601281/apply",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
@@ -2556,9 +2496,9 @@
     "score": 4
    },
    {
-    "title": "Project Finance Controller",
-    "location": "Reston, Virginia",
-    "url": "https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Reston-VA/Project-Finance-Controller_R2602338/apply",
+    "title": "Child Welfare Auditor - ON-CALL - Remote",
+    "location": "Fairfax, Virginia",
+    "url": "https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Nationwide-Remote-Office-US99/Child-Welfare-Auditor---ON-CALL---Remote_R2602387/apply",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
@@ -2571,9 +2511,9 @@
     "score": 4
    },
    {
-    "title": "Child Welfare Auditor - ON-CALL - Remote",
-    "location": "Fairfax, Virginia",
-    "url": "https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Nationwide-Remote-Office-US99/Child-Welfare-Auditor---ON-CALL---Remote_R2602387/apply",
+    "title": "Project Finance Controller",
+    "location": "Reston, Virginia",
+    "url": "https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Reston-VA/Project-Finance-Controller_R2602338/apply",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
@@ -2629,6 +2569,26 @@
     "exp": [],
     "expFits2": false,
     "score": 4
+   },
+   {
+    "title": "Cybersecurity Strategist (Future Opportunity)",
+    "location": "Arlington, Virginia",
+    "url": "https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Arlington-VA/Cybersecurity-Strategist--Future-Opportunity-_R2601761/apply",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [
+     [
+      5,
+      9
+     ]
+    ],
+    "expFits2": false,
+    "score": 0
    },
    {
     "title": "Senior Energy Market Consultant - Power",
@@ -2691,9 +2651,9 @@
     "score": -6
    },
    {
-    "title": "Lead Child Welfare Specialist",
+    "title": "Senior Child Welfare Specialist",
     "location": "Reston, Virginia",
-    "url": "https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Reston-VA/Lead-Child-Welfare-Specialist_R2600561/apply",
+    "url": "https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Reston-VA/Senior-Child-Welfare-Specialist_R2600553/apply",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
@@ -2706,9 +2666,9 @@
     "score": -18
    },
    {
-    "title": "Senior Child Welfare Specialist",
+    "title": "Lead Child Welfare Specialist",
     "location": "Reston, Virginia",
-    "url": "https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Reston-VA/Senior-Child-Welfare-Specialist_R2600553/apply",
+    "url": "https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Reston-VA/Lead-Child-Welfare-Specialist_R2600561/apply",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
@@ -2751,9 +2711,9 @@
     "score": -18
    },
    {
-    "title": "Senior Energy Market Modeler - Optimization & Planning",
+    "title": "Family Engagement Professional Development Specialist, National Center on Head Start Early Learning, Health and Family Engagement",
     "location": "Reston, Virginia",
-    "url": "https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Reston-VA/Senior-Energy-Market-Modeler---Optimization---Planning_R2600928/apply",
+    "url": "https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Reston-VA/Family-Engagement-Professional-Development-Specialist--National-Center-on-Head-Start-Early-Learning--Health-and-Family-Engagement_R2600566/apply",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
@@ -2766,9 +2726,9 @@
     "score": -18
    },
    {
-    "title": "Family Engagement Professional Development Specialist, National Center on Head Start Early Learning, Health and Family Engagement",
+    "title": "Senior Energy Market Modeler - Optimization & Planning",
     "location": "Reston, Virginia",
-    "url": "https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Reston-VA/Family-Engagement-Professional-Development-Specialist--National-Center-on-Head-Start-Early-Learning--Health-and-Family-Engagement_R2600566/apply",
+    "url": "https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Reston-VA/Senior-Energy-Market-Modeler---Optimization---Planning_R2600928/apply",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
@@ -3096,9 +3056,9 @@
     "score": -18
    },
    {
-    "title": "Head Start Lead Project Analyst - On-Site DC",
-    "location": "Washington, District of Columbia",
-    "url": "https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Washington-DC/Head-Start-Lead-Project-Analyst---On-Site-DC_R2601764/apply",
+    "title": "Enterprise Architect",
+    "location": "Baltimore, Maryland",
+    "url": "https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Baltimore-MD/Enterprise-Architect_R2601568/apply",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
@@ -3126,6 +3086,21 @@
     "score": -18
    },
    {
+    "title": "Head Start Lead Project Analyst - On-Site DC",
+    "location": "Washington, District of Columbia",
+    "url": "https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Washington-DC/Head-Start-Lead-Project-Analyst---On-Site-DC_R2601764/apply",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [],
+    "expFits2": false,
+    "score": -18
+   },
+   {
     "title": "Housing CDBG-DR Grant Lead - Remote (US)",
     "location": "Reston, Virginia",
     "url": "https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Reston-VA/Housing-CDBG-DR-Grant-Lead---Remote--US-_R2601798/apply",
@@ -3141,9 +3116,9 @@
     "score": -18
    },
    {
-    "title": "Director, Education",
-    "location": "Clarksville, Tennessee",
-    "url": "https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Clarksville-TN/Director--Education_R2601320/apply",
+    "title": "Head Start Early Childhood Specialist (Bilingual English/Spanish) Region III (REMOTE)",
+    "location": "Reston, Virginia",
+    "url": "https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Reston-VA/Head-Start-Early-Childhood-Specialist--Bilingual-English-Spanish--Region-III--REMOTE-_R2601857/apply",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
@@ -3156,9 +3131,9 @@
     "score": -18
    },
    {
-    "title": "Head Start Early Childhood Specialist (Bilingual English/Spanish) Region III (REMOTE)",
-    "location": "Reston, Virginia",
-    "url": "https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Reston-VA/Head-Start-Early-Childhood-Specialist--Bilingual-English-Spanish--Region-III--REMOTE-_R2601857/apply",
+    "title": "Director, Education",
+    "location": "Clarksville, Tennessee",
+    "url": "https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Clarksville-TN/Director--Education_R2601320/apply",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
@@ -3201,6 +3176,21 @@
     "score": -18
    },
    {
+    "title": "Senior Enterprise Architect",
+    "location": "Baltimore, Maryland",
+    "url": "https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Baltimore-MD/Senior-Enterprise-Architect_R2601608/apply",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [],
+    "expFits2": false,
+    "score": -18
+   },
+   {
     "title": "Senior Consultant – EU Education and Training Policy – EU Consulting (research and programme implementation role)",
     "location": "Madrid, Madrid",
     "url": "https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Madrid-Spain-ES01/Senior-Consultant---EU-Education-and-Training-Policy---EU-Consulting--research-and-programme-implementation-role-_R2601928/apply",
@@ -3231,21 +3221,6 @@
     "score": -18
    },
    {
-    "title": "Senior Enterprise Architect",
-    "location": "Baltimore, Maryland",
-    "url": "https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Baltimore-MD/Senior-Enterprise-Architect_R2601608/apply",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": true,
-    "exp": [],
-    "expFits2": false,
-    "score": -18
-   },
-   {
     "title": "ICF Resources, LLC: IT Project Manager, Business Analyst – Reston, VA",
     "location": "Reston, Virginia",
     "url": "https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Reston-VA/ICF-Resources--LLC--IT-Project-Manager--Business-Analyst---Reston--VA_R2601992/apply",
@@ -3261,9 +3236,9 @@
     "score": -18
    },
    {
-    "title": "Senior Environmental Planner",
-    "location": "Fort Collins, Colorado",
-    "url": "https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Fort-Collins-CO/Senior-Environmental-Planner_R2602036/apply",
+    "title": "On-Call Senior Federal Rulemaking Specialist (REMOTE ROLE)",
+    "location": "Reston, Virginia",
+    "url": "https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Reston-VA/On-Call-Senior-Federal-Rulemaking-Specialist--REMOTE-ROLE-_R2602002/apply",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
@@ -3294,21 +3269,6 @@
     "title": "Senior Consultant – EU Education and Training Policy – EU Consulting (research and programme implementation role)",
     "location": "Brussels, Brussels-Capital Region",
     "url": "https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Brussels-Belgium/Senior-Consultant---EU-Education-and-Training-Policy---EU-Consulting--research-and-programme-implementation-role-_R2601919/apply",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": true,
-    "exp": [],
-    "expFits2": false,
-    "score": -18
-   },
-   {
-    "title": "On-Call Senior Federal Rulemaking Specialist (REMOTE ROLE)",
-    "location": "Reston, Virginia",
-    "url": "https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Reston-VA/On-Call-Senior-Federal-Rulemaking-Specialist--REMOTE-ROLE-_R2602002/apply",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
@@ -3444,21 +3404,6 @@
     "title": "Principal Transportation & Energy Consultant (Port & Maritime Decarbonization)",
     "location": "Los Angeles, California",
     "url": "https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Los-Angeles-CA/Principal-Transportation---Energy-Consultant--Port---Maritime-Decarbonization-_R2601748/apply",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": true,
-    "exp": [],
-    "expFits2": false,
-    "score": -18
-   },
-   {
-    "title": "Principal Transportation Planner",
-    "location": "Arlington, Virginia",
-    "url": "https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Arlington-VA/Principal-Transportation-Planner--Mid-Atlantic-Southeast-_R2601304/apply",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
@@ -3801,9 +3746,9 @@
     "score": -18
    },
    {
-    "title": "Senior Salesforce Practice Architect (Remote)",
-    "location": "Reston, Virginia",
-    "url": "https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Reston-VA/Senior-Salesforce-Practice-Architect--Remote-_R2601728/apply",
+    "title": "Lead Program Specialist, Public Sector",
+    "location": "Los Angeles, California",
+    "url": "https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Los-Angeles-CA/Lead-Program-Specialist--Public-Sector_R2601699/apply",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
@@ -3816,9 +3761,9 @@
     "score": -18
    },
    {
-    "title": "Lead Program Specialist, Public Sector",
-    "location": "Los Angeles, California",
-    "url": "https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Los-Angeles-CA/Lead-Program-Specialist--Public-Sector_R2601699/apply",
+    "title": "Senior Salesforce Practice Architect (Remote)",
+    "location": "Reston, Virginia",
+    "url": "https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Reston-VA/Senior-Salesforce-Practice-Architect--Remote-_R2601728/apply",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
@@ -3849,6 +3794,21 @@
     "title": "Technical Project Manager w/ Salesforce Exp - Remote",
     "location": "Reston, Virginia",
     "url": "https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Reston-VA/Technical-Project-Manager-w--Salesforce-Exp---Remote_R2602358/apply",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [],
+    "expFits2": false,
+    "score": -18
+   },
+   {
+    "title": "ServiceNow Solutions Architect",
+    "location": "Arlington, Virginia",
+    "url": "https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Arlington-VA/ServiceNow-Solutions-Architect_R2602420/apply",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
@@ -4089,7 +4049,7 @@
     {
      "url": "https://careers.icf.com",
      "status": 200,
-     "bytes": 904015
+     "bytes": 904186
     },
     {
      "url": "https://icf.com/careers",
@@ -4100,16 +4060,36 @@
      "url": "https://icf.com/career",
      "status": 404,
      "bytes": 109208
+    },
+    {
+     "url": "https://icf.com/jobs",
+     "status": 404,
+     "bytes": 109208
+    },
+    {
+     "url": "https://icf.com/join-us",
+     "status": 404,
+     "bytes": 109208
+    },
+    {
+     "url": "https://icf.com/join-our-team",
+     "status": 404,
+     "bytes": 109208
+    },
+    {
+     "url": "https://icf.com/careers.html",
+     "status": 404,
+     "bytes": 1245
     }
    ],
    "candidates": [
     "phenom:_self(html)"
    ],
    "attempts": [
-    "phenom:_self -> 185 jobs"
+    "phenom:_self -> 182 jobs"
    ]
   },
-  "ms": 39006
+  "ms": 44547
  },
  {
   "company": "ICICI Bank",
@@ -4213,7 +4193,7 @@
     "workable:icicibank -> no board"
    ]
   },
-  "ms": 17709
+  "ms": 18504
  },
  {
   "company": "ICICI Lombard",
@@ -7718,7 +7698,7 @@
     {
      "url": "https://www.icicilombard.com/careers",
      "status": 404,
-     "bytes": 207909
+     "bytes": 207910
     },
     {
      "url": "https://careers.icicilombard.com",
@@ -7784,7 +7764,7 @@
     {
      "url": "https://www.icicilombard.com/career",
      "status": 404,
-     "bytes": 207887
+     "bytes": 207888
     }
    ],
    "candidates": [
@@ -7802,7 +7782,7 @@
     "workable:icicilombard -> no board"
    ]
   },
-  "ms": 10582
+  "ms": 11291
  },
  {
   "company": "ICICI Prudential Life Insurance",
@@ -8016,7 +7996,7 @@
     "workable:iciciprulife -> no board"
    ]
   },
-  "ms": 16770
+  "ms": 25457
  },
  {
   "company": "ICICI Securities",
@@ -8414,7 +8394,7 @@
     {
      "url": "https://careers.icicisecurities.com",
      "status": 200,
-     "bytes": 45607
+     "bytes": 45608
     },
     {
      "url": "https://icicisecurities.com/careers",
@@ -8484,7 +8464,7 @@
     "successfactors:careers.icicisecurities.com -> 21 jobs"
    ]
   },
-  "ms": 4032
+  "ms": 4200
  },
  {
   "company": "iCIMS",
@@ -9139,7 +9119,7 @@
     "workable:icims -> no board"
    ]
   },
-  "ms": 65475
+  "ms": 57256
  },
  {
   "company": "iCliniq",
@@ -9283,7 +9263,7 @@
     "workable:icliniq -> no board"
    ]
   },
-  "ms": 23015
+  "ms": 23242
  },
  {
   "company": "iCoderz Solutions",
@@ -9499,7 +9479,7 @@
     "workable:icoderzsolutions -> no board"
    ]
   },
-  "ms": 25465
+  "ms": 23891
  },
  {
   "company": "Icogz",
@@ -9746,7 +9726,7 @@
     "workable:icogz -> no board"
    ]
   },
-  "ms": 6207
+  "ms": 4894
  },
  {
   "company": "ICON plc",
@@ -9872,7 +9852,7 @@
     "workable:iconplc -> no board"
    ]
   },
-  "ms": 7137
+  "ms": 8356
  },
  {
   "company": "Icon Resources & Technologies",
@@ -10017,52 +9997,52 @@
     {
      "url": "https://iconresources.com/careers",
      "status": 200,
-     "bytes": 207078
+     "bytes": 206982
     },
     {
      "url": "https://iconresources.com/career",
      "status": 404,
-     "bytes": 159191
+     "bytes": 159095
     },
     {
      "url": "https://iconresources.com/jobs",
      "status": 404,
-     "bytes": 159191
+     "bytes": 159095
     },
     {
      "url": "https://iconresources.com/join-us",
      "status": 404,
-     "bytes": 159191
+     "bytes": 159095
     },
     {
      "url": "https://iconresources.com/join-our-team",
      "status": 404,
-     "bytes": 159191
+     "bytes": 159095
     },
     {
      "url": "https://iconresources.com/careers.html",
      "status": 404,
-     "bytes": 159191
+     "bytes": 159095
     },
     {
      "url": "https://iconresources.com/company/careers",
      "status": 200,
-     "bytes": 207078
+     "bytes": 206982
     },
     {
      "url": "https://iconresources.com/about/careers",
      "status": 200,
-     "bytes": 207078
+     "bytes": 206982
     },
     {
      "url": "https://iconresources.com/current-openings",
      "status": 404,
-     "bytes": 159191
+     "bytes": 159095
     },
     {
      "url": "https://iconresources.com/",
      "status": 200,
-     "bytes": 316865
+     "bytes": 316769
     }
    ],
    "candidates": [
@@ -10080,7 +10060,7 @@
     "workable:iconresources -> no board"
    ]
   },
-  "ms": 20230
+  "ms": 18880
  },
  {
   "company": "iCore Pioneer Business Solutions",
@@ -10239,7 +10219,7 @@
     "workable:icorepioneer -> no board"
    ]
   },
-  "ms": 11146
+  "ms": 11118
  },
  {
   "company": "Icreon",
@@ -11821,7 +11801,7 @@
     "workable:icreon -> no board"
    ]
   },
-  "ms": 4913
+  "ms": 4845
  },
  {
   "company": "iCubesWire",
@@ -11965,7 +11945,7 @@
     "workable:icubeswire -> no board"
    ]
   },
-  "ms": 4106
+  "ms": 6498
  },
  {
   "company": "IDBI Bank",
@@ -12109,7 +12089,7 @@
     "workable:idbi -> no board"
    ]
   },
-  "ms": 12048
+  "ms": 10006
  },
  {
   "company": "IDBI Intech",
@@ -13183,7 +13163,7 @@
     "workable:idbiintech -> no board"
    ]
   },
-  "ms": 3639
+  "ms": 4194
  },
  {
   "company": "Ideabytes",
@@ -13388,7 +13368,7 @@
     "workable:ideabytes -> no board"
    ]
   },
-  "ms": 6783
+  "ms": 6810
  },
  {
   "company": "IdeaClan",
@@ -13476,12 +13456,12 @@
     {
      "url": "https://ideaclan.com/careers",
      "status": 200,
-     "bytes": 105093
+     "bytes": 105179
     },
     {
      "url": "https://ideaclan.com/career",
      "status": 200,
-     "bytes": 105093
+     "bytes": 105179
     },
     {
      "url": "https://ideaclan.com/jobs",
@@ -13504,7 +13484,7 @@
     "workable:ideaclan -> no board"
    ]
   },
-  "ms": 10324
+  "ms": 7884
  },
  {
   "company": "ideaForge",
@@ -13677,7 +13657,7 @@
     "workable:ideaforgetech -> no board"
    ]
   },
-  "ms": 6942
+  "ms": 8214
  },
  {
   "company": "Ideal IT Techno",
@@ -13940,7 +13920,7 @@
     "workable:idealittechno -> no board"
    ]
   },
-  "ms": 3772
+  "ms": 3524
  },
  {
   "company": "Idealake Information Technologies",
@@ -14133,7 +14113,7 @@
     "workable:idealake -> no board"
    ]
   },
-  "ms": 6771
+  "ms": 5784
  },
  {
   "company": "IDeaS Revenue Solutions",
@@ -14399,7 +14379,7 @@
     {
      "url": "https://ideas.com/careers/",
      "status": 200,
-     "bytes": 91382
+     "bytes": 92046
     },
     {
      "url": "https://careers.ideas.com",
@@ -14410,17 +14390,32 @@
     {
      "url": "https://ideas.com/careers",
      "status": 200,
-     "bytes": 92046
+     "bytes": 92044
     },
     {
      "url": "https://ideas.com/career",
      "status": 200,
-     "bytes": 92046
+     "bytes": 92044
     },
     {
      "url": "https://ideas.com/jobs",
      "status": 404,
-     "bytes": 62377
+     "bytes": 62378
+    },
+    {
+     "url": "https://ideas.com/join-us",
+     "status": 404,
+     "bytes": 62378
+    },
+    {
+     "url": "https://ideas.com/join-our-team",
+     "status": 404,
+     "bytes": 62378
+    },
+    {
+     "url": "https://ideas.com/careers.html",
+     "status": 404,
+     "bytes": 61192
     }
    ],
    "candidates": [
@@ -14441,7 +14436,7 @@
     "icims:ideas-sas -> 9 jobs"
    ]
   },
-  "ms": 7465
+  "ms": 11215
  },
  {
   "company": "Ideas2IT",
@@ -14709,7 +14704,7 @@
     "workable:ideas2it -> no board"
    ]
   },
-  "ms": 13791
+  "ms": 13521
  },
  {
   "company": "Ideassion Technology Solutions",
@@ -14853,7 +14848,7 @@
     "workable:ideassion -> no board"
    ]
   },
-  "ms": 4392
+  "ms": 3538
  },
  {
   "company": "IDEMIA",
@@ -15200,7 +15195,7 @@
     {
      "url": "https://careers.idemia.com",
      "status": 200,
-     "bytes": 64595
+     "bytes": 64594
     },
     {
      "url": "https://idemia.com/careers",
@@ -15231,7 +15226,7 @@
     "icims:uscareers-idemia -> 18 jobs"
    ]
   },
-  "ms": 10185
+  "ms": 14614
  },
  {
   "company": "ideyaLabs",
@@ -15530,7 +15525,7 @@
     "keka:ideyalabs -> 5 jobs"
    ]
   },
-  "ms": 14692
+  "ms": 13111
  },
  {
   "company": "IDFC FIRST Bank",
@@ -15659,7 +15654,7 @@
     "workable:idfcfirstbank -> no board"
    ]
   },
-  "ms": 18452
+  "ms": 21279
  },
  {
   "company": "IDfy",
@@ -15753,7 +15748,7 @@
     "workable:idfy -> no board"
    ]
   },
-  "ms": 7580
+  "ms": 6676
  },
  {
   "company": "IEMLabs",
@@ -15816,7 +15811,7 @@
     "workable:iemlabs -> no board"
    ]
   },
-  "ms": 21887
+  "ms": 18902
  },
  {
   "company": "iEnergizer",
@@ -15965,7 +15960,7 @@
     "workable:ienergizer -> no board"
    ]
   },
-  "ms": 25678
+  "ms": 18159
  },
  {
   "company": "IFFCO Tokio General Insurance",
@@ -16063,7 +16058,7 @@
     "workable:iffcotokio -> no board"
    ]
   },
-  "ms": 16137
+  "ms": 13383
  },
  {
   "company": "iFour Technolab",
@@ -16296,7 +16291,7 @@
     "workable:ifourtechnolab -> no board"
    ]
   },
-  "ms": 3708
+  "ms": 4398
  },
  {
   "company": "IFS",
@@ -20320,7 +20315,7 @@
     "smartrecruiters:IFS1 -> 258 jobs"
    ]
   },
-  "ms": 8026
+  "ms": 8130
  },
  {
   "company": "Ignatiuz Software",
@@ -20422,7 +20417,7 @@
     "workable:ignatiuz -> no board"
    ]
   },
-  "ms": 21738
+  "ms": 22222
  },
  {
   "company": "Ignitho Technologies",
@@ -20510,7 +20505,7 @@
     "workable:ignitho -> no board"
    ]
   },
-  "ms": 49505
+  "ms": 47869
  },
  {
   "company": "Atain (formerly IGT Solutions)",
@@ -20648,7 +20643,7 @@
     "workable:atain -> no board"
    ]
   },
-  "ms": 32935
+  "ms": 34519
  },
  {
   "company": "IHG Hotels & Resorts",
@@ -20777,11 +20772,6 @@
     },
     {
      "url": "https://ihgplc.com/current-openings",
-     "status": 404,
-     "bytes": 73615
-    },
-    {
-     "url": "https://ihgplc.com/",
      "status": 429,
      "bytes": 7178
     }
@@ -20811,7 +20801,7 @@
     "workable:ihgplc -> no board"
    ]
   },
-  "ms": 21140
+  "ms": 20236
  },
  {
   "company": "IIC Technologies",
@@ -20965,7 +20955,7 @@
     "workable:iictechnologies -> no board"
    ]
   },
-  "ms": 11361
+  "ms": 9447
  },
  {
   "company": "IIFL Capital Services",
@@ -20990,7 +20980,7 @@
     {
      "url": "https://iiflcapital.com/careers",
      "status": 200,
-     "bytes": 111006
+     "bytes": 111012
     },
     {
      "url": "https://iiflcapital.com/career",
@@ -21035,7 +21025,7 @@
     {
      "url": "https://iiflcapital.com/",
      "status": 200,
-     "bytes": 134343
+     "bytes": 134344
     }
    ],
    "candidates": [
@@ -21053,7 +21043,7 @@
     "workable:iiflcapital -> no board"
    ]
   },
-  "ms": 10064
+  "ms": 12214
  },
  {
   "company": "IIFL Finance",
@@ -21124,7 +21114,7 @@
     "workable:iifl -> no board"
    ]
   },
-  "ms": 41969
+  "ms": 34741
  },
  {
   "company": "IIFL Home Finance",
@@ -21153,23 +21143,59 @@
     },
     {
      "url": "https://iiflhomeloans.com/career",
-     "status": 404,
-     "bytes": 195762
+     "status": 200,
+     "bytes": 304506
     },
     {
      "url": "https://iiflhomeloans.com/jobs",
-     "status": 404,
-     "bytes": 195756
+     "status": 200,
+     "bytes": 304506
     },
     {
      "url": "https://iiflhomeloans.com/join-us",
-     "status": 404,
-     "bytes": 195765
+     "status": 200,
+     "bytes": 304506
     },
     {
      "url": "https://iiflhomeloans.com/join-our-team",
-     "status": 404,
-     "bytes": 195783
+     "status": 200,
+     "bytes": 304506
+    },
+    {
+     "url": "https://iiflhomeloans.com/careers.html",
+     "status": 200,
+     "bytes": 304506
+    },
+    {
+     "url": "https://iiflhomeloans.com/company/careers",
+     "status": 200,
+     "bytes": 304506
+    },
+    {
+     "url": "https://iiflhomeloans.com/about/careers",
+     "status": 200,
+     "bytes": 304506
+    },
+    {
+     "url": "https://iiflhomeloans.com/current-openings",
+     "status": 200,
+     "bytes": 304506
+    },
+    {
+     "url": "https://iiflhomeloans.com/",
+     "status": 200,
+     "bytes": 304506
+    },
+    {
+     "url": "https://careers.www.iiflhomeloans.com",
+     "status": 0,
+     "bytes": 0,
+     "error": "fetch failed"
+    },
+    {
+     "url": "https://www.iiflhomeloans.com/careers",
+     "status": 200,
+     "bytes": 298392
     }
    ],
    "candidates": [
@@ -21199,7 +21225,7 @@
     "workable:iiflhomeloans -> no board"
    ]
   },
-  "ms": 18166
+  "ms": 44666
  },
  {
   "company": "Iksula",
@@ -21262,7 +21288,7 @@
     "workable:iksula -> no board"
    ]
   },
-  "ms": 5424
+  "ms": 2998
  },
  {
   "company": "iKure TechSoft",
@@ -21351,7 +21377,7 @@
     "workable:ikuretechsoft -> no board"
    ]
   },
-  "ms": 38245
+  "ms": 41292
  },
  {
   "company": "iLantus Technologies",
@@ -21503,7 +21529,7 @@
     "workable:ilantus -> no board"
    ]
   },
-  "ms": 48193
+  "ms": 27745
  },
  {
   "company": "iLink Digital",
@@ -21715,7 +21741,7 @@
     "workable:ilinkdigital -> no board"
    ]
   },
-  "ms": 19534
+  "ms": 20124
  },
  {
   "company": "Illumina",
@@ -22546,7 +22572,7 @@
     "workday:illumina -> 40 jobs"
    ]
   },
-  "ms": 10165
+  "ms": 11644
  },
  {
   "company": "Imagination Technologies",
@@ -22666,7 +22692,7 @@
     "workable:imaginationtech -> no board"
    ]
   },
-  "ms": 31788
+  "ms": 31270
  },
  {
   "company": "Imarticus Learning",
@@ -26292,7 +26318,7 @@
     "workable:imarticus -> no board"
    ]
   },
-  "ms": 24391
+  "ms": 23969
  },
  {
   "company": "IMC Trading",
@@ -26470,57 +26496,57 @@
     {
      "url": "https://careers.imc.com",
      "status": 200,
-     "bytes": 725068
+     "bytes": 725169
     },
     {
      "url": "https://imc.com/careers",
      "status": 200,
-     "bytes": 910041
+     "bytes": 910036
     },
     {
      "url": "https://imc.com/career",
      "status": 200,
-     "bytes": 910041
+     "bytes": 910036
     },
     {
      "url": "https://imc.com/jobs",
      "status": 200,
-     "bytes": 910041
+     "bytes": 910036
     },
     {
      "url": "https://imc.com/join-us",
      "status": 200,
-     "bytes": 910041
+     "bytes": 910036
     },
     {
      "url": "https://imc.com/join-our-team",
      "status": 200,
-     "bytes": 910041
+     "bytes": 910036
     },
     {
      "url": "https://imc.com/careers.html",
      "status": 200,
-     "bytes": 910041
+     "bytes": 910036
     },
     {
      "url": "https://imc.com/company/careers",
      "status": 200,
-     "bytes": 910041
+     "bytes": 910036
     },
     {
      "url": "https://imc.com/about/careers",
      "status": 200,
-     "bytes": 910041
+     "bytes": 910036
     },
     {
      "url": "https://imc.com/current-openings",
      "status": 200,
-     "bytes": 910041
+     "bytes": 910036
     },
     {
      "url": "https://imc.com/",
      "status": 200,
-     "bytes": 910041
+     "bytes": 910036
     },
     {
      "url": "https://careers.www.imc.com",
@@ -26531,7 +26557,7 @@
     {
      "url": "https://www.imc.com/careers",
      "status": 200,
-     "bytes": 715052
+     "bytes": 715063
     }
    ],
    "candidates": [
@@ -26549,7 +26575,7 @@
     "workable:imctrading -> no board"
    ]
   },
-  "ms": 18935
+  "ms": 17627
  },
  {
   "company": "iMerit",
@@ -26643,7 +26669,7 @@
     "workable:imerit -> no board"
    ]
   },
-  "ms": 30279
+  "ms": 30355
  },
  {
   "company": "iMocha",
@@ -26832,7 +26858,7 @@
     "workable:imocha -> no board"
    ]
   },
-  "ms": 12395
+  "ms": 11817
  },
  {
   "company": "Impelsys",
@@ -26998,12 +27024,17 @@
     {
      "url": "https://impelsys.com/careers",
      "status": 200,
-     "bytes": 74576
+     "bytes": 74558
     },
     {
      "url": "https://impelsys.com/career",
      "status": 404,
-     "bytes": 57801
+     "bytes": 57806
+    },
+    {
+     "url": "https://impelsys.com/jobs",
+     "status": 200,
+     "bytes": 57583
     }
    ],
    "candidates": [
@@ -27021,7 +27052,7 @@
     "workable:impelsys -> no board"
    ]
   },
-  "ms": 17413
+  "ms": 15157
  },
  {
   "company": "Impero IT Services",
@@ -27068,7 +27099,7 @@
     "workable:imperoit -> no board"
    ]
   },
-  "ms": 13707
+  "ms": 8310
  },
  {
   "company": "Imperva",
@@ -27088,17 +27119,17 @@
     {
      "url": "https://www.imperva.com/company/careers/",
      "status": 200,
-     "bytes": 172979
+     "bytes": 171830
     },
     {
      "url": "https://careers.imperva.com",
      "status": 200,
-     "bytes": 171796
+     "bytes": 171792
     },
     {
      "url": "https://imperva.com/careers",
      "status": 200,
-     "bytes": 172979
+     "bytes": 171829
     },
     {
      "url": "https://imperva.com/career",
@@ -27121,7 +27152,7 @@
     "workable:imperva -> no board"
    ]
   },
-  "ms": 20699
+  "ms": 23224
  },
  {
   "company": "Impetus Technologies",
@@ -27330,7 +27361,7 @@
     "workable:impetus -> no board"
    ]
   },
-  "ms": 17815
+  "ms": 20564
  },
  {
   "company": "Improwised Technologies",
@@ -27547,7 +27578,7 @@
     "workable:improwised -> no board"
    ]
   },
-  "ms": 4940
+  "ms": 5235
  },
  {
   "company": "In-Solutions Global",
@@ -27701,7 +27732,7 @@
     "workable:isgpay -> no board"
    ]
   },
-  "ms": 11136
+  "ms": 10789
  },
  {
   "company": "InApp",
@@ -28055,7 +28086,7 @@
     "workable:inapp -> no board"
    ]
   },
-  "ms": 67360
+  "ms": 64297
  },
  {
   "company": "Inatech",
@@ -28202,7 +28233,7 @@
     "workable:inatech -> no board"
    ]
   },
-  "ms": 6741
+  "ms": 7925
  },
  {
   "company": "Incedo",
@@ -28371,7 +28402,7 @@
     "workable:incedoinc -> no board"
    ]
   },
-  "ms": 31593
+  "ms": 29972
  },
  {
   "company": "InCore Semiconductors",
@@ -28537,7 +28568,7 @@
     "zohorecruit:incoresemi -> 2 jobs"
    ]
   },
-  "ms": 31955
+  "ms": 24803
  },
  {
   "company": "InCred",
@@ -28692,7 +28723,7 @@
     "workable:incred -> no board"
    ]
   },
-  "ms": 7767
+  "ms": 5503
  },
  {
   "company": "Increff",
@@ -28858,7 +28889,7 @@
     "zohorecruit:increff -> 4 jobs"
    ]
   },
-  "ms": 10331
+  "ms": 9218
  },
  {
   "company": "Incture Technologies",
@@ -28924,7 +28955,7 @@
     "workable:incture -> no board"
    ]
   },
-  "ms": 18605
+  "ms": 18935
  },
  {
   "company": "Indecomm Global Services",
@@ -29168,17 +29199,27 @@
     {
      "url": "https://indecomm.com/careers",
      "status": 404,
-     "bytes": 173684
+     "bytes": 173678
     },
     {
      "url": "https://indecomm.com/career",
      "status": 404,
-     "bytes": 173667
+     "bytes": 173678
     },
     {
      "url": "https://indecomm.com/jobs",
      "status": 200,
-     "bytes": 217466
+     "bytes": 217461
+    },
+    {
+     "url": "https://indecomm.com/join-us",
+     "status": 404,
+     "bytes": 173677
+    },
+    {
+     "url": "https://indecomm.com/join-our-team",
+     "status": 404,
+     "bytes": 173704
     }
    ],
    "candidates": [
@@ -29206,7 +29247,7 @@
     "workable:indecomm -> no board"
    ]
   },
-  "ms": 18945
+  "ms": 17204
  },
  {
   "company": "Indegene",
@@ -29720,21 +29761,6 @@
     "score": 8
    },
    {
-    "title": "UI Designer",
-    "location": "KA, IN",
-    "url": "https://careers.indegene.com/job/Kolind-ka-Bas-UI-Designer-KA/58410044/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 4
-   },
-   {
     "title": "Associate Product Manager - Applied AI",
     "location": "KA, IN",
     "url": "https://careers.indegene.com/job/Kolind-ka-Bas-Associate-Product-Manager-Applied-AI-KA/58638044/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
@@ -29952,6 +29978,26 @@
     "score": -10
    },
    {
+    "title": "Senior Manager - Growth Marketing",
+    "location": "KA, IN",
+    "url": "https://careers.indegene.com/job/Kolind-ka-Bas-Senior-Manager-Growth-Marketing-KA/58673244/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [
+     [
+      10,
+      12
+     ]
+    ],
+    "expFits2": false,
+    "score": -22
+   },
+   {
     "title": "Lead - Consultant (Data & Analytics)",
     "location": "KA, IN",
     "url": "https://careers.indegene.com/job/Kolind-ka-Bas-Lead-Consultant-%28Data-&-Analytics%29-KA/56305144/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
@@ -30064,6 +30110,26 @@
     "score": -22
    },
    {
+    "title": "Senior Graphic Designer",
+    "location": "KA, IN",
+    "url": "https://careers.indegene.com/job/Kolind-ka-Bas-Senior-Graphic-Designer-KA/57642444/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [
+     [
+      5,
+      9
+     ]
+    ],
+    "expFits2": false,
+    "score": -22
+   },
+   {
     "title": "Senior Manager - Business Solutions & Presales",
     "location": "KA, IN",
     "url": "https://careers.indegene.com/job/Kolind-ka-Bas-Senior-Manager-Business-Solutions-&-Presales-KA/58571544/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
@@ -30082,26 +30148,6 @@
      [
       12,
       13
-     ]
-    ],
-    "expFits2": false,
-    "score": -22
-   },
-   {
-    "title": "Senior Graphic Designer",
-    "location": "KA, IN",
-    "url": "https://careers.indegene.com/job/Kolind-ka-Bas-Senior-Graphic-Designer-KA/57642444/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": true,
-    "exp": [
-     [
-      5,
-      9
      ]
     ],
     "expFits2": false,
@@ -30222,7 +30268,7 @@
     "successfactors:careers.indegene.com -> 43 jobs"
    ]
   },
-  "ms": 2203
+  "ms": 2357
  },
  {
   "company": "Indiabulls",
@@ -30371,7 +30417,7 @@
     "workable:indiabulls -> no board"
    ]
   },
-  "ms": 5760
+  "ms": 6682
  },
  {
   "company": "IndiaFilings",
@@ -30424,7 +30470,7 @@
     "workable:indiafilings -> no board"
    ]
   },
-  "ms": 9605
+  "ms": 7927
  },
  {
   "company": "IndiaFirst Life Insurance",
@@ -30444,7 +30490,7 @@
     {
      "url": "https://indiafirstlife.com/careers",
      "status": 200,
-     "bytes": 982965
+     "bytes": 982964
     },
     {
      "url": "https://careers.indiafirstlife.com",
@@ -30455,12 +30501,12 @@
     {
      "url": "https://indiafirstlife.com/career",
      "status": 404,
-     "bytes": 934047
+     "bytes": 934046
     },
     {
      "url": "https://indiafirstlife.com/jobs",
      "status": 404,
-     "bytes": 934046
+     "bytes": 934047
     },
     {
      "url": "https://indiafirstlife.com/join-us",
@@ -30470,7 +30516,7 @@
     {
      "url": "https://indiafirstlife.com/join-our-team",
      "status": 404,
-     "bytes": 934046
+     "bytes": 934047
     },
     {
      "url": "https://indiafirstlife.com/careers.html",
@@ -30510,7 +30556,7 @@
     "workable:indiafirstlife -> no board"
    ]
   },
-  "ms": 34918
+  "ms": 18710
  },
  {
   "company": "Indiagold",
@@ -30598,7 +30644,7 @@
     "workable:indiagold -> no board"
    ]
   },
-  "ms": 5467
+  "ms": 4610
  },
  {
   "company": "IndiaLends",
@@ -30742,7 +30788,7 @@
     "workable:indialends -> no board"
    ]
   },
-  "ms": 5241
+  "ms": 6779
  },
  {
   "company": "IndiaMART",
@@ -30800,7 +30846,7 @@
     "workable:indiamart -> no board"
    ]
   },
-  "ms": 5567
+  "ms": 5935
  },
  {
   "company": "Indian Energy Exchange",
@@ -30988,7 +31034,7 @@
     "workable:iexindia -> no board"
    ]
   },
-  "ms": 7528
+  "ms": 8836
  },
  {
   "company": "IndiaNIC Infotech",
@@ -31241,7 +31287,7 @@
     "workable:indianic -> no board"
    ]
   },
-  "ms": 26305
+  "ms": 23602
  },
  {
   "company": "IndiaP2P",
@@ -31385,7 +31431,7 @@
     "workable:indiap2p -> no board"
    ]
   },
-  "ms": 5830
+  "ms": 4338
  },
  {
   "company": "indie Semiconductor",
@@ -31410,7 +31456,7 @@
     {
      "url": "https://indie.inc/careers",
      "status": 200,
-     "bytes": 221020
+     "bytes": 220266
     },
     {
      "url": "https://indie.inc/career",
@@ -31420,7 +31466,7 @@
     {
      "url": "https://indie.inc/jobs",
      "status": 200,
-     "bytes": 221020
+     "bytes": 220266
     },
     {
      "url": "https://indie.inc/join-us",
@@ -31430,7 +31476,7 @@
     {
      "url": "https://indie.inc/join-our-team",
      "status": 404,
-     "bytes": 151765
+     "bytes": 151382
     }
    ],
    "candidates": [
@@ -31458,7 +31504,7 @@
     "workable:indie -> no board"
    ]
   },
-  "ms": 50151
+  "ms": 54023
  },
  {
   "company": "Indifi Technologies",
@@ -31538,7 +31584,7 @@
    "pages": [],
    "attempts": []
   },
-  "ms": 90003
+  "ms": 90004
  },
  {
   "company": "IndiGo",
@@ -31641,12 +31687,12 @@
     {
      "url": "https://careers.goindigo.in/",
      "status": 200,
-     "bytes": 159776
+     "bytes": 159773
     },
     {
      "url": "https://careers.goindigo.in",
      "status": 200,
-     "bytes": 159776
+     "bytes": 159773
     },
     {
      "url": "https://goindigo.in/careers",
@@ -31707,12 +31753,12 @@
     {
      "url": "https://www.goindigo.in/careers",
      "status": 200,
-     "bytes": 159776
+     "bytes": 159773
     },
     {
      "url": "https://www.goindigo.in/career",
      "status": 404,
-     "bytes": 187438
+     "bytes": 187394
     }
    ],
    "candidates": [
@@ -31733,7 +31779,7 @@
     "greenhouse:indigo -> 3 jobs (guess, name-verified)"
    ]
   },
-  "ms": 3408
+  "ms": 6772
  },
  {
   "company": "Indium",
@@ -31789,7 +31835,7 @@
     {
      "url": "https://www.indium.tech/careers/",
      "status": 200,
-     "bytes": 353513
+     "bytes": 353514
     },
     {
      "url": "https://careers.indium.tech",
@@ -31800,52 +31846,52 @@
     {
      "url": "https://indium.tech/careers",
      "status": 200,
-     "bytes": 353513
+     "bytes": 353514
     },
     {
      "url": "https://indium.tech/career",
      "status": 404,
-     "bytes": 178658
+     "bytes": 178659
     },
     {
      "url": "https://indium.tech/jobs",
      "status": 404,
-     "bytes": 178658
+     "bytes": 178659
     },
     {
      "url": "https://indium.tech/join-us",
      "status": 404,
-     "bytes": 178658
+     "bytes": 178659
     },
     {
      "url": "https://indium.tech/join-our-team",
      "status": 404,
-     "bytes": 178658
+     "bytes": 178659
     },
     {
      "url": "https://indium.tech/careers.html",
      "status": 404,
-     "bytes": 178658
+     "bytes": 178659
     },
     {
      "url": "https://indium.tech/company/careers",
      "status": 404,
-     "bytes": 178658
+     "bytes": 178659
     },
     {
      "url": "https://indium.tech/about/careers",
      "status": 404,
-     "bytes": 178658
+     "bytes": 178659
     },
     {
      "url": "https://indium.tech/current-openings",
      "status": 404,
-     "bytes": 178658
+     "bytes": 178659
     },
     {
      "url": "https://indium.tech/",
      "status": 200,
-     "bytes": 392949
+     "bytes": 392950
     }
    ],
    "candidates": [
@@ -31860,7 +31906,7 @@
     "zohorecruit:www.indium.tech -> 1 jobs"
    ]
   },
-  "ms": 14451
+  "ms": 15628
  },
  {
   "company": "IndiWork Software",
@@ -32057,7 +32103,7 @@
     "workable:indiwork -> no board"
    ]
   },
-  "ms": 16214
+  "ms": 16965
  },
  {
   "company": "INDmoney",
@@ -32120,7 +32166,7 @@
     "workable:indmoney -> no board"
    ]
   },
-  "ms": 8712
+  "ms": 5099
  },
  {
   "company": "Indo-MIM",
@@ -32140,7 +32186,7 @@
     {
      "url": "https://www.indo-mim.com/careers/",
      "status": 307,
-     "bytes": 1355
+     "bytes": 1383
     },
     {
      "url": "https://careers.indo-mim.com",
@@ -32151,63 +32197,22 @@
     {
      "url": "https://indo-mim.com/careers",
      "status": 307,
-     "bytes": 1491
+     "bytes": 1487
     },
     {
      "url": "https://indo-mim.com/career",
      "status": 307,
-     "bytes": 1491
+     "bytes": 1487
     },
     {
      "url": "https://indo-mim.com/jobs",
      "status": 307,
-     "bytes": 1491
+     "bytes": 1487
     },
     {
      "url": "https://indo-mim.com/join-us",
      "status": 307,
-     "bytes": 1491
-    },
-    {
-     "url": "https://indo-mim.com/join-our-team",
-     "status": 307,
-     "bytes": 1491
-    },
-    {
-     "url": "https://indo-mim.com/careers.html",
-     "status": 307,
-     "bytes": 1491
-    },
-    {
-     "url": "https://indo-mim.com/company/careers",
-     "status": 307,
-     "bytes": 1491
-    },
-    {
-     "url": "https://indo-mim.com/about/careers",
-     "status": 307,
-     "bytes": 1491
-    },
-    {
-     "url": "https://indo-mim.com/current-openings",
-     "status": 307,
-     "bytes": 1491
-    },
-    {
-     "url": "https://indo-mim.com/",
-     "status": 307,
-     "bytes": 1491
-    },
-    {
-     "url": "https://careers.www.indo-mim.com",
-     "status": 0,
-     "bytes": 0,
-     "error": "fetch failed"
-    },
-    {
-     "url": "https://www.indo-mim.com/careers",
-     "status": 307,
-     "bytes": 1331
+     "bytes": 1303
     }
    ],
    "candidates": [
@@ -32225,7 +32230,7 @@
     "workable:indomim -> no board"
    ]
   },
-  "ms": 30691
+  "ms": 35628
  },
  {
   "company": "Indrones Solutions",
@@ -32374,7 +32379,7 @@
     "workable:indrones -> no board"
    ]
   },
-  "ms": 7776
+  "ms": 10989
  },
  {
   "company": "Indus Insights",
@@ -32571,7 +32576,7 @@
     "workable:indusinsights -> no board"
    ]
   },
-  "ms": 11767
+  "ms": 10762
  },
  {
   "company": "Indus Net Technologies",
@@ -32590,7 +32595,7 @@
    "pages": [],
    "attempts": []
   },
-  "ms": 90002
+  "ms": 90004
  },
  {
   "company": "Indus Towers",
@@ -32621,7 +32626,7 @@
     {
      "url": "https://industowers.com/careers",
      "status": 200,
-     "bytes": 82633
+     "bytes": 82632
     },
     {
      "url": "https://industowers.com/career",
@@ -32659,7 +32664,7 @@
     "workable:industowers -> no board"
    ]
   },
-  "ms": 5891
+  "ms": 7250
  },
  {
   "company": "Indus Valley Partners",
@@ -32700,7 +32705,7 @@
     {
      "url": "https://careers.ivp.in",
      "status": 200,
-     "bytes": 14480
+     "bytes": 14481
     },
     {
      "url": "https://ivp.in/careers",
@@ -32733,7 +32738,7 @@
     "workable:indusvalleypartners -> no board"
    ]
   },
-  "ms": 12851
+  "ms": 14131
  },
  {
   "company": "Indusface",
@@ -32937,7 +32942,7 @@
     "workable:indusface -> no board"
    ]
   },
-  "ms": 4713
+  "ms": 8920
  },
  {
   "company": "IndusInd Bank",
@@ -33091,7 +33096,7 @@
     "workable:indusind -> no board"
    ]
   },
-  "ms": 11336
+  "ms": 7839
  },
  {
   "company": "Ineda Systems",
@@ -33288,7 +33293,7 @@
     "workable:inedasystems -> no board"
    ]
   },
-  "ms": 17754
+  "ms": 17225
  },
  {
   "company": "PW Skills (formerly iNeuron)",
@@ -34906,7 +34911,7 @@
     "workable:pwskills -> no board"
    ]
   },
-  "ms": 5996
+  "ms": 6484
  },
  {
   "company": "iNextLabs",
@@ -35050,7 +35055,7 @@
     "workable:inextlabs -> no board"
    ]
   },
-  "ms": 5933
+  "ms": 5822
  },
  {
   "company": "Inexture Solutions",
@@ -35218,7 +35223,7 @@
     "workable:inexture -> no board"
    ]
   },
-  "ms": 27102
+  "ms": 32445
  },
  {
   "company": "inFeedo",
@@ -35362,7 +35367,7 @@
     "workable:infeedo -> no board"
    ]
   },
-  "ms": 21807
+  "ms": 20458
  },
  {
   "company": "AvenuesAI (formerly Infibeam)",
@@ -35450,7 +35455,7 @@
     "workable:avenuesai -> no board"
    ]
   },
-  "ms": 13470
+  "ms": 11237
  },
  {
   "company": "Infilect",
@@ -35714,7 +35719,7 @@
     "keka:infilect -> 5 jobs"
    ]
   },
-  "ms": 6727
+  "ms": 6124
  },
  {
   "company": "Infineon Technologies",
@@ -36050,7 +36055,7 @@
     {
      "url": "https://www.infineon.com/jobs",
      "status": 200,
-     "bytes": 264755
+     "bytes": 263239
     }
    ],
    "candidates": [
@@ -36068,7 +36073,7 @@
     "workable:infineon -> no board"
    ]
   },
-  "ms": 5557
+  "ms": 4101
  },
  {
   "company": "Infinite Computer Solutions",
@@ -36332,7 +36337,7 @@
     {
      "url": "https://www.infinite.com/careers/",
      "status": 200,
-     "bytes": 2547653
+     "bytes": 2547682
     },
     {
      "url": "https://careers.infinite.com",
@@ -36343,12 +36348,12 @@
     {
      "url": "https://infinite.com/careers",
      "status": 200,
-     "bytes": 2547653
+     "bytes": 2547682
     },
     {
      "url": "https://infinite.com/career",
      "status": 200,
-     "bytes": 2547653
+     "bytes": 2547682
     },
     {
      "url": "https://infinite.com/jobs",
@@ -36373,12 +36378,12 @@
     {
      "url": "https://infinite.com/company/careers",
      "status": 200,
-     "bytes": 2547653
+     "bytes": 2547682
     },
     {
      "url": "https://infinite.com/about/careers",
      "status": 200,
-     "bytes": 2547653
+     "bytes": 2547682
     },
     {
      "url": "https://infinite.com/current-openings",
@@ -36399,7 +36404,7 @@
     {
      "url": "https://www.infinite.com/careers",
      "status": 200,
-     "bytes": 2547615
+     "bytes": 2547579
     }
    ],
    "candidates": [
@@ -36427,7 +36432,7 @@
     "workable:infinite -> no board"
    ]
   },
-  "ms": 15459
+  "ms": 21914
  },
  {
   "company": "Infinite Locus",
@@ -36515,7 +36520,7 @@
     "workable:infinitelocus -> no board"
    ]
   },
-  "ms": 17653
+  "ms": 25133
  },
  {
   "company": "Infinite Uptime",
@@ -36644,7 +36649,7 @@
     {
      "url": "https://infinite-uptime.com/jobs",
      "status": 404,
-     "bytes": 513510
+     "bytes": 513511
     }
    ],
    "candidates": [
@@ -36659,7 +36664,7 @@
     "keka:infiniteuptime -> 3 jobs"
    ]
   },
-  "ms": 7648
+  "ms": 6867
  },
  {
   "company": "Infiniti Research",
@@ -36753,7 +36758,7 @@
     "workable:infinitiresearch -> no board"
    ]
   },
-  "ms": 20673
+  "ms": 20642
  },
  {
   "company": "Infiniti Software Solutions",
@@ -36772,7 +36777,7 @@
    "pages": [],
    "attempts": []
   },
-  "ms": 90001
+  "ms": 90003
  },
  {
   "company": "Infiniticube",
@@ -36835,7 +36840,7 @@
     "workable:infiniticube -> no board"
    ]
   },
-  "ms": 12893
+  "ms": 14213
  },
  {
   "company": "Infinity Learn",
@@ -36909,7 +36914,7 @@
     "workable:infinitylearn -> no board"
    ]
   },
-  "ms": 16514
+  "ms": 15213
  },
  {
   "company": "Infinx",
@@ -36944,7 +36949,7 @@
    "pages": [],
    "attempts": []
   },
-  "ms": 90000
+  "ms": 90004
  },
  {
   "company": "Inflow Technologies",
@@ -37382,7 +37387,7 @@
     "workable:inflowtechnologies -> no board"
    ]
   },
-  "ms": 17175
+  "ms": 16068
  },
  {
   "company": "InfoBeans Technologies",
@@ -37500,7 +37505,7 @@
     "workable:infobeans -> no board"
    ]
   },
-  "ms": 16692
+  "ms": 10792
  },
  {
   "company": "Infobell IT Solutions",
@@ -37762,7 +37767,7 @@
     "workable:infobellit -> no board"
    ]
   },
-  "ms": 11142
+  "ms": 15575
  },
  {
   "company": "Infobip",
@@ -38610,7 +38615,7 @@
     {
      "url": "https://infobip.com/career",
      "status": 404,
-     "bytes": 435352
+     "bytes": 435351
     },
     {
      "url": "https://infobip.com/jobs",
@@ -38630,7 +38635,7 @@
     "workday:infobip -> 40 jobs"
    ]
   },
-  "ms": 8802
+  "ms": 9596
  },
  {
   "company": "Infoblox",
@@ -38774,7 +38779,7 @@
     "workable:infoblox -> no board"
    ]
   },
-  "ms": 17044
+  "ms": 44098
  },
  {
   "company": "InfoCepts",
@@ -38863,7 +38868,7 @@
     "workable:infocepts -> no board"
    ]
   },
-  "ms": 28803
+  "ms": 28613
  },
  {
   "company": "Infocusp Innovations",
@@ -39033,7 +39038,7 @@
     "workable:infocusp -> no board"
    ]
   },
-  "ms": 13203
+  "ms": 11565
  },
  {
   "company": "INFOLOB Global",
@@ -39220,7 +39225,7 @@
     "workable:infolob -> no board"
    ]
   },
-  "ms": 14757
+  "ms": 19265
  },
  {
   "company": "Infomerica",
@@ -39488,7 +39493,7 @@
     "workable:infomericainc -> no board"
    ]
   },
-  "ms": 12098
+  "ms": 8724
  },
  {
   "company": "Infopro Learning",
@@ -39582,7 +39587,7 @@
     "workable:infoprolearning -> no board"
    ]
   },
-  "ms": 54545
+  "ms": 46537
  },
  {
   "company": "Infor",
@@ -39590,7 +39595,7 @@
   "careers": "https://careers.infor.com/",
   "source": "pinpoint:infor",
   "error": null,
-  "totalJobs": 186,
+  "totalJobs": 198,
   "jobs": [
    {
     "title": "Information Developer, Associate",
@@ -39782,6 +39787,51 @@
     "score": 52
    },
    {
+    "title": "Software Engineer, Senior ( Java Full stack - AI )",
+    "location": "Hyderabad",
+    "url": "https://careers.infor.com/en/postings/8b939ef0-715b-4eec-b2b5-65264a6ab5ea",
+    "india": true,
+    "locationSaysIndia": true,
+    "hasLocation": true,
+    "isEng": true,
+    "java": true,
+    "flutter": false,
+    "senior": true,
+    "exp": [],
+    "expFits2": false,
+    "score": 52
+   },
+   {
+    "title": "Software Engineer, Senior ( Java )",
+    "location": "Hyderabad",
+    "url": "https://careers.infor.com/en/postings/90eee567-a60d-45a9-8781-d5731523aaf3",
+    "india": true,
+    "locationSaysIndia": true,
+    "hasLocation": true,
+    "isEng": true,
+    "java": true,
+    "flutter": false,
+    "senior": true,
+    "exp": [],
+    "expFits2": false,
+    "score": 52
+   },
+   {
+    "title": "Software Engineer, Senior ( Java )",
+    "location": "Hyderabad",
+    "url": "https://careers.infor.com/en/postings/e743b1c4-a871-433e-8a5f-e5b26fbbac7f",
+    "india": true,
+    "locationSaysIndia": true,
+    "hasLocation": true,
+    "isEng": true,
+    "java": true,
+    "flutter": false,
+    "senior": true,
+    "exp": [],
+    "expFits2": false,
+    "score": 52
+   },
+   {
     "title": "Software Engineer",
     "location": "Hyderabad",
     "url": "https://careers.infor.com/en/postings/0d45424f-6233-41d4-a15b-94327a006c7d",
@@ -39922,6 +39972,21 @@
     "score": 31
    },
    {
+    "title": "Consultant Associate-Bangalore Only",
+    "location": "Bengaluru",
+    "url": "https://careers.infor.com/en/postings/df7abc44-dd04-4357-9401-2a8d7a885b1a",
+    "india": true,
+    "locationSaysIndia": true,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 31
+   },
+   {
     "title": "Designer, Associate",
     "location": "Hyderabad",
     "url": "https://careers.infor.com/en/postings/91a23965-288d-4d3b-8cd1-92beabe0eae8",
@@ -39999,7 +40064,37 @@
    {
     "title": "Designer, Associate",
     "location": "Hyderabad",
+    "url": "https://careers.infor.com/en/postings/b03791c8-6351-4174-90da-442f0aaf0b25",
+    "india": true,
+    "locationSaysIndia": true,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 31
+   },
+   {
+    "title": "Designer, Associate",
+    "location": "Hyderabad",
     "url": "https://careers.infor.com/en/postings/e06051a1-ec3b-494e-9474-389207e3a2af",
+    "india": true,
+    "locationSaysIndia": true,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 31
+   },
+   {
+    "title": "Designer, Associate",
+    "location": "Hyderabad",
+    "url": "https://careers.infor.com/en/postings/32771337-4436-41ed-942a-cfc9df2c09f1",
     "india": true,
     "locationSaysIndia": true,
     "hasLocation": true,
@@ -40015,6 +40110,21 @@
     "title": "Writer, Associate",
     "location": "Hyderabad",
     "url": "https://careers.infor.com/en/postings/98a324c9-7996-4a2f-8351-a9eb77cef240",
+    "india": true,
+    "locationSaysIndia": true,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 31
+   },
+   {
+    "title": "Designer, Associate",
+    "location": "Hyderabad",
+    "url": "https://careers.infor.com/en/postings/651faa7e-0ed1-4002-9154-7703bfcece7d",
     "india": true,
     "locationSaysIndia": true,
     "hasLocation": true,
@@ -40232,9 +40342,39 @@
     "score": 19
    },
    {
+    "title": "Product Support Analyst",
+    "location": "Hyderabad",
+    "url": "https://careers.infor.com/en/postings/1ce53a5f-6524-4410-b762-a50bcdb054c1",
+    "india": true,
+    "locationSaysIndia": true,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 19
+   },
+   {
     "title": "Data Migration Consultant",
     "location": "Hyderabad",
     "url": "https://careers.infor.com/en/postings/990913f4-076c-4f0c-a7d0-872b37cb16f6",
+    "india": true,
+    "locationSaysIndia": true,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 19
+   },
+   {
+    "title": "Dev Business Analyst",
+    "location": "Hyderabad",
+    "url": "https://careers.infor.com/en/postings/4e6d4589-f6ac-4f26-8c62-86e8f8506988",
     "india": true,
     "locationSaysIndia": true,
     "hasLocation": true,
@@ -41282,9 +41422,39 @@
     "score": -3
    },
    {
+    "title": "Dev Project Manager",
+    "location": "Hyderabad",
+    "url": "https://careers.infor.com/en/postings/736bfaf2-fbe4-4773-b835-4ff577ab1a9e",
+    "india": true,
+    "locationSaysIndia": true,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [],
+    "expFits2": false,
+    "score": -3
+   },
+   {
     "title": "Enablement Director",
     "location": "Hyderabad",
     "url": "https://careers.infor.com/en/postings/f70725f8-6feb-46b3-a8c7-6e85df401b72",
+    "india": true,
+    "locationSaysIndia": true,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [],
+    "expFits2": false,
+    "score": -3
+   },
+   {
+    "title": "Technical Support Analyst, Principal",
+    "location": "Hyderabad",
+    "url": "https://careers.infor.com/en/postings/081374f3-a42e-4985-b9b0-86c9a84fba1d",
     "india": true,
     "locationSaysIndia": true,
     "hasLocation": true,
@@ -42062,6 +42232,21 @@
     "score": -18
    },
    {
+    "title": "Product Support Analyst, Senior",
+    "location": "Remote",
+    "url": "https://careers.infor.com/en/postings/2135d711-405d-4a99-adfe-31ee97291ec1",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [],
+    "expFits2": false,
+    "score": -18
+   },
+   {
     "title": "Business Operations Manager",
     "location": "Dallas",
     "url": "https://careers.infor.com/en/postings/98d7d7dd-b51a-4f73-bddb-d384d8dadfdf",
@@ -42587,12 +42772,12 @@
     {
      "url": "https://infor.com/careers",
      "status": 200,
-     "bytes": 630077
+     "bytes": 624936
     },
     {
      "url": "https://infor.com/career",
      "status": 404,
-     "bytes": 381899
+     "bytes": 381813
     }
    ],
    "candidates": [
@@ -42604,10 +42789,10 @@
     "workable:infor(guess)"
    ],
    "attempts": [
-    "pinpoint:infor -> 186 jobs"
+    "pinpoint:infor -> 198 jobs"
    ]
   },
-  "ms": 15865
+  "ms": 14610
  },
  {
   "company": "Informa",
@@ -44901,7 +45086,7 @@
     "smartrecruiters:InformaGroupPlc -> 136 jobs"
    ]
   },
-  "ms": 6161
+  "ms": 3306
  },
  {
   "company": "Informatica India",
@@ -44950,7 +45135,7 @@
     {
      "url": "https://informatica.com/careers.html",
      "status": 200,
-     "bytes": 488183
+     "bytes": 488185
     },
     {
      "url": "https://informatica.com/company/careers",
@@ -44981,7 +45166,7 @@
     {
      "url": "https://www.informatica.com/careers",
      "status": 200,
-     "bytes": 119096
+     "bytes": 119098
     },
     {
      "url": "https://www.informatica.com/career",
@@ -45004,7 +45189,7 @@
     "workable:informatica -> no board"
    ]
   },
-  "ms": 70030
+  "ms": 63789
  },
  {
   "company": "Infosec Ventures",
@@ -45135,52 +45320,52 @@
     {
      "url": "https://infosecventures.com/careers",
      "status": 404,
-     "bytes": 2206
+     "bytes": 2205
     },
     {
      "url": "https://infosecventures.com/career",
      "status": 404,
-     "bytes": 2206
+     "bytes": 2205
     },
     {
      "url": "https://infosecventures.com/jobs",
      "status": 404,
-     "bytes": 2206
+     "bytes": 2205
     },
     {
      "url": "https://infosecventures.com/join-us",
      "status": 404,
-     "bytes": 2206
+     "bytes": 2205
     },
     {
      "url": "https://infosecventures.com/join-our-team",
      "status": 404,
-     "bytes": 2206
+     "bytes": 2205
     },
     {
      "url": "https://infosecventures.com/careers.html",
      "status": 400,
-     "bytes": 2203
+     "bytes": 2202
     },
     {
      "url": "https://infosecventures.com/company/careers",
      "status": 404,
-     "bytes": 2206
+     "bytes": 2205
     },
     {
      "url": "https://infosecventures.com/about/careers",
      "status": 200,
-     "bytes": 588490
+     "bytes": 588715
     },
     {
      "url": "https://infosecventures.com/current-openings",
      "status": 404,
-     "bytes": 2206
+     "bytes": 2205
     },
     {
      "url": "https://infosecventures.com/",
      "status": 200,
-     "bytes": 585590
+     "bytes": 586583
     }
    ],
    "candidates": [
@@ -45200,7 +45385,7 @@
     "workable:infosecventures -> no board"
    ]
   },
-  "ms": 23505
+  "ms": 27905
  },
  {
   "company": "Infosprint Technologies",
@@ -45354,7 +45539,7 @@
     {
      "url": "https://infosprint.com/",
      "status": 200,
-     "bytes": 243237
+     "bytes": 243242
     }
    ],
    "candidates": [
@@ -45372,7 +45557,7 @@
     "workable:infosprint -> no board"
    ]
   },
-  "ms": 8655
+  "ms": 7666
  },
  {
   "company": "InfoStride",
@@ -45456,7 +45641,7 @@
     {
      "url": "https://infostride.com/careers/",
      "status": 200,
-     "bytes": 250321
+     "bytes": 250334
     },
     {
      "url": "https://careers.infostride.com",
@@ -45473,11 +45658,6 @@
      "url": "https://infostride.com/career",
      "status": 200,
      "bytes": 90450
-    },
-    {
-     "url": "https://infostride.com/jobs",
-     "status": 404,
-     "bytes": 66188
     }
    ],
    "candidates": [
@@ -45495,7 +45675,7 @@
     "workable:infostride -> no board"
    ]
   },
-  "ms": 7247
+  "ms": 6367
  },
  {
   "company": "Infosys",
@@ -45543,7 +45723,7 @@
     "workable:infosys -> no board"
    ]
   },
-  "ms": 6530
+  "ms": 7883
  },
  {
   "company": "Infosys BPM",
@@ -45584,17 +45764,17 @@
     {
      "url": "https://infosysbpm.com/jobs",
      "status": 200,
-     "bytes": 168254
+     "bytes": 168255
     },
     {
      "url": "https://infosysbpm.com/join-us",
      "status": 200,
-     "bytes": 168254
+     "bytes": 168255
     },
     {
      "url": "https://infosysbpm.com/join-our-team",
      "status": 200,
-     "bytes": 168254
+     "bytes": 168255
     },
     {
      "url": "https://infosysbpm.com/careers.html",
@@ -45653,7 +45833,7 @@
     "workable:infosysbpm -> no board"
    ]
   },
-  "ms": 6550
+  "ms": 8924
  },
  {
   "company": "Infosys Public Services",
@@ -45773,7 +45953,7 @@
     "workable:infosyspublicservices -> no board"
    ]
   },
-  "ms": 9664
+  "ms": 9846
  },
  {
   "company": "InfoVision",
@@ -46008,7 +46188,7 @@
     {
      "url": "https://careers.infovision.com",
      "status": 200,
-     "bytes": 13311
+     "bytes": 13305
     },
     {
      "url": "https://infovision.com/careers",
@@ -46102,7 +46282,7 @@
     "workable:infovision -> no board"
    ]
   },
-  "ms": 46417
+  "ms": 39545
  },
  {
   "company": "Infovity",
@@ -46401,22 +46581,22 @@
     {
      "url": "https://infovity.com/careers",
      "status": 200,
-     "bytes": 218375
+     "bytes": 218413
     },
     {
      "url": "https://infovity.com/career",
      "status": 200,
-     "bytes": 218375
+     "bytes": 218413
     },
     {
      "url": "https://infovity.com/jobs",
      "status": 404,
-     "bytes": 115743
+     "bytes": 115795
     },
     {
      "url": "https://infovity.com/join-us",
      "status": 404,
-     "bytes": 115781
+     "bytes": 115761
     }
    ],
    "candidates": [
@@ -46434,7 +46614,7 @@
     "workable:infovity -> no board"
    ]
   },
-  "ms": 12641
+  "ms": 14182
  },
  {
   "company": "Infowind Technologies",
@@ -46612,22 +46792,22 @@
     {
      "url": "https://infowindtech.com/jobs",
      "status": 404,
-     "bytes": 610531
+     "bytes": 610530
     },
     {
      "url": "https://infowindtech.com/join-us",
      "status": 404,
-     "bytes": 610531
+     "bytes": 610530
     },
     {
      "url": "https://infowindtech.com/join-our-team",
      "status": 404,
-     "bytes": 610531
+     "bytes": 610530
     },
     {
      "url": "https://infowindtech.com/careers.html",
      "status": 404,
-     "bytes": 610531
+     "bytes": 610530
     },
     {
      "url": "https://infowindtech.com/company/careers",
@@ -46642,7 +46822,7 @@
     {
      "url": "https://infowindtech.com/current-openings",
      "status": 404,
-     "bytes": 610531
+     "bytes": 610530
     },
     {
      "url": "https://infowindtech.com/",
@@ -46675,7 +46855,7 @@
     "workable:infowindtech -> no board"
    ]
   },
-  "ms": 28374
+  "ms": 26660
  },
  {
   "company": "Infozech Software",
@@ -46784,7 +46964,7 @@
     "keka:infozech -> 3 jobs"
    ]
   },
-  "ms": 14882
+  "ms": 15615
  },
  {
   "company": "Infra.Market",
@@ -46853,7 +47033,7 @@
     "workable:infra -> no board"
    ]
   },
-  "ms": 14528
+  "ms": 17874
  },
  {
   "company": "Infrrd",
@@ -46997,7 +47177,7 @@
     "workable:infrrd -> no board"
    ]
   },
-  "ms": 16304
+  "ms": 13274
  },
  {
   "company": "Infurnia Technologies",
@@ -47141,7 +47321,7 @@
     "workable:infurnia -> no board"
    ]
   },
-  "ms": 14981
+  "ms": 15463
  },
  {
   "company": "InfyOm Technologies",
@@ -47328,7 +47508,7 @@
     "workable:infyom -> no board"
    ]
   },
-  "ms": 8606
+  "ms": 6175
  },
  {
   "company": "Ingenico",
@@ -47416,7 +47596,7 @@
     "workable:ingenico -> no board"
    ]
   },
-  "ms": 13618
+  "ms": 15685
  },
  {
   "company": "Ingenuity Gaming",
@@ -47577,7 +47757,7 @@
     "workable:ingenuitygaming -> no board"
    ]
   },
-  "ms": 10374
+  "ms": 10520
  },
  {
   "company": "Ingersoll Rand",
@@ -47602,42 +47782,6 @@
      [
       2,
       6
-     ]
-    ],
-    "expFits2": true,
-    "score": 75
-   },
-   {
-    "title": "JDE Applications Developer (Finance)",
-    "location": "Bangalore, KA, IN, 560 029",
-    "url": "https://careers.irco.com/job/Bangalore-JDE-Applications-Developer-%28Finance%29-KA-560-029/1389697800/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-    "india": true,
-    "locationSaysIndia": true,
-    "hasLocation": true,
-    "isEng": true,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [
-     [
-      4,
-      10
-     ],
-     [
-      19,
-      23
-     ],
-     [
-      2,
-      6
-     ],
-     [
-      10,
-      11
-     ],
-     [
-      2,
-      3
      ]
     ],
     "expFits2": true,
@@ -48003,6 +48147,30 @@
     "score": 15
    },
    {
+    "title": "Senior Data Analyst",
+    "location": "Brno, CZ, 602 00",
+    "url": "https://careers.irco.com/job/Brno-Senior-Data-Analyst-602-00/1391018500/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [
+     [
+      2,
+      4
+     ],
+     [
+      4,
+      5
+     ]
+    ],
+    "expFits2": true,
+    "score": 8
+   },
+   {
     "title": "Principal Engineer- Design for Manufacturing",
     "location": "Lincolnshire, IL, US, 60069",
     "url": "https://careers.irco.com/job/Lincolnshire-Principal-Engineer-Design-for-Manufacturing-IL-60069/1407169200/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
@@ -48062,39 +48230,9 @@
     "score": 4
    },
    {
-    "title": "Warehouse Supervisor",
-    "location": "Bradford, GB, BD4 0SU",
-    "url": "https://careers.irco.com/job/Bradford-Warehouse-Supervisor-BD4-0SU/1407119100/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 4
-   },
-   {
-    "title": "Accountant - General Ledger",
-    "location": "Brno, CZ, 602 00",
-    "url": "https://careers.irco.com/job/Brno-Accountant-General-Ledger-602-00/1416984500/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 4
-   },
-   {
-    "title": "PARTS INTERPRETER",
-    "location": "WA, AU, 6106",
-    "url": "https://careers.irco.com/job/South-Strezlecki-PARTS-INTERPRETER-WA-6106/1416911300/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+    "title": "Supervisor Sales",
+    "location": "Mexico City, Mexico State, MX, 9070",
+    "url": "https://careers.irco.com/job/Mexico-City-Supervisor-Sales-Mexi-9070/1399402500/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
@@ -48215,6 +48353,36 @@
     "title": "Ausbildung zum Industriekaufmann (m/w/d)",
     "location": "Memmingen, DE, 87700",
     "url": "https://careers.irco.com/job/Memmingen-Ausbildung-zum-Industriekaufmann-%28mwd%29-87700/1390109800/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 4
+   },
+   {
+    "title": "Warehouse Supervisor",
+    "location": "Bradford, GB, BD4 0SU",
+    "url": "https://careers.irco.com/job/Bradford-Warehouse-Supervisor-BD4-0SU/1407119100/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 4
+   },
+   {
+    "title": "Accountant - General Ledger",
+    "location": "Brno, CZ, 602 00",
+    "url": "https://careers.irco.com/job/Brno-Accountant-General-Ledger-602-00/1416984500/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
@@ -48573,128 +48741,22 @@
     {
      "url": "https://careers.irco.com/",
      "status": 200,
-     "bytes": 74409
+     "bytes": 74408
     },
     {
      "url": "https://careers.irco.com",
      "status": 200,
-     "bytes": 74409
+     "bytes": 74408
     },
     {
      "url": "https://irco.com/careers",
      "status": 429,
-     "bytes": 31038
+     "bytes": 31047
     },
     {
      "url": "https://irco.com/career",
      "status": 429,
      "bytes": 31031
-    },
-    {
-     "url": "https://irco.com/jobs",
-     "status": 429,
-     "bytes": 31038
-    },
-    {
-     "url": "https://irco.com/join-us",
-     "status": 429,
-     "bytes": 31031
-    },
-    {
-     "url": "https://irco.com/join-our-team",
-     "status": 429,
-     "bytes": 31038
-    },
-    {
-     "url": "https://irco.com/careers.html",
-     "status": 429,
-     "bytes": 31031
-    },
-    {
-     "url": "https://irco.com/company/careers",
-     "status": 429,
-     "bytes": 31038
-    },
-    {
-     "url": "https://irco.com/about/careers",
-     "status": 429,
-     "bytes": 31031
-    },
-    {
-     "url": "https://irco.com/current-openings",
-     "status": 429,
-     "bytes": 31038
-    },
-    {
-     "url": "https://irco.com/",
-     "status": 429,
-     "bytes": 31031
-    },
-    {
-     "url": "https://careers.www.irco.com",
-     "status": 0,
-     "bytes": 0,
-     "error": "fetch failed"
-    },
-    {
-     "url": "https://www.irco.com/careers",
-     "status": 429,
-     "bytes": 31032
-    },
-    {
-     "url": "https://www.irco.com/career",
-     "status": 429,
-     "bytes": 31032
-    },
-    {
-     "url": "https://www.irco.com/jobs",
-     "status": 429,
-     "bytes": 31032
-    },
-    {
-     "url": "https://www.irco.com/join-us",
-     "status": 429,
-     "bytes": 31032
-    },
-    {
-     "url": "https://www.irco.com/join-our-team",
-     "status": 429,
-     "bytes": 31032
-    },
-    {
-     "url": "https://www.irco.com/careers.html",
-     "status": 429,
-     "bytes": 31032
-    },
-    {
-     "url": "https://www.irco.com/company/careers",
-     "status": 429,
-     "bytes": 31032
-    },
-    {
-     "url": "https://www.irco.com/about/careers",
-     "status": 429,
-     "bytes": 31032
-    },
-    {
-     "url": "https://www.irco.com/current-openings",
-     "status": 429,
-     "bytes": 31032
-    },
-    {
-     "url": "https://www.irco.com/",
-     "status": 429,
-     "bytes": 31032
-    },
-    {
-     "url": "https://careers.irco.com/?locale=de_DE",
-     "status": 200,
-     "bytes": 75070
-    },
-    {
-     "url": "https://careers.irco.com/?locale=en_GB",
-     "status": 200,
-     "bytes": 73262
     }
    ],
    "candidates": [
@@ -48714,7 +48776,7 @@
     "successfactors:careers.irco.com -> 48 jobs"
    ]
   },
-  "ms": 10467
+  "ms": 6445
  },
  {
   "company": "Ingram Micro India",
@@ -48829,7 +48891,7 @@
     {
      "url": "https://ingrammicro.com/",
      "status": 200,
-     "bytes": 152204
+     "bytes": 152210
     },
     {
      "url": "https://careers.www.ingrammicro.com",
@@ -48885,12 +48947,7 @@
     {
      "url": "https://www.ingrammicro.com/",
      "status": 200,
-     "bytes": 152204
-    },
-    {
-     "url": "https://careers.ingrammicro.com/",
-     "status": 403,
-     "bytes": 5755
+     "bytes": 152227
     }
    ],
    "candidates": [
@@ -48908,7 +48965,7 @@
     "workable:ingrammicro -> no board"
    ]
   },
-  "ms": 17888
+  "ms": 19322
  },
  {
   "company": "InheritX Solutions",
@@ -49236,7 +49293,7 @@
     "workable:inheritx -> no board"
    ]
   },
-  "ms": 5661
+  "ms": 6480
  },
  {
   "company": "Inito",
@@ -49579,7 +49636,7 @@
     "keka:inito -> 11 jobs"
    ]
   },
-  "ms": 1790
+  "ms": 1771
  },
  {
   "company": "Inkers Technology",
@@ -49723,7 +49780,7 @@
     "workable:inkers -> no board"
    ]
   },
-  "ms": 6064
+  "ms": 8448
  },
  {
   "company": "InMobi",
@@ -51371,7 +51428,7 @@
     "greenhouse:inmobi -> 70 jobs (guess, name-verified)"
    ]
   },
-  "ms": 11350
+  "ms": 11426
  },
  {
   "company": "Innefu Labs",
@@ -51467,7 +51524,7 @@
     "workable:innefu -> no board"
    ]
   },
-  "ms": 13822
+  "ms": 11689
  },
  {
   "company": "Innodata",
@@ -51636,7 +51693,7 @@
     "lever:innodata -> 3 jobs (guess, name-verified)"
    ]
   },
-  "ms": 14277
+  "ms": 18349
  },
  {
   "company": "Innofied Solutions",
@@ -51907,7 +51964,7 @@
     "zohorecruit:innofied -> 8 jobs"
    ]
   },
-  "ms": 4466
+  "ms": 4280
  },
  {
   "company": "Innominds",
@@ -51942,7 +51999,7 @@
    "pages": [],
    "attempts": []
   },
-  "ms": 90001
+  "ms": 90002
  },
  {
   "company": "Innoraft",
@@ -52031,7 +52088,7 @@
     "workable:innoraft -> no board"
    ]
   },
-  "ms": 6103
+  "ms": 7216
  },
  {
   "company": "Innoterra",
@@ -52570,7 +52627,7 @@
     "workable:innoterra -> no board"
    ]
   },
-  "ms": 15905
+  "ms": 17498
  },
  {
   "company": "Innova Solutions",
@@ -52595,17 +52652,22 @@
     {
      "url": "https://innovasolutions.com/careers",
      "status": 200,
-     "bytes": 334564
+     "bytes": 334561
     },
     {
      "url": "https://innovasolutions.com/career",
      "status": 404,
-     "bytes": 182818
+     "bytes": 182817
     },
     {
      "url": "https://innovasolutions.com/jobs",
      "status": 404,
-     "bytes": 183201
+     "bytes": 182817
+    },
+    {
+     "url": "https://innovasolutions.com/join-us",
+     "status": 404,
+     "bytes": 183202
     }
    ],
    "candidates": [
@@ -52633,7 +52695,7 @@
     "workable:innovasolutions -> no board"
    ]
   },
-  "ms": 38371
+  "ms": 29791
  },
  {
   "company": "Innovaccer",
@@ -52722,7 +52784,7 @@
     "workable:innovaccer -> no board"
    ]
   },
-  "ms": 22283
+  "ms": 20185
  },
  {
   "company": "Innovapptive",
@@ -52828,12 +52890,12 @@
     {
      "url": "https://innovapptive.com/careers.html",
      "status": 404,
-     "bytes": 63922
+     "bytes": 63919
     },
     {
      "url": "https://innovapptive.com/company/careers",
      "status": 404,
-     "bytes": 63922
+     "bytes": 63918
     },
     {
      "url": "https://innovapptive.com/about/careers",
@@ -52843,7 +52905,7 @@
     {
      "url": "https://innovapptive.com/current-openings",
      "status": 404,
-     "bytes": 63919
+     "bytes": 63922
     },
     {
      "url": "https://innovapptive.com/",
@@ -52866,7 +52928,7 @@
     "workable:innovapptive -> no board"
    ]
   },
-  "ms": 30569
+  "ms": 27400
  },
  {
   "company": "Innovatia",
@@ -53026,7 +53088,7 @@
     "workable:innovatia -> no board"
    ]
   },
-  "ms": 80617
+  "ms": 67183
  },
  {
   "company": "InnovationM",
@@ -53114,7 +53176,7 @@
     "workable:innovationm -> no board"
    ]
   },
-  "ms": 11514
+  "ms": 12149
  },
  {
   "company": "Innovatiview",
@@ -53188,7 +53250,7 @@
     "workable:innovatiview -> no board"
    ]
   },
-  "ms": 4268
+  "ms": 4550
  },
  {
   "company": "Innovature",
@@ -53500,7 +53562,7 @@
     {
      "url": "https://innovature.ai/jobs",
      "status": 200,
-     "bytes": 391486
+     "bytes": 391525
     },
     {
      "url": "https://innovature.ai/join-us",
@@ -53523,7 +53585,7 @@
     "workable:innovature -> no board"
    ]
   },
-  "ms": 16611
+  "ms": 17063
  },
  {
   "company": "Innoventix Solutions",
@@ -53677,7 +53739,7 @@
     "workable:innoventixsolutions -> no board"
    ]
   },
-  "ms": 17751
+  "ms": 19549
  },
  {
   "company": "Innover Digital",
@@ -53697,7 +53759,7 @@
     {
      "url": "https://www.innoverdigital.com/careers/",
      "status": 200,
-     "bytes": 248456
+     "bytes": 248482
     },
     {
      "url": "https://careers.innoverdigital.com",
@@ -53708,32 +53770,27 @@
     {
      "url": "https://innoverdigital.com/careers",
      "status": 200,
-     "bytes": 248456
+     "bytes": 248482
     },
     {
      "url": "https://innoverdigital.com/career",
      "status": 200,
-     "bytes": 248456
+     "bytes": 248482
     },
     {
      "url": "https://innoverdigital.com/jobs",
      "status": 404,
-     "bytes": 177278
+     "bytes": 177277
     },
     {
      "url": "https://innoverdigital.com/join-us",
      "status": 404,
-     "bytes": 177282
+     "bytes": 177283
     },
     {
      "url": "https://innoverdigital.com/join-our-team",
      "status": 404,
-     "bytes": 177271
-    },
-    {
-     "url": "https://innoverdigital.com/careers.html",
-     "status": 404,
-     "bytes": 177269
+     "bytes": 177296
     }
    ],
    "candidates": [
@@ -53763,7 +53820,7 @@
     "workable:innoverdigital -> no board"
    ]
   },
-  "ms": 21853
+  "ms": 18625
  },
  {
   "company": "Innovify",
@@ -53907,7 +53964,7 @@
     "workable:innovify -> no board"
    ]
   },
-  "ms": 14837
+  "ms": 13910
  },
  {
   "company": "Innoviti",
@@ -53962,7 +54019,7 @@
     "workable:innoviti -> no board"
    ]
   },
-  "ms": 4254
+  "ms": 4437
  },
  {
   "company": "Innovura Technolabs",
@@ -54051,27 +54108,17 @@
     {
      "url": "https://innovuratech.com/careers",
      "status": 200,
-     "bytes": 270606
+     "bytes": 270608
     },
     {
      "url": "https://innovuratech.com/career",
      "status": 200,
-     "bytes": 270606
+     "bytes": 270581
     },
     {
      "url": "https://innovuratech.com/jobs",
      "status": 404,
      "bytes": 135990
-    },
-    {
-     "url": "https://innovuratech.com/join-us",
-     "status": 404,
-     "bytes": 135992
-    },
-    {
-     "url": "https://innovuratech.com/join-our-team",
-     "status": 404,
-     "bytes": 136001
     }
    ],
    "candidates": [
@@ -54099,7 +54146,7 @@
     "workable:innovuratech -> no board"
    ]
   },
-  "ms": 9488
+  "ms": 7576
  },
  {
   "company": "Innowrap Technologies",
@@ -54240,25 +54287,248 @@
     "workable:innowrap -> no board"
    ]
   },
-  "ms": 3866
+  "ms": 2851
  },
  {
   "company": "Inntot Technologies",
   "country": "India",
-  "source": null,
-  "error": "timed-out",
-  "totalJobs": 0,
-  "jobs": [],
+  "source": "headings:https://www.inntot.com/careers/",
+  "error": null,
+  "totalJobs": 5,
+  "jobs": [
+   {
+    "title": "Software Engineer",
+    "location": "",
+    "url": "https://www.inntot.com/careers/",
+    "india": true,
+    "locationSaysIndia": false,
+    "hasLocation": false,
+    "isEng": true,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [
+     [
+      0,
+      2
+     ]
+    ],
+    "expFits2": true,
+    "score": 75
+   },
+   {
+    "title": "DSP Engineer",
+    "location": "",
+    "url": "https://www.inntot.com/careers/",
+    "india": true,
+    "locationSaysIndia": false,
+    "hasLocation": false,
+    "isEng": true,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [
+     [
+      0,
+      3
+     ]
+    ],
+    "expFits2": true,
+    "score": 75
+   },
+   {
+    "title": "Senior Software Engineer​",
+    "location": "",
+    "url": "https://www.inntot.com/careers/",
+    "india": true,
+    "locationSaysIndia": false,
+    "hasLocation": false,
+    "isEng": true,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [
+     [
+      2,
+      4
+     ]
+    ],
+    "expFits2": true,
+    "score": 53
+   },
+   {
+    "title": "Technical Lead",
+    "location": "",
+    "url": "https://www.inntot.com/careers/",
+    "india": true,
+    "locationSaysIndia": false,
+    "hasLocation": false,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [
+     [
+      4,
+      8
+     ],
+     [
+      4,
+      5
+     ]
+    ],
+    "expFits2": false,
+    "score": 5
+   },
+   {
+    "title": "Engineering Manager",
+    "location": "",
+    "url": "https://www.inntot.com/careers/",
+    "india": true,
+    "locationSaysIndia": false,
+    "hasLocation": false,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [
+     [
+      8,
+      12
+     ]
+    ],
+    "expFits2": false,
+    "score": -7
+   }
+  ],
   "enriched": 0,
   "matches": [],
   "nearMatches": [],
-  "closest": null,
-  "closestEng": null,
-  "trace": {
-   "pages": [],
-   "attempts": []
+  "closest": {
+   "title": "Software Engineer",
+   "location": "",
+   "url": "https://www.inntot.com/careers/",
+   "team": "",
+   "text": "Software Engineer • 0-2 years’ experience in software development field • Excellent C/C++ programming skills • Understanding of RTOS concepts • Expertise in Data Structures and Algorithms Apply",
+   "_noEnrich": true,
+   "score": 75,
+   "isMatch": false,
+   "isEng": true,
+   "java": false,
+   "flutter": false,
+   "android": false,
+   "india": true,
+   "senior": false,
+   "junior": false,
+   "intern": false,
+   "exp": [
+    [
+     0,
+     2
+    ]
+   ],
+   "expFits2": true
   },
-  "ms": 90002
+  "closestEng": {
+   "title": "Software Engineer",
+   "location": "",
+   "url": "https://www.inntot.com/careers/",
+   "team": "",
+   "text": "Software Engineer • 0-2 years’ experience in software development field • Excellent C/C++ programming skills • Understanding of RTOS concepts • Expertise in Data Structures and Algorithms Apply",
+   "_noEnrich": true,
+   "score": 75,
+   "isMatch": false,
+   "isEng": true,
+   "java": false,
+   "flutter": false,
+   "android": false,
+   "india": true,
+   "senior": false,
+   "junior": false,
+   "intern": false,
+   "exp": [
+    [
+     0,
+     2
+    ]
+   ],
+   "expFits2": true
+  },
+  "trace": {
+   "pages": [
+    {
+     "url": "https://careers.inntot.com",
+     "status": 0,
+     "bytes": 0,
+     "error": "fetch failed"
+    },
+    {
+     "url": "https://inntot.com/careers",
+     "status": 200,
+     "bytes": 121830
+    },
+    {
+     "url": "https://inntot.com/career",
+     "status": 200,
+     "bytes": 121830
+    },
+    {
+     "url": "https://inntot.com/jobs",
+     "status": 404,
+     "bytes": 77655
+    },
+    {
+     "url": "https://inntot.com/join-us",
+     "status": 404,
+     "bytes": 77655
+    },
+    {
+     "url": "https://inntot.com/join-our-team",
+     "status": 404,
+     "bytes": 77655
+    },
+    {
+     "url": "https://inntot.com/careers.html",
+     "status": 404,
+     "bytes": 77655
+    },
+    {
+     "url": "https://inntot.com/company/careers",
+     "status": 200,
+     "bytes": 121830
+    },
+    {
+     "url": "https://inntot.com/about/careers",
+     "status": 200,
+     "bytes": 121830
+    },
+    {
+     "url": "https://inntot.com/current-openings",
+     "status": 404,
+     "bytes": 77655
+    },
+    {
+     "url": "https://inntot.com/",
+     "status": 200,
+     "bytes": 268726
+    }
+   ],
+   "candidates": [
+    "greenhouse:inntot(guess)",
+    "lever:inntot(guess)",
+    "ashby:inntot(guess)",
+    "recruitee:inntot(guess)",
+    "workable:inntot(guess)"
+   ],
+   "attempts": [
+    "greenhouse:inntot -> no board",
+    "lever:inntot -> no board",
+    "ashby:inntot -> no board",
+    "recruitee:inntot -> no board",
+    "workable:inntot -> no board"
+   ]
+  },
+  "ms": 47961
  },
  {
   "company": "Inovies",
@@ -54402,7 +54672,7 @@
     "workable:inovies -> no board"
    ]
   },
-  "ms": 3591
+  "ms": 3759
  },
  {
   "company": "Inshorts",
@@ -54497,7 +54767,7 @@
     "workable:inshorts -> no board"
    ]
   },
-  "ms": 7639
+  "ms": 7568
  },
  {
   "company": "Insight Consultants",
@@ -54619,7 +54889,7 @@
     "workable:insightconsultants -> no board"
    ]
   },
-  "ms": 13699
+  "ms": 18259
  },
  {
   "company": "Insight Enterprises",
@@ -54694,7 +54964,7 @@
     {
      "url": "https://careers.insight.com",
      "status": 200,
-     "bytes": 24289
+     "bytes": 24368
     },
     {
      "url": "https://insight.com/careers",
@@ -54732,7 +55002,7 @@
     "workable:insight -> no board"
    ]
   },
-  "ms": 15292
+  "ms": 12552
  },
  {
   "company": "Inspira Enterprise",
@@ -54823,7 +55093,7 @@
     "workable:inspiraenterprise -> no board"
    ]
   },
-  "ms": 4893
+  "ms": 3454
  },
  {
   "company": "Inspiredge IT Solutions",
@@ -55149,7 +55419,7 @@
     "workable:inspiredgeit -> no board"
    ]
   },
-  "ms": 11905
+  "ms": 13270
  },
  {
   "company": "Inspirisys Solutions",
@@ -55449,7 +55719,7 @@
     "workable:inspirisys -> no board"
    ]
   },
-  "ms": 8267
+  "ms": 9427
  },
  {
   "company": "InstaAstro",
@@ -55728,7 +55998,7 @@
     {
      "url": "https://instaastro.com/",
      "status": 200,
-     "bytes": 225825
+     "bytes": 225900
     }
    ],
    "candidates": [
@@ -55746,7 +56016,7 @@
     "workable:instaastro -> no board"
    ]
   },
-  "ms": 9482
+  "ms": 7718
  },
  {
   "company": "InstaDApp",
@@ -55809,7 +56079,7 @@
     "workable:instadapp -> no board"
    ]
   },
-  "ms": 13053
+  "ms": 12654
  },
  {
   "company": "Instamojo",
@@ -55929,7 +56199,7 @@
     "workable:instamojo -> no board"
    ]
   },
-  "ms": 11309
+  "ms": 11180
  },
  {
   "company": "Instant Systems",
@@ -56088,7 +56358,7 @@
     "workable:instantsys -> no board"
    ]
   },
-  "ms": 28660
+  "ms": 28269
  },
  {
   "company": "InstaSafe",
@@ -56191,7 +56461,7 @@
     "workable:instasafe -> no board"
    ]
   },
-  "ms": 3691
+  "ms": 2456
  },
  {
   "company": "Instawork",
@@ -57332,7 +57602,7 @@
     "greenhouse:instawork -> 53 jobs (guess, name-verified)"
    ]
   },
-  "ms": 2980
+  "ms": 4725
  },
  {
   "company": "Instructure",
@@ -58396,7 +58666,7 @@
     "ashby:instructure -> 53 jobs"
    ]
   },
-  "ms": 3442
+  "ms": 2875
  },
  {
   "company": "InsuranceDekho",
@@ -58656,7 +58926,7 @@
     "workable:insurancedekho -> no board"
    ]
   },
-  "ms": 12969
+  "ms": 18077
  },
  {
   "company": "Intangles Lab",
@@ -59313,7 +59583,7 @@
     "keka:intangles -> 26 jobs"
    ]
   },
-  "ms": 19971
+  "ms": 22514
  },
  {
   "company": "Intapp",
@@ -60160,7 +60430,7 @@
     "workday:intapp -> 40 jobs"
    ]
   },
-  "ms": 32177
+  "ms": 32846
  },
  {
   "company": "Intas Pharmaceuticals",
@@ -60275,7 +60545,7 @@
     "workable:intaspharma -> no board"
    ]
   },
-  "ms": 59787
+  "ms": 64422
  },
  {
   "company": "Intech Additive Solutions",
@@ -60419,7 +60689,7 @@
     "workable:intechadditive -> no board"
    ]
   },
-  "ms": 5161
+  "ms": 10066
  },
  {
   "company": "Intech Creative Services",
@@ -61311,7 +61581,7 @@
     "workable:intechww -> no board"
    ]
   },
-  "ms": 19386
+  "ms": 18541
  },
  {
   "company": "Intech Systems",
@@ -61465,7 +61735,7 @@
     "workable:intechsystems -> no board"
    ]
   },
-  "ms": 9760
+  "ms": 8564
  },
  {
   "company": "Integra Software Services",
@@ -61490,52 +61760,52 @@
     {
      "url": "https://integranxt.com/careers",
      "status": 404,
-     "bytes": 109818
+     "bytes": 109790
     },
     {
      "url": "https://integranxt.com/career",
      "status": 200,
-     "bytes": 148008
+     "bytes": 148001
     },
     {
      "url": "https://integranxt.com/jobs",
      "status": 404,
-     "bytes": 109818
+     "bytes": 109790
     },
     {
      "url": "https://integranxt.com/join-us",
      "status": 404,
-     "bytes": 109818
+     "bytes": 109790
     },
     {
      "url": "https://integranxt.com/join-our-team",
      "status": 404,
-     "bytes": 109818
+     "bytes": 109790
     },
     {
      "url": "https://integranxt.com/careers.html",
      "status": 404,
-     "bytes": 109818
+     "bytes": 109790
     },
     {
      "url": "https://integranxt.com/company/careers",
      "status": 404,
-     "bytes": 109818
+     "bytes": 109790
     },
     {
      "url": "https://integranxt.com/about/careers",
      "status": 404,
-     "bytes": 109818
+     "bytes": 109790
     },
     {
      "url": "https://integranxt.com/current-openings",
      "status": 404,
-     "bytes": 109818
+     "bytes": 109790
     },
     {
      "url": "https://integranxt.com/",
      "status": 200,
-     "bytes": 193641
+     "bytes": 193747
     }
    ],
    "candidates": [
@@ -61563,7 +61833,7 @@
     "workable:integranxt -> no board"
    ]
   },
-  "ms": 41383
+  "ms": 41298
  },
  {
   "company": "IntegriChain",
@@ -62061,7 +62331,7 @@
     "smartrecruiters:IntegriChain1 -> 24 jobs"
    ]
   },
-  "ms": 2807
+  "ms": 3036
  },
  {
   "company": "Intel",
@@ -62391,21 +62661,6 @@
     "score": 34
    },
    {
-    "title": "Intel Foundry Overlay Development Engineer",
-    "location": "US, Oregon, Hillsboro",
-    "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Intel-Foundry-Overlay-Development-Engineer_JR0286232",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": true,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 34
-   },
-   {
     "title": "SoC/IP Design Verification Engineer",
     "location": "2 Locations",
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/Mexico-Guadalajara/SoC-IP-Design-Verification-Engineer_JR0285869",
@@ -62532,6 +62787,21 @@
     "title": "Senior CPU Pre-Silicon Verification Engineer",
     "location": "2 Locations",
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-Texas-Austin/Senior-CPU-Pre-Silicon-Verification-Engineer_JR0281371",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": true,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [],
+    "expFits2": false,
+    "score": 12
+   },
+   {
+    "title": "Senior ASIC DFT Engineer",
+    "location": "Israel, Haifa",
+    "url": "https://intel.wd1.myworkdayjobs.com/External/job/Israel-Haifa/Senior-ASIC-DFT-Engineer_JR0285887",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
@@ -62671,9 +62941,9 @@
     "score": 4
    },
    {
-    "title": "Datacenter Technical Sales Specialist - Pacific Northwest",
-    "location": "Virtual US",
-    "url": "https://intel.wd1.myworkdayjobs.com/External/job/Virtual-US/Datacenter-Technical-Sales-Specialist---Pacific-Northwest_JR0285477",
+    "title": "LC site master planner and permitting owner - Kiryat Gat",
+    "location": "Israel, Kiryat-Gat",
+    "url": "https://intel.wd1.myworkdayjobs.com/External/job/Israel-Kiryat-Gat/LC-site-master-planner-and-permitting-owner---Kiryat-Gat_JR0286134-1",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
@@ -62880,7 +63150,7 @@
     "workday:intel -> 40 jobs"
    ]
   },
-  "ms": 26141
+  "ms": 26903
  },
  {
   "company": "Intelegain Technologies",
@@ -63129,7 +63399,7 @@
     "workable:intelegain -> no board"
    ]
   },
-  "ms": 20433
+  "ms": 17675
  },
  {
   "company": "Intelivita",
@@ -63189,7 +63459,7 @@
     {
      "url": "https://intelivita.com/about/careers",
      "status": 200,
-     "bytes": 178932
+     "bytes": 178905
     }
    ],
    "candidates": [
@@ -63207,7 +63477,7 @@
     "workable:intelivita -> no board"
    ]
   },
-  "ms": 41455
+  "ms": 38296
  },
  {
   "company": "Intelizign",
@@ -63407,7 +63677,7 @@
     "workable:intelizign -> no board"
    ]
   },
-  "ms": 44409
+  "ms": 57924
  },
  {
   "company": "Intellect Bizware Services",
@@ -63519,232 +63789,26 @@
     "workable:intellectbizware -> no board"
    ]
   },
-  "ms": 20848
+  "ms": 18954
  },
  {
   "company": "Intellect Design Arena",
   "country": "India",
   "careers": "https://www.intellectdesign.com/careers/",
-  "source": "headings:https://www.intellectdesign.com/careers/",
-  "error": null,
-  "totalJobs": 3,
-  "jobs": [
-   {
-    "title": "Wealth Management - Financial Advisor",
-    "location": "",
-    "url": "https://www.intellectdesign.com/careers/",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 19
-   },
-   {
-    "title": "Wealth Management – Financial Advisor",
-    "location": "",
-    "url": "https://www.intellectdesign.com/careers/",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 19
-   },
-   {
-    "title": "Analyst Recognitions",
-    "location": "",
-    "url": "https://www.intellectdesign.com/careers/",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 19
-   }
-  ],
+  "source": null,
+  "error": "timed-out",
+  "totalJobs": 0,
+  "jobs": [],
   "enriched": 0,
   "matches": [],
   "nearMatches": [],
-  "closest": {
-   "title": "Wealth Management - Financial Advisor",
-   "location": "",
-   "url": "https://www.intellectdesign.com/careers/",
-   "team": "",
-   "text": "Wealth Management - Financial Advisor Brokerage Custody Fund Accounting Transfer Agency Liquidity Management Optimize enterprise liquidity Liquidity Management <a class=\"mega-menu-link\" href=\"https://www.intellectdesign.com/solutions/liquidity-management-solutions/liqui",
-   "_noEnrich": true,
-   "score": 19,
-   "isMatch": false,
-   "isEng": false,
-   "java": false,
-   "flutter": false,
-   "android": false,
-   "india": true,
-   "senior": false,
-   "junior": false,
-   "intern": false,
-   "exp": [],
-   "expFits2": false
-  },
+  "closest": null,
   "closestEng": null,
   "trace": {
-   "pages": [
-    {
-     "url": "https://www.intellectdesign.com/careers/",
-     "status": 200,
-     "bytes": 541170
-    },
-    {
-     "url": "https://careers.intellectdesign.com",
-     "status": 0,
-     "bytes": 0,
-     "error": "fetch failed"
-    },
-    {
-     "url": "https://intellectdesign.com/careers",
-     "status": 200,
-     "bytes": 541170
-    },
-    {
-     "url": "https://intellectdesign.com/career",
-     "status": 200,
-     "bytes": 742719
-    },
-    {
-     "url": "https://intellectdesign.com/jobs",
-     "status": 200,
-     "bytes": 742719
-    },
-    {
-     "url": "https://intellectdesign.com/join-us",
-     "status": 200,
-     "bytes": 742719
-    },
-    {
-     "url": "https://intellectdesign.com/join-our-team",
-     "status": 200,
-     "bytes": 742719
-    },
-    {
-     "url": "https://intellectdesign.com/careers.html",
-     "status": 200,
-     "bytes": 742719
-    },
-    {
-     "url": "https://intellectdesign.com/company/careers",
-     "status": 200,
-     "bytes": 742718
-    },
-    {
-     "url": "https://intellectdesign.com/about/careers",
-     "status": 200,
-     "bytes": 742719
-    },
-    {
-     "url": "https://intellectdesign.com/current-openings",
-     "status": 200,
-     "bytes": 742719
-    },
-    {
-     "url": "https://intellectdesign.com/",
-     "status": 200,
-     "bytes": 742719
-    },
-    {
-     "url": "https://careers.www.intellectdesign.com",
-     "status": 0,
-     "bytes": 0,
-     "error": "fetch failed"
-    },
-    {
-     "url": "https://www.intellectdesign.com/careers",
-     "status": 200,
-     "bytes": 541170
-    },
-    {
-     "url": "https://www.intellectdesign.com/career",
-     "status": 200,
-     "bytes": 742718
-    },
-    {
-     "url": "https://www.intellectdesign.com/jobs",
-     "status": 200,
-     "bytes": 742719
-    },
-    {
-     "url": "https://www.intellectdesign.com/join-us",
-     "status": 200,
-     "bytes": 742718
-    },
-    {
-     "url": "https://www.intellectdesign.com/join-our-team",
-     "status": 200,
-     "bytes": 742718
-    },
-    {
-     "url": "https://www.intellectdesign.com/careers.html",
-     "status": 200,
-     "bytes": 742719
-    },
-    {
-     "url": "https://www.intellectdesign.com/company/careers",
-     "status": 200,
-     "bytes": 742719
-    },
-    {
-     "url": "https://www.intellectdesign.com/about/careers",
-     "status": 200,
-     "bytes": 742719
-    },
-    {
-     "url": "https://www.intellectdesign.com/current-openings",
-     "status": 200,
-     "bytes": 742718
-    },
-    {
-     "url": "https://www.intellectdesign.com/",
-     "status": 200,
-     "bytes": 742719
-    }
-   ],
-   "candidates": [
-    "greenhouse:intellectdesignarena(guess)",
-    "lever:intellectdesignarena(guess)",
-    "ashby:intellectdesignarena(guess)",
-    "recruitee:intellectdesignarena(guess)",
-    "workable:intellectdesignarena(guess)",
-    "greenhouse:intellectdesign(guess)",
-    "lever:intellectdesign(guess)",
-    "ashby:intellectdesign(guess)",
-    "recruitee:intellectdesign(guess)",
-    "workable:intellectdesign(guess)"
-   ],
-   "attempts": [
-    "greenhouse:intellectdesignarena -> no board",
-    "lever:intellectdesignarena -> no board",
-    "ashby:intellectdesignarena -> no board",
-    "recruitee:intellectdesignarena -> no board",
-    "workable:intellectdesignarena -> no board",
-    "greenhouse:intellectdesign -> no board",
-    "lever:intellectdesign -> no board",
-    "ashby:intellectdesign -> no board",
-    "recruitee:intellectdesign -> no board",
-    "workable:intellectdesign -> no board"
-   ]
+   "pages": [],
+   "attempts": []
   },
-  "ms": 88350
+  "ms": 90003
  },
  {
   "company": "IntellectAI",
@@ -63832,7 +63896,7 @@
     "workable:intellectai -> no board"
    ]
   },
-  "ms": 39255
+  "ms": 50010
  },
  {
   "company": "Intellectyx",
@@ -63857,12 +63921,12 @@
     {
      "url": "https://intellectyx.com/careers",
      "status": 200,
-     "bytes": 217997
+     "bytes": 217604
     },
     {
      "url": "https://intellectyx.com/career",
      "status": 200,
-     "bytes": 217997
+     "bytes": 217604
     },
     {
      "url": "https://intellectyx.com/jobs",
@@ -63887,12 +63951,12 @@
     {
      "url": "https://intellectyx.com/company/careers",
      "status": 200,
-     "bytes": 217997
+     "bytes": 217604
     },
     {
      "url": "https://intellectyx.com/about/careers",
      "status": 200,
-     "bytes": 217997
+     "bytes": 217604
     },
     {
      "url": "https://intellectyx.com/current-openings",
@@ -63920,7 +63984,7 @@
     "workable:intellectyx -> no board"
    ]
   },
-  "ms": 17447
+  "ms": 19377
  },
  {
   "company": "IntelliCar",
@@ -64143,7 +64207,7 @@
     "workable:intellicar -> no board"
    ]
   },
-  "ms": 12219
+  "ms": 12684
  },
  {
   "company": "Intellicus Technologies",
@@ -64333,7 +64397,7 @@
     {
      "url": "https://intellicus.com/company/careers",
      "status": 200,
-     "bytes": 162245
+     "bytes": 162247
     },
     {
      "url": "https://intellicus.com/about/careers",
@@ -64364,7 +64428,7 @@
     {
      "url": "https://www.intellicus.com/career",
      "status": 200,
-     "bytes": 162247
+     "bytes": 162243
     },
     {
      "url": "https://www.intellicus.com/jobs",
@@ -64389,7 +64453,7 @@
     {
      "url": "https://www.intellicus.com/company/careers",
      "status": 200,
-     "bytes": 162245
+     "bytes": 162247
     },
     {
      "url": "https://www.intellicus.com/about/careers",
@@ -64422,13 +64486,13 @@
     "workable:intellicus -> no board"
    ]
   },
-  "ms": 48753
+  "ms": 53027
  },
  {
   "company": "IntelliMedia Networks",
   "country": "India",
   "source": null,
-  "error": "blocked-or-error-response",
+  "error": "no-job-data-found",
   "totalJobs": 0,
   "jobs": [],
   "enriched": 0,
@@ -64446,28 +64510,23 @@
     },
     {
      "url": "https://intellimedianetworks.com/careers",
-     "status": 404,
-     "bytes": 255146
+     "status": 200,
+     "bytes": 248886
     },
     {
      "url": "https://intellimedianetworks.com/career",
-     "status": 404,
-     "bytes": 255140
+     "status": 200,
+     "bytes": 248886
     },
     {
      "url": "https://intellimedianetworks.com/jobs",
      "status": 404,
-     "bytes": 255128
+     "bytes": 228215
     },
     {
      "url": "https://intellimedianetworks.com/join-us",
      "status": 404,
-     "bytes": 255146
-    },
-    {
-     "url": "https://intellimedianetworks.com/join-our-team",
-     "status": 404,
-     "bytes": 255182
+     "bytes": 228233
     }
    ],
    "candidates": [
@@ -64485,7 +64544,7 @@
     "workable:intellimedianetworks -> no board"
    ]
   },
-  "ms": 60551
+  "ms": 33721
  },
  {
   "company": "Intellinet Systems",
@@ -64753,7 +64812,7 @@
     "workable:intellinetsystem -> no board"
    ]
   },
-  "ms": 16800
+  "ms": 16467
  },
  {
   "company": "Intellinez Systems",
@@ -65021,7 +65080,7 @@
     {
      "url": "https://intellinez.com/career",
      "status": 200,
-     "bytes": 529211
+     "bytes": 529199
     },
     {
      "url": "https://intellinez.com/jobs",
@@ -65031,37 +65090,37 @@
     {
      "url": "https://intellinez.com/join-us",
      "status": 200,
-     "bytes": 529211
+     "bytes": 529199
     },
     {
      "url": "https://intellinez.com/join-our-team",
      "status": 200,
-     "bytes": 529211
+     "bytes": 529199
     },
     {
      "url": "https://intellinez.com/careers.html",
      "status": 200,
-     "bytes": 529211
+     "bytes": 529199
     },
     {
      "url": "https://intellinez.com/company/careers",
      "status": 200,
-     "bytes": 529211
+     "bytes": 529199
     },
     {
      "url": "https://intellinez.com/about/careers",
      "status": 200,
-     "bytes": 529211
+     "bytes": 529199
     },
     {
      "url": "https://intellinez.com/current-openings",
      "status": 200,
-     "bytes": 529211
+     "bytes": 529199
     },
     {
      "url": "https://intellinez.com/",
      "status": 200,
-     "bytes": 529211
+     "bytes": 529199
     },
     {
      "url": "https://careers.www.intellinez.com",
@@ -65077,7 +65136,7 @@
     {
      "url": "https://www.intellinez.com/career",
      "status": 200,
-     "bytes": 529211
+     "bytes": 529199
     },
     {
      "url": "https://www.intellinez.com/jobs",
@@ -65087,37 +65146,37 @@
     {
      "url": "https://www.intellinez.com/join-us",
      "status": 200,
-     "bytes": 529211
+     "bytes": 529199
     },
     {
      "url": "https://www.intellinez.com/join-our-team",
      "status": 200,
-     "bytes": 529211
+     "bytes": 529199
     },
     {
      "url": "https://www.intellinez.com/careers.html",
      "status": 200,
-     "bytes": 529211
+     "bytes": 529199
     },
     {
      "url": "https://www.intellinez.com/company/careers",
      "status": 200,
-     "bytes": 529211
+     "bytes": 529199
     },
     {
      "url": "https://www.intellinez.com/about/careers",
      "status": 200,
-     "bytes": 529211
+     "bytes": 529199
     },
     {
      "url": "https://www.intellinez.com/current-openings",
      "status": 200,
-     "bytes": 529211
+     "bytes": 529199
     },
     {
      "url": "https://www.intellinez.com/",
      "status": 200,
-     "bytes": 529211
+     "bytes": 529199
     },
     {
      "url": "https://www.intellinez.com/careers/",
@@ -65150,7 +65209,7 @@
     "workable:intellinez -> no board"
    ]
   },
-  "ms": 28050
+  "ms": 29779
  },
  {
   "company": "Intellipaat",
@@ -65391,7 +65450,7 @@
     {
      "url": "https://intellipaat.com/",
      "status": 200,
-     "bytes": 634186
+     "bytes": 634213
     }
    ],
    "candidates": [
@@ -65409,7 +65468,7 @@
     "workable:intellipaat -> no board"
    ]
   },
-  "ms": 14699
+  "ms": 11771
  },
  {
   "company": "Intellisense Technology",
@@ -65563,7 +65622,7 @@
     "workable:intellisenseit -> no board"
    ]
   },
-  "ms": 12192
+  "ms": 15516
  },
  {
   "company": "Intelliswift",
@@ -65692,7 +65751,7 @@
     "workable:intelliswift -> no board"
    ]
   },
-  "ms": 11910
+  "ms": 11653
  },
  {
   "company": "Intense Technologies",
@@ -65782,7 +65841,7 @@
     "keka:intense -> 1 jobs"
    ]
   },
-  "ms": 6475
+  "ms": 7675
  },
  {
   "company": "Interakt",
@@ -65850,7 +65909,7 @@
     "workable:interakt -> no board"
    ]
   },
-  "ms": 16690
+  "ms": 16539
  },
  {
   "company": "Intercontinental Exchange",
@@ -66039,7 +66098,7 @@
     "workable:intercontinentalexchange -> no board"
    ]
   },
-  "ms": 23675
+  "ms": 22698
  },
  {
   "company": "Interface.ai",
@@ -66697,7 +66756,7 @@
     "ashby:interface-ai -> 26 jobs"
    ]
   },
-  "ms": 9509
+  "ms": 10371
  },
  {
   "company": "InterGlobe Enterprises",
@@ -66733,7 +66792,7 @@
     {
      "url": "https://interglobe.com/career",
      "status": 404,
-     "bytes": 41240
+     "bytes": 41233
     },
     {
      "url": "https://interglobe.com/jobs",
@@ -66766,7 +66825,7 @@
     "workable:interglobe -> no board"
    ]
   },
-  "ms": 7839
+  "ms": 7143
  },
  {
   "company": "InterraIT",
@@ -67309,7 +67368,7 @@
     "workable:interrait -> no board"
    ]
   },
-  "ms": 37898
+  "ms": 29373
  },
  {
   "company": "InterSystems",
@@ -70032,7 +70091,7 @@
     {
      "url": "https://intersystems.com/careers",
      "status": 200,
-     "bytes": 1141946
+     "bytes": 1141329
     },
     {
      "url": "https://intersystems.com/career",
@@ -70052,32 +70111,7 @@
     {
      "url": "https://intersystems.com/join-our-team",
      "status": 404,
-     "bytes": 1118203
-    },
-    {
-     "url": "https://intersystems.com/careers.html",
-     "status": 404,
-     "bytes": 1118203
-    },
-    {
-     "url": "https://intersystems.com/company/careers",
-     "status": 404,
-     "bytes": 1118203
-    },
-    {
-     "url": "https://intersystems.com/about/careers",
-     "status": 404,
-     "bytes": 1118203
-    },
-    {
-     "url": "https://intersystems.com/current-openings",
-     "status": 404,
-     "bytes": 1118203
-    },
-    {
-     "url": "https://intersystems.com/",
-     "status": 200,
-     "bytes": 1175536
+     "bytes": 1117577
     }
    ],
    "candidates": [
@@ -70091,7 +70125,7 @@
     "greenhouse:intersystems -> 140 jobs (guess, name-verified)"
    ]
   },
-  "ms": 39342
+  "ms": 25354
  },
  {
   "company": "Interview Kickstart",
@@ -70391,37 +70425,37 @@
     {
      "url": "https://interviewkickstart.com/careers",
      "status": 200,
-     "bytes": 809638
+     "bytes": 834453
     },
     {
      "url": "https://interviewkickstart.com/career",
      "status": 200,
-     "bytes": 1398062
+     "bytes": 1433788
     },
     {
      "url": "https://interviewkickstart.com/jobs",
      "status": 200,
-     "bytes": 1398062
+     "bytes": 1433788
     },
     {
      "url": "https://interviewkickstart.com/join-us",
      "status": 200,
-     "bytes": 1398062
+     "bytes": 1433788
     },
     {
      "url": "https://interviewkickstart.com/join-our-team",
      "status": 200,
-     "bytes": 1398062
+     "bytes": 1433787
     },
     {
      "url": "https://interviewkickstart.com/careers.html",
      "status": 200,
-     "bytes": 1398062
+     "bytes": 1433787
     },
     {
      "url": "https://interviewkickstart.com/company/careers",
      "status": 200,
-     "bytes": 809687
+     "bytes": 834502
     }
    ],
    "candidates": [
@@ -70437,7 +70471,7 @@
     "ashby:interview-kickstart -> 13 jobs"
    ]
   },
-  "ms": 19098
+  "ms": 20625
  },
  {
   "company": "Intlum Technology",
@@ -70581,7 +70615,7 @@
     "workable:intlum -> no board"
    ]
   },
-  "ms": 53566
+  "ms": 47412
  },
  {
   "company": "IntouchCX",
@@ -72229,7 +72263,7 @@
     "workable:intouchcx -> no board"
    ]
   },
-  "ms": 23878
+  "ms": 24732
  },
  {
   "company": "IntraEdge",
@@ -72530,7 +72564,7 @@
     "workable:intraedge -> no board"
    ]
   },
-  "ms": 14466
+  "ms": 15763
  },
  {
   "company": "IntrCity",
@@ -72600,7 +72634,7 @@
     {
      "url": "https://intrcity.com/",
      "status": 200,
-     "bytes": 58468
+     "bytes": 58457
     },
     {
      "url": "https://careers.www.intrcity.com",
@@ -72656,7 +72690,7 @@
     {
      "url": "https://www.intrcity.com/",
      "status": 200,
-     "bytes": 58468
+     "bytes": 58457
     }
    ],
    "candidates": [
@@ -72674,7 +72708,7 @@
     "workable:intrcity -> no board"
    ]
   },
-  "ms": 6164
+  "ms": 20189
  },
  {
   "company": "Intugine",
@@ -72818,7 +72852,7 @@
     "workable:intugine -> no board"
    ]
   },
-  "ms": 7223
+  "ms": 4912
  },
  {
   "company": "Intuit",
@@ -72918,17 +72952,17 @@
     {
      "url": "https://jobs.intuit.com/",
      "status": 200,
-     "bytes": 545531
+     "bytes": 545532
     },
     {
      "url": "https://careers.intuit.com",
      "status": 200,
-     "bytes": 1087341
+     "bytes": 1087343
     },
     {
      "url": "https://intuit.com/careers",
      "status": 200,
-     "bytes": 1087341
+     "bytes": 1087343
     },
     {
      "url": "https://intuit.com/career",
@@ -72951,7 +72985,7 @@
     "workable:intuit -> no board"
    ]
   },
-  "ms": 24975
+  "ms": 32153
  },
  {
   "company": "Intuitive Surgical",
@@ -72962,24 +72996,24 @@
   "totalJobs": 7,
   "jobs": [
    {
-    "title": "Senior Systems GPU Engineer – AI & Robotics",
+    "title": "Clinical Sales Associate",
     "location": "",
-    "url": "https://careers.intuitive.com/en/jobs/744000142204614/JOB217350/senior-systems-gpu-engineer-ai-robotics/",
+    "url": "https://careers.intuitive.com/en/jobs/744000142513279/JOB217417/clinical-sales-associate/",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": false,
-    "isEng": true,
+    "isEng": false,
     "java": false,
     "flutter": false,
-    "senior": true,
+    "senior": false,
     "exp": [],
     "expFits2": false,
-    "score": 12
+    "score": 16
    },
    {
-    "title": "Sr. Automation Manufacturing Engineer",
+    "title": "Senior Systems GPU Engineer – AI & Robotics",
     "location": "",
-    "url": "https://careers.intuitive.com/en/jobs/744000142177169/JOB216870/sr-automation-manufacturing-engineer/",
+    "url": "https://careers.intuitive.com/en/jobs/744000142204614/JOB217350/senior-systems-gpu-engineer-ai-robotics/",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": false,
@@ -73117,43 +73151,17 @@
     {
      "url": "https://intuitive.com/company/careers",
      "status": 200,
-     "bytes": 952
+     "bytes": 948
     },
     {
      "url": "https://intuitive.com/about/careers",
      "status": 200,
-     "bytes": 950
+     "bytes": 953
     },
     {
      "url": "https://intuitive.com/current-openings",
      "status": 200,
-     "bytes": 954
-    },
-    {
-     "url": "https://intuitive.com/",
-     "status": 200,
-     "bytes": 951
-    },
-    {
-     "url": "https://careers.www.intuitive.com",
-     "status": 0,
-     "bytes": 0,
-     "error": "fetch failed"
-    },
-    {
-     "url": "https://www.intuitive.com/careers",
-     "status": 200,
-     "bytes": 950
-    },
-    {
-     "url": "https://www.intuitive.com/career",
-     "status": 200,
-     "bytes": 949
-    },
-    {
-     "url": "https://www.intuitive.com/jobs",
-     "status": 200,
-     "bytes": 944
+     "bytes": 958
     }
    ],
    "candidates": [
@@ -73181,7 +73189,7 @@
     "workable:intuitive -> no board"
    ]
   },
-  "ms": 21870
+  "ms": 20051
  },
  {
   "company": "Intuz",
@@ -73365,7 +73373,7 @@
     {
      "url": "https://www.intuz.com/careers",
      "status": 200,
-     "bytes": 222236
+     "bytes": 222235
     },
     {
      "url": "https://careers.intuz.com",
@@ -73376,7 +73384,7 @@
     {
      "url": "https://intuz.com/careers",
      "status": 200,
-     "bytes": 222236
+     "bytes": 222235
     },
     {
      "url": "https://intuz.com/career",
@@ -73414,7 +73422,7 @@
     "workable:intuz -> no board"
    ]
   },
-  "ms": 18151
+  "ms": 21905
  },
  {
   "company": "iNube Software Solutions",
@@ -73646,7 +73654,7 @@
     "workable:inubesolutions -> no board"
    ]
   },
-  "ms": 12374
+  "ms": 11992
  },
  {
   "company": "Invenio Business Solutions",
@@ -73711,7 +73719,7 @@
     "workable:inveniosolutions -> no board"
    ]
   },
-  "ms": 25816
+  "ms": 34039
  },
  {
   "company": "Inventurus Knowledge Solutions",
@@ -73845,7 +73853,7 @@
     "workable:ikshealth -> no board"
    ]
   },
-  "ms": 16639
+  "ms": 12527
  },
  {
   "company": "Invesco",
@@ -77566,8 +77574,8 @@
     },
     {
      "url": "https://www.invesco.com/career",
-     "status": 406,
-     "bytes": 0
+     "status": 404,
+     "bytes": 315
     },
     {
      "url": "https://www.invesco.com/jobs",
@@ -77576,8 +77584,8 @@
     },
     {
      "url": "https://www.invesco.com/join-us",
-     "status": 406,
-     "bytes": 0
+     "status": 404,
+     "bytes": 315
     },
     {
      "url": "https://www.invesco.com/join-our-team",
@@ -77586,38 +77594,8 @@
     },
     {
      "url": "https://www.invesco.com/careers.html",
-     "status": 406,
-     "bytes": 0
-    },
-    {
-     "url": "https://www.invesco.com/company/careers",
-     "status": 406,
-     "bytes": 0
-    },
-    {
-     "url": "https://www.invesco.com/about/careers",
-     "status": 406,
-     "bytes": 0
-    },
-    {
-     "url": "https://www.invesco.com/current-openings",
-     "status": 406,
-     "bytes": 0
-    },
-    {
-     "url": "https://www.invesco.com/",
-     "status": 200,
-     "bytes": 1712057
-    },
-    {
-     "url": "https://careers.invesco.com/our-process/",
-     "status": 200,
-     "bytes": 1070755
-    },
-    {
-     "url": "https://careers.invesco.com/career-areas/",
-     "status": 200,
-     "bytes": 1114100
+     "status": 300,
+     "bytes": 466
     }
    ],
    "candidates": [
@@ -77632,7 +77610,7 @@
     "workday:invesco -> 234 jobs"
    ]
   },
-  "ms": 15525
+  "ms": 17936
  },
  {
   "company": "InVideo",
@@ -77768,7 +77746,7 @@
     "workable:invideo -> no board"
    ]
   },
-  "ms": 7050
+  "ms": 7112
  },
  {
   "company": "Invoicera",
@@ -77856,7 +77834,7 @@
     "workable:invoicera -> no board"
    ]
   },
-  "ms": 13794
+  "ms": 17787
  },
  {
   "company": "Inwizards Software Technology",
@@ -78000,7 +77978,7 @@
     "workable:inwizards -> no board"
    ]
   },
-  "ms": 4905
+  "ms": 4384
  },
  {
   "company": "Iolite Softwares",
@@ -78144,7 +78122,7 @@
     "workable:iolitesoftwares -> no board"
    ]
   },
-  "ms": 15971
+  "ms": 16438
  },
  {
   "company": "ION Group",
@@ -79756,7 +79734,7 @@
     "workable:iongroup -> no board"
    ]
   },
-  "ms": 25508
+  "ms": 27274
  },
  {
   "company": "IonIdea",
@@ -80070,7 +80048,7 @@
     "workable:ionidea -> no board"
    ]
   },
-  "ms": 3931
+  "ms": 6591
  },
  {
   "company": "Ionio",
@@ -80214,7 +80192,7 @@
     "workable:ionio -> no board"
    ]
   },
-  "ms": 13596
+  "ms": 14968
  },
  {
   "company": "Ionixx Technologies",
@@ -80379,7 +80357,7 @@
     "workable:ionixxtech -> no board"
    ]
   },
-  "ms": 48052
+  "ms": 49049
  },
  {
   "company": "iOPEX Technologies",
@@ -80473,7 +80451,7 @@
     "workable:iopex -> no board"
    ]
   },
-  "ms": 13253
+  "ms": 14317
  },
  {
   "company": "IppoPay",
@@ -80561,7 +80539,7 @@
     "workable:ippopay -> no board"
    ]
   },
-  "ms": 10220
+  "ms": 8194
  },
  {
   "company": "Ipsos",
@@ -80592,52 +80570,52 @@
     {
      "url": "https://ipsos.com/careers",
      "status": 200,
-     "bytes": 51995
+     "bytes": 51835
     },
     {
      "url": "https://ipsos.com/career",
      "status": 200,
-     "bytes": 51995
+     "bytes": 51835
     },
     {
      "url": "https://ipsos.com/jobs",
      "status": 200,
-     "bytes": 51995
+     "bytes": 51835
     },
     {
      "url": "https://ipsos.com/join-us",
      "status": 200,
-     "bytes": 51995
+     "bytes": 51835
     },
     {
      "url": "https://ipsos.com/join-our-team",
      "status": 200,
-     "bytes": 51995
+     "bytes": 51835
     },
     {
      "url": "https://ipsos.com/careers.html",
      "status": 200,
-     "bytes": 51995
+     "bytes": 51835
     },
     {
      "url": "https://ipsos.com/company/careers",
      "status": 200,
-     "bytes": 51995
+     "bytes": 51835
     },
     {
      "url": "https://ipsos.com/about/careers",
      "status": 200,
-     "bytes": 51995
+     "bytes": 51835
     },
     {
      "url": "https://ipsos.com/current-openings",
      "status": 200,
-     "bytes": 51995
+     "bytes": 51835
     },
     {
      "url": "https://ipsos.com/",
      "status": 200,
-     "bytes": 51995
+     "bytes": 51835
     },
     {
      "url": "https://careers.www.ipsos.com",
@@ -80648,7 +80626,7 @@
     {
      "url": "https://www.ipsos.com/careers",
      "status": 200,
-     "bytes": 34605
+     "bytes": 34608
     }
    ],
    "candidates": [
@@ -80666,7 +80644,7 @@
     "workable:ipsos -> no board"
    ]
   },
-  "ms": 14541
+  "ms": 14406
  },
  {
   "company": "iQuanti",
@@ -80751,7 +80729,7 @@
     {
      "url": "https://iquanti.com/career",
      "status": 404,
-     "bytes": 89255
+     "bytes": 89256
     },
     {
      "url": "https://iquanti.com/jobs",
@@ -80791,7 +80769,7 @@
     {
      "url": "https://iquanti.com/",
      "status": 200,
-     "bytes": 215601
+     "bytes": 215602
     }
    ],
    "candidates": [
@@ -80811,7 +80789,7 @@
     "workable:iquanti -> no board"
    ]
   },
-  "ms": 43487
+  "ms": 21116
  },
  {
   "company": "IQVIA",
@@ -80896,7 +80874,7 @@
     {
      "url": "https://jobs.iqvia.com/",
      "status": 200,
-     "bytes": 1844694
+     "bytes": 1845833
     },
     {
      "url": "https://careers.iqvia.com",
@@ -80907,12 +80885,17 @@
     {
      "url": "https://iqvia.com/careers",
      "status": 200,
-     "bytes": 1844723
+     "bytes": 1845826
     },
     {
      "url": "https://iqvia.com/career",
      "status": 404,
      "bytes": 498520
+    },
+    {
+     "url": "https://iqvia.com/jobs",
+     "status": 200,
+     "bytes": 1845301
     }
    ],
    "candidates": [
@@ -80932,7 +80915,7 @@
     "workable:iqvia -> no board"
    ]
   },
-  "ms": 42226
+  "ms": 18551
  },
  {
   "company": "iRage Capital",
@@ -81092,7 +81075,7 @@
     "workable:irage -> no board"
    ]
   },
-  "ms": 6368
+  "ms": 5565
  },
  {
   "company": "iRely",
@@ -81266,7 +81249,7 @@
     "greenhouse:irely -> 3 jobs"
    ]
   },
-  "ms": 10708
+  "ms": 11100
  },
  {
   "company": "IRIS RegTech Solutions",
@@ -81886,37 +81869,37 @@
     {
      "url": "https://irisregtech.com/career",
      "status": 200,
-     "bytes": 617504
+     "bytes": 617505
     },
     {
      "url": "https://irisregtech.com/jobs",
      "status": 200,
-     "bytes": 617504
+     "bytes": 617505
     },
     {
      "url": "https://irisregtech.com/join-us",
      "status": 200,
-     "bytes": 617504
+     "bytes": 617505
     },
     {
      "url": "https://irisregtech.com/join-our-team",
      "status": 200,
-     "bytes": 617504
+     "bytes": 617506
     },
     {
      "url": "https://irisregtech.com/careers.html",
      "status": 200,
-     "bytes": 617504
+     "bytes": 617506
     },
     {
      "url": "https://irisregtech.com/company/careers",
      "status": 200,
-     "bytes": 617504
+     "bytes": 617506
     },
     {
      "url": "https://irisregtech.com/about/careers",
      "status": 200,
-     "bytes": 617504
+     "bytes": 617506
     },
     {
      "url": "https://irisregtech.com/current-openings",
@@ -81936,7 +81919,7 @@
     "keka:irsl -> 25 jobs"
    ]
   },
-  "ms": 1776
+  "ms": 2066
  },
  {
   "company": "Iris Software",
@@ -82216,6 +82199,21 @@
    {
     "title": "Salesforce - Senior Engineer",
     "location": "Noida, UP, India",
+    "url": "https://careers.irissoftware.com/job/Noida-Salesforce-Senior-Engineer-UP/56817744/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+    "india": true,
+    "locationSaysIndia": true,
+    "hasLocation": true,
+    "isEng": true,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [],
+    "expFits2": false,
+    "score": 27
+   },
+   {
+    "title": "Salesforce - Senior Engineer",
+    "location": "Noida, UP, India",
     "url": "https://careers.irissoftware.com/job/Noida-Salesforce-Senior-Engineer-UP/56818144/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
     "india": true,
     "locationSaysIndia": true,
@@ -82461,21 +82459,6 @@
     "score": 5
    },
    {
-    "title": "Salesforce - Lead",
-    "location": "Noida, UP, India",
-    "url": "https://careers.irissoftware.com/job/Noida-Salesforce-Lead-UP/56817744/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-    "india": true,
-    "locationSaysIndia": true,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": true,
-    "exp": [],
-    "expFits2": false,
-    "score": -3
-   },
-   {
     "title": "Lead - Talent Management",
     "location": "Noida, UP, India",
     "url": "https://careers.irissoftware.com/job/Noida-Lead-Talent-Management-UP/57733844/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
@@ -82594,7 +82577,7 @@
     {
      "url": "https://www.irissoftware.com/careers/",
      "status": 200,
-     "bytes": 254044
+     "bytes": 254048
     },
     {
      "url": "https://careers.irissoftware.com",
@@ -82604,17 +82587,17 @@
     {
      "url": "https://irissoftware.com/careers",
      "status": 200,
-     "bytes": 254044
+     "bytes": 254048
     },
     {
      "url": "https://irissoftware.com/career",
      "status": 200,
-     "bytes": 254044
+     "bytes": 254048
     },
     {
      "url": "https://irissoftware.com/jobs",
      "status": 404,
-     "bytes": 154902
+     "bytes": 154959
     }
    ],
    "candidates": [
@@ -82634,7 +82617,7 @@
     "successfactors:careers.irissoftware.com -> 32 jobs"
    ]
   },
-  "ms": 7503
+  "ms": 7702
  },
  {
   "company": "iRoid Solutions",
@@ -82953,7 +82936,7 @@
     "workable:iroidsolutions -> no board"
    ]
   },
-  "ms": 5894
+  "ms": 6943
  },
  {
   "company": "Iron Mountain",
@@ -82973,7 +82956,7 @@
     {
      "url": "https://www.ironmountain.com/about-us/careers",
      "status": 429,
-     "bytes": 31037
+     "bytes": 31031
     },
     {
      "url": "https://careers.ironmountain.com",
@@ -82984,52 +82967,52 @@
     {
      "url": "https://ironmountain.com/careers",
      "status": 429,
-     "bytes": 31041
+     "bytes": 31053
     },
     {
      "url": "https://ironmountain.com/career",
      "status": 429,
-     "bytes": 31033
+     "bytes": 31036
     },
     {
      "url": "https://ironmountain.com/jobs",
      "status": 429,
-     "bytes": 31041
+     "bytes": 31053
     },
     {
      "url": "https://ironmountain.com/join-us",
      "status": 429,
-     "bytes": 31033
+     "bytes": 31036
     },
     {
      "url": "https://ironmountain.com/join-our-team",
      "status": 429,
-     "bytes": 31041
+     "bytes": 31053
     },
     {
      "url": "https://ironmountain.com/careers.html",
      "status": 429,
-     "bytes": 31033
+     "bytes": 31036
     },
     {
      "url": "https://ironmountain.com/company/careers",
      "status": 429,
-     "bytes": 31041
+     "bytes": 31053
     },
     {
      "url": "https://ironmountain.com/about/careers",
      "status": 429,
-     "bytes": 31033
+     "bytes": 31036
     },
     {
      "url": "https://ironmountain.com/current-openings",
      "status": 429,
-     "bytes": 31041
+     "bytes": 31053
     },
     {
      "url": "https://ironmountain.com/",
      "status": 429,
-     "bytes": 31033
+     "bytes": 31036
     },
     {
      "url": "https://careers.www.ironmountain.com",
@@ -83040,52 +83023,52 @@
     {
      "url": "https://www.ironmountain.com/careers",
      "status": 429,
-     "bytes": 31037
+     "bytes": 31031
     },
     {
      "url": "https://www.ironmountain.com/career",
      "status": 429,
-     "bytes": 31037
+     "bytes": 31036
     },
     {
      "url": "https://www.ironmountain.com/jobs",
      "status": 429,
-     "bytes": 31037
+     "bytes": 31031
     },
     {
      "url": "https://www.ironmountain.com/join-us",
      "status": 429,
-     "bytes": 31037
+     "bytes": 31036
     },
     {
      "url": "https://www.ironmountain.com/join-our-team",
      "status": 429,
-     "bytes": 31037
+     "bytes": 31031
     },
     {
      "url": "https://www.ironmountain.com/careers.html",
      "status": 429,
-     "bytes": 31037
+     "bytes": 31036
     },
     {
      "url": "https://www.ironmountain.com/company/careers",
      "status": 429,
-     "bytes": 31037
+     "bytes": 31031
     },
     {
      "url": "https://www.ironmountain.com/about/careers",
      "status": 429,
-     "bytes": 31037
+     "bytes": 31036
     },
     {
      "url": "https://www.ironmountain.com/current-openings",
      "status": 429,
-     "bytes": 31037
+     "bytes": 31031
     },
     {
      "url": "https://www.ironmountain.com/",
      "status": 429,
-     "bytes": 31037
+     "bytes": 31036
     }
    ],
    "candidates": [
@@ -83103,7 +83086,7 @@
     "workable:ironmountain -> no board"
    ]
   },
-  "ms": 5664
+  "ms": 5287
  },
  {
   "company": "Iron Systems",
@@ -83177,7 +83160,7 @@
     "workable:ironsystems -> no board"
    ]
   },
-  "ms": 56954
+  "ms": 52466
  },
  {
   "company": "iSchoolConnect",
@@ -83223,7 +83206,7 @@
     {
      "url": "https://ischoolconnect.com/join-us",
      "status": 404,
-     "bytes": 596549
+     "bytes": 596550
     },
     {
      "url": "https://ischoolconnect.com/join-our-team",
@@ -83246,7 +83229,7 @@
     "workable:ischoolconnect -> no board"
    ]
   },
-  "ms": 81372
+  "ms": 70718
  },
  {
   "company": "iServeu",
@@ -83276,12 +83259,12 @@
     {
      "url": "https://iserveu.in/career",
      "status": 200,
-     "bytes": 277558
+     "bytes": 277560
     },
     {
      "url": "https://iserveu.in/jobs",
      "status": 404,
-     "bytes": 244912
+     "bytes": 244915
     }
    ],
    "candidates": [
@@ -83301,7 +83284,7 @@
     "workable:iserveu -> no board"
    ]
   },
-  "ms": 65926
+  "ms": 65675
  },
  {
   "company": "Ishan Technologies",
@@ -83456,7 +83439,7 @@
     "workable:ishantechnologies -> no board"
    ]
   },
-  "ms": 27342
+  "ms": 5755
  },
  {
   "company": "ISHIR",
@@ -83474,7 +83457,7 @@
    "pages": [],
    "attempts": []
   },
-  "ms": 90001
+  "ms": 90003
  },
  {
   "company": "iSmartRecruit",
@@ -83564,17 +83547,17 @@
     {
      "url": "https://ismartrecruit.com/careers",
      "status": 200,
-     "bytes": 194758
+     "bytes": 194574
     },
     {
      "url": "https://ismartrecruit.com/career",
      "status": 200,
-     "bytes": 181150
+     "bytes": 180949
     },
     {
      "url": "https://ismartrecruit.com/jobs",
      "status": 200,
-     "bytes": 181071
+     "bytes": 181162
     }
    ],
    "candidates": [
@@ -83592,7 +83575,7 @@
     "workable:ismartrecruit -> no board"
    ]
   },
-  "ms": 12884
+  "ms": 26690
  },
  {
   "company": "iSteer Technologies",
@@ -84036,13 +84019,13 @@
     "workable:isteer -> no board"
    ]
   },
-  "ms": 8170
+  "ms": 25441
  },
  {
   "company": "IT By Design",
   "country": "United States",
   "source": null,
-  "error": "careers-page-read-but-lists-no-openings",
+  "error": "timed-out",
   "totalJobs": 0,
   "jobs": [],
   "enriched": 0,
@@ -84051,90 +84034,10 @@
   "closest": null,
   "closestEng": null,
   "trace": {
-   "pages": [
-    {
-     "url": "https://careers.itbd.net",
-     "status": 0,
-     "bytes": 0,
-     "error": "fetch failed"
-    },
-    {
-     "url": "https://itbd.net/careers",
-     "status": 200,
-     "bytes": 185659
-    },
-    {
-     "url": "https://itbd.net/career",
-     "status": 404,
-     "bytes": 138326
-    },
-    {
-     "url": "https://itbd.net/jobs",
-     "status": 404,
-     "bytes": 138326
-    },
-    {
-     "url": "https://itbd.net/join-us",
-     "status": 404,
-     "bytes": 138326
-    },
-    {
-     "url": "https://itbd.net/join-our-team",
-     "status": 404,
-     "bytes": 138326
-    },
-    {
-     "url": "https://itbd.net/careers.html",
-     "status": 404,
-     "bytes": 138326
-    },
-    {
-     "url": "https://itbd.net/company/careers",
-     "status": 200,
-     "bytes": 185659
-    },
-    {
-     "url": "https://itbd.net/about/careers",
-     "status": 200,
-     "bytes": 185659
-    },
-    {
-     "url": "https://itbd.net/current-openings",
-     "status": 404,
-     "bytes": 138326
-    },
-    {
-     "url": "https://itbd.net/",
-     "status": 200,
-     "bytes": 368114
-    }
-   ],
-   "candidates": [
-    "greenhouse:itbydesign(guess)",
-    "lever:itbydesign(guess)",
-    "ashby:itbydesign(guess)",
-    "recruitee:itbydesign(guess)",
-    "workable:itbydesign(guess)",
-    "greenhouse:itbd(guess)",
-    "lever:itbd(guess)",
-    "ashby:itbd(guess)",
-    "recruitee:itbd(guess)",
-    "workable:itbd(guess)"
-   ],
-   "attempts": [
-    "greenhouse:itbydesign -> no board",
-    "lever:itbydesign -> no board",
-    "ashby:itbydesign -> no board",
-    "recruitee:itbydesign -> no board",
-    "workable:itbydesign -> no board",
-    "greenhouse:itbd -> no board",
-    "lever:itbd -> no board",
-    "ashby:itbd -> no board",
-    "recruitee:itbd -> no board",
-    "workable:itbd -> no board"
-   ]
+   "pages": [],
+   "attempts": []
   },
-  "ms": 76242
+  "ms": 90004
  },
  {
   "company": "ITC Infotech",
@@ -84153,7 +84056,7 @@
    "pages": [],
    "attempts": []
   },
-  "ms": 90002
+  "ms": 90001
  },
  {
   "company": "iTech India",
@@ -84420,7 +84323,7 @@
     {
      "url": "https://itechindia.co/career",
      "status": 200,
-     "bytes": 235070
+     "bytes": 235066
     },
     {
      "url": "https://itechindia.co/jobs",
@@ -84435,7 +84338,12 @@
     {
      "url": "https://itechindia.co/join-our-team",
      "status": 404,
-     "bytes": 192576
+     "bytes": 192570
+    },
+    {
+     "url": "https://itechindia.co/careers.html",
+     "status": 404,
+     "bytes": 192575
     }
    ],
    "candidates": [
@@ -84455,7 +84363,7 @@
     "keka:itech -> 6 jobs"
    ]
   },
-  "ms": 3636
+  "ms": 4685
  },
  {
   "company": "iTechNotion",
@@ -84727,7 +84635,7 @@
     "workable:itechnotion -> no board"
    ]
   },
-  "ms": 4236
+  "ms": 2825
  },
  {
   "company": "iThink Logistics",
@@ -84821,7 +84729,7 @@
     "workable:ithinklogistics -> no board"
    ]
   },
-  "ms": 5701
+  "ms": 5511
  },
  {
   "company": "ITI Limited",
@@ -84969,7 +84877,7 @@
     "workable:itiltd -> no board"
    ]
   },
-  "ms": 5024
+  "ms": 4442
  },
  {
   "company": "ITILITE",
@@ -85177,7 +85085,7 @@
     "workable:itilite -> no board"
    ]
   },
-  "ms": 15592
+  "ms": 13936
  },
  {
   "company": "iTrobes",
@@ -85303,7 +85211,7 @@
     "workable:itrobes -> no board"
    ]
   },
-  "ms": 14871
+  "ms": 13482
  },
  {
   "company": "Itron",
@@ -85391,7 +85299,7 @@
     {
      "url": "https://itron.com/careers",
      "status": 200,
-     "bytes": 274363
+     "bytes": 274364
     },
     {
      "url": "https://itron.com/career",
@@ -85418,7 +85326,7 @@
     "workday:itron -> 1 jobs"
    ]
   },
-  "ms": 7188
+  "ms": 6870
  },
  {
   "company": "Ittiam Systems",
@@ -85682,7 +85590,7 @@
     "workable:ittiam -> no board"
    ]
   },
-  "ms": 15245
+  "ms": 13440
  },
  {
   "company": "Ivalua",
@@ -86524,7 +86432,7 @@
     {
      "url": "https://www.ivalua.com/company/careers/",
      "status": 200,
-     "bytes": 203372
+     "bytes": 203351
     },
     {
      "url": "https://careers.ivalua.com",
@@ -86535,17 +86443,17 @@
     {
      "url": "https://ivalua.com/careers",
      "status": 200,
-     "bytes": 203372
+     "bytes": 203351
     },
     {
      "url": "https://ivalua.com/career",
      "status": 200,
-     "bytes": 203372
+     "bytes": 203351
     },
     {
      "url": "https://ivalua.com/jobs",
      "status": 200,
-     "bytes": 203372
+     "bytes": 203351
     },
     {
      "url": "https://ivalua.com/join-us",
@@ -86565,19 +86473,17 @@
     {
      "url": "https://ivalua.com/company/careers",
      "status": 200,
-     "bytes": 203372
+     "bytes": 203351
     },
     {
      "url": "https://ivalua.com/about/careers",
-     "status": 0,
-     "bytes": 0,
-     "error": "This operation was aborted"
+     "status": 404,
+     "bytes": 107182
     },
     {
      "url": "https://ivalua.com/current-openings",
-     "status": 0,
-     "bytes": 0,
-     "error": "This operation was aborted"
+     "status": 404,
+     "bytes": 107182
     },
     {
      "url": "https://ivalua.com/",
@@ -86596,7 +86502,7 @@
     "greenhouse:ivalua -> 39 jobs"
    ]
   },
-  "ms": 65649
+  "ms": 22652
  },
  {
   "company": "iValue InfoSolutions",
@@ -86750,7 +86656,7 @@
     "workable:ivaluegroup -> no board"
    ]
   },
-  "ms": 8751
+  "ms": 8143
  },
  {
   "company": "Ivan Infotech",
@@ -86948,7 +86854,7 @@
     "workable:ivaninfotech -> no board"
    ]
   },
-  "ms": 9610
+  "ms": 11817
  },
  {
   "company": "Ivanti",
@@ -86999,7 +86905,7 @@
     {
      "url": "https://www.ivanti.com/company/careers",
      "status": 200,
-     "bytes": 28024
+     "bytes": 28028
     },
     {
      "url": "https://careers.ivanti.com",
@@ -87010,7 +86916,7 @@
     {
      "url": "https://ivanti.com/careers",
      "status": 200,
-     "bytes": 28022
+     "bytes": 28024
     },
     {
      "url": "https://ivanti.com/career",
@@ -87020,7 +86926,7 @@
     {
      "url": "https://ivanti.com/jobs",
      "status": 200,
-     "bytes": 28030
+     "bytes": 28026
     },
     {
      "url": "https://ivanti.com/join-us",
@@ -87035,7 +86941,7 @@
     {
      "url": "https://ivanti.com/careers.html",
      "status": 404,
-     "bytes": 1598
+     "bytes": 5215
     }
    ],
    "candidates": [
@@ -87053,7 +86959,7 @@
     "workable:ivanti -> no board"
    ]
   },
-  "ms": 8154
+  "ms": 9533
  },
  {
   "company": "iView Labs",
@@ -87116,7 +87022,7 @@
     "workable:iviewlabs -> no board"
    ]
   },
-  "ms": 12639
+  "ms": 10487
  },
  {
   "company": "Ivisint IT Solutions",
@@ -87141,17 +87047,22 @@
     {
      "url": "https://ivisint.com/careers",
      "status": 404,
-     "bytes": 1068904
+     "bytes": 1068917
     },
     {
      "url": "https://ivisint.com/career",
      "status": 404,
-     "bytes": 1068922
+     "bytes": 1068885
     },
     {
      "url": "https://ivisint.com/jobs",
      "status": 404,
      "bytes": 1068882
+    },
+    {
+     "url": "https://ivisint.com/join-us",
+     "status": 404,
+     "bytes": 1068902
     }
    ],
    "candidates": [
@@ -87179,7 +87090,7 @@
     "workable:ivisint -> no board"
    ]
   },
-  "ms": 56658
+  "ms": 58722
  },
  {
   "company": "Ivy Comptech",
@@ -87328,7 +87239,7 @@
     "workable:entainindia -> no board"
    ]
   },
-  "ms": 16351
+  "ms": 13927
  },
  {
   "company": "Ivy Homes",
@@ -87416,7 +87327,7 @@
     "workable:ivyhomes -> no board"
    ]
   },
-  "ms": 4348
+  "ms": 3512
  },
  {
   "company": "Ivy Mobility",
@@ -87447,7 +87358,7 @@
     {
      "url": "https://ivymobility.com/careers",
      "status": 200,
-     "bytes": 2903
+     "bytes": 2904
     },
     {
      "url": "https://ivymobility.com/career",
@@ -87462,12 +87373,12 @@
     {
      "url": "https://ivymobility.com/join-us",
      "status": 200,
-     "bytes": 2903
+     "bytes": 2904
     },
     {
      "url": "https://ivymobility.com/join-our-team",
      "status": 200,
-     "bytes": 2903
+     "bytes": 2904
     },
     {
      "url": "https://ivymobility.com/careers.html",
@@ -87477,7 +87388,7 @@
     {
      "url": "https://ivymobility.com/company/careers",
      "status": 200,
-     "bytes": 2903
+     "bytes": 2904
     },
     {
      "url": "https://ivymobility.com/about/careers",
@@ -87518,7 +87429,7 @@
     {
      "url": "https://www.ivymobility.com/join-us",
      "status": 200,
-     "bytes": 2903
+     "bytes": 2904
     },
     {
      "url": "https://www.ivymobility.com/join-our-team",
@@ -87528,7 +87439,7 @@
     {
      "url": "https://www.ivymobility.com/careers.html",
      "status": 200,
-     "bytes": 2903
+     "bytes": 2904
     },
     {
      "url": "https://www.ivymobility.com/company/careers",
@@ -87548,7 +87459,7 @@
     {
      "url": "https://www.ivymobility.com/",
      "status": 200,
-     "bytes": 2904
+     "bytes": 2903
     }
    ],
    "candidates": [
@@ -87566,7 +87477,7 @@
     "workable:ivymobility -> no board"
    ]
   },
-  "ms": 22163
+  "ms": 22119
  },
  {
   "company": "ixigo",
@@ -87634,7 +87545,7 @@
     "workable:ixigo -> no board"
    ]
   },
-  "ms": 7851
+  "ms": 8499
  },
  {
   "company": "iZooto",
@@ -87654,7 +87565,7 @@
     {
      "url": "https://www.izooto.com/careers",
      "status": 200,
-     "bytes": 436407
+     "bytes": 436330
     },
     {
      "url": "https://careers.izooto.com",
@@ -87664,12 +87575,12 @@
     {
      "url": "https://izooto.com/careers",
      "status": 200,
-     "bytes": 436407
+     "bytes": 436330
     },
     {
      "url": "https://izooto.com/career",
      "status": 404,
-     "bytes": 352840
+     "bytes": 352915
     }
    ],
    "candidates": [
@@ -87689,6 +87600,6 @@
     "workable:izooto -> no board"
    ]
   },
-  "ms": 7362
+  "ms": 4287
  }
 ]

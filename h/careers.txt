@@ -2,13 +2,13 @@
 OPEN ROLES AT 252 "W" COMPANIES
 Looking for : Software Engineer, ~2 years experience
 Priority    : Java, Dart/Flutter        Location preference : India
-Generated   : 2026-08-09 05:21:11 UTC  by test.js
+Generated   : 2026-08-09 15:43:46 UTC  by test.js
 ==============================================================================
 
-Boards read with open roles : 105
+Boards read with open roles : 104
 Boards read, currently empty: 1
-Could not read              : 146
-Total open roles seen       : 2116
+Could not read              : 147
+Total open roles seen       : 2111
 
 ##############################################################################
 # SECTION 1 — MATCHES: Software Engineer + Java/Dart/Flutter + ~2 yrs
@@ -870,7 +870,7 @@ Total open roles seen       : 2116
 ##############################################################################
 
 >> HCLTech  [India]
-    board    : successfactors:careers.hcltech.com   —  96 open roles
+    board    : successfactors:careers.hcltech.com   —  94 open roles
     Desk Side Services Engineer
       location : MY
       exp req  : 3-7y    stack: Android    score: 50
@@ -882,13 +882,6 @@ Total open roles seen       : 2116
       location : n/a   [INDIA]
       exp req  : not stated    stack: —    score: 19
       url      : https://www.hcl-software.com/careers
-
->> Happiest Minds Technologies  [India]
-    board    : headings:https://careers.happiestminds.com/   —  2 open roles
-    Associate Director Learning And Development - Corp
-      location : n/a   [INDIA]
-      exp req  : not stated    stack: —    score: 9
-      url      : https://careers.happiestminds.com/
 
 >> HashedIn by Deloitte  [India]
     board    : headings:https://hashedin.com/careers/   —  2 open roles
@@ -1427,7 +1420,7 @@ Total open roles seen       : 2116
       url      : https://job-boards.greenhouse.io/hackerrank/jobs/7830418
 
 >> Harness  [United States]
-    board    : greenhouse:harnessinc   —  94 open roles
+    board    : greenhouse:harnessinc   —  93 open roles
     Customer Engineer I
       location : U.S. (Remote)
       exp req  : 1-3y / 3-4y    stack: —    score: 72
@@ -1490,7 +1483,7 @@ Total open roles seen       : 2116
       url      : https://gsknch.wd3.myworkdayjobs.com/GSKCareers/job/USA---New-York---Oak-Hill/Process-Engineer_546524
 
 >> Halliburton  [United States]
-    board    : successfactors:jobs.halliburton.com   —  50 open roles
+    board    : successfactors:jobs.halliburton.com   —  47 open roles
     Brazil - Remote: Associate Developer
       location : Rio de Janeiro, RJ, BR, 291941
       exp req  : 0-5y    stack: Java    score: 97
@@ -1567,7 +1560,7 @@ Total open roles seen       : 2116
       url      : https://hillenbrand.wd3.myworkdayjobs.com/Global/job/Coimbatore-India/OT-Cybersecurity-Engineer_R-8982
 
 >> Hubbell  [United States]
-    board    : successfactors:careers.hubbell.com   —  55 open roles
+    board    : successfactors:careers.hubbell.com   —  58 open roles
     Senior Associate - SIT Engineer
       location : Hyderabad Telangana, TG, IN, 500081   [INDIA]
       exp req  : 2-6y    stack: Java    score: 90
@@ -1589,10 +1582,10 @@ Total open roles seen       : 2116
 
 >> Heidelberg Materials  [Germany]
     board    : workday:heidelbergmaterials   —  40 open roles
-    TECHNICO COMMERCIAL
-      location : FRA > St Jean De Vedas > Zac Mas De Grille Parc St Jean
-      exp req  : not stated    stack: —    score: 4
-      url      : https://heidelbergmaterials.wd3.myworkdayjobs.com/Global_HM_Career_Site/job/FRA--St-Jean-De-Vedas--Zac-Mas-De-Grille-Parc-St-Jean/TECHNICO-COMMERCIAL_JR10016863
+    Quality Engineer - HROC
+      location : Cairo
+      exp req  : 8-12y    stack: —    score: 30
+      url      : https://heidelbergmaterials.wd3.myworkdayjobs.com/Global_HM_Career_Site/job/Cairo/Quality-Engineer---HROC_JR10017864
 
 >> Hager Group  [Germany]
     board    : successfactors:careers.hagergroup.com   —  52 open roles
@@ -1609,7 +1602,7 @@ Total open roles seen       : 2116
       url      : https://hellmann.wd103.myworkdayjobs.com/hellmannexternaljobs/job/Osnabrck/Senior-Platform-Engineer---Developer-Experience--m-w-d-_R20265822
 
 ##############################################################################
-# SECTION 5 — NOT READ  (146 of 252)
+# SECTION 5 — NOT READ  (147 of 252)
 # lists-no-openings  = careers page loaded fine, published no vacancies
 # blocked-or-error    = bot wall / dead route (403, 404) — needs a browser
 # unreachable         = domain did not respond at all
@@ -1656,6 +1649,11 @@ Total open roles seen       : 2116
     http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404
     ATS tried    : greenhouse:hitachihirelpowerelectronics -> no board ; lever:hitachihirelpowerelectronics -> no board ; ashby:hitachihirelpowerelectronics -> no board ; recruitee:hitachihirelpowerelectronics -> no board
 
+>> Holostik  [India]  — blocked-or-error-response
+    careers page : https://www.holostik.com/careers/
+    http status  : 500, 0, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 0, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500
+    ATS tried    : greenhouse:holostik -> no board ; lever:holostik -> no board ; ashby:holostik -> no board ; recruitee:holostik -> no board
+
 >> HL Klemove  [South Korea]  — blocked-or-error-response
     careers page : undefined
     http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200, 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
@@ -1678,7 +1676,7 @@ Total open roles seen       : 2116
 
 >> Hoonartek  [India]  — careers-page-read-but-lists-no-openings
     careers page : https://hoonartek.com/company/career/
-    http status  : 0, 0, 404, 200, 404, 404, 404, 404, 404, 404, 404, 200
+    http status  : 200, 0, 404, 200, 404, 404, 404, 404, 404, 404, 404, 200
     ATS tried    : greenhouse:hoonartek -> no board ; lever:hoonartek -> no board ; ashby:hoonartek -> no board ; recruitee:hoonartek -> no board
 
 >> Harbinger Group  [India]  — careers-page-read-but-lists-no-openings
@@ -1773,7 +1771,7 @@ Total open roles seen       : 2116
 
 >> Healthians  [India]  — careers-page-read-but-lists-no-openings
     careers page : https://www.healthians.com/career
-    http status  : 200, 0, 200, 200, 200, 200, 200, 200, 202
+    http status  : 200, 0, 200, 200, 200, 200, 202
     ATS tried    : greenhouse:healthians -> no board ; lever:healthians -> no board ; ashby:healthians -> no board ; recruitee:healthians -> no board
 
 >> HexaHealth  [India]  — careers-page-read-but-lists-no-openings
@@ -1823,7 +1821,7 @@ Total open roles seen       : 2116
 
 >> Hungama Digital Media  [India]  — careers-page-read-but-lists-no-openings
     careers page : https://www.hungama.com/careers/
-    http status  : 200, 0, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200
+    http status  : 200, 0, 200, 503, 200, 200, 200, 200, 200, 200, 200, 200
     ATS tried    : greenhouse:hungama -> no board ; lever:hungama -> no board ; ashby:hungama -> no board ; recruitee:hungama -> no board
 
 >> Holisol Logistics  [India]  — careers-page-read-but-lists-no-openings
@@ -1835,11 +1833,6 @@ Total open roles seen       : 2116
     careers page : https://www.hindalco.com/careers
     http status  : 200, 0, 200, 500, 200, 200, 200, 200, 200, 200, 200, 200
     ATS tried    : greenhouse:hindalco -> no board ; lever:hindalco -> no board ; ashby:hindalco -> no board ; recruitee:hindalco -> no board
-
->> Hindustan Aeronautics  [India]  — careers-page-read-but-lists-no-openings
-    careers page : https://www.hal-india.co.in/careers
-    http status  : 200, 0, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 0, 200, 200, 200, 200, 200, 200, 200, 200, 200
-    ATS tried    : greenhouse:hindustanaeronautics -> no board ; lever:hindustanaeronautics -> no board ; ashby:hindustanaeronautics -> no board ; recruitee:hindustanaeronautics -> no board
 
 >> Hinduja Renewables  [India]  — careers-page-read-but-lists-no-openings
     careers page : https://www.hindujarenewables.com/careers
@@ -1858,7 +1851,7 @@ Total open roles seen       : 2116
 
 >> Halodoc  [Indonesia]  — careers-page-read-but-lists-no-openings
     careers page : https://www.halodoc.com/artikel/careers
-    http status  : 200, 0, 200, 200, 200, 200, 200, 200
+    http status  : 200, 0, 200, 200, 200, 200
     ATS tried    : darwinbox:mhealth -> no board ; greenhouse:halodoc -> no board ; lever:halodoc -> no board ; ashby:halodoc -> no board
 
 >> Honeywell  [United States]  — careers-page-read-but-lists-no-openings
@@ -1976,7 +1969,7 @@ Total open roles seen       : 2116
 
 >> Hinduja Hospital  [India]  — careers-page-read-but-lists-no-openings
     careers page : https://careers.hindujahospital.com/hindujahospital/
-    http status  : 200, 200, 200, 404, 404, 404, 404, 404, 404, 404, 404, 200
+    http status  : 200, 200, 200, 404
     ATS tried    : greenhouse:hindujahospital -> no board ; lever:hindujahospital -> no board ; ashby:hindujahospital -> no board ; recruitee:hindujahospital -> no board
 
 >> Hedge Equities  [India]  — careers-page-read-but-lists-no-openings
@@ -2033,11 +2026,6 @@ Total open roles seen       : 2116
     careers page : undefined
     http status  : 0, 200, 200, 404, 404, 404, 404, 200, 200, 404, 200
     ATS tried    : greenhouse:hermitageinfotech -> no board ; lever:hermitageinfotech -> no board ; ashby:hermitageinfotech -> no board ; recruitee:hermitageinfotech -> no board
-
->> Holostik  [India]  — careers-page-read-but-lists-no-openings
-    careers page : https://www.holostik.com/careers/
-    http status  : 200, 0, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 0, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200
-    ATS tried    : greenhouse:holostik -> no board ; lever:holostik -> no board ; ashby:holostik -> no board ; recruitee:holostik -> no board
 
 >> HABER  [India]  — careers-page-read-but-lists-no-openings
     careers page : https://haberwater.com/join-us
@@ -2103,6 +2091,11 @@ Total open roles seen       : 2116
     careers page : https://hindustanfoodslimited.com/careers
     http status  : 200, 0, 200, 200, 200, 200, 200, 200, 200, 200, 200, 0, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200
     ATS tried    : greenhouse:hindustanfoods -> no board ; lever:hindustanfoods -> no board ; ashby:hindustanfoods -> no board ; recruitee:hindustanfoods -> no board
+
+>> Happiest Minds Technologies  [India]  — no-job-data-found
+    careers page : https://careers.happiestminds.com/
+    http status  : 0, 0, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 0, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, skipped-off-domain
+    ATS tried    : greenhouse:happiestminds -> no board ; lever:happiestminds -> no board ; ashby:happiestminds -> no board ; recruitee:happiestminds -> no board
 
 >> Hinduja Global Solutions  [India]  — no-job-data-found
     careers page : https://www.joinhgs.com/in/en
@@ -2221,7 +2214,7 @@ Total open roles seen       : 2116
 
 >> Hyperlocal Cloud  [India]  — no-job-data-found
     careers page : undefined
-    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
+    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200, 0, 404, 404, 404, 404, 404, 404, 404, 404, 404
     ATS tried    : greenhouse:hyperlocalcloud -> no board ; lever:hyperlocalcloud -> no board ; ashby:hyperlocalcloud -> no board ; recruitee:hyperlocalcloud -> no board
 
 >> HRStop  [India]  — no-job-data-found
@@ -2266,7 +2259,7 @@ Total open roles seen       : 2116
 
 >> Hitachi Solutions  [Japan]  — no-job-data-found
     careers page : undefined
-    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 200, 200, 200, 0, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200
+    http status  : 0, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 0, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200
     ATS tried    : greenhouse:hitachi -> no board ; lever:hitachi -> no board ; ashby:hitachi -> no board ; recruitee:hitachi -> no board
 
 >> Hono  [India]  — timed-out
@@ -2275,6 +2268,10 @@ Total open roles seen       : 2116
 
 >> HDFC Bank  [India]  — timed-out
     careers page : https://www.hdfcbank.com/personal/about-us/careers
+    http status  : 
+
+>> Hindustan Aeronautics  [India]  — timed-out
+    careers page : https://www.hal-india.co.in/careers
     http status  : 
 
 >> Herbalife  [United States]  — timed-out

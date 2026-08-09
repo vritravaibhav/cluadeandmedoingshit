@@ -65,7 +65,7 @@
     "workable:zoho -> no board"
    ]
   },
-  "ms": 6641
+  "ms": 5958
  },
  {
   "company": "Zomato",
@@ -95,12 +95,12 @@
     {
      "url": "https://zomato.com/career",
      "status": 200,
-     "bytes": 113146
+     "bytes": 113151
     },
     {
      "url": "https://zomato.com/jobs",
      "status": 200,
-     "bytes": 112848
+     "bytes": 112847
     }
    ],
    "candidates": [
@@ -118,7 +118,7 @@
     "workable:zomato -> no board"
    ]
   },
-  "ms": 11414
+  "ms": 12577
  },
  {
   "company": "Zepto",
@@ -272,7 +272,7 @@
     "workable:zeptonow -> no board"
    ]
   },
-  "ms": 24748
+  "ms": 23115
  },
  {
   "company": "Zeta",
@@ -1086,7 +1086,7 @@
     "lever:zeta -> 25 jobs (guess, name-verified)"
    ]
   },
-  "ms": 34719
+  "ms": 23209
  },
  {
   "company": "Zscaler India",
@@ -1239,7 +1239,7 @@
     "workable:zscaler -> no board"
    ]
   },
-  "ms": 25952
+  "ms": 28318
  },
  {
   "company": "Zebra Technologies India",
@@ -2041,57 +2041,22 @@
     {
      "url": "https://careers.zebra.com",
      "status": 200,
-     "bytes": 445907
+     "bytes": 445895
     },
     {
      "url": "https://zebra.com/careers",
      "status": 200,
-     "bytes": 445907
+     "bytes": 445895
     },
     {
      "url": "https://zebra.com/career",
      "status": 404,
-     "bytes": 293125
+     "bytes": 293123
     },
     {
      "url": "https://zebra.com/jobs",
      "status": 404,
-     "bytes": 293124
-    },
-    {
-     "url": "https://zebra.com/join-us",
-     "status": 404,
-     "bytes": 293124
-    },
-    {
-     "url": "https://zebra.com/join-our-team",
-     "status": 404,
-     "bytes": 293124
-    },
-    {
-     "url": "https://zebra.com/careers.html",
-     "status": 404,
-     "bytes": 293124
-    },
-    {
-     "url": "https://zebra.com/company/careers",
-     "status": 404,
-     "bytes": 293124
-    },
-    {
-     "url": "https://zebra.com/about/careers",
-     "status": 404,
-     "bytes": 293124
-    },
-    {
-     "url": "https://zebra.com/current-openings",
-     "status": 404,
-     "bytes": 293124
-    },
-    {
-     "url": "https://zebra.com/",
-     "status": 200,
-     "bytes": 381511
+     "bytes": 293131
     }
    ],
    "candidates": [
@@ -2106,7 +2071,7 @@
     "workday:zebra -> 40 jobs"
    ]
   },
-  "ms": 17182
+  "ms": 11549
  },
  {
   "company": "Zensar Technologies",
@@ -2131,17 +2096,27 @@
     {
      "url": "https://zensar.com/careers",
      "status": 200,
-     "bytes": 396892
+     "bytes": 396328
     },
     {
      "url": "https://zensar.com/career",
      "status": 200,
-     "bytes": 126285
+     "bytes": 127719
     },
     {
      "url": "https://zensar.com/jobs",
      "status": 200,
-     "bytes": 126203
+     "bytes": 127713
+    },
+    {
+     "url": "https://zensar.com/join-us",
+     "status": 200,
+     "bytes": 127722
+    },
+    {
+     "url": "https://zensar.com/join-our-team",
+     "status": 200,
+     "bytes": 127664
     }
    ],
    "candidates": [
@@ -2159,7 +2134,7 @@
     "workable:zensar -> no board"
    ]
   },
-  "ms": 11389
+  "ms": 11085
  },
  {
   "company": "ZoomInfo India",
@@ -2232,7 +2207,7 @@
     "workable:zoominfo -> no board"
    ]
   },
-  "ms": 18424
+  "ms": 15693
  },
  {
   "company": "Zolo",
@@ -2257,17 +2232,17 @@
     {
      "url": "https://zolostays.com/careers",
      "status": 200,
-     "bytes": 438061
+     "bytes": 438344
     },
     {
      "url": "https://zolostays.com/career",
      "status": 404,
-     "bytes": 14814
+     "bytes": 14799
     },
     {
      "url": "https://zolostays.com/jobs",
      "status": 404,
-     "bytes": 14773
+     "bytes": 14835
     }
    ],
    "candidates": [
@@ -2295,7 +2270,7 @@
     "workable:zolostays -> no board"
    ]
   },
-  "ms": 8912
+  "ms": 10661
  },
  {
   "company": "Zetwerk",
@@ -2857,7 +2832,7 @@
     "workable:zetwerk -> no board"
    ]
   },
-  "ms": 13277
+  "ms": 12706
  },
  {
   "company": "Zluri",
@@ -3174,7 +3149,7 @@
     "keka:zluri -> 9 jobs"
    ]
   },
-  "ms": 3310
+  "ms": 2493
  },
  {
   "company": "Zopper",
@@ -3423,7 +3398,7 @@
     "workable:zopper -> no board"
    ]
   },
-  "ms": 13018
+  "ms": 14301
  },
  {
   "company": "Zwayam",
@@ -3452,7 +3427,7 @@
     {
      "url": "https://zwayam.com/career",
      "status": 200,
-     "bytes": 29740
+     "bytes": 29741
     },
     {
      "url": "https://zwayam.com/jobs",
@@ -3495,7 +3470,7 @@
     "workable:zwayam -> no board"
    ]
   },
-  "ms": 5809
+  "ms": 5936
  },
  {
   "company": "Zuci Systems",
@@ -3554,7 +3529,7 @@
     "workable:zucisystems -> no board"
    ]
   },
-  "ms": 41544
+  "ms": 32104
  },
  {
   "company": "Zignuts Technolab",
@@ -3579,12 +3554,12 @@
     {
      "url": "https://zignuts.com/careers",
      "status": 200,
-     "bytes": 192096
+     "bytes": 192107
     },
     {
      "url": "https://zignuts.com/career",
      "status": 200,
-     "bytes": 192096
+     "bytes": 192107
     },
     {
      "url": "https://zignuts.com/jobs",
@@ -3627,7 +3602,7 @@
     "workable:zignuts -> no board"
    ]
   },
-  "ms": 6919
+  "ms": 8116
  },
  {
   "company": "Zeliot",
@@ -3895,7 +3870,7 @@
     "keka:zeliot -> 4 jobs"
    ]
   },
-  "ms": 1894
+  "ms": 2015
  },
  {
   "company": "Zenoti",
@@ -4720,7 +4695,7 @@
     {
      "url": "https://zenoti.com/careers",
      "status": 200,
-     "bytes": 172190
+     "bytes": 172204
     },
     {
      "url": "https://zenoti.com/career",
@@ -4754,7 +4729,7 @@
     "greenhouse:zenoti -> 37 jobs"
    ]
   },
-  "ms": 14387
+  "ms": 12199
  },
  {
   "company": "Zolvit",
@@ -4898,7 +4873,7 @@
     "workable:zolvit -> no board"
    ]
   },
-  "ms": 9984
+  "ms": 4253
  },
  {
   "company": "ZoomCar",
@@ -5042,7 +5017,7 @@
     "workable:zoomcar -> no board"
    ]
   },
-  "ms": 10146
+  "ms": 3397
  },
  {
   "company": "Zyoin",
@@ -5130,7 +5105,7 @@
     "workable:zyoin -> no board"
    ]
   },
-  "ms": 24924
+  "ms": 25454
  },
  {
   "company": "Zycus",
@@ -5148,7 +5123,7 @@
    "pages": [],
    "attempts": []
   },
-  "ms": 90004
+  "ms": 90003
  },
  {
   "company": "Zaggle",
@@ -5293,7 +5268,7 @@
     {
      "url": "https://zaggle.in/careers",
      "status": 200,
-     "bytes": 110820
+     "bytes": 110809
     },
     {
      "url": "https://zaggle.in/career",
@@ -5356,7 +5331,7 @@
     "workable:zaggle -> no board"
    ]
   },
-  "ms": 10048
+  "ms": 11661
  },
  {
   "company": "Zappyhire",
@@ -5510,14 +5485,14 @@
     "workable:zappyhire -> no board"
    ]
   },
-  "ms": 28215
+  "ms": 36022
  },
  {
   "company": "Zeb",
   "country": "United States",
   "careers": "https://zeb.co/careers/",
   "source": null,
-  "error": "careers-page-read-but-lists-no-openings",
+  "error": "timed-out",
   "totalJobs": 0,
   "jobs": [],
   "enriched": 0,
@@ -5526,73 +5501,10 @@
   "closest": null,
   "closestEng": null,
   "trace": {
-   "pages": [
-    {
-     "url": "https://zeb.co/careers/",
-     "status": 200,
-     "bytes": 46564
-    },
-    {
-     "url": "https://careers.zeb.co",
-     "status": 0,
-     "bytes": 0,
-     "error": "fetch failed"
-    },
-    {
-     "url": "https://zeb.co/careers",
-     "status": 200,
-     "bytes": 46564
-    },
-    {
-     "url": "https://zeb.co/career",
-     "status": 404,
-     "bytes": 27792
-    },
-    {
-     "url": "https://zeb.co/jobs",
-     "status": 404,
-     "bytes": 27792
-    },
-    {
-     "url": "https://zeb.co/join-us",
-     "status": 404,
-     "bytes": 27792
-    },
-    {
-     "url": "https://zeb.co/join-our-team",
-     "status": 404,
-     "bytes": 27792
-    },
-    {
-     "url": "https://zeb.co/careers.html",
-     "status": 404,
-     "bytes": 27792
-    },
-    {
-     "url": "https://zeb.co/company/careers",
-     "status": 404,
-     "bytes": 27792
-    },
-    {
-     "url": "https://zeb.co/about/careers",
-     "status": 404,
-     "bytes": 27792
-    },
-    {
-     "url": "https://zeb.co/current-openings",
-     "status": 404,
-     "bytes": 27792
-    },
-    {
-     "url": "https://zeb.co/",
-     "status": 200,
-     "bytes": 77647
-    }
-   ],
-   "candidates": [],
+   "pages": [],
    "attempts": []
   },
-  "ms": 68243
+  "ms": 90003
  },
  {
   "company": "Zell Education",
@@ -5655,7 +5567,7 @@
     "workable:zelleducation -> no board"
    ]
   },
-  "ms": 4008
+  "ms": 9746
  },
  {
   "company": "Zenatix",
@@ -5799,7 +5711,7 @@
     "workable:zenatix -> no board"
    ]
   },
-  "ms": 26990
+  "ms": 27167
  },
  {
   "company": "Zend Technologies India",
@@ -5887,7 +5799,7 @@
     "workable:zend -> no board"
    ]
   },
-  "ms": 9697
+  "ms": 10678
  },
  {
   "company": "Zenlayer India",
@@ -6411,7 +6323,7 @@
     {
      "url": "https://www.zenlayer.com/careers",
      "status": 200,
-     "bytes": 185177
+     "bytes": 185178
     },
     {
      "url": "https://www.zenlayer.com/career",
@@ -6431,7 +6343,7 @@
     "bamboohr:zenlayer -> 25 jobs"
    ]
   },
-  "ms": 23916
+  "ms": 23586
  },
  {
   "company": "Zenskar",
@@ -6456,12 +6368,12 @@
     {
      "url": "https://zenskar.com/careers",
      "status": 200,
-     "bytes": 1234118
+     "bytes": 1233849
     },
     {
      "url": "https://zenskar.com/career",
      "status": 200,
-     "bytes": 1234109
+     "bytes": 1233868
     },
     {
      "url": "https://zenskar.com/jobs",
@@ -6484,7 +6396,7 @@
     "workable:zenskar -> no board"
    ]
   },
-  "ms": 28556
+  "ms": 29125
  },
  {
   "company": "Zentek Infosoft",
@@ -6571,7 +6483,7 @@
     "workable:zentekinfosoft -> no board"
    ]
   },
-  "ms": 13311
+  "ms": 9824
  },
  {
   "company": "Zerodha",
@@ -6623,7 +6535,7 @@
     "workable:zerodha -> no board"
    ]
   },
-  "ms": 3967
+  "ms": 8124
  },
  {
   "company": "Zeus Learning",
@@ -6761,7 +6673,7 @@
     "workable:zeuslearning -> no board"
    ]
   },
-  "ms": 12452
+  "ms": 11471
  },
  {
   "company": "Ziff Davis India",
@@ -6816,7 +6728,7 @@
     "workable:ziffdavis -> no board"
    ]
   },
-  "ms": 25562
+  "ms": 24683
  },
  {
   "company": "Zigram",
@@ -7908,7 +7820,7 @@
     "workable:zimyo -> no board"
    ]
   },
-  "ms": 40488
+  "ms": 38014
  },
  {
   "company": "Zinnov",
@@ -8750,7 +8662,7 @@
     "greenhouse:zinnov -> 40 jobs"
    ]
   },
-  "ms": 32222
+  "ms": 27291
  },
  {
   "company": "Zippee",
@@ -10173,7 +10085,7 @@
     "keka:zippee -> 55 jobs"
    ]
   },
-  "ms": 2910
+  "ms": 2201
  },
  {
   "company": "Zippserv",
@@ -10317,7 +10229,7 @@
     "workable:zippserv -> no board"
    ]
   },
-  "ms": 14107
+  "ms": 16326
  },
  {
   "company": "Zomentum",
@@ -10366,7 +10278,7 @@
     "workable:zomentum -> no board"
    ]
   },
-  "ms": 11121
+  "ms": 13337
  },
  {
   "company": "Zonka Feedback",
@@ -10436,7 +10348,7 @@
     {
      "url": "https://zonkafeedback.com/",
      "status": 200,
-     "bytes": 264851
+     "bytes": 262582
     },
     {
      "url": "https://careers.www.zonkafeedback.com",
@@ -10510,7 +10422,7 @@
     "workable:zonkafeedback -> no board"
    ]
   },
-  "ms": 57650
+  "ms": 44706
  },
  {
   "company": "Zopsmart",
@@ -10654,7 +10566,7 @@
     "workable:zopsmart -> no board"
    ]
   },
-  "ms": 31872
+  "ms": 34228
  },
  {
   "company": "Zuddl",
@@ -11013,7 +10925,7 @@
     "keka:zuddl -> 10 jobs"
    ]
   },
-  "ms": 8192
+  "ms": 8707
  },
  {
   "company": "Zurich India",
@@ -11303,26 +11215,6 @@
     "score": 12
    },
    {
-    "title": "Senior DevOps Engineer, APAC",
-    "location": "Kuala Lumpur, MY",
-    "url": "https://www.careers.zurich.com/job/Kuala-Lumpur-Senior-DevOps-Engineer%2C-APAC/1363302357/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": true,
-    "java": false,
-    "flutter": false,
-    "senior": true,
-    "exp": [
-     [
-      5,
-      9
-     ]
-    ],
-    "expFits2": false,
-    "score": 8
-   },
-   {
     "title": "Senior Underwriter / Underwriter (Middle Market / Commercial Insurance)",
     "location": "Hong Kong, HK",
     "url": "https://www.careers.zurich.com/job/Hong-Kong-Senior-Underwriter-Underwriter-%28Middle-Market-Commercial-Insurance%29/804953002/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
@@ -11340,6 +11232,26 @@
      ]
     ],
     "expFits2": true,
+    "score": 8
+   },
+   {
+    "title": "Senior DevOps Engineer, APAC",
+    "location": "Kuala Lumpur, MY",
+    "url": "https://www.careers.zurich.com/job/Kuala-Lumpur-Senior-DevOps-Engineer%2C-APAC/1363302357/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": true,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [
+     [
+      5,
+      9
+     ]
+    ],
+    "expFits2": false,
     "score": 8
    },
    {
@@ -11737,6 +11649,21 @@
     "score": -18
    },
    {
+    "title": "VP adjoint(e), Consultant(e) principal(e) en gestion des risques en biens",
+    "location": "Quebec, QC, CA",
+    "url": "https://www.careers.zurich.com/job/Quebec-VP-adjoint%28e%29%2C-Consultant%28e%29-principal%28e%29-en-gestion-des-risques-en-biens-QC/1360839857/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [],
+    "expFits2": false,
+    "score": -18
+   },
+   {
     "title": "Senior Travel Claims Technician",
     "location": "London, GB-LND, GB",
     "url": "https://www.careers.zurich.com/job/London-Senior-Travel-Claims-Technician-GB-L/1363530457/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
@@ -11785,21 +11712,6 @@
     "title": "Lead Energy Spain",
     "location": "Madrid, ES",
     "url": "https://www.careers.zurich.com/job/Madrid-Lead-Energy-Spain/1366135957/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": true,
-    "exp": [],
-    "expFits2": false,
-    "score": -18
-   },
-   {
-    "title": "VP adjoint(e), Consultant(e) principal(e) en gestion des risques en biens",
-    "location": "Quebec, QC, CA",
-    "url": "https://www.careers.zurich.com/job/Quebec-VP-adjoint%28e%29%2C-Consultant%28e%29-principal%28e%29-en-gestion-des-risques-en-biens-QC/1360839857/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
@@ -12141,22 +12053,22 @@
     {
      "url": "https://zurich.com/join-our-team",
      "status": 200,
-     "bytes": 947
+     "bytes": 212
     },
     {
      "url": "https://zurich.com/careers.html",
      "status": 200,
-     "bytes": 947
+     "bytes": 212
     },
     {
      "url": "https://zurich.com/company/careers",
      "status": 200,
-     "bytes": 951
+     "bytes": 212
     },
     {
      "url": "https://zurich.com/about/careers",
      "status": 200,
-     "bytes": 949
+     "bytes": 947
     },
     {
      "url": "https://zurich.com/current-openings",
@@ -12176,7 +12088,7 @@
     "successfactors:www.careers.zurich.com -> 56 jobs"
    ]
   },
-  "ms": 10314
+  "ms": 9242
  },
  {
   "company": "Zwende",
@@ -12246,7 +12158,7 @@
     {
      "url": "https://zwende.com/",
      "status": 200,
-     "bytes": 1179780
+     "bytes": 1178349
     },
     {
      "url": "https://careers.www.zwende.com",
@@ -12302,7 +12214,7 @@
     {
      "url": "https://www.zwende.com/",
      "status": 200,
-     "bytes": 1179780
+     "bytes": 1178349
     }
    ],
    "candidates": [
@@ -12320,13 +12232,13 @@
     "workable:zwende -> no board"
    ]
   },
-  "ms": 16846
+  "ms": 15527
  },
  {
   "company": "Zykrr",
   "country": "India",
   "source": null,
-  "error": "no-job-data-found",
+  "error": "blocked-or-error-response",
   "totalJobs": 0,
   "jobs": [],
   "enriched": 0,
@@ -12389,8 +12301,9 @@
     },
     {
      "url": "https://zykrr.com/",
-     "status": 200,
-     "bytes": 312299
+     "status": 0,
+     "bytes": 0,
+     "error": "fetch failed"
     },
     {
      "url": "https://careers.www.zykrr.com",
@@ -12445,8 +12358,9 @@
     },
     {
      "url": "https://www.zykrr.com/",
-     "status": 200,
-     "bytes": 312299
+     "status": 0,
+     "bytes": 0,
+     "error": "fetch failed"
     }
    ],
    "candidates": [
@@ -12464,7 +12378,7 @@
     "workable:zykrr -> no board"
    ]
   },
-  "ms": 12115
+  "ms": 12439
  },
  {
   "company": "ZS",
@@ -12697,7 +12611,7 @@
    "candidates": [],
    "attempts": []
   },
-  "ms": 5555
+  "ms": 7550
  },
  {
   "company": "Zeotap",
@@ -12791,7 +12705,7 @@
     "workable:zeotap -> no board"
    ]
   },
-  "ms": 20801
+  "ms": 20665
  },
  {
   "company": "Zolve",
@@ -13056,7 +12970,7 @@
     {
      "url": "https://zolve.freshteam.com/jobs",
      "status": 200,
-     "bytes": 57057
+     "bytes": 57165
     },
     {
      "url": "https://careers.zolve.com",
@@ -13090,7 +13004,7 @@
     "workable:zolve -> no board"
    ]
   },
-  "ms": 8196
+  "ms": 8742
  },
  {
   "company": "Zupee",
@@ -13199,7 +13113,7 @@
     "workable:zupee -> no board"
    ]
   },
-  "ms": 5747
+  "ms": 5942
  },
  {
   "company": "Zenduty",
@@ -13347,7 +13261,7 @@
     "workable:zenduty -> no board"
    ]
   },
-  "ms": 24561
+  "ms": 28445
  },
  {
   "company": "Zuper",
@@ -13578,7 +13492,7 @@
     "keka:zupersoft -> 5 jobs"
    ]
   },
-  "ms": 1083
+  "ms": 1281
  },
  {
   "company": "Zinier",
@@ -14329,7 +14243,7 @@
     "breezy:zinier -> 25 jobs"
    ]
   },
-  "ms": 9088
+  "ms": 9165
  },
  {
   "company": "Zaloni",
@@ -14347,7 +14261,7 @@
    "pages": [],
    "attempts": []
   },
-  "ms": 90001
+  "ms": 90003
  },
  {
   "company": "ZeOmega",
@@ -14437,7 +14351,7 @@
     "workable:zeomega -> no board"
    ]
   },
-  "ms": 17794
+  "ms": 14772
  },
  {
   "company": "Zolon Tech",
@@ -14679,7 +14593,7 @@
     "workable:zolontech -> no board"
    ]
   },
-  "ms": 15515
+  "ms": 14383
  },
  {
   "company": "Zenwork",
@@ -15025,7 +14939,7 @@
     "keka:zenwork -> 11 jobs"
    ]
   },
-  "ms": 4777
+  "ms": 4250
  },
  {
   "company": "ZoomRx",
@@ -15112,7 +15026,7 @@
     "workable:zoomrx -> no board"
    ]
   },
-  "ms": 55320
+  "ms": 38519
  },
  {
   "company": "Zifo",
@@ -15212,12 +15126,12 @@
     {
      "url": "https://zifo.com/career",
      "status": 404,
-     "bytes": 369552
+     "bytes": 369534
     },
     {
      "url": "https://zifo.com/jobs",
      "status": 404,
-     "bytes": 369536
+     "bytes": 369518
     }
    ],
    "candidates": [
@@ -15235,7 +15149,7 @@
     "workable:zifo -> no board"
    ]
   },
-  "ms": 12590
+  "ms": 10343
  },
  {
   "company": "Zimetrics Technologies",
@@ -15413,7 +15327,7 @@
     "workable:zimetrics -> no board"
    ]
   },
-  "ms": 12217
+  "ms": 6237
  },
  {
   "company": "Zyxware Technologies",
@@ -15670,7 +15584,7 @@
     "workable:zyxware -> no board"
    ]
   },
-  "ms": 4353
+  "ms": 4351
  },
  {
   "company": "Zerone Consulting",
@@ -15820,7 +15734,7 @@
     "workable:zeroneconsulting -> no board"
    ]
   },
-  "ms": 27283
+  "ms": 24309
  },
  {
   "company": "Zealous System",
@@ -15945,7 +15859,7 @@
     {
      "url": "https://zealousys.com/career/",
      "status": 200,
-     "bytes": 474351
+     "bytes": 474323
     },
     {
      "url": "https://careers.zealousys.com",
@@ -15956,27 +15870,17 @@
     {
      "url": "https://zealousys.com/careers",
      "status": 200,
-     "bytes": 474351
+     "bytes": 474350
     },
     {
      "url": "https://zealousys.com/career",
      "status": 200,
-     "bytes": 474351
+     "bytes": 474350
     },
     {
      "url": "https://zealousys.com/jobs",
      "status": 404,
-     "bytes": 234070
-    },
-    {
-     "url": "https://zealousys.com/join-us",
-     "status": 404,
-     "bytes": 234075
-    },
-    {
-     "url": "https://zealousys.com/join-our-team",
-     "status": 404,
-     "bytes": 234079
+     "bytes": 234072
     }
    ],
    "candidates": [
@@ -16004,7 +15908,7 @@
     "workable:zealousys -> no board"
    ]
   },
-  "ms": 21993
+  "ms": 19877
  },
  {
   "company": "Zestard Technologies",
@@ -16067,7 +15971,7 @@
     "workable:zestard -> no board"
    ]
   },
-  "ms": 3316
+  "ms": 3158
  },
  {
   "company": "Zapbuild",
@@ -16121,7 +16025,7 @@
     "workable:zapbuild -> no board"
    ]
   },
-  "ms": 80730
+  "ms": 79526
  },
  {
   "company": "Zeeve",
@@ -16300,7 +16204,7 @@
     {
      "url": "https://zeeve.io/careers",
      "status": 200,
-     "bytes": 2706146
+     "bytes": 2706179
     },
     {
      "url": "https://zeeve.io/career",
@@ -16310,42 +16214,42 @@
     {
      "url": "https://zeeve.io/jobs",
      "status": 200,
-     "bytes": 2706146
+     "bytes": 2706179
     },
     {
      "url": "https://zeeve.io/join-us",
      "status": 200,
-     "bytes": 2706146
+     "bytes": 2706179
     },
     {
      "url": "https://zeeve.io/join-our-team",
      "status": 200,
-     "bytes": 2706146
+     "bytes": 2706179
     },
     {
      "url": "https://zeeve.io/careers.html",
      "status": 200,
-     "bytes": 2706146
+     "bytes": 2706179
     },
     {
      "url": "https://zeeve.io/company/careers",
      "status": 200,
-     "bytes": 2706146
+     "bytes": 2706179
     },
     {
      "url": "https://zeeve.io/about/careers",
      "status": 200,
-     "bytes": 2706146
+     "bytes": 2706179
     },
     {
      "url": "https://zeeve.io/current-openings",
      "status": 200,
-     "bytes": 2706146
+     "bytes": 2706179
     },
     {
      "url": "https://zeeve.io/",
      "status": 200,
-     "bytes": 2706146
+     "bytes": 2706179
     },
     {
      "url": "https://careers.www.zeeve.io",
@@ -16356,7 +16260,7 @@
     {
      "url": "https://www.zeeve.io/careers",
      "status": 200,
-     "bytes": 2706146
+     "bytes": 2706179
     },
     {
      "url": "https://www.zeeve.io/career",
@@ -16379,7 +16283,7 @@
     "workable:zeeve -> no board"
    ]
   },
-  "ms": 21030
+  "ms": 22580
  },
  {
   "company": "Zvolv",
@@ -16603,9 +16507,8 @@
     },
     {
      "url": "https://careers.zvolv.com",
-     "status": 0,
-     "bytes": 0,
-     "error": "fetch failed"
+     "status": 200,
+     "bytes": 6642
     },
     {
      "url": "https://zvolv.com/careers",
@@ -16616,11 +16519,6 @@
      "url": "https://zvolv.com/career",
      "status": 200,
      "bytes": 245093
-    },
-    {
-     "url": "https://zvolv.com/jobs",
-     "status": 404,
-     "bytes": 235597
     }
    ],
    "candidates": [
@@ -16638,7 +16536,7 @@
     "workable:zvolv -> no board"
    ]
   },
-  "ms": 10472
+  "ms": 7351
  },
  {
   "company": "Zoop.one",
@@ -16663,7 +16561,7 @@
     {
      "url": "https://zoop.one/careers",
      "status": 200,
-     "bytes": 344270
+     "bytes": 361404
     },
     {
      "url": "https://zoop.one/career",
@@ -16702,7 +16600,7 @@
     "skip off-domain https://in.linkedin.com"
    ]
   },
-  "ms": 6840
+  "ms": 8063
  },
  {
   "company": "ZipGrid",
@@ -16930,7 +16828,7 @@
     "workable:zipgrid -> no board"
    ]
   },
-  "ms": 4171
+  "ms": 3325
  },
  {
   "company": "Zoconut",
@@ -17078,7 +16976,7 @@
     "workable:zoconut -> no board"
    ]
   },
-  "ms": 12823
+  "ms": 14429
  },
  {
   "company": "ZebPay",
@@ -17281,7 +17179,7 @@
     "workable:zebpay -> no board"
    ]
   },
-  "ms": 8129
+  "ms": 7116
  },
  {
   "company": "Zithara",
@@ -17355,7 +17253,7 @@
     "workable:zithara -> no board"
    ]
   },
-  "ms": 4894
+  "ms": 5272
  },
  {
   "company": "ZestIOT",
@@ -17414,7 +17312,7 @@
     "workable:zestiot -> no board"
    ]
   },
-  "ms": 12583
+  "ms": 11188
  },
  {
   "company": "Zeus Numerix",
@@ -17737,7 +17635,7 @@
     "workable:zeusnumerix -> no board"
    ]
   },
-  "ms": 5737
+  "ms": 6429
  },
  {
   "company": "ZeroDrag",
@@ -17807,7 +17705,7 @@
     {
      "url": "https://zerodrag.in/",
      "status": 200,
-     "bytes": 364629
+     "bytes": 365797
     },
     {
      "url": "https://careers.www.zerodrag.in",
@@ -17863,7 +17761,7 @@
     {
      "url": "https://www.zerodrag.in/",
      "status": 200,
-     "bytes": 364629
+     "bytes": 365797
     }
    ],
    "candidates": [
@@ -17881,7 +17779,7 @@
     "workable:zerodrag -> no board"
    ]
   },
-  "ms": 21627
+  "ms": 15235
  },
  {
   "company": "Zamp",
@@ -18126,7 +18024,7 @@
     "workable:zamp -> no board"
    ]
   },
-  "ms": 5177
+  "ms": 6399
  },
  {
   "company": "Zynga India",
@@ -19127,7 +19025,7 @@
     "greenhouse:zyngacareers -> 42 jobs"
    ]
   },
-  "ms": 7724
+  "ms": 6980
  },
  {
   "company": "Zuora India",
@@ -19277,7 +19175,7 @@
     "workable:zuora -> no board"
    ]
   },
-  "ms": 20332
+  "ms": 19837
  },
  {
   "company": "Zendesk India",
@@ -20056,7 +19954,7 @@
     "workday:zendesk -> 40 jobs"
    ]
   },
-  "ms": 12666
+  "ms": 12965
  },
  {
   "company": "Zeta Global India",
@@ -22880,7 +22778,7 @@
     "greenhouse:zetaglobal -> 125 jobs"
    ]
   },
-  "ms": 6101
+  "ms": 5323
  },
  {
   "company": "Zafin",
@@ -23718,7 +23616,7 @@
     "greenhouse:zafinlabsamericasinc -> 27 jobs"
    ]
   },
-  "ms": 5572
+  "ms": 4329
  },
  {
   "company": "Zymr",
@@ -23893,22 +23791,22 @@
     {
      "url": "https://www.zymr.com/careers",
      "status": 200,
-     "bytes": 97553
+     "bytes": 97527
     },
     {
      "url": "https://careers.zymr.com",
      "status": 200,
-     "bytes": 22073
+     "bytes": 22085
     },
     {
      "url": "https://zymr.com/careers",
      "status": 200,
-     "bytes": 97553
+     "bytes": 97527
     },
     {
      "url": "https://zymr.com/career",
      "status": 404,
-     "bytes": 91374
+     "bytes": 91348
     }
    ],
    "candidates": [
@@ -23930,7 +23828,7 @@
     "workable:zymr -> no board"
    ]
   },
-  "ms": 7468
+  "ms": 7058
  },
  {
   "company": "Zestra Technologies",
@@ -24369,7 +24267,7 @@
     "workable:zestratech -> no board"
    ]
   },
-  "ms": 6550
+  "ms": 6610
  },
  {
   "company": "ZealousWeb Technologies",
@@ -24389,7 +24287,7 @@
     {
      "url": "https://www.zealousweb.com/careers/",
      "status": 200,
-     "bytes": 310334
+     "bytes": 310333
     },
     {
      "url": "https://careers.zealousweb.com",
@@ -24399,7 +24297,7 @@
     {
      "url": "https://zealousweb.com/careers",
      "status": 200,
-     "bytes": 310334
+     "bytes": 310333
     },
     {
      "url": "https://zealousweb.com/career",
@@ -24424,7 +24322,7 @@
     "workable:zealousweb -> no board"
    ]
   },
-  "ms": 7077
+  "ms": 7312
  },
  {
   "company": "Zaigo Infotech",
@@ -24602,7 +24500,7 @@
     "workable:zaigoinfotech -> no board"
    ]
   },
-  "ms": 3926
+  "ms": 4260
  },
  {
   "company": "Zensark Technologies",
@@ -24675,7 +24573,7 @@
     "workable:zensark -> no board"
    ]
   },
-  "ms": 16068
+  "ms": 16512
  },
  {
   "company": "Zerozilla Infotech",
@@ -24874,7 +24772,7 @@
     "workable:zerozilla -> no board"
    ]
   },
-  "ms": 11886
+  "ms": 11219
  },
  {
   "company": "ZippyOps",
@@ -25237,7 +25135,7 @@
     "workable:zippyops -> no board"
    ]
   },
-  "ms": 9862
+  "ms": 7935
  },
  {
   "company": "Zithas Technologies",
@@ -25381,7 +25279,7 @@
     "workable:zithas -> no board"
    ]
   },
-  "ms": 3061
+  "ms": 3425
  },
  {
   "company": "Zinavo Technologies",
@@ -25416,7 +25314,7 @@
    "pages": [],
    "attempts": []
   },
-  "ms": 90002
+  "ms": 90003
  },
  {
   "company": "Zaptech Solutions",
@@ -25724,7 +25622,7 @@
     "workable:zaptechsolutions -> no board"
    ]
   },
-  "ms": 11266
+  "ms": 9941
  },
  {
   "company": "Zestminds Technologies",
@@ -25866,7 +25764,7 @@
     "workable:zestminds -> no board"
    ]
   },
-  "ms": 2733
+  "ms": 3715
  },
  {
   "company": "Zenkins Technologies",
@@ -26148,7 +26046,7 @@
     "workable:zenkins -> no board"
    ]
   },
-  "ms": 12798
+  "ms": 16278
  },
  {
   "company": "Zoftcares Solutions",
@@ -26237,7 +26135,7 @@
     "workable:zoftcares -> no board"
    ]
   },
-  "ms": 3572
+  "ms": 5163
  },
  {
   "company": "Zumen",
@@ -26381,7 +26279,7 @@
     "workable:zumen -> no board"
    ]
   },
-  "ms": 3478
+  "ms": 4794
  },
  {
   "company": "Zenesys",
@@ -26545,7 +26443,7 @@
     "workable:zenesys -> no board"
    ]
   },
-  "ms": 15844
+  "ms": 15008
  },
  {
   "company": "ZEISS India",
@@ -26598,7 +26496,7 @@
     "workable:zeiss -> no board"
    ]
   },
-  "ms": 7273
+  "ms": 9757
  },
  {
   "company": "Zoom Communications India",
@@ -26780,7 +26678,7 @@
     "workable:zoom -> no board"
    ]
   },
-  "ms": 18936
+  "ms": 20713
  },
  {
   "company": "Zyter",
@@ -26993,7 +26891,7 @@
     "workable:zyter -> no board"
    ]
   },
-  "ms": 9284
+  "ms": 4186
  },
  {
   "company": "Zype",
@@ -27115,7 +27013,7 @@
     {
      "url": "https://getzype.com/careers",
      "status": 200,
-     "bytes": 281429
+     "bytes": 284398
     },
     {
      "url": "https://getzype.com/career",
@@ -27153,7 +27051,7 @@
     "workable:getzype -> no board"
    ]
   },
-  "ms": 10258
+  "ms": 8530
  },
  {
   "company": "Zaakpay",
@@ -27171,7 +27069,7 @@
    "pages": [],
    "attempts": []
   },
-  "ms": 90008
+  "ms": 90002
  },
  {
   "company": "Zoxima Solutions",
@@ -27315,6 +27213,6 @@
     "workable:zoxima -> no board"
    ]
   },
-  "ms": 4788
+  "ms": 4392
  }
 ]

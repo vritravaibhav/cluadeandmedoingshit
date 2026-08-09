@@ -2,7 +2,7 @@
 OPEN ROLES AT 101 "W" COMPANIES
 Looking for : Software Engineer, ~2 years experience
 Priority    : Java, Dart/Flutter        Location preference : India
-Generated   : 2026-08-09 05:54:11 UTC  by test.js
+Generated   : 2026-08-09 16:15:53 UTC  by test.js
 ==============================================================================
 
 Boards read with open roles : 46
@@ -921,6 +921,11 @@ Total open roles seen       : 845
     http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 404, 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 404
     ATS tried    : greenhouse:zenatix -> no board ; lever:zenatix -> no board ; ashby:zenatix -> no board ; recruitee:zenatix -> no board
 
+>> Zykrr  [India]  — blocked-or-error-response
+    careers page : undefined
+    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 0, 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 0
+    ATS tried    : greenhouse:zykrr -> no board ; lever:zykrr -> no board ; ashby:zykrr -> no board ; recruitee:zykrr -> no board
+
 >> Zestard Technologies  [India]  — blocked-or-error-response
     careers page : undefined
     http status  : 0, 403, 403, 403, 403, 403
@@ -958,7 +963,7 @@ Total open roles seen       : 845
 
 >> Zensar Technologies  [India]  — careers-page-read-but-lists-no-openings
     careers page : undefined
-    http status  : 0, 200, 200, 200
+    http status  : 0, 200, 200, 200, 200, 200
     ATS tried    : greenhouse:zensar -> no board ; lever:zensar -> no board ; ashby:zensar -> no board ; recruitee:zensar -> no board
 
 >> Zolo  [India]  — careers-page-read-but-lists-no-openings
@@ -985,10 +990,6 @@ Total open roles seen       : 845
     careers page : undefined
     http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200, 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200, 200, 200
     ATS tried    : greenhouse:zappyhire -> no board ; lever:zappyhire -> no board ; ashby:zappyhire -> no board ; recruitee:zappyhire -> no board
-
->> Zeb  [United States]  — careers-page-read-but-lists-no-openings
-    careers page : https://zeb.co/careers/
-    http status  : 200, 0, 200, 404, 404, 404, 404, 404, 404, 404, 404, 200
 
 >> Zerodha  [India]  — careers-page-read-but-lists-no-openings
     careers page : undefined
@@ -1114,11 +1115,6 @@ Total open roles seen       : 845
     http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200, 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
     ATS tried    : greenhouse:zwende -> no board ; lever:zwende -> no board ; ashby:zwende -> no board ; recruitee:zwende -> no board
 
->> Zykrr  [India]  — no-job-data-found
-    careers page : undefined
-    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200, 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
-    ATS tried    : greenhouse:zykrr -> no board ; lever:zykrr -> no board ; ashby:zykrr -> no board ; recruitee:zykrr -> no board
-
 >> Zupee  [India]  — no-job-data-found
     careers page : undefined
     http status  : 0, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 0, 404, 404, 404
@@ -1146,6 +1142,10 @@ Total open roles seen       : 845
 
 >> Zycus  [India]  — timed-out
     careers page : undefined
+    http status  : 
+
+>> Zeb  [United States]  — timed-out
+    careers page : https://zeb.co/careers/
     http status  : 
 
 >> Zigram  [India]  — timed-out

@@ -1,14 +1,14 @@
 ==============================================================================
-OPEN ROLES AT 250 "W" COMPANIES
+OPEN ROLES AT 249 "W" COMPANIES
 Looking for : Software Engineer, ~2 years experience
 Priority    : Java, Dart/Flutter        Location preference : India
-Generated   : 2026-08-09 05:25:09 UTC  by test.js
+Generated   : 2026-08-09 15:47:17 UTC  by test.js
 ==============================================================================
 
-Boards read with open roles : 114
+Boards read with open roles : 112
 Boards read, currently empty: 4
-Could not read              : 132
-Total open roles seen       : 2190
+Could not read              : 133
+Total open roles seen       : 2191
 
 ##############################################################################
 # SECTION 1 — MATCHES: Software Engineer + Java/Dart/Flutter + ~2 yrs
@@ -1122,13 +1122,6 @@ Total open roles seen       : 2190
       exp req  : 2-4y    stack: Java    score: 100
       url      : https://lexplosion.in/jobs/full-stack-developer-frontend-focused-vue-js/
 
->> LIC  [India]
-    board    : headings:https://licindia.in/careers   —  3 open roles
-    1. Associate Companies
-      location : n/a   [INDIA]
-      exp req  : not stated    stack: —    score: 31
-      url      : https://licindia.in/careers
-
 >> LIC Housing Finance  [India]
     board    : headings:https://www.lichousing.com/careers   —  2 open roles
     Builder Developers Scheme
@@ -1494,13 +1487,6 @@ Total open roles seen       : 2190
       exp req  : not stated    stack: —    score: 19
       url      : https://www.litmusbranding.com/careers/
 
->> LocalCircles  [India]
-    board    : html:https://www.localcircles.com/a/index/core?career   —  6 open roles
-    Lead Infrastructure Engineer (DevOps)
-      location : n/a   [INDIA]
-      exp req  : 4-8y / 3-7y / 2-6y / 1-5y / 8-9y    stack: —    score: 53
-      url      : https://www.localcircles.com/a/career/leadinfrastructure?Engineer
-
 >> Lera Technologies  [India]
     board    : keka:lera   —  4 open roles
     Domain Consulting Associate
@@ -1675,10 +1661,10 @@ Total open roles seen       : 2190
 
 >> Landis+Gyr  [Switzerland]
     board    : successfactors:careers.landisgyr.com   —  33 open roles
-    Senior Engineer, SQA
-      location : Noida, UP, IN   [INDIA]
-      exp req  : 4-6y    stack: Java    score: 60
-      url      : https://careers.landisgyr.com/job/Noida-Senior-Engineer%2C-SQA-UP/1396186233/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS
+    Engineer II, General Lab Test
+      location : Lafayette, IN, US
+      exp req  : 1-5y / 5-6y    stack: —    score: 60
+      url      : https://careers.landisgyr.com/job/Lafayette-Engineer-II%2C-General-Lab-Test-IN/1267099101/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS
 
 >> Lattice Semiconductor  [United States]
     board    : icims:latticesemi   —  95 open roles
@@ -1793,7 +1779,7 @@ Total open roles seen       : 2190
       url      : https://www.loginradius.com/careers
 
 >> Lowe's  [United States]
-    board    : phenom:_self   —  165 open roles
+    board    : phenom:_self   —  175 open roles
     Senior Software Engineer
       location : Charlotte, North Carolina
       exp req  : not stated    stack: Java + Android    score: 37
@@ -1849,7 +1835,7 @@ Total open roles seen       : 2190
       url      : https://careers.lotusflare.com/jobs/501778-front-end-engineer
 
 ##############################################################################
-# SECTION 5 — NOT READ  (132 of 250)
+# SECTION 5 — NOT READ  (133 of 249)
 # lists-no-openings  = careers page loaded fine, published no vacancies
 # blocked-or-error    = bot wall / dead route (403, 404) — needs a browser
 # unreachable         = domain did not respond at all
@@ -1913,12 +1899,12 @@ Total open roles seen       : 2190
 
 >> Logix Shapers  [India]  — blocked-or-error-response
     careers page : undefined
-    http status  : 0, 403, 403, 403, 403, 403
+    http status  : 0, 403, 403, 403, 403
     ATS tried    : greenhouse:logixshapers -> no board ; lever:logixshapers -> no board ; ashby:logixshapers -> no board ; recruitee:logixshapers -> no board
 
 >> Lean Impeccable Technologies  [India]  — blocked-or-error-response
     careers page : undefined
-    http status  : 0, 404, 404, 404, 404
+    http status  : 0, 404, 404, 404, 404, 404
     ATS tried    : greenhouse:leanimpeccable -> no board ; lever:leanimpeccable -> no board ; ashby:leanimpeccable -> no board ; recruitee:leanimpeccable -> no board
 
 >> L&T Semiconductor Technologies  [India]  — careers-page-read-but-lists-no-openings
@@ -1955,6 +1941,11 @@ Total open roles seen       : 2190
     careers page : https://www.ldsinfotech.com/careers
     http status  : 200, 0, 200, 200, 200, 200, 200, 200, 200
     ATS tried    : greenhouse:ldsinfotech -> no board ; lever:ldsinfotech -> no board ; ashby:ldsinfotech -> no board ; recruitee:ldsinfotech -> no board
+
+>> LEAD School  [India]  — careers-page-read-but-lists-no-openings
+    careers page : https://myleadschool.darwinbox.in/jobs
+    http status  : 200, 0, 403, 200, 200, 200, 200, 200
+    ATS tried    : darwinbox:myleadschool -> no board ; greenhouse:leadschool -> no board ; lever:leadschool -> no board ; ashby:leadschool -> no board
 
 >> Lendbox  [India]  — careers-page-read-but-lists-no-openings
     careers page : https://www.lendbox.in/careers
@@ -2075,6 +2066,11 @@ Total open roles seen       : 2190
     careers page : https://www.lumaxworld.in/careers/
     http status  : 200, 0, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 0, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200
     ATS tried    : greenhouse:lumaxauto -> no board ; lever:lumaxauto -> no board ; ashby:lumaxauto -> no board ; recruitee:lumaxauto -> no board
+
+>> Lybrate  [India]  — careers-page-read-but-lists-no-openings
+    careers page : https://www.lybrate.com/jobs
+    http status  : 200, 0, 404, 404, 200, 200
+    ATS tried    : lever:lybrate -> no board ; greenhouse:lybrate -> no board ; ashby:lybrate -> no board ; recruitee:lybrate -> no board
 
 >> Lynkit  [India]  — careers-page-read-but-lists-no-openings
     careers page : https://lynkit.in/careers
@@ -2233,7 +2229,7 @@ Total open roles seen       : 2190
 
 >> Lenok Solutions  [India]  — careers-page-read-but-lists-no-openings
     careers page : https://lenoksolutions.com/career
-    http status  : 200, 0, 404, 404, 404, 404, 404, 404, 404, 404, 200
+    http status  : 200, 0, 404, 404
     ATS tried    : greenhouse:lenok -> no board ; lever:lenok -> no board ; ashby:lenok -> no board ; recruitee:lenok -> no board
 
 >> L.G. Balakrishnan & Bros  [India]  — careers-page-read-but-lists-no-openings
@@ -2311,11 +2307,6 @@ Total open roles seen       : 2190
     http status  : 200, 0, 200, 404, 404, 404, 404, 404, 404
     ATS tried    : greenhouse:livlong -> no board ; lever:livlong -> no board ; ashby:livlong -> no board ; recruitee:livlong -> no board
 
->> Lulu Group International  [UAE]  — no-job-data-found
-    careers page : https://www.luluinternational.com/careers
-    http status  : 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 0, 200, 200, 200, 200, 200, 200, 200, 200, 200
-    ATS tried    : greenhouse:lulu -> no board ; lever:lulu -> no board ; ashby:lulu -> no board ; recruitee:lulu -> no board
-
 >> Carelon (formerly Legato Health)  [India]  — no-job-data-found
     careers page : undefined
     http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200, 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
@@ -2370,6 +2361,11 @@ Total open roles seen       : 2190
     careers page : undefined
     http status  : 0, 500, 500, 500, 500, 500, 500, 500, 500, 500, 200, 0, 500, 500, 500, 500, 500, 500, 500, 500, 500, 200
     ATS tried    : greenhouse:livfin -> no board ; lever:livfin -> no board ; ashby:livfin -> no board ; recruitee:livfin -> no board
+
+>> LocalCircles  [India]  — no-job-data-found
+    careers page : undefined
+    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200, 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
+    ATS tried    : greenhouse:localcircles -> no board ; lever:localcircles -> no board ; ashby:localcircles -> no board ; recruitee:localcircles -> no board
 
 >> Logisy  [India]  — no-job-data-found
     careers page : undefined
@@ -2490,12 +2486,8 @@ Total open roles seen       : 2190
     careers page : https://www.lntrealty.com/careers
     http status  : 
 
->> LEAD School  [India]  — timed-out
-    careers page : https://myleadschool.darwinbox.in/jobs
-    http status  : 
-
->> Lybrate  [India]  — timed-out
-    careers page : https://www.lybrate.com/jobs
+>> LIC  [India]  — timed-out
+    careers page : https://licindia.in/careers
     http status  : 
 
 >> Linarc  [India]  — timed-out

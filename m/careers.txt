@@ -2,13 +2,13 @@
 OPEN ROLES AT 274 "W" COMPANIES
 Looking for : Software Engineer, ~2 years experience
 Priority    : Java, Dart/Flutter        Location preference : India
-Generated   : 2026-08-09 05:28:56 UTC  by test.js
+Generated   : 2026-08-09 15:51:48 UTC  by test.js
 ==============================================================================
 
-Boards read with open roles : 134
+Boards read with open roles : 133
 Boards read, currently empty: 9
-Could not read              : 131
-Total open roles seen       : 3041
+Could not read              : 132
+Total open roles seen       : 3047
 
 ##############################################################################
 # SECTION 1 — MATCHES: Software Engineer + Java/Dart/Flutter + ~2 yrs
@@ -1646,11 +1646,11 @@ Total open roles seen       : 3041
       url      : https://www.mcxindia.com/careers
 
 >> MAS Financial Services  [India]
-    board    : headings:https://mas.co.in/career/   —  4 open roles
+    board    : wordpress:https://mas.co.in   —  12 open roles
     Area Sales Manager – Secured Business Loan
       location : n/a   [INDIA]
       exp req  : not stated    stack: —    score: -3
-      url      : https://mas.co.in/career/
+      url      : https://mas.co.in/jobs/area-sales-manager-secured-business-loan/
 
 >> Muthoot Fincorp  [India]
     board    : headings:https://muthootfincorp.com/career   —  2 open roles
@@ -1972,13 +1972,6 @@ Total open roles seen       : 3041
       exp req  : not stated    stack: —    score: 19
       url      : https://maxbyte.co/industry-4-0-smart-manufacturing-workshop-in-miami-university/?utm_source=rss&utm_medium=rss&utm_campaign=industry-4-0-smart-manufacturing-workshop-in-miami-university
 
->> Miracle Studios  [India]
-    board    : feed:https://miraclestudios.ai   —  3 open roles
-    Thinking About AI, Jobs, and Mental Health
-      location : n/a   [INDIA]
-      exp req  : not stated    stack: —    score: 19
-      url      : https://miraclestudios.ai/thinking-about-ai-jobs-and-mental-health/
-
 >> Mindpool Technologies  [India]
     board    : zohorecruit:jobs.mindpooltech.com   —  4 open roles
     Cloud Engineer
@@ -2198,10 +2191,10 @@ Total open roles seen       : 3041
 
 >> Munich Re  [Germany]
     board    : html:https://careers.munichre.com/en/munichre   —  4 open roles
-    Account Engineer
-      location : Atlanta, US-GA, USA
-      exp req  : 10-14y    stack: —    score: 30
-      url      : https://careers.munichre.com/en/job/atlanta/account-engineer/3342/31297154688
+    Human Resources Associate
+      location : n/a
+      exp req  : not stated    stack: —    score: 16
+      url      : https://careers.munichre.com/en/job/princeton/human-resources-associate/3342/41783814784
 
 >> Medtronic  [Ireland]
     board    : workday:medtronic   —  40 open roles
@@ -2239,7 +2232,7 @@ Total open roles seen       : 3041
       url      : https://careers.mt.com/careers/JobDetail/1/19826
 
 >> Mahle  [Germany]
-    board    : successfactors:careers.mahle.com   —  45 open roles
+    board    : successfactors:careers.mahle.com   —  46 open roles
     Application Engineer
       location : Changshu, CN
       exp req  : 2-3y / 3-4y    stack: —    score: 60
@@ -2341,7 +2334,7 @@ Total open roles seen       : 3041
       url      : https://www.mobileprogramming.com/careers
 
 ##############################################################################
-# SECTION 5 — NOT READ  (131 of 274)
+# SECTION 5 — NOT READ  (132 of 274)
 # lists-no-openings  = careers page loaded fine, published no vacancies
 # blocked-or-error    = bot wall / dead route (403, 404) — needs a browser
 # unreachable         = domain did not respond at all
@@ -2535,7 +2528,7 @@ Total open roles seen       : 3041
 
 >> Mindsprint  [India]  — careers-page-read-but-lists-no-openings
     careers page : https://www.mindsprint.com/join-us
-    http status  : 200, 0, 404, 404
+    http status  : 200, 0, 404, 404, 404
     ATS tried    : greenhouse:mindsprint -> no board ; lever:mindsprint -> no board ; ashby:mindsprint -> no board ; recruitee:mindsprint -> no board
 
 >> MediaAgility  [India]  — careers-page-read-but-lists-no-openings
@@ -2555,7 +2548,7 @@ Total open roles seen       : 3041
 
 >> Mindbowser  [India]  — careers-page-read-but-lists-no-openings
     careers page : https://www.mindbowser.com/careers/
-    http status  : 200, 0, 200, 200, 404
+    http status  : 200, 0, 200, 200, 404, 404, 404
     ATS tried    : greenhouse:mindbowser -> no board ; lever:mindbowser -> no board ; ashby:mindbowser -> no board ; recruitee:mindbowser -> no board
 
 >> Mobiloitte  [India]  — careers-page-read-but-lists-no-openings
@@ -2610,22 +2603,22 @@ Total open roles seen       : 3041
 
 >> MedGenome  [India]  — careers-page-read-but-lists-no-openings
     careers page : https://diagnostics.medgenome.com/career/
-    http status  : 200, 0, 403, 200, 200, 200, 200, 200, 200, 200, 200, 200, 0, 200, 200, 200, 200, 0, 200, 200, 200, 200, 200
+    http status  : 200, 0, 403, 200, 200, 200, 200, 200, 200, 200, 200, 200, 0, 200, 200, 200, 200, 200, 200, 200, 0, 200, 200
     ATS tried    : greenhouse:medgenome -> no board ; lever:medgenome -> no board ; ashby:medgenome -> no board ; recruitee:medgenome -> no board
 
 >> Mahindra Group  [India]  — careers-page-read-but-lists-no-openings
     careers page : https://www.mahindra.com/careers
-    http status  : 200, 0, 200, 200, 404, 404, 0, 404
+    http status  : 200, 0, 200, 200, 404, 404, 404
     ATS tried    : greenhouse:mahindra -> no board ; lever:mahindra -> no board ; ashby:mahindra -> no board ; recruitee:mahindra -> no board
 
 >> Mahindra Logistics  [India]  — careers-page-read-but-lists-no-openings
     careers page : https://mahindralogistics.com/work-with-us/
-    http status  : 200, 0, 200, 0, 200, 200, 200, 200, 200, 200, 200, 200, 0, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, skipped-off-domain, 200
+    http status  : 200, 0, 200, 200, 200, 0, 200, 200, 200, 200, 200, 200, 0, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, skipped-off-domain, 200
     ATS tried    : darwinbox:nectar -> no board ; greenhouse:mahindralogistics -> no board ; lever:mahindralogistics -> no board ; ashby:mahindralogistics -> no board
 
 >> Marico  [India]  — careers-page-read-but-lists-no-openings
     careers page : https://marico.com/careers
-    http status  : 200, 0, 200, 200, 200, 200
+    http status  : 200, 0, 200, 200, 200, 0, 200
     ATS tried    : greenhouse:marico -> no board ; lever:marico -> no board ; ashby:marico -> no board ; recruitee:marico -> no board
 
 >> Maruti Suzuki  [India]  — careers-page-read-but-lists-no-openings
@@ -2705,7 +2698,7 @@ Total open roles seen       : 3041
 
 >> Marsh McLennan  [United States]  — careers-page-read-but-lists-no-openings
     careers page : https://careers.marsh.com/
-    http status  : 200, 200, 200, 404, 404, 410, 404, 200, 404, 200
+    http status  : 200, 200, 200, 404, 404, 410, 404, 200, 404, 200, 404, 200
     ATS tried    : phenom:_self -> no board ; greenhouse:marshmclennan -> no board ; lever:marshmclennan -> no board ; ashby:marshmclennan -> no board
 
 >> MetLife  [United States]  — careers-page-read-but-lists-no-openings
@@ -2750,7 +2743,7 @@ Total open roles seen       : 3041
 
 >> Mahindra Comviva  [India]  — careers-page-read-but-lists-no-openings
     careers page : undefined
-    http status  : 0, 200, 0, 200, 200
+    http status  : 0, 200, 200, 200
     ATS tried    : greenhouse:mahindracomviva -> no board ; lever:mahindracomviva -> no board ; ashby:mahindracomviva -> no board ; recruitee:mahindracomviva -> no board
 
 >> Mentor Graphics India  [India]  — careers-page-read-but-lists-no-openings
@@ -2760,7 +2753,7 @@ Total open roles seen       : 3041
 
 >> MOURI Tech  [India]  — careers-page-read-but-lists-no-openings
     careers page : https://www.mouritech.com/careers
-    http status  : 200, 0, 200, 200, 404, 404, 404, 404, 200
+    http status  : 200, 0, 200, 200, 404
     ATS tried    : greenhouse:mouritech -> no board ; lever:mouritech -> no board ; ashby:mouritech -> no board ; recruitee:mouritech -> no board
 
 >> magicpin  [India]  — careers-page-read-but-lists-no-openings
@@ -2775,7 +2768,7 @@ Total open roles seen       : 3041
 
 >> Marktine  [India]  — careers-page-read-but-lists-no-openings
     careers page : undefined
-    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 200, 200
+    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 200
     ATS tried    : greenhouse:marktine -> no board ; lever:marktine -> no board ; ashby:marktine -> no board ; recruitee:marktine -> no board
 
 >> MobME Wireless Solutions  [India]  — careers-page-read-but-lists-no-openings
@@ -2815,7 +2808,7 @@ Total open roles seen       : 3041
 
 >> Merkle  [United States]  — careers-page-read-but-lists-no-openings
     careers page : undefined
-    http status  : 0, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 0, 200, 404
+    http status  : 0, 200, 404, 404, 404, 404, 404, 404, 404, 404, 200
     ATS tried    : greenhouse:merkle -> no board ; lever:merkle -> no board ; ashby:merkle -> no board ; recruitee:merkle -> no board
 
 >> Movius Interactive  [United States]  — careers-page-read-but-lists-no-openings
@@ -2845,7 +2838,7 @@ Total open roles seen       : 3041
 
 >> Moneycontrol  [India]  — careers-page-read-but-lists-no-openings
     careers page : https://www.moneycontrol.com/jobs/
-    http status  : 200, 0, 503, 503, 200, 503, 503, 503, 503, 503, 503, 200, 0, 503, 503, 200, 503, 503, 503, 503, 503, 503, 200, 200, 200
+    http status  : 200, 0, 503, 503, 200, 503, 503, 503, 503, 503, 503, 200, 0, 503, 503, 200, 503, 503, 503, 503, 503, 503, 200
     ATS tried    : greenhouse:moneycontrol -> no board ; lever:moneycontrol -> no board ; ashby:moneycontrol -> no board ; recruitee:moneycontrol -> no board
 
 >> MyCaptain  [India]  — careers-page-read-but-lists-no-openings
@@ -2968,6 +2961,11 @@ Total open roles seen       : 3041
     http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200, 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
     ATS tried    : greenhouse:mobmaxime -> no board ; lever:mobmaxime -> no board ; ashby:mobmaxime -> no board ; recruitee:mobmaxime -> no board
 
+>> Mobitrail  [India]  — no-job-data-found
+    careers page : undefined
+    http status  : 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200, 0, 404, 404, 404, 404, 404, 404, 404, 404, 404, 200
+    ATS tried    : greenhouse:mobitrail -> no board ; lever:mobitrail -> no board ; ashby:mobitrail -> no board ; recruitee:mobitrail -> no board
+
 >> Mantra Labs  [India]  — timed-out
     careers page : https://www.mantralabsglobal.com/careers/
     http status  : 
@@ -2992,6 +2990,6 @@ Total open roles seen       : 3041
     careers page : undefined
     http status  : 
 
->> Mobitrail  [India]  — timed-out
+>> Miracle Studios  [India]  — timed-out
     careers page : undefined
     http status  : 

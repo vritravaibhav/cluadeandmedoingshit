@@ -60,7 +60,7 @@
     "workable:uber -> no board"
    ]
   },
-  "ms": 19293
+  "ms": 26220
  },
  {
   "company": "UST Global",
@@ -204,14 +204,14 @@
     "workable:ustglobal -> no board"
    ]
   },
-  "ms": 5813
+  "ms": 4060
  },
  {
   "company": "UnitedHealth Group India",
   "country": "India",
   "source": "headings:https://careers.unitedhealthgroup.com/search-jobs",
   "error": null,
-  "totalJobs": 21,
+  "totalJobs": 16,
   "jobs": [
    {
     "title": "FDE Engineer",
@@ -244,19 +244,19 @@
     "score": 49
    },
    {
-    "title": "Senior AIML Engineer",
+    "title": "Associate Patient Care Coordinator",
     "location": "",
     "url": "https://careers.unitedhealthgroup.com/search-jobs",
     "india": true,
     "locationSaysIndia": false,
     "hasLocation": false,
-    "isEng": true,
+    "isEng": false,
     "java": false,
     "flutter": false,
-    "senior": true,
+    "senior": false,
     "exp": [],
     "expFits2": false,
-    "score": 27
+    "score": 31
    },
    {
     "title": "Account Executive",
@@ -364,7 +364,7 @@
     "score": 19
    },
    {
-    "title": "Health Information Management Supervisor",
+    "title": "Infusion Pharmacy Technician",
     "location": "",
     "url": "https://careers.unitedhealthgroup.com/search-jobs",
     "india": true,
@@ -379,7 +379,22 @@
     "score": 19
    },
    {
-    "title": "Scheduler Specialist",
+    "title": "SCA Customer Service Representative",
+    "location": "",
+    "url": "https://careers.unitedhealthgroup.com/search-jobs",
+    "india": true,
+    "locationSaysIndia": false,
+    "hasLocation": false,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 19
+   },
+   {
+    "title": "Six Sigma Consultant",
     "location": "",
     "url": "https://careers.unitedhealthgroup.com/search-jobs",
     "india": true,
@@ -395,51 +410,6 @@
    },
    {
     "title": "Pharmacy Technician",
-    "location": "",
-    "url": "https://careers.unitedhealthgroup.com/search-jobs",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 19
-   },
-   {
-    "title": "Medical Assistant Primary Care",
-    "location": "",
-    "url": "https://careers.unitedhealthgroup.com/search-jobs",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 19
-   },
-   {
-    "title": "Healthcare Collection Representative - Makati",
-    "location": "",
-    "url": "https://careers.unitedhealthgroup.com/search-jobs",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 19
-   },
-   {
-    "title": "Practice Support Assistant II",
     "location": "",
     "url": "https://careers.unitedhealthgroup.com/search-jobs",
     "india": true,
@@ -470,51 +440,6 @@
    },
    {
     "title": "Medical Director",
-    "location": "",
-    "url": "https://careers.unitedhealthgroup.com/search-jobs",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": true,
-    "exp": [],
-    "expFits2": false,
-    "score": -3
-   },
-   {
-    "title": "Patient Care Manager / Field RN",
-    "location": "",
-    "url": "https://careers.unitedhealthgroup.com/search-jobs",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": true,
-    "exp": [],
-    "expFits2": false,
-    "score": -3
-   },
-   {
-    "title": "Patient Care Manager RN",
-    "location": "",
-    "url": "https://careers.unitedhealthgroup.com/search-jobs",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": true,
-    "exp": [],
-    "expFits2": false,
-    "score": -3
-   },
-   {
-    "title": "Infrastructure Project Manager - Remote",
     "location": "",
     "url": "https://careers.unitedhealthgroup.com/search-jobs",
     "india": true,
@@ -577,7 +502,7 @@
     {
      "url": "https://careers.unitedhealthgroup.com",
      "status": 200,
-     "bytes": 8048941
+     "bytes": 8042300
     },
     {
      "url": "https://unitedhealthgroup.com/careers",
@@ -615,7 +540,7 @@
     "workable:unitedhealthgroup -> no board"
    ]
   },
-  "ms": 13318
+  "ms": 11381
  },
  {
   "company": "Udaan",
@@ -761,7 +686,7 @@
     "workable:udaan -> no board"
    ]
   },
-  "ms": 36613
+  "ms": 37419
  },
  {
   "company": "Unacademy",
@@ -811,7 +736,7 @@
     "skip off-domain https://wellfound.com"
    ]
   },
-  "ms": 8250
+  "ms": 7909
  },
  {
   "company": "Upstox",
@@ -933,7 +858,7 @@
     "workable:upstox -> no board"
    ]
   },
-  "ms": 6424
+  "ms": 5682
  },
  {
   "company": "Urban Company",
@@ -957,17 +882,12 @@
     {
      "url": "https://urbancompany.com/careers",
      "status": 404,
-     "bytes": 469762
+     "bytes": 474545
     },
     {
      "url": "https://urbancompany.com/career",
      "status": 404,
-     "bytes": 469756
-    },
-    {
-     "url": "https://urbancompany.com/jobs",
-     "status": 404,
-     "bytes": 462920
+     "bytes": 475387
     }
    ],
    "candidates": [
@@ -995,7 +915,7 @@
     "workable:urbancompany -> no board"
    ]
   },
-  "ms": 21672
+  "ms": 14947
  },
  {
   "company": "UiPath India",
@@ -3507,7 +3427,7 @@
     "ashby:uipath -> 120 jobs"
    ]
   },
-  "ms": 3894
+  "ms": 3599
  },
  {
   "company": "Ubisoft India",
@@ -3537,22 +3457,22 @@
     {
      "url": "https://ubisoft.com/career",
      "status": 200,
-     "bytes": 599710
+     "bytes": 600156
     },
     {
      "url": "https://ubisoft.com/jobs",
      "status": 200,
-     "bytes": 599710
+     "bytes": 600156
     },
     {
      "url": "https://ubisoft.com/join-us",
      "status": 200,
-     "bytes": 599710
+     "bytes": 600156
     },
     {
      "url": "https://ubisoft.com/join-our-team",
      "status": 200,
-     "bytes": 599710
+     "bytes": 600156
     },
     {
      "url": "https://ubisoft.com/careers.html",
@@ -3562,22 +3482,22 @@
     {
      "url": "https://ubisoft.com/company/careers",
      "status": 200,
-     "bytes": 599710
+     "bytes": 600156
     },
     {
      "url": "https://ubisoft.com/about/careers",
      "status": 200,
-     "bytes": 599710
+     "bytes": 600156
     },
     {
      "url": "https://ubisoft.com/current-openings",
      "status": 200,
-     "bytes": 599710
+     "bytes": 600156
     },
     {
      "url": "https://ubisoft.com/",
      "status": 200,
-     "bytes": 684710
+     "bytes": 667318
     }
    ],
    "candidates": [
@@ -3595,7 +3515,7 @@
     "workable:ubisoft -> no board"
    ]
   },
-  "ms": 36239
+  "ms": 37373
  },
  {
   "company": "Merkle (formerly Ugam)",
@@ -3699,7 +3619,7 @@
     "workable:merkle -> no board"
    ]
   },
-  "ms": 19960
+  "ms": 23484
  },
  {
   "company": "Ula",
@@ -3724,7 +3644,7 @@
     {
      "url": "https://ula.app/careers",
      "status": 403,
-     "bytes": 263
+     "bytes": 243
     },
     {
      "url": "https://ula.app/career",
@@ -3739,7 +3659,7 @@
     {
      "url": "https://ula.app/join-us",
      "status": 403,
-     "bytes": 263
+     "bytes": 243
     },
     {
      "url": "https://ula.app/join-our-team",
@@ -3749,7 +3669,7 @@
     {
      "url": "https://ula.app/careers.html",
      "status": 403,
-     "bytes": 263
+     "bytes": 243
     },
     {
      "url": "https://ula.app/company/careers",
@@ -3785,7 +3705,7 @@
     {
      "url": "https://www.ula.app/career",
      "status": 403,
-     "bytes": 263
+     "bytes": 243
     },
     {
      "url": "https://www.ula.app/jobs",
@@ -3800,7 +3720,7 @@
     {
      "url": "https://www.ula.app/join-our-team",
      "status": 403,
-     "bytes": 263
+     "bytes": 243
     },
     {
      "url": "https://www.ula.app/careers.html",
@@ -3815,12 +3735,12 @@
     {
      "url": "https://www.ula.app/about/careers",
      "status": 403,
-     "bytes": 263
+     "bytes": 243
     },
     {
      "url": "https://www.ula.app/current-openings",
      "status": 403,
-     "bytes": 263
+     "bytes": 243
     },
     {
      "url": "https://www.ula.app/",
@@ -3831,7 +3751,7 @@
    "candidates": [],
    "attempts": []
   },
-  "ms": 5784
+  "ms": 5915
  },
  {
   "company": "Unbxd",
@@ -3975,7 +3895,7 @@
     "workable:unbxd -> no board"
    ]
   },
-  "ms": 45563
+  "ms": 51173
  },
  {
   "company": "Uniphore",
@@ -4769,7 +4689,7 @@
     "workday:uniphore -> 37 jobs"
    ]
   },
-  "ms": 10769
+  "ms": 11859
  },
  {
   "company": "Unisys India",
@@ -5544,7 +5464,7 @@
     "workday:unisys -> 40 jobs"
    ]
   },
-  "ms": 13434
+  "ms": 11342
  },
  {
   "company": "UpGrad",
@@ -5703,7 +5623,7 @@
     "workable:upgrad -> no board"
    ]
   },
-  "ms": 13254
+  "ms": 11039
  },
  {
   "company": "Utthunga",
@@ -5824,7 +5744,7 @@
     "workable:utthunga -> no board"
    ]
   },
-  "ms": 18996
+  "ms": 17127
  },
  {
   "company": "United Airlines India",
@@ -6037,7 +5957,7 @@
     {
      "url": "https://ushur.com/careers",
      "status": 200,
-     "bytes": 205719
+     "bytes": 205173
     },
     {
      "url": "https://ushur.com/career",
@@ -6067,7 +5987,7 @@
     {
      "url": "https://ushur.com/company/careers",
      "status": 200,
-     "bytes": 205719
+     "bytes": 205173
     },
     {
      "url": "https://ushur.com/about/careers",
@@ -6082,7 +6002,7 @@
     {
      "url": "https://ushur.com/",
      "status": 200,
-     "bytes": 219599
+     "bytes": 219474
     }
    ],
    "candidates": [
@@ -6100,7 +6020,7 @@
     "workable:ushur -> no board"
    ]
   },
-  "ms": 13184
+  "ms": 14477
  },
  {
   "company": "Uplers",
@@ -6247,7 +6167,7 @@
     "workable:uplers -> no board"
    ]
   },
-  "ms": 6813
+  "ms": 5052
  },
  {
   "company": "Ubuy India",
@@ -6320,7 +6240,7 @@
     "workable:ubuy -> no board"
    ]
   },
-  "ms": 11600
+  "ms": 9726
  },
  {
   "company": "Udacity India",
@@ -6760,7 +6680,7 @@
     "greenhouse:udacity -> 16 jobs"
    ]
   },
-  "ms": 19276
+  "ms": 17542
  },
  {
   "company": "Uengage",
@@ -6847,7 +6767,7 @@
     "workable:uengage -> no board"
    ]
   },
-  "ms": 3807
+  "ms": 5127
  },
  {
   "company": "Ultratech Cement",
@@ -6996,7 +6916,7 @@
     "workable:ultratechcement -> no board"
    ]
   },
-  "ms": 2919
+  "ms": 4312
  },
  {
   "company": "Umbrella Infocare",
@@ -7240,7 +7160,7 @@
     {
      "url": "https://umbrellainfocare.com/career",
      "status": 200,
-     "bytes": 201996
+     "bytes": 201991
     },
     {
      "url": "https://umbrellainfocare.com/jobs",
@@ -7280,7 +7200,7 @@
     "workable:umbrellainfocare -> no board"
    ]
   },
-  "ms": 37368
+  "ms": 37472
  },
  {
   "company": "Uncia Technologies",
@@ -7562,7 +7482,7 @@
     "workable:unciatech -> no board"
    ]
   },
-  "ms": 18537
+  "ms": 19684
  },
  {
   "company": "Unifize",
@@ -7798,7 +7718,7 @@
     "recruitee:unifize -> no board"
    ]
   },
-  "ms": 9619
+  "ms": 9900
  },
  {
   "company": "Unify Technologies",
@@ -7896,7 +7816,7 @@
     "workable:unifytech -> no board"
    ]
   },
-  "ms": 11435
+  "ms": 8263
  },
  {
   "company": "Unilog",
@@ -7969,7 +7889,7 @@
     "workable:unilogcorp -> no board"
    ]
   },
-  "ms": 10852
+  "ms": 11068
  },
  {
   "company": "Uninstall.io",
@@ -7987,7 +7907,7 @@
    "pages": [],
    "attempts": []
   },
-  "ms": 90002
+  "ms": 90003
  },
  {
   "company": "Unified Infotech",
@@ -8284,17 +8204,17 @@
     {
      "url": "https://unifiedinfotech.net/career",
      "status": 404,
-     "bytes": 210642
+     "bytes": 210846
     },
     {
      "url": "https://unifiedinfotech.net/jobs",
      "status": 404,
-     "bytes": 210642
+     "bytes": 210846
     },
     {
      "url": "https://unifiedinfotech.net/join-us",
      "status": 404,
-     "bytes": 210642
+     "bytes": 210846
     },
     {
      "url": "https://unifiedinfotech.net/join-our-team",
@@ -8304,12 +8224,27 @@
     {
      "url": "https://unifiedinfotech.net/careers.html",
      "status": 404,
-     "bytes": 210642
+     "bytes": 210846
     },
     {
      "url": "https://unifiedinfotech.net/company/careers",
      "status": 404,
      "bytes": 210846
+    },
+    {
+     "url": "https://unifiedinfotech.net/about/careers",
+     "status": 200,
+     "bytes": 446040
+    },
+    {
+     "url": "https://unifiedinfotech.net/current-openings",
+     "status": 404,
+     "bytes": 210846
+    },
+    {
+     "url": "https://unifiedinfotech.net/",
+     "status": 200,
+     "bytes": 553601
     }
    ],
    "candidates": [
@@ -8327,7 +8262,7 @@
     "workable:unifiedinfotech -> no board"
    ]
   },
-  "ms": 24655
+  "ms": 31333
  },
  {
   "company": "Unnati",
@@ -8471,7 +8406,7 @@
     "workable:unnati -> no board"
    ]
   },
-  "ms": 8236
+  "ms": 8509
  },
  {
   "company": "udChalo (UpCurve Business Services)",
@@ -8676,7 +8611,7 @@
     "workable:udchalo -> no board"
    ]
   },
-  "ms": 3682
+  "ms": 3294
  },
  {
   "company": "Uplift Labs",
@@ -8840,7 +8775,7 @@
     "workable:upliftlabs -> no board"
    ]
   },
-  "ms": 16492
+  "ms": 19819
  },
  {
   "company": "Upstack India",
@@ -8943,7 +8878,7 @@
     "greenhouse:upstack -> 1 jobs"
    ]
   },
-  "ms": 11883
+  "ms": 12848
  },
  {
   "company": "Urbanpiper",
@@ -9032,7 +8967,7 @@
     "workable:urbanpiper -> no board"
    ]
   },
-  "ms": 17527
+  "ms": 17383
  },
  {
   "company": "Urja Global",
@@ -9176,7 +9111,7 @@
     "workable:urjaglobal -> no board"
    ]
   },
-  "ms": 28186
+  "ms": 31036
  },
  {
   "company": "Ultrahuman",
@@ -9201,52 +9136,52 @@
     {
      "url": "https://ultrahuman.com/careers",
      "status": 404,
-     "bytes": 166214
+     "bytes": 166456
     },
     {
      "url": "https://ultrahuman.com/career",
      "status": 404,
-     "bytes": 166214
+     "bytes": 166456
     },
     {
      "url": "https://ultrahuman.com/jobs",
      "status": 404,
-     "bytes": 166214
+     "bytes": 166456
     },
     {
      "url": "https://ultrahuman.com/join-us",
      "status": 404,
-     "bytes": 166214
+     "bytes": 166456
     },
     {
      "url": "https://ultrahuman.com/join-our-team",
      "status": 404,
-     "bytes": 166214
+     "bytes": 166456
     },
     {
      "url": "https://ultrahuman.com/careers.html",
      "status": 404,
-     "bytes": 166214
+     "bytes": 166456
     },
     {
      "url": "https://ultrahuman.com/company/careers",
      "status": 404,
-     "bytes": 166214
+     "bytes": 166456
     },
     {
      "url": "https://ultrahuman.com/about/careers",
      "status": 404,
-     "bytes": 166214
+     "bytes": 166456
     },
     {
      "url": "https://ultrahuman.com/current-openings",
      "status": 404,
-     "bytes": 166214
+     "bytes": 166456
     },
     {
      "url": "https://ultrahuman.com/",
      "status": 200,
-     "bytes": 342802
+     "bytes": 343019
     },
     {
      "url": "https://careers.www.ultrahuman.com",
@@ -9257,52 +9192,52 @@
     {
      "url": "https://www.ultrahuman.com/careers",
      "status": 404,
-     "bytes": 166214
+     "bytes": 166456
     },
     {
      "url": "https://www.ultrahuman.com/career",
      "status": 404,
-     "bytes": 166214
+     "bytes": 166456
     },
     {
      "url": "https://www.ultrahuman.com/jobs",
      "status": 404,
-     "bytes": 166214
+     "bytes": 166456
     },
     {
      "url": "https://www.ultrahuman.com/join-us",
      "status": 404,
-     "bytes": 166214
+     "bytes": 166456
     },
     {
      "url": "https://www.ultrahuman.com/join-our-team",
      "status": 404,
-     "bytes": 166214
+     "bytes": 166456
     },
     {
      "url": "https://www.ultrahuman.com/careers.html",
      "status": 404,
-     "bytes": 166214
+     "bytes": 166456
     },
     {
      "url": "https://www.ultrahuman.com/company/careers",
      "status": 404,
-     "bytes": 166214
+     "bytes": 166456
     },
     {
      "url": "https://www.ultrahuman.com/about/careers",
      "status": 404,
-     "bytes": 166214
+     "bytes": 166456
     },
     {
      "url": "https://www.ultrahuman.com/current-openings",
      "status": 404,
-     "bytes": 166214
+     "bytes": 166456
     },
     {
      "url": "https://www.ultrahuman.com/",
      "status": 200,
-     "bytes": 342801
+     "bytes": 343019
     }
    ],
    "candidates": [
@@ -9320,7 +9255,7 @@
     "workable:ultrahuman -> no board"
    ]
   },
-  "ms": 14865
+  "ms": 15546
  },
  {
   "company": "Ultraviolette Automotive",
@@ -9857,7 +9792,7 @@
     {
      "url": "https://ultraviolette.com/careers.html",
      "status": 200,
-     "bytes": 161012
+     "bytes": 161035
     }
    ],
    "candidates": [
@@ -9887,7 +9822,7 @@
     "workable:ultraviolette -> no board"
    ]
   },
-  "ms": 9064
+  "ms": 9189
  },
  {
   "company": "Urban Ladder",
@@ -9940,7 +9875,7 @@
     "workable:urbanladder -> no board"
    ]
   },
-  "ms": 10066
+  "ms": 9841
  },
  {
   "company": "Uni Cards",
@@ -10002,7 +9937,7 @@
     "workable:unicards -> no board"
    ]
   },
-  "ms": 5356
+  "ms": 6320
  },
  {
   "company": "Ujjivan Small Finance Bank",
@@ -10106,7 +10041,7 @@
     "workable:ujjivansfb -> no board"
    ]
   },
-  "ms": 7715
+  "ms": 6058
  },
  {
   "company": "Utkarsh Small Finance Bank",
@@ -10147,7 +10082,7 @@
     {
      "url": "https://utkarsh.bank.in/jobs",
      "status": 404,
-     "bytes": 200407
+     "bytes": 200430
     }
    ],
    "candidates": [
@@ -10175,7 +10110,7 @@
     "workable:utkarsh -> no board"
    ]
   },
-  "ms": 20569
+  "ms": 18077
  },
  {
   "company": "U GRO Capital",
@@ -10206,7 +10141,7 @@
     {
      "url": "https://ugrocapital.com/careers",
      "status": 200,
-     "bytes": 171534
+     "bytes": 172326
     },
     {
      "url": "https://ugrocapital.com/career",
@@ -10229,7 +10164,7 @@
     "workable:ugrocapital -> no board"
    ]
   },
-  "ms": 9681
+  "ms": 8302
  },
  {
   "company": "UTI Asset Management",
@@ -10383,7 +10318,7 @@
     "workable:utimf -> no board"
    ]
   },
-  "ms": 7600
+  "ms": 7845
  },
  {
   "company": "Union Bank of India",
@@ -10542,7 +10477,7 @@
     "workable:unionbankofindia -> no board"
    ]
   },
-  "ms": 44815
+  "ms": 37822
  },
  {
   "company": "Uno Minda",
@@ -10638,7 +10573,7 @@
     "workable:unominda -> no board"
    ]
   },
-  "ms": 6376
+  "ms": 6753
  },
  {
   "company": "UPL Limited",
@@ -11311,7 +11246,7 @@
     "successfactors:careers.upl-ltd.com -> 27 jobs"
    ]
   },
-  "ms": 19308
+  "ms": 6092
  },
  {
   "company": "Uniqus Consultech",
@@ -11331,7 +11266,7 @@
     {
      "url": "https://uniqus.com/careers/",
      "status": 200,
-     "bytes": 424224
+     "bytes": 424186
     },
     {
      "url": "https://careers.uniqus.com",
@@ -11342,12 +11277,12 @@
     {
      "url": "https://uniqus.com/careers",
      "status": 200,
-     "bytes": 424224
+     "bytes": 424186
     },
     {
      "url": "https://uniqus.com/career",
      "status": 200,
-     "bytes": 424224
+     "bytes": 424186
     },
     {
      "url": "https://uniqus.com/jobs",
@@ -11387,7 +11322,7 @@
     "workable:uniqus -> no board"
    ]
   },
-  "ms": 28709
+  "ms": 23922
  },
  {
   "company": "Unicommerce eSolutions",
@@ -11501,7 +11436,7 @@
     {
      "url": "https://unicommerce.com/life-at-unicommerce/",
      "status": 200,
-     "bytes": 397774
+     "bytes": 397769
     },
     {
      "url": "https://careers.unicommerce.com",
@@ -11512,12 +11447,12 @@
     {
      "url": "https://unicommerce.com/careers",
      "status": 200,
-     "bytes": 397774
+     "bytes": 397769
     },
     {
      "url": "https://unicommerce.com/career",
      "status": 200,
-     "bytes": 397774
+     "bytes": 397769
     },
     {
      "url": "https://unicommerce.com/jobs",
@@ -11577,7 +11512,7 @@
     "keka:unicommerce -> 2 jobs"
    ]
   },
-  "ms": 1180
+  "ms": 16338
  },
  {
   "company": "UnifyApps",
@@ -11630,7 +11565,7 @@
     "workable:unifyapps -> no board"
    ]
   },
-  "ms": 6042
+  "ms": 3517
  },
  {
   "company": "Uniqode",
@@ -11782,7 +11717,7 @@
     "workable:uniqode -> no board"
    ]
   },
-  "ms": 9560
+  "ms": 17842
  },
  {
   "company": "Unolo",
@@ -11936,7 +11871,7 @@
     "workable:unolo -> no board"
    ]
   },
-  "ms": 3327
+  "ms": 3227
  },
  {
   "company": "UptimeAI",
@@ -12363,7 +12298,7 @@
     "ashby:uptimeai -> 10 jobs (guess, name-verified)"
    ]
   },
-  "ms": 24783
+  "ms": 23260
  },
  {
   "company": "Unbox Robotics",
@@ -13149,7 +13084,7 @@
     "workable:unboxrobotics -> no board"
    ]
   },
-  "ms": 10996
+  "ms": 3417
  },
  {
   "company": "uTrade Solutions",
@@ -13313,7 +13248,7 @@
     "workable:utradesolutions -> no board"
    ]
   },
-  "ms": 12929
+  "ms": 11986
  },
  {
   "company": "Unimity Solutions",
@@ -13392,7 +13327,7 @@
     "workable:unimity -> no board"
    ]
   },
-  "ms": 4628
+  "ms": 3159
  },
  {
   "company": "U2opia Mobile",
@@ -13561,7 +13496,7 @@
     "workable:u2opia -> no board"
    ]
   },
-  "ms": 13809
+  "ms": 14838
  },
  {
   "company": "UnitedLex",
@@ -13735,7 +13670,7 @@
     "workable:unitedlex -> no board"
    ]
   },
-  "ms": 20507
+  "ms": 14684
  },
  {
   "company": "Uolo",
@@ -13884,7 +13819,7 @@
     "workable:uolo -> no board"
    ]
   },
-  "ms": 4044
+  "ms": 3950
  },
  {
   "company": "uFaber Edutech",
@@ -14038,7 +13973,7 @@
     "workable:ufaber -> no board"
    ]
   },
-  "ms": 5195
+  "ms": 6208
  },
  {
   "company": "Urbanic",
@@ -14068,7 +14003,7 @@
     {
      "url": "https://urbanic.com/career",
      "status": 200,
-     "bytes": 62045
+     "bytes": 62046
     },
     {
      "url": "https://urbanic.com/jobs",
@@ -14078,37 +14013,37 @@
     {
      "url": "https://urbanic.com/join-us",
      "status": 200,
-     "bytes": 62047
+     "bytes": 62040
     },
     {
      "url": "https://urbanic.com/join-our-team",
      "status": 200,
-     "bytes": 62044
+     "bytes": 62046
     },
     {
      "url": "https://urbanic.com/careers.html",
      "status": 200,
-     "bytes": 62040
+     "bytes": 62043
     },
     {
      "url": "https://urbanic.com/company/careers",
      "status": 200,
-     "bytes": 62045
+     "bytes": 62044
     },
     {
      "url": "https://urbanic.com/about/careers",
      "status": 200,
-     "bytes": 62047
+     "bytes": 62038
     },
     {
      "url": "https://urbanic.com/current-openings",
      "status": 200,
-     "bytes": 62047
+     "bytes": 62038
     },
     {
      "url": "https://urbanic.com/",
      "status": 200,
-     "bytes": 62043
+     "bytes": 62047
     },
     {
      "url": "https://careers.www.urbanic.com",
@@ -14119,32 +14054,32 @@
     {
      "url": "https://www.urbanic.com/careers",
      "status": 200,
-     "bytes": 62045
+     "bytes": 62047
     },
     {
      "url": "https://www.urbanic.com/career",
      "status": 200,
-     "bytes": 62045
+     "bytes": 62047
     },
     {
      "url": "https://www.urbanic.com/jobs",
      "status": 200,
-     "bytes": 62045
+     "bytes": 62046
     },
     {
      "url": "https://www.urbanic.com/join-us",
      "status": 200,
-     "bytes": 62042
+     "bytes": 62044
     },
     {
      "url": "https://www.urbanic.com/join-our-team",
      "status": 200,
-     "bytes": 62047
+     "bytes": 62044
     },
     {
      "url": "https://www.urbanic.com/careers.html",
      "status": 200,
-     "bytes": 62048
+     "bytes": 62047
     },
     {
      "url": "https://www.urbanic.com/company/careers",
@@ -14154,12 +14089,12 @@
     {
      "url": "https://www.urbanic.com/about/careers",
      "status": 200,
-     "bytes": 62044
+     "bytes": 62046
     },
     {
      "url": "https://www.urbanic.com/current-openings",
      "status": 200,
-     "bytes": 62045
+     "bytes": 62046
     },
     {
      "url": "https://www.urbanic.com/",
@@ -14182,7 +14117,7 @@
     "workable:urbanic -> no board"
    ]
   },
-  "ms": 11102
+  "ms": 6547
  },
  {
   "company": "USEReady",
@@ -14221,7 +14156,7 @@
     {
      "url": "https://useready.com/join-us",
      "status": 200,
-     "bytes": 107563
+     "bytes": 107559
     }
    ],
    "candidates": [
@@ -14239,7 +14174,7 @@
     "workable:useready -> no board"
    ]
   },
-  "ms": 40110
+  "ms": 47168
  },
  {
   "company": "Upland Software",
@@ -14375,7 +14310,7 @@
     "workable:uplandsoftware -> no board"
    ]
   },
-  "ms": 16439
+  "ms": 19405
  },
  {
   "company": "Unravel Data",
@@ -14548,7 +14483,7 @@
     "workable:unraveldata -> no board"
    ]
   },
-  "ms": 13917
+  "ms": 14376
  },
  {
   "company": "Uptycs",
@@ -14737,7 +14672,7 @@
     "workable:uptycs -> no board"
    ]
   },
-  "ms": 30351
+  "ms": 34602
  },
  {
   "company": "Unity Technologies",
@@ -14826,12 +14761,12 @@
     {
      "url": "https://unity.com/careers",
      "status": 200,
-     "bytes": 370008
+     "bytes": 369998
     },
     {
      "url": "https://careers.unity.com",
      "status": 200,
-     "bytes": 370008
+     "bytes": 369998
     },
     {
      "url": "https://unity.com/career",
@@ -14869,7 +14804,7 @@
     "workable:unity -> no board"
    ]
   },
-  "ms": 11053
+  "ms": 10317
  },
  {
   "company": "UBS",
@@ -14915,7 +14850,7 @@
    "candidates": [],
    "attempts": []
   },
-  "ms": 12031
+  "ms": 10895
  },
  {
   "company": "UKG",
@@ -15717,7 +15652,7 @@
    "candidates": [],
    "attempts": []
   },
-  "ms": 20970
+  "ms": 28565
  },
  {
   "company": "UPS",
@@ -15758,7 +15693,7 @@
     {
      "url": "https://ups.com/jobs",
      "status": 200,
-     "bytes": 14430
+     "bytes": 14429
     },
     {
      "url": "https://ups.com/join-us",
@@ -15768,7 +15703,7 @@
     {
      "url": "https://ups.com/join-our-team",
      "status": 200,
-     "bytes": 14430
+     "bytes": 14429
     },
     {
      "url": "https://ups.com/careers.html",
@@ -15799,7 +15734,7 @@
    "candidates": [],
    "attempts": []
   },
-  "ms": 27973
+  "ms": 26793
  },
  {
   "company": "Unilever",
@@ -16155,36 +16090,6 @@
     "score": 4
    },
    {
-    "title": "Ausbildung Fachkraft für Lagerlogistik (d/w/m) – 2027",
-    "location": "Heilbronn",
-    "url": "https://unilever.wd3.myworkdayjobs.com/Unilever_Experienced_Professionals/job/Heilbronn/Ausbildung-Fachkraft-fr-Lagerlogistik--d-w-m----2027_R-1183812",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 4
-   },
-   {
-    "title": "Ausbildung Fachkraft für Lebensmitteltechnik (d/w/m) - 2026",
-    "location": "Auerbach, Germany",
-    "url": "https://unilever.wd3.myworkdayjobs.com/Unilever_Experienced_Professionals/job/Auerbach-Germany/Ausbildung-Fachkraft-fr-Lebensmitteltechnik--w-m-d----2026_R-81898",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 4
-   },
-   {
     "title": "Assistant Manager - Balance Sheet Reporting",
     "location": "Uniops Bangalore Centre",
     "url": "https://unilever.wd3.myworkdayjobs.com/Unilever_Experienced_Professionals/job/Uniops-Bangalore-Centre/Assistant-Manager---Balance-Sheet-Reporting_R-1186480",
@@ -16288,6 +16193,36 @@
     "exp": [],
     "expFits2": false,
     "score": -6
+   },
+   {
+    "title": "Assistant Marketing Manager - UI Thailand, Japan",
+    "location": "Bangkok, Thailand",
+    "url": "https://unilever.wd3.myworkdayjobs.com/Unilever_Experienced_Professionals/job/Bangkok-Thailand/Assistant-Marketing-Manager---UI-Thailand--Japan_R-1185840",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [],
+    "expFits2": false,
+    "score": -18
+   },
+   {
+    "title": "Senior General Trade Channel Executive",
+    "location": "Vientiane, Laos",
+    "url": "https://unilever.wd3.myworkdayjobs.com/Unilever_Experienced_Professionals/job/Vientiane-Laos/Senior-General-Trade-Channel-Executive_R-1186434",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [],
+    "expFits2": false,
+    "score": -18
    },
    {
     "title": "Key Account Manager (KAM) – DISCOUNTER",
@@ -16440,12 +16375,12 @@
     {
      "url": "https://careers.unilever.com/",
      "status": 200,
-     "bytes": 68803
+     "bytes": 68825
     },
     {
      "url": "https://careers.unilever.com",
      "status": 200,
-     "bytes": 68803
+     "bytes": 68825
     },
     {
      "url": "https://unilever.com/careers",
@@ -16510,7 +16445,7 @@
     "workday:unilever -> 40 jobs"
    ]
   },
-  "ms": 6808
+  "ms": 7350
  },
  {
   "company": "UL Solutions",
@@ -16530,7 +16465,7 @@
     {
      "url": "https://www.ul.com/careers",
      "status": 200,
-     "bytes": 372081
+     "bytes": 372087
     },
     {
      "url": "https://careers.ul.com",
@@ -16541,12 +16476,12 @@
     {
      "url": "https://ul.com/careers",
      "status": 200,
-     "bytes": 372081
+     "bytes": 372087
     },
     {
      "url": "https://ul.com/career",
      "status": 200,
-     "bytes": 372081
+     "bytes": 372087
     },
     {
      "url": "https://ul.com/jobs",
@@ -16556,18 +16491,13 @@
     {
      "url": "https://ul.com/join-us",
      "status": 404,
-     "bytes": 229278
-    },
-    {
-     "url": "https://ul.com/join-our-team",
-     "status": 404,
-     "bytes": 229284
+     "bytes": 33528
     }
    ],
    "candidates": [],
    "attempts": []
   },
-  "ms": 2366
+  "ms": 5179
  },
  {
   "company": "U.S. Bank",
@@ -16676,6 +16606,51 @@
     ],
     "expFits2": false,
     "score": 33
+   },
+   {
+    "title": "Perf Ops Support Assoc",
+    "location": "Chennai, India",
+    "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Chennai-India/Perf-Ops-Support-Assoc_2026-0014562",
+    "india": true,
+    "locationSaysIndia": true,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 19
+   },
+   {
+    "title": "Perf Ops Support Assoc",
+    "location": "Chennai, India",
+    "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Chennai-India/Perf-Ops-Support-Assoc_2026-0014561-1",
+    "india": true,
+    "locationSaysIndia": true,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 19
+   },
+   {
+    "title": "Perf Ops Support Assoc",
+    "location": "Chennai, India",
+    "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Chennai-India/Perf-Ops-Support-Assoc_2026-0014559",
+    "india": true,
+    "locationSaysIndia": true,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 19
    },
    {
     "title": "Client Relationship Consultant 2 (Banker) - Pickerington, OH",
@@ -17023,36 +16998,6 @@
     "score": 4
    },
    {
-    "title": "Client Relationship Consultant 4 (Banker) Montgomery, OH Office",
-    "location": "Cincinnati, OH",
-    "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Cincinnati-OH/Client-Relationship-Consultant-4--Banker--Montgomery--OH-Office_2026-0024424",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 4
-   },
-   {
-    "title": "Credit Support Analyst",
-    "location": "Tempe, AZ",
-    "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Tempe-AZ/Portfolio-Monitoring-Analyst-1_2026-0011325",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 4
-   },
-   {
     "title": "Derivative Products Operations Risk Manager",
     "location": "3 Locations",
     "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Earth-City-MO/Derivative-Products-Operations-Risk-Manager_2026-0016441-1",
@@ -17161,21 +17106,6 @@
     "title": "PWM Portfolio Manager",
     "location": "Irvine, CA",
     "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Irvine-CA/PWM-Portfolio-Manager_2026-0009435",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": true,
-    "exp": [],
-    "expFits2": false,
-    "score": -18
-   },
-   {
-    "title": "Senior Marketing Manager - Vice President",
-    "location": "5 Locations",
-    "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Minneapolis-MN/Senior-Marketing-Manager---Vice-President_2026-0021306",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
@@ -17315,32 +17245,7 @@
     {
      "url": "https://usbank.com/join-our-team",
      "status": 404,
-     "bytes": 196397
-    },
-    {
-     "url": "https://usbank.com/careers.html",
-     "status": 200,
-     "bytes": 934192
-    },
-    {
-     "url": "https://usbank.com/company/careers",
-     "status": 404,
-     "bytes": 196397
-    },
-    {
-     "url": "https://usbank.com/about/careers",
-     "status": 404,
-     "bytes": 196397
-    },
-    {
-     "url": "https://usbank.com/current-openings",
-     "status": 404,
-     "bytes": 196397
-    },
-    {
-     "url": "https://usbank.com/",
-     "status": 200,
-     "bytes": 256958
+     "bytes": 196430
     }
    ],
    "candidates": [
@@ -17356,7 +17261,7 @@
     "workday:usbank -> 40 jobs"
    ]
   },
-  "ms": 21838
+  "ms": 15746
  },
  {
   "company": "Udemy",
@@ -17633,7 +17538,7 @@
     {
      "url": "https://about.udemy.com/careers/",
      "status": 403,
-     "bytes": 5771
+     "bytes": 5793
     },
     {
      "url": "https://careers.udemy.com",
@@ -17644,16 +17549,6 @@
      "url": "https://udemy.com/careers",
      "status": 403,
      "bytes": 5762
-    },
-    {
-     "url": "https://udemy.com/career",
-     "status": 403,
-     "bytes": 5759
-    },
-    {
-     "url": "https://udemy.com/jobs",
-     "status": 403,
-     "bytes": 5731
     }
    ],
    "candidates": [
@@ -17667,7 +17562,7 @@
     "greenhouse:udemy -> 12 jobs (guess, name-verified)"
    ]
   },
-  "ms": 1157
+  "ms": 687
  },
  {
   "company": "Unlimit",
@@ -18929,12 +18824,12 @@
     {
      "url": "https://unlimit.com/careers",
      "status": 200,
-     "bytes": 214936
+     "bytes": 214934
     },
     {
      "url": "https://unlimit.com/career",
      "status": 200,
-     "bytes": 214936
+     "bytes": 214934
     },
     {
      "url": "https://unlimit.com/jobs",
@@ -18949,12 +18844,12 @@
     {
      "url": "https://unlimit.com/join-our-team",
      "status": 200,
-     "bytes": 214936
+     "bytes": 214934
     },
     {
      "url": "https://unlimit.com/careers.html",
      "status": 200,
-     "bytes": 214932
+     "bytes": 214936
     },
     {
      "url": "https://unlimit.com/company/careers",
@@ -18964,12 +18859,12 @@
     {
      "url": "https://unlimit.com/about/careers",
      "status": 200,
-     "bytes": 214934
+     "bytes": 214936
     },
     {
      "url": "https://unlimit.com/current-openings",
      "status": 200,
-     "bytes": 214934
+     "bytes": 214936
     },
     {
      "url": "https://unlimit.com/",
@@ -18984,33 +18879,13 @@
     },
     {
      "url": "https://www.unlimit.com/careers",
-     "status": 200,
-     "bytes": 214934
+     "status": 429,
+     "bytes": 5771
     },
     {
      "url": "https://www.unlimit.com/career",
-     "status": 200,
-     "bytes": 214934
-    },
-    {
-     "url": "https://www.unlimit.com/jobs",
-     "status": 200,
-     "bytes": 214936
-    },
-    {
-     "url": "https://www.unlimit.com/join-us",
-     "status": 200,
-     "bytes": 214936
-    },
-    {
-     "url": "https://www.unlimit.com/join-our-team",
      "status": 429,
-     "bytes": 5772
-    },
-    {
-     "url": "https://www.unlimit.com/careers.html",
-     "status": 429,
-     "bytes": 5826
+     "bytes": 5787
     }
    ],
    "candidates": [
@@ -19025,7 +18900,7 @@
     "lever:unlimit -> 58 jobs (guess, name-verified)"
    ]
   },
-  "ms": 17174
+  "ms": 13580
  },
  {
   "company": "Urolime Technologies",
@@ -19296,7 +19171,7 @@
     "workable:urolime -> no board"
    ]
   },
-  "ms": 17460
+  "ms": 18324
  },
  {
   "company": "Unthinkable Solutions",
@@ -19349,7 +19224,7 @@
     "workable:unthinkable -> no board"
    ]
   },
-  "ms": 34057
+  "ms": 29942
  },
  {
   "company": "Uneecops Technologies",
@@ -19549,7 +19424,7 @@
     {
      "url": "https://www.uneecops.com/talent/",
      "status": 200,
-     "bytes": 544030
+     "bytes": 544015
     },
     {
      "url": "https://careers.uneecops.com",
@@ -19560,17 +19435,17 @@
     {
      "url": "https://uneecops.com/careers",
      "status": 404,
-     "bytes": 252750
+     "bytes": 252755
     },
     {
      "url": "https://uneecops.com/career",
      "status": 200,
-     "bytes": 544030
+     "bytes": 544015
     },
     {
      "url": "https://uneecops.com/jobs",
      "status": 200,
-     "bytes": 411210
+     "bytes": 411216
     }
    ],
    "candidates": [
@@ -19588,7 +19463,7 @@
     "workable:uneecops -> no board"
    ]
   },
-  "ms": 11448
+  "ms": 13447
  },
  {
   "company": "Unico Connect",
@@ -20451,7 +20326,7 @@
     "workable:unicoconnect -> no board"
    ]
   },
-  "ms": 6724
+  "ms": 6345
  },
  {
   "company": "Uplogic Technologies",
@@ -20555,7 +20430,7 @@
     "workable:uplogictech -> no board"
    ]
   },
-  "ms": 47589
+  "ms": 43371
  },
  {
   "company": "Universal Sompo General Insurance",
@@ -20709,7 +20584,7 @@
     "workable:universalsompo -> no board"
    ]
   },
-  "ms": 17937
+  "ms": 21201
  },
  {
   "company": "Univariety",
@@ -20856,7 +20731,7 @@
     "workable:univariety -> no board"
    ]
   },
-  "ms": 2878
+  "ms": 4993
  },
  {
   "company": "Unifynd Technologies",
@@ -20950,7 +20825,7 @@
     "workable:unifynd -> no board"
    ]
   },
-  "ms": 22571
+  "ms": 21820
  },
  {
   "company": "Ultroneous Technologies",
@@ -21023,7 +20898,7 @@
     "workable:ultroneous -> no board"
    ]
   },
-  "ms": 5563
+  "ms": 5430
  },
  {
   "company": "Ummeed Housing Finance",
@@ -21098,7 +20973,7 @@
     {
      "url": "https://ummeedhfc.com/careers",
      "status": 200,
-     "bytes": 86641
+     "bytes": 86642
     },
     {
      "url": "https://ummeedhfc.com/career",
@@ -21113,22 +20988,22 @@
     {
      "url": "https://ummeedhfc.com/join-us",
      "status": 200,
-     "bytes": 86642
+     "bytes": 86641
     },
     {
      "url": "https://ummeedhfc.com/join-our-team",
      "status": 200,
-     "bytes": 86641
+     "bytes": 86642
     },
     {
      "url": "https://ummeedhfc.com/careers.html",
      "status": 200,
-     "bytes": 86641
+     "bytes": 86639
     },
     {
      "url": "https://ummeedhfc.com/company/careers",
      "status": 200,
-     "bytes": 86640
+     "bytes": 86641
     },
     {
      "url": "https://ummeedhfc.com/about/careers",
@@ -21138,12 +21013,12 @@
     {
      "url": "https://ummeedhfc.com/current-openings",
      "status": 200,
-     "bytes": 86642
+     "bytes": 86641
     },
     {
      "url": "https://ummeedhfc.com/",
      "status": 200,
-     "bytes": 86641
+     "bytes": 86642
     },
     {
      "url": "https://careers.www.ummeedhfc.com",
@@ -21187,7 +21062,7 @@
     "workable:ummeedhfc -> no board"
    ]
   },
-  "ms": 16271
+  "ms": 16662
  },
  {
   "company": "Unity Small Finance Bank",
@@ -21207,7 +21082,7 @@
     {
      "url": "https://unity.bank.in/careers",
      "status": 200,
-     "bytes": 263401
+     "bytes": 263395
     },
     {
      "url": "https://careers.unity.bank.in",
@@ -21271,7 +21146,7 @@
     "workable:unity -> no board"
    ]
   },
-  "ms": 5687
+  "ms": 7373
  },
  {
   "company": "Ustraa",
@@ -21296,17 +21171,22 @@
     {
      "url": "https://ustraa.com/careers",
      "status": 404,
-     "bytes": 394575
+     "bytes": 396262
     },
     {
      "url": "https://ustraa.com/career",
      "status": 404,
-     "bytes": 392279
+     "bytes": 403708
     },
     {
      "url": "https://ustraa.com/jobs",
      "status": 404,
-     "bytes": 394543
+     "bytes": 396257
+    },
+    {
+     "url": "https://ustraa.com/join-us",
+     "status": 404,
+     "bytes": 403681
     }
    ],
    "candidates": [
@@ -21324,7 +21204,7 @@
     "workable:ustraa -> no board"
    ]
   },
-  "ms": 7776
+  "ms": 10935
  },
  {
   "company": "Upshot.ai",
@@ -21393,7 +21273,7 @@
     {
      "url": "https://careers.upshot.ai",
      "status": 200,
-     "bytes": 197359
+     "bytes": 197348
     },
     {
      "url": "https://upshot.ai/careers",
@@ -21436,7 +21316,7 @@
     "workable:upshot -> no board"
    ]
   },
-  "ms": 11000
+  "ms": 11617
  },
  {
   "company": "Uravu Labs",
@@ -21590,7 +21470,7 @@
     "workable:uravulabs -> no board"
    ]
   },
-  "ms": 6455
+  "ms": 6423
  },
  {
   "company": "Unlu",
@@ -21734,7 +21614,7 @@
     "workable:unlu -> no board"
    ]
   },
-  "ms": 2981
+  "ms": 3420
  },
  {
   "company": "UrbanMatrix Technologies",
@@ -21878,7 +21758,7 @@
     "workable:urbanmatrix -> no board"
    ]
   },
-  "ms": 3213
+  "ms": 3196
  },
  {
   "company": "Uniquify",
@@ -22022,7 +21902,7 @@
     "workable:uniquify -> no board"
    ]
   },
-  "ms": 18105
+  "ms": 17880
  },
  {
   "company": "Unimoni India",
@@ -22057,7 +21937,12 @@
     {
      "url": "https://unimoni.in/jobs",
      "status": 200,
-     "bytes": 138453
+     "bytes": 136427
+    },
+    {
+     "url": "https://unimoni.in/join-us",
+     "status": 200,
+     "bytes": 138455
     }
    ],
    "candidates": [
@@ -22075,6 +21960,6 @@
     "workable:unimoni -> no board"
    ]
   },
-  "ms": 5165
+  "ms": 12983
  }
 ]

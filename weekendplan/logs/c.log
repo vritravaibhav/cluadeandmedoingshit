@@ -1,3 +1,341 @@
 Checking 332 companies (concurrency 8)
 
 [  1/332] Clover Infotech              !! blocked-or-error-response
+[  2/332] Cybage Software               10 jobs  via html:https://www.cybage.com/careers/open-positions
+[  3/332] Calsoft                      !! careers-page-read-but-lists-no-openings
+[  4/332] Covalensedigital             !! careers-page-read-but-lists-no-openings
+[  5/332] Celebal Technologies           8 jobs  via headings:https://celebaltech.com/careers
+[  6/332] Congruent Solutions            5 jobs  via wordpress:https://www.congruentsolutions.com
+[  7/332] CitiusTech                     7 jobs  via headings:https://www.citiustech.com/careers
+[  8/332] Clarion Technologies          35 jobs  via headings:https://www.clariontech.com/careers
+[  9/332] Cloud4C                        2 jobs  via headings:https://www.cloud4c.com/careers
+[ 10/332] CloudThat                     86 jobs  via keka:cloudthat   ** 1 MATCH **
+[ 11/332] Coforge                      !! careers-page-read-but-lists-no-openings
+[ 12/332] Codewave Technologies          5 jobs  via wordpress:https://codewave.com
+[ 13/332] Cygnet.One                     5 jobs  via headings:https://www.cygnet.one/careers
+[ 14/332] Cyntexa                       48 jobs  via headings:https://cyntexa.com/careers/
+[ 15/332] Cyber Infrastructure          60 jobs  via headings:https://career.cisin.com/   ** 1 MATCH **
+[ 16/332] CodeClouds                    12 jobs  via html:https://careers.codeclouds.com/
+[ 17/332] Cynoteck Technology Solution !! careers-page-read-but-lists-no-openings
+[ 18/332] Cybertech Systems and Softwa  14 jobs  via wordpress:https://cybertech.com
+[ 19/332] Cubet Techno Labs            !! careers-page-read-but-lists-no-openings
+[ 20/332] Creole Studios                 0 jobs  via zohorecruit:creolestudios (0 open)
+[ 21/332] CloudSufi                     10 jobs  via keka:cloudsufi
+[ 22/332] Crest Data                    12 jobs  via headings:https://www.crestdata.ai/careers/
+[ 23/332] Cyient                       !! timed-out
+[ 24/332] Cavisson Systems             !! timed-out
+[ 25/332] Codewalla                      5 jobs  via headings:https://www.codewalla.com/jobs
+[ 26/332] Coditas                        2 jobs  via headings:https://www.coditas.com/careers
+[ 27/332] Concetto Labs                 32 jobs  via headings:https://www.concettolabs.com/careers
+[ 28/332] CEDCOSS Technologies          12 jobs  via headings:https://cedcoss.com/careers
+[ 29/332] Codezeros                    !! careers-page-read-but-lists-no-openings
+[ 30/332] CoreEL Technologies           24 jobs  via wordpress:https://coreel.com
+[ 31/332] CG-VAK Software              !! careers-page-read-but-lists-no-openings
+[ 32/332] Calibraint                    11 jobs  via keka:calibraint   ** 1 MATCH **
+[ 33/332] Confianz Global              !! blocked-or-error-response
+[ 34/332] Chargebee                      3 jobs  via successfactors:jobs.chargebee.com
+[ 35/332] Chapter247 Infotech           17 jobs  via headings:https://www.chapter247.com/jobs
+[ 36/332] CleverTap                      9 jobs  via headings:https://clevertap.com/careers/
+[ 37/332] Consagous Technologies         4 jobs  via headings:https://www.consagous.co/index.php?/career
+[ 38/332] Capillary Technologies       !! blocked-or-error-response
+[ 39/332] Cars24                         4 jobs  via headings:https://www.cars24.com/careers/
+[ 40/332] CarDekho                     !! careers-page-read-but-lists-no-openings
+[ 41/332] CRED                           6 jobs  via lever:cred
+[ 42/332] Cambridge Technology         !! timed-out
+[ 43/332] Crest Infosystems            !! timed-out
+[ 44/332] Cashfree Payments              8 jobs  via headings:https://www.cashfree.com/careers/
+[ 45/332] Chalo                         29 jobs  via headings:https://chalo.com/jobs
+[ 46/332] Country Delight              !! careers-page-read-but-lists-no-openings
+[ 47/332] CoinDCX                      !! blocked-or-error-response
+[ 48/332] Cult.fit                     !! careers-page-read-but-lists-no-openings
+[ 49/332] CommLab India                !! careers-page-read-but-lists-no-openings
+[ 50/332] Clear                         41 jobs  via greenhouse:clear
+[ 51/332] Cleartrip                      4 jobs  via headings:https://careers.cleartrip.com/
+[ 52/332] CoinSwitch                   !! careers-page-read-but-lists-no-openings
+[ 53/332] Classplus                    !! careers-page-read-but-lists-no-openings
+[ 54/332] Curefoods                    !! careers-page-read-but-lists-no-openings
+[ 55/332] Cogoport                     !! careers-page-read-but-lists-no-openings
+[ 56/332] Cashify                      !! careers-page-read-but-lists-no-openings
+[ 57/332] CashKaro                      42 jobs  via headings:https://cashkaro.freshteam.com/jobs
+[ 58/332] CloudSEK                      25 jobs  via greenhouse:cloudsek
+[ 59/332] Collegedunia                  13 jobs  via headings:https://collegedunia.com/career
+[ 60/332] Cropin Technology              2 jobs  via keka:cropinhrms
+[ 61/332] Coding Ninjas                  6 jobs  via headings:https://www.codingninjas.com/programs/job-bootcamp-data-analytics?utm_source=internal&amp;utm_medium=internal&amp;utm_campaign=navbar_new&amp;angular_version=18
+[ 62/332] CollegeDekho                  11 jobs  via html:https://www.collegedekho.com/careers/
+[ 63/332] CoRover                        2 jobs  via next-data:https://corover.ai/company/careers
+[ 64/332] Cactus Communications        !! timed-out
+[ 65/332] Codingal                     !! careers-page-read-but-lists-no-openings
+[ 66/332] CtrlS Datacenters            !! timed-out
+[ 67/332] Cybrilla                     !! careers-page-read-but-lists-no-openings
+[ 68/332] Cointab                      !! careers-page-read-but-lists-no-openings
+[ 69/332] CoverSelf                      1 jobs  via keka:coverself
+[ 70/332] CureBay                      !! careers-page-read-but-lists-no-openings
+[ 71/332] Chqbook                      !! careers-page-unreachable
+[ 72/332] CredFlow                     !! careers-page-read-but-lists-no-openings
+[ 73/332] CredAble                       4 jobs  via feed:https://credable.in   ** 2 MATCH **
+[ 74/332] ClickPost                     14 jobs  via keka:clickpost
+[ 75/332] Clootrack                    !! careers-page-read-but-lists-no-openings
+[ 76/332] Croma                        !! careers-page-read-but-lists-no-openings
+[ 77/332] Coverfox                      10 jobs  via headings:https://www.coverfox.com/careers/   ** 1 MATCH **
+[ 78/332] Cloudanix                     13 jobs  via headings:https://www.cloudanix.com/careers
+[ 79/332] CreliaHealth                  11 jobs  via smartapply:creliohealth
+[ 80/332] Cricbuzz                       1 jobs  via json-ld:https://www.cricbuzz.com/careers
+[ 81/332] C-DAC                        !! careers-page-read-but-lists-no-openings
+[ 82/332] C-DOT                          3 jobs  via headings:https://www.cdot.in/cdotweb/web/careers.php
+[ 83/332] CRISIL                         3 jobs  via headings:https://www.crisil.com/en/home/careers.html
+[ 84/332] Cholamandalam Investment and   4 jobs  via headings:https://www.cholamandalam.com/careers
+[ 85/332] Central Depository Services  !! careers-page-read-but-lists-no-openings
+[ 86/332] Computer Age Management Serv !! careers-page-read-but-lists-no-openings
+[ 87/332] Care Health Insurance        !! careers-page-read-but-lists-no-openings
+[ 88/332] Comviva                        2 jobs  via headings:https://www.comviva.com/careers/
+[ 89/332] CMS Info Systems             !! careers-page-read-but-lists-no-openings
+[ 90/332] Cipla                         33 jobs  via successfactors:careers.cipla.com
+[ 91/332] Cadence Design Systems        40 jobs  via workday:cadence
+[ 92/332] CRIF                         !! careers-page-read-but-lists-no-openings
+[ 93/332] Ciena                        !! blocked-or-error-response
+[ 94/332] Cisco                          3 jobs  via headings:https://careers.cisco.com/global/en
+[ 95/332] Capgemini                     84 jobs  via successfactors:careers.capgemini.com   ** 2 MATCH **
+[ 96/332] Cognizant                    !! blocked-or-error-response
+[ 97/332] Coursera                      18 jobs  via greenhouse:coursera
+[ 98/332] Citi                          40 jobs  via workday:citi
+[ 99/332] Confluent                     29 jobs  via ashby:confluent
+[100/332] CommScope                     43 jobs  via successfactors:jobs.commscope.com
+[101/332] Commvault                     75 jobs  via greenhouse:commvault
+[102/332] Couchbase                     32 jobs  via greenhouse:couchbaseinc
+[103/332] Cloudera                      40 jobs  via workday:cloudera
+[104/332] CrowdStrike                   40 jobs  via workday:crowdstrike
+[105/332] CaratLane                    !! no-job-data-found
+[106/332] Coupa Software                91 jobs  via lever:coupa
+[107/332] Contentstack                   5 jobs  via greenhouse:contentstack
+[108/332] Comcast                      400 jobs  via workday:comcast
+[109/332] CommerceIQ                    21 jobs  via greenhouse:commerceiq   ** 2 MATCH **
+[110/332] Cognida.ai                     7 jobs  via keka:cognida
+[111/332] Cohesity                     !! careers-page-read-but-lists-no-openings
+[112/332] Celigo                        28 jobs  via greenhouse:celigo
+[113/332] Cyware                         3 jobs  via greenhouse:cyware
+[114/332] Certa                          2 jobs  via ashby:Certa
+[115/332] Cvent                          3 jobs  via headings:https://www.cvent.com/career
+[116/332] CloudEagle.ai                  5 jobs  via headings:https://www.cloudeagle.ai/careers
+[117/332] CoreStack                      2 jobs  via headings:https://www.corestack.io/careers/
+[118/332] Chetu                          2 jobs  via headings:https://www.chetu.com/careers
+[119/332] Clari                        !! careers-page-read-but-lists-no-openings
+[120/332] Cribl                         69 jobs  via greenhouse:cribl
+[121/332] ClickHouse                     7 jobs  via ashby:langfuse
+[122/332] Codvo.ai                     !! careers-page-read-but-lists-no-openings
+[123/332] Cloudflare                   300 jobs  via greenhouse:cloudflare
+[124/332] Cloud Software Group         !! careers-page-read-but-lists-no-openings
+[125/332] Cequence Security              4 jobs  via headings:https://www.cequence.ai/careers/
+[126/332] Coinbase                     174 jobs  via greenhouse:coinbase   ** 1 MATCH **
+[127/332] Cyara                         14 jobs  via lever:cyara
+[128/332] ConnectWise                   43 jobs  via greenhouse:connectwise
+[129/332] Cprime                        11 jobs  via lever:cprime
+[130/332] CriticalRiver                  6 jobs  via feed:https://www.criticalriver.com
+[131/332] CGI                          !! careers-page-read-but-lists-no-openings
+[132/332] ChargePoint                   27 jobs  via greenhouse:chargepoint
+[133/332] Chegg                        !! careers-page-read-but-lists-no-openings
+[134/332] Cornerstone OnDemand         !! careers-page-read-but-lists-no-openings
+[135/332] Calix                         15 jobs  via workday:calix
+[136/332] Concentrix                    40 jobs  via workday:cnx
+[137/332] Conduent                      24 jobs  via phenom:_self
+[138/332] Cotiviti                      97 jobs  via icims:cotiviti   ** 3 MATCH **
+[139/332] Cardinal Health                3 jobs  via headings:https://jobs.cardinalhealth.com/
+[140/332] Cerence                       38 jobs  via workday:cerence
+[141/332] Clarivate                      3 jobs  via headings:https://clarivate.com/careers
+[142/332] Copart                       !! careers-page-read-but-lists-no-openings
+[143/332] CSG International             16 jobs  via workday:csgi
+[144/332] The Cigna Group               40 jobs  via workday:cigna
+[145/332] Chubb                        !! no-job-data-found
+[146/332] Colt Technology Services       1 jobs  via json-ld:https://www.colt.net/careers
+[147/332] Corpay                        40 jobs  via workday:corpay
+[148/332] Cummins                      !! blocked-or-error-response
+[149/332] CBRE                         !! careers-page-read-but-lists-no-openings
+[150/332] CVS Health                   160 jobs  via phenom:_self
+[151/332] Cencora                      171 jobs  via phenom:_self
+[152/332] Caterpillar                   40 jobs  via workday:cat
+[153/332] Cimpress                     !! careers-page-read-but-lists-no-openings
+[154/332] Citco                        !! careers-page-read-but-lists-no-openings
+[155/332] Carrier                        2 jobs  via headings:https://jobs.carrier.com/en
+[156/332] Continental                    4 jobs  via headings:https://www.continental.com/en/career/
+[157/332] CNH Industrial               !! careers-page-read-but-lists-no-openings
+[158/332] Cleartax                       2 jobs  via headings:https://www.clear.in/s/careers
+[159/332] Clix Capital                   2 jobs  via headings:https://www.clix.capital/careers/
+[160/332] CIMET                          6 jobs  via headings:https://www.cimet.com.au/careers
+[161/332] Clarisights                    2 jobs  via ashby:clarisights
+[162/332] Chevron                      !! careers-page-read-but-lists-no-openings
+[163/332] Colgate-Palmolive             51 jobs  via successfactors:jobs.colgate.com
+[164/332] Cred Avenue                   22 jobs  via zohorecruit:go-yubi
+[165/332] Cargill                      !! careers-page-read-but-lists-no-openings
+[166/332] Cyfuture India               !! careers-page-read-but-lists-no-openings
+[167/332] Cropdata                     !! careers-page-read-but-lists-no-openings
+[168/332] Clari5                         1 jobs  via feed:https://www.clari5.com
+[169/332] Crayon Data                  !! no-job-data-found
+[170/332] Circles.life                 !! no-job-data-found
+[171/332] Credencys Solutions            5 jobs  via headings:https://www.credencys.com/careers/
+[172/332] Codebrahma                   !! careers-page-read-but-lists-no-openings
+[173/332] Codiant Software Technologie   7 jobs  via wordpress:https://codiant.com   ** 2 MATCH **
+[174/332] CodeVyasa                    !! no-job-data-found
+[175/332] Colan Infotech                 9 jobs  via feed:https://colaninfotech.com
+[176/332] Codiste                       11 jobs  via headings:https://www.codiste.com/career
+[177/332] Corteva Agriscience          !! careers-page-read-but-lists-no-openings
+[178/332] CronJ IT Technologies        !! careers-page-unreachable
+[179/332] Cigniti Technologies           2 jobs  via headings:https://www.cigniti.com/careers
+[180/332] ClaySys Technologies         !! blocked-or-error-response
+[181/332] Clearwater Analytics         !! timed-out
+[182/332] Comprinno Technologies        27 jobs  via keka:comprinno
+[183/332] Cabot Solutions                2 jobs  via headings:https://www.cabotsolutions.com/cabot-careers
+[184/332] CoffeeBeans Consulting       !! careers-page-read-but-lists-no-openings
+[185/332] CodeCraft Technologies         9 jobs  via html:https://codecrafttech.com/current-openings/
+[186/332] CloudNow Technologies          0 jobs  via zohorecruit:cloudnowtech (0 open)
+[187/332] Cerebrum Infotech            !! no-job-data-found
+[188/332] Cybrosys Technologies         17 jobs  via headings:https://www.cybrosys.com/career/
+[189/332] Cloudi5 Technologies           3 jobs  via headings:https://www.cloudi5.com/careers
+[190/332] Communication Crafts           5 jobs  via headings:https://communicationcrafts.com/career/
+[191/332] CSM Technologies              10 jobs  via headings:https://csm.tech/explore-openings
+[192/332] Classic Informatics            4 jobs  via headings:https://www.classicinformatics.com/careers/   ** 1 MATCH **
+[193/332] Cyblance Technologies          3 jobs  via headings:https://www.cyblance.com/careers.php
+[194/332] Cognologix Technologies        0 jobs  via zohorecruit:cognologix (0 open)
+[195/332] Coriolis Technologies        !! careers-page-unreachable
+[196/332] CMARIX Technolabs              4 jobs  via headings:https://www.cmarix.com/careers
+[197/332] Capital Numbers Infotech     !! no-job-data-found
+[198/332] Ceinsys Tech                 !! careers-page-unreachable
+[199/332] Cateina Technologies           6 jobs  via headings:https://www.cateina.com/careers
+[200/332] Crownstack Technologies        5 jobs  via headings:https://www.crownstack.com/careers
+[201/332] Cybernetik Technologies      !! careers-page-read-but-lists-no-openings
+[202/332] Cybercom Creation              2 jobs  via headings:https://www.cybercom.co.in/career_old/
+[203/332] Coretus Technologies           3 jobs  via headings:https://www.coretus.com/career
+[204/332] CEPTES Software              !! no-job-data-found
+[205/332] Codeflies Technologies         3 jobs  via feed:https://codeflies.com
+[206/332] Cumulations Technologies      11 jobs  via headings:https://www.cumulations.com/careers/
+[207/332] CodeToArt Technology         !! no-job-data-found
+[208/332] CodeTrade India                7 jobs  via wordpress:https://www.codetrade.io
+[209/332] ComTec Information Systems    10 jobs  via feed:https://www.comtecinfo.com   ** 2 MATCH **
+[210/332] CONTUS Tech                    3 jobs  via headings:https://www.contus.com/careers
+[211/332] Cliffex Digital                7 jobs  via feed:https://cliffex.com
+[212/332] CyberSapient                 !! no-job-data-found
+[213/332] Cognisun Infotech            !! no-job-data-found
+[214/332] Crestech Software Systems     26 jobs  via wordpress:https://www.crestechsoftware.com
+[215/332] Codetru                        7 jobs  via keka:codetru
+[216/332] CodePlateau Technology         8 jobs  via feed:https://www.codeplateau.com
+[217/332] Code Winglet                   7 jobs  via keka:codewinglet
+[218/332] CodeRower                      4 jobs  via headings:https://coderower.com/career   ** 1 MATCH **
+[219/332] CMS IT Services              !! no-job-data-found
+[220/332] CereBulb                       6 jobs  via headings:https://www.cerebulb.com/career/
+[221/332] Codoid Innovations             4 jobs  via feed:https://codoid.com
+[222/332] Codzgarage Infotech           11 jobs  via headings:https://www.codzgarage.com/career/   ** 1 MATCH **
+[223/332] Cynefian                     !! no-job-data-found
+[224/332] Chimera Technologies           0 jobs  via zohorecruit:chimeratechnologies (0 open)
+[225/332] Clustrex Data                  3 jobs  via json-ld:https://www.clustrex.com/career.html
+[226/332] Compro Technologies          !! no-job-data-found
+[227/332] Coyolia Technologies         !! careers-page-read-but-lists-no-openings
+[228/332] Codemancers                  !! no-job-data-found
+[229/332] Cognibotz                    !! no-job-data-found
+[230/332] CloudStakes Technology         9 jobs  via headings:https://cloudstakes.com/careers
+[231/332] Concept Infoway                3 jobs  via headings:https://www.conceptinfoway.net/careers
+[232/332] Codelattice                    1 jobs  via json-ld:https://www.codelattice.com/jobs
+[233/332] Comsense Technologies        !! careers-page-read-but-lists-no-openings
+[234/332] Cogniter Technologies        !! no-job-data-found
+[235/332] Code Brew Labs                 7 jobs  via feed:https://www.code-brew.com
+[236/332] Claritus                       5 jobs  via headings:https://claritusconsulting.com/career
+[237/332] Changepond Technologies      !! careers-page-read-but-lists-no-openings
+[238/332] CodeAegis                    !! no-job-data-found
+[239/332] CarWale                        6 jobs  via headings:https://www.carwale.com/career/
+[240/332] CASHe                        !! no-job-data-found
+[241/332] Cybernetyx                   !! careers-page-read-but-lists-no-openings
+[242/332] Clinikk                      !! careers-page-read-but-lists-no-openings
+[243/332] CashFlo                      !! no-job-data-found
+[244/332] Connect and Heal             !! careers-page-read-but-lists-no-openings
+[245/332] Credgenics                   !! no-job-data-found
+[246/332] CarTrade Tech                !! no-job-data-found
+[247/332] Cityflo                       13 jobs  via keka:cityflo
+[248/332] ConfirmTkt                   !! no-job-data-found
+[249/332] CodeChef                       6 jobs  via headings:https://www.codechef.com/careers
+[250/332] Coding Blocks                !! careers-page-read-but-lists-no-openings
+[251/332] Careers360                    44 jobs  via html:https://www.careers360.com/
+[252/332] Cloudphysician               !! no-job-data-found
+[253/332] Cuemath                      !! blocked-or-error-response
+[254/332] CamCom                         5 jobs  via headings:https://camcom.ai/career
+[255/332] Crio.Do                      !! no-job-data-found
+[256/332] ClearFeed                    !! careers-page-read-but-lists-no-openings
+[257/332] Convin                       !! careers-page-read-but-lists-no-openings
+[258/332] CogniTensor                  !! careers-page-read-but-lists-no-openings
+[259/332] CLIRNET                       17 jobs  via keka:clirnet
+[260/332] CoutLoot                     !! no-job-data-found
+[261/332] ChromeInfo Technologies      !! timed-out
+[262/332] Convertcart                  !! no-job-data-found
+[263/332] CDN Solutions Group          !! timed-out
+[264/332] Codeyoung                    !! blocked-or-error-response
+[265/332] ClearDekho                    10 jobs  via headings:https://cleardekho.com/careers/
+[266/332] Captain Fresh                !! no-job-data-found
+[267/332] CityMall                     !! careers-page-unreachable
+[268/332] CustomerLabs                   8 jobs  via zohorecruit:customerlabs
+[269/332] Credit Fair                    6 jobs  via headings:https://creditfair.in/careers
+[270/332] CloudKeeper                   16 jobs  via headings:https://www.cloudkeeper.com/career
+[271/332] Ctruh Technologies           !! no-job-data-found
+[272/332] CynLr                          3 jobs  via ashby:cynlr
+[273/332] Cashinvoice                    5 jobs  via headings:https://www.cashinvoice.in/careers
+[274/332] Creatiosoft                  !! no-job-data-found
+[275/332] Centum Electronics            54 jobs  via recruitee:centumtns
+[276/332] CircuitSutra Technologies      1 jobs  via feed:https://www.circuitsutra.com
+[277/332] Choice International         !! careers-page-read-but-lists-no-openings
+[278/332] Cranes Software Internationa   7 jobs  via headings:https://cranessoftware.com/careers.php
+[279/332] Calligo Technologies           3 jobs  via headings:https://calligotech.com/careers/
+[280/332] Chatwoot                     !! no-job-data-found
+[281/332] Cirel Systems                !! careers-page-read-but-lists-no-openings
+[282/332] Canara HSBC Life Insurance   !! careers-page-read-but-lists-no-openings
+[283/332] City Union Bank                2 jobs  via headings:https://cityunionbank.com/careers
+[284/332] Capri Global Capital           4 jobs  via headings:https://www.capriloans.in/career/
+[285/332] Cyient DLM                     0 jobs  via zohorecruit:careers.cyientdlm.com (0 open)
+[286/332] CCAvenue                     !! careers-page-read-but-lists-no-openings
+[287/332] Cognite                       51 jobs  via greenhouse:cognite
+[288/332] Clovia                       !! no-job-data-found
+[289/332] CreditAccess Grameen         !! careers-page-read-but-lists-no-openings
+[290/332] Cholamandalam MS General Ins !! careers-page-read-but-lists-no-openings
+[291/332] Celonis                      258 jobs  via greenhouse:celonis   ** 2 MATCH **
+[292/332] CoreCard Software              1 jobs  via wordpress:https://corecard.com
+[293/332] C2FO                           2 jobs  via headings:https://c2fo.com/careers/
+[294/332] Capco                        723 jobs  via greenhouse:capco
+[295/332] Charles Schwab               !! no-job-data-found
+[296/332] ConcertAI                     11 jobs  via greenhouse:concertai
+[297/332] Crayon                       !! careers-page-read-but-lists-no-openings
+[298/332] Commonwealth Bank of Austral  40 jobs  via workday:cba
+[299/332] Computershare                  5 jobs  via headings:https://www.computershare.com/corporate/careers/join-our-team
+[300/332] Credit Agricole CIB          !! careers-page-read-but-lists-no-openings
+[301/332] Capita                       !! careers-page-read-but-lists-no-openings
+[302/332] Colruyt Group                !! careers-page-read-but-lists-no-openings
+[303/332] CareStack                    !! no-job-data-found
+[304/332] Ceremorphic                    3 jobs  via headings:https://ceremorphic.com/careers
+[305/332] Corridor Platforms             2 jobs  via headings:https://www.corridorplatforms.com/careers
+[306/332] CirrusLabs                   !! careers-page-read-but-lists-no-openings
+[307/332] Codal                          2 jobs  via headings:https://codal.com/careers/
+[308/332] Cyber Sierra                   6 jobs  via headings:https://www.cybersierra.co/careers
+[309/332] Copper Digital               !! blocked-or-error-response
+[310/332] Coralogix                     29 jobs  via html:https://coralogix.com/careers/
+[311/332] Cengage Group                 40 jobs  via workday:cengage
+[312/332] Canonical                    304 jobs  via greenhouse:canonical   ** 4 MATCH **
+[313/332] C.H. Robinson                 40 jobs  via workday:chrobinson
+[314/332] Carelon Global Solutions     !! no-job-data-found
+[315/332] Clario                        63 jobs  via workday:clarioclinical
+[316/332] Clovity                      !! careers-page-read-but-lists-no-openings
+[317/332] Copado                        41 jobs  via rippling:copado   ** 1 MATCH **
+[318/332] Crestron Electronics           4 jobs  via feed:https://careers.crestron.com
+[319/332] Cloudaeon                      7 jobs  via headings:https://www.cloudaeon.com/careers
+[320/332] CoEnterprise                   1 jobs  via rippling:coenterprise
+[321/332] Copeland                     !! no-job-data-found
+[322/332] CYFIRMA                       27 jobs  via wordpress:https://www.cyfirma.com
+[323/332] CoreFlex Solutions           !! careers-page-read-but-lists-no-openings
+[324/332] Clavax Technologies          !! no-job-data-found
+[325/332] Cognex                       !! blocked-or-error-response
+[326/332] CG Infinity                   13 jobs  via jazzhr:cginfinity
+[327/332] Crowdbotics                  !! no-job-data-found
+[328/332] Cotality                      40 jobs  via workday:cotality
+[329/332] Corning                      !! careers-page-read-but-lists-no-openings
+[330/332] Clean Harbors                !! careers-page-read-but-lists-no-openings
+[331/332] Codemantra                   !! no-job-data-found
+[332/332] Coherent Corp                !! no-job-data-found
+
+  boards read with jobs : 187
+  boards read, 0 open   : 5
+  could not read        : 140
+  companies w/ matches  : 17
+
+Wrote careers.txt + results.json

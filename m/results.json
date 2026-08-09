@@ -32,7 +32,7 @@
     {
      "url": "https://makemytrip.com/career",
      "status": 200,
-     "bytes": 158085
+     "bytes": 158086
     },
     {
      "url": "https://makemytrip.com/jobs",
@@ -42,12 +42,12 @@
     {
      "url": "https://makemytrip.com/join-us",
      "status": 200,
-     "bytes": 158089
+     "bytes": 158088
     },
     {
      "url": "https://makemytrip.com/join-our-team",
      "status": 200,
-     "bytes": 158100
+     "bytes": 158099
     }
    ],
    "candidates": [
@@ -65,7 +65,7 @@
     "workable:makemytrip -> no board"
    ]
   },
-  "ms": 59666
+  "ms": 59697
  },
  {
   "company": "Meesho",
@@ -1311,12 +1311,12 @@
     {
      "url": "https://www.meesho.io/jobs",
      "status": 200,
-     "bytes": 32549
+     "bytes": 32591
     },
     {
      "url": "https://careers.meesho.com",
      "status": 503,
-     "bytes": 278
+     "bytes": 280
     },
     {
      "url": "https://meesho.com/careers",
@@ -1356,7 +1356,7 @@
     "lever:meesho -> 49 jobs (guess, name-verified)"
    ]
   },
-  "ms": 6302
+  "ms": 10053
  },
  {
   "company": "Myntra",
@@ -1386,12 +1386,12 @@
     {
      "url": "https://myntra.com/careers",
      "status": 200,
-     "bytes": 696594
+     "bytes": 695589
     },
     {
      "url": "https://myntra.com/career",
      "status": 200,
-     "bytes": 1572844
+     "bytes": 1532431
     }
    ],
    "candidates": [
@@ -1409,7 +1409,7 @@
     "workable:myntra -> no board"
    ]
   },
-  "ms": 11930
+  "ms": 14687
  },
  {
   "company": "MobiKwik",
@@ -1564,7 +1564,7 @@
     "workable:mobikwik -> no board"
    ]
   },
-  "ms": 6113
+  "ms": 5888
  },
  {
   "company": "MoEngage",
@@ -2294,7 +2294,7 @@
     {
      "url": "https://moengage.com/",
      "status": 200,
-     "bytes": 1211906
+     "bytes": 1211909
     }
    ],
    "candidates": [
@@ -2309,7 +2309,7 @@
     "smartapply:moengage -> 31 jobs"
    ]
   },
-  "ms": 13926
+  "ms": 13257
  },
  {
   "company": "Mindtickle",
@@ -2906,8 +2906,8 @@
     },
     {
      "url": "https://mindtickle.com/career",
-     "status": 200,
-     "bytes": 129685
+     "status": 404,
+     "bytes": 130625
     }
    ],
    "candidates": [
@@ -2921,7 +2921,7 @@
     "lever:mindtickle -> 23 jobs"
    ]
   },
-  "ms": 6893
+  "ms": 8800
  },
  {
   "company": "MyGate",
@@ -3017,7 +3017,7 @@
     "workable:mygate -> no board"
    ]
   },
-  "ms": 11571
+  "ms": 11890
  },
  {
   "company": "Moglix",
@@ -3093,7 +3093,7 @@
     {
      "url": "https://moglix.com/",
      "status": 200,
-     "bytes": 1035919
+     "bytes": 1035917
     }
    ],
    "candidates": [
@@ -3111,7 +3111,7 @@
     "workable:moglix -> no board"
    ]
   },
-  "ms": 8486
+  "ms": 8812
  },
  {
   "company": "MFine",
@@ -3240,7 +3240,7 @@
     "workable:mfine -> no board"
    ]
   },
-  "ms": 11710
+  "ms": 22376
  },
  {
   "company": "Mswipe",
@@ -3293,7 +3293,7 @@
     "workable:mswipe -> no board"
    ]
   },
-  "ms": 4003
+  "ms": 4018
  },
  {
   "company": "Money View",
@@ -3359,7 +3359,7 @@
     "workable:moneyview -> no board"
    ]
   },
-  "ms": 3925
+  "ms": 3328
  },
  {
   "company": "Mintifi",
@@ -3486,7 +3486,7 @@
     "workable:mintifi -> no board"
    ]
   },
-  "ms": 3640
+  "ms": 4653
  },
  {
   "company": "M2P Fintech",
@@ -3579,7 +3579,7 @@
     "workable:m2pfintech -> no board"
    ]
   },
-  "ms": 5848
+  "ms": 5935
  },
  {
   "company": "MyOperator",
@@ -3641,7 +3641,7 @@
     "workable:myoperator -> no board"
    ]
   },
-  "ms": 7811
+  "ms": 6490
  },
  {
   "company": "MoveInSync",
@@ -4166,7 +4166,7 @@
     {
      "url": "https://moveinsync.com/jobs",
      "status": 200,
-     "bytes": 444336
+     "bytes": 445060
     },
     {
      "url": "https://moveinsync.com/join-us",
@@ -4189,7 +4189,7 @@
     "workable:moveinsync -> no board"
    ]
   },
-  "ms": 12334
+  "ms": 13118
  },
  {
   "company": "Mystifly",
@@ -4332,7 +4332,7 @@
     "workable:mystifly -> no board"
    ]
   },
-  "ms": 30903
+  "ms": 34504
  },
  {
   "company": "MediBuddy",
@@ -4451,7 +4451,7 @@
     "workable:medibuddy -> no board"
    ]
   },
-  "ms": 16715
+  "ms": 21662
  },
  {
   "company": "Medi Assist",
@@ -4689,7 +4689,7 @@
     "workable:mediassist -> no board"
    ]
   },
-  "ms": 6323
+  "ms": 3170
  },
  {
   "company": "Mad Street Den",
@@ -4785,7 +4785,7 @@
     "workable:madstreetden -> no board"
    ]
   },
-  "ms": 4771
+  "ms": 3758
  },
  {
   "company": "Magicbricks",
@@ -5088,7 +5088,7 @@
     {
      "url": "https://magicbricks.com/",
      "status": 200,
-     "bytes": 774578
+     "bytes": 774580
     }
    ],
    "candidates": [
@@ -5106,7 +5106,7 @@
     "workable:magicbricks -> no board"
    ]
   },
-  "ms": 5001
+  "ms": 4298
  },
  {
   "company": "MPokket",
@@ -5213,7 +5213,7 @@
     "workable:mpokket -> no board"
    ]
   },
-  "ms": 5689
+  "ms": 6211
  },
  {
   "company": "Mintoak",
@@ -5557,7 +5557,7 @@
     "workable:mintoak -> no board"
    ]
   },
-  "ms": 9610
+  "ms": 11685
  },
  {
   "company": "MyGlamm",
@@ -5702,7 +5702,7 @@
     "workable:myglamm -> no board"
    ]
   },
-  "ms": 43365
+  "ms": 41547
  },
  {
   "company": "Masai School",
@@ -5776,7 +5776,7 @@
     "workable:masaischool -> no board"
    ]
   },
-  "ms": 5884
+  "ms": 7263
  },
  {
   "company": "MedPlus",
@@ -5880,7 +5880,7 @@
     "workable:medplusmart -> no board"
    ]
   },
-  "ms": 7103
+  "ms": 7717
  },
  {
   "company": "Miko",
@@ -6518,7 +6518,7 @@
     {
      "url": "https://miko.ai/pages/careers",
      "status": 200,
-     "bytes": 630225
+     "bytes": 630261
     },
     {
      "url": "https://careers.miko.ai",
@@ -6529,52 +6529,52 @@
     {
      "url": "https://miko.ai/careers",
      "status": 404,
-     "bytes": 562306
+     "bytes": 562342
     },
     {
      "url": "https://miko.ai/career",
      "status": 404,
-     "bytes": 562306
+     "bytes": 562342
     },
     {
      "url": "https://miko.ai/jobs",
      "status": 404,
-     "bytes": 562306
+     "bytes": 562342
     },
     {
      "url": "https://miko.ai/join-us",
      "status": 404,
-     "bytes": 562306
+     "bytes": 562342
     },
     {
      "url": "https://miko.ai/join-our-team",
      "status": 404,
-     "bytes": 562306
+     "bytes": 562342
     },
     {
      "url": "https://miko.ai/careers.html",
      "status": 404,
-     "bytes": 562306
+     "bytes": 562342
     },
     {
      "url": "https://miko.ai/company/careers",
      "status": 404,
-     "bytes": 562306
+     "bytes": 562342
     },
     {
      "url": "https://miko.ai/about/careers",
      "status": 404,
-     "bytes": 562306
+     "bytes": 562342
     },
     {
      "url": "https://miko.ai/current-openings",
      "status": 404,
-     "bytes": 562306
+     "bytes": 562342
     },
     {
      "url": "https://miko.ai/",
      "status": 200,
-     "bytes": 821960
+     "bytes": 821996
     }
    ],
    "candidates": [
@@ -6589,7 +6589,7 @@
     "keka:rnc -> 25 jobs"
    ]
   },
-  "ms": 3108
+  "ms": 2817
  },
  {
   "company": "MSG91",
@@ -6867,7 +6867,7 @@
     "keka:walkover -> 7 jobs"
    ]
   },
-  "ms": 2243
+  "ms": 5538
  },
  {
   "company": "Moonfrog Labs",
@@ -7032,7 +7032,7 @@
     "workable:moonfroglabs -> no board"
    ]
   },
-  "ms": 18815
+  "ms": 19202
  },
  {
   "company": "MyShubhLife",
@@ -7137,7 +7137,7 @@
     "workable:myshubhlife -> no board"
    ]
   },
-  "ms": 7267
+  "ms": 7342
  },
  {
   "company": "Motadata",
@@ -7370,7 +7370,7 @@
     {
      "url": "https://motadata.com/",
      "status": 200,
-     "bytes": 479616
+     "bytes": 479612
     }
    ],
    "candidates": [
@@ -7388,7 +7388,7 @@
     "workable:motadata -> no board"
    ]
   },
-  "ms": 8258
+  "ms": 5201
  },
  {
   "company": "Muvi",
@@ -7565,7 +7565,7 @@
     "workable:muvi -> no board"
    ]
   },
-  "ms": 16004
+  "ms": 13484
  },
  {
   "company": "MapmyIndia",
@@ -7728,7 +7728,7 @@
     "workable:mapmyindia -> no board"
    ]
   },
-  "ms": 5543
+  "ms": 3213
  },
  {
   "company": "Mitsogo",
@@ -8562,12 +8562,12 @@
     {
      "url": "https://www.mitsogo.com/careers/",
      "status": 200,
-     "bytes": 1435226
+     "bytes": 1480997
     },
     {
      "url": "https://careers.mitsogo.com",
      "status": 200,
-     "bytes": 1435226
+     "bytes": 1480997
     },
     {
      "url": "https://mitsogo.com/careers",
@@ -8578,6 +8578,46 @@
      "url": "https://mitsogo.com/career",
      "status": 404,
      "bytes": 42121
+    },
+    {
+     "url": "https://mitsogo.com/jobs",
+     "status": 404,
+     "bytes": 42121
+    },
+    {
+     "url": "https://mitsogo.com/join-us",
+     "status": 404,
+     "bytes": 42121
+    },
+    {
+     "url": "https://mitsogo.com/join-our-team",
+     "status": 404,
+     "bytes": 42121
+    },
+    {
+     "url": "https://mitsogo.com/careers.html",
+     "status": 404,
+     "bytes": 42121
+    },
+    {
+     "url": "https://mitsogo.com/company/careers",
+     "status": 404,
+     "bytes": 42121
+    },
+    {
+     "url": "https://mitsogo.com/about/careers",
+     "status": 404,
+     "bytes": 42121
+    },
+    {
+     "url": "https://mitsogo.com/current-openings",
+     "status": 404,
+     "bytes": 42121
+    },
+    {
+     "url": "https://mitsogo.com/",
+     "status": 200,
+     "bytes": 243587
     }
    ],
    "candidates": [
@@ -8592,7 +8632,7 @@
     "greenhouse:mitsogoinc -> 35 jobs"
    ]
   },
-  "ms": 3703
+  "ms": 6020
  },
  {
   "company": "Medikabazaar",
@@ -8617,7 +8657,7 @@
     {
      "url": "https://medikabazaar.com/careers",
      "status": 200,
-     "bytes": 117790
+     "bytes": 117789
     },
     {
      "url": "https://medikabazaar.com/career",
@@ -8633,7 +8673,7 @@
     {
      "url": "https://medikabazaar.com/join-us",
      "status": 200,
-     "bytes": 245565
+     "bytes": 245574
     }
    ],
    "candidates": [
@@ -8651,7 +8691,7 @@
     "workable:medikabazaar -> no board"
    ]
   },
-  "ms": 80531
+  "ms": 81431
  },
  {
   "company": "Mercer Mettl",
@@ -8734,7 +8774,7 @@
     "workable:mettl -> no board"
    ]
   },
-  "ms": 16107
+  "ms": 19022
  },
  {
   "company": "Mindgrove Technologies",
@@ -8840,7 +8880,7 @@
     "workable:mindgrovetech -> no board"
    ]
   },
-  "ms": 13901
+  "ms": 14479
  },
  {
   "company": "Mu Sigma",
@@ -8945,7 +8985,7 @@
     "workable:musigma -> no board"
    ]
   },
-  "ms": 33084
+  "ms": 49947
  },
  {
   "company": "MediaMint",
@@ -9144,7 +9184,7 @@
     "workable:mediamint -> no board"
    ]
   },
-  "ms": 11338
+  "ms": 12609
  },
  {
   "company": "Magnasoft",
@@ -9215,7 +9255,7 @@
     "workable:magnasoft -> no board"
    ]
   },
-  "ms": 11082
+  "ms": 10071
  },
  {
   "company": "MPS Limited",
@@ -9269,7 +9309,7 @@
     "workable:mpslimited -> no board"
    ]
   },
-  "ms": 37751
+  "ms": 34004
  },
  {
   "company": "Mphasis",
@@ -9365,62 +9405,62 @@
     {
      "url": "https://careers.mphasis.com/",
      "status": 200,
-     "bytes": 106809
+     "bytes": 106813
     },
     {
      "url": "https://careers.mphasis.com",
      "status": 200,
-     "bytes": 106809
+     "bytes": 106813
     },
     {
      "url": "https://mphasis.com/careers",
      "status": 200,
-     "bytes": 193711
+     "bytes": 193710
     },
     {
      "url": "https://mphasis.com/career",
      "status": 200,
-     "bytes": 193711
+     "bytes": 193710
     },
     {
      "url": "https://mphasis.com/jobs",
      "status": 200,
-     "bytes": 193711
+     "bytes": 193710
     },
     {
      "url": "https://mphasis.com/join-us",
      "status": 200,
-     "bytes": 193711
+     "bytes": 193710
     },
     {
      "url": "https://mphasis.com/join-our-team",
      "status": 200,
-     "bytes": 193711
+     "bytes": 193710
     },
     {
      "url": "https://mphasis.com/careers.html",
      "status": 200,
-     "bytes": 193711
+     "bytes": 193710
     },
     {
      "url": "https://mphasis.com/company/careers",
      "status": 200,
-     "bytes": 193711
+     "bytes": 193710
     },
     {
      "url": "https://mphasis.com/about/careers",
      "status": 200,
-     "bytes": 193711
+     "bytes": 193710
     },
     {
      "url": "https://mphasis.com/current-openings",
      "status": 200,
-     "bytes": 193711
+     "bytes": 193710
     },
     {
      "url": "https://mphasis.com/",
      "status": 200,
-     "bytes": 193711
+     "bytes": 193710
     },
     {
      "url": "https://careers.www.mphasis.com",
@@ -9431,7 +9471,7 @@
     {
      "url": "https://www.mphasis.com/careers",
      "status": 404,
-     "bytes": 69342
+     "bytes": 69341
     }
    ],
    "candidates": [
@@ -9449,7 +9489,7 @@
     "workable:mphasis -> no board"
    ]
   },
-  "ms": 11234
+  "ms": 14212
  },
  {
   "company": "Mastek",
@@ -9583,26 +9623,6 @@
     "score": 55
    },
    {
-    "title": "Java Full Stack Developer",
-    "location": "Leeds, GB",
-    "url": "https://careers.mastek.com/job/Leeds-Java-Full-Stack-Developer/57945244/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": true,
-    "java": true,
-    "flutter": false,
-    "senior": false,
-    "exp": [
-     [
-      7,
-      11
-     ]
-    ],
-    "expFits2": false,
-    "score": 55
-   },
-   {
     "title": "AI Security Tester",
     "location": "GB",
     "url": "https://careers.mastek.com/job/AI-Security-Tester/58343944/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
@@ -9672,6 +9692,26 @@
      ]
     ],
     "expFits2": true,
+    "score": 55
+   },
+   {
+    "title": "Java Full Stack Developer",
+    "location": "Leeds, GB",
+    "url": "https://careers.mastek.com/job/Leeds-Java-Full-Stack-Developer/57945244/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": true,
+    "java": true,
+    "flutter": false,
+    "senior": false,
+    "exp": [
+     [
+      7,
+      11
+     ]
+    ],
+    "expFits2": false,
     "score": 55
    },
    {
@@ -10398,7 +10438,7 @@
     {
      "url": "https://careers.mastek.com",
      "status": 200,
-     "bytes": 136020
+     "bytes": 136021
     },
     {
      "url": "https://mastek.com/careers",
@@ -10423,7 +10463,7 @@
     "successfactors:careers.mastek.com -> 39 jobs"
    ]
   },
-  "ms": 3042
+  "ms": 1865
  },
  {
   "company": "Microland",
@@ -10498,7 +10538,7 @@
     {
      "url": "https://careers.microland.com",
      "status": 200,
-     "bytes": 41216
+     "bytes": 41217
     },
     {
      "url": "https://microland.com/careers",
@@ -10526,7 +10566,7 @@
     "workable:microland -> no board"
    ]
   },
-  "ms": 9656
+  "ms": 8866
  },
  {
   "company": "Mindteck",
@@ -10584,7 +10624,7 @@
     "workable:mindteck -> no board"
    ]
   },
-  "ms": 9282
+  "ms": 8835
  },
  {
   "company": "Movate",
@@ -10921,7 +10961,7 @@
     {
      "url": "https://www.movate.com/careers/",
      "status": 200,
-     "bytes": 309791
+     "bytes": 309792
     },
     {
      "url": "https://careers.movate.com",
@@ -10937,7 +10977,7 @@
     {
      "url": "https://movate.com/career",
      "status": 200,
-     "bytes": 309792
+     "bytes": 309793
     },
     {
      "url": "https://movate.com/jobs",
@@ -10947,7 +10987,7 @@
     {
      "url": "https://movate.com/join-us",
      "status": 404,
-     "bytes": 227891
+     "bytes": 227892
     }
    ],
    "candidates": [
@@ -10965,7 +11005,7 @@
     "workable:movate -> no board"
    ]
   },
-  "ms": 15840
+  "ms": 14502
  },
  {
   "company": "Maveric Systems",
@@ -11034,7 +11074,7 @@
     {
      "url": "https://maveric-systems.com/careers/",
      "status": 307,
-     "bytes": 1383
+     "bytes": 1603
     },
     {
      "url": "https://careers.maveric-systems.com",
@@ -11045,52 +11085,52 @@
     {
      "url": "https://maveric-systems.com/careers",
      "status": 307,
-     "bytes": 1383
+     "bytes": 1603
     },
     {
      "url": "https://maveric-systems.com/career",
      "status": 307,
-     "bytes": 1383
+     "bytes": 1603
     },
     {
      "url": "https://maveric-systems.com/jobs",
      "status": 307,
-     "bytes": 1383
+     "bytes": 1603
     },
     {
      "url": "https://maveric-systems.com/join-us",
      "status": 307,
-     "bytes": 1383
+     "bytes": 1603
     },
     {
      "url": "https://maveric-systems.com/join-our-team",
      "status": 307,
-     "bytes": 1499
+     "bytes": 1603
     },
     {
      "url": "https://maveric-systems.com/careers.html",
      "status": 307,
-     "bytes": 1499
+     "bytes": 1443
     },
     {
      "url": "https://maveric-systems.com/company/careers",
      "status": 307,
-     "bytes": 1499
+     "bytes": 1443
     },
     {
      "url": "https://maveric-systems.com/about/careers",
      "status": 307,
-     "bytes": 1499
+     "bytes": 1443
     },
     {
      "url": "https://maveric-systems.com/current-openings",
      "status": 307,
-     "bytes": 1499
+     "bytes": 1443
     },
     {
      "url": "https://maveric-systems.com/",
      "status": 307,
-     "bytes": 1499
+     "bytes": 1443
     },
     {
      "url": "https://careers.www.maveric-systems.com",
@@ -11101,7 +11141,7 @@
     {
      "url": "https://www.maveric-systems.com/careers",
      "status": 307,
-     "bytes": 1491
+     "bytes": 1411
     }
    ],
    "candidates": [
@@ -11129,7 +11169,7 @@
     "workable:mavericsystems -> no board"
    ]
   },
-  "ms": 18114
+  "ms": 20776
  },
  {
   "company": "Mindsprint",
@@ -11165,7 +11205,12 @@
     {
      "url": "https://mindsprint.com/career",
      "status": 404,
-     "bytes": 123417
+     "bytes": 123460
+    },
+    {
+     "url": "https://mindsprint.com/jobs",
+     "status": 404,
+     "bytes": 123411
     }
    ],
    "candidates": [
@@ -11183,7 +11228,7 @@
     "workable:mindsprint -> no board"
    ]
   },
-  "ms": 12553
+  "ms": 15621
  },
  {
   "company": "MediaAgility",
@@ -11327,7 +11372,7 @@
     "workable:mediaagility -> no board"
    ]
   },
-  "ms": 30962
+  "ms": 34413
  },
  {
   "company": "Mynd Integrated Solutions",
@@ -11494,7 +11539,7 @@
     "workable:myndsolution -> no board"
    ]
   },
-  "ms": 6535
+  "ms": 6188
  },
  {
   "company": "MountBlue Technologies",
@@ -11603,7 +11648,7 @@
     "workable:mountblue -> no board"
    ]
   },
-  "ms": 3201
+  "ms": 5466
  },
  {
   "company": "Moolya Software Testing",
@@ -11832,7 +11877,7 @@
     "keka:moolya -> 3 jobs"
    ]
   },
-  "ms": 8986
+  "ms": 8931
  },
  {
   "company": "Mindfire Solutions",
@@ -11996,7 +12041,7 @@
     "workable:mindfiresolutions -> no board"
    ]
   },
-  "ms": 36531
+  "ms": 50921
  },
  {
   "company": "Mindbowser",
@@ -12016,7 +12061,7 @@
     {
      "url": "https://www.mindbowser.com/careers/",
      "status": 200,
-     "bytes": 162858
+     "bytes": 162869
     },
     {
      "url": "https://careers.mindbowser.com",
@@ -12027,17 +12072,27 @@
     {
      "url": "https://mindbowser.com/careers",
      "status": 200,
-     "bytes": 162848
+     "bytes": 162869
     },
     {
      "url": "https://mindbowser.com/career",
      "status": 200,
-     "bytes": 162848
+     "bytes": 162869
     },
     {
      "url": "https://mindbowser.com/jobs",
      "status": 404,
-     "bytes": 108703
+     "bytes": 108673
+    },
+    {
+     "url": "https://mindbowser.com/join-us",
+     "status": 404,
+     "bytes": 108675
+    },
+    {
+     "url": "https://mindbowser.com/join-our-team",
+     "status": 404,
+     "bytes": 108704
     }
    ],
    "candidates": [
@@ -12055,7 +12110,7 @@
     "workable:mindbowser -> no board"
    ]
   },
-  "ms": 22805
+  "ms": 25261
  },
  {
   "company": "MindInventory",
@@ -12233,7 +12288,7 @@
     "workable:mindinventory -> no board"
    ]
   },
-  "ms": 4601
+  "ms": 5743
  },
  {
   "company": "Moon Technolabs",
@@ -12376,7 +12431,7 @@
     "workable:moontechnolabs -> no board"
    ]
   },
-  "ms": 15125
+  "ms": 15356
  },
  {
   "company": "Mobisoft Infotech",
@@ -12527,7 +12582,7 @@
     "workable:mobisoftinfotech -> no board"
    ]
   },
-  "ms": 35982
+  "ms": 36288
  },
  {
   "company": "Maruti Techlabs",
@@ -12820,7 +12875,7 @@
     "keka:marutitech -> 8 jobs"
    ]
   },
-  "ms": 11384
+  "ms": 10700
  },
  {
   "company": "Mantra Labs",
@@ -12839,7 +12894,7 @@
    "pages": [],
    "attempts": []
   },
-  "ms": 117510
+  "ms": 90002
  },
  {
   "company": "Mobiloitte",
@@ -13022,7 +13077,7 @@
     "workable:mobiloitte -> no board"
    ]
   },
-  "ms": 6880
+  "ms": 6525
  },
  {
   "company": "Mindstix Labs",
@@ -13446,7 +13501,7 @@
     "workable:mindstix -> no board"
    ]
   },
-  "ms": 6010
+  "ms": 5901
  },
  {
   "company": "Mtoag Technologies",
@@ -13778,7 +13833,7 @@
     "workable:mtoag -> no board"
    ]
   },
-  "ms": 3149
+  "ms": 5836
  },
  {
   "company": "Moweb Technologies",
@@ -13872,7 +13927,7 @@
     "workable:moweb -> no board"
    ]
   },
-  "ms": 29604
+  "ms": 24273
  },
  {
   "company": "Mobio Solutions",
@@ -13892,7 +13947,7 @@
     {
      "url": "https://mobiosolutions.com/careers/",
      "status": 200,
-     "bytes": 443975
+     "bytes": 443974
     },
     {
      "url": "https://careers.mobiosolutions.com",
@@ -13903,22 +13958,22 @@
     {
      "url": "https://mobiosolutions.com/careers",
      "status": 200,
-     "bytes": 443975
+     "bytes": 443974
     },
     {
      "url": "https://mobiosolutions.com/career",
      "status": 200,
-     "bytes": 443975
+     "bytes": 443974
     },
     {
      "url": "https://mobiosolutions.com/jobs",
      "status": 404,
-     "bytes": 442760
+     "bytes": 442762
     },
     {
      "url": "https://mobiosolutions.com/join-us",
      "status": 404,
-     "bytes": 442800
+     "bytes": 442802
     }
    ],
    "candidates": [
@@ -13946,7 +14001,7 @@
     "workable:mobiosolutions -> no board"
    ]
   },
-  "ms": 54371
+  "ms": 57925
  },
  {
   "company": "Master Software Solutions",
@@ -14289,7 +14344,7 @@
     "workable:mastersoftwaresolutions -> no board"
    ]
   },
-  "ms": 57519
+  "ms": 79351
  },
  {
   "company": "Magneto IT Solutions",
@@ -14648,7 +14703,7 @@
     "workable:magnetoitsolutions -> no board"
    ]
   },
-  "ms": 15944
+  "ms": 15355
  },
  {
   "company": "Metizsoft Solutions",
@@ -15017,7 +15072,7 @@
     {
      "url": "https://www.metizsoft.com/careers",
      "status": 200,
-     "bytes": 200489
+     "bytes": 200478
     },
     {
      "url": "https://careers.metizsoft.com",
@@ -15028,12 +15083,17 @@
     {
      "url": "https://metizsoft.com/careers",
      "status": 200,
-     "bytes": 200564
+     "bytes": 200478
     },
     {
      "url": "https://metizsoft.com/career",
      "status": 404,
      "bytes": 65627
+    },
+    {
+     "url": "https://metizsoft.com/jobs",
+     "status": 404,
+     "bytes": 67283
     }
    ],
    "candidates": [
@@ -15051,7 +15111,7 @@
     "workable:metizsoft -> no board"
    ]
   },
-  "ms": 8185
+  "ms": 15495
  },
  {
   "company": "Mangoit Solutions",
@@ -15120,7 +15180,7 @@
     "workable:mangoitsolutions -> no board"
    ]
   },
-  "ms": 10162
+  "ms": 8372
  },
  {
   "company": "Meetanshi",
@@ -15273,7 +15333,7 @@
     "workable:meetanshi -> no board"
    ]
   },
-  "ms": 12200
+  "ms": 10978
  },
  {
   "company": "MageComp",
@@ -15366,7 +15426,7 @@
     "workable:magecomp -> no board"
    ]
   },
-  "ms": 5373
+  "ms": 6961
  },
  {
   "company": "Multidots",
@@ -15562,7 +15622,7 @@
     "workable:multidots -> no board"
    ]
   },
-  "ms": 10154
+  "ms": 10427
  },
  {
   "company": "Mindiii",
@@ -15717,7 +15777,7 @@
     "workable:mindiii -> no board"
    ]
   },
-  "ms": 6413
+  "ms": 9322
  },
  {
   "company": "MosChip Technologies",
@@ -15811,7 +15871,7 @@
     "workable:moschip -> no board"
    ]
   },
-  "ms": 19968
+  "ms": 21882
  },
  {
   "company": "Mistral Solutions",
@@ -16288,7 +16348,7 @@
     "workable:mistralsolutions -> no board"
    ]
   },
-  "ms": 26824
+  "ms": 27355
  },
  {
   "company": "MulticoreWare",
@@ -16359,7 +16419,7 @@
     "workable:multicorewareinc -> no board"
    ]
   },
-  "ms": 15102
+  "ms": 18858
  },
  {
   "company": "Mobiveil",
@@ -16701,7 +16761,7 @@
    "location": "",
    "url": "https://mobiveil.com/career_old/dft-engineer/",
    "team": "",
-   "text": "DFT ENGINEER – Mobiveil | Silicon IP | IP Enabled Services Company Domains Flash Storage IOT Wireless / Telecom Artificial Intelligence Automotive Products Flash Storage IOT Artificial Intelligence Automotive FPGA Platforms Telecom IP Interface IP RapidIO RapidIO VIP RapidIO AXI PCIe Gen3 to SRIO Gen3 Bridge (FPGA) Memory Controller DDR-LPDDR DDR5 AP Memory OCTA PSRAM Winbond HyperRAM AP Memory UHS PSRAM AP Memory ApSRAM TM Controller Flash Storage NVM-Express ONFI/Toggle IP LDPC HyperBus xSPI eMMC LDPC System On Chip AXI Interconnect Error Correction Wired 50G PON LDPC Wireless LDPC Decoder for 5G NR Services ASIC/FPGA Hardware Software Testing Validation News Events Accomplishment’s Press Releases Articles Company About Us Leadership Resources Partners Careers TAG Systems TAG VLSI Contact Privacy Policy Terms and Conditions DFT ENGINEER Home Jobs DFT ENGINEER DFT ENGINEER 2 to 8 years Bangalore, Chennai, Hyderabad/Secunderabad Posted 4 years ago Job Description In depth knowledge of DFT concepts In depth knowledge and hands on experience in scan insertion, ATPG, coverage analysis, Transition delay test coverage analysis In depth knowledge and hands on experience in MBIST insertion and Memory test validation Expertise in test mode timing constraints definition, knowledge in providing timing fixes/corrective actions for timing violations Expertise in scripting languages such as perl, shell, etc. Experience in RTL and Gate level simulations of scan and MBIST test vectors Knowledge of equivalence check, DFT DRC rules both in RTL lint tool (like spyglass) and ATPG tool like (TetraMax) Working experience in Synopsis TetraMax/DFTMax and Cadence Encounter Test is a plus Ability to work in an international team, dynamic environment Ability to learn and adapt to new tools and methodologies. Ability to do multi-tasking & work on several high priority designs in parallel. Excellent problem solving skills Excellent communication and team work skills and good English is required Skills ATPG DFT perl shell spyglass Job Features Industry Software Functional Area Software Experience 2+ years Education Any degree Apply For This Job Name * Email * A valid email address is required. Phone * A valid phone number is required. Current Location * Preferred Location * Notice Period * Mode of Work * Work from office Remote Hybrid How did you come across this opening? * LinkedIn Naukri Other Social Media Buddy Referral If Buddy Referral (Enter His/Her Name) Attach Resume * Submit Close Contact Detail Mobiveil, Inc. 2535 Augustine Dr 5th Floor, Santa Clara, CA 95054 info@mobiveil.com Mobiveil, Inc. 890 Hillview Court, Suite 250, Milpitas, CA 95035 408-212-9512 408-457-0406 info@mobiveil.com Quick Links Domains Products IP Services News Company Services ASIC/FPGA Hardware Software Testing Validation Solutions Flash Storage IOT Artificial Intelligence Automotive © 2022 Mobiveil, Inc. All Rights Reserved. Terms | Privacy Policy 2026 This site uses cookies. Please see our Privacy Policy to learn more about how we use cookies and how to change your settings if you do not want cookies on your computer. By continuing to use this site without changing your cookies settings, you consent to the use of our cookies. ACCEPT AND CLOSE Manage consent Close Privacy Overview This website uses cookies to improve your experience while you navigate through the website. Out of these, the cookies that are categorized as necessary are stored on your browser as they are essential for the working of basic functionalities of the website. We also use third-party cookies that help us analyze and understand how you use this website. These cookies will be stored in your browser only with your consent. You also have the option to opt-out of these cookies. But opting out of some of these cookies may affect your browsing experience. Necessary Necessary Always Enabled Necessary cookies are absolutely essential for the website to function properly. These cookies ensure basic functionalities and security features of the website, anonymously. Cookie Duration Description cookielawinfo-checkbox-analytics 11 months This cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category \"Analytics\". cookielawinfo-checkbox-functional 11 months The cookie is set by GDPR cookie consent to record the user consent for the cookies in the category \"Functional\". cookielawinfo-checkbox-necessary 11 months This cookie is set by GDPR Cookie Consent plugin. The cookies is used to store the user consent for the cookies in the category \"Necessary\". cookielawinfo-checkbox-others 11 months This cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category \"Other. cookielawinfo-checkbox-performance 11 months This cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category \"Performance\". viewed_cookie_policy 11 months The cookie is set by the GDPR Cookie Consent plugin and is used to store whether or not user has consented to the use of cookies. It does not store any personal data. Functional Functional Functional cookies help to perform certain functionalities like sharing the content of the website on social media platforms, collect feedbacks, and other third-party features. Performance Performance Performance cookies are used to understand and analyze the key performance indexes of the website which helps in delivering a better user experience for the visitors. Analytics Analytics Analytical cookies are used to understand how visitors interact with the website. These cookies help provide information on metrics the number of visitors, bounce rate, traffic source, etc. Advertisement Advertisement Advertisement cookies are used to provide visitors with relevant ads and marketing campaigns. These cookies track visitors across websites and collect information to provide customized ads. Others Others Other uncategorized cookies are those that are being analyzed and have not been classified into a category as yet. SAVE & ACCEPT NVM Express Download NVM Express First Name* Last Name* Email* Phone Number Company Name* Message (optional) Please prove you are human by selecting the heart . × Gen6-Aglx Download Gen6-Aglx First Name* Last Name* Email* Phone Number Company Name* Message (optional) Please prove you are human by selecting the cup . × 50G PON LDPC 50G PON LDPC First Name* Last Name* Email* Phone Number Company Name* Message (optional) Please prove you are human by selecting the flag . × ApSRAM Controller ApSRAM Controller Download First Name* Last Name* Email* Phone Number Company Name* Message (optional) Please prove you are human by selecting the plane . × eMMC LDPC Download eMMC LDPC First Name* Last Name* Email* Phone Number Company Name* Message (optional) Please prove you are human by selecting the key . × PCIe Gen3 to SRIO Gen3 Bridge (FPGA) Download PCIe Gen3 to SRIO Gen3 Bridge (FPGA) First Name* Last Name* Email* Phone Number Company Name* Message (optional) Please prove you are human by selecting the tree . × PCIe Gen5 Switch (FPGA) Download PCIe Gen5 Switch (FPGA) First Name* Last Name* Email* Phone Number Company Name* Message (optional) Please prove you are human by selecting the flag . × LDPC Decoder for 5G NR Download LDPC Decoder for 5G NR First Name* Last Name* Email* Phone Number Company Name* Message (optional) Please prove you are human by selecting the key . × UHS Download UFSHC First Name* Last Name* Email* Phone Number Company Name* Message (optional) Please prove you are human by selecting the heart . × UFSHC Download UFSHC First Name* Last Name* Email* Phone Number Company Name* Message (optional) Please prove you are human by selecting the heart . ×",
+   "text": "DFT ENGINEER – Mobiveil | Silicon IP | IP Enabled Services Company Domains Flash Storage IOT Wireless / Telecom Artificial Intelligence Automotive Products Flash Storage IOT Artificial Intelligence Automotive FPGA Platforms Telecom IP Interface IP RapidIO RapidIO VIP RapidIO AXI PCIe Gen3 to SRIO Gen3 Bridge (FPGA) Memory Controller DDR-LPDDR DDR5 AP Memory OCTA PSRAM Winbond HyperRAM AP Memory UHS PSRAM AP Memory ApSRAM TM Controller Flash Storage NVM-Express ONFI/Toggle IP LDPC HyperBus xSPI eMMC LDPC System On Chip AXI Interconnect Error Correction Wired 50G PON LDPC Wireless LDPC Decoder for 5G NR Services ASIC/FPGA Hardware Software Testing Validation News Events Accomplishment’s Press Releases Articles Company About Us Leadership Resources Partners Careers TAG Systems TAG VLSI Contact Privacy Policy Terms and Conditions DFT ENGINEER Home Jobs DFT ENGINEER DFT ENGINEER 2 to 8 years Bangalore, Chennai, Hyderabad/Secunderabad Posted 4 years ago Job Description In depth knowledge of DFT concepts In depth knowledge and hands on experience in scan insertion, ATPG, coverage analysis, Transition delay test coverage analysis In depth knowledge and hands on experience in MBIST insertion and Memory test validation Expertise in test mode timing constraints definition, knowledge in providing timing fixes/corrective actions for timing violations Expertise in scripting languages such as perl, shell, etc. Experience in RTL and Gate level simulations of scan and MBIST test vectors Knowledge of equivalence check, DFT DRC rules both in RTL lint tool (like spyglass) and ATPG tool like (TetraMax) Working experience in Synopsis TetraMax/DFTMax and Cadence Encounter Test is a plus Ability to work in an international team, dynamic environment Ability to learn and adapt to new tools and methodologies. Ability to do multi-tasking & work on several high priority designs in parallel. Excellent problem solving skills Excellent communication and team work skills and good English is required Skills ATPG DFT perl shell spyglass Job Features Industry Software Functional Area Software Experience 2+ years Education Any degree Apply For This Job Name * Email * A valid email address is required. Phone * A valid phone number is required. Current Location * Preferred Location * Notice Period * Mode of Work * Work from office Remote Hybrid How did you come across this opening? * LinkedIn Naukri Other Social Media Buddy Referral If Buddy Referral (Enter His/Her Name) Attach Resume * Submit Close Contact Detail Mobiveil, Inc. 2535 Augustine Dr 5th Floor, Santa Clara, CA 95054 info@mobiveil.com Mobiveil, Inc. 890 Hillview Court, Suite 250, Milpitas, CA 95035 408-212-9512 408-457-0406 info@mobiveil.com Quick Links Domains Products IP Services News Company Services ASIC/FPGA Hardware Software Testing Validation Solutions Flash Storage IOT Artificial Intelligence Automotive © 2022 Mobiveil, Inc. All Rights Reserved. Terms | Privacy Policy 2026 This site uses cookies. Please see our Privacy Policy to learn more about how we use cookies and how to change your settings if you do not want cookies on your computer. By continuing to use this site without changing your cookies settings, you consent to the use of our cookies. ACCEPT AND CLOSE Manage consent Close Privacy Overview This website uses cookies to improve your experience while you navigate through the website. Out of these, the cookies that are categorized as necessary are stored on your browser as they are essential for the working of basic functionalities of the website. We also use third-party cookies that help us analyze and understand how you use this website. These cookies will be stored in your browser only with your consent. You also have the option to opt-out of these cookies. But opting out of some of these cookies may affect your browsing experience. Necessary Necessary Always Enabled Necessary cookies are absolutely essential for the website to function properly. These cookies ensure basic functionalities and security features of the website, anonymously. Cookie Duration Description cookielawinfo-checkbox-analytics 11 months This cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category \"Analytics\". cookielawinfo-checkbox-functional 11 months The cookie is set by GDPR cookie consent to record the user consent for the cookies in the category \"Functional\". cookielawinfo-checkbox-necessary 11 months This cookie is set by GDPR Cookie Consent plugin. The cookies is used to store the user consent for the cookies in the category \"Necessary\". cookielawinfo-checkbox-others 11 months This cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category \"Other. cookielawinfo-checkbox-performance 11 months This cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category \"Performance\". viewed_cookie_policy 11 months The cookie is set by the GDPR Cookie Consent plugin and is used to store whether or not user has consented to the use of cookies. It does not store any personal data. Functional Functional Functional cookies help to perform certain functionalities like sharing the content of the website on social media platforms, collect feedbacks, and other third-party features. Performance Performance Performance cookies are used to understand and analyze the key performance indexes of the website which helps in delivering a better user experience for the visitors. Analytics Analytics Analytical cookies are used to understand how visitors interact with the website. These cookies help provide information on metrics the number of visitors, bounce rate, traffic source, etc. Advertisement Advertisement Advertisement cookies are used to provide visitors with relevant ads and marketing campaigns. These cookies track visitors across websites and collect information to provide customized ads. Others Others Other uncategorized cookies are those that are being analyzed and have not been classified into a category as yet. SAVE & ACCEPT NVM Express Download NVM Express First Name* Last Name* Email* Phone Number Company Name* Message (optional) Please prove you are human by selecting the car . × Gen6-Aglx Download Gen6-Aglx First Name* Last Name* Email* Phone Number Company Name* Message (optional) Please prove you are human by selecting the plane . × 50G PON LDPC 50G PON LDPC First Name* Last Name* Email* Phone Number Company Name* Message (optional) Please prove you are human by selecting the car . × ApSRAM Controller ApSRAM Controller Download First Name* Last Name* Email* Phone Number Company Name* Message (optional) Please prove you are human by selecting the flag . × eMMC LDPC Download eMMC LDPC First Name* Last Name* Email* Phone Number Company Name* Message (optional) Please prove you are human by selecting the plane . × PCIe Gen3 to SRIO Gen3 Bridge (FPGA) Download PCIe Gen3 to SRIO Gen3 Bridge (FPGA) First Name* Last Name* Email* Phone Number Company Name* Message (optional) Please prove you are human by selecting the cup . × PCIe Gen5 Switch (FPGA) Download PCIe Gen5 Switch (FPGA) First Name* Last Name* Email* Phone Number Company Name* Message (optional) Please prove you are human by selecting the star . × LDPC Decoder for 5G NR Download LDPC Decoder for 5G NR First Name* Last Name* Email* Phone Number Company Name* Message (optional) Please prove you are human by selecting the cup . × UHS Download UFSHC First Name* Last Name* Email* Phone Number Company Name* Message (optional) Please prove you are human by selecting the cup . × UFSHC Download UFSHC First Name* Last Name* Email* Phone Number Company Name* Message (optional) Please prove you are human by selecting the heart . ×",
    "_enriched": true,
    "score": 75,
    "isMatch": false,
@@ -16730,7 +16790,7 @@
    "location": "",
    "url": "https://mobiveil.com/career_old/dft-engineer/",
    "team": "",
-   "text": "DFT ENGINEER – Mobiveil | Silicon IP | IP Enabled Services Company Domains Flash Storage IOT Wireless / Telecom Artificial Intelligence Automotive Products Flash Storage IOT Artificial Intelligence Automotive FPGA Platforms Telecom IP Interface IP RapidIO RapidIO VIP RapidIO AXI PCIe Gen3 to SRIO Gen3 Bridge (FPGA) Memory Controller DDR-LPDDR DDR5 AP Memory OCTA PSRAM Winbond HyperRAM AP Memory UHS PSRAM AP Memory ApSRAM TM Controller Flash Storage NVM-Express ONFI/Toggle IP LDPC HyperBus xSPI eMMC LDPC System On Chip AXI Interconnect Error Correction Wired 50G PON LDPC Wireless LDPC Decoder for 5G NR Services ASIC/FPGA Hardware Software Testing Validation News Events Accomplishment’s Press Releases Articles Company About Us Leadership Resources Partners Careers TAG Systems TAG VLSI Contact Privacy Policy Terms and Conditions DFT ENGINEER Home Jobs DFT ENGINEER DFT ENGINEER 2 to 8 years Bangalore, Chennai, Hyderabad/Secunderabad Posted 4 years ago Job Description In depth knowledge of DFT concepts In depth knowledge and hands on experience in scan insertion, ATPG, coverage analysis, Transition delay test coverage analysis In depth knowledge and hands on experience in MBIST insertion and Memory test validation Expertise in test mode timing constraints definition, knowledge in providing timing fixes/corrective actions for timing violations Expertise in scripting languages such as perl, shell, etc. Experience in RTL and Gate level simulations of scan and MBIST test vectors Knowledge of equivalence check, DFT DRC rules both in RTL lint tool (like spyglass) and ATPG tool like (TetraMax) Working experience in Synopsis TetraMax/DFTMax and Cadence Encounter Test is a plus Ability to work in an international team, dynamic environment Ability to learn and adapt to new tools and methodologies. Ability to do multi-tasking & work on several high priority designs in parallel. Excellent problem solving skills Excellent communication and team work skills and good English is required Skills ATPG DFT perl shell spyglass Job Features Industry Software Functional Area Software Experience 2+ years Education Any degree Apply For This Job Name * Email * A valid email address is required. Phone * A valid phone number is required. Current Location * Preferred Location * Notice Period * Mode of Work * Work from office Remote Hybrid How did you come across this opening? * LinkedIn Naukri Other Social Media Buddy Referral If Buddy Referral (Enter His/Her Name) Attach Resume * Submit Close Contact Detail Mobiveil, Inc. 2535 Augustine Dr 5th Floor, Santa Clara, CA 95054 info@mobiveil.com Mobiveil, Inc. 890 Hillview Court, Suite 250, Milpitas, CA 95035 408-212-9512 408-457-0406 info@mobiveil.com Quick Links Domains Products IP Services News Company Services ASIC/FPGA Hardware Software Testing Validation Solutions Flash Storage IOT Artificial Intelligence Automotive © 2022 Mobiveil, Inc. All Rights Reserved. Terms | Privacy Policy 2026 This site uses cookies. Please see our Privacy Policy to learn more about how we use cookies and how to change your settings if you do not want cookies on your computer. By continuing to use this site without changing your cookies settings, you consent to the use of our cookies. ACCEPT AND CLOSE Manage consent Close Privacy Overview This website uses cookies to improve your experience while you navigate through the website. Out of these, the cookies that are categorized as necessary are stored on your browser as they are essential for the working of basic functionalities of the website. We also use third-party cookies that help us analyze and understand how you use this website. These cookies will be stored in your browser only with your consent. You also have the option to opt-out of these cookies. But opting out of some of these cookies may affect your browsing experience. Necessary Necessary Always Enabled Necessary cookies are absolutely essential for the website to function properly. These cookies ensure basic functionalities and security features of the website, anonymously. Cookie Duration Description cookielawinfo-checkbox-analytics 11 months This cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category \"Analytics\". cookielawinfo-checkbox-functional 11 months The cookie is set by GDPR cookie consent to record the user consent for the cookies in the category \"Functional\". cookielawinfo-checkbox-necessary 11 months This cookie is set by GDPR Cookie Consent plugin. The cookies is used to store the user consent for the cookies in the category \"Necessary\". cookielawinfo-checkbox-others 11 months This cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category \"Other. cookielawinfo-checkbox-performance 11 months This cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category \"Performance\". viewed_cookie_policy 11 months The cookie is set by the GDPR Cookie Consent plugin and is used to store whether or not user has consented to the use of cookies. It does not store any personal data. Functional Functional Functional cookies help to perform certain functionalities like sharing the content of the website on social media platforms, collect feedbacks, and other third-party features. Performance Performance Performance cookies are used to understand and analyze the key performance indexes of the website which helps in delivering a better user experience for the visitors. Analytics Analytics Analytical cookies are used to understand how visitors interact with the website. These cookies help provide information on metrics the number of visitors, bounce rate, traffic source, etc. Advertisement Advertisement Advertisement cookies are used to provide visitors with relevant ads and marketing campaigns. These cookies track visitors across websites and collect information to provide customized ads. Others Others Other uncategorized cookies are those that are being analyzed and have not been classified into a category as yet. SAVE & ACCEPT NVM Express Download NVM Express First Name* Last Name* Email* Phone Number Company Name* Message (optional) Please prove you are human by selecting the heart . × Gen6-Aglx Download Gen6-Aglx First Name* Last Name* Email* Phone Number Company Name* Message (optional) Please prove you are human by selecting the cup . × 50G PON LDPC 50G PON LDPC First Name* Last Name* Email* Phone Number Company Name* Message (optional) Please prove you are human by selecting the flag . × ApSRAM Controller ApSRAM Controller Download First Name* Last Name* Email* Phone Number Company Name* Message (optional) Please prove you are human by selecting the plane . × eMMC LDPC Download eMMC LDPC First Name* Last Name* Email* Phone Number Company Name* Message (optional) Please prove you are human by selecting the key . × PCIe Gen3 to SRIO Gen3 Bridge (FPGA) Download PCIe Gen3 to SRIO Gen3 Bridge (FPGA) First Name* Last Name* Email* Phone Number Company Name* Message (optional) Please prove you are human by selecting the tree . × PCIe Gen5 Switch (FPGA) Download PCIe Gen5 Switch (FPGA) First Name* Last Name* Email* Phone Number Company Name* Message (optional) Please prove you are human by selecting the flag . × LDPC Decoder for 5G NR Download LDPC Decoder for 5G NR First Name* Last Name* Email* Phone Number Company Name* Message (optional) Please prove you are human by selecting the key . × UHS Download UFSHC First Name* Last Name* Email* Phone Number Company Name* Message (optional) Please prove you are human by selecting the heart . × UFSHC Download UFSHC First Name* Last Name* Email* Phone Number Company Name* Message (optional) Please prove you are human by selecting the heart . ×",
+   "text": "DFT ENGINEER – Mobiveil | Silicon IP | IP Enabled Services Company Domains Flash Storage IOT Wireless / Telecom Artificial Intelligence Automotive Products Flash Storage IOT Artificial Intelligence Automotive FPGA Platforms Telecom IP Interface IP RapidIO RapidIO VIP RapidIO AXI PCIe Gen3 to SRIO Gen3 Bridge (FPGA) Memory Controller DDR-LPDDR DDR5 AP Memory OCTA PSRAM Winbond HyperRAM AP Memory UHS PSRAM AP Memory ApSRAM TM Controller Flash Storage NVM-Express ONFI/Toggle IP LDPC HyperBus xSPI eMMC LDPC System On Chip AXI Interconnect Error Correction Wired 50G PON LDPC Wireless LDPC Decoder for 5G NR Services ASIC/FPGA Hardware Software Testing Validation News Events Accomplishment’s Press Releases Articles Company About Us Leadership Resources Partners Careers TAG Systems TAG VLSI Contact Privacy Policy Terms and Conditions DFT ENGINEER Home Jobs DFT ENGINEER DFT ENGINEER 2 to 8 years Bangalore, Chennai, Hyderabad/Secunderabad Posted 4 years ago Job Description In depth knowledge of DFT concepts In depth knowledge and hands on experience in scan insertion, ATPG, coverage analysis, Transition delay test coverage analysis In depth knowledge and hands on experience in MBIST insertion and Memory test validation Expertise in test mode timing constraints definition, knowledge in providing timing fixes/corrective actions for timing violations Expertise in scripting languages such as perl, shell, etc. Experience in RTL and Gate level simulations of scan and MBIST test vectors Knowledge of equivalence check, DFT DRC rules both in RTL lint tool (like spyglass) and ATPG tool like (TetraMax) Working experience in Synopsis TetraMax/DFTMax and Cadence Encounter Test is a plus Ability to work in an international team, dynamic environment Ability to learn and adapt to new tools and methodologies. Ability to do multi-tasking & work on several high priority designs in parallel. Excellent problem solving skills Excellent communication and team work skills and good English is required Skills ATPG DFT perl shell spyglass Job Features Industry Software Functional Area Software Experience 2+ years Education Any degree Apply For This Job Name * Email * A valid email address is required. Phone * A valid phone number is required. Current Location * Preferred Location * Notice Period * Mode of Work * Work from office Remote Hybrid How did you come across this opening? * LinkedIn Naukri Other Social Media Buddy Referral If Buddy Referral (Enter His/Her Name) Attach Resume * Submit Close Contact Detail Mobiveil, Inc. 2535 Augustine Dr 5th Floor, Santa Clara, CA 95054 info@mobiveil.com Mobiveil, Inc. 890 Hillview Court, Suite 250, Milpitas, CA 95035 408-212-9512 408-457-0406 info@mobiveil.com Quick Links Domains Products IP Services News Company Services ASIC/FPGA Hardware Software Testing Validation Solutions Flash Storage IOT Artificial Intelligence Automotive © 2022 Mobiveil, Inc. All Rights Reserved. Terms | Privacy Policy 2026 This site uses cookies. Please see our Privacy Policy to learn more about how we use cookies and how to change your settings if you do not want cookies on your computer. By continuing to use this site without changing your cookies settings, you consent to the use of our cookies. ACCEPT AND CLOSE Manage consent Close Privacy Overview This website uses cookies to improve your experience while you navigate through the website. Out of these, the cookies that are categorized as necessary are stored on your browser as they are essential for the working of basic functionalities of the website. We also use third-party cookies that help us analyze and understand how you use this website. These cookies will be stored in your browser only with your consent. You also have the option to opt-out of these cookies. But opting out of some of these cookies may affect your browsing experience. Necessary Necessary Always Enabled Necessary cookies are absolutely essential for the website to function properly. These cookies ensure basic functionalities and security features of the website, anonymously. Cookie Duration Description cookielawinfo-checkbox-analytics 11 months This cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category \"Analytics\". cookielawinfo-checkbox-functional 11 months The cookie is set by GDPR cookie consent to record the user consent for the cookies in the category \"Functional\". cookielawinfo-checkbox-necessary 11 months This cookie is set by GDPR Cookie Consent plugin. The cookies is used to store the user consent for the cookies in the category \"Necessary\". cookielawinfo-checkbox-others 11 months This cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category \"Other. cookielawinfo-checkbox-performance 11 months This cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category \"Performance\". viewed_cookie_policy 11 months The cookie is set by the GDPR Cookie Consent plugin and is used to store whether or not user has consented to the use of cookies. It does not store any personal data. Functional Functional Functional cookies help to perform certain functionalities like sharing the content of the website on social media platforms, collect feedbacks, and other third-party features. Performance Performance Performance cookies are used to understand and analyze the key performance indexes of the website which helps in delivering a better user experience for the visitors. Analytics Analytics Analytical cookies are used to understand how visitors interact with the website. These cookies help provide information on metrics the number of visitors, bounce rate, traffic source, etc. Advertisement Advertisement Advertisement cookies are used to provide visitors with relevant ads and marketing campaigns. These cookies track visitors across websites and collect information to provide customized ads. Others Others Other uncategorized cookies are those that are being analyzed and have not been classified into a category as yet. SAVE & ACCEPT NVM Express Download NVM Express First Name* Last Name* Email* Phone Number Company Name* Message (optional) Please prove you are human by selecting the car . × Gen6-Aglx Download Gen6-Aglx First Name* Last Name* Email* Phone Number Company Name* Message (optional) Please prove you are human by selecting the plane . × 50G PON LDPC 50G PON LDPC First Name* Last Name* Email* Phone Number Company Name* Message (optional) Please prove you are human by selecting the car . × ApSRAM Controller ApSRAM Controller Download First Name* Last Name* Email* Phone Number Company Name* Message (optional) Please prove you are human by selecting the flag . × eMMC LDPC Download eMMC LDPC First Name* Last Name* Email* Phone Number Company Name* Message (optional) Please prove you are human by selecting the plane . × PCIe Gen3 to SRIO Gen3 Bridge (FPGA) Download PCIe Gen3 to SRIO Gen3 Bridge (FPGA) First Name* Last Name* Email* Phone Number Company Name* Message (optional) Please prove you are human by selecting the cup . × PCIe Gen5 Switch (FPGA) Download PCIe Gen5 Switch (FPGA) First Name* Last Name* Email* Phone Number Company Name* Message (optional) Please prove you are human by selecting the star . × LDPC Decoder for 5G NR Download LDPC Decoder for 5G NR First Name* Last Name* Email* Phone Number Company Name* Message (optional) Please prove you are human by selecting the cup . × UHS Download UFSHC First Name* Last Name* Email* Phone Number Company Name* Message (optional) Please prove you are human by selecting the cup . × UFSHC Download UFSHC First Name* Last Name* Email* Phone Number Company Name* Message (optional) Please prove you are human by selecting the heart . ×",
    "_enriched": true,
    "score": 75,
    "isMatch": false,
@@ -16759,7 +16819,7 @@
     {
      "url": "https://mobiveil.com/career/",
      "status": 200,
-     "bytes": 240830
+     "bytes": 240985
     },
     {
      "url": "https://careers.mobiveil.com",
@@ -16770,17 +16830,17 @@
     {
      "url": "https://mobiveil.com/careers",
      "status": 404,
-     "bytes": 239207
+     "bytes": 239223
     },
     {
      "url": "https://mobiveil.com/career",
      "status": 200,
-     "bytes": 240830
+     "bytes": 240985
     },
     {
      "url": "https://mobiveil.com/jobs",
      "status": 404,
-     "bytes": 239117
+     "bytes": 238785
     }
    ],
    "candidates": [
@@ -16798,7 +16858,7 @@
     "workable:mobiveil -> no board"
    ]
   },
-  "ms": 9912
+  "ms": 7728
  },
  {
   "company": "Muthoot Finance",
@@ -16877,7 +16937,7 @@
     "workable:muthootfinance -> no board"
    ]
   },
-  "ms": 18702
+  "ms": 21885
  },
  {
   "company": "Manappuram Finance",
@@ -17215,7 +17275,7 @@
     "workable:manappuram -> no board"
    ]
   },
-  "ms": 10870
+  "ms": 11297
  },
  {
   "company": "Motilal Oswal",
@@ -17309,7 +17369,7 @@
     "workable:motilaloswal -> no board"
    ]
   },
-  "ms": 6765
+  "ms": 8573
  },
  {
   "company": "Multi Commodity Exchange of India",
@@ -17425,47 +17485,12 @@
     {
      "url": "https://mcxindia.com/career",
      "status": 200,
-     "bytes": 64338
+     "bytes": 65350
     },
     {
      "url": "https://mcxindia.com/jobs",
      "status": 200,
      "bytes": 64338
-    },
-    {
-     "url": "https://mcxindia.com/join-us",
-     "status": 200,
-     "bytes": 64338
-    },
-    {
-     "url": "https://mcxindia.com/join-our-team",
-     "status": 200,
-     "bytes": 64338
-    },
-    {
-     "url": "https://mcxindia.com/careers.html",
-     "status": 200,
-     "bytes": 64338
-    },
-    {
-     "url": "https://mcxindia.com/company/careers",
-     "status": 200,
-     "bytes": 64338
-    },
-    {
-     "url": "https://mcxindia.com/about/careers",
-     "status": 200,
-     "bytes": 64338
-    },
-    {
-     "url": "https://mcxindia.com/current-openings",
-     "status": 200,
-     "bytes": 64338
-    },
-    {
-     "url": "https://mcxindia.com/",
-     "status": 200,
-     "bytes": 154879
     }
    ],
    "candidates": [
@@ -17493,7 +17518,7 @@
     "workable:mcxindia -> no board"
    ]
   },
-  "ms": 7835
+  "ms": 6707
  },
  {
   "company": "Mahindra Finance",
@@ -17638,20 +17663,20 @@
     "workable:mahindrafinance -> no board"
    ]
   },
-  "ms": 2552
+  "ms": 2674
  },
  {
   "company": "MAS Financial Services",
   "country": "India",
   "careers": "https://mas.co.in/career/",
-  "source": "headings:https://mas.co.in/career/",
+  "source": "wordpress:https://mas.co.in",
   "error": null,
-  "totalJobs": 4,
+  "totalJobs": 12,
   "jobs": [
    {
     "title": "Area Sales Manager – Secured Business Loan",
     "location": "",
-    "url": "https://mas.co.in/career/",
+    "url": "https://mas.co.in/jobs/area-sales-manager-secured-business-loan/",
     "india": true,
     "locationSaysIndia": false,
     "hasLocation": false,
@@ -17664,9 +17689,9 @@
     "score": -3
    },
    {
-    "title": "Product Manager",
+    "title": "State Head-LAP",
     "location": "",
-    "url": "https://mas.co.in/career/",
+    "url": "https://mas.co.in/jobs/state-head-lap/",
     "india": true,
     "locationSaysIndia": false,
     "hasLocation": false,
@@ -17679,9 +17704,9 @@
     "score": -3
    },
    {
-    "title": "HRD Manager",
+    "title": "State Head-Used Commercial Vehicle",
     "location": "",
-    "url": "https://mas.co.in/career/",
+    "url": "https://mas.co.in/jobs/state-head-used-commercial-vehicle/",
     "india": true,
     "locationSaysIndia": false,
     "hasLocation": false,
@@ -17694,9 +17719,129 @@
     "score": -3
    },
    {
-    "title": "Treasury Manager",
+    "title": "State Head- SBL",
     "location": "",
-    "url": "https://mas.co.in/career/",
+    "url": "https://mas.co.in/jobs/state-head-sbl/",
+    "india": true,
+    "locationSaysIndia": false,
+    "hasLocation": false,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [],
+    "expFits2": false,
+    "score": -3
+   },
+   {
+    "title": "Area Portfolio Manager- Two Wheeler",
+    "location": "",
+    "url": "https://mas.co.in/jobs/area-portfolio-manager-two-wheeler/",
+    "india": true,
+    "locationSaysIndia": false,
+    "hasLocation": false,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [],
+    "expFits2": false,
+    "score": -3
+   },
+   {
+    "title": "Regional Sales Manager – SBL-Secured",
+    "location": "",
+    "url": "https://mas.co.in/jobs/technical-officer-jaipur/",
+    "india": true,
+    "locationSaysIndia": false,
+    "hasLocation": false,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [],
+    "expFits2": false,
+    "score": -3
+   },
+   {
+    "title": "Branch Manager -SBL- Secured",
+    "location": "",
+    "url": "https://mas.co.in/jobs/technical-officer-bikaner/",
+    "india": true,
+    "locationSaysIndia": false,
+    "hasLocation": false,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [],
+    "expFits2": false,
+    "score": -3
+   },
+   {
+    "title": "Area Sales Manager-SME",
+    "location": "",
+    "url": "https://mas.co.in/jobs/branch-manager-sme-chandigarh/",
+    "india": true,
+    "locationSaysIndia": false,
+    "hasLocation": false,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [],
+    "expFits2": false,
+    "score": -3
+   },
+   {
+    "title": "Area Sales Manager-Used Car",
+    "location": "",
+    "url": "https://mas.co.in/jobs/area-sales-manager-used-car/",
+    "india": true,
+    "locationSaysIndia": false,
+    "hasLocation": false,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [],
+    "expFits2": false,
+    "score": -3
+   },
+   {
+    "title": "Area Sales Manager – Two Wheeler",
+    "location": "",
+    "url": "https://mas.co.in/jobs/ares-sales-manager-used-car-nashik/",
+    "india": true,
+    "locationSaysIndia": false,
+    "hasLocation": false,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [],
+    "expFits2": false,
+    "score": -3
+   },
+   {
+    "title": "Branch Manager- Used Commercial Vehicle",
+    "location": "",
+    "url": "https://mas.co.in/jobs/technical-officer-thane/",
+    "india": true,
+    "locationSaysIndia": false,
+    "hasLocation": false,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [],
+    "expFits2": false,
+    "score": -3
+   },
+   {
+    "title": "Area Sales Manager – Used Commercial Vehicle",
+    "location": "",
+    "url": "https://mas.co.in/jobs/area-sales-manager-used-car-nagpur/",
     "india": true,
     "locationSaysIndia": false,
     "hasLocation": false,
@@ -17715,10 +17860,9 @@
   "closest": {
    "title": "Area Sales Manager – Secured Business Loan",
    "location": "",
-   "url": "https://mas.co.in/career/",
+   "url": "https://mas.co.in/jobs/area-sales-manager-secured-business-loan/",
    "team": "",
-   "text": "Area Sales Manager – Secured Business Loan RAJKOT, AURANGABAD, NASIK State Head-LAP THANE-MUMBAI, BANGALORE State Head-Used Commercial Vehicle BANGALORE, INDORE",
-   "_noEnrich": true,
+   "text": "",
    "score": -3,
    "isMatch": false,
    "isEng": false,
@@ -17797,7 +17941,7 @@
     "workable:masfinancial -> no board"
    ]
   },
-  "ms": 56929
+  "ms": 22948
  },
  {
   "company": "Muthoot Fincorp",
@@ -17906,7 +18050,7 @@
     "workable:muthootfincorp -> no board"
    ]
   },
-  "ms": 4539
+  "ms": 3531
  },
  {
   "company": "ManipalCigna Health Insurance",
@@ -17926,7 +18070,7 @@
     {
      "url": "https://www.manipalcigna.com/careers",
      "status": 200,
-     "bytes": 346540
+     "bytes": 346539
     },
     {
      "url": "https://careers.manipalcigna.com",
@@ -17937,52 +18081,52 @@
     {
      "url": "https://manipalcigna.com/careers",
      "status": 200,
-     "bytes": 554124
+     "bytes": 554122
     },
     {
      "url": "https://manipalcigna.com/career",
      "status": 200,
-     "bytes": 554125
+     "bytes": 554120
     },
     {
      "url": "https://manipalcigna.com/jobs",
      "status": 200,
-     "bytes": 554124
+     "bytes": 554122
     },
     {
      "url": "https://manipalcigna.com/join-us",
      "status": 200,
-     "bytes": 554125
+     "bytes": 554121
     },
     {
      "url": "https://manipalcigna.com/join-our-team",
      "status": 200,
-     "bytes": 554123
+     "bytes": 554122
     },
     {
      "url": "https://manipalcigna.com/careers.html",
      "status": 200,
-     "bytes": 554125
+     "bytes": 554122
     },
     {
      "url": "https://manipalcigna.com/company/careers",
      "status": 200,
-     "bytes": 554125
+     "bytes": 554120
     },
     {
      "url": "https://manipalcigna.com/about/careers",
      "status": 200,
-     "bytes": 554124
+     "bytes": 554120
     },
     {
      "url": "https://manipalcigna.com/current-openings",
      "status": 200,
-     "bytes": 554122
+     "bytes": 554121
     },
     {
      "url": "https://manipalcigna.com/",
      "status": 200,
-     "bytes": 554124
+     "bytes": 554120
     },
     {
      "url": "https://careers.www.manipalcigna.com",
@@ -17993,7 +18137,7 @@
     {
      "url": "https://www.manipalcigna.com/career",
      "status": 404,
-     "bytes": 273272
+     "bytes": 273271
     }
    ],
    "candidates": [
@@ -18023,7 +18167,7 @@
     "workable:manipalcigna -> no board"
    ]
   },
-  "ms": 17602
+  "ms": 15376
  },
  {
   "company": "Max Healthcare",
@@ -18054,7 +18198,7 @@
     {
      "url": "https://maxhealthcare.in/careers",
      "status": 404,
-     "bytes": 56050
+     "bytes": 56051
     },
     {
      "url": "https://maxhealthcare.in/career",
@@ -18082,7 +18226,7 @@
     "workable:maxhealthcare -> no board"
    ]
   },
-  "ms": 6320
+  "ms": 7533
  },
  {
   "company": "Medanta",
@@ -18102,7 +18246,7 @@
     {
      "url": "https://www.medanta.org/careers",
      "status": 200,
-     "bytes": 297539
+     "bytes": 297538
     },
     {
      "url": "https://careers.medanta.org",
@@ -18118,7 +18262,7 @@
     {
      "url": "https://medanta.org/career",
      "status": 200,
-     "bytes": 297538
+     "bytes": 297539
     },
     {
      "url": "https://medanta.org/jobs",
@@ -18146,7 +18290,7 @@
     "workable:medanta -> no board"
    ]
   },
-  "ms": 64387
+  "ms": 63227
  },
  {
   "company": "Mankind Pharma",
@@ -18199,7 +18343,7 @@
     {
      "url": "https://careers.mankindpharma.com",
      "status": 200,
-     "bytes": 45758
+     "bytes": 45756
     },
     {
      "url": "https://mankindpharma.com/careers",
@@ -18224,7 +18368,7 @@
     "successfactors:careers.mankindpharma.com -> 1 jobs"
    ]
   },
-  "ms": 9245
+  "ms": 8330
  },
  {
   "company": "Macleods Pharmaceuticals",
@@ -18332,7 +18476,7 @@
     "workable:macleodspharma -> no board"
    ]
   },
-  "ms": 15361
+  "ms": 20510
  },
  {
   "company": "MSN Laboratories",
@@ -18672,7 +18816,7 @@
     "workable:msnlabs -> no board"
    ]
   },
-  "ms": 12876
+  "ms": 12506
  },
  {
   "company": "Micro Labs",
@@ -18860,7 +19004,7 @@
     "workable:microlabsltd -> no board"
    ]
   },
-  "ms": 6857
+  "ms": 8078
  },
  {
   "company": "MedGenome",
@@ -18896,47 +19040,47 @@
     {
      "url": "https://medgenome.com/career",
      "status": 200,
-     "bytes": 244957
+     "bytes": 244990
     },
     {
      "url": "https://medgenome.com/jobs",
      "status": 200,
-     "bytes": 244957
+     "bytes": 244990
     },
     {
      "url": "https://medgenome.com/join-us",
      "status": 200,
-     "bytes": 244957
+     "bytes": 244990
     },
     {
      "url": "https://medgenome.com/join-our-team",
      "status": 200,
-     "bytes": 244957
+     "bytes": 244990
     },
     {
      "url": "https://medgenome.com/careers.html",
      "status": 200,
-     "bytes": 244957
+     "bytes": 244990
     },
     {
      "url": "https://medgenome.com/company/careers",
      "status": 200,
-     "bytes": 244957
+     "bytes": 244990
     },
     {
      "url": "https://medgenome.com/about/careers",
      "status": 200,
-     "bytes": 244957
+     "bytes": 244990
     },
     {
      "url": "https://medgenome.com/current-openings",
      "status": 200,
-     "bytes": 244957
+     "bytes": 244990
     },
     {
      "url": "https://medgenome.com/",
      "status": 200,
-     "bytes": 244957
+     "bytes": 244990
     },
     {
      "url": "https://careers.www.medgenome.com",
@@ -18947,53 +19091,53 @@
     {
      "url": "https://www.medgenome.com/careers",
      "status": 200,
-     "bytes": 244957
+     "bytes": 244990
     },
     {
      "url": "https://www.medgenome.com/career",
      "status": 200,
-     "bytes": 244957
+     "bytes": 244990
     },
     {
      "url": "https://www.medgenome.com/jobs",
      "status": 200,
-     "bytes": 244957
+     "bytes": 244990
     },
     {
      "url": "https://www.medgenome.com/join-us",
      "status": 200,
-     "bytes": 244957
+     "bytes": 244990
     },
     {
      "url": "https://www.medgenome.com/join-our-team",
+     "status": 200,
+     "bytes": 244990
+    },
+    {
+     "url": "https://www.medgenome.com/careers.html",
+     "status": 200,
+     "bytes": 244990
+    },
+    {
+     "url": "https://www.medgenome.com/company/careers",
+     "status": 200,
+     "bytes": 244990
+    },
+    {
+     "url": "https://www.medgenome.com/about/careers",
      "status": 0,
      "bytes": 0,
      "error": "This operation was aborted"
     },
     {
-     "url": "https://www.medgenome.com/careers.html",
-     "status": 200,
-     "bytes": 244957
-    },
-    {
-     "url": "https://www.medgenome.com/company/careers",
-     "status": 200,
-     "bytes": 244957
-    },
-    {
-     "url": "https://www.medgenome.com/about/careers",
-     "status": 200,
-     "bytes": 244957
-    },
-    {
      "url": "https://www.medgenome.com/current-openings",
      "status": 200,
-     "bytes": 244957
+     "bytes": 244990
     },
     {
      "url": "https://www.medgenome.com/",
      "status": 200,
-     "bytes": 244957
+     "bytes": 244990
     }
    ],
    "candidates": [
@@ -19011,7 +19155,7 @@
     "workable:medgenome -> no board"
    ]
   },
-  "ms": 52688
+  "ms": 53638
  },
  {
   "company": "Molbio Diagnostics",
@@ -19230,7 +19374,7 @@
     "workable:molbiodiagnostics -> no board"
    ]
   },
-  "ms": 49443
+  "ms": 50153
  },
  {
   "company": "Meril Life Sciences",
@@ -19336,7 +19480,7 @@
     "workable:merillife -> no board"
    ]
   },
-  "ms": 44901
+  "ms": 44122
  },
  {
   "company": "Mahindra Group",
@@ -19356,7 +19500,7 @@
     {
      "url": "https://www.mahindra.com/careers",
      "status": 200,
-     "bytes": 126452
+     "bytes": 126466
     },
     {
      "url": "https://careers.mahindra.com",
@@ -19367,33 +19511,27 @@
     {
      "url": "https://mahindra.com/careers",
      "status": 200,
-     "bytes": 126452
+     "bytes": 126466
     },
     {
      "url": "https://mahindra.com/career",
      "status": 200,
-     "bytes": 126452
+     "bytes": 126466
     },
     {
      "url": "https://mahindra.com/jobs",
      "status": 404,
-     "bytes": 96812
+     "bytes": 96798
     },
     {
      "url": "https://mahindra.com/join-us",
      "status": 404,
-     "bytes": 96818
+     "bytes": 96804
     },
     {
      "url": "https://mahindra.com/join-our-team",
-     "status": 0,
-     "bytes": 0,
-     "error": "This operation was aborted"
-    },
-    {
-     "url": "https://mahindra.com/careers.html",
      "status": 404,
-     "bytes": 96828
+     "bytes": 96816
     }
    ],
    "candidates": [
@@ -19411,7 +19549,7 @@
     "workable:mahindra -> no board"
    ]
   },
-  "ms": 48877
+  "ms": 47822
  },
  {
   "company": "Mahindra Logistics",
@@ -19431,7 +19569,7 @@
     {
      "url": "https://mahindralogistics.com/work-with-us/",
      "status": 200,
-     "bytes": 317155
+     "bytes": 317215
     },
     {
      "url": "https://careers.mahindralogistics.com",
@@ -19442,53 +19580,53 @@
     {
      "url": "https://mahindralogistics.com/careers",
      "status": 200,
-     "bytes": 804219
+     "bytes": 804279
     },
     {
      "url": "https://mahindralogistics.com/career",
+     "status": 200,
+     "bytes": 804279
+    },
+    {
+     "url": "https://mahindralogistics.com/jobs",
+     "status": 200,
+     "bytes": 804279
+    },
+    {
+     "url": "https://mahindralogistics.com/join-us",
      "status": 0,
      "bytes": 0,
      "error": "This operation was aborted"
     },
     {
-     "url": "https://mahindralogistics.com/jobs",
-     "status": 200,
-     "bytes": 804219
-    },
-    {
-     "url": "https://mahindralogistics.com/join-us",
-     "status": 200,
-     "bytes": 804219
-    },
-    {
      "url": "https://mahindralogistics.com/join-our-team",
      "status": 200,
-     "bytes": 804219
+     "bytes": 804279
     },
     {
      "url": "https://mahindralogistics.com/careers.html",
      "status": 200,
-     "bytes": 804219
+     "bytes": 804279
     },
     {
      "url": "https://mahindralogistics.com/company/careers",
      "status": 200,
-     "bytes": 804219
+     "bytes": 804279
     },
     {
      "url": "https://mahindralogistics.com/about/careers",
      "status": 200,
-     "bytes": 804219
+     "bytes": 804279
     },
     {
      "url": "https://mahindralogistics.com/current-openings",
      "status": 200,
-     "bytes": 804219
+     "bytes": 804279
     },
     {
      "url": "https://mahindralogistics.com/",
      "status": 200,
-     "bytes": 804219
+     "bytes": 804279
     },
     {
      "url": "https://careers.www.mahindralogistics.com",
@@ -19499,57 +19637,57 @@
     {
      "url": "https://www.mahindralogistics.com/careers",
      "status": 200,
-     "bytes": 804219
+     "bytes": 804279
     },
     {
      "url": "https://www.mahindralogistics.com/career",
      "status": 200,
-     "bytes": 804219
+     "bytes": 804279
     },
     {
      "url": "https://www.mahindralogistics.com/jobs",
      "status": 200,
-     "bytes": 804219
+     "bytes": 804279
     },
     {
      "url": "https://www.mahindralogistics.com/join-us",
      "status": 200,
-     "bytes": 804219
+     "bytes": 804279
     },
     {
      "url": "https://www.mahindralogistics.com/join-our-team",
      "status": 200,
-     "bytes": 804219
+     "bytes": 804279
     },
     {
      "url": "https://www.mahindralogistics.com/careers.html",
      "status": 200,
-     "bytes": 804219
+     "bytes": 804279
     },
     {
      "url": "https://www.mahindralogistics.com/company/careers",
      "status": 200,
-     "bytes": 804219
+     "bytes": 804279
     },
     {
      "url": "https://www.mahindralogistics.com/about/careers",
      "status": 200,
-     "bytes": 804219
+     "bytes": 804279
     },
     {
      "url": "https://www.mahindralogistics.com/current-openings",
      "status": 200,
-     "bytes": 804219
+     "bytes": 804279
     },
     {
      "url": "https://www.mahindralogistics.com/",
      "status": 200,
-     "bytes": 804219
+     "bytes": 804279
     },
     {
      "url": "https://mahindralogistics.com/life-at-mll/",
      "status": 200,
-     "bytes": 420005
+     "bytes": 420065
     },
     {
      "url": "https://nectar.darwinbox.in/ms/candidate/careers",
@@ -19558,7 +19696,7 @@
     {
      "url": "https://mahindralogistics.com/blogs/covid-impact-logistics-sector-witnesses-an-upsurge-in-hiring-of-the-frontline-workers/",
      "status": 200,
-     "bytes": 350155
+     "bytes": 350215
     }
    ],
    "candidates": [
@@ -19578,7 +19716,7 @@
     "workable:mahindralogistics -> no board"
    ]
   },
-  "ms": 63893
+  "ms": 64460
  },
  {
   "company": "Motherson",
@@ -19666,8 +19804,9 @@
     },
     {
      "url": "https://careers.motherson.com",
-     "status": 200,
-     "bytes": 195085
+     "status": 0,
+     "bytes": 0,
+     "error": "This operation was aborted"
     },
     {
      "url": "https://motherson.com/careers",
@@ -19717,7 +19856,7 @@
     {
      "url": "https://motherson.com/",
      "status": 200,
-     "bytes": 321844
+     "bytes": 321845
     }
    ],
    "candidates": [
@@ -19735,7 +19874,7 @@
     "workable:motherson -> no board"
    ]
   },
-  "ms": 27796
+  "ms": 60602
  },
  {
   "company": "Marico",
@@ -19780,8 +19919,14 @@
     },
     {
      "url": "https://marico.com/join-our-team",
+     "status": 0,
+     "bytes": 0,
+     "error": "This operation was aborted"
+    },
+    {
+     "url": "https://marico.com/careers.html",
      "status": 200,
-     "bytes": 42775
+     "bytes": 106289
     }
    ],
    "candidates": [
@@ -19799,7 +19944,7 @@
     "workable:marico -> no board"
    ]
   },
-  "ms": 11954
+  "ms": 46677
  },
  {
   "company": "Maruti Suzuki",
@@ -19893,7 +20038,7 @@
     "workable:marutisuzuki -> no board"
    ]
   },
-  "ms": 4359
+  "ms": 4268
  },
  {
   "company": "Mother Dairy",
@@ -19913,7 +20058,7 @@
     {
      "url": "https://www.motherdairy.com/career",
      "status": 200,
-     "bytes": 20733
+     "bytes": 20732
     },
     {
      "url": "https://careers.motherdairy.com",
@@ -19934,7 +20079,7 @@
     {
      "url": "https://motherdairy.com/jobs",
      "status": 404,
-     "bytes": 7899
+     "bytes": 7900
     },
     {
      "url": "https://motherdairy.com/join-us",
@@ -19944,12 +20089,12 @@
     {
      "url": "https://motherdairy.com/join-our-team",
      "status": 404,
-     "bytes": 7899
+     "bytes": 7900
     },
     {
      "url": "https://motherdairy.com/careers.html",
      "status": 404,
-     "bytes": 7899
+     "bytes": 7900
     },
     {
      "url": "https://motherdairy.com/company/careers",
@@ -19964,12 +20109,12 @@
     {
      "url": "https://motherdairy.com/current-openings",
      "status": 404,
-     "bytes": 7899
+     "bytes": 7900
     },
     {
      "url": "https://motherdairy.com/",
      "status": 200,
-     "bytes": 23631
+     "bytes": 23630
     }
    ],
    "candidates": [
@@ -19987,7 +20132,7 @@
     "workable:motherdairy -> no board"
    ]
   },
-  "ms": 25434
+  "ms": 25465
  },
  {
   "company": "Matrix Comsec",
@@ -20467,7 +20612,7 @@
     {
      "url": "https://www.matrixcomsec.com/about-us/career",
      "status": 200,
-     "bytes": 645644
+     "bytes": 645643
     },
     {
      "url": "https://careers.matrixcomsec.com",
@@ -20478,52 +20623,52 @@
     {
      "url": "https://matrixcomsec.com/careers",
      "status": 200,
-     "bytes": 826970
+     "bytes": 826961
     },
     {
      "url": "https://matrixcomsec.com/career",
      "status": 200,
-     "bytes": 645644
+     "bytes": 645643
     },
     {
      "url": "https://matrixcomsec.com/jobs",
      "status": 200,
-     "bytes": 826970
+     "bytes": 826961
     },
     {
      "url": "https://matrixcomsec.com/join-us",
      "status": 200,
-     "bytes": 826970
+     "bytes": 826961
     },
     {
      "url": "https://matrixcomsec.com/join-our-team",
      "status": 200,
-     "bytes": 826970
+     "bytes": 826961
     },
     {
      "url": "https://matrixcomsec.com/careers.html",
      "status": 200,
-     "bytes": 826970
+     "bytes": 826961
     },
     {
      "url": "https://matrixcomsec.com/company/careers",
      "status": 200,
-     "bytes": 826970
+     "bytes": 826961
     },
     {
      "url": "https://matrixcomsec.com/about/careers",
      "status": 200,
-     "bytes": 826970
+     "bytes": 826961
     },
     {
      "url": "https://matrixcomsec.com/current-openings",
      "status": 200,
-     "bytes": 826970
+     "bytes": 826961
     },
     {
      "url": "https://matrixcomsec.com/",
      "status": 200,
-     "bytes": 826970
+     "bytes": 826961
     },
     {
      "url": "https://careers.www.matrixcomsec.com",
@@ -20534,62 +20679,62 @@
     {
      "url": "https://www.matrixcomsec.com/careers",
      "status": 200,
-     "bytes": 826970
+     "bytes": 826961
     },
     {
      "url": "https://www.matrixcomsec.com/career",
      "status": 200,
-     "bytes": 645644
+     "bytes": 645643
     },
     {
      "url": "https://www.matrixcomsec.com/jobs",
      "status": 200,
-     "bytes": 826970
+     "bytes": 826961
     },
     {
      "url": "https://www.matrixcomsec.com/join-us",
      "status": 200,
-     "bytes": 826970
+     "bytes": 826961
     },
     {
      "url": "https://www.matrixcomsec.com/join-our-team",
      "status": 200,
-     "bytes": 826970
+     "bytes": 826961
     },
     {
      "url": "https://www.matrixcomsec.com/careers.html",
      "status": 200,
-     "bytes": 826970
+     "bytes": 826961
     },
     {
      "url": "https://www.matrixcomsec.com/company/careers",
      "status": 200,
-     "bytes": 826970
+     "bytes": 826961
     },
     {
      "url": "https://www.matrixcomsec.com/about/careers",
      "status": 200,
-     "bytes": 826970
+     "bytes": 826961
     },
     {
      "url": "https://www.matrixcomsec.com/current-openings",
      "status": 200,
-     "bytes": 826970
+     "bytes": 826961
     },
     {
      "url": "https://www.matrixcomsec.com/",
      "status": 200,
-     "bytes": 826970
+     "bytes": 826961
     },
     {
      "url": "https://www.matrixcomsec.com/solution/job-processing-and-costing-solution/",
      "status": 200,
-     "bytes": 699547
+     "bytes": 699538
     },
     {
      "url": "https://www.matrixcomsec.com/about-us/career/",
      "status": 200,
-     "bytes": 645644
+     "bytes": 645643
     }
    ],
    "candidates": [
@@ -20604,7 +20749,7 @@
     "keka:matrixcomsec -> 20 jobs"
    ]
   },
-  "ms": 34803
+  "ms": 32168
  },
  {
   "company": "MG Motor India",
@@ -20700,7 +20845,7 @@
     "workable:mgmotor -> no board"
    ]
   },
-  "ms": 8698
+  "ms": 8759
  },
  {
   "company": "Microsoft",
@@ -20708,7 +20853,7 @@
   "careers": "https://jobs.careers.microsoft.com/global/en/search",
   "source": "rendered",
   "error": null,
-  "totalJobs": 14,
+  "totalJobs": 16,
   "jobs": [
    {
     "title": "Software Engineer II",
@@ -20726,8 +20871,8 @@
     "score": 34
    },
    {
-    "title": "Project Engineer",
-    "location": "United States, Iowa, Des Moines",
+    "title": "AI Applications Solution Engineer",
+    "location": "Hong Kong, Multiple Locations, Multiple Locations",
     "url": "https://jobs.careers.microsoft.com/global/en/search",
     "india": false,
     "locationSaysIndia": false,
@@ -20741,19 +20886,19 @@
     "score": 34
    },
    {
-    "title": "Consultant A2 - Infra",
-    "location": "India, Telangana, Hyderabad",
+    "title": "Solution Engineer - Dynamics 365 Sales & Service",
+    "location": "Hong Kong SAR, Hong Kong Island, Hong Kong",
     "url": "https://jobs.careers.microsoft.com/global/en/search",
-    "india": true,
-    "locationSaysIndia": true,
+    "india": false,
+    "locationSaysIndia": false,
     "hasLocation": true,
-    "isEng": false,
+    "isEng": true,
     "java": false,
     "flutter": false,
     "senior": false,
     "exp": [],
     "expFits2": false,
-    "score": 19
+    "score": 34
    },
    {
     "title": "Principal Software Engineer - CoreAI",
@@ -20831,11 +20976,11 @@
     "score": -3
    },
    {
-    "title": "Principal Consultant - Dotnet Full stack & AI",
-    "location": "India, Telangana, Hyderabad",
+    "title": "Cloud Solution Architect - Cloud & AI Data",
+    "location": "Hong Kong, Multiple Locations, Multiple Locations",
     "url": "https://jobs.careers.microsoft.com/global/en/search",
-    "india": true,
-    "locationSaysIndia": true,
+    "india": false,
+    "locationSaysIndia": false,
     "hasLocation": true,
     "isEng": false,
     "java": false,
@@ -20843,52 +20988,7 @@
     "senior": true,
     "exp": [],
     "expFits2": false,
-    "score": -3
-   },
-   {
-    "title": "Principal Project Manager",
-    "location": "India, Telangana, Hyderabad",
-    "url": "https://jobs.careers.microsoft.com/global/en/search",
-    "india": true,
-    "locationSaysIndia": true,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": true,
-    "exp": [],
-    "expFits2": false,
-    "score": -3
-   },
-   {
-    "title": "Senior Project Manager",
-    "location": "India, Telangana, Hyderabad",
-    "url": "https://jobs.careers.microsoft.com/global/en/search",
-    "india": true,
-    "locationSaysIndia": true,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": true,
-    "exp": [],
-    "expFits2": false,
-    "score": -3
-   },
-   {
-    "title": "Sr. Account Executive - Digital Native",
-    "location": "India, Telangana, Hyderabad",
-    "url": "https://jobs.careers.microsoft.com/global/en/search",
-    "india": true,
-    "locationSaysIndia": true,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": true,
-    "exp": [],
-    "expFits2": false,
-    "score": -3
+    "score": -18
    },
    {
     "title": "Senior Director, Worldwide Commercial Category Lead",
@@ -20919,6 +21019,81 @@
     "exp": [],
     "expFits2": false,
     "score": -18
+   },
+   {
+    "title": "Cloud Solution Architect - Infra",
+    "location": "Hong Kong, Multiple Locations, Multiple Locations",
+    "url": "https://jobs.careers.microsoft.com/global/en/search",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [],
+    "expFits2": false,
+    "score": -18
+   },
+   {
+    "title": "Cloud Solution Architect Manager",
+    "location": "Hong Kong SAR, Hong Kong Island, Hong Kong",
+    "url": "https://jobs.careers.microsoft.com/global/en/search",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [],
+    "expFits2": false,
+    "score": -18
+   },
+   {
+    "title": "Solution Architect- AI",
+    "location": "Hong Kong, Multiple Locations, Multiple Locations",
+    "url": "https://jobs.careers.microsoft.com/global/en/search",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [],
+    "expFits2": false,
+    "score": -18
+   },
+   {
+    "title": "Principal Customer Success Account Manager",
+    "location": "Hong Kong, Multiple Locations, Multiple Locations",
+    "url": "https://jobs.careers.microsoft.com/global/en/search",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [],
+    "expFits2": false,
+    "score": -18
+   },
+   {
+    "title": "Senior Manager (Inventory, Asset, DBD and Logistics Programs)",
+    "location": "Singapore, Singapore, Singapore",
+    "url": "https://jobs.careers.microsoft.com/global/en/search",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [],
+    "expFits2": false,
+    "score": -18
    }
   ],
   "enriched": 0,
@@ -20931,7 +21106,7 @@
     {
      "url": "https://jobs.careers.microsoft.com/global/en/search",
      "status": 200,
-     "bytes": 689303
+     "bytes": 689305
     },
     {
      "url": "https://careers.microsoft.com",
@@ -20941,7 +21116,7 @@
     {
      "url": "https://microsoft.com/careers",
      "status": 200,
-     "bytes": 192600
+     "bytes": 222116
     }
    ],
    "candidates": [
@@ -20959,7 +21134,7 @@
     "workable:microsoft -> no board"
    ]
   },
-  "ms": 24310
+  "ms": 24245
  },
  {
   "company": "Micron Technology",
@@ -22994,19 +23169,19 @@
     "score": 34
    },
    {
-    "title": "Engineer, SPM Workforce Development",
-    "location": "Fab 10N/X, Singapore",
-    "url": "https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Engineer--SPM-Workforce-Development_JR107410",
-    "india": false,
-    "locationSaysIndia": false,
+    "title": "Graduate Engineering Technician",
+    "location": "Sanand - 303A - AT/SSD/MOD, India",
+    "url": "https://micron.wd1.myworkdayjobs.com/External/job/Sanand---303A---ATSSDMOD-India/Graduate-Engineering-Technician_JR105824",
+    "india": true,
+    "locationSaysIndia": true,
     "hasLocation": true,
-    "isEng": true,
+    "isEng": false,
     "java": false,
     "flutter": false,
     "senior": false,
     "exp": [],
     "expFits2": false,
-    "score": 34
+    "score": 31
    },
    {
     "title": "STAFF ENGINEER, SSD NVMQRA TEST DEV ENG",
@@ -24758,6 +24933,21 @@
     "score": 4
    },
    {
+    "title": "【立即應徵 Apply Now! 】2026 Autumn Campus Hiring 秋季校園徵才專區",
+    "location": "5 Locations",
+    "url": "https://micron.wd1.myworkdayjobs.com/External/job/Taichung---Fab-16-Taiwan/XMLNAME---Apply-Now---2026-Autumn-Campus-Hiring-_JR104761",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 4
+   },
+   {
     "title": "HBM PRODUCTION OPERATOR",
     "location": "Taichung - MTB, Taiwan",
     "url": "https://micron.wd1.myworkdayjobs.com/External/job/Taichung---MTB-Taiwan/HBM-PRODUCTION-OPERATOR_JR107588",
@@ -24956,21 +25146,6 @@
     "title": "ケミカル設備管理テクニシャン/ Chemical Technician",
     "location": "Hiroshima - Fab 15, Japan",
     "url": "https://micron.wd1.myworkdayjobs.com/External/job/Hiroshima---Fab-15-Japan/Chemical-Technician_JR102368",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 4
-   },
-   {
-    "title": "PDE HBM NPI Shift PE",
-    "location": "Taichung - MTB, Taiwan",
-    "url": "https://micron.wd1.myworkdayjobs.com/External/job/Taichung---MTB-Taiwan/PDE-HBM-NPI-Shift-PE_JR105247",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
@@ -27093,7 +27268,7 @@
     {
      "url": "https://careers.micron.com/",
      "status": 200,
-     "bytes": 251946
+     "bytes": 253465
     },
     {
      "url": "https://careers.micron.com",
@@ -27118,7 +27293,7 @@
     "workday:micron -> 400 jobs"
    ]
   },
-  "ms": 21444
+  "ms": 19820
  },
  {
   "company": "Mastercard",
@@ -27830,7 +28005,7 @@
     {
      "url": "https://mastercard.com/career",
      "status": 404,
-     "bytes": 3816
+     "bytes": 708
     },
     {
      "url": "https://mastercard.com/jobs",
@@ -27841,12 +28016,12 @@
     {
      "url": "https://mastercard.com/join-us",
      "status": 404,
-     "bytes": 3816
+     "bytes": 708
     },
     {
      "url": "https://mastercard.com/join-our-team",
      "status": 404,
-     "bytes": 708
+     "bytes": 3816
     }
    ],
    "candidates": [
@@ -27862,7 +28037,7 @@
     "workday:mastercard -> 40 jobs"
    ]
   },
-  "ms": 25993
+  "ms": 24396
  },
  {
   "company": "Morgan Stanley",
@@ -28006,7 +28181,7 @@
     "workable:morganstanley -> no board"
    ]
   },
-  "ms": 12690
+  "ms": 9143
  },
  {
   "company": "Moody's",
@@ -28148,7 +28323,7 @@
     "workable:moodys -> no board"
    ]
   },
-  "ms": 10699
+  "ms": 11936
  },
  {
   "company": "MongoDB",
@@ -37419,7 +37594,7 @@
     "greenhouse:mongodb -> 405 jobs (guess, name-verified)"
    ]
   },
-  "ms": 7722
+  "ms": 12086
  },
  {
   "company": "MSCI",
@@ -37547,7 +37722,7 @@
     {
      "url": "https://msci.com/jobs",
      "status": 404,
-     "bytes": 170336
+     "bytes": 170293
     }
    ],
    "candidates": [
@@ -37566,7 +37741,7 @@
     "icims:uscareers-msci -> 2 jobs"
    ]
   },
-  "ms": 11670
+  "ms": 13429
  },
  {
   "company": "Morningstar",
@@ -37634,7 +37809,7 @@
     "workable:morningstar -> no board"
    ]
   },
-  "ms": 22546
+  "ms": 21708
  },
  {
   "company": "MathWorks",
@@ -37728,7 +37903,7 @@
     "workable:mathworks -> no board"
    ]
   },
-  "ms": 47127
+  "ms": 60347
  },
  {
   "company": "Marvell Technology",
@@ -38618,7 +38793,7 @@
     "workday:marvell -> 40 jobs"
    ]
   },
-  "ms": 18851
+  "ms": 17885
  },
  {
   "company": "MaxLinear",
@@ -39226,7 +39401,7 @@
     {
      "url": "https://www.maxlinear.com/company/careers",
      "status": 200,
-     "bytes": 81172
+     "bytes": 81252
     },
     {
      "url": "https://careers.maxlinear.com",
@@ -39237,12 +39412,12 @@
     {
      "url": "https://maxlinear.com/careers",
      "status": 404,
-     "bytes": 41129
+     "bytes": 41064
     },
     {
      "url": "https://maxlinear.com/career",
      "status": 404,
-     "bytes": 41194
+     "bytes": 41129
     }
    ],
    "candidates": [
@@ -39258,7 +39433,7 @@
     "icims:careersus-maxlinear -> 27 jobs"
    ]
   },
-  "ms": 15045
+  "ms": 10996
  },
  {
   "company": "Microchip Technology",
@@ -39352,32 +39527,32 @@
     {
      "url": "https://microchip.com/join-us",
      "status": 404,
-     "bytes": 639399
+     "bytes": 649983
     },
     {
      "url": "https://microchip.com/join-our-team",
      "status": 404,
-     "bytes": 639399
+     "bytes": 649983
     },
     {
      "url": "https://microchip.com/careers.html",
      "status": 404,
-     "bytes": 639399
+     "bytes": 649983
     },
     {
      "url": "https://microchip.com/company/careers",
      "status": 404,
-     "bytes": 639399
+     "bytes": 649983
     },
     {
      "url": "https://microchip.com/about/careers",
      "status": 404,
-     "bytes": 639399
+     "bytes": 649983
     },
     {
      "url": "https://microchip.com/current-openings",
      "status": 404,
-     "bytes": 639399
+     "bytes": 649983
     },
     {
      "url": "https://microchip.com/",
@@ -39400,7 +39575,7 @@
     "workable:microchip -> no board"
    ]
   },
-  "ms": 16520
+  "ms": 16240
  },
  {
   "company": "MediaTek",
@@ -39608,7 +39783,7 @@
     "workable:mediatek -> no board"
    ]
   },
-  "ms": 34091
+  "ms": 35736
  },
  {
   "company": "Manhattan Associates",
@@ -40399,7 +40574,7 @@
     "workday:manh -> 38 jobs"
    ]
   },
-  "ms": 12617
+  "ms": 12849
  },
  {
   "company": "Mavenir",
@@ -40650,7 +40825,7 @@
     {
      "url": "https://www.mavenir.com/careers/",
      "status": 200,
-     "bytes": 178577
+     "bytes": 178578
     },
     {
      "url": "https://careers.mavenir.com",
@@ -40661,52 +40836,52 @@
     {
      "url": "https://mavenir.com/careers",
      "status": 200,
-     "bytes": 178577
+     "bytes": 178578
     },
     {
      "url": "https://mavenir.com/career",
      "status": 404,
-     "bytes": 143583
+     "bytes": 143580
     },
     {
      "url": "https://mavenir.com/jobs",
      "status": 404,
-     "bytes": 143582
+     "bytes": 143584
     },
     {
      "url": "https://mavenir.com/join-us",
      "status": 404,
-     "bytes": 143580
+     "bytes": 143575
     },
     {
      "url": "https://mavenir.com/join-our-team",
      "status": 404,
-     "bytes": 143584
+     "bytes": 143582
     },
     {
      "url": "https://mavenir.com/careers.html",
      "status": 404,
-     "bytes": 143584
+     "bytes": 143582
     },
     {
      "url": "https://mavenir.com/company/careers",
      "status": 404,
-     "bytes": 143580
+     "bytes": 143584
     },
     {
      "url": "https://mavenir.com/about/careers",
      "status": 200,
-     "bytes": 178577
+     "bytes": 178578
     },
     {
      "url": "https://mavenir.com/current-openings",
      "status": 404,
-     "bytes": 143584
+     "bytes": 143581
     },
     {
      "url": "https://mavenir.com/",
      "status": 200,
-     "bytes": 301967
+     "bytes": 301970
     }
    ],
    "candidates": [
@@ -40721,7 +40896,7 @@
     "workday:mavenir -> 10 jobs"
    ]
   },
-  "ms": 17732
+  "ms": 16753
  },
  {
   "company": "Mobileum",
@@ -40865,7 +41040,7 @@
     "workable:mobileum -> no board"
    ]
   },
-  "ms": 18769
+  "ms": 18832
  },
  {
   "company": "MetricStream",
@@ -40984,7 +41159,7 @@
     "workable:metricstream -> no board"
    ]
   },
-  "ms": 6490
+  "ms": 7257
  },
  {
   "company": "Mitratech",
@@ -41519,7 +41694,7 @@
     "greenhouse:mitratech -> 21 jobs"
    ]
   },
-  "ms": 4051
+  "ms": 6436
  },
  {
   "company": "Model N",
@@ -42016,7 +42191,7 @@
     {
      "url": "https://www.modeln.com/company/careers/",
      "status": 200,
-     "bytes": 191873
+     "bytes": 191872
     },
     {
      "url": "https://careers.modeln.com",
@@ -42027,12 +42202,52 @@
     {
      "url": "https://modeln.com/careers",
      "status": 200,
-     "bytes": 164542
+     "bytes": 191872
     },
     {
      "url": "https://modeln.com/career",
      "status": 404,
      "bytes": 160762
+    },
+    {
+     "url": "https://modeln.com/jobs",
+     "status": 404,
+     "bytes": 160762
+    },
+    {
+     "url": "https://modeln.com/join-us",
+     "status": 404,
+     "bytes": 160762
+    },
+    {
+     "url": "https://modeln.com/join-our-team",
+     "status": 404,
+     "bytes": 160762
+    },
+    {
+     "url": "https://modeln.com/careers.html",
+     "status": 404,
+     "bytes": 160762
+    },
+    {
+     "url": "https://modeln.com/company/careers",
+     "status": 200,
+     "bytes": 191872
+    },
+    {
+     "url": "https://modeln.com/about/careers",
+     "status": 200,
+     "bytes": 191872
+    },
+    {
+     "url": "https://modeln.com/current-openings",
+     "status": 404,
+     "bytes": 160762
+    },
+    {
+     "url": "https://modeln.com/",
+     "status": 200,
+     "bytes": 202595
     }
    ],
    "candidates": [
@@ -42047,7 +42262,7 @@
     "lever:modeln -> 17 jobs (guess, name-verified)"
    ]
   },
-  "ms": 8564
+  "ms": 17657
  },
  {
   "company": "Majesco",
@@ -42098,32 +42313,32 @@
     {
      "url": "https://majesco.com/join-our-team",
      "status": 200,
-     "bytes": 212
+     "bytes": 946
     },
     {
      "url": "https://majesco.com/careers.html",
      "status": 200,
-     "bytes": 946
+     "bytes": 952
     },
     {
      "url": "https://majesco.com/company/careers",
      "status": 200,
-     "bytes": 962
+     "bytes": 954
     },
     {
      "url": "https://majesco.com/about/careers",
      "status": 200,
-     "bytes": 950
+     "bytes": 948
     },
     {
      "url": "https://majesco.com/current-openings",
      "status": 200,
-     "bytes": 950
+     "bytes": 952
     },
     {
      "url": "https://majesco.com/",
      "status": 200,
-     "bytes": 946
+     "bytes": 950
     },
     {
      "url": "https://careers.www.majesco.com",
@@ -42139,7 +42354,7 @@
     {
      "url": "https://www.majesco.com/career",
      "status": 200,
-     "bytes": 949
+     "bytes": 948
     },
     {
      "url": "https://www.majesco.com/jobs",
@@ -42149,22 +42364,22 @@
     {
      "url": "https://www.majesco.com/join-us",
      "status": 200,
-     "bytes": 950
+     "bytes": 946
     },
     {
      "url": "https://www.majesco.com/join-our-team",
      "status": 200,
-     "bytes": 951
+     "bytes": 942
     },
     {
      "url": "https://www.majesco.com/careers.html",
      "status": 200,
-     "bytes": 950
+     "bytes": 945
     },
     {
      "url": "https://www.majesco.com/company/careers",
      "status": 200,
-     "bytes": 950
+     "bytes": 948
     },
     {
      "url": "https://www.majesco.com/about/careers",
@@ -42174,12 +42389,12 @@
     {
      "url": "https://www.majesco.com/current-openings",
      "status": 200,
-     "bytes": 948
+     "bytes": 946
     },
     {
      "url": "https://www.majesco.com/",
      "status": 200,
-     "bytes": 946
+     "bytes": 954
     }
    ],
    "candidates": [
@@ -42197,7 +42412,7 @@
     "workable:majesco -> no board"
    ]
   },
-  "ms": 20321
+  "ms": 22552
  },
  {
   "company": "Medallia",
@@ -42930,7 +43145,7 @@
     "workable:medallia -> no board"
    ]
   },
-  "ms": 44725
+  "ms": 50163
  },
  {
   "company": "Meltwater",
@@ -43118,7 +43333,7 @@
     "workable:meltwater -> no board"
    ]
   },
-  "ms": 9296
+  "ms": 11758
  },
  {
   "company": "Monotype",
@@ -43726,7 +43941,7 @@
     "workday:monotype -> 31 jobs"
    ]
   },
-  "ms": 8626
+  "ms": 9552
  },
  {
   "company": "Media.net",
@@ -43819,7 +44034,7 @@
     "workable:media -> no board"
    ]
   },
-  "ms": 24662
+  "ms": 27271
  },
  {
   "company": "Marlabs",
@@ -43913,16 +44128,167 @@
     "workable:marlabs -> no board"
    ]
   },
-  "ms": 14428
+  "ms": 14223
  },
  {
   "company": "Mastech Digital",
   "country": "United States",
   "careers": "https://jobs.mastechdigital.com/",
-  "source": null,
-  "error": "careers-page-read-but-lists-no-openings",
-  "totalJobs": 0,
-  "jobs": [],
+  "source": "rendered",
+  "error": null,
+  "totalJobs": 10,
+  "jobs": [
+   {
+    "title": "QA Engineer – AI Applications",
+    "location": "",
+    "url": "https://jobs.mastechdigital.com/client/Job/qa-engineer--ai-applications-in-Chennai-TN?jobNum=24084902&jc=1128",
+    "india": true,
+    "locationSaysIndia": false,
+    "hasLocation": false,
+    "isEng": true,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 49
+   },
+   {
+    "title": "Full Stack Developer – AI",
+    "location": "",
+    "url": "https://jobs.mastechdigital.com/client/Job/full-stack-developer--ai--in-Bengaluru-KA?jobNum=24084907&jc=1129",
+    "india": true,
+    "locationSaysIndia": false,
+    "hasLocation": false,
+    "isEng": true,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 49
+   },
+   {
+    "title": "QA Engineer – AI Applications",
+    "location": "",
+    "url": "https://jobs.mastechdigital.com/client/Job/qa-engineer--ai-applications-in-Bengaluru-KA?jobNum=24084756&jc=1126",
+    "india": true,
+    "locationSaysIndia": false,
+    "hasLocation": false,
+    "isEng": true,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 49
+   },
+   {
+    "title": "DevOps Engineer – Azure & AI Applications",
+    "location": "",
+    "url": "https://jobs.mastechdigital.com/client/Job/devops-engineer--azure--ai-applications-in-Bengaluru-KA?jobNum=24084750&jc=1124",
+    "india": true,
+    "locationSaysIndia": false,
+    "hasLocation": false,
+    "isEng": true,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 49
+   },
+   {
+    "title": "QA Engineer – AI Applications",
+    "location": "",
+    "url": "https://jobs.mastechdigital.com/client/Job/qa-engineer--ai-applications-in-Bengaluru-KA?jobNum=24084469&jc=1114",
+    "india": true,
+    "locationSaysIndia": false,
+    "hasLocation": false,
+    "isEng": true,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 49
+   },
+   {
+    "title": "Senior AI Engineer",
+    "location": "",
+    "url": "https://jobs.mastechdigital.com/client/Job/senior-ai-engineer-in-Chennai-TN?jobNum=24084757&jc=1127",
+    "india": true,
+    "locationSaysIndia": false,
+    "hasLocation": false,
+    "isEng": true,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [],
+    "expFits2": false,
+    "score": 27
+   },
+   {
+    "title": "Senior Data Engineer – Azure/ Fabric/ Databricks",
+    "location": "",
+    "url": "https://jobs.mastechdigital.com/client/Job/senior-data-engineer--azure-fabric-databricks-in-Chennai-TN?jobNum=24084627&jc=1122",
+    "india": true,
+    "locationSaysIndia": false,
+    "hasLocation": false,
+    "isEng": true,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [],
+    "expFits2": false,
+    "score": 27
+   },
+   {
+    "title": "Aircraft Technician",
+    "location": "",
+    "url": "https://jobs.mastechdigital.com/client/Job/aircraft-technician-in-New-York-NY?jobNum=24084764&jc=304142",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": false,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 4
+   },
+   {
+    "title": "Technical Platform Lead",
+    "location": "",
+    "url": "https://jobs.mastechdigital.com/client/Job/technical-platform-lead-in-Chennai-TN?jobNum=24084751&jc=1125",
+    "india": true,
+    "locationSaysIndia": false,
+    "hasLocation": false,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [],
+    "expFits2": false,
+    "score": -3
+   },
+   {
+    "title": "Senior Project Manager",
+    "location": "",
+    "url": "https://jobs.mastechdigital.com/client/Job/senior-project-manager-in-Irving-TX?jobNum=24085244&jc=304730",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": false,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [],
+    "expFits2": false,
+    "score": -18
+   }
+  ],
   "enriched": 0,
   "matches": [],
   "nearMatches": [],
@@ -43933,7 +44299,7 @@
     {
      "url": "https://jobs.mastechdigital.com/",
      "status": 200,
-     "bytes": 46632
+     "bytes": 46631
     },
     {
      "url": "https://careers.mastechdigital.com",
@@ -43949,7 +44315,7 @@
     {
      "url": "https://mastechdigital.com/career",
      "status": 200,
-     "bytes": 46632
+     "bytes": 46631
     },
     {
      "url": "https://mastechdigital.com/jobs",
@@ -43982,7 +44348,7 @@
     "workable:mastechdigital -> no board"
    ]
   },
-  "ms": 35366
+  "ms": 47708
  },
  {
   "company": "MSRcosmos",
@@ -44319,7 +44685,7 @@
     "workable:msrcosmos -> no board"
    ]
   },
-  "ms": 32438
+  "ms": 33797
  },
  {
   "company": "Miracle Software Systems",
@@ -44591,7 +44957,7 @@
     "workable:miraclesoft -> no board"
    ]
   },
-  "ms": 15374
+  "ms": 15856
  },
  {
   "company": "Matellio",
@@ -44753,7 +45119,7 @@
     "keka:matellio -> 3 jobs"
    ]
   },
-  "ms": 10943
+  "ms": 10240
  },
  {
   "company": "Mobcoder",
@@ -45051,7 +45417,7 @@
     "workable:mobcoder -> no board"
    ]
   },
-  "ms": 28353
+  "ms": 27126
  },
  {
   "company": "Mroads",
@@ -45432,7 +45798,7 @@
     "workable:mroads -> no board"
    ]
   },
-  "ms": 50324
+  "ms": 50342
  },
  {
   "company": "Modernizing Medicine",
@@ -45592,7 +45958,7 @@
     "workable:modmed -> no board"
    ]
   },
-  "ms": 13581
+  "ms": 13178
  },
  {
   "company": "Multiplier",
@@ -45671,7 +46037,7 @@
     "workable:usemultiplier -> no board"
    ]
   },
-  "ms": 7481
+  "ms": 4714
  },
  {
   "company": "Mindera",
@@ -46536,7 +46902,7 @@
     {
      "url": "https://mindera.com/careers",
      "status": 200,
-     "bytes": 180511
+     "bytes": 180597
     },
     {
      "url": "https://careers.mindera.com",
@@ -46552,7 +46918,7 @@
     {
      "url": "https://mindera.com/jobs",
      "status": 200,
-     "bytes": 180511
+     "bytes": 180597
     },
     {
      "url": "https://mindera.com/join-us",
@@ -46575,7 +46941,7 @@
     "workable:mindera -> no board"
    ]
   },
-  "ms": 8034
+  "ms": 9268
  },
  {
   "company": "Maersk",
@@ -46633,7 +46999,7 @@
     "workable:maersk -> no board"
    ]
   },
-  "ms": 14401
+  "ms": 33457
  },
  {
   "company": "Marriott International",
@@ -46830,22 +47196,22 @@
     {
      "url": "https://careers.marriott.com/",
      "status": 200,
-     "bytes": 583772
+     "bytes": 583774
     },
     {
      "url": "https://careers.marriott.com",
      "status": 200,
-     "bytes": 583772
+     "bytes": 583774
     },
     {
      "url": "https://marriott.com/careers",
      "status": 200,
-     "bytes": 583772
+     "bytes": 583774
     },
     {
      "url": "https://marriott.com/career",
      "status": 404,
-     "bytes": 217320
+     "bytes": 217812
     },
     {
      "url": "https://marriott.com/jobs",
@@ -46868,7 +47234,7 @@
     "workable:marriott -> no board"
    ]
   },
-  "ms": 25623
+  "ms": 53297
  },
  {
   "company": "Mars",
@@ -46939,9 +47305,24 @@
     "score": 4
    },
    {
-    "title": "Mixing Operator - Pitman Nights ($1,500 Sign-on Bonus)",
+    "title": "Packaging Operator- Royal Canin (Guelph, ON)$3,000 Sign-On Bonus",
+    "location": "Guelph, Ontario",
+    "url": "https://mars.wd3.myworkdayjobs.com/en-US/External/job/CAN-Ontario-Guelph/Packaging-Operator--Royal-Canin--Guelph--ON--3-000-Sign-On-Bonus_R158643-1/apply",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 4
+   },
+   {
+    "title": "Stick Wrap Machine Operator ($1,500 Sign-on Bonus)",
     "location": "Yorkville, Illinois",
-    "url": "https://mars.wd3.myworkdayjobs.com/en-US/External/job/USA-Illinois-Yorkville/Mixing-Operator---Pitman-Nights---1-500-Sign-on-Bonus-_R155316-1/apply",
+    "url": "https://mars.wd3.myworkdayjobs.com/en-US/External/job/USA-Illinois-Yorkville/Stick-Wrap-Machine-Operator---1-500-Sign-on-Bonus-_R155792-1/apply",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
@@ -47002,21 +47383,6 @@
     "title": "Senior Manager, Strategic Growth & Insights",
     "location": "Bentonville, Arkansas",
     "url": "https://mars.wd3.myworkdayjobs.com/en-US/External/job/USA-Arkansas-Bentonville/Senior-Manager--Strategic-Growth---Insights_R157723-1/apply",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": true,
-    "exp": [],
-    "expFits2": false,
-    "score": -18
-   },
-   {
-    "title": "Site Finance Manager",
-    "location": "Franklin, Tennessee",
-    "url": "https://mars.wd3.myworkdayjobs.com/en-US/External/job/USA-Tennessee-Franklin/Site-Finance-Manager_R148799-1/apply",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
@@ -47190,7 +47556,7 @@
     "phenom:_self -> 10 jobs"
    ]
   },
-  "ms": 10829
+  "ms": 13263
  },
  {
   "company": "McDonald's",
@@ -47670,12 +48036,12 @@
     {
      "url": "https://careers.mcdonalds.com",
      "status": 200,
-     "bytes": 76906
+     "bytes": 76905
     },
     {
      "url": "https://mcdonalds.com/careers",
      "status": 200,
-     "bytes": 76906
+     "bytes": 76905
     },
     {
      "url": "https://mcdonalds.com/career",
@@ -47705,12 +48071,12 @@
     {
      "url": "https://mcdonalds.com/company/careers",
      "status": 200,
-     "bytes": 76906
+     "bytes": 76908
     },
     {
      "url": "https://mcdonalds.com/about/careers",
      "status": 200,
-     "bytes": 76906
+     "bytes": 76907
     },
     {
      "url": "https://mcdonalds.com/current-openings",
@@ -47720,7 +48086,7 @@
     {
      "url": "https://mcdonalds.com/",
      "status": 200,
-     "bytes": 299749
+     "bytes": 299748
     }
    ],
    "candidates": [
@@ -47738,7 +48104,7 @@
     "workable:mcdonalds -> no board"
    ]
   },
-  "ms": 41794
+  "ms": 47920
  },
  {
   "company": "Mondelez International",
@@ -47746,7 +48112,7 @@
   "careers": "https://www.mondelezinternational.com/careers/",
   "source": "rendered",
   "error": null,
-  "totalJobs": 3,
+  "totalJobs": 2,
   "jobs": [
    {
     "title": "Athletic Trainer Turned Safety Specialist at Mondelēz - An Unexpected Career Pivot",
@@ -47764,10 +48130,10 @@
     "score": 4
    },
    {
-    "title": "Retail Territory Manager",
+    "title": "IL6S Lead Induri (Pune) Plant",
     "location": "",
-    "url": "https://www.mondelezinternational.com/careers/jobs/job?jobid=r-174776&jobtitle=retail%20territory%20manager",
-    "india": false,
+    "url": "https://www.mondelezinternational.com/careers/jobs/job?jobid=r-174662&jobtitle=il6s%20lead%20induri%20(pune)%20plant",
+    "india": true,
     "locationSaysIndia": false,
     "hasLocation": false,
     "isEng": false,
@@ -47776,22 +48142,7 @@
     "senior": true,
     "exp": [],
     "expFits2": false,
-    "score": -18
-   },
-   {
-    "title": "Retail Territory Manager",
-    "location": "",
-    "url": "https://www.mondelezinternational.com/careers/jobs/job?jobid=r-174772&jobtitle=retail%20territory%20manager",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": true,
-    "exp": [],
-    "expFits2": false,
-    "score": -18
+    "score": -3
    }
   ],
   "enriched": 0,
@@ -47889,7 +48240,7 @@
     "workable:mondelezinternational -> no board"
    ]
   },
-  "ms": 29650
+  "ms": 38584
  },
  {
   "company": "McKinsey & Company",
@@ -47920,7 +48271,7 @@
     {
      "url": "https://mckinsey.com/careers",
      "status": 200,
-     "bytes": 89671
+     "bytes": 89672
     },
     {
      "url": "https://mckinsey.com/career",
@@ -47943,7 +48294,7 @@
     "workable:mckinsey -> no board"
    ]
   },
-  "ms": 41159
+  "ms": 42080
  },
  {
   "company": "Mercer",
@@ -48017,7 +48368,7 @@
     "workable:mercer -> no board"
    ]
   },
-  "ms": 32735
+  "ms": 36794
  },
  {
   "company": "Marsh McLennan",
@@ -48128,7 +48479,17 @@
     {
      "url": "https://marshmclennan.com/about/careers",
      "status": 200,
-     "bytes": 193041
+     "bytes": 193212
+    },
+    {
+     "url": "https://marshmclennan.com/current-openings",
+     "status": 404,
+     "bytes": 41137
+    },
+    {
+     "url": "https://marshmclennan.com/",
+     "status": 200,
+     "bytes": 45351
     }
    ],
    "candidates": [
@@ -48148,7 +48509,7 @@
     "workable:marshmclennan -> no board"
    ]
   },
-  "ms": 58975
+  "ms": 53741
  },
  {
   "company": "Milliman",
@@ -48320,7 +48681,7 @@
     "workable:milliman -> no board"
    ]
   },
-  "ms": 29212
+  "ms": 26293
  },
  {
   "company": "MassMutual",
@@ -48414,7 +48775,7 @@
     {
      "url": "https://massmutual.com/careers",
      "status": 200,
-     "bytes": 128173
+     "bytes": 128218
     },
     {
      "url": "https://massmutual.com/career",
@@ -48437,7 +48798,7 @@
     "workable:massmutual -> no board"
    ]
   },
-  "ms": 14416
+  "ms": 16229
  },
  {
   "company": "MetLife",
@@ -48593,7 +48954,7 @@
     {
      "url": "https://www.metlifecareers.com/",
      "status": 200,
-     "bytes": 77676
+     "bytes": 77678
     },
     {
      "url": "https://careers.metlife.com",
@@ -48630,7 +48991,7 @@
     {
      "url": "https://metlife.com/careers.html",
      "status": 200,
-     "bytes": 77676
+     "bytes": 77678
     },
     {
      "url": "https://metlife.com/company/careers",
@@ -48668,7 +49029,7 @@
     "workable:metlife -> no board"
    ]
   },
-  "ms": 80991
+  "ms": 71494
  },
  {
   "company": "Manulife",
@@ -48697,6 +49058,21 @@
     ],
     "expFits2": false,
     "score": 55
+   },
+   {
+    "title": "Financial Sales Associate",
+    "location": "Makati City",
+    "url": "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Makati-City/Financial-Sales-Associate_JR26061672-1",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 16
    },
    {
     "title": "Financial Sales Associate",
@@ -48921,21 +49297,6 @@
     "title": "Bilingual Medical Tele-Interviewer",
     "location": "10 Locations",
     "url": "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/CAN-Quebec---Full-Time-Remote/Bilingual-Medical-Tele-Interviewer_JR26061077-2",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 4
-   },
-   {
-    "title": "Group Benefits Account Executive",
-    "location": "CAN, Ontario - Full Time Remote",
-    "url": "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/CAN-Ontario---Full-Time-Remote/Group-Benefits-Account-Executive_JR26071075-2",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
@@ -49383,7 +49744,7 @@
     {
      "url": "https://www.manulife.com/en/careers",
      "status": 404,
-     "bytes": 46138
+     "bytes": 46075
     },
     {
      "url": "https://careers.manulife.com",
@@ -49398,7 +49759,22 @@
     {
      "url": "https://manulife.com/career",
      "status": 404,
-     "bytes": 46058
+     "bytes": 46080
+    },
+    {
+     "url": "https://manulife.com/jobs",
+     "status": 404,
+     "bytes": 46075
+    },
+    {
+     "url": "https://manulife.com/join-us",
+     "status": 404,
+     "bytes": 46080
+    },
+    {
+     "url": "https://manulife.com/join-our-team",
+     "status": 404,
+     "bytes": 46060
     }
    ],
    "candidates": [
@@ -49414,7 +49790,7 @@
     "workday:manulife -> 40 jobs"
    ]
   },
-  "ms": 8727
+  "ms": 12128
  },
  {
   "company": "Munich Re",
@@ -49425,29 +49801,24 @@
   "totalJobs": 4,
   "jobs": [
    {
-    "title": "Account Engineer",
-    "location": "Atlanta, US-GA, USA",
-    "url": "https://careers.munichre.com/en/job/atlanta/account-engineer/3342/31297154688",
+    "title": "Human Resources Associate",
+    "location": "",
+    "url": "https://careers.munichre.com/en/job/princeton/human-resources-associate/3342/41783814784",
     "india": false,
     "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": true,
+    "hasLocation": false,
+    "isEng": false,
     "java": false,
     "flutter": false,
     "senior": false,
-    "exp": [
-     [
-      10,
-      14
-     ]
-    ],
+    "exp": [],
     "expFits2": false,
-    "score": 30
+    "score": 16
    },
    {
-    "title": "Data Governance Analyst",
+    "title": "Property Analyst",
     "location": "",
-    "url": "https://careers.munichre.com/en/job/new-york/data-governance-analyst/3342/42447499584",
+    "url": "https://careers.munichre.com/en/job/london/property-analyst/3342/42576128960",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": false,
@@ -49490,59 +49861,29 @@
     "score": -18
    }
   ],
-  "enriched": 1,
+  "enriched": 0,
   "matches": [],
   "nearMatches": [],
   "closest": {
-   "title": "Account Engineer",
-   "location": "Atlanta, US-GA, USA",
-   "url": "https://careers.munichre.com/en/job/atlanta/account-engineer/3342/31297154688",
+   "title": "Human Resources Associate",
+   "location": "",
+   "url": "https://careers.munichre.com/en/job/princeton/human-resources-associate/3342/41783814784",
    "team": "",
-   "text": "Tour factories and power plants. Analyze the facility’s equipment and product flow. Identify possible insurance claims, and work with customers to reduce their risk potential. These will be your primary responsibilities if you become an Account Engineer (Internal Title: Risk Specialist). In this role, you will be part of HSB’s team of experts in heavy industry, who evaluate businesses in steel, aluminum, renewable power generation, traditional power generation, mining, pulp & paper, sugar, manufacturing, glass, and similar industries. When you aren’t visiting sites, you are working from home, supporting accounts, and writing risk evaluations for underwriters. At HSB, our engineering teams support the insurance and advancement of equipment and technology. We evaluate and insure some of the world’s largest industrial, power, and manufacturing sites. Apply to join our growing team! Internal Job Title : Risk Specialist Key Responsibilities Conduct site risk evaluations of facilities in heavy industries. Assess the facility’s process flow, machinery, and operations & maintenance practices. Identify risk factors. Use a consultative approach with the insured to reduce the potential for an insurance claim. Write a report about the location, to provide HSB and Munich Re underwriters with a clear understanding of the site. Write evaluations of insured accounts and potential new customers for HSB and Munich Re underwriters, by evaluating available information on multiple sites which make up the account. Apply advanced technical knowledge of equipment design, condition, operations, maintenance, and human element risk control programs to complete the evaluation. Determine how to improve or manage insured accounts’ risk through account engineering, additional services, and risk control engineering visits. Education and Experience Bachelor’s degree in engineering or related discipline is preferred,or equivalent work experience 10+ years of experience in operations, or maintenance in heavy industry occupancy industries, boiler inspection, or insurance engineering. Comprehensive understanding of the machinery, operations procedures, repair timelines, and process flow of at least one heavy industry occupancy. These include, for example: power generation, steel, aluminum, mining, pulp & paper, sugar, or glass Excellent interpersonal skills. Excellent written and verbal communication. Self-starter; able to work with limited supervision and manage competing priorities. Understanding of insurance industry and underwriting terms is a plus. Additional Details Must be able to travel, including ~50 overnight stays per year. Benefits for this position include a competitive salary & benefits, paid time off, 5% 401(k) match, plus an additional +2% to +5% Retirement Savings Plan contribution to your 401(k) after the first year. At The Hartford Steam Boiler, a subsidiary of Munich Re, we see Diversity and Inclusion as a solution to the challenges and opportunities all around us. Our goal is to foster an inclusive culture and build a workforce that reflects the customers we serve and the communities in which we live and work. We strive to provide a workplace where all of our colleagues feel respected, valued and empowered to achieve their very best every day. We recruit and develop talent with a focus on providing our customers the most innovative products and services. We are an equal opportunity employer. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions. We are an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability or protected veteran status. The work environment characteristics, and any physical and mental requirements described here are representative of those that must be met by an employee to successfully perform the essential functions of this job. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions. This job description is not designed to cover or contain a comprehensive listing of activities, duties or responsibilities that are required of the employee. Other duties, responsibilities and activities may change or be assigned at any time with or without notice.",
-   "_enriched": true,
-   "score": 30,
+   "text": "Human Resources Associate",
+   "score": 16,
    "isMatch": false,
-   "isEng": true,
+   "isEng": false,
    "java": false,
    "flutter": false,
    "android": false,
    "india": false,
    "senior": false,
-   "junior": false,
+   "junior": true,
    "intern": false,
-   "exp": [
-    [
-     10,
-     14
-    ]
-   ],
+   "exp": [],
    "expFits2": false
   },
-  "closestEng": {
-   "title": "Account Engineer",
-   "location": "Atlanta, US-GA, USA",
-   "url": "https://careers.munichre.com/en/job/atlanta/account-engineer/3342/31297154688",
-   "team": "",
-   "text": "Tour factories and power plants. Analyze the facility’s equipment and product flow. Identify possible insurance claims, and work with customers to reduce their risk potential. These will be your primary responsibilities if you become an Account Engineer (Internal Title: Risk Specialist). In this role, you will be part of HSB’s team of experts in heavy industry, who evaluate businesses in steel, aluminum, renewable power generation, traditional power generation, mining, pulp & paper, sugar, manufacturing, glass, and similar industries. When you aren’t visiting sites, you are working from home, supporting accounts, and writing risk evaluations for underwriters. At HSB, our engineering teams support the insurance and advancement of equipment and technology. We evaluate and insure some of the world’s largest industrial, power, and manufacturing sites. Apply to join our growing team! Internal Job Title : Risk Specialist Key Responsibilities Conduct site risk evaluations of facilities in heavy industries. Assess the facility’s process flow, machinery, and operations & maintenance practices. Identify risk factors. Use a consultative approach with the insured to reduce the potential for an insurance claim. Write a report about the location, to provide HSB and Munich Re underwriters with a clear understanding of the site. Write evaluations of insured accounts and potential new customers for HSB and Munich Re underwriters, by evaluating available information on multiple sites which make up the account. Apply advanced technical knowledge of equipment design, condition, operations, maintenance, and human element risk control programs to complete the evaluation. Determine how to improve or manage insured accounts’ risk through account engineering, additional services, and risk control engineering visits. Education and Experience Bachelor’s degree in engineering or related discipline is preferred,or equivalent work experience 10+ years of experience in operations, or maintenance in heavy industry occupancy industries, boiler inspection, or insurance engineering. Comprehensive understanding of the machinery, operations procedures, repair timelines, and process flow of at least one heavy industry occupancy. These include, for example: power generation, steel, aluminum, mining, pulp & paper, sugar, or glass Excellent interpersonal skills. Excellent written and verbal communication. Self-starter; able to work with limited supervision and manage competing priorities. Understanding of insurance industry and underwriting terms is a plus. Additional Details Must be able to travel, including ~50 overnight stays per year. Benefits for this position include a competitive salary & benefits, paid time off, 5% 401(k) match, plus an additional +2% to +5% Retirement Savings Plan contribution to your 401(k) after the first year. At The Hartford Steam Boiler, a subsidiary of Munich Re, we see Diversity and Inclusion as a solution to the challenges and opportunities all around us. Our goal is to foster an inclusive culture and build a workforce that reflects the customers we serve and the communities in which we live and work. We strive to provide a workplace where all of our colleagues feel respected, valued and empowered to achieve their very best every day. We recruit and develop talent with a focus on providing our customers the most innovative products and services. We are an equal opportunity employer. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions. We are an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability or protected veteran status. The work environment characteristics, and any physical and mental requirements described here are representative of those that must be met by an employee to successfully perform the essential functions of this job. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions. This job description is not designed to cover or contain a comprehensive listing of activities, duties or responsibilities that are required of the employee. Other duties, responsibilities and activities may change or be assigned at any time with or without notice.",
-   "_enriched": true,
-   "score": 30,
-   "isMatch": false,
-   "isEng": true,
-   "java": false,
-   "flutter": false,
-   "android": false,
-   "india": false,
-   "senior": false,
-   "junior": false,
-   "intern": false,
-   "exp": [
-    [
-     10,
-     14
-    ]
-   ],
-   "expFits2": false
-  },
+  "closestEng": null,
   "trace": {
    "pages": [
     {
@@ -49558,17 +49899,17 @@
     {
      "url": "https://munichre.com/careers",
      "status": 200,
-     "bytes": 74588
+     "bytes": 74560
     },
     {
      "url": "https://munichre.com/career",
      "status": 200,
-     "bytes": 74588
+     "bytes": 74560
     },
     {
      "url": "https://munichre.com/jobs",
      "status": 200,
-     "bytes": 912058
+     "bytes": 912573
     }
    ],
    "candidates": [
@@ -49586,7 +49927,7 @@
     "workable:munichre -> no board"
    ]
   },
-  "ms": 6509
+  "ms": 13178
  },
  {
   "company": "Mirae Asset",
@@ -49690,7 +50031,7 @@
     "workable:miraeassetmf -> no board"
    ]
   },
-  "ms": 10683
+  "ms": 11237
  },
  {
   "company": "Merck",
@@ -49774,7 +50115,7 @@
     "workable:merck -> no board"
    ]
   },
-  "ms": 18096
+  "ms": 18092
  },
  {
   "company": "Medtronic",
@@ -50068,22 +50409,52 @@
     {
      "url": "https://medtronic.com/careers",
      "status": 200,
-     "bytes": 667613
+     "bytes": 667614
     },
     {
      "url": "https://medtronic.com/career",
      "status": 200,
-     "bytes": 667613
+     "bytes": 667614
     },
     {
      "url": "https://medtronic.com/jobs",
      "status": 200,
-     "bytes": 667613
+     "bytes": 667614
     },
     {
      "url": "https://medtronic.com/join-us",
      "status": 404,
-     "bytes": 1885030
+     "bytes": 0
+    },
+    {
+     "url": "https://medtronic.com/join-our-team",
+     "status": 404,
+     "bytes": 0
+    },
+    {
+     "url": "https://medtronic.com/careers.html",
+     "status": 200,
+     "bytes": 667614
+    },
+    {
+     "url": "https://medtronic.com/company/careers",
+     "status": 404,
+     "bytes": 0
+    },
+    {
+     "url": "https://medtronic.com/about/careers",
+     "status": 404,
+     "bytes": 0
+    },
+    {
+     "url": "https://medtronic.com/current-openings",
+     "status": 404,
+     "bytes": 0
+    },
+    {
+     "url": "https://medtronic.com/",
+     "status": 200,
+     "bytes": 162464
     }
    ],
    "candidates": [
@@ -50098,7 +50469,7 @@
     "workday:medtronic -> 40 jobs"
    ]
   },
-  "ms": 10248
+  "ms": 13954
  },
  {
   "company": "McAfee",
@@ -50252,7 +50623,7 @@
     {
      "url": "https://mcafee.com/",
      "status": 200,
-     "bytes": 753624
+     "bytes": 753625
     }
    ],
    "candidates": [
@@ -50268,7 +50639,7 @@
     "greenhouse:mcafee -> 3 jobs (guess, name-verified)"
    ]
   },
-  "ms": 26321
+  "ms": 28142
  },
  {
   "company": "Motorola Solutions",
@@ -50992,7 +51363,7 @@
     {
      "url": "https://www.motorolasolutions.com/en_us/about/careers.html",
      "status": 200,
-     "bytes": 982892
+     "bytes": 982889
     },
     {
      "url": "https://careers.motorolasolutions.com",
@@ -51003,17 +51374,17 @@
     {
      "url": "https://motorolasolutions.com/careers",
      "status": 200,
-     "bytes": 982890
+     "bytes": 982888
     },
     {
      "url": "https://motorolasolutions.com/career",
      "status": 200,
-     "bytes": 982892
+     "bytes": 982889
     },
     {
      "url": "https://motorolasolutions.com/jobs",
      "status": 200,
-     "bytes": 982892
+     "bytes": 982890
     },
     {
      "url": "https://motorolasolutions.com/join-us",
@@ -51023,12 +51394,12 @@
     {
      "url": "https://motorolasolutions.com/join-our-team",
      "status": 404,
-     "bytes": 369
+     "bytes": 371
     },
     {
      "url": "https://motorolasolutions.com/careers.html",
      "status": 404,
-     "bytes": 877569
+     "bytes": 877563
     },
     {
      "url": "https://motorolasolutions.com/company/careers",
@@ -51038,7 +51409,7 @@
     {
      "url": "https://motorolasolutions.com/about/careers",
      "status": 404,
-     "bytes": 370
+     "bytes": 371
     },
     {
      "url": "https://motorolasolutions.com/current-openings",
@@ -51048,7 +51419,7 @@
     {
      "url": "https://motorolasolutions.com/",
      "status": 200,
-     "bytes": 1594416
+     "bytes": 1594414
     }
    ],
    "candidates": [
@@ -51068,7 +51439,7 @@
     "workday:motorolasolutions -> 40 jobs"
    ]
   },
-  "ms": 24454
+  "ms": 20154
  },
  {
   "company": "Moog",
@@ -57181,7 +57552,7 @@
     {
      "url": "https://moog.com/career",
      "status": 404,
-     "bytes": 98447
+     "bytes": 98446
     }
    ],
    "candidates": [
@@ -57196,7 +57567,7 @@
     "workday:moog -> 400 jobs"
    ]
   },
-  "ms": 19058
+  "ms": 18349
  },
  {
   "company": "MKS Instruments",
@@ -57215,7 +57586,7 @@
    "pages": [],
    "attempts": []
   },
-  "ms": 90003
+  "ms": 89982
  },
  {
   "company": "Mettler-Toledo",
@@ -57574,12 +57945,12 @@
     {
      "url": "https://careers.mt.com/en_US/careers",
      "status": 200,
-     "bytes": 103013
+     "bytes": 103023
     },
     {
      "url": "https://careers.mt.com",
      "status": 200,
-     "bytes": 103013
+     "bytes": 103019
     },
     {
      "url": "https://mt.com/careers",
@@ -57632,7 +58003,7 @@
     "workable:mettlertoledo -> no board"
    ]
   },
-  "ms": 12449
+  "ms": 12266
  },
  {
   "company": "Murata",
@@ -57737,7 +58108,7 @@
     "workable:murata -> no board"
    ]
   },
-  "ms": 19835
+  "ms": 22145
  },
  {
   "company": "Magna International",
@@ -57893,7 +58264,7 @@
     "skip off-domain https://wd3.myworkdaysite.com"
    ]
   },
-  "ms": 64266
+  "ms": 78328
  },
  {
   "company": "Mahle",
@@ -57901,7 +58272,7 @@
   "careers": "https://careers.mahle.com/",
   "source": "successfactors:careers.mahle.com",
   "error": null,
-  "totalJobs": 45,
+  "totalJobs": 46,
   "jobs": [
    {
     "title": "Application Engineer",
@@ -58115,6 +58486,30 @@
     "score": 30
    },
    {
+    "title": "Operative Procurement Specialist",
+    "location": "Wroclaw, PL",
+    "url": "https://careers.mahle.com/job/Wroclaw-Operative-Procurement-Specialist/1424190433/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [
+     [
+      2,
+      4
+     ],
+     [
+      4,
+      5
+     ]
+    ],
+    "expFits2": true,
+    "score": 30
+   },
+   {
     "title": "Product Engineer",
     "location": "Farmington Hills, MI, US, 48335",
     "url": "https://careers.mahle.com/job/Farmington-Hills-Product-Engineer-MI-48335/1411984633/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
@@ -58185,26 +58580,6 @@
     "score": 16
    },
    {
-    "title": "Sales & Marketing Executive",
-    "location": "Bilston, GB",
-    "url": "https://careers.mahle.com/job/Bilston-Sales-&-Marketing-Executive/1424277033/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [
-     [
-      3,
-      4
-     ]
-    ],
-    "expFits2": false,
-    "score": 12
-   },
-   {
     "title": "Electrician",
     "location": "Dayton, OH, US, 45404",
     "url": "https://careers.mahle.com/job/Dayton-Electrician-OH-45404/1096497501/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
@@ -58220,6 +58595,26 @@
       3,
       7
      ],
+     [
+      3,
+      4
+     ]
+    ],
+    "expFits2": false,
+    "score": 12
+   },
+   {
+    "title": "Sales & Marketing Executive",
+    "location": "Bilston, GB",
+    "url": "https://careers.mahle.com/job/Bilston-Sales-&-Marketing-Executive/1424277033/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [
      [
       3,
       4
@@ -58471,9 +58866,9 @@
     "score": 4
    },
    {
-    "title": "Customer Service",
-    "location": "Murfreesboro, TN, US, 37127",
-    "url": "https://careers.mahle.com/job/Murfreesboro-Customer-Service-TN-37127/1413548033/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+    "title": "Buyer/Planner",
+    "location": "Belmont, MI, US, 49306",
+    "url": "https://careers.mahle.com/job/Belmont-BuyerPlanner-MI-49306/1383361933/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
@@ -58486,9 +58881,9 @@
     "score": 4
    },
    {
-    "title": "Buyer/Planner",
-    "location": "Belmont, MI, US, 49306",
-    "url": "https://careers.mahle.com/job/Belmont-BuyerPlanner-MI-49306/1383361933/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+    "title": "Customer Service",
+    "location": "Murfreesboro, TN, US, 37127",
+    "url": "https://careers.mahle.com/job/Murfreesboro-Customer-Service-TN-37127/1413548033/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
@@ -58610,21 +59005,6 @@
     "score": -10
    },
    {
-    "title": "MSS OE / BTU Account Manager",
-    "location": "Farmington Hills, MI, US, 48335",
-    "url": "https://careers.mahle.com/job/Farmington-Hills-MSS-OE-BTU-Account-Manager-MI-48335/1413947433/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": true,
-    "exp": [],
-    "expFits2": false,
-    "score": -18
-   },
-   {
     "title": "Senior Accountant",
     "location": "Tokyo, JP",
     "url": "https://careers.mahle.com/job/Tokyo-Senior-Accountant/1374371633/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
@@ -58643,6 +59023,21 @@
     "title": "Senior Accountant",
     "location": "Tokyo, JP",
     "url": "https://careers.mahle.com/job/Tokyo-Senior-Accountant/1374371733/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [],
+    "expFits2": false,
+    "score": -18
+   },
+   {
+    "title": "MSS OE / BTU Account Manager",
+    "location": "Farmington Hills, MI, US, 48335",
+    "url": "https://careers.mahle.com/job/Farmington-Hills-MSS-OE-BTU-Account-Manager-MI-48335/1413947433/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
@@ -58769,47 +59164,47 @@
     {
      "url": "https://careers.mahle.com/",
      "status": 200,
-     "bytes": 106719
+     "bytes": 106718
     },
     {
      "url": "https://careers.mahle.com",
      "status": 200,
-     "bytes": 106718
+     "bytes": 106719
     },
     {
      "url": "https://mahle.com/careers",
      "status": 404,
-     "bytes": 27236
+     "bytes": 27237
     },
     {
      "url": "https://mahle.com/career",
      "status": 404,
-     "bytes": 27235
+     "bytes": 27236
     },
     {
      "url": "https://mahle.com/jobs",
      "status": 404,
-     "bytes": 27233
+     "bytes": 27234
     },
     {
      "url": "https://mahle.com/join-us",
      "status": 404,
-     "bytes": 27236
+     "bytes": 27237
     },
     {
      "url": "https://mahle.com/join-our-team",
      "status": 404,
-     "bytes": 27242
+     "bytes": 27243
     },
     {
      "url": "https://mahle.com/careers.html",
      "status": 404,
-     "bytes": 27241
+     "bytes": 27242
     },
     {
      "url": "https://mahle.com/company/careers",
      "status": 404,
-     "bytes": 27244
+     "bytes": 27245
     }
    ],
    "candidates": [
@@ -58821,10 +59216,10 @@
     "workable:mahle(guess)"
    ],
    "attempts": [
-    "successfactors:careers.mahle.com -> 45 jobs"
+    "successfactors:careers.mahle.com -> 46 jobs"
    ]
   },
-  "ms": 13714
+  "ms": 13138
  },
  {
   "company": "Mercedes-Benz Research and Development India",
@@ -58979,7 +59374,7 @@
     "workable:mbrdi -> no board"
    ]
   },
-  "ms": 22834
+  "ms": 17203
  },
  {
   "company": "Mitsubishi Electric India",
@@ -59134,7 +59529,7 @@
     "workable:mitsubishielectric -> no board"
    ]
   },
-  "ms": 7162
+  "ms": 6749
  },
  {
   "company": "Magic Software",
@@ -59304,7 +59699,7 @@
     "workable:magicsoftware -> no board"
    ]
   },
-  "ms": 74122
+  "ms": 78198
  },
  {
   "company": "LTM (formerly LTIMindtree)",
@@ -59571,30 +59966,6 @@
     "score": 19
    },
    {
-    "title": "Specialist - Package Implementation",
-    "location": "PH",
-    "url": "https://careers.ltm.com/job/Specialist-Package-Implementation/1401128633/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [
-     [
-      3,
-      7
-     ],
-     [
-      3,
-      4
-     ]
-    ],
-    "expFits2": false,
-    "score": 12
-   },
-   {
     "title": "Cloud Architect",
     "location": "CR",
     "url": "https://careers.ltm.com/job/Cloud-Architect/1382822733/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
@@ -59621,6 +59992,30 @@
     "flutter": false,
     "senior": true,
     "exp": [],
+    "expFits2": false,
+    "score": 12
+   },
+   {
+    "title": "Specialist - Package Implementation",
+    "location": "PH",
+    "url": "https://careers.ltm.com/job/Specialist-Package-Implementation/1401128633/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [
+     [
+      3,
+      7
+     ],
+     [
+      3,
+      4
+     ]
+    ],
     "expFits2": false,
     "score": 12
    },
@@ -59906,30 +60301,6 @@
     "score": -18
    },
    {
-    "title": "Senior Specialist - Package Implementation",
-    "location": "Mexico, MEX, MX",
-    "url": "https://careers.ltm.com/job/Mexico-Senior-Specialist-Package-Implementation-MEX/1420020733/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": true,
-    "exp": [
-     [
-      9,
-      13
-     ],
-     [
-      9,
-      10
-     ]
-    ],
-    "expFits2": false,
-    "score": -22
-   },
-   {
     "title": "Senior Specialist - Quality Engineering",
     "location": "Mexico City, MEX, MX",
     "url": "https://careers.ltm.com/job/Mexico-City-Senior-Specialist-Quality-Engineering-MEX/1412971633/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
@@ -59992,6 +60363,30 @@
      [
       5,
       6
+     ]
+    ],
+    "expFits2": false,
+    "score": -22
+   },
+   {
+    "title": "Senior Specialist - Package Implementation",
+    "location": "Mexico, MEX, MX",
+    "url": "https://careers.ltm.com/job/Mexico-Senior-Specialist-Package-Implementation-MEX/1420020733/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [
+     [
+      9,
+      13
+     ],
+     [
+      9,
+      10
      ]
     ],
     "expFits2": false,
@@ -60106,7 +60501,7 @@
     "successfactors:careers.ltm.com -> 36 jobs"
    ]
   },
-  "ms": 5399
+  "ms": 7080
  },
  {
   "company": "Milaap",
@@ -60146,7 +60541,7 @@
     {
      "url": "https://milaap.org/join-us",
      "status": 200,
-     "bytes": 555402
+     "bytes": 555398
     },
     {
      "url": "https://milaap.org/join-our-team",
@@ -60176,7 +60571,7 @@
     {
      "url": "https://milaap.org/",
      "status": 200,
-     "bytes": 613534
+     "bytes": 613604
     },
     {
      "url": "https://careers.www.milaap.org",
@@ -60202,7 +60597,7 @@
     {
      "url": "https://www.milaap.org/join-us",
      "status": 200,
-     "bytes": 555402
+     "bytes": 555398
     },
     {
      "url": "https://www.milaap.org/join-our-team",
@@ -60232,7 +60627,7 @@
     {
      "url": "https://www.milaap.org/",
      "status": 200,
-     "bytes": 613535
+     "bytes": 613604
     }
    ],
    "candidates": [
@@ -60250,7 +60645,7 @@
     "workable:milaap -> no board"
    ]
   },
-  "ms": 21176
+  "ms": 31051
  },
  {
   "company": "MindGate Solutions",
@@ -60536,7 +60931,7 @@
     "workable:mindgate -> no board"
    ]
   },
-  "ms": 20293
+  "ms": 21654
  },
  {
   "company": "Freo (formerly MoneyTap)",
@@ -60624,7 +61019,7 @@
     "workable:freo -> no board"
    ]
   },
-  "ms": 6197
+  "ms": 6842
  },
  {
   "company": "Moveworks India",
@@ -61203,17 +61598,17 @@
     {
      "url": "https://moveworks.com/career",
      "status": 404,
-     "bytes": 101007
+     "bytes": 99111
     },
     {
      "url": "https://moveworks.com/jobs",
      "status": 404,
-     "bytes": 101007
+     "bytes": 99111
     },
     {
      "url": "https://moveworks.com/join-us",
      "status": 404,
-     "bytes": 99111
+     "bytes": 99139
     }
    ],
    "candidates": [
@@ -61231,7 +61626,7 @@
     "workable:moveworks -> no board"
    ]
   },
-  "ms": 9121
+  "ms": 11791
  },
  {
   "company": "Mr. Cooper India",
@@ -61314,7 +61709,27 @@
     {
      "url": "https://mrcooper.com/careers.html",
      "status": 200,
-     "bytes": 673280
+     "bytes": 354438
+    },
+    {
+     "url": "https://mrcooper.com/company/careers",
+     "status": 404,
+     "bytes": 1883
+    },
+    {
+     "url": "https://mrcooper.com/about/careers",
+     "status": 404,
+     "bytes": 1883
+    },
+    {
+     "url": "https://mrcooper.com/current-openings",
+     "status": 404,
+     "bytes": 1883
+    },
+    {
+     "url": "https://mrcooper.com/",
+     "status": 200,
+     "bytes": 191745
     }
    ],
    "candidates": [
@@ -61331,7 +61746,7 @@
     "phenom:_self -> 1 jobs"
    ]
   },
-  "ms": 15246
+  "ms": 12313
  },
  {
   "company": "Mahindra Comviva",
@@ -61356,23 +61771,17 @@
     {
      "url": "https://mahindracomviva.com/careers",
      "status": 200,
-     "bytes": 27340
+     "bytes": 27292
     },
     {
      "url": "https://mahindracomviva.com/career",
-     "status": 0,
-     "bytes": 0,
-     "error": "fetch failed"
+     "status": 200,
+     "bytes": 27343
     },
     {
      "url": "https://mahindracomviva.com/jobs",
      "status": 200,
-     "bytes": 27481
-    },
-    {
-     "url": "https://mahindracomviva.com/join-us",
-     "status": 200,
-     "bytes": 27450
+     "bytes": 27331
     }
    ],
    "candidates": [
@@ -61390,7 +61799,7 @@
     "workable:mahindracomviva -> no board"
    ]
   },
-  "ms": 22335
+  "ms": 23638
  },
  {
   "company": "Mentor Graphics India",
@@ -61458,7 +61867,7 @@
     "workable:siemens -> no board"
    ]
   },
-  "ms": 41444
+  "ms": 40767
  },
  {
   "company": "Merilytics",
@@ -62631,7 +63040,7 @@
     {
      "url": "https://www.accordion.com/careers/",
      "status": 200,
-     "bytes": 144247
+     "bytes": 144243
     },
     {
      "url": "https://careers.accordion.com",
@@ -62652,12 +63061,12 @@
     {
      "url": "https://accordion.com/jobs",
      "status": 200,
-     "bytes": 57348
+     "bytes": 57183
     },
     {
      "url": "https://accordion.com/join-us",
      "status": 404,
-     "bytes": 56325
+     "bytes": 56234
     }
    ],
    "candidates": [
@@ -62685,7 +63094,7 @@
     "workable:accordion -> no board"
    ]
   },
-  "ms": 14654
+  "ms": 13252
  },
  {
   "company": "Metacube",
@@ -62829,7 +63238,7 @@
     "workable:metacube -> no board"
    ]
   },
-  "ms": 15659
+  "ms": 13891
  },
  {
   "company": "ManageEngine",
@@ -63106,7 +63515,7 @@
     "zohorecruit:careers.zohocorp.com -> 9 jobs"
    ]
   },
-  "ms": 7945
+  "ms": 6057
  },
  {
   "company": "Matrimony.com",
@@ -63249,7 +63658,7 @@
     "workable:matrimony -> no board"
    ]
   },
-  "ms": 6709
+  "ms": 5948
  },
  {
   "company": "MAQ Software",
@@ -63393,7 +63802,7 @@
     "workable:maqsoftware -> no board"
    ]
   },
-  "ms": 17013
+  "ms": 17034
  },
  {
   "company": "MOURI Tech",
@@ -63413,7 +63822,7 @@
     {
      "url": "https://www.mouritech.com/careers",
      "status": 200,
-     "bytes": 934595
+     "bytes": 934806
     },
     {
      "url": "https://careers.mouritech.com",
@@ -63424,37 +63833,17 @@
     {
      "url": "https://mouritech.com/careers",
      "status": 200,
-     "bytes": 934595
+     "bytes": 934806
     },
     {
      "url": "https://mouritech.com/career",
      "status": 200,
-     "bytes": 934595
+     "bytes": 934584
     },
     {
      "url": "https://mouritech.com/jobs",
      "status": 404,
      "bytes": 897466
-    },
-    {
-     "url": "https://mouritech.com/join-us",
-     "status": 404,
-     "bytes": 897466
-    },
-    {
-     "url": "https://mouritech.com/join-our-team",
-     "status": 404,
-     "bytes": 897466
-    },
-    {
-     "url": "https://mouritech.com/careers.html",
-     "status": 404,
-     "bytes": 897466
-    },
-    {
-     "url": "https://mouritech.com/company/careers",
-     "status": 200,
-     "bytes": 954519
     }
    ],
    "candidates": [
@@ -63472,7 +63861,7 @@
     "workable:mouritech -> no board"
    ]
   },
-  "ms": 23634
+  "ms": 22278
  },
  {
   "company": "Modak Analytics",
@@ -63545,7 +63934,7 @@
     "workable:modak -> no board"
    ]
   },
-  "ms": 10892
+  "ms": 10468
  },
  {
   "company": "Mirafra Technologies",
@@ -64163,7 +64552,7 @@
     "workable:mirafra -> no board"
    ]
   },
-  "ms": 5487
+  "ms": 5567
  },
  {
   "company": "Medha Servo Drives",
@@ -64182,7 +64571,7 @@
    "pages": [],
    "attempts": []
   },
-  "ms": 90001
+  "ms": 89997
  },
  {
   "company": "Mobile Premier League",
@@ -64245,7 +64634,7 @@
     "workable:mobilepremierleague -> no board"
    ]
   },
-  "ms": 5897
+  "ms": 8028
  },
  {
   "company": "magicpin",
@@ -64360,7 +64749,7 @@
     "workable:magicpin -> no board"
    ]
   },
-  "ms": 5453
+  "ms": 6230
  },
  {
   "company": "Meritto",
@@ -64449,7 +64838,7 @@
     "workable:meritto -> no board"
    ]
   },
-  "ms": 9749
+  "ms": 7997
  },
  {
   "company": "Melonleaf Consulting",
@@ -64735,7 +65124,7 @@
     {
      "url": "https://melonleaf.com/careers/",
      "status": 200,
-     "bytes": 406738
+     "bytes": 420435
     },
     {
      "url": "https://careers.melonleaf.com",
@@ -64746,52 +65135,52 @@
     {
      "url": "https://melonleaf.com/careers",
      "status": 200,
-     "bytes": 406738
+     "bytes": 420435
     },
     {
      "url": "https://melonleaf.com/career",
      "status": 200,
-     "bytes": 406738
+     "bytes": 420435
     },
     {
      "url": "https://melonleaf.com/jobs",
      "status": 404,
-     "bytes": 242546
+     "bytes": 247040
     },
     {
      "url": "https://melonleaf.com/join-us",
      "status": 404,
-     "bytes": 242546
+     "bytes": 247040
     },
     {
      "url": "https://melonleaf.com/join-our-team",
      "status": 404,
-     "bytes": 242546
+     "bytes": 247040
     },
     {
      "url": "https://melonleaf.com/careers.html",
      "status": 404,
-     "bytes": 242546
+     "bytes": 247040
     },
     {
      "url": "https://melonleaf.com/company/careers",
      "status": 200,
-     "bytes": 406738
+     "bytes": 420435
     },
     {
      "url": "https://melonleaf.com/about/careers",
      "status": 200,
-     "bytes": 406738
+     "bytes": 420435
     },
     {
      "url": "https://melonleaf.com/current-openings",
      "status": 404,
-     "bytes": 242546
+     "bytes": 247040
     },
     {
      "url": "https://melonleaf.com/",
      "status": 200,
-     "bytes": 535401
+     "bytes": 558002
     }
    ],
    "candidates": [
@@ -64819,7 +65208,7 @@
     "workable:melonleaf -> no board"
    ]
   },
-  "ms": 43818
+  "ms": 38570
  },
  {
   "company": "Mobulous Technologies",
@@ -64973,7 +65362,7 @@
     "workable:mobulous -> no board"
    ]
   },
-  "ms": 9746
+  "ms": 8385
  },
  {
   "company": "MobileCoderz",
@@ -65327,7 +65716,7 @@
     "workable:mobilecoderz -> no board"
    ]
   },
-  "ms": 20320
+  "ms": 18306
  },
  {
   "company": "Mobzway Technologies",
@@ -65429,7 +65818,7 @@
     "zohorecruit:www.mobzway.com -> 2 jobs"
    ]
   },
-  "ms": 2392
+  "ms": 2161
  },
  {
   "company": "Marktine",
@@ -65454,7 +65843,7 @@
     {
      "url": "https://marktine.com/careers",
      "status": 404,
-     "bytes": 204730
+     "bytes": 204729
     },
     {
      "url": "https://marktine.com/career",
@@ -65469,7 +65858,7 @@
     {
      "url": "https://marktine.com/join-us",
      "status": 404,
-     "bytes": 204730
+     "bytes": 204729
     },
     {
      "url": "https://marktine.com/join-our-team",
@@ -65479,7 +65868,7 @@
     {
      "url": "https://marktine.com/careers.html",
      "status": 404,
-     "bytes": 204734
+     "bytes": 204735
     },
     {
      "url": "https://marktine.com/company/careers",
@@ -65489,17 +65878,12 @@
     {
      "url": "https://marktine.com/about/careers",
      "status": 404,
-     "bytes": 204735
+     "bytes": 204736
     },
     {
      "url": "https://marktine.com/current-openings",
      "status": 200,
      "bytes": 215757
-    },
-    {
-     "url": "https://marktine.com/",
-     "status": 200,
-     "bytes": 288853
     }
    ],
    "candidates": [
@@ -65517,7 +65901,7 @@
     "workable:marktine -> no board"
    ]
   },
-  "ms": 8493
+  "ms": 6939
  },
  {
   "company": "Bizom (Mobisy Technologies)",
@@ -65661,12 +66045,27 @@
     {
      "url": "https://bizom.com/career",
      "status": 200,
-     "bytes": 346427
+     "bytes": 346350
     },
     {
      "url": "https://bizom.com/jobs",
      "status": 404,
-     "bytes": 245293
+     "bytes": 245368
+    },
+    {
+     "url": "https://bizom.com/join-us",
+     "status": 404,
+     "bytes": 245371
+    },
+    {
+     "url": "https://bizom.com/join-our-team",
+     "status": 404,
+     "bytes": 245377
+    },
+    {
+     "url": "https://bizom.com/careers.html",
+     "status": 404,
+     "bytes": 244641
     }
    ],
    "candidates": [
@@ -65684,7 +66083,7 @@
     "workable:bizom -> no board"
    ]
   },
-  "ms": 22903
+  "ms": 30113
  },
  {
   "company": "mFilterIt",
@@ -65828,7 +66227,7 @@
     "workable:mfilterit -> no board"
    ]
   },
-  "ms": 22439
+  "ms": 20602
  },
  {
   "company": "Mobavenue",
@@ -66111,7 +66510,7 @@
     "workable:mobavenue -> no board"
    ]
   },
-  "ms": 22559
+  "ms": 20474
  },
  {
   "company": "MobME Wireless Solutions",
@@ -66209,7 +66608,7 @@
     "workable:mobme -> no board"
    ]
   },
-  "ms": 6416
+  "ms": 7299
  },
  {
   "company": "Mobiotics",
@@ -66354,7 +66753,7 @@
     "workable:mobiotics -> no board"
    ]
   },
-  "ms": 20900
+  "ms": 20739
  },
  {
   "company": "Mediology Software",
@@ -66378,7 +66777,7 @@
     {
      "url": "https://mediologysoftware.com/careers",
      "status": 404,
-     "bytes": 129740
+     "bytes": 129737
     },
     {
      "url": "https://mediologysoftware.com/career",
@@ -66388,27 +66787,7 @@
     {
      "url": "https://mediologysoftware.com/jobs",
      "status": 404,
-     "bytes": 129737
-    },
-    {
-     "url": "https://mediologysoftware.com/join-us",
-     "status": 404,
-     "bytes": 129744
-    },
-    {
-     "url": "https://mediologysoftware.com/join-our-team",
-     "status": 404,
-     "bytes": 129737
-    },
-    {
-     "url": "https://mediologysoftware.com/careers.html",
-     "status": 404,
-     "bytes": 129737
-    },
-    {
-     "url": "https://mediologysoftware.com/company/careers",
-     "status": 404,
-     "bytes": 129732
+     "bytes": 129745
     }
    ],
    "candidates": [
@@ -66438,7 +66817,7 @@
     "workable:mediologysoftware -> no board"
    ]
   },
-  "ms": 27028
+  "ms": 21573
  },
  {
   "company": "Mallow Technologies",
@@ -66572,7 +66951,7 @@
     "workable:mallowtech -> no board"
    ]
   },
-  "ms": 15432
+  "ms": 14920
  },
  {
   "company": "MitrahSoft",
@@ -66721,7 +67100,7 @@
     "workable:mitrahsoft -> no board"
    ]
   },
-  "ms": 19779
+  "ms": 28310
  },
  {
   "company": "Mindnotix Technologies",
@@ -66979,7 +67358,7 @@
     "workable:mindnotix -> no board"
    ]
   },
-  "ms": 10824
+  "ms": 9667
  },
  {
   "company": "MindMade Technologies",
@@ -67099,7 +67478,7 @@
     {
      "url": "https://mindmade.in/careers.html",
      "status": 404,
-     "bytes": 182562
+     "bytes": 182563
     },
     {
      "url": "https://mindmade.in/company/careers",
@@ -67119,7 +67498,7 @@
     {
      "url": "https://mindmade.in/",
      "status": 200,
-     "bytes": 303860
+     "bytes": 303861
     }
    ],
    "candidates": [
@@ -67137,7 +67516,7 @@
     "workable:mindmade -> no board"
    ]
   },
-  "ms": 28983
+  "ms": 28787
  },
  {
   "company": "ManekTech",
@@ -67681,7 +68060,7 @@
     "workable:manektech -> no board"
    ]
   },
-  "ms": 5388
+  "ms": 4331
  },
  {
   "company": "Marmeto",
@@ -67825,7 +68204,7 @@
     "workable:marmeto -> no board"
    ]
   },
-  "ms": 10108
+  "ms": 10109
  },
  {
   "company": "Metayb",
@@ -67970,7 +68349,7 @@
     "workable:metayb -> no board"
    ]
   },
-  "ms": 3664
+  "ms": 4996
  },
  {
   "company": "Marg ERP",
@@ -68145,7 +68524,7 @@
     "workable:margcompusoft -> no board"
    ]
   },
-  "ms": 6741
+  "ms": 7321
  },
  {
   "company": "Manipal Technologies",
@@ -68219,7 +68598,7 @@
     "workable:manipaltechnologies -> no board"
    ]
   },
-  "ms": 9584
+  "ms": 9081
  },
  {
   "company": "Melorra",
@@ -68363,7 +68742,7 @@
     "workable:melorra -> no board"
    ]
   },
-  "ms": 12090
+  "ms": 11693
  },
  {
   "company": "Mamaearth",
@@ -68512,7 +68891,7 @@
     "workable:mamaearth -> no board"
    ]
   },
-  "ms": 13395
+  "ms": 13272
  },
  {
   "company": "Milkbasket",
@@ -68656,7 +69035,7 @@
     "workable:milkbasket -> no board"
    ]
   },
-  "ms": 4100
+  "ms": 3782
  },
  {
   "company": "MX Player",
@@ -68686,7 +69065,7 @@
     {
      "url": "https://mxplayer.in/career",
      "status": 200,
-     "bytes": 214042
+     "bytes": 214052
     },
     {
      "url": "https://mxplayer.in/jobs",
@@ -68726,7 +69105,7 @@
     {
      "url": "https://mxplayer.in/",
      "status": 200,
-     "bytes": 214052
+     "bytes": 214092
     }
    ],
    "candidates": [
@@ -68744,7 +69123,7 @@
     "workable:mxplayer -> no board"
    ]
   },
-  "ms": 6040
+  "ms": 8855
  },
  {
   "company": "Mosaic Wellness",
@@ -69283,7 +69662,7 @@
     "keka:mosaicwellness -> 18 jobs"
    ]
   },
-  "ms": 1894
+  "ms": 2572
  },
  {
   "company": "MyMoneyMantra",
@@ -69336,7 +69715,7 @@
     "workable:mymoneymantra -> no board"
    ]
   },
-  "ms": 58333
+  "ms": 64475
  },
  {
   "company": "Muthoot Microfin",
@@ -69554,7 +69933,7 @@
     "workable:muthootmicrofin -> no board"
    ]
   },
-  "ms": 22727
+  "ms": 25251
  },
  {
   "company": "Mylab Discovery Solutions",
@@ -69823,7 +70202,7 @@
     "workable:mylabglobal -> no board"
    ]
   },
-  "ms": 19964
+  "ms": 20719
  },
  {
   "company": "Mindler",
@@ -69921,7 +70300,7 @@
     "workable:mindler -> no board"
    ]
   },
-  "ms": 13507
+  "ms": 12141
  },
  {
   "company": "Mesh",
@@ -70415,7 +70794,7 @@
     {
      "url": "https://mesh.ai/career",
      "status": 200,
-     "bytes": 15209
+     "bytes": 15265
     },
     {
      "url": "https://mesh.ai/jobs",
@@ -70475,7 +70854,7 @@
     "greenhouse:mesh -> 18 jobs (guess, name-verified)"
    ]
   },
-  "ms": 10310
+  "ms": 11779
  },
  {
   "company": "MiQ",
@@ -71539,7 +71918,7 @@
     {
      "url": "https://www.wearemiq.com/careers",
      "status": 200,
-     "bytes": 1163103
+     "bytes": 1162920
     },
     {
      "url": "https://careers.wearemiq.com",
@@ -71550,7 +71929,7 @@
     {
      "url": "https://wearemiq.com/careers",
      "status": 200,
-     "bytes": 1163103
+     "bytes": 1162920
     },
     {
      "url": "https://wearemiq.com/career",
@@ -71596,7 +71975,7 @@
     "greenhouse:miqdigital -> 47 jobs"
    ]
   },
-  "ms": 5294
+  "ms": 6769
  },
  {
   "company": "Merkle",
@@ -71621,68 +72000,52 @@
     {
      "url": "https://merkle.com/careers",
      "status": 200,
-     "bytes": 127579
+     "bytes": 138156
     },
     {
      "url": "https://merkle.com/career",
-     "status": 200,
-     "bytes": 127579
+     "status": 404,
+     "bytes": 86172
     },
     {
      "url": "https://merkle.com/jobs",
-     "status": 200,
-     "bytes": 127579
+     "status": 404,
+     "bytes": 86172
     },
     {
      "url": "https://merkle.com/join-us",
-     "status": 200,
-     "bytes": 127579
+     "status": 404,
+     "bytes": 86172
     },
     {
      "url": "https://merkle.com/join-our-team",
-     "status": 200,
-     "bytes": 127579
+     "status": 404,
+     "bytes": 86172
     },
     {
      "url": "https://merkle.com/careers.html",
-     "status": 200,
-     "bytes": 127579
+     "status": 404,
+     "bytes": 86172
     },
     {
      "url": "https://merkle.com/company/careers",
-     "status": 200,
-     "bytes": 127579
+     "status": 404,
+     "bytes": 86172
     },
     {
      "url": "https://merkle.com/about/careers",
-     "status": 200,
-     "bytes": 127579
+     "status": 404,
+     "bytes": 86172
     },
     {
      "url": "https://merkle.com/current-openings",
-     "status": 200,
-     "bytes": 127579
+     "status": 404,
+     "bytes": 86172
     },
     {
      "url": "https://merkle.com/",
      "status": 200,
      "bytes": 127579
-    },
-    {
-     "url": "https://careers.www.merkle.com",
-     "status": 0,
-     "bytes": 0,
-     "error": "fetch failed"
-    },
-    {
-     "url": "https://www.merkle.com/careers",
-     "status": 200,
-     "bytes": 138156
-    },
-    {
-     "url": "https://www.merkle.com/career",
-     "status": 404,
-     "bytes": 86172
     }
    ],
    "candidates": [
@@ -71700,7 +72063,7 @@
     "workable:merkle -> no board"
    ]
   },
-  "ms": 18360
+  "ms": 31120
  },
  {
   "company": "MRI Software",
@@ -72409,27 +72772,27 @@
     {
      "url": "https://mrisoftware.com/career",
      "status": 404,
-     "bytes": 51740
+     "bytes": 51536
     },
     {
      "url": "https://mrisoftware.com/jobs",
      "status": 404,
-     "bytes": 51740
+     "bytes": 51536
     },
     {
      "url": "https://mrisoftware.com/join-us",
      "status": 404,
-     "bytes": 51740
+     "bytes": 51536
     },
     {
      "url": "https://mrisoftware.com/join-our-team",
      "status": 404,
-     "bytes": 51740
+     "bytes": 51536
     },
     {
      "url": "https://mrisoftware.com/careers.html",
      "status": 404,
-     "bytes": 51740
+     "bytes": 51536
     },
     {
      "url": "https://mrisoftware.com/company/careers",
@@ -72444,7 +72807,7 @@
     {
      "url": "https://mrisoftware.com/current-openings",
      "status": 404,
-     "bytes": 51740
+     "bytes": 51536
     },
     {
      "url": "https://mrisoftware.com/",
@@ -72464,7 +72827,7 @@
     "workday:mrisoftware -> 40 jobs"
    ]
   },
-  "ms": 17331
+  "ms": 17577
  },
  {
   "company": "Mindbody",
@@ -72975,7 +73338,7 @@
     "greenhouse:mindbody -> 20 jobs (guess, name-verified)"
    ]
   },
-  "ms": 3347
+  "ms": 3738
  },
  {
   "company": "Merative",
@@ -73588,7 +73951,7 @@
     "workday:merative -> 26 jobs"
    ]
   },
-  "ms": 7143
+  "ms": 11160
  },
  {
   "company": "Movius Interactive",
@@ -73652,7 +74015,7 @@
     "workable:movius -> no board"
    ]
   },
-  "ms": 23800
+  "ms": 24034
  },
  {
   "company": "Milestone Technologies",
@@ -73726,7 +74089,7 @@
     "workable:milestone -> no board"
    ]
   },
-  "ms": 14918
+  "ms": 16126
  },
  {
   "company": "Macquarie Group",
@@ -74105,7 +74468,7 @@
     {
      "url": "https://careers.macquarie.com",
      "status": 200,
-     "bytes": 133120
+     "bytes": 133127
     },
     {
      "url": "https://macquarie.com/careers",
@@ -74133,7 +74496,7 @@
     "workable:macquarie -> no board"
    ]
   },
-  "ms": 17509
+  "ms": 17752
  },
  {
   "company": "McKesson",
@@ -74935,7 +75298,7 @@
     {
      "url": "https://mckesson.com/careers",
      "status": 403,
-     "bytes": 940
+     "bytes": 941
     },
     {
      "url": "https://mckesson.com/career",
@@ -74945,17 +75308,17 @@
     {
      "url": "https://mckesson.com/jobs",
      "status": 403,
-     "bytes": 943
+     "bytes": 942
     },
     {
      "url": "https://mckesson.com/join-us",
      "status": 403,
-     "bytes": 942
+     "bytes": 943
     },
     {
      "url": "https://mckesson.com/join-our-team",
      "status": 403,
-     "bytes": 942
+     "bytes": 939
     },
     {
      "url": "https://mckesson.com/careers.html",
@@ -74975,7 +75338,7 @@
     {
      "url": "https://mckesson.com/current-openings",
      "status": 403,
-     "bytes": 939
+     "bytes": 942
     },
     {
      "url": "https://mckesson.com/",
@@ -74991,17 +75354,17 @@
     {
      "url": "https://www.mckesson.com/careers",
      "status": 403,
-     "bytes": 942
+     "bytes": 940
     },
     {
      "url": "https://www.mckesson.com/career",
      "status": 403,
-     "bytes": 936
+     "bytes": 942
     },
     {
      "url": "https://www.mckesson.com/jobs",
      "status": 403,
-     "bytes": 936
+     "bytes": 940
     },
     {
      "url": "https://www.mckesson.com/join-us",
@@ -75011,7 +75374,7 @@
     {
      "url": "https://www.mckesson.com/join-our-team",
      "status": 403,
-     "bytes": 943
+     "bytes": 940
     },
     {
      "url": "https://www.mckesson.com/careers.html",
@@ -75036,12 +75399,12 @@
     {
      "url": "https://www.mckesson.com/",
      "status": 403,
-     "bytes": 936
+     "bytes": 942
     },
     {
      "url": "https://careers.mckesson.com/hiring-process",
      "status": 200,
-     "bytes": 62554
+     "bytes": 62555
     },
     {
      "url": "https://www.ontada.com/company/careers/",
@@ -75054,7 +75417,7 @@
     {
      "url": "https://careers.mckesson.com/client-and-customer-services-jobs",
      "status": 200,
-     "bytes": 278565
+     "bytes": 278566
     }
    ],
    "candidates": [
@@ -75069,7 +75432,7 @@
     "workday:mckesson -> 40 jobs"
    ]
   },
-  "ms": 20682
+  "ms": 20480
  },
  {
   "company": "Medline Industries",
@@ -75218,7 +75581,7 @@
     "workable:medline -> no board"
    ]
   },
-  "ms": 15114
+  "ms": 14481
  },
  {
   "company": "Merck Group",
@@ -75297,7 +75660,7 @@
     "workable:merckgroup -> no board"
    ]
   },
-  "ms": 47359
+  "ms": 44395
  },
  {
   "company": "Molex",
@@ -75322,22 +75685,22 @@
     {
      "url": "https://molex.com/careers",
      "status": 200,
-     "bytes": 541353
+     "bytes": 541354
     },
     {
      "url": "https://molex.com/career",
      "status": 200,
-     "bytes": 541353
+     "bytes": 541354
     },
     {
      "url": "https://molex.com/jobs",
      "status": 200,
-     "bytes": 541353
+     "bytes": 541354
     },
     {
      "url": "https://molex.com/join-us",
      "status": 200,
-     "bytes": 541353
+     "bytes": 541354
     },
     {
      "url": "https://molex.com/join-our-team",
@@ -75347,12 +75710,12 @@
     {
      "url": "https://molex.com/careers.html",
      "status": 200,
-     "bytes": 541353
+     "bytes": 541354
     },
     {
      "url": "https://molex.com/company/careers",
      "status": 200,
-     "bytes": 541353
+     "bytes": 541354
     },
     {
      "url": "https://molex.com/about/careers",
@@ -75367,7 +75730,7 @@
     {
      "url": "https://molex.com/",
      "status": 200,
-     "bytes": 541353
+     "bytes": 541354
     },
     {
      "url": "https://careers.www.molex.com",
@@ -75378,17 +75741,17 @@
     {
      "url": "https://www.molex.com/careers",
      "status": 404,
-     "bytes": 515529
+     "bytes": 515525
     },
     {
      "url": "https://www.molex.com/career",
      "status": 404,
-     "bytes": 515529
+     "bytes": 515525
     },
     {
      "url": "https://www.molex.com/jobs",
      "status": 200,
-     "bytes": 524483
+     "bytes": 524484
     }
    ],
    "candidates": [
@@ -75406,7 +75769,7 @@
     "workable:molex -> no board"
    ]
   },
-  "ms": 9889
+  "ms": 15172
  },
  {
   "company": "Marelli",
@@ -75426,7 +75789,7 @@
     {
      "url": "https://marelli.com/en/careers.html",
      "status": 200,
-     "bytes": 189427
+     "bytes": 189463
     },
     {
      "url": "https://careers.marelli.com",
@@ -75437,47 +75800,47 @@
     {
      "url": "https://marelli.com/careers",
      "status": 200,
-     "bytes": 50667
+     "bytes": 50703
     },
     {
      "url": "https://marelli.com/career",
      "status": 200,
-     "bytes": 50667
+     "bytes": 50703
     },
     {
      "url": "https://marelli.com/jobs",
      "status": 200,
-     "bytes": 50667
+     "bytes": 50703
     },
     {
      "url": "https://marelli.com/join-us",
      "status": 200,
-     "bytes": 50667
+     "bytes": 50703
     },
     {
      "url": "https://marelli.com/join-our-team",
      "status": 200,
-     "bytes": 50667
+     "bytes": 50703
     },
     {
      "url": "https://marelli.com/careers.html",
      "status": 200,
-     "bytes": 50667
+     "bytes": 50703
     },
     {
      "url": "https://marelli.com/company/careers",
      "status": 200,
-     "bytes": 50667
+     "bytes": 50703
     },
     {
      "url": "https://marelli.com/about/careers",
      "status": 200,
-     "bytes": 50667
+     "bytes": 50703
     },
     {
      "url": "https://marelli.com/current-openings",
      "status": 200,
-     "bytes": 50667
+     "bytes": 50703
     },
     {
      "url": "https://marelli.com/",
@@ -75500,7 +75863,7 @@
     "workable:marelli -> no board"
    ]
   },
-  "ms": 15191
+  "ms": 16955
  },
  {
   "company": "Melexis",
@@ -75563,7 +75926,7 @@
     "workable:melexis -> no board"
    ]
   },
-  "ms": 47246
+  "ms": 44826
  },
  {
   "company": "Moneycontrol",
@@ -75604,7 +75967,7 @@
     {
      "url": "https://moneycontrol.com/jobs",
      "status": 200,
-     "bytes": 683601
+     "bytes": 683605
     },
     {
      "url": "https://moneycontrol.com/join-us",
@@ -75639,7 +76002,7 @@
     {
      "url": "https://moneycontrol.com/",
      "status": 200,
-     "bytes": 1731594
+     "bytes": 1727025
     },
     {
      "url": "https://careers.www.moneycontrol.com",
@@ -75695,17 +76058,7 @@
     {
      "url": "https://www.moneycontrol.com/",
      "status": 200,
-     "bytes": 1731594
-    },
-    {
-     "url": "https://www.moneycontrol.com/shows/markets-with-moneycontrol/",
-     "status": 200,
-     "bytes": 624974
-    },
-    {
-     "url": "https://www.moneycontrol.com/jobs/news/",
-     "status": 200,
-     "bytes": 683621
+     "bytes": 1736570
     }
    ],
    "candidates": [
@@ -75723,7 +76076,7 @@
     "workable:moneycontrol -> no board"
    ]
   },
-  "ms": 57596
+  "ms": 67109
  },
  {
   "company": "myKaarma",
@@ -76027,7 +76380,7 @@
     "rippling:mykaarma -> 13 jobs"
    ]
   },
-  "ms": 6599
+  "ms": 5491
  },
  {
   "company": "MaxVal Group",
@@ -76082,7 +76435,7 @@
     "workable:maxval -> no board"
    ]
   },
-  "ms": 9526
+  "ms": 10018
  },
  {
   "company": "Mantra Softech",
@@ -76345,7 +76698,7 @@
     "workable:mantratec -> no board"
    ]
   },
-  "ms": 6393
+  "ms": 6465
  },
  {
   "company": "Minda Corporation",
@@ -76471,7 +76824,7 @@
     "workable:sparkminda -> no board"
    ]
   },
-  "ms": 8068
+  "ms": 6386
  },
  {
   "company": "MyCaptain",
@@ -76561,7 +76914,7 @@
     "workable:mycaptain -> no board"
    ]
   },
-  "ms": 13130
+  "ms": 14390
  },
  {
   "company": "Max Financial Services",
@@ -76659,7 +77012,7 @@
     "workable:maxfinancialservices -> no board"
    ]
   },
-  "ms": 6738
+  "ms": 5188
  },
  {
   "company": "Moneyboxx Finance",
@@ -77014,7 +77367,7 @@
     "workable:moneyboxxfinance -> no board"
    ]
   },
-  "ms": 4754
+  "ms": 3206
  },
  {
   "company": "Midland Microfin",
@@ -77124,7 +77477,7 @@
     "workable:midlandmicrofin -> no board"
    ]
   },
-  "ms": 37041
+  "ms": 35055
  },
  {
   "company": "Metropolis Healthcare",
@@ -77142,7 +77495,7 @@
    "pages": [],
    "attempts": []
   },
-  "ms": 90003
+  "ms": 90004
  },
  {
   "company": "Manipal Hospitals",
@@ -77160,7 +77513,7 @@
    "pages": [],
    "attempts": []
   },
-  "ms": 90002
+  "ms": 90003
  },
  {
   "company": "Meditab Software",
@@ -77239,7 +77592,7 @@
     "workable:meditab -> no board"
    ]
   },
-  "ms": 17576
+  "ms": 14914
  },
  {
   "company": "Mindmatrix",
@@ -77382,7 +77735,7 @@
     "workable:mindmatrix -> no board"
    ]
   },
-  "ms": 33381
+  "ms": 34770
  },
  {
   "company": "MoreYeahs",
@@ -77636,7 +77989,7 @@
     "workable:moreyeahs -> no board"
    ]
   },
-  "ms": 6054
+  "ms": 3701
  },
  {
   "company": "MSBC Group",
@@ -77863,7 +78216,7 @@
     {
      "url": "https://msbcgroup.com/careers/",
      "status": 200,
-     "bytes": 189522
+     "bytes": 189412
     },
     {
      "url": "https://careers.msbcgroup.com",
@@ -77874,22 +78227,22 @@
     {
      "url": "https://msbcgroup.com/careers",
      "status": 200,
-     "bytes": 189521
+     "bytes": 189412
     },
     {
      "url": "https://msbcgroup.com/career",
      "status": 200,
-     "bytes": 189522
+     "bytes": 189412
     },
     {
      "url": "https://msbcgroup.com/jobs",
      "status": 200,
-     "bytes": 101006
+     "bytes": 100896
     },
     {
      "url": "https://msbcgroup.com/join-us",
      "status": 404,
-     "bytes": 90482
+     "bytes": 90372
     }
    ],
    "candidates": [
@@ -77917,7 +78270,7 @@
     "workable:msbcgroup -> no board"
    ]
   },
-  "ms": 19878
+  "ms": 20356
  },
  {
   "company": "Mavlers",
@@ -78061,7 +78414,7 @@
     "workable:mavlers -> no board"
    ]
   },
-  "ms": 33605
+  "ms": 22625
  },
  {
   "company": "MagniGeeks Technologies",
@@ -78204,7 +78557,7 @@
     "workable:magnigeeks -> no board"
    ]
   },
-  "ms": 6876
+  "ms": 6470
  },
  {
   "company": "Mind Digital Group",
@@ -78642,7 +78995,7 @@
     {
      "url": "https://www.minddigital.com/career/",
      "status": 200,
-     "bytes": 87489
+     "bytes": 87693
     },
     {
      "url": "https://careers.minddigital.com",
@@ -78653,52 +79006,52 @@
     {
      "url": "https://minddigital.com/careers",
      "status": 404,
-     "bytes": 69725
+     "bytes": 69929
     },
     {
      "url": "https://minddigital.com/career",
      "status": 200,
-     "bytes": 87489
+     "bytes": 87693
     },
     {
      "url": "https://minddigital.com/jobs",
      "status": 404,
-     "bytes": 69725
+     "bytes": 69929
     },
     {
      "url": "https://minddigital.com/join-us",
      "status": 404,
-     "bytes": 69725
+     "bytes": 69929
     },
     {
      "url": "https://minddigital.com/join-our-team",
      "status": 404,
-     "bytes": 69725
+     "bytes": 69929
     },
     {
      "url": "https://minddigital.com/careers.html",
      "status": 404,
-     "bytes": 69725
+     "bytes": 69929
     },
     {
      "url": "https://minddigital.com/company/careers",
      "status": 404,
-     "bytes": 69725
+     "bytes": 69929
     },
     {
      "url": "https://minddigital.com/about/careers",
      "status": 404,
-     "bytes": 69725
+     "bytes": 69929
     },
     {
      "url": "https://minddigital.com/current-openings",
      "status": 404,
-     "bytes": 69725
+     "bytes": 69929
     },
     {
      "url": "https://minddigital.com/",
      "status": 200,
-     "bytes": 93502
+     "bytes": 93298
     }
    ],
    "candidates": [
@@ -78726,7 +79079,7 @@
     "workable:minddigital -> no board"
    ]
   },
-  "ms": 29883
+  "ms": 30652
  },
  {
   "company": "Maantic",
@@ -78804,7 +79157,7 @@
    "location": "",
    "url": "https://maantic.com/careers",
    "team": "",
-   "text": "Sr. Pega Developer Services to be Performed: Collaborate with business process owners and software engineers to automate business processes via BPM solutions. Utilize an Agile development approach to validate and refine the solution. Collaborate with the team to implement technical deliverable’s such as services, integrations, reporting, and web services. Learn and support existing Pega applications to ensure a great user experience. Partner with customers to identify processes improvements, validate requirements and customize the application user interface (UI). Optimize system configuration, applications, services, and database queries. Implement process monitoring and perform performance tuning. Required Skills: 7+ years of experience in developing and supporting production processes using Pega BPM technology 2+ years of experience querying and integrating with relational databases such as Oracle 2+ years of current experience in application development or customization with Java, J2EE, and/or C# Hands on years of experience in application integration using SOA/web services Candidate must have basic SQL, and some coding skills to extend Pega functionality. Please expect hands-on coding test in SQL or PL/SQL Applications/resumes should be directed to jobs.india@maantic.com . Open Positions There are no open positions currently. <div id=\"tm-column-inner-6a780f75ce2d4\" class=",
+   "text": "Sr. Pega Developer Services to be Performed: Collaborate with business process owners and software engineers to automate business processes via BPM solutions. Utilize an Agile development approach to validate and refine the solution. Collaborate with the team to implement technical deliverable’s such as services, integrations, reporting, and web services. Learn and support existing Pega applications to ensure a great user experience. Partner with customers to identify processes improvements, validate requirements and customize the application user interface (UI). Optimize system configuration, applications, services, and database queries. Implement process monitoring and perform performance tuning. Required Skills: 7+ years of experience in developing and supporting production processes using Pega BPM technology 2+ years of experience querying and integrating with relational databases such as Oracle 2+ years of current experience in application development or customization with Java, J2EE, and/or C# Hands on years of experience in application integration using SOA/web services Candidate must have basic SQL, and some coding skills to extend Pega functionality. Please expect hands-on coding test in SQL or PL/SQL Applications/resumes should be directed to jobs.india@maantic.com . Open Positions There are no open positions currently. <div id=\"tm-column-inner-6a78a15bcfc19\" class=",
    "_noEnrich": true,
    "score": 63,
    "isMatch": false,
@@ -78833,7 +79186,7 @@
    "location": "",
    "url": "https://maantic.com/careers",
    "team": "",
-   "text": "Sr. Pega Developer Services to be Performed: Collaborate with business process owners and software engineers to automate business processes via BPM solutions. Utilize an Agile development approach to validate and refine the solution. Collaborate with the team to implement technical deliverable’s such as services, integrations, reporting, and web services. Learn and support existing Pega applications to ensure a great user experience. Partner with customers to identify processes improvements, validate requirements and customize the application user interface (UI). Optimize system configuration, applications, services, and database queries. Implement process monitoring and perform performance tuning. Required Skills: 7+ years of experience in developing and supporting production processes using Pega BPM technology 2+ years of experience querying and integrating with relational databases such as Oracle 2+ years of current experience in application development or customization with Java, J2EE, and/or C# Hands on years of experience in application integration using SOA/web services Candidate must have basic SQL, and some coding skills to extend Pega functionality. Please expect hands-on coding test in SQL or PL/SQL Applications/resumes should be directed to jobs.india@maantic.com . Open Positions There are no open positions currently. <div id=\"tm-column-inner-6a780f75ce2d4\" class=",
+   "text": "Sr. Pega Developer Services to be Performed: Collaborate with business process owners and software engineers to automate business processes via BPM solutions. Utilize an Agile development approach to validate and refine the solution. Collaborate with the team to implement technical deliverable’s such as services, integrations, reporting, and web services. Learn and support existing Pega applications to ensure a great user experience. Partner with customers to identify processes improvements, validate requirements and customize the application user interface (UI). Optimize system configuration, applications, services, and database queries. Implement process monitoring and perform performance tuning. Required Skills: 7+ years of experience in developing and supporting production processes using Pega BPM technology 2+ years of experience querying and integrating with relational databases such as Oracle 2+ years of current experience in application development or customization with Java, J2EE, and/or C# Hands on years of experience in application integration using SOA/web services Candidate must have basic SQL, and some coding skills to extend Pega functionality. Please expect hands-on coding test in SQL or PL/SQL Applications/resumes should be directed to jobs.india@maantic.com . Open Positions There are no open positions currently. <div id=\"tm-column-inner-6a78a15bcfc19\" class=",
    "_noEnrich": true,
    "score": 63,
    "isMatch": false,
@@ -78931,7 +79284,7 @@
     "workable:maantic -> no board"
    ]
   },
-  "ms": 23885
+  "ms": 23909
  },
  {
   "company": "Moback",
@@ -78951,7 +79304,7 @@
     {
      "url": "https://www.moback.com/careers",
      "status": 200,
-     "bytes": 141070
+     "bytes": 343706
     },
     {
      "url": "https://careers.moback.com",
@@ -78962,52 +79315,52 @@
     {
      "url": "https://moback.com/careers",
      "status": 200,
-     "bytes": 141070
+     "bytes": 343706
     },
     {
      "url": "https://moback.com/career",
      "status": 404,
-     "bytes": 866149
+     "bytes": 289281
     },
     {
      "url": "https://moback.com/jobs",
      "status": 404,
-     "bytes": 866149
+     "bytes": 289281
     },
     {
      "url": "https://moback.com/join-us",
      "status": 404,
-     "bytes": 866149
+     "bytes": 289281
     },
     {
      "url": "https://moback.com/join-our-team",
      "status": 404,
-     "bytes": 866149
+     "bytes": 289281
     },
     {
      "url": "https://moback.com/careers.html",
      "status": 404,
-     "bytes": 866149
+     "bytes": 289281
     },
     {
      "url": "https://moback.com/company/careers",
      "status": 404,
-     "bytes": 866149
+     "bytes": 289281
     },
     {
      "url": "https://moback.com/about/careers",
      "status": 404,
-     "bytes": 866149
+     "bytes": 289281
     },
     {
      "url": "https://moback.com/current-openings",
      "status": 404,
-     "bytes": 866149
+     "bytes": 289281
     },
     {
      "url": "https://moback.com/",
      "status": 200,
-     "bytes": 850671
+     "bytes": 234991
     }
    ],
    "candidates": [
@@ -79025,7 +79378,7 @@
     "workable:moback -> no board"
    ]
   },
-  "ms": 23948
+  "ms": 20773
  },
  {
   "company": "MyClassboard",
@@ -79184,7 +79537,7 @@
     "workable:myclassboard -> no board"
    ]
   },
-  "ms": 43640
+  "ms": 44291
  },
  {
   "company": "Mylo",
@@ -79256,7 +79609,7 @@
     {
      "url": "https://mylofamily.com/",
      "status": 200,
-     "bytes": 650549
+     "bytes": 650052
     },
     {
      "url": "https://careers.www.mylofamily.com",
@@ -79314,7 +79667,7 @@
     {
      "url": "https://www.mylofamily.com/",
      "status": 200,
-     "bytes": 650549
+     "bytes": 645967
     }
    ],
    "candidates": [
@@ -79342,7 +79695,7 @@
     "workable:mylofamily -> no board"
    ]
   },
-  "ms": 18766
+  "ms": 23606
  },
  {
   "company": "Mudrex",
@@ -79539,32 +79892,32 @@
     {
      "url": "https://mudrex.com/careers",
      "status": 200,
-     "bytes": 212855
+     "bytes": 222582
     },
     {
      "url": "https://mudrex.com/career",
      "status": 200,
-     "bytes": 212855
+     "bytes": 222582
     },
     {
      "url": "https://mudrex.com/jobs",
      "status": 200,
-     "bytes": 212855
+     "bytes": 222582
     },
     {
      "url": "https://mudrex.com/join-us",
      "status": 200,
-     "bytes": 212855
+     "bytes": 222582
     },
     {
      "url": "https://mudrex.com/join-our-team",
      "status": 200,
-     "bytes": 212855
+     "bytes": 222582
     },
     {
      "url": "https://mudrex.com/careers.html",
      "status": 200,
-     "bytes": 212855
+     "bytes": 222582
     },
     {
      "url": "https://mudrex.com/company/careers",
@@ -79579,12 +79932,12 @@
     {
      "url": "https://mudrex.com/current-openings",
      "status": 200,
-     "bytes": 212855
+     "bytes": 222582
     },
     {
      "url": "https://mudrex.com/",
      "status": 200,
-     "bytes": 212855
+     "bytes": 222582
     },
     {
      "url": "https://careers.www.mudrex.com",
@@ -79673,7 +80026,7 @@
     "workable:mudrex -> no board"
    ]
   },
-  "ms": 38384
+  "ms": 47506
  },
  {
   "company": "myBillBook",
@@ -80024,7 +80377,7 @@
     "keka:valorem -> 7 jobs"
    ]
   },
-  "ms": 1120
+  "ms": 1687
  },
  {
   "company": "Moloco",
@@ -81311,7 +81664,7 @@
     "greenhouse:moloco -> 47 jobs"
    ]
   },
-  "ms": 9045
+  "ms": 9543
  },
  {
   "company": "Millennium Management",
@@ -81500,7 +81853,7 @@
     "workable:millenniummanagement -> no board"
    ]
   },
-  "ms": 17991
+  "ms": 21084
  },
  {
   "company": "Mizuho",
@@ -81604,7 +81957,7 @@
     "workable:mizuhogroup -> no board"
    ]
   },
-  "ms": 18665
+  "ms": 17454
  },
  {
   "company": "MetaDesign Solutions",
@@ -81798,7 +82151,7 @@
     "workable:metadesignsolutions -> no board"
    ]
   },
-  "ms": 13590
+  "ms": 12916
  },
  {
   "company": "MakeWebBetter",
@@ -81816,7 +82169,7 @@
    "pages": [],
    "attempts": []
   },
-  "ms": 90003
+  "ms": 90004
  },
  {
   "company": "MageAnts",
@@ -81846,12 +82199,12 @@
     {
      "url": "https://mageants.com/career",
      "status": 404,
-     "bytes": 657381
+     "bytes": 657378
     },
     {
      "url": "https://mageants.com/jobs",
      "status": 404,
-     "bytes": 657359
+     "bytes": 657356
     },
     {
      "url": "https://mageants.com/join-us",
@@ -81879,7 +82232,7 @@
     "workable:mageants -> no board"
    ]
   },
-  "ms": 26405
+  "ms": 30069
  },
  {
   "company": "MageDelight",
@@ -82017,7 +82370,7 @@
     "workable:magedelight -> no board"
    ]
   },
-  "ms": 20657
+  "ms": 16596
  },
  {
   "company": "MoogleLabs",
@@ -82156,7 +82509,7 @@
     "workable:mooglelabs -> no board"
    ]
   },
-  "ms": 20183
+  "ms": 22041
  },
  {
   "company": "Matrix Marketers",
@@ -82244,7 +82597,7 @@
     "workable:matrixmarketers -> no board"
    ]
   },
-  "ms": 43665
+  "ms": 40202
  },
  {
   "company": "Mobmaxime",
@@ -82388,7 +82741,7 @@
     "workable:mobmaxime -> no board"
    ]
   },
-  "ms": 12345
+  "ms": 15578
  },
  {
   "company": "MindCraft Software",
@@ -82697,7 +83050,7 @@
     "workable:mindcraft -> no board"
    ]
   },
-  "ms": 53662
+  "ms": 55208
  },
  {
   "company": "Morphing Machines",
@@ -82823,37 +83176,37 @@
     {
      "url": "https://morphing.in/careers",
      "status": 404,
-     "bytes": 2206
+     "bytes": 2205
     },
     {
      "url": "https://morphing.in/career",
      "status": 404,
-     "bytes": 2206
+     "bytes": 2205
     },
     {
      "url": "https://morphing.in/jobs",
      "status": 404,
-     "bytes": 2206
+     "bytes": 2205
     },
     {
      "url": "https://morphing.in/join-us",
      "status": 404,
-     "bytes": 2206
+     "bytes": 2205
     },
     {
      "url": "https://morphing.in/join-our-team",
      "status": 404,
-     "bytes": 2206
+     "bytes": 2205
     },
     {
      "url": "https://morphing.in/careers.html",
      "status": 400,
-     "bytes": 2203
+     "bytes": 2202
     },
     {
      "url": "https://morphing.in/company/careers",
      "status": 404,
-     "bytes": 2206
+     "bytes": 2205
     },
     {
      "url": "https://morphing.in/about/careers",
@@ -82863,7 +83216,7 @@
     {
      "url": "https://morphing.in/current-openings",
      "status": 404,
-     "bytes": 2206
+     "bytes": 2205
     },
     {
      "url": "https://morphing.in/",
@@ -82896,7 +83249,7 @@
     "workable:morphing -> no board"
    ]
   },
-  "ms": 12023
+  "ms": 12185
  },
  {
   "company": "Meslova Systems",
@@ -83106,7 +83459,7 @@
     "workable:meslova -> no board"
    ]
   },
-  "ms": 3789
+  "ms": 4162
  },
  {
   "company": "Mirketa",
@@ -83542,7 +83895,7 @@
     "workable:mirketa -> no board"
    ]
   },
-  "ms": 46512
+  "ms": 39446
  },
  {
   "company": "Maxbyte Technologies",
@@ -83765,7 +84118,7 @@
     "workable:maxbyte -> no board"
    ]
   },
-  "ms": 8919
+  "ms": 8745
  },
  {
   "company": "Mobiezy",
@@ -83824,7 +84177,7 @@
     "workable:mobiezy -> no board"
    ]
   },
-  "ms": 52423
+  "ms": 59222
  },
  {
   "company": "Mobile Programming",
@@ -84966,7 +85319,7 @@
     "workable:mobileprogramming -> no board"
    ]
   },
-  "ms": 17873
+  "ms": 19468
  },
  {
   "company": "MTX Group",
@@ -85115,13 +85468,13 @@
     "workable:mtxb2b -> no board"
    ]
   },
-  "ms": 24256
+  "ms": 16124
  },
  {
   "company": "Mobitrail",
   "country": "India",
   "source": null,
-  "error": "timed-out",
+  "error": "no-job-data-found",
   "totalJobs": 0,
   "jobs": [],
   "enriched": 0,
@@ -85130,10 +85483,136 @@
   "closest": null,
   "closestEng": null,
   "trace": {
-   "pages": [],
-   "attempts": []
+   "pages": [
+    {
+     "url": "https://careers.mobitrail.com",
+     "status": 0,
+     "bytes": 0,
+     "error": "fetch failed"
+    },
+    {
+     "url": "https://mobitrail.com/careers",
+     "status": 404,
+     "bytes": 1117
+    },
+    {
+     "url": "https://mobitrail.com/career",
+     "status": 404,
+     "bytes": 1117
+    },
+    {
+     "url": "https://mobitrail.com/jobs",
+     "status": 404,
+     "bytes": 1117
+    },
+    {
+     "url": "https://mobitrail.com/join-us",
+     "status": 404,
+     "bytes": 1117
+    },
+    {
+     "url": "https://mobitrail.com/join-our-team",
+     "status": 404,
+     "bytes": 1117
+    },
+    {
+     "url": "https://mobitrail.com/careers.html",
+     "status": 404,
+     "bytes": 1117
+    },
+    {
+     "url": "https://mobitrail.com/company/careers",
+     "status": 404,
+     "bytes": 1117
+    },
+    {
+     "url": "https://mobitrail.com/about/careers",
+     "status": 404,
+     "bytes": 1117
+    },
+    {
+     "url": "https://mobitrail.com/current-openings",
+     "status": 404,
+     "bytes": 1117
+    },
+    {
+     "url": "https://mobitrail.com/",
+     "status": 200,
+     "bytes": 321224
+    },
+    {
+     "url": "https://careers.www.mobitrail.com",
+     "status": 0,
+     "bytes": 0,
+     "error": "fetch failed"
+    },
+    {
+     "url": "https://www.mobitrail.com/careers",
+     "status": 404,
+     "bytes": 1117
+    },
+    {
+     "url": "https://www.mobitrail.com/career",
+     "status": 404,
+     "bytes": 1117
+    },
+    {
+     "url": "https://www.mobitrail.com/jobs",
+     "status": 404,
+     "bytes": 1117
+    },
+    {
+     "url": "https://www.mobitrail.com/join-us",
+     "status": 404,
+     "bytes": 1117
+    },
+    {
+     "url": "https://www.mobitrail.com/join-our-team",
+     "status": 404,
+     "bytes": 1117
+    },
+    {
+     "url": "https://www.mobitrail.com/careers.html",
+     "status": 404,
+     "bytes": 1117
+    },
+    {
+     "url": "https://www.mobitrail.com/company/careers",
+     "status": 404,
+     "bytes": 1117
+    },
+    {
+     "url": "https://www.mobitrail.com/about/careers",
+     "status": 404,
+     "bytes": 1117
+    },
+    {
+     "url": "https://www.mobitrail.com/current-openings",
+     "status": 404,
+     "bytes": 1117
+    },
+    {
+     "url": "https://www.mobitrail.com/",
+     "status": 200,
+     "bytes": 321224
+    }
+   ],
+   "candidates": [
+    "greenhouse:mobitrail(guess)",
+    "lever:mobitrail(guess)",
+    "ashby:mobitrail(guess)",
+    "recruitee:mobitrail(guess)",
+    "workable:mobitrail(guess)"
+   ],
+   "attempts": [
+    "greenhouse:mobitrail -> no board",
+    "lever:mobitrail -> no board",
+    "ashby:mobitrail -> no board",
+    "recruitee:mobitrail -> no board",
+    "workable:mobitrail -> no board"
+   ]
   },
-  "ms": 90003
+  "ms": 9759
  },
  {
   "company": "Medvarsity Online",
@@ -85263,7 +85742,7 @@
     "workable:medvarsity -> no board"
    ]
   },
-  "ms": 5977
+  "ms": 5699
  },
  {
   "company": "MyAnatomy",
@@ -85367,7 +85846,7 @@
     "workable:myanatomy -> no board"
    ]
   },
-  "ms": 7673
+  "ms": 6184
  },
  {
   "company": "Mercurius IT",
@@ -85430,7 +85909,7 @@
     "workable:mercuriusit -> no board"
    ]
   },
-  "ms": 5527
+  "ms": 3476
  },
  {
   "company": "Marquee Semiconductor",
@@ -85585,220 +86064,25 @@
     "workable:marqueesemi -> no board"
    ]
   },
-  "ms": 6944
+  "ms": 4973
  },
  {
   "company": "Miracle Studios",
   "country": "India",
-  "source": "feed:https://miraclestudios.ai",
-  "error": null,
-  "totalJobs": 3,
-  "jobs": [
-   {
-    "title": "Thinking About AI, Jobs, and Mental Health",
-    "location": "",
-    "url": "https://miraclestudios.ai/thinking-about-ai-jobs-and-mental-health/",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 19
-   },
-   {
-    "title": "Visualizing Data with AI: Transforming Information into Actionable Insights",
-    "location": "",
-    "url": "https://miraclestudios.ai/visualizing-data-a-deep-dive-into-ai/",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 19
-   },
-   {
-    "title": "My Perspective on the Future of Artificial Intelligence",
-    "location": "",
-    "url": "https://miraclestudios.ai/my-take-on-the-future-of-ai/",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 19
-   }
-  ],
+  "source": null,
+  "error": "timed-out",
+  "totalJobs": 0,
+  "jobs": [],
   "enriched": 0,
   "matches": [],
   "nearMatches": [],
-  "closest": {
-   "title": "Thinking About AI, Jobs, and Mental Health",
-   "location": "",
-   "url": "https://miraclestudios.ai/thinking-about-ai-jobs-and-mental-health/",
-   "team": "",
-   "text": "It’s been over a year since I have been following up with what’s happening in the AI sector. The advancements, if I were to […]",
-   "score": 19,
-   "isMatch": false,
-   "isEng": false,
-   "java": false,
-   "flutter": false,
-   "android": false,
-   "india": true,
-   "senior": false,
-   "junior": false,
-   "intern": false,
-   "exp": [],
-   "expFits2": false
-  },
+  "closest": null,
   "closestEng": null,
   "trace": {
-   "pages": [
-    {
-     "url": "https://careers.miraclestudios.ai",
-     "status": 0,
-     "bytes": 0,
-     "error": "fetch failed"
-    },
-    {
-     "url": "https://miraclestudios.ai/careers",
-     "status": 404,
-     "bytes": 32812
-    },
-    {
-     "url": "https://miraclestudios.ai/career",
-     "status": 404,
-     "bytes": 32812
-    },
-    {
-     "url": "https://miraclestudios.ai/jobs",
-     "status": 404,
-     "bytes": 32812
-    },
-    {
-     "url": "https://miraclestudios.ai/join-us",
-     "status": 404,
-     "bytes": 32812
-    },
-    {
-     "url": "https://miraclestudios.ai/join-our-team",
-     "status": 404,
-     "bytes": 32812
-    },
-    {
-     "url": "https://miraclestudios.ai/careers.html",
-     "status": 404,
-     "bytes": 32812
-    },
-    {
-     "url": "https://miraclestudios.ai/company/careers",
-     "status": 404,
-     "bytes": 32812
-    },
-    {
-     "url": "https://miraclestudios.ai/about/careers",
-     "status": 404,
-     "bytes": 32812
-    },
-    {
-     "url": "https://miraclestudios.ai/current-openings",
-     "status": 404,
-     "bytes": 32812
-    },
-    {
-     "url": "https://miraclestudios.ai/",
-     "status": 200,
-     "bytes": 144837
-    },
-    {
-     "url": "https://careers.www.miraclestudios.ai",
-     "status": 0,
-     "bytes": 0,
-     "error": "fetch failed"
-    },
-    {
-     "url": "https://www.miraclestudios.ai/careers",
-     "status": 404,
-     "bytes": 32812
-    },
-    {
-     "url": "https://www.miraclestudios.ai/career",
-     "status": 404,
-     "bytes": 32812
-    },
-    {
-     "url": "https://www.miraclestudios.ai/jobs",
-     "status": 404,
-     "bytes": 32812
-    },
-    {
-     "url": "https://www.miraclestudios.ai/join-us",
-     "status": 404,
-     "bytes": 32812
-    },
-    {
-     "url": "https://www.miraclestudios.ai/join-our-team",
-     "status": 404,
-     "bytes": 32812
-    },
-    {
-     "url": "https://www.miraclestudios.ai/careers.html",
-     "status": 404,
-     "bytes": 32812
-    },
-    {
-     "url": "https://www.miraclestudios.ai/company/careers",
-     "status": 404,
-     "bytes": 32812
-    },
-    {
-     "url": "https://www.miraclestudios.ai/about/careers",
-     "status": 404,
-     "bytes": 32812
-    },
-    {
-     "url": "https://www.miraclestudios.ai/current-openings",
-     "status": 404,
-     "bytes": 32812
-    },
-    {
-     "url": "https://www.miraclestudios.ai/",
-     "status": 200,
-     "bytes": 144837
-    },
-    {
-     "url": "https://miraclestudios.ai/thinking-about-ai-jobs-and-mental-health/",
-     "status": 200,
-     "bytes": 60865
-    }
-   ],
-   "candidates": [
-    "greenhouse:miraclestudios(guess)",
-    "lever:miraclestudios(guess)",
-    "ashby:miraclestudios(guess)",
-    "recruitee:miraclestudios(guess)",
-    "workable:miraclestudios(guess)"
-   ],
-   "attempts": [
-    "greenhouse:miraclestudios -> no board",
-    "lever:miraclestudios -> no board",
-    "ashby:miraclestudios -> no board",
-    "recruitee:miraclestudios -> no board",
-    "workable:miraclestudios -> no board"
-   ]
+   "pages": [],
+   "attempts": []
   },
-  "ms": 33886
+  "ms": 90003
  },
  {
   "company": "Mindpool Technologies",
@@ -86067,6 +86351,6 @@
     "zohorecruit:jobs.mindpooltech.com -> 4 jobs"
    ]
   },
-  "ms": 15148
+  "ms": 13935
  }
 ]

@@ -16,12 +16,12 @@
     {
      "url": "https://careers.jpmorganchase.com",
      "status": 200,
-     "bytes": 200347
+     "bytes": 200348
     },
     {
      "url": "https://jpmorganchase.com/careers",
      "status": 200,
-     "bytes": 200347
+     "bytes": 200348
     },
     {
      "url": "https://jpmorganchase.com/career",
@@ -46,7 +46,7 @@
     {
      "url": "https://jpmorganchase.com/careers.html",
      "status": 200,
-     "bytes": 200347
+     "bytes": 200346
     },
     {
      "url": "https://jpmorganchase.com/company/careers",
@@ -66,7 +66,7 @@
     {
      "url": "https://jpmorganchase.com/",
      "status": 200,
-     "bytes": 115028
+     "bytes": 115029
     }
    ],
    "candidates": [
@@ -84,7 +84,7 @@
     "workable:jpmorganchase -> no board"
    ]
   },
-  "ms": 29798
+  "ms": 24834
  },
  {
   "company": "Jio",
@@ -178,7 +178,7 @@
     {
      "url": "https://careers.jio.com/",
      "status": 200,
-     "bytes": 79533
+     "bytes": 79535
     },
     {
      "url": "https://careers.jio.com",
@@ -321,7 +321,7 @@
    "candidates": [],
    "attempts": []
   },
-  "ms": 7353
+  "ms": 8394
  },
  {
   "company": "Juspay",
@@ -409,7 +409,7 @@
     "workable:juspay -> no board"
    ]
   },
-  "ms": 9984
+  "ms": 10491
  },
  {
   "company": "Jubilant FoodWorks",
@@ -604,7 +604,7 @@
     "workable:jubilantfoodworks -> no board"
    ]
   },
-  "ms": 8920
+  "ms": 6818
  },
  {
   "company": "Jumbotail",
@@ -941,7 +941,7 @@
     "workable:jumbotail -> no board"
    ]
   },
-  "ms": 21392
+  "ms": 14118
  },
  {
   "company": "Justdial",
@@ -971,12 +971,73 @@
     {
      "url": "https://justdial.com/career",
      "status": 200,
-     "bytes": 721270
+     "bytes": 721079
     },
     {
      "url": "https://justdial.com/jobs",
      "status": 200,
-     "bytes": 30150
+     "bytes": 30151
+    },
+    {
+     "url": "https://justdial.com/join-us",
+     "status": 200,
+     "bytes": 721079
+    },
+    {
+     "url": "https://justdial.com/join-our-team",
+     "status": 200,
+     "bytes": 721079
+    },
+    {
+     "url": "https://justdial.com/careers.html",
+     "status": 200,
+     "bytes": 721078
+    },
+    {
+     "url": "https://justdial.com/company/careers",
+     "status": 200,
+     "bytes": 14
+    },
+    {
+     "url": "https://justdial.com/about/careers",
+     "status": 200,
+     "bytes": 14
+    },
+    {
+     "url": "https://justdial.com/current-openings",
+     "status": 200,
+     "bytes": 721078
+    },
+    {
+     "url": "https://justdial.com/",
+     "status": 200,
+     "bytes": 721078
+    },
+    {
+     "url": "https://careers.www.justdial.com",
+     "status": 0,
+     "bytes": 0,
+     "error": "fetch failed"
+    },
+    {
+     "url": "https://www.justdial.com/careers",
+     "status": 200,
+     "bytes": 721078
+    },
+    {
+     "url": "https://www.justdial.com/career",
+     "status": 200,
+     "bytes": 721079
+    },
+    {
+     "url": "https://www.justdial.com/jobs",
+     "status": 200,
+     "bytes": 30151
+    },
+    {
+     "url": "https://www.justdial.com/join-us",
+     "status": 200,
+     "bytes": 721266
     }
    ],
    "candidates": [
@@ -994,7 +1055,7 @@
     "workable:justdial -> no board"
    ]
   },
-  "ms": 13682
+  "ms": 28977
  },
  {
   "company": "John Deere India",
@@ -1468,7 +1529,7 @@
     "workable:deere -> no board"
    ]
   },
-  "ms": 44643
+  "ms": 47001
  },
  {
   "company": "Johnson Controls India",
@@ -1640,21 +1701,6 @@
     "title": "Product Engineer -Air cooled Chiller & Water cooled Chiller",
     "location": "Pune-Maharashtra-India",
     "url": "https://jci.wd5.myworkdayjobs.com/JCI/job/Pune-Maharashtra-India/Product-Engineer_WD30274999",
-    "india": true,
-    "locationSaysIndia": true,
-    "hasLocation": true,
-    "isEng": true,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 49
-   },
-   {
-    "title": "Developer II",
-    "location": "Pune-Maharashtra-India",
-    "url": "https://jci.wd5.myworkdayjobs.com/JCI/job/Pune-Maharashtra-India/Developer-II_WD30276174",
     "india": true,
     "locationSaysIndia": true,
     "hasLocation": true,
@@ -7427,6 +7473,21 @@
     "score": -18
    },
    {
+    "title": "Fitter Welder Apprentice, 2nd Shift",
+    "location": "San Antonio-Texas-United States of America",
+    "url": "https://jci.wd5.myworkdayjobs.com/JCI/job/San-Antonio-Texas-United-States-of-America/Fitter-Welder-Apprentice--2nd-Shift_WD30276634",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": -36
+   },
+   {
     "title": "HVAC Operations & Maintenance Mechanic Apprentice (union)",
     "location": "Metairie-Louisiana-United States of America",
     "url": "https://jci.wd5.myworkdayjobs.com/JCI/job/Metairie-Louisiana-United-States-of-America/HVAC-Operations---Maintenance-Mechanic-Apprentice---union-_WD30275450",
@@ -7596,27 +7657,27 @@
     {
      "url": "https://johnsoncontrols.com/careers",
      "status": 200,
-     "bytes": 114377
+     "bytes": 114378
     },
     {
      "url": "https://johnsoncontrols.com/career",
      "status": 200,
-     "bytes": 239743
+     "bytes": 239742
     },
     {
      "url": "https://johnsoncontrols.com/jobs",
      "status": 200,
-     "bytes": 239741
+     "bytes": 239742
     },
     {
      "url": "https://johnsoncontrols.com/join-us",
      "status": 200,
-     "bytes": 239741
+     "bytes": 239742
     },
     {
      "url": "https://johnsoncontrols.com/join-our-team",
      "status": 200,
-     "bytes": 239740
+     "bytes": 239742
     },
     {
      "url": "https://johnsoncontrols.com/careers.html",
@@ -7626,7 +7687,7 @@
     {
      "url": "https://johnsoncontrols.com/company/careers",
      "status": 200,
-     "bytes": 239743
+     "bytes": 239742
     },
     {
      "url": "https://johnsoncontrols.com/about/careers",
@@ -7636,12 +7697,12 @@
     {
      "url": "https://johnsoncontrols.com/current-openings",
      "status": 200,
-     "bytes": 239742
+     "bytes": 239744
     },
     {
      "url": "https://johnsoncontrols.com/",
      "status": 200,
-     "bytes": 253608
+     "bytes": 253607
     }
    ],
    "candidates": [
@@ -7656,7 +7717,7 @@
     "workday:jci -> 400 jobs"
    ]
   },
-  "ms": 51391
+  "ms": 47855
  },
  {
   "company": "Jaro Education",
@@ -7827,7 +7888,7 @@
     "workable:jaroeducation -> no board"
    ]
   },
-  "ms": 7997
+  "ms": 5905
  },
  {
   "company": "JSW Group",
@@ -7903,7 +7964,7 @@
    "candidates": [],
    "attempts": []
   },
-  "ms": 14506
+  "ms": 15063
  },
  {
   "company": "Jar",
@@ -8228,7 +8289,7 @@
     "jazzhr:changejar -> 11 jobs"
    ]
   },
-  "ms": 13021
+  "ms": 9863
  },
  {
   "company": "Jify",
@@ -8303,32 +8364,32 @@
     {
      "url": "https://jify.co/careers",
      "status": 404,
-     "bytes": 235290
+     "bytes": 235299
     },
     {
      "url": "https://jify.co/career",
      "status": 404,
-     "bytes": 235289
+     "bytes": 235292
     },
     {
      "url": "https://jify.co/jobs",
      "status": 404,
-     "bytes": 235289
+     "bytes": 235290
     },
     {
      "url": "https://jify.co/join-us",
      "status": 404,
-     "bytes": 235292
+     "bytes": 235298
     },
     {
      "url": "https://jify.co/join-our-team",
      "status": 404,
-     "bytes": 235302
+     "bytes": 235303
     },
     {
      "url": "https://jify.co/careers.html",
      "status": 404,
-     "bytes": 235304
+     "bytes": 235301
     },
     {
      "url": "https://jify.co/company/careers",
@@ -8338,12 +8399,12 @@
     {
      "url": "https://jify.co/about/careers",
      "status": 404,
-     "bytes": 235305
+     "bytes": 235303
     },
     {
      "url": "https://jify.co/current-openings",
      "status": 404,
-     "bytes": 235306
+     "bytes": 235302
     },
     {
      "url": "https://jify.co/",
@@ -8366,7 +8427,7 @@
     "workable:jify -> no board"
    ]
   },
-  "ms": 35265
+  "ms": 35682
  },
  {
   "company": "JoulesToWatts",
@@ -8510,7 +8571,7 @@
     "workable:joulestowatts -> no board"
    ]
   },
-  "ms": 6632
+  "ms": 7329
  },
  {
   "company": "Jumio India",
@@ -8697,7 +8758,7 @@
     "workable:jumio -> no board"
    ]
   },
-  "ms": 21249
+  "ms": 23336
  },
  {
   "company": "Jupiter Money",
@@ -9100,7 +9161,7 @@
     "keka:jupiter -> 12 jobs"
    ]
   },
-  "ms": 842
+  "ms": 951
  },
  {
   "company": "Josh Technology Group",
@@ -9458,7 +9519,7 @@
     "workable:joshtechnologygroup -> no board"
    ]
   },
-  "ms": 24686
+  "ms": 24891
  },
  {
   "company": "Jade Global",
@@ -13252,7 +13313,7 @@
     "workday:jadeglobal -> 238 jobs"
    ]
   },
-  "ms": 17587
+  "ms": 23631
  },
  {
   "company": "Jindal Steel",
@@ -13325,7 +13386,7 @@
     "workable:jindalsteelpower -> no board"
    ]
   },
-  "ms": 33688
+  "ms": 35352
  },
  {
   "company": "JLR (Jaguar Land Rover)",
@@ -13395,7 +13456,7 @@
    "candidates": [],
    "attempts": []
   },
-  "ms": 25363
+  "ms": 26374
  },
  {
   "company": "Jamboree Education",
@@ -13465,7 +13526,7 @@
     {
      "url": "https://jamboreeeducation.com/",
      "status": 200,
-     "bytes": 498873
+     "bytes": 341490
     },
     {
      "url": "https://careers.www.jamboreeeducation.com",
@@ -13521,12 +13582,12 @@
     {
      "url": "https://www.jamboreeeducation.com/",
      "status": 200,
-     "bytes": 498527
+     "bytes": 341021
     },
     {
      "url": "https://www.jamboreeindia.com/career-counseling",
      "status": 200,
-     "bytes": 277639
+     "bytes": 278202
     },
     {
      "url": "https://www.jamboreeindia.com/work-with-us",
@@ -13549,7 +13610,7 @@
     "workable:jamboreeeducation -> no board"
    ]
   },
-  "ms": 22523
+  "ms": 33483
  },
  {
   "company": "Janitri",
@@ -13717,7 +13778,7 @@
     "workable:janitri -> no board"
    ]
   },
-  "ms": 8374
+  "ms": 5078
  },
  {
   "company": "Jaypee Group",
@@ -13886,7 +13947,7 @@
     "workable:jeavio -> no board"
    ]
   },
-  "ms": 45092
+  "ms": 47304
  },
  {
   "company": "Jio Haptik",
@@ -13945,7 +14006,7 @@
     "workable:haptik -> no board"
    ]
   },
-  "ms": 26152
+  "ms": 18002
  },
  {
   "company": "DaVinci Commerce (Jivox)",
@@ -14082,7 +14143,7 @@
     "workable:davincicommerce -> no board"
    ]
   },
-  "ms": 11549
+  "ms": 9693
  },
  {
   "company": "JK Tech",
@@ -14185,7 +14246,7 @@
     "workable:jktech -> no board"
    ]
   },
-  "ms": 38476
+  "ms": 42396
  },
  {
   "company": "Jocata",
@@ -14329,7 +14390,7 @@
     "workable:jocata -> no board"
    ]
   },
-  "ms": 6676
+  "ms": 4569
  },
  {
   "company": "Jodo",
@@ -14584,7 +14645,7 @@
     "keka:jodo -> 6 jobs"
    ]
   },
-  "ms": 18073
+  "ms": 16225
  },
  {
   "company": "Josh Talks",
@@ -14644,7 +14705,7 @@
     "workable:joshtalks -> no board"
    ]
   },
-  "ms": 31470
+  "ms": 34513
  },
  {
   "company": "Joveo",
@@ -14841,7 +14902,7 @@
     "workable:joveo -> no board"
    ]
   },
-  "ms": 28570
+  "ms": 26578
  },
  {
   "company": "Jungleworks",
@@ -14881,7 +14942,7 @@
     {
      "url": "https://jungleworks.com/join-us",
      "status": 200,
-     "bytes": 126526
+     "bytes": 126527
     }
    ],
    "candidates": [
@@ -14901,7 +14962,7 @@
     "workable:jungleworks -> no board"
    ]
   },
-  "ms": 20584
+  "ms": 22655
  },
  {
   "company": "Junglee Games",
@@ -15061,7 +15122,7 @@
     "workable:jungleegames -> no board"
    ]
   },
-  "ms": 3672
+  "ms": 14881
  },
  {
   "company": "Juniper Networks India",
@@ -15896,7 +15957,7 @@
     "workday:hpe -> 40 jobs"
    ]
   },
-  "ms": 40137
+  "ms": 34785
  },
  {
   "company": "Jupiter Meta",
@@ -15984,7 +16045,7 @@
     "workable:jupitermeta -> no board"
    ]
   },
-  "ms": 5970
+  "ms": 4730
  },
  {
   "company": "JioSaavn",
@@ -15992,10 +16053,10 @@
   "careers": "https://www.jiosaavn.com/corporate/careers",
   "source": "headings:https://www.jiosaavn.com/corporate/careers",
   "error": null,
-  "totalJobs": 3,
+  "totalJobs": 4,
   "jobs": [
    {
-    "title": "Creative Director",
+    "title": "Chief Operating Officer",
     "location": "",
     "url": "https://www.jiosaavn.com/corporate/careers",
     "india": true,
@@ -16010,7 +16071,7 @@
     "score": -3
    },
    {
-    "title": "Manager, Brand & Communications",
+    "title": "Senior Manager, Human Resources",
     "location": "",
     "url": "https://www.jiosaavn.com/corporate/careers",
     "india": true,
@@ -16038,17 +16099,32 @@
     "exp": [],
     "expFits2": false,
     "score": -3
+   },
+   {
+    "title": "Director, Label Relations",
+    "location": "",
+    "url": "https://www.jiosaavn.com/corporate/careers",
+    "india": true,
+    "locationSaysIndia": false,
+    "hasLocation": false,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [],
+    "expFits2": false,
+    "score": -3
    }
   ],
   "enriched": 0,
   "matches": [],
   "nearMatches": [],
   "closest": {
-   "title": "Creative Director",
+   "title": "Chief Operating Officer",
    "location": "",
    "url": "https://www.jiosaavn.com/corporate/careers",
    "team": "",
-   "text": "Creative Director Fun Facts Conducted a Bay Area symphony at 13 (tux and all). Likes Peanut Butter M&Ms, good coffee, and audiobooks. Plays guitar, piano, and drums. Mark's Humble Brag My guitar tone is 👌 . The End Of The Innocence Bruce Hornsby and The Range Meet Mark Rohan Indulkar Editor, Hindi Programming Fun Facts Collects sneakers and FC Barca jerseys. Loves Bollywood, as long as its masaledaar. Plays cricket, occasionally. Rohan's Humble Brag I skipped this question. Kal Ho Naa No Sonu Nigam Meet Rohan Vinodh Bhat President & Co-Founder Fun Facts Always finds new and inventive ways to lose his passport. Likes bad jokes and the New York Jets. Plays tennis when he's not injured (never). Vinodh's Humble Brag I can eat 3 Big Macs. 🍔 <img src=\"http://c",
+   "text": "Chief Operating Officer Fun Facts Goes by G or Sharms (we didn't even know he had a first name). Likes more hot sauce than is probably safe to consume. He sings, ladies. Gaurav's Humble Brag I cover 3 octaves, plus falsetto. 😎 Kindred Spirits Jai Wolf Meet Gaurav Kirthi Shetty Vice President, Creative Production Fun Facts Rides motorbikes across India. Has fun with food, and yoga for breakfast. Plays the handpan. Kirthi's Humble Brag My characters are famous. I'd Rather Dance With You Kings of Convenience Meet Kirthi Shreya Jain",
    "_noEnrich": true,
    "score": -3,
    "isMatch": false,
@@ -16069,7 +16145,7 @@
     {
      "url": "https://www.jiosaavn.com/corporate/careers",
      "status": 200,
-     "bytes": 34868
+     "bytes": 34738
     },
     {
      "url": "https://careers.jiosaavn.com",
@@ -16080,12 +16156,12 @@
     {
      "url": "https://jiosaavn.com/careers",
      "status": 200,
-     "bytes": 536890
+     "bytes": 535835
     },
     {
      "url": "https://jiosaavn.com/career",
      "status": 200,
-     "bytes": 536978
+     "bytes": 535809
     }
    ],
    "candidates": [
@@ -16103,7 +16179,7 @@
     "workable:jiosaavn -> no board"
    ]
   },
-  "ms": 10491
+  "ms": 6810
  },
  {
   "company": "JioStar",
@@ -17021,7 +17097,7 @@
     "workday:jiostar -> 40 jobs"
    ]
   },
-  "ms": 8716
+  "ms": 5609
  },
  {
   "company": "JioMart",
@@ -17046,52 +17122,52 @@
     {
      "url": "https://jiomart.com/careers",
      "status": 200,
-     "bytes": 7113319
+     "bytes": 7113335
     },
     {
      "url": "https://jiomart.com/career",
      "status": 200,
-     "bytes": 7113319
+     "bytes": 7113335
     },
     {
      "url": "https://jiomart.com/jobs",
      "status": 200,
-     "bytes": 7113319
+     "bytes": 7113335
     },
     {
      "url": "https://jiomart.com/join-us",
      "status": 200,
-     "bytes": 7113319
+     "bytes": 7113335
     },
     {
      "url": "https://jiomart.com/join-our-team",
      "status": 200,
-     "bytes": 7113320
+     "bytes": 7113335
     },
     {
      "url": "https://jiomart.com/careers.html",
      "status": 200,
-     "bytes": 7113319
+     "bytes": 7113335
     },
     {
      "url": "https://jiomart.com/company/careers",
      "status": 200,
-     "bytes": 7113320
+     "bytes": 7113335
     },
     {
      "url": "https://jiomart.com/about/careers",
      "status": 200,
-     "bytes": 7113319
+     "bytes": 7113335
     },
     {
      "url": "https://jiomart.com/current-openings",
      "status": 200,
-     "bytes": 7113319
+     "bytes": 7113336
     },
     {
      "url": "https://jiomart.com/",
      "status": 200,
-     "bytes": 7113319
+     "bytes": 7113335
     },
     {
      "url": "https://careers.www.jiomart.com",
@@ -17102,17 +17178,17 @@
     {
      "url": "https://www.jiomart.com/careers",
      "status": 200,
-     "bytes": 7105852
+     "bytes": 7105851
     },
     {
      "url": "https://www.jiomart.com/career",
      "status": 200,
-     "bytes": 7105846
+     "bytes": 7105845
     },
     {
      "url": "https://www.jiomart.com/jobs",
      "status": 200,
-     "bytes": 7105834
+     "bytes": 7105833
     }
    ],
    "candidates": [
@@ -17130,7 +17206,7 @@
     "workable:jiomart -> no board"
    ]
   },
-  "ms": 30658
+  "ms": 83547
  },
  {
   "company": "Jio Things",
@@ -17274,7 +17350,7 @@
     "workable:jiothings -> no board"
    ]
   },
-  "ms": 12952
+  "ms": 4499
  },
  {
   "company": "Jio Financial Services",
@@ -17368,7 +17444,7 @@
     "workable:jiofinancial -> no board"
    ]
   },
-  "ms": 11585
+  "ms": 14530
  },
  {
   "company": "Jai Kisan",
@@ -17527,7 +17603,7 @@
     "workable:jaikisan -> no board"
    ]
   },
-  "ms": 32525
+  "ms": 24571
  },
  {
   "company": "Jiraaf",
@@ -17671,7 +17747,7 @@
     "workable:jiraaf -> no board"
    ]
   },
-  "ms": 13402
+  "ms": 7308
  },
  {
   "company": "Junio",
@@ -17815,7 +17891,7 @@
     "workable:junio -> no board"
    ]
   },
-  "ms": 9524
+  "ms": 4428
  },
  {
   "company": "Jana Small Finance Bank",
@@ -18029,7 +18105,7 @@
     "workable:janabank -> no board"
    ]
   },
-  "ms": 13610
+  "ms": 19232
  },
  {
   "company": "JM Financial",
@@ -18107,7 +18183,7 @@
     "workable:jmfl -> no board"
    ]
   },
-  "ms": 41814
+  "ms": 44495
  },
  {
   "company": "Jammu & Kashmir Bank",
@@ -18211,7 +18287,7 @@
     "workable:jkbank -> no board"
    ]
   },
-  "ms": 8113
+  "ms": 12994
  },
  {
   "company": "Jarvis Invest",
@@ -18355,7 +18431,7 @@
     "workable:jarvisinvest -> no board"
    ]
   },
-  "ms": 6364
+  "ms": 6642
  },
  {
   "company": "JIFFY.ai",
@@ -18509,7 +18585,7 @@
     "workable:jiffy -> no board"
    ]
   },
-  "ms": 18851
+  "ms": 19532
  },
  {
   "company": "Jamcracker",
@@ -18658,7 +18734,7 @@
     "workable:jamcracker -> no board"
    ]
   },
-  "ms": 31919
+  "ms": 36035
  },
  {
   "company": "Jupitice Justice Technologies",
@@ -18755,7 +18831,7 @@
     "workable:jupitice -> no board"
    ]
   },
-  "ms": 8431
+  "ms": 7085
  },
  {
   "company": "Jaldee",
@@ -18900,7 +18976,7 @@
     "workable:jaldee -> no board"
    ]
   },
-  "ms": 16052
+  "ms": 11861
  },
  {
   "company": "Jamku",
@@ -19054,7 +19130,7 @@
     "workable:jamku -> no board"
    ]
   },
-  "ms": 2919
+  "ms": 2449
  },
  {
   "company": "Jugnoo",
@@ -19079,7 +19155,7 @@
     {
      "url": "https://jugnoo.in/careers",
      "status": 404,
-     "bytes": 39458
+     "bytes": 39459
     },
     {
      "url": "https://jugnoo.in/career",
@@ -19089,12 +19165,12 @@
     {
      "url": "https://jugnoo.in/jobs",
      "status": 404,
-     "bytes": 39454
+     "bytes": 39455
     },
     {
      "url": "https://jugnoo.in/join-us",
      "status": 404,
-     "bytes": 39456
+     "bytes": 39459
     },
     {
      "url": "https://jugnoo.in/join-our-team",
@@ -19104,27 +19180,27 @@
     {
      "url": "https://jugnoo.in/careers.html",
      "status": 404,
-     "bytes": 39463
+     "bytes": 39462
     },
     {
      "url": "https://jugnoo.in/company/careers",
      "status": 404,
-     "bytes": 39465
+     "bytes": 39467
     },
     {
      "url": "https://jugnoo.in/about/careers",
      "status": 404,
-     "bytes": 39465
+     "bytes": 39463
     },
     {
      "url": "https://jugnoo.in/current-openings",
      "status": 404,
-     "bytes": 39467
+     "bytes": 39468
     },
     {
      "url": "https://jugnoo.in/",
      "status": 200,
-     "bytes": 52101
+     "bytes": 52099
     }
    ],
    "candidates": [
@@ -19144,7 +19220,7 @@
     "workable:jugnoo -> no board"
    ]
   },
-  "ms": 16055
+  "ms": 15229
  },
  {
   "company": "Jivi AI",
@@ -19324,7 +19400,7 @@
     "workable:jivi -> no board"
    ]
   },
-  "ms": 14153
+  "ms": 9720
  },
  {
   "company": "JarvisLabs.ai",
@@ -19537,7 +19613,7 @@
     "workable:jarvislabs -> no board"
    ]
   },
-  "ms": 6354
+  "ms": 5519
  },
  {
   "company": "Jash Data Sciences",
@@ -19641,7 +19717,7 @@
     {
      "url": "https://www.jashds.com/careers",
      "status": 200,
-     "bytes": 1170571
+     "bytes": 1162760
     },
     {
      "url": "https://careers.jashds.com",
@@ -19652,52 +19728,52 @@
     {
      "url": "https://jashds.com/careers",
      "status": 200,
-     "bytes": 1170571
+     "bytes": 1162760
     },
     {
      "url": "https://jashds.com/career",
      "status": 404,
-     "bytes": 2206
+     "bytes": 2205
     },
     {
      "url": "https://jashds.com/jobs",
      "status": 404,
-     "bytes": 2206
+     "bytes": 2205
     },
     {
      "url": "https://jashds.com/join-us",
      "status": 404,
-     "bytes": 2206
+     "bytes": 2205
     },
     {
      "url": "https://jashds.com/join-our-team",
      "status": 404,
-     "bytes": 2206
+     "bytes": 2205
     },
     {
      "url": "https://jashds.com/careers.html",
      "status": 400,
-     "bytes": 2203
+     "bytes": 2202
     },
     {
      "url": "https://jashds.com/company/careers",
      "status": 404,
-     "bytes": 2206
+     "bytes": 2205
     },
     {
      "url": "https://jashds.com/about/careers",
      "status": 404,
-     "bytes": 2206
+     "bytes": 2205
     },
     {
      "url": "https://jashds.com/current-openings",
      "status": 404,
-     "bytes": 2206
+     "bytes": 2205
     },
     {
      "url": "https://jashds.com/",
      "status": 200,
-     "bytes": 2385388
+     "bytes": 2392389
     }
    ],
    "candidates": [
@@ -19725,7 +19801,7 @@
     "workable:jashds -> no board"
    ]
   },
-  "ms": 14496
+  "ms": 13227
  },
  {
   "company": "JetSynthesys",
@@ -19819,7 +19895,7 @@
     "workable:jetsynthesys -> no board"
    ]
   },
-  "ms": 17726
+  "ms": 18697
  },
  {
   "company": "Jetapult",
@@ -19918,7 +19994,7 @@
     {
      "url": "https://jetapult.co/team-and-careers/",
      "status": 200,
-     "bytes": 158759
+     "bytes": 160007
     },
     {
      "url": "https://careers.jetapult.co",
@@ -19934,7 +20010,7 @@
     {
      "url": "https://jetapult.co/career",
      "status": 404,
-     "bytes": 120348
+     "bytes": 121596
     }
    ],
    "candidates": [
@@ -19952,7 +20028,7 @@
     "workable:jetapult -> no board"
    ]
   },
-  "ms": 6017
+  "ms": 5702
  },
  {
   "company": "Josh Software",
@@ -20111,7 +20187,7 @@
     "workable:joshsoftware -> no board"
    ]
   },
-  "ms": 9444
+  "ms": 9904
  },
  {
   "company": "Jellyfish Technologies",
@@ -20180,7 +20256,7 @@
     {
      "url": "https://www.jellyfishtechnologies.com/career/",
      "status": 200,
-     "bytes": 258690
+     "bytes": 258695
     },
     {
      "url": "https://careers.jellyfishtechnologies.com",
@@ -20191,52 +20267,52 @@
     {
      "url": "https://jellyfishtechnologies.com/careers",
      "status": 200,
-     "bytes": 768493
+     "bytes": 768488
     },
     {
      "url": "https://jellyfishtechnologies.com/career",
      "status": 200,
-     "bytes": 258690
+     "bytes": 258695
     },
     {
      "url": "https://jellyfishtechnologies.com/jobs",
      "status": 200,
-     "bytes": 768493
+     "bytes": 768488
     },
     {
      "url": "https://jellyfishtechnologies.com/join-us",
      "status": 200,
-     "bytes": 768493
+     "bytes": 768488
     },
     {
      "url": "https://jellyfishtechnologies.com/join-our-team",
      "status": 200,
-     "bytes": 768493
+     "bytes": 768488
     },
     {
      "url": "https://jellyfishtechnologies.com/careers.html",
      "status": 200,
-     "bytes": 768493
+     "bytes": 768488
     },
     {
      "url": "https://jellyfishtechnologies.com/company/careers",
      "status": 200,
-     "bytes": 768493
+     "bytes": 768488
     },
     {
      "url": "https://jellyfishtechnologies.com/about/careers",
      "status": 200,
-     "bytes": 768493
+     "bytes": 768488
     },
     {
      "url": "https://jellyfishtechnologies.com/current-openings",
      "status": 200,
-     "bytes": 768493
+     "bytes": 768488
     },
     {
      "url": "https://jellyfishtechnologies.com/",
      "status": 200,
-     "bytes": 768493
+     "bytes": 768488
     },
     {
      "url": "https://careers.www.jellyfishtechnologies.com",
@@ -20247,52 +20323,52 @@
     {
      "url": "https://www.jellyfishtechnologies.com/careers",
      "status": 200,
-     "bytes": 768493
+     "bytes": 768488
     },
     {
      "url": "https://www.jellyfishtechnologies.com/career",
      "status": 200,
-     "bytes": 258690
+     "bytes": 258695
     },
     {
      "url": "https://www.jellyfishtechnologies.com/jobs",
      "status": 200,
-     "bytes": 768493
+     "bytes": 768488
     },
     {
      "url": "https://www.jellyfishtechnologies.com/join-us",
      "status": 200,
-     "bytes": 768493
+     "bytes": 768488
     },
     {
      "url": "https://www.jellyfishtechnologies.com/join-our-team",
      "status": 200,
-     "bytes": 768493
+     "bytes": 768488
     },
     {
      "url": "https://www.jellyfishtechnologies.com/careers.html",
      "status": 200,
-     "bytes": 768493
+     "bytes": 768488
     },
     {
      "url": "https://www.jellyfishtechnologies.com/company/careers",
      "status": 200,
-     "bytes": 768493
+     "bytes": 768488
     },
     {
      "url": "https://www.jellyfishtechnologies.com/about/careers",
      "status": 200,
-     "bytes": 768493
+     "bytes": 768488
     },
     {
      "url": "https://www.jellyfishtechnologies.com/current-openings",
      "status": 200,
-     "bytes": 768493
+     "bytes": 768488
     },
     {
      "url": "https://www.jellyfishtechnologies.com/",
      "status": 200,
-     "bytes": 768493
+     "bytes": 768488
     }
    ],
    "candidates": [
@@ -20320,7 +20396,7 @@
     "workable:jellyfishtechnologies -> no board"
    ]
   },
-  "ms": 17131
+  "ms": 17775
  },
  {
   "company": "JS TechAlliance",
@@ -20510,7 +20586,7 @@
     "workable:jstechalliance -> no board"
    ]
   },
-  "ms": 4215
+  "ms": 3226
  },
  {
   "company": "JPLoft Solutions",
@@ -20563,7 +20639,7 @@
     "workable:jploft -> no board"
    ]
   },
-  "ms": 40349
+  "ms": 23533
  },
  {
   "company": "JanBask",
@@ -20966,7 +21042,7 @@
     "workable:janbask -> no board"
    ]
   },
-  "ms": 24223
+  "ms": 22960
  },
  {
   "company": "Jiva Infotech",
@@ -21152,7 +21228,7 @@
     "workable:jivainfotech -> no board"
    ]
   },
-  "ms": 30999
+  "ms": 20984
  },
  {
   "company": "JMR Infotech",
@@ -21244,7 +21320,7 @@
     "workable:jmrinfotech -> no board"
    ]
   },
-  "ms": 14976
+  "ms": 12121
  },
  {
   "company": "Jasmin Infotech",
@@ -21399,7 +21475,7 @@
     "workable:jasmininfotech -> no board"
    ]
   },
-  "ms": 16614
+  "ms": 13329
  },
  {
   "company": "JMAN Group",
@@ -21632,7 +21708,7 @@
     "workable:jmangroup -> no board"
    ]
   },
-  "ms": 12549
+  "ms": 14198
  },
  {
   "company": "JindalX",
@@ -21691,7 +21767,7 @@
     "workable:jindalx -> no board"
    ]
   },
-  "ms": 44343
+  "ms": 41721
  },
  {
   "company": "Jinactus Consulting",
@@ -21727,7 +21803,7 @@
     {
      "url": "https://www.jinactus.com/careers",
      "status": 200,
-     "bytes": 1051141
+     "bytes": 1052750
     },
     {
      "url": "https://careers.jinactus.com",
@@ -21738,52 +21814,52 @@
     {
      "url": "https://jinactus.com/careers",
      "status": 200,
-     "bytes": 1051141
+     "bytes": 1052750
     },
     {
      "url": "https://jinactus.com/career",
      "status": 404,
-     "bytes": 2206
+     "bytes": 2205
     },
     {
      "url": "https://jinactus.com/jobs",
      "status": 404,
-     "bytes": 2206
+     "bytes": 2205
     },
     {
      "url": "https://jinactus.com/join-us",
      "status": 404,
-     "bytes": 2206
+     "bytes": 2205
     },
     {
      "url": "https://jinactus.com/join-our-team",
      "status": 404,
-     "bytes": 2206
+     "bytes": 2205
     },
     {
      "url": "https://jinactus.com/careers.html",
      "status": 400,
-     "bytes": 2203
+     "bytes": 2202
     },
     {
      "url": "https://jinactus.com/company/careers",
      "status": 404,
-     "bytes": 2206
+     "bytes": 2205
     },
     {
      "url": "https://jinactus.com/about/careers",
      "status": 404,
-     "bytes": 2206
+     "bytes": 2205
     },
     {
      "url": "https://jinactus.com/current-openings",
      "status": 404,
-     "bytes": 2206
+     "bytes": 2205
     },
     {
      "url": "https://jinactus.com/",
      "status": 200,
-     "bytes": 802661
+     "bytes": 802918
     }
    ],
    "candidates": [
@@ -21811,7 +21887,7 @@
     "workable:jinactus -> no board"
    ]
   },
-  "ms": 15244
+  "ms": 16585
  },
  {
   "company": "Jaikvik Technology",
@@ -21996,7 +22072,7 @@
     "workable:jaikvik -> no board"
    ]
   },
-  "ms": 3733
+  "ms": 4640
  },
  {
   "company": "Jain Software",
@@ -22151,7 +22227,7 @@
     "workable:jainsoftware -> no board"
    ]
   },
-  "ms": 6183
+  "ms": 5569
  },
  {
   "company": "Java India",
@@ -22332,26 +22408,6 @@
     "score": -7
    },
    {
-    "title": "Technical Project Manager",
-    "location": "",
-    "url": "https://www.javaindia.in/career/",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": true,
-    "exp": [
-     [
-      5,
-      10
-     ]
-    ],
-    "expFits2": false,
-    "score": -7
-   },
-   {
     "title": "Staff Augmentation Sales Manager",
     "location": "",
     "url": "https://www.javaindia.in/career/",
@@ -22386,6 +22442,26 @@
      [
       15,
       20
+     ]
+    ],
+    "expFits2": false,
+    "score": -7
+   },
+   {
+    "title": "Technical Project Manager",
+    "location": "",
+    "url": "https://www.javaindia.in/career/",
+    "india": true,
+    "locationSaysIndia": false,
+    "hasLocation": false,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [
+     [
+      5,
+      10
      ]
     ],
     "expFits2": false,
@@ -22565,7 +22641,7 @@
     "workable:javaindia -> no board"
    ]
   },
-  "ms": 20451
+  "ms": 22610
  },
  {
   "company": "JB Soft System",
@@ -22777,7 +22853,7 @@
     "workable:jbsoftsystem -> no board"
    ]
   },
-  "ms": 15364
+  "ms": 12760
  },
  {
   "company": "Johnson & Johnson India",
@@ -22870,7 +22946,7 @@
     "workable:johnsonjohnson -> no board"
    ]
   },
-  "ms": 23045
+  "ms": 20497
  },
  {
   "company": "Jabil India",
@@ -23581,7 +23657,7 @@
     {
      "url": "https://jobs.jabil.com/",
      "status": 200,
-     "bytes": 38109
+     "bytes": 38102
     },
     {
      "url": "https://careers.jabil.com",
@@ -23606,7 +23682,7 @@
     "workday:jabil -> 40 jobs"
    ]
   },
-  "ms": 10262
+  "ms": 11707
  },
  {
   "company": "Jacobs India",
@@ -23642,7 +23718,7 @@
     {
      "url": "https://www.jacobs.com/careers-jacobs",
      "status": 200,
-     "bytes": 165230
+     "bytes": 165231
     },
     {
      "url": "https://careers.jacobs.com",
@@ -23652,7 +23728,7 @@
     {
      "url": "https://jacobs.com/careers",
      "status": 200,
-     "bytes": 165230
+     "bytes": 165231
     },
     {
      "url": "https://jacobs.com/career",
@@ -23675,7 +23751,7 @@
     "workable:jacobs -> no board"
    ]
   },
-  "ms": 18113
+  "ms": 18401
  },
  {
   "company": "JLL India",
@@ -23724,6 +23800,30 @@
     ],
     "expFits2": true,
     "score": 60
+   },
+   {
+    "title": "Infra Engineer-HVAC",
+    "location": "Hyderabad, TS",
+    "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Hyderabad-TS/Infra-Engineer-HVAC_REQ522022",
+    "india": true,
+    "locationSaysIndia": true,
+    "hasLocation": true,
+    "isEng": true,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [
+     [
+      10,
+      14
+     ],
+     [
+      10,
+      11
+     ]
+    ],
+    "expFits2": false,
+    "score": 45
    },
    {
     "title": "Senior Automation Engineer",
@@ -23984,94 +24084,79 @@
     "score": 4
    },
    {
-    "title": "👷🏽‍♀️ Auxiliar de Manutenção Generalista (Exclusiva para Mulheres)",
-    "location": "Osasco,BRA",
-    "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/OsascoBRA/XMLNAME---------Meio-Oficial-de-Manuteno-Generalista--Exclusiva-para-Mulheres-_REQ520104",
-    "india": false,
-    "locationSaysIndia": false,
+    "title": "Cost Manager",
+    "location": "Hyderabad, TS",
+    "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Hyderabad-TS/Cost-Manager_REQ513500",
+    "india": true,
+    "locationSaysIndia": true,
     "hasLocation": true,
     "isEng": false,
     "java": false,
     "flutter": false,
-    "senior": false,
+    "senior": true,
     "exp": [],
     "expFits2": false,
-    "score": 4
+    "score": -3
    },
    {
-    "title": "Oficial de Manutenção Generalista",
-    "location": "Sao Paulo,BRA",
-    "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Sao-PauloBRA/Oficial-de-Manuteno-Generalista_REQ517995",
-    "india": false,
-    "locationSaysIndia": false,
+    "title": "Manager - Financial Management",
+    "location": "Gurugram, HR",
+    "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Gurugram-HR/Assistant-Manager---Financial-Management_REQ513930",
+    "india": true,
+    "locationSaysIndia": true,
     "hasLocation": true,
     "isEng": false,
     "java": false,
     "flutter": false,
-    "senior": false,
+    "senior": true,
     "exp": [],
     "expFits2": false,
-    "score": 4
+    "score": -3
    },
    {
-    "title": "Serralheiro",
-    "location": "Sao Paulo,BRA",
-    "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Sao-PauloBRA/Serralheiro_REQ518015",
+    "title": "Assistant Project Manager",
+    "location": "Hong Kong, SAR, China",
+    "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Hong-Kong-SAR-China/Assistant-Project-Manager_REQ523842",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
     "isEng": false,
     "java": false,
     "flutter": false,
-    "senior": false,
+    "senior": true,
     "exp": [],
     "expFits2": false,
-    "score": 4
+    "score": -18
    },
    {
-    "title": "Assistente Administrativo (Financeiro) (PcD)",
-    "location": "Osasco,BRA",
-    "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/OsascoBRA/Assistente-Administrativo--Financeiro---PcD-_REQ508743",
+    "title": "Senior Faciities Manager (Engineering)",
+    "location": "Hong Kong, SAR, China",
+    "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Hong-Kong-SAR-China/Senior-Faciities-Manager--Engineering-_REQ527791-1",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
     "isEng": false,
     "java": false,
     "flutter": false,
-    "senior": false,
+    "senior": true,
     "exp": [],
     "expFits2": false,
-    "score": 4
+    "score": -18
    },
    {
-    "title": "Mobile HVAC Technician",
-    "location": "Colorado Springs, CO",
-    "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Colorado-Springs-CO/Mobile-HVAC-Technician_REQ526735",
+    "title": "DC Site Lead",
+    "location": "Hong Kong, SAR, China",
+    "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Hong-Kong-SAR-China/DC-Site-Lead_REQ527790",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
     "isEng": false,
     "java": false,
     "flutter": false,
-    "senior": false,
+    "senior": true,
     "exp": [],
     "expFits2": false,
-    "score": 4
-   },
-   {
-    "title": "Oficial De Manutenção Generalista (Volante)",
-    "location": "Santa Catarina, BRA",
-    "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Santa-Catarina-BRA/Oficial-De-Manuteno-Generalista_REQ502013-1",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 4
+    "score": -18
    },
    {
     "title": "HSSE Manager",
@@ -24314,7 +24399,7 @@
     "score": -36
    }
   ],
-  "enriched": 4,
+  "enriched": 5,
   "matches": [],
   "nearMatches": [],
   "closest": {
@@ -24376,7 +24461,7 @@
     {
      "url": "https://www.jll.com/en-in/careers",
      "status": 200,
-     "bytes": 328835
+     "bytes": 328856
     },
     {
      "url": "https://careers.jll.com",
@@ -24387,52 +24472,52 @@
     {
      "url": "https://jll.com/careers",
      "status": 200,
-     "bytes": 328835
+     "bytes": 328856
     },
     {
      "url": "https://jll.com/career",
      "status": 200,
-     "bytes": 391613
+     "bytes": 391612
     },
     {
      "url": "https://jll.com/jobs",
      "status": 200,
-     "bytes": 391613
+     "bytes": 391612
     },
     {
      "url": "https://jll.com/join-us",
      "status": 200,
-     "bytes": 391613
+     "bytes": 391612
     },
     {
      "url": "https://jll.com/join-our-team",
      "status": 200,
-     "bytes": 391613
+     "bytes": 391612
     },
     {
      "url": "https://jll.com/careers.html",
      "status": 200,
-     "bytes": 328835
+     "bytes": 328856
     },
     {
      "url": "https://jll.com/company/careers",
      "status": 200,
-     "bytes": 391613
+     "bytes": 391612
     },
     {
      "url": "https://jll.com/about/careers",
      "status": 200,
-     "bytes": 391613
+     "bytes": 391612
     },
     {
      "url": "https://jll.com/current-openings",
      "status": 200,
-     "bytes": 391613
+     "bytes": 391612
     },
     {
      "url": "https://jll.com/",
      "status": 200,
-     "bytes": 391613
+     "bytes": 391612
     },
     {
      "url": "https://careers.www.jll.com",
@@ -24443,52 +24528,52 @@
     {
      "url": "https://www.jll.com/careers",
      "status": 200,
-     "bytes": 328835
+     "bytes": 328856
     },
     {
      "url": "https://www.jll.com/career",
      "status": 200,
-     "bytes": 391613
+     "bytes": 391612
     },
     {
      "url": "https://www.jll.com/jobs",
      "status": 200,
-     "bytes": 391613
+     "bytes": 391612
     },
     {
      "url": "https://www.jll.com/join-us",
      "status": 200,
-     "bytes": 391613
+     "bytes": 391612
     },
     {
      "url": "https://www.jll.com/join-our-team",
      "status": 200,
-     "bytes": 391613
+     "bytes": 391612
     },
     {
      "url": "https://www.jll.com/careers.html",
      "status": 200,
-     "bytes": 328835
+     "bytes": 328856
     },
     {
      "url": "https://www.jll.com/company/careers",
      "status": 200,
-     "bytes": 391613
+     "bytes": 391612
     },
     {
      "url": "https://www.jll.com/about/careers",
      "status": 200,
-     "bytes": 391613
+     "bytes": 391612
     },
     {
      "url": "https://www.jll.com/current-openings",
      "status": 200,
-     "bytes": 391613
+     "bytes": 391612
     },
     {
      "url": "https://www.jll.com/",
      "status": 200,
-     "bytes": 391613
+     "bytes": 391612
     }
    ],
    "candidates": [
@@ -24498,7 +24583,7 @@
     "workday:jll -> 40 jobs"
    ]
   },
-  "ms": 7894
+  "ms": 7371
  },
  {
   "company": "JAGGAER India",
@@ -24642,7 +24727,7 @@
     "workable:jaggaer -> no board"
    ]
   },
-  "ms": 3710
+  "ms": 2909
  },
  {
   "company": "Jitterbit India",
@@ -24742,7 +24827,7 @@
     {
      "url": "https://www.jitterbit.com/careers/",
      "status": 200,
-     "bytes": 282843
+     "bytes": 282915
     },
     {
      "url": "https://careers.jitterbit.com",
@@ -24819,17 +24904,17 @@
     {
      "url": "https://www.jitterbit.com/careers",
      "status": 200,
-     "bytes": 282843
+     "bytes": 282915
     },
     {
      "url": "https://www.jitterbit.com/career",
      "status": 200,
-     "bytes": 282843
+     "bytes": 282915
     },
     {
      "url": "https://www.jitterbit.com/jobs",
      "status": 200,
-     "bytes": 282843
+     "bytes": 282915
     },
     {
      "url": "https://www.jitterbit.com/join-us",
@@ -24857,7 +24942,7 @@
     "workable:jitterbit -> no board"
    ]
   },
-  "ms": 25370
+  "ms": 17540
  },
  {
   "company": "JFrog India",
@@ -24927,17 +25012,17 @@
     {
      "url": "https://join.jfrog.com/",
      "status": 200,
-     "bytes": 98762
+     "bytes": 100048
     },
     {
      "url": "https://careers.jfrog.com",
      "status": 200,
-     "bytes": 98762
+     "bytes": 100048
     },
     {
      "url": "https://jfrog.com/careers",
      "status": 200,
-     "bytes": 98762
+     "bytes": 100048
     },
     {
      "url": "https://jfrog.com/career",
@@ -24975,7 +25060,7 @@
     "workable:jfrog -> no board"
    ]
   },
-  "ms": 19274
+  "ms": 20913
  },
  {
   "company": "John Wiley & Sons India",
@@ -25773,7 +25858,7 @@
     "workday:wiley -> 40 jobs"
    ]
   },
-  "ms": 12095
+  "ms": 15884
  },
  {
   "company": "JCB India",
@@ -25814,7 +25899,7 @@
    "candidates": [],
    "attempts": []
   },
-  "ms": 23360
+  "ms": 24806
  },
  {
   "company": "JCPenney India",
@@ -25823,6 +25908,26 @@
   "error": null,
   "totalJobs": 36,
   "jobs": [
+   {
+    "title": "Operations Associate - Hiram Square",
+    "location": "Hiram, GA, USA",
+    "url": "https://jobs.jcp.com/careers-home/jobs/1097504?lang=en-us",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [
+     [
+      1,
+      2
+     ]
+    ],
+    "expFits2": true,
+    "score": 42
+   },
    {
     "title": "Men’s Clothing Sales Associate - Mall Saint Matthews",
     "location": "Louisville, KY, USA",
@@ -25902,6 +26007,21 @@
     ],
     "expFits2": true,
     "score": 30
+   },
+   {
+    "title": "Seasonal Sales Associate - Smith Haven Mall",
+    "location": "Lake Grove, NY, USA",
+    "url": "https://jobs.jcp.com/careers-home/jobs/1124599?lang=en-us",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 16
    },
    {
     "title": "Specialty Associate - Fayette Mall",
@@ -26334,36 +26454,6 @@
     "score": 4
    },
    {
-    "title": "Sales Floor Supervisor - Fayette Mall",
-    "location": "Lexington, KY, USA",
-    "url": "https://jobs.jcp.com/careers-home/jobs/1095785?lang=en-us",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 4
-   },
-   {
-    "title": "Supervisor - Fashion Mall at Keystone",
-    "location": "Indianapolis, IN, USA",
-    "url": "https://jobs.jcp.com/careers-home/jobs/1127787?lang=en-us",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 4
-   },
-   {
     "title": "Beauty Lead - Fayette Mall",
     "location": "Lexington, KY, USA",
     "url": "https://jobs.jcp.com/careers-home/jobs/1120691?lang=en-us",
@@ -26433,11 +26523,11 @@
   "matches": [],
   "nearMatches": [],
   "closest": {
-   "title": "Men’s Clothing Sales Associate - Mall Saint Matthews",
-   "location": "Louisville, KY, USA",
-   "url": "https://jobs.jcp.com/careers-home/jobs/1128688?lang=en-us",
+   "title": "Operations Associate - Hiram Square",
+   "location": "Hiram, GA, USA",
+   "url": "https://jobs.jcp.com/careers-home/jobs/1097504?lang=en-us",
    "team": "",
-   "text": "Position Summary The Men's Clothing Sales Associate delivers a best‑in‑class customer experience by driving sales, providing expert product knowledge, and maintaining a visually compelling sales floor. This role focuses on building client relationships, executing merchandise recovery, and accurately communicating merchandise‑on‑hand opportunities to support store performance and profitability. Key Responsibilities Customer Experience & Sales Drive sales performance through personalized service and proactive engagement. Utilize suggestive selling techniques to increase units per transaction and strengthen customer loyalty. Offer knowledgeable style guidance, fit recommendations, and product solutions based on customer needs. Maintain a positive, professional, and customer‑focused presence at all times. Clienteling Build and maintain a personal client book through relationship‑building, follow‑up communication, and outreach. Leverage client data, preferences, and history to increase repeat visits and long-term loyalty. Deliver a personalized shopping experience that aligns with each client's lifestyle and wardrobe needs. Merchandising & Presentation Execute daily merchandise recovery to ensure the sales floor is neat, organized, and visually appealing. Support floor set execution, replenishment, folding standards, and visual direction as assigned. Ensure merchandise is properly sized, signed, tagged, and displayed according to company standards. Inventory & Operations Verify merchandise-on-hand (MOH) accuracy by checking stockroom and sales floor quantities. Identify, document, and communicate out-of-stock issues, replenishment needs, and inventory discrepancies. Assist with shipment processing, product organization, and inventory control procedures. Adhere to all operational policies and asset protection guidelines. Core Competencies & Accomplishments Sales Focus - Drives sales performance through confident engagement, strong product knowledge, and effective suggestive selling; identifies opportunities to maximize revenue and customer satisfaction. Customer Service Excellence - Provides exceptional service through active listening, personalized recommendations, and positive interactions; ensures every customer feels supported and valued; takes responsibility for creating a seamless experience. Clienteling & Relationship Building - Builds lasting customer relationships through outreach, follow-up, and tailored service; maintains accurate client records to support repeat business and higher sales potential. Results Orientation - Makes informed decisions that support sales, customer satisfaction, and operational efficiency; adapts quickly to changing business needs while maintaining high performance standards. Ownership & Accountability - Takes responsibility for personal actions, sales results, and customer interactions; follows through on commitments; supports the team with a cooperative and solution-oriented mindset. Merchandising Excellence - Maintains the store's visual appeal through consistent recovery, accurate sizing, and adherence to visual standards; helps create an inviting shopping environment. Inventory Awareness - Ensures accurate merchandise-on-hand levels, identifies stock issues, and communicates gaps promptly; supports inventory integrity and product availability for customers. Urgency & Efficiency - Works with energy and focus, prioritizing tasks to support both sales and operational needs; takes initiative to resolve issues and elevate the customer experience quickly. Qualifications 1+ year of retail, apparel, or sales experience preferred. Strong communication and interpersonal skills. Ability to provide styling suggestions with confidence and professionalism. Highly organized with strong attention to detail. Ability to stand and move for extended periods and lift moderate-weight items. Comfortable working in a fast-paced, customer-driven environment. What you get: If eligible, we offer a competitive benefits package including medical/dental/vision, term life insurance, paid vacation/holidays*, and 401(k) with Company match. All associates are eligible for an associate discount on JCPenney merchandise. For paid holidays, associates who are eligible for paid vacation (MTO) are also eligible for eight paid holidays during the calendar year. All store hourly associates scheduled to work on a designated holiday will receive additional compensation. *For paid vacation days, as well as eligibility requirements for other benefits, please visit www.catalystbrandsbenefits.com Pay Range USD $12.00/Hr -USD $15.00/Hr. UNAVAILABLE",
+   "text": "The Operations Associate's role is to create an outstanding customer experience by performing operations functions within the store. The Operations Associate role is an early morning position and you will work with the a team to perform functions prior to store opening. Primary Responsibilities: Customer Service - You're maneuvering around the store at a fast pace, working with all the latest merchandise, but when a customer stops to ask you a question or request assistance, there's no one they'd rather be talking to other than you. Executes pricing and signing - You can change ticket prices and signing on merchandise across the store better and faster than anyone! Replenish and restock the store: You understand the needs of the customer. When merchandise is getting low, you assist your sales floor peers and leaders by pulling and preparing merchandise to go the floor in order to ensure all of our customers have the styles and sizes they need. Receive and unload merchandise: You work with your co-workers to unload a truck and prepare the merchandise in the backroom. Backroom standards: You keep the stockroom safe, clean, and organized . Omnichannel: You will contribute to Omichannel efforts including Buy Online Pickup in Store, Ship from Store, Order Delivery and Returns, Shipping Online Orders, and Merchandise Receiving. Merchandise strategy: You take the plans that have been communicated by leadership on where to place merchandise throughout the store and execute the plan with efficiency and detail. You understand the merchandising standards and work to deliver an outstanding customer experience by maintaining these standards as you flow goods to the sales floor. Participates in a learning environment: You absorb new information from your peers or training materials on our merchandise, shrink, safety, productivity, and other business processes. Core Competencies & Accomplisments: Results: Solve problems and make smart decisions that drive sales, profit or customer service; execute your work efficiently and effectively; inspire strong performance in yourself and others Ownership: Provide great customer service; cooperate and build positive, inclusive and respectful relationships; take accountability for your actions and outcomes Intensity: Proactively find ways to improve the customer experience; show the confidence and courage to do what's right; take action with energy and urgency Work experience- 1-2 years retail experience At this time, JCPenney does not anticipate closing this job opportunity. What you get: If eligible, we offer a competitive benefits package including medical/dental/vision, term life insurance, paid vacation/holidays*, and 401(k) with Company match. All associates are eligible for an associate discount on JCPenney merchandise. For paid holidays, associates who are eligible for paid vacation (MTO) are also eligible for eight paid holidays during the calendar year. All store hourly associates scheduled to work on a designated holiday will receive additional compensation. *For paid vacation days, as well as eligibility requirements for other benefits, please visit www.catalystbrandsbenefits.com About JCPenney: JCPenney is the shopping destination for diverse, working American families. With inclusivity at its core, the Company's product assortment meets customers' everyday needs and helps them commemorate every special occasion with style, quality, and value. JCPenney offers a broad portfolio of fashion, apparel, home, beauty, and jewelry from national and private brands and provides personal services including salon, portrait and optical. The Company and its 50,000 associates worldwide serve customers where, when, and how they want to shop - from jcp.com to more than 650 stores in the U.S. and Puerto Rico. In 2022, JCPenney celebrates 120 years as an iconic American brand by continuing its legacy of connecting with customers through shopping and community engagement. Please visit JCPenney's Newsroom to learn more and follow JCPenney on Facebook, Instagram, Twitter, and LinkedIn. Pay Range USD $12.00/Hr -USD $15.00/Hr. UNAVAILABLE",
    "score": 42,
    "isMatch": false,
    "isEng": false,
@@ -26451,7 +26541,7 @@
    "exp": [
     [
      1,
-     5
+     2
     ]
    ],
    "expFits2": true
@@ -26472,38 +26562,38 @@
     },
     {
      "url": "https://jcpenney.com/career",
-     "status": 503,
-     "bytes": 62
+     "status": 404,
+     "bytes": 4582
     },
     {
      "url": "https://jcpenney.com/jobs",
-     "status": 503,
-     "bytes": 62
+     "status": 404,
+     "bytes": 4582
     },
     {
      "url": "https://jcpenney.com/join-us",
-     "status": 503,
-     "bytes": 62
+     "status": 404,
+     "bytes": 4582
     },
     {
      "url": "https://jcpenney.com/join-our-team",
-     "status": 503,
-     "bytes": 62
+     "status": 404,
+     "bytes": 4582
     },
     {
      "url": "https://jcpenney.com/careers.html",
      "status": 200,
-     "bytes": 470344
+     "bytes": 470345
     },
     {
      "url": "https://jcpenney.com/company/careers",
-     "status": 503,
-     "bytes": 62
+     "status": 404,
+     "bytes": 4582
     },
     {
      "url": "https://jcpenney.com/about/careers",
-     "status": 403,
-     "bytes": 199
+     "status": 404,
+     "bytes": 4582
     },
     {
      "url": "https://jcpenney.com/current-openings",
@@ -26513,23 +26603,7 @@
     {
      "url": "https://jcpenney.com/",
      "status": 200,
-     "bytes": 655744
-    },
-    {
-     "url": "https://careers.www.jcpenney.com",
-     "status": 0,
-     "bytes": 0,
-     "error": "fetch failed"
-    },
-    {
-     "url": "https://www.jcpenney.com/careers",
-     "status": 200,
-     "bytes": 470347
-    },
-    {
-     "url": "https://www.jcpenney.com/career",
-     "status": 404,
-     "bytes": 4582
+     "bytes": 653889
     }
    ],
    "candidates": [
@@ -26549,7 +26623,7 @@
     "workable:jcpenney -> no board"
    ]
   },
-  "ms": 78618
+  "ms": 63845
  },
  {
   "company": "JSW One MSME",
@@ -26637,7 +26711,7 @@
     "workable:jswonemsme -> no board"
    ]
   },
-  "ms": 58223
+  "ms": 53365
  },
  {
   "company": "Jubilant Pharmova",
@@ -26791,7 +26865,7 @@
     "workable:jubilantpharmova -> no board"
    ]
   },
-  "ms": 14269
+  "ms": 22817
  },
  {
   "company": "Jubilant Ingrevia",
@@ -26831,7 +26905,7 @@
     {
      "url": "https://jubilantingrevia.com/join-us",
      "status": 200,
-     "bytes": 320079
+     "bytes": 320036
     },
     {
      "url": "https://jubilantingrevia.com/join-our-team",
@@ -26841,7 +26915,7 @@
     {
      "url": "https://jubilantingrevia.com/careers.html",
      "status": 200,
-     "bytes": 320036
+     "bytes": 320079
     },
     {
      "url": "https://jubilantingrevia.com/company/careers",
@@ -26851,7 +26925,7 @@
     {
      "url": "https://jubilantingrevia.com/about/careers",
      "status": 200,
-     "bytes": 320079
+     "bytes": 320036
     },
     {
      "url": "https://jubilantingrevia.com/current-openings",
@@ -26940,7 +27014,7 @@
     "workable:jubilantingrevia -> no board"
    ]
   },
-  "ms": 19214
+  "ms": 16866
  },
  {
   "company": "Jindal Stainless",
@@ -27011,14 +27085,14 @@
     "workable:jindalstainless -> no board"
    ]
   },
-  "ms": 57681
+  "ms": 58668
  },
  {
   "company": "JK Cement",
   "country": "India",
   "source": "successfactors:careers.jkcement.com",
   "error": null,
-  "totalJobs": 34,
+  "totalJobs": 30,
   "jobs": [
    {
     "title": "Investment Associate JOB",
@@ -27054,21 +27128,6 @@
     ],
     "expFits2": true,
     "score": 30
-   },
-   {
-    "title": "No jobs currently available - Check out our other opportunities.",
-    "location": "",
-    "url": "https://careers.jkcement.com",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 19
    },
    {
     "title": "IC-GCSA Central Role JOB",
@@ -27107,6 +27166,21 @@
     "india": true,
     "locationSaysIndia": true,
     "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 19
+   },
+   {
+    "title": "No jobs currently available - Check out our other opportunities.",
+    "location": "",
+    "url": "https://careers.jkcement.com",
+    "india": true,
+    "locationSaysIndia": false,
+    "hasLocation": false,
     "isEng": false,
     "java": false,
     "flutter": false,
@@ -27194,74 +27268,6 @@
     ],
     "expFits2": false,
     "score": 15
-   },
-   {
-    "title": "IC Civil JOB",
-    "location": "Jaisalmer, IN",
-    "url": "https://careers.jkcement.com/job/Jaisalmer-IC-Civil-JOB/1328085466/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [
-     [
-      4,
-      6
-     ],
-     [
-      6,
-      7
-     ]
-    ],
-    "expFits2": false,
-    "score": 12
-   },
-   {
-    "title": "IC Instrumentation JOB",
-    "location": "Jaisalmer, IN",
-    "url": "https://careers.jkcement.com/job/Jaisalmer-IC-Instrumentation-JOB/1328084166/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [
-     [
-      4,
-      6
-     ]
-    ],
-    "expFits2": false,
-    "score": 12
-   },
-   {
-    "title": "IC Civil JOB",
-    "location": "Jaisalmer, IN",
-    "url": "https://careers.jkcement.com/job/Jaisalmer-IC-Civil-JOB/1328085766/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [
-     [
-      4,
-      6
-     ],
-     [
-      6,
-      7
-     ]
-    ],
-    "expFits2": false,
-    "score": 12
    },
    {
     "title": "Security In-charge GU JOB",
@@ -27372,21 +27378,6 @@
     "title": "Frontline Officer Trade-Paint & Putty JOB",
     "location": "Kushinagar, IN",
     "url": "https://careers.jkcement.com/job/Kushinagar-Frontline-Officer-Trade-Paint-&-Putty-JOB/1064928166/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 4
-   },
-   {
-    "title": "IC Instrumentation JOB",
-    "location": "Jaisalmer, IN",
-    "url": "https://careers.jkcement.com/job/Jaisalmer-IC-Instrumentation-JOB/1327893766/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
@@ -27612,7 +27603,7 @@
     {
      "url": "https://careers.jkcement.com",
      "status": 200,
-     "bytes": 40180
+     "bytes": 40181
     },
     {
      "url": "https://jkcement.com/careers",
@@ -27634,10 +27625,10 @@
     "workable:jkcement(guess)"
    ],
    "attempts": [
-    "successfactors:careers.jkcement.com -> 34 jobs"
+    "successfactors:careers.jkcement.com -> 30 jobs"
    ]
   },
-  "ms": 5515
+  "ms": 24324
  },
  {
   "company": "JK Tyre & Industries",
@@ -27685,7 +27676,7 @@
     "workable:jktyre -> no board"
    ]
   },
-  "ms": 7448
+  "ms": 6180
  },
  {
   "company": "Jaquar Group",
@@ -28362,7 +28353,7 @@
     "workable:jaquar -> no board"
    ]
   },
-  "ms": 11921
+  "ms": 13435
  },
  {
   "company": "Jigsaw Academy",
@@ -28505,7 +28496,7 @@
     "workable:jigsawacademy -> no board"
    ]
   },
-  "ms": 4096
+  "ms": 3330
  },
  {
   "company": "Jaypore",
@@ -28575,7 +28566,7 @@
     {
      "url": "https://jaypore.com/",
      "status": 200,
-     "bytes": 354024
+     "bytes": 354329
     },
     {
      "url": "https://careers.www.jaypore.com",
@@ -28631,7 +28622,7 @@
     {
      "url": "https://www.jaypore.com/",
      "status": 200,
-     "bytes": 354024
+     "bytes": 354329
     }
    ],
    "candidates": [
@@ -28649,6 +28640,6 @@
     "workable:jaypore -> no board"
    ]
   },
-  "ms": 5920
+  "ms": 4815
  }
 ]

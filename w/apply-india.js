@@ -26,6 +26,16 @@ const argVal = (k, d) => {
   return a ? a.slice(k.length + 3) : d;
 };
 const TOP = parseInt(argVal('top', '10'), 10);
+/*
+ * Where the shortlist comes from. Originally this only ever read letter W's
+ * own scan, i.e. 125 of the 5,952 companies. The weekend folders now hold the
+ * whole ranked, deduped, filtered priority list across all 26 letters, so point
+ * it there instead and the pack covers everything:
+ *   node w/apply-india.js --from=../weekendplan/1-java-flutter-2yr/jobs.json \
+ *                         --out=../weekendplan/1-java-flutter-2yr/apply-pack.txt --top=25
+ */
+const FROM = argVal('from', 'careerv1.results.json');
+const OUT_FILE = argVal('out', 'apply-india.txt');
 
 const UA =
   'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 ' +
@@ -256,12 +266,21 @@ const STD_ANSWERS = [
 ];
 
 (async () => {
-  const R = JSON.parse(fs.readFileSync(path.join(__dirname, 'careerv1.results.json'), 'utf8'));
-  const rows = [];
-  for (const r of R)
-    for (const j of r.jobs)
-      if (j.india && j.isEng && !j.senior && (j.expFits2 || !j.exp.length) && j.url)
-        rows.push({ ...j, company: r.company, source: r.source });
+  const raw = JSON.parse(fs.readFileSync(path.resolve(__dirname, FROM), 'utf8'));
+  let rows;
+  if (Array.isArray(raw) && raw.length && raw[0] && raw[0].title && !raw[0].jobs) {
+    /* A weekendplan jobs.json: already filtered to India + engineering +
+     * non-senior + the right experience window, already deduped and ranked, so
+     * take it as-is rather than re-deriving a weaker version of the same thing. */
+    rows = raw.filter((j) => j.url).map((j) => ({ ...j, source: j.board || j.source || '' }));
+  } else {
+    /* A raw <letter>/results.json — the original shape. */
+    rows = [];
+    for (const r of raw)
+      for (const j of r.jobs || [])
+        if (j.india && j.isEng && !j.senior && (j.expFits2 || !j.exp.length) && j.url)
+          rows.push({ ...j, company: r.company, source: r.source });
+  }
 
   // one per company+title, best first
   const seen = new Set();
@@ -294,7 +313,7 @@ const STD_ANSWERS = [
 
   const L = [];
   L.push('='.repeat(78));
-  L.push('INDIA APPLICATION PACK — top roles from careerv1.txt');
+  L.push('INDIA APPLICATION PACK — top roles from ' + FROM);
   L.push(`${ME.name}  |  ${ME.email}  |  ${ME.phone}`);
   L.push(`Generated ${new Date().toISOString().replace('T', ' ').slice(0, 19)} UTC`);
   L.push('='.repeat(78));
@@ -328,6 +347,6 @@ const STD_ANSWERS = [
     L.push('');
   });
 
-  fs.writeFileSync(path.join(__dirname, 'apply-india.txt'), L.join('\n'));
-  console.log(`\nWrote apply-india.txt (${out.length} roles)`);
+  fs.writeFileSync(path.resolve(__dirname, OUT_FILE), L.join('\n'));
+  console.log(`\nWrote ${OUT_FILE} (${out.length} roles)`);
 })();

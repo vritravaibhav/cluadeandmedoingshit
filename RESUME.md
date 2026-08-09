@@ -266,6 +266,34 @@ throwaway script that walked the same path with the internals printed (hop
 target, nav status, landed URL, text length, anchor text, JSON calls) showed
 the cause in one run. Prefer that over reasoning about it.
 
+
+## DIMINISHING RETURNS ON BOARD SCRAPING — read before starting another pass
+Measured this cycle. Recovery rate per render pass, on the boards still unread
+at the time:
+    pass 1 (plain render)        163 / 1064   15%
+    pass 2 (+ ATS second hop)    312 / 1007   31%
+    pass 3 (+ third hop)          ~23 /  786    3%
+Each pass retries only the residue the previous one failed on, so the rate
+falling to ~3% means the remaining ~2,900 unread boards are genuinely hard:
+login-gated, bot-walled, or actually empty. Another extractor is worth roughly
+30 boards.
+
+Two classes were sized and REJECTED as not worth building for:
+ - Oracle Cloud SPAs (Hexaware and similar): only 3 unread boards show Oracle
+   signals. hexaware.com/careers REDIRECTS to jobs.hexaware.com, so no hop is
+   needed at all — the board itself renders zero anchors inside the deadline.
+   Earlier note in this file blamed a late-rendering LINK; that was wrong.
+ - Chromium hard load failures: 7 of 1,309 attempts (0.5%).
+
+WHAT TO DO INSTEAD: the pipeline is in good shape (3,000+ roles, packs written,
+domains verified). The highest-value recurring work is now
+  (a) keeping the data fresh — postings expire, so re-sweeping matters more
+      than recovering another 30 boards, and
+  (b) hand-reading the output files, which has found a real defect in every
+      cycle it has been done.
+Do not start another extractor without first measuring what class it would
+actually unlock.
+
 ## Next cycle
 1. Consider fixing the intern signal at source: RE_JUNIOR in w/test.js rewards
    "intern"/"trainee" with +12, which is wrong for a 2-year candidate. Build.js
@@ -441,7 +469,6 @@ Hard timeouts are 7 of 1,309 render attempts (0.5%). Coforge and MakeMyTrip are
 in that set. Dropping this from the backlog.
 
 ## Next cycle
-1. Measure what the third hop recovered across all letters (logs-hop3.log).
-2. Hexaware-class failures: the board link renders after the snapshot. A longer
-   wait or a retry before giving up on finding a hop target would cover it.
-3. Keep hand-reading the packs and lists.
+1. Refresh the sweep and regenerate both packs — freshness now beats coverage.
+2. Hand-read folder 1, 1-bid-now, and the apply/proposal packs.
+3. Do NOT start another extractor without measuring its class first (see above).

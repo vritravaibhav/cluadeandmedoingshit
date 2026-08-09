@@ -63,6 +63,46 @@ function rank(jobs) {
     .sort((a, b) => (b.score || 0) - (a.score || 0));
 }
 
+/*
+ * Spread the shortlist across platforms instead of taking the global top N.
+ *
+ * Bid quotas are PER PLATFORM — Freelancer's 6-a-month cap says nothing about
+ * how many proposals you may send on PeoplePerHour or Twine. A shortlist ranked
+ * purely by score was 60/60 freelancer.com, because its records carry richer
+ * text (skills, budget) and therefore score higher, so 646 gigs from the other
+ * eight marketplaces never appeared at all. That is the opposite of what more
+ * sources were added for: it concentrates the list on the one platform where
+ * the candidate has the least room to act.
+ *
+ * Round-robin by source, best-first within each, so every platform contributes
+ * its strongest gigs and a scarce Freelancer bid is never spent on something
+ * that could have been a free proposal elsewhere.
+ */
+function spreadBySource(jobs, limit) {
+  const bySource = new Map();
+  for (const j of rank(jobs)) {
+    const k = j.source || 'unknown';
+    if (!bySource.has(k)) bySource.set(k, []);
+    bySource.get(k).push(j);
+  }
+  // Strongest platform first, so ties in an early round still favour quality.
+  const queues = [...bySource.values()].sort((a, b) => (b[0].score || 0) - (a[0].score || 0));
+  const out = [];
+  let round = 0;
+  while (out.length < limit) {
+    let took = false;
+    for (const q of queues) {
+      if (round >= q.length) continue;
+      out.push(q[round]);
+      took = true;
+      if (out.length >= limit) break;
+    }
+    if (!took) break; // every queue exhausted
+    round++;
+  }
+  return out;
+}
+
 function render(b, jobs, meta) {
   const L = [];
   const bar = '='.repeat(78);
@@ -76,6 +116,10 @@ function render(b, jobs, meta) {
     L.push('Bids are the scarce resource, not gigs. Freelancer free tier = 6 bids/month;');
     L.push('the Plus trial = 100. This list is capped and ranked so you spend them on the');
     L.push('best fits first. Work top down and stop when you run out of bids.');
+    L.push('');
+    L.push('Slots are shared across platforms on purpose. Quotas are PER platform, so');
+    L.push('a Freelancer bid is the expensive one - if the same work is reachable on');
+    L.push('PeoplePerHour, Twine or Freelancermap, spend the free proposal there first.');
   } else if (b.n === 2) {
     L.push('Real gigs, but the fit is weaker or the posting never stated enough to score.');
     L.push('Only reach here once folder 1 is exhausted.');
@@ -115,9 +159,21 @@ function main() {
   const gigs = all.filter((j) => j.sourceKind === 'gig');
   const boardContract = all.filter((j) => j.sourceKind !== 'gig' && j.freelance && !j.senior);
 
-  const priority = (j) => j.bestPriority || (j.stacks || []).some((s) => /flutter|dart|java|spring/i.test(s));
-  const strong = rank(gigs.filter((j) => priority(j) && !j.senior));
-  const rest = rank(gigs.filter((j) => !strong.includes(j)));
+  /*
+   * `bestPriority` cannot be used to pick the shortlist: it is true for all
+   * 1,155 gigs, so it separates nothing and ranking collapses to raw score.
+   * That let "UI/UX designer", "ERP Hosting and Deployment" and a blockchain
+   * integration into a Flutter/Java bid list. Only 430 of the 1,155 gigs
+   * actually name the stack — match on that directly instead.
+   */
+  const STACK = /\b(flutter|dart|java|spring\s?boot|spring|android|kotlin|firebase|firestore|jetpack)\b/i;
+  const onStack = (j) =>
+    STACK.test(
+      `${j.title || ''} ${j.text || ''} ${[].concat(j.stackLabels || j.stacks || j.inferredStacks || []).join(' ')}`,
+    );
+  const strong = rank(gigs.filter((j) => onStack(j) && !j.senior));
+  const strongSet = new Set(strong.map((j) => j.url));
+  const rest = rank(gigs.filter((j) => !strongSet.has(j.url)));
 
   const meta = {
     generated: String(data.generated || '').replace('T', ' ').slice(0, 19),
@@ -126,9 +182,11 @@ function main() {
       .join(' '),
   };
 
+  const shortlist = spreadBySource(strong, SHORTLIST);
+  const picked = new Set(shortlist.map((j) => j.url));
   const out = [
-    strong.slice(0, SHORTLIST),
-    [...strong.slice(SHORTLIST), ...rest].slice(0, SECOND_TIER),
+    shortlist,
+    spreadBySource([...strong.filter((j) => !picked.has(j.url)), ...rest], SECOND_TIER),
     rank(boardContract).slice(0, 80),
   ];
 

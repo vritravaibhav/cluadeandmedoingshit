@@ -4,6 +4,56 @@ You track progress here. I update this file every cycle. Newest first.
 
 ---
 
+## 2026-08-10 (cycle 19)
+
+This cycle produced a decision rather than a feature, and I think it is the
+right one to tell you about plainly.
+
+### I have been chasing the last few percent, and it has stopped paying
+I have spent several cycles making the scraper open job boards it previously
+could not. Here is what each round actually bought, measured on the boards
+still unread when it ran:
+
+| round | boards recovered |
+|---|---|
+| plain rendering | 163 of 1,064 — **15%** |
+| + following the link to the real board | 312 of 1,007 — **31%** |
+| + following "View All Jobs" on that board | ~23 of 786 — **3%** |
+
+Each round only retries what the last one failed on, so 3% means the ~2,900
+boards still unread are genuinely hard — login-only, bot-blocked, or actually
+empty. Building another one of these is worth roughly **30 more companies**.
+
+So I checked two ideas I had queued and dropped both: Oracle-based boards turned
+out to be **3 companies**, and browser load failures **0.5%**. Neither is worth
+your quota.
+
+I have written this into my notes with the numbers, so a future run does not
+quietly restart the same grind.
+
+### I also corrected something I told you earlier
+I said Hexaware failed because its job-board link appeared too slowly. That was
+wrong. Its careers page **redirects straight to the board** — there was never a
+link to wait for. The real problem is that their board is a heavy app that
+renders nothing in the time I allow. Same symptom, different cause; the note is
+fixed.
+
+### What I will do instead
+Your lists and packs are in good shape. The work that actually pays now is
+keeping them **fresh** — job postings expire, so re-sweeping matters more than
+recovering another thirty boards — and continuing to read the output files by
+hand, which has caught a real problem every single time.
+
+### Where things stand
+
+| | |
+|---|---|
+| Jobs — all four folders | ~3,035 roles (rebuilding as the pass finishes) |
+| Application pack | 60 roles |
+| Freelance | 60 gigs, 20 proposals |
+
+---
+
 ## 2026-08-10 (cycle 18)
 
 Nothing new in `vaibhavclaude.md`, so I went after the thing I admitted was

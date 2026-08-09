@@ -240,6 +240,55 @@ async function renderOne(ctx, company) {
         await page.waitForTimeout(1200);
       } catch { /* keep whatever the hop captured */ }
       jobs = dedupe(fromXhr);
+
+      /*
+       * Third hop: the board's own landing page is often a splash, with the
+       * listing one more click away. Delhivery's Darwinbox page renders 174
+       * characters and an anchor reading "We Have 8 Open Jobs"; Flipkart's
+       * TurboHire page groups everything behind "View All Jobs" and
+       * per-department expanders. Both report success and no postings.
+       *
+       * So when the hop lands somewhere with nothing on it, follow the control
+       * that says where the jobs actually are. Anchors are navigated (cheap and
+       * reversible); anything else is clicked in place, which covers boards that
+       * expand the list client-side without changing the URL.
+       */
+      if (!jobs.length) {
+        const ALL_JOBS = /^(view|see|browse|show)?\s*(all\s+)?(open\s+)?(jobs|roles|positions|openings|vacancies)\b|^open jobs$|^all jobs$/i;
+        const href = await page
+          .evaluate((src) => {
+            const re = new RegExp(src, 'i');
+            const a = [...document.querySelectorAll('a[href]')].find((x) =>
+              re.test((x.innerText || '').trim().replace(/\s+/g, ' ')),
+            );
+            return a ? a.href : '';
+          }, ALL_JOBS.source)
+          .catch(() => '');
+        try {
+          if (href) {
+            await page.goto(href, { waitUntil: 'domcontentloaded', timeout: PAGE_MS });
+          } else {
+            // No anchor — try clicking a button/tab with the same label.
+            const clicked = await page
+              .evaluate((src) => {
+                const re = new RegExp(src, 'i');
+                const el = [...document.querySelectorAll('button,[role="button"],[role="tab"],li,span')].find((x) =>
+                  re.test((x.innerText || '').trim().replace(/\s+/g, ' ')),
+                );
+                if (!el) return false;
+                el.click();
+                return true;
+              }, ALL_JOBS.source)
+              .catch(() => false);
+            if (!clicked) throw new Error('no all-jobs control');
+          }
+          await page.waitForTimeout(3500);
+          await page.waitForLoadState('networkidle', { timeout: 8000 }).catch(() => {});
+          await page.evaluate(() => window.scrollBy(0, 2500)).catch(() => {});
+          await page.waitForTimeout(1500);
+        } catch { /* keep whatever we have */ }
+        jobs = dedupe(fromXhr);
+      }
     }
   }
 

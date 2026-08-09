@@ -4,6 +4,44 @@ You track progress here. I update this file every cycle. Newest first.
 
 ---
 
+## 2026-08-10 (cycle 18)
+
+Nothing new in `vaibhavclaude.md`, so I went after the thing I admitted was
+broken last time.
+
+### Fixed: big employers showing zero jobs
+Delhivery, Flipkart and Hexaware were all coming back empty even though I could
+find their real job boards. Last cycle I told you I had not solved it.
+
+The cause: reaching the board is not enough. Delhivery's board page renders one
+line of text and a link saying **"We Have 8 Open Jobs"** — the jobs are one more
+click away. Flipkart's hides everything behind "View All Jobs". My scraper was
+arriving, seeing an empty page, and reporting success.
+
+It now follows that link. **Delhivery went from 0 to 5 jobs**, and the letter I
+tested on gained 12 companies and 82 postings. A full pass across all 26 letters
+is running now.
+
+Honest caveats: Delhivery's system does not publish per-job links, so those
+entries point at its careers page rather than the exact posting. And Hexaware
+still fails — its link appears too slowly for my scraper to catch. Both written
+down rather than glossed over.
+
+### How I found it
+Two cycles of reasoning about why it failed got nowhere. Writing a small
+throwaway script that walked the same path and printed what it saw at each step
+found it on the first run.
+
+### Where things stand
+
+| | |
+|---|---|
+| Jobs — all four folders | 3,035 roles (rebuilding now) |
+| Application pack | 60 roles |
+| Freelance | 60 gigs, 20 proposals |
+
+---
+
 ## 2026-08-10 (cycle 17)
 
 ### I found two bugs of my own that were silently losing your data

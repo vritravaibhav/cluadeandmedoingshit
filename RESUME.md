@@ -245,6 +245,27 @@ Two cycles running, reading the actual top-20 of the file the user opens has
 found bugs that no aggregate metric surfaced. Counts going up says nothing
 about whether the top of the list is usable.
 
+
+## Third hop (cycle 18) — the board's own "View All Jobs" control
+The second hop reaches the real board but frequently lands on a SPLASH page.
+Delhivery's Darwinbox landing renders 174 characters with an anchor reading
+"We Have 8 Open Jobs"; Flipkart's TurboHire page hides everything behind
+"View All Jobs" plus per-department expanders. Both looked like clean successes
+returning zero postings, which is why the second hop appeared broken.
+render-scan now follows that control when the hop lands empty: navigates it if
+it is an anchor, clicks it in place otherwise (some boards expand client-side
+without a URL change). Delhivery 0 -> 5 jobs; letter d alone +12 boards/82 jobs.
+KNOWN LIMIT: Darwinbox's payload carries no per-posting URL, so those jobs link
+to the careers page, not the individual posting. Real openings, weak deep link.
+HEXAWARE still unsolved — its jobs.hexaware.com link renders too late to be
+seen on some runs, so the hop finds no target at all. Timing, not logic.
+
+## Diagnostic method that worked here
+Guessing at why the hop failed produced nothing across two cycles. Writing a
+throwaway script that walked the same path with the internals printed (hop
+target, nav status, landed URL, text length, anchor text, JSON calls) showed
+the cause in one run. Prefer that over reasoning about it.
+
 ## Next cycle
 1. Consider fixing the intern signal at source: RE_JUNIOR in w/test.js rewards
    "intern"/"trainee" with +12, which is wrong for a 2-year candidate. Build.js
@@ -420,5 +441,7 @@ Hard timeouts are 7 of 1,309 render attempts (0.5%). Coforge and MakeMyTrip are
 in that set. Dropping this from the backlog.
 
 ## Next cycle
-1. Second-hop extraction (above) — the URL is found, the jobs are not.
-2. Keep hand-reading the packs and lists.
+1. Measure what the third hop recovered across all letters (logs-hop3.log).
+2. Hexaware-class failures: the board link renders after the snapshot. A longer
+   wait or a retry before giving up on finding a hop target would cover it.
+3. Keep hand-reading the packs and lists.

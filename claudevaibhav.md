@@ -4,6 +4,56 @@ You track progress here. I update this file every cycle. Newest first.
 
 ---
 
+## 2026-08-09 (cycle 16)
+
+This time I read the **application pack** rather than the job list — the pack is
+what actually gets sent, so a mistake there costs you a real impression.
+
+### One of your cover letters was broken
+For roles whose posting my scraper could not open (JS-only boards, bot walls),
+the letter came out as:
+
+```
+Most relevant to this role:
+                                    <- nothing here
+I'm based in India... and can share code for any of the above.
+```
+
+An empty list, then "any of the above" pointing at nothing. Sending that is
+**worse than sending no letter** — it reads as careless to the one person you
+are trying to impress. Two of the 25 were like this.
+
+Fixed: those now fall back to your three strongest proof points under "What I
+bring:". Also stripped junk the applicant systems leak into the location line —
+one read `Bangalore, UNAVAILABLE, IN`.
+
+### Something I got wrong and undid
+A gig titled "**Flutterwave** App Developer" is sitting in your Flutter
+shortlist. Flutterwave is an African payments company, so I assumed my matcher
+had tripped on the word "Flutter" inside it and wrote a fix.
+
+The fix did nothing, because that was not the cause — my matcher handles that
+correctly, and the gig is tagged "Flutter / Dart" by **Twine itself**. I took my
+change back out rather than leave code that claims to fix something it does not.
+The gig stays: one borderline listing in sixty is cheaper than a filter that
+starts dropping real ones.
+
+### Ready to send
+
+| | |
+|---|---|
+| `1-java-flutter-2yr/apply-pack.txt` | 25 job applications |
+| `2-java-flutter-3yr/apply-pack.txt` | 20 job applications |
+| `1-bid-now/proposals.txt` | 20 freelance proposals |
+
+A fresh sweep of all 5,952 companies is running now and will refresh the lists.
+
+### Next
+Keep reading the packs, not just the lists. This cycle the list was clean and
+the pack was not — I would not have caught it any other way.
+
+---
+
 ## 2026-08-09 (cycle 15)
 
 ### You can now send, not just browse

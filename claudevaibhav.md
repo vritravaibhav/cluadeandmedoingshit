@@ -4,6 +4,61 @@ You track progress here. I update this file every cycle. Newest first.
 
 ---
 
+## 2026-08-09 (cycle 12)
+
+Nothing new in `vaibhavclaude.md`, so I audited the **freelance** list by hand —
+the one part of your ask I had never actually read. It had two real problems.
+
+### Your bid list was 100% Freelancer.com
+All 60 slots in `1-bid-now/` came from freelancer.com. The six new marketplaces
+I added for you contributed **646 gigs that never appeared anywhere you'd see
+them.**
+
+That is backwards, and it defeats the point of adding them. Bid quotas are **per
+platform** — Freelancer's 6-a-month cap says nothing about how many proposals
+you can send on PeoplePerHour or Twine. So Freelancer is the *expensive* place
+to spend a slot, and it was getting all of them, purely because its listings
+carry more text and therefore scored higher.
+
+Now the shortlist round-robins across platforms:
+
+| before | after |
+|---|---|
+| freelancer.com ×60 | freelancer ×9 · peopleperhour ×9 · twine ×9 · freelancermap ×8 · arc.dev ×8 · hubstaff ×8 · braintrust ×4 · flexiple ×3 · lemon.io ×2 |
+
+**Practical effect:** if the same kind of work is on Twine or PeoplePerHour,
+spend the free proposal there and keep your scarce Freelancer bids.
+
+### Off-target gigs were reaching the bid list
+"UI/UX designer", "ERP Hosting and Deployment", a blockchain integration — in a
+Flutter/Java list. The priority flag I was ranking on turned out to be true for
+**all 1,155 gigs**, so it separated nothing. Only 430 actually mention your
+stack. Off-target entries in the shortlist: ~30 → **3**.
+
+### Also fixed: internships were scoring as a *bonus*
+The scorer treated "intern" as a junior signal and added points, so internships
+floated toward the top of a two-year list. They now carry a penalty.
+
+### Jobs — steady
+
+| Folder | Roles | Companies |
+|---|---|---|
+| `1-java-flutter-2yr/` | **287** | 238 |
+| `2-java-flutter-3yr/` | 226 | 174 |
+| `3-software-2yr/` | 1,742 | 999 |
+| `4-software-3yr/` | 783 | 475 |
+
+### Still the highest-value thing you can do by hand
+Activate the **Freelancer.com Plus free trial** — ₹0, 100 bids instead of 6.
+With the list now spread across nine platforms, that plus free proposals
+elsewhere covers a lot of ground.
+
+### Next
+- Re-read both lists by hand again in a few cycles. Three cycles running, that
+  is the only check that has found anything; the totals never showed these.
+
+---
+
 ## 2026-08-09 (cycle 11)
 
 ### Your priority list is now clean

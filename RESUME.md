@@ -257,3 +257,28 @@ about whether the top of the list is usable.
 3. Boards that fail to load at all in Chromium: Coforge (ERR_HTTP2_PROTOCOL_ERROR)
    and MakeMyTrip (timeout). Small in number; may need a retry with HTTP/1.1.
 4. Periodic re-verification of domains (cheap, no quota).
+
+## Freelance audit (cycle 12) — two defects, both found by reading the file
+1. 1-bid-now was 60/60 freelancer.com. Score-only ranking always picks it (its
+   records carry more text -> higher score), so 646 gigs from the other eight
+   marketplaces never surfaced. Bid quotas are PER PLATFORM, so this spent the
+   scarcest resource exclusively. spreadBySource() now round-robins by source.
+2. `bestPriority` is TRUE FOR ALL 1,155 gigs — it separates nothing. Ranking
+   collapsed to raw score and let off-stack gigs (UI/UX, ERP hosting) into a
+   Flutter/Java list. Replaced with a direct STACK regex over title+text+stacks.
+   Only 430 of 1,155 gigs actually name the stack.
+NOTE checked whether the non-freelancer URLs were gig-specific before "fixing"
+them — they are (all unique). A 44-char truncation in my own diagnostic made
+PeoplePerHour's look identical. Verify the diagnostic before trusting it.
+
+## Intern signal fixed at source (cycle 12)
+'intern' was inside RE_JUNIOR, which ADDS 12 points, so internships ranked high
+in a two-year list. Now RE_INTERN: -40 and never an isMatch. build.js also
+filters them at output (belt and braces).
+
+## Next cycle
+1. Re-read folder 1 (jobs) AND 1-bid-now (freelance) by hand. Three cycles
+   running this is the only check that has found anything real.
+2. Boards that fail to load in Chromium: Coforge (ERR_HTTP2_PROTOCOL_ERROR),
+   MakeMyTrip (timeout). May need an HTTP/1.1 retry.
+3. Periodic domain re-verification (free).

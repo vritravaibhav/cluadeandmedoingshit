@@ -71,6 +71,44 @@ function normExp(exp) {
 const fmtExp = (exp) => (exp.length ? exp.map(([a, b]) => `${a}-${b}y`).join(', ') : 'not stated');
 
 /*
+ * Boards wrap the real title in their own furniture — Greenhouse emits
+ * "Job application for SDE 1 Backend at Eshopbox", SEO pages emit "Flutter
+ * Developer Jobs in Lucknow". Strip it so the list reads as roles.
+ */
+function cleanTitle(t, company) {
+  const norm = (s) => String(s || '').toLowerCase().replace(/[^a-z0-9]/g, '');
+  return String(t || '')
+    .replace(/^job application for\s+/i, '')
+    // Only strip a trailing "at X" when X really is the employer. Stripping any
+    // trailing "at ..." turns "Engineer at Scale" into "Engineer", and Scale is
+    // a company name, not board furniture.
+    .replace(/\s+at\s+([^,|]+)$/i, (m, who) =>
+      company && norm(who) && norm(company).includes(norm(who)) ? '' : m)
+    .replace(/\s+jobs?\s+in\s+[\w\s,]+$/i, '')
+    .replace(/\s*[-–|]\s*(apply now|careers?|job opening)\s*$/i, '')
+    .replace(/\s+/g, ' ')
+    .trim();
+}
+
+/*
+ * An internship is not a two-year role, and it is not a three-year one either.
+ * They leak in because the scorer treats "intern" as a junior signal and adds
+ * points for it, so they rank near the top of the priority folder — a Stripe
+ * internship sat at #15.
+ */
+const INTERN = /\b(intern|internship|trainee|apprentice|co[- ]?op)\b/i;
+
+/* "Mumbai" and "Mumbai, MH" are the same place; without normalising, the same
+ * posting survives dedupe twice. */
+const locKey = (s) =>
+  String(s || '')
+    .toLowerCase()
+    .replace(/\b(india|in|remote|hybrid|onsite|on-site)\b/g, ' ')
+    .replace(/[^a-z]+/g, ' ')
+    .trim()
+    .split(' ')[0] || '';
+
+/*
  * A posting often yields several windows: a real alternative requirement
  * ("2-6 years ML"), or boilerplate bleeding in from elsewhere on the page.
  * If a window covers the target year we keep the role — dropping it would
@@ -98,7 +136,7 @@ function collect(letters) {
           company: co.company,
           country: co.country,
           board: co.source || '',
-          title: j.title,
+          title: cleanTitle(j.title, co.company),
           location: j.location || '',
           url: j.url,
           india: !!j.india,
@@ -127,14 +165,14 @@ function bucketOf(rows, b) {
   const byUrl = new Set();
   const byRole = new Set();
   return rows
-    .filter((r) => r.india && r.isEng && !r.senior && r.url && stack(r) && fitsYears(r))
+    .filter((r) => r.india && r.isEng && !r.senior && !INTERN.test(r.title) && r.url && stack(r) && fitsYears(r))
     .filter((r) => {
       // Same posting reachable at two URLs.
       const u = r.url.split('#')[0].replace(/\/$/, '');
       if (byUrl.has(u)) return false;
       byUrl.add(u);
       // Same role re-posted under different job IDs (very common on Greenhouse).
-      const k = `${r.company}|${r.title}|${r.location}`.toLowerCase().replace(/\s+/g, ' ');
+      const k = `${r.company}|${r.title}|${locKey(r.location)}`.toLowerCase().replace(/\s+/g, " ");
       if (byRole.has(k)) return false;
       byRole.add(k);
       return true;

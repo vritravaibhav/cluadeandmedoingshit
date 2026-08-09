@@ -79,7 +79,7 @@
   "company": "Eshopbox",
   "country": "India",
   "board": "sitemap:https://www.eshopbox.com",
-  "title": "Job application for SDE 1 Backend at Eshopbox",
+  "title": "SDE 1 Backend",
   "location": "",
   "url": "https://www.eshopbox.com/job/sde-1-backend-2",
   "india": true,
@@ -92,35 +92,6 @@
    [
     1,
     5
-   ]
-  ],
-  "fits2": true,
-  "fits3": true,
-  "unstated": false,
-  "ambiguous": false
- },
- {
-  "letter": "e",
-  "company": "Embien Technologies",
-  "country": "India",
-  "board": "headings:https://www.embien.com/careers",
-  "title": "Associate Engineer Trainee",
-  "location": "",
-  "url": "https://www.embien.com/careers",
-  "india": true,
-  "isEng": true,
-  "senior": false,
-  "java": true,
-  "flutter": false,
-  "score": 112,
-  "exp": [
-   [
-    0,
-    2
-   ],
-   [
-    2,
-    3
    ]
   ],
   "fits2": true,
@@ -216,31 +187,6 @@
   "ambiguous": false
  },
  {
-  "letter": "m",
-  "company": "Miko",
-  "country": "India",
-  "board": "keka:rnc",
-  "title": "Junior Java Developer",
-  "location": "Mumbai",
-  "url": "https://rnc.keka.com/careers/jobdetails/80623",
-  "india": true,
-  "isEng": true,
-  "senior": false,
-  "java": true,
-  "flutter": false,
-  "score": 112,
-  "exp": [
-   [
-    2,
-    3
-   ]
-  ],
-  "fits2": true,
-  "fits3": true,
-  "unstated": false,
-  "ambiguous": false
- },
- {
   "letter": "n",
   "company": "Netomi",
   "country": "India",
@@ -287,31 +233,6 @@
    [
     3,
     4
-   ]
-  ],
-  "fits2": true,
-  "fits3": true,
-  "unstated": false,
-  "ambiguous": false
- },
- {
-  "letter": "s",
-  "company": "Stripe",
-  "country": "US",
-  "board": "greenhouse:stripe",
-  "title": "Software Engineer, Intern",
-  "location": "Bengaluru",
-  "url": "https://stripe.com/jobs/search?gh_jid=8031833",
-  "india": true,
-  "isEng": true,
-  "senior": false,
-  "java": true,
-  "flutter": false,
-  "score": 112,
-  "exp": [
-   [
-    2,
-    6
    ]
   ],
   "fits2": true,
@@ -565,7 +486,7 @@
   "company": "Duplex Technologies",
   "country": "India",
   "board": "headings:https://duplextech.com/careers.html",
-  "title": "Flutter Developer Jobs in Lucknow",
+  "title": "Flutter Developer",
   "location": "",
   "url": "https://duplextech.com/careers.html",
   "india": true,
@@ -1379,6 +1300,35 @@
    [
     4,
     5
+   ]
+  ],
+  "fits2": true,
+  "fits3": true,
+  "unstated": false,
+  "ambiguous": false
+ },
+ {
+  "letter": "e",
+  "company": "Embien Technologies",
+  "country": "India",
+  "board": "headings:https://www.embien.com/careers",
+  "title": "Java Developer",
+  "location": "",
+  "url": "https://www.embien.com/careers",
+  "india": true,
+  "isEng": true,
+  "senior": false,
+  "java": true,
+  "flutter": false,
+  "score": 100,
+  "exp": [
+   [
+    2,
+    3
+   ],
+   [
+    3,
+    4
    ]
   ],
   "fits2": true,

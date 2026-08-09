@@ -225,10 +225,32 @@ from the company slug, and only greenhouse/lever/ashby/workable are name-checked
 token came from FloBiz's own HTML, i.e. their Keka tenant is named for their
 registered entity. Not a mis-attribution.
 
+
+## Folder-1 hand audit (cycle 11) — three defects fixed in build.js
+The marketing filter worked (no blog posts left), so this audit went deeper and
+found three more, all build-time so no rescan was needed:
+ 1. INTERNSHIPS ranked into the 2-year folder — a Stripe internship sat at #15.
+    Root cause is upstream: score() treats "intern" as a JUNIOR signal and adds
+    +12, so interns rank HIGH. Excluded at build time via INTERN.
+ 2. Duplicate roles surviving dedupe because "Mumbai" and "Mumbai, MH" are
+    different strings. locKey() normalises to the first city token.
+ 3. Board furniture in titles — "Job application for SDE 1 Backend at Eshopbox",
+    "Flutter Developer Jobs in Lucknow". cleanTitle() strips it, and is
+    COMPANY-AWARE: it only removes a trailing "at X" when X matches the
+    employer, because "Engineer at Scale" must survive when the employer is not
+    Scale.
+
+## Standing practice: audit folder 1 by hand every few cycles
+Two cycles running, reading the actual top-20 of the file the user opens has
+found bugs that no aggregate metric surfaced. Counts going up says nothing
+about whether the top of the list is usable.
+
 ## Next cycle
-1. Re-audit folder 1 by hand after the marketing filter lands. That audit is
-   what found this bug, and it is worth repeating every few cycles — it is the
-   only check that looks at what the user actually reads.
+1. Consider fixing the intern signal at source: RE_JUNIOR in w/test.js rewards
+   "intern"/"trainee" with +12, which is wrong for a 2-year candidate. Build.js
+   now filters them, but the score is still distorted for anything that reads
+   that field.
+2. Re-audit folder 1 by hand again in a few cycles (standing practice above).
 2. Extending ATS_HOSTS is EXHAUSTED: sampling 60 still-unread boards for unknown
    job-board hosts returned only noise (whatsapp.com and two self-references).
    The remaining ~695 unread boards are not hiding behind an unknown vendor.

@@ -440,6 +440,8 @@ function mergeFromDisk(attempted = 0) {
   }
   let updatedCompanies = 0;
   let addedJobs = 0;
+  let newlyFilled = 0;   // boards that had NO postings before this merge
+  let alreadyHad = 0;    // boards re-confirmed from earlier runs
   for (const L of LETTERS) {
     const f = path.join(ROOT, L, 'results.json');
     if (!fs.existsSync(f)) continue;
@@ -448,6 +450,18 @@ function mergeFromDisk(attempted = 0) {
     data.forEach((entry) => {
       const jobs = found.get(`${L} ${entry.company}`);
       if (!jobs || !jobs.length) return;
+      /*
+       * Was this board already carrying postings before the merge?
+       *
+       * "boards recovered" used to count every JSONL entry that matched a
+       * company, which is CUMULATIVE — it re-counts everything recovered in
+       * previous runs and reports it as this run's result. A pass whose real
+       * contribution was 28 boards printed "333", and reading the live per-line
+       * log instead gave 23, so the two numbers disagreed by 10x and neither
+       * meant what it looked like. Count both, and label them.
+       */
+      if ((entry.jobs || []).length) alreadyHad++;
+      else newlyFilled++;
       const company = { name: entry.company, country: entry.country, site: '' };
       const boiler = ENGINE.boilerplateStacks(jobs);
       const scored = jobs
@@ -478,8 +492,9 @@ function mergeFromDisk(attempted = 0) {
     if (touched) fs.writeFileSync(f, JSON.stringify(data, null, 1));
   }
 
-  console.log(`\n  boards recovered : ${updatedCompanies}${attempted ? " of " + attempted : ""}`);
-  console.log(`  postings added   : ${addedJobs}`);
+  console.log(`\n  boards NEWLY read : ${newlyFilled}${attempted ? " of " + attempted + " attempted" : ""}   <- this run's real gain`);
+  console.log(`  re-confirmed     : ${alreadyHad}   (already had postings; cumulative, not new)`);
+  console.log(`  postings written : ${addedJobs}   (across both groups)`);
 }
 
 if (MERGE_ONLY) { mergeFromDisk(); } else main().catch((e) => {

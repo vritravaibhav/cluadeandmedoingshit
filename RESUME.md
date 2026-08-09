@@ -268,21 +268,29 @@ the cause in one run. Prefer that over reasoning about it.
 
 
 ## DIMINISHING RETURNS ON BOARD SCRAPING — read before starting another pass
-Measured this cycle. Recovery rate per render pass, on the boards still unread
-at the time:
-    pass 1 (plain render)        163 / 1064   15%
-    pass 2 (+ ATS second hop)    312 / 1007   31%
-    pass 3 (+ third hop)          ~23 /  786    3%
-Each pass retries only the residue the previous one failed on, so the rate
-falling to ~3% means the remaining ~2,900 unread boards are genuinely hard:
-login-gated, bot-walled, or actually empty. Another extractor is worth roughly
-30 boards.
+
+CORRECTION (cycle 19): an earlier version of this section quoted per-pass rates
+of 15% / 31% / 3%. Those numbers were WRONG — they mixed two different things:
+  - the live per-line log `[n/N] X jobs` counts what THIS run captured;
+  - the closing "boards recovered" counted every JSONL entry that matched a
+    company, i.e. everything ever captured, re-reported as this run's result.
+The same pass printed 23 by one measure and 333 by the other. render-scan now
+prints "boards NEWLY read" vs "re-confirmed" so the two can never be confused
+again.
+
+THE NUMBER THAT IS ACTUALLY TRUE, measured as unread-before minus unread-after:
+    third-hop pass over 1,017 boards  ->  28 boards newly read
+Coverage now: 3,080 of 5,949 boards read (52%), 2,869 unread.
+
+The conclusion survives the correction — a full render pass over a thousand
+boards yielding 28 new ones is not worth repeating for its own sake — but it now
+rests on a measurement rather than a misread. Measure the same way in future:
+count unread before and after, never trust a cumulative counter.
 
 Two classes were sized and REJECTED as not worth building for:
  - Oracle Cloud SPAs (Hexaware and similar): only 3 unread boards show Oracle
    signals. hexaware.com/careers REDIRECTS to jobs.hexaware.com, so no hop is
    needed at all — the board itself renders zero anchors inside the deadline.
-   Earlier note in this file blamed a late-rendering LINK; that was wrong.
  - Chromium hard load failures: 7 of 1,309 attempts (0.5%).
 
 WHAT TO DO INSTEAD: the pipeline is in good shape (3,000+ roles, packs written,
@@ -292,7 +300,7 @@ domains verified). The highest-value recurring work is now
   (b) hand-reading the output files, which has found a real defect in every
       cycle it has been done.
 Do not start another extractor without first measuring what class it would
-actually unlock.
+actually unlock — by the unread-before/after method, not a built-in counter.
 
 ## Next cycle
 1. Consider fixing the intern signal at source: RE_JUNIOR in w/test.js rewards

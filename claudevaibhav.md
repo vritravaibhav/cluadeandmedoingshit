@@ -14,15 +14,22 @@ I have spent several cycles making the scraper open job boards it previously
 could not. Here is what each round actually bought, measured on the boards
 still unread when it ran:
 
-| round | boards recovered |
-|---|---|
-| plain rendering | 163 of 1,064 — **15%** |
-| + following the link to the real board | 312 of 1,007 — **31%** |
-| + following "View All Jobs" on that board | ~23 of 786 — **3%** |
+**Correction to what I wrote earlier in this entry.** I first quoted per-round
+figures of 15%, 31% and 3%. Those were wrong — my own tool was reporting a
+running total as if it were that round's result, and the two numbers it printed
+disagreed by tenfold. I have fixed the tool so it now says plainly how many
+boards were *newly* read versus re-counted.
 
-Each round only retries what the last one failed on, so 3% means the ~2,900
-boards still unread are genuinely hard — login-only, bot-blocked, or actually
-empty. Building another one of these is worth roughly **30 more companies**.
+The honest measurement, taken by counting unread boards before and after:
+
+| | |
+|---|---|
+| boards the latest round newly opened | **28** |
+| boards read in total | 3,080 of 5,949 (**52%**) |
+| still unreadable | 2,869 |
+
+A full pass over a thousand boards gaining 28 is the real signal here. The
+remaining ones are login-only, bot-blocked, or actually empty.
 
 So I checked two ideas I had queued and dropped both: Oracle-based boards turned
 out to be **3 companies**, and browser load failures **0.5%**. Neither is worth

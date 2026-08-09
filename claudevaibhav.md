@@ -4,6 +4,50 @@ You track progress here. I update this file every cycle. Newest first.
 
 ---
 
+## 2026-08-09 (cycle 13)
+
+### A quarter of your bid list was unusable
+Reading `1-bid-now/` again, **14 of the 60 gigs could not be worked from India**
+— Europe-only or US-only postings. My sweep had already worked that out and
+stored it; the file that builds your bid list simply never looked at it.
+
+On six bids a month, that was a quarter of your list spent on work you cannot
+take. Now **0 of 60**, and still spread across nine platforms.
+
+One layer wasn't enough: Freelancermap (a German marketplace) marks *all* of
+its gigs India-OK, including one titled "Java Developer Remote Across Europe".
+So a restriction actually written in the posting now overrides the source's
+own optimistic default.
+
+Also dropped a "Python & Flutter **Trainee** Wanted" gig from the top spot —
+trainee rates are not what two years of experience should be bidding on.
+
+### Your two lists right now
+
+| | |
+|---|---|
+| **Jobs** — `1-java-flutter-2yr/` | **286 roles**, 238 companies |
+| Jobs total across 4 folders | 3,026 roles |
+| **Freelance** — `1-bid-now/` | 60 gigs, 9 platforms, 0 geo-blocked |
+
+The jobs list read clean this time — real junior/SDE-1 roles with sensible
+experience windows, no blog posts, no internships, no duplicates.
+
+### Something I should own
+This is the third time I have fixed a problem in one place and missed the
+identical problem next door — the blog-post filter, the internship filter, and
+now the geo check were all fixed on one side and left broken on the other. I
+have written that down as a standing check so it stops happening.
+
+### Still the one thing worth doing by hand
+Activate the **Freelancer.com Plus free trial** — ₹0, 100 bids instead of 6.
+
+### Next
+Keep re-reading both lists. Four cycles running, it is the only check that has
+found anything; the totals have looked healthy the whole time.
+
+---
+
 ## 2026-08-09 (cycle 12)
 
 Nothing new in `vaibhavclaude.md`, so I audited the **freelance** list by hand —

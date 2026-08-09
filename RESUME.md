@@ -282,3 +282,35 @@ filters them at output (belt and braces).
 2. Boards that fail to load in Chromium: Coforge (ERR_HTTP2_PROTOCOL_ERROR),
    MakeMyTrip (timeout). May need an HTTP/1.1 retry.
 3. Periodic domain re-verification (free).
+
+## Freelance geo filtering (cycle 13) — FIXED
+Hand-reading 1-bid-now again found 14 of 60 shortlisted gigs (23%) were NOT
+workable from India — Europe/US-only. The sweep had computed `indiaOk` all
+along; weekendplan_freelance/build.js simply never read it. On a six-bids-a-
+month budget that was a quarter of the list spent on unreachable work.
+
+TWO layers now, because one was not enough:
+ 1. `indiaOk !== false`. The field is populated for every source (no undefined),
+    but it is NOT equally reliable: freelancermap marks all 33 of its gigs
+    India-OK including one titled "Java Developer Remote Across Europe".
+    Its per-source default is simply optimistic.
+ 2. GEO_LOCKED regex over title+location+text — an explicitly stated region or
+    right-to-work restriction is stronger evidence than any per-source default.
+Result: 14 -> 0 geo-locked in the shortlist, still 9 platforms represented.
+Also applied the trainee/intern filter here (fixed on the jobs side in cycle 12
+but never carried across — the same "fixed it in one path only" mistake as the
+marketing filter).
+
+## Recurring mistake worth naming
+Three times now a fix has been applied to one path and not its siblings:
+ - marketing filter: render-scan.js but not the feed/sitemap extractors
+ - intern filter: jobs build but not freelance build
+ - geo signal: computed in the sweep but never read by the freelance build
+When fixing a class of bug, grep for every other place that produces or
+consumes the same thing BEFORE calling it done.
+
+## Next cycle
+1. Keep hand-reading both lists — 4 cycles running, still finding real defects.
+2. Boards that fail to load in Chromium: Coforge (ERR_HTTP2_PROTOCOL_ERROR),
+   MakeMyTrip (timeout). May need an HTTP/1.1 retry.
+3. Periodic domain re-verification (free).

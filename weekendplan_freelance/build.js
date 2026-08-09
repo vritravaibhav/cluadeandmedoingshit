@@ -171,7 +171,37 @@ function main() {
     STACK.test(
       `${j.title || ''} ${j.text || ''} ${[].concat(j.stackLabels || j.stacks || j.inferredStacks || []).join(' ')}`,
     );
-  const strong = rank(gigs.filter((j) => onStack(j) && !j.senior));
+
+  /*
+   * The sweep already works out whether a gig can be done from India
+   * (`indiaOk` — geo restrictions, residency requirements, timezone demands),
+   * and this file simply never read it. 14 of the 60 shortlisted gigs were
+   * Europe- or US-only. On a six-bids-a-month budget that is a quarter of the
+   * list spent on work the candidate cannot take. They stay available in
+   * folder 2, they just no longer consume a scarce top slot.
+   */
+  /*
+   * `indiaOk` is populated for every source, but it is not equally reliable
+   * across them: freelancermap (a German marketplace) marks all 33 of its gigs
+   * India-OK, including one titled "Java Developer Remote Across Europe".
+   * So back the flag with an explicit reading of the posting — a stated region
+   * or right-to-work restriction is the strongest possible evidence, and much
+   * more trustworthy than a per-source default.
+   */
+  const GEO_LOCKED =
+    /\b(across europe|within europe|europe only|eu[- ]only|eea\b|uk only|us only|usa only|north america only|must (be|reside|live) (based )?in|residents? of|based in (the )?(us|usa|uk|eu|europe|germany|canada|australia)\b|work (authorization|authorisation|permit) in|eligible to work in (the )?(us|uk|eu)|no (agencies|c2c|visa sponsorship)|onsite in)\b/i;
+
+  const workable = (j) =>
+    j.indiaOk !== false && !GEO_LOCKED.test(`${j.title || ''} ${String(j.location || '')} ${j.text || ''}`);
+
+  /* A trainee gig pays trainee rates and is not what two years of experience
+   * should be bidding on — same reasoning as the internship filter on the jobs
+   * side, which was fixed last cycle but never applied here. */
+  const TRAINEE = /\b(intern|internship|trainee|apprentice)\b/i;
+
+  const strong = rank(
+    gigs.filter((j) => onStack(j) && !j.senior && workable(j) && !TRAINEE.test(j.title || '')),
+  );
   const strongSet = new Set(strong.map((j) => j.url));
   const rest = rank(gigs.filter((j) => !strongSet.has(j.url)));
 

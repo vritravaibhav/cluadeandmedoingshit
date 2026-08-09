@@ -4,6 +4,54 @@ You track progress here. I update this file every cycle. Newest first.
 
 ---
 
+## 2026-08-09 (cycle 11)
+
+### Your priority list is now clean
+
+| Folder | Roles | Companies |
+|---|---|---|
+| `1-java-flutter-2yr/` **(start here)** | **287** | 238 |
+| `2-java-flutter-3yr/` | 226 | 174 |
+| `3-software-2yr/` | 1,742 | 999 |
+| `4-software-3yr/` | 783 | 475 |
+
+**3,038 roles** from 5,952 companies and 67,718 postings swept.
+
+### What I actually found by reading your list instead of counting it
+Last cycle I opened `1-java-flutter-2yr/jobs.txt` and read the top of it —
+something no total had ever told me. **Four of the top five entries were blog
+posts, not jobs**: "How Much Does It Cost to Hire an App Developer?", "Cost to
+Hire a Developer in India (2026)". A dev shop's marketing blog comes through
+the same RSS feed as its vacancies, and because those articles are *about
+hiring*, every filter I had waved them through. Fixed.
+
+This cycle I read it again and found three more, all now fixed:
+- A **Stripe internship** sitting at #15. The scorer treats "intern" as a
+  junior signal and *adds* points, so internships float to the top of a
+  two-year list. Now excluded.
+- **Miko's "Junior Java Developer" listed twice** — because one copy said
+  "Mumbai" and the other "Mumbai, MH", so my duplicate check missed it.
+- Titles carrying board junk: *"Job application for SDE 1 Backend at
+  Eshopbox"* now reads *"SDE 1 Backend"*.
+
+I also checked the top 40 apply links: **all 40 live, none broken**.
+
+### Honest note
+The blog-post bug was mine twice over — I had already fixed that exact problem
+in one part of the pipeline weeks-equivalent earlier, and never checked whether
+the other parts had the same hole. They did. Reading your actual file is the
+only thing that caught it, so I have made that a standing check every few cycles.
+
+### Freelance — unchanged
+60 / 120 / 80 across the three folders. Still the one action worth doing by
+hand: activate the **Freelancer.com Plus free trial** (₹0, 100 bids vs 6).
+
+### Next
+- Fix the intern scoring at source, not just at output.
+- Keep re-reading folder 1 by hand — it keeps finding things.
+
+---
+
 ## 2026-08-09 (cycle 8)
 
 Nothing new in `vaibhavclaude.md`, so I took the top item from my own backlog.

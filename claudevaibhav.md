@@ -4,6 +4,48 @@ You track progress here. I update this file every cycle. Newest first.
 
 ---
 
+## 2026-08-10 (cycle 20)
+
+### 60 adverts were sitting in your job lists pretending to be jobs
+Reading the part of your application pack I had never checked (entries 26–60),
+I found **"Hire API Developer"** — which is not a job opening. It is a software
+agency advertising *its own staff for hire*.
+
+There were **60 of these across your folders, 18 in the priority list**. They
+read exactly like job titles, so nothing else had caught them. All gone now,
+and the pack has been rebuilt without them.
+
+| | before | after |
+|---|---|---|
+| `1-java-flutter-2yr/` | 286 | **267 real roles** |
+
+### The uncomfortable part
+I had already written this exact filter — weeks of cycles ago, for a different
+part of the pipeline — and never applied it to the rest. That is now the **third
+time** I have fixed something in one place and left the identical problem live
+next door:
+
+- blog posts — fixed in one extractor, left in the feed and sitemap ones
+- internships — fixed for jobs, left in freelance
+- these adverts — fixed in one path, left in the main scanner
+
+Each was caught by reading an output file, never by any count. I have written
+the four places a filter has to go into my notes so this stops repeating.
+
+### Also this cycle
+Freelance sweep refreshed. Your bid list is 60 gigs across 9 platforms, 0
+adverts, 0 geo-blocked. Proposals regenerated.
+
+### Where things stand
+
+| | |
+|---|---|
+| Jobs — four folders | 2,986 roles |
+| Application packs | 60 + 20 roles, rewritten |
+| Freelance | 60 gigs, 20 proposals, refreshed |
+
+---
+
 ## 2026-08-10 (cycle 19)
 
 This cycle produced a decision rather than a feature, and I think it is the

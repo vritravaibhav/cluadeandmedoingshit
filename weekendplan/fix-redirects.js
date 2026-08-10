@@ -31,7 +31,8 @@
 const fs = require('fs');
 const path = require('path');
 
-const ROOT = path.dirname(__dirname);
+const P = require('../engine/paths');
+const ROOT = P.ROOT;
 const APPLY = process.argv.includes('--apply');
 
 // site -> { site, name } | 'DROP' | 'LEAVE'
@@ -103,7 +104,7 @@ let left = 0;
 const log = [];
 
 for (const L of 'abcdefghijklmnopqrstuvwxyz'.split('')) {
-  const f = path.join(ROOT, L, 'companies.js');
+  const f = path.join(P.letterDir(L), 'companies.js');
   if (!fs.existsSync(f)) continue;
   const arr = require(f);
   const out = [];

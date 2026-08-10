@@ -33,7 +33,8 @@
 const fs = require('fs');
 const path = require('path');
 
-const ROOT = path.dirname(__dirname);
+const P = require('../engine/paths');
+const ROOT = P.ROOT;
 const ARGS = process.argv.slice(2);
 const argVal = (k, d) => {
   const a = ARGS.find((x) => x.startsWith(`--${k}=`));
@@ -161,7 +162,7 @@ async function probe(c) {
 async function main() {
   const items = [];
   for (const L of LETTERS) {
-    const f = path.join(ROOT, L, 'companies.js');
+    const f = path.join(P.letterDir(L), 'companies.js');
     if (!fs.existsSync(f)) continue;
     require(f).forEach((c, i) => items.push({ L, i, c }));
   }
@@ -210,7 +211,7 @@ async function main() {
   });
   let removed = 0;
   for (const L of LETTERS) {
-    const f = path.join(ROOT, L, 'companies.js');
+    const f = path.join(P.letterDir(L), 'companies.js');
     if (!fs.existsSync(f)) continue;
     const arr = require(f);
     const kept = arr.filter((_, i) => !drop.has(`${L}:${i}`));

@@ -20,9 +20,9 @@
 const fs = require('fs');
 const path = require('path');
 
-const ROOT = path.dirname(__dirname);
+const ROOT = require('../engine/paths').ROOT;
 const FILES = [
-  'w/test.js',
+  'engine/test.js',
   'weekendplan/build.js',
   'weekendplan/render-scan.js',
   'weekendplan/verify-domains.js',

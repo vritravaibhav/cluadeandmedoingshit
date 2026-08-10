@@ -378,6 +378,35 @@ Written after last cycle's precedence bug. Reports regex literals where some
 top-level alternatives carry \b and others do not. Validated against known-bad
 fixtures before trusting its clean result; the codebase currently has none.
 
+
+## LAYOUT CHANGED (cycle 23) — read before editing any script
+The repo root had 47 entries: 26 single-letter folders, a dozen dead files from
+the original Z-only scanner, and the engine living inside the `w/` letter dir.
+
+Now:
+    engine/        test.js, apply-india.js, paths.js
+    data/<a-z>/    companies.js + results.json per letter
+    weekendplan/   four job folders + build/qa/render/verify scripts
+    weekendplan_freelance/ , freelance/ , autofill/   unchanged
+`engine/paths.js` is the single source of truth for locations — use
+P.letterDir(L) and P.scanner(), never path.join(ROOT, letter, ...).
+
+Deleted: fetch*.log, discover.log, raw-jobs.json (31MB), careers.txt,
+ats-map.json, research.json, companies.json, root test.js, apply-queue.*,
+applytest.js, freelance_20260807/, and w/'s one-off scripts and stale outputs.
+All were superseded and all are in git history if ever needed.
+
+ONE REAL BREAK CAUGHT BY SMOKE-TESTING, worth knowing:
+engine/test.js does `require('./companies')` at module load. That worked while
+it lived in w/ (a letter dir, which has companies.js). From engine/ there is no
+such file, so importing it — which render-scan.js does for score()/stripHtml() —
+threw at load. Now wrapped in try/catch returning []; run() is guarded by
+require.main === module so a scan run still loads the real list from the copy
+run-letters.sh drops into data/<letter>/.
+Verified after the move: build (3,041 roles, identical), freelance build, qa.js
+green, scanner in a letter dir, run-letters.sh, apply-india.js, render-scan
+--merge-only.
+
 ## Next cycle
 1. Consider fixing the intern signal at source: RE_JUNIOR in w/test.js rewards
    "intern"/"trainee" with +12, which is wrong for a 2-year candidate. Build.js

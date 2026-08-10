@@ -21,7 +21,8 @@ const fs = require('fs');
 const path = require('path');
 
 const DIR = __dirname;
-const ROOT = path.dirname(DIR);
+const P = require('../engine/paths');
+const ROOT = P.ROOT;
 
 const JOB_FOLDERS = ['1-java-flutter-2yr', '2-java-flutter-3yr', '3-software-2yr', '4-software-3yr'];
 const GIG_FOLDERS = ['1-bid-now', '2-worth-a-look', '3-contract-roles'];

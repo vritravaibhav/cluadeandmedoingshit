@@ -28,8 +28,9 @@ const fs = require('fs');
 const path = require('path');
 const { chromium } = require('playwright');
 
-const ROOT = path.dirname(__dirname);
-const ENGINE = require(path.join(ROOT, 'w', 'test.js'));
+const P = require('../engine/paths');
+const ROOT = P.ROOT;
+const ENGINE = require(P.scanner());
 
 const ARGS = process.argv.slice(2);
 const argVal = (k, d) => {
@@ -343,7 +344,7 @@ async function main() {
   // Collect every company still unread, across the requested letters.
   const targets = [];
   for (const L of LETTERS) {
-    const f = path.join(ROOT, L, 'results.json');
+    const f = path.join(P.letterDir(L), 'results.json');
     if (!fs.existsSync(f)) continue;
     const data = JSON.parse(fs.readFileSync(f, 'utf8'));
     data.forEach((entry, i) => {
@@ -443,7 +444,7 @@ function mergeFromDisk(attempted = 0) {
   let newlyFilled = 0;   // boards that had NO postings before this merge
   let alreadyHad = 0;    // boards re-confirmed from earlier runs
   for (const L of LETTERS) {
-    const f = path.join(ROOT, L, 'results.json');
+    const f = path.join(P.letterDir(L), 'results.json');
     if (!fs.existsSync(f)) continue;
     const data = JSON.parse(fs.readFileSync(f, 'utf8'));
     let touched = false;

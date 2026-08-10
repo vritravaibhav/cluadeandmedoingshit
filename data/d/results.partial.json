@@ -1,0 +1,147 @@
+[
+  {
+    "company": "Delhivery",
+    "country": "India",
+    "careers": "https://www.delhivery.com/careers",
+    "source": null,
+    "error": "careers-page-read-but-lists-no-openings",
+    "totalJobs": 0,
+    "jobs": [],
+    "enriched": 0,
+    "matches": [],
+    "nearMatches": [],
+    "closest": null,
+    "closestEng": null,
+    "trace": {
+      "pages": [
+        {
+          "url": "https://www.delhivery.com/careers",
+          "status": 200,
+          "bytes": 6946
+        },
+        {
+          "url": "https://careers.delhivery.com",
+          "status": 0,
+          "bytes": 0,
+          "error": "fetch failed"
+        },
+        {
+          "url": "https://delhivery.com/careers",
+          "status": 200,
+          "bytes": 6946
+        },
+        {
+          "url": "https://delhivery.com/career",
+          "status": 200,
+          "bytes": 6968
+        },
+        {
+          "url": "https://delhivery.com/jobs",
+          "status": 200,
+          "bytes": 6968
+        },
+        {
+          "url": "https://delhivery.com/join-us",
+          "status": 200,
+          "bytes": 6968
+        },
+        {
+          "url": "https://delhivery.com/join-our-team",
+          "status": 200,
+          "bytes": 6968
+        },
+        {
+          "url": "https://delhivery.com/careers.html",
+          "status": 200,
+          "bytes": 6968
+        },
+        {
+          "url": "https://delhivery.com/company/careers",
+          "status": 200,
+          "bytes": 6968
+        },
+        {
+          "url": "https://delhivery.com/about/careers",
+          "status": 200,
+          "bytes": 6968
+        },
+        {
+          "url": "https://delhivery.com/current-openings",
+          "status": 200,
+          "bytes": 6968
+        },
+        {
+          "url": "https://delhivery.com/",
+          "status": 200,
+          "bytes": 6968
+        },
+        {
+          "url": "https://careers.www.delhivery.com",
+          "status": 0,
+          "bytes": 0,
+          "error": "fetch failed"
+        },
+        {
+          "url": "https://www.delhivery.com/career",
+          "status": 200,
+          "bytes": 6968
+        },
+        {
+          "url": "https://www.delhivery.com/jobs",
+          "status": 200,
+          "bytes": 6968
+        },
+        {
+          "url": "https://www.delhivery.com/join-us",
+          "status": 200,
+          "bytes": 6968
+        },
+        {
+          "url": "https://www.delhivery.com/join-our-team",
+          "status": 200,
+          "bytes": 6968
+        },
+        {
+          "url": "https://www.delhivery.com/careers.html",
+          "status": 200,
+          "bytes": 6968
+        },
+        {
+          "url": "https://www.delhivery.com/company/careers",
+          "status": 200,
+          "bytes": 6968
+        },
+        {
+          "url": "https://www.delhivery.com/about/careers",
+          "status": 200,
+          "bytes": 6968
+        },
+        {
+          "url": "https://www.delhivery.com/current-openings",
+          "status": 200,
+          "bytes": 6968
+        },
+        {
+          "url": "https://www.delhivery.com/",
+          "status": 200,
+          "bytes": 6968
+        }
+      ],
+      "candidates": [
+        "greenhouse:delhivery(guess)",
+        "lever:delhivery(guess)",
+        "ashby:delhivery(guess)",
+        "recruitee:delhivery(guess)",
+        "workable:delhivery(guess)"
+      ],
+      "attempts": [
+        "greenhouse:delhivery -> no board",
+        "lever:delhivery -> no board",
+        "ashby:delhivery -> no board",
+        "recruitee:delhivery -> no board",
+        "workable:delhivery -> no board"
+      ]
+    },
+    "ms": 5418
+  }
+]

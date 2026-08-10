@@ -1,0 +1,59 @@
+==============================================================================
+OPEN ROLES AT 1 "W" COMPANIES
+Looking for : Software Engineer, ~2 years experience
+Priority    : Java, Dart/Flutter        Location preference : India
+Generated   : 2026-08-10 10:58:53 UTC  by test.js
+==============================================================================
+
+Boards read with open roles : 0
+Boards read, currently empty: 0
+Could not read              : 1
+Total open roles seen       : 0
+
+##############################################################################
+# SECTION 1 — MATCHES: Software Engineer + Java/Dart/Flutter + ~2 yrs
+# 0 role(s) across 0 company(s)
+##############################################################################
+
+  Nothing matched all three criteria in this run.
+  Section 4 lists the closest role at every company instead, which also
+  proves the script really read each board.
+
+##############################################################################
+# SECTION 2 — INDIA: engineering, non-senior, ANY stack
+# 0 role(s). Java/Dart-Flutter still rank highest, but the brief allows
+# any tech stack, so these are the India roles worth a look regardless.
+# 2a: states a window covering ~2 yrs, or states none (0)
+# 2b: states a different window — usually 3-5 yrs (0)
+##############################################################################
+
+-- 2a --------------------------------------------- fits ~2 years (0)
+
+
+-- 2b ------------------------------------ states a wider window (0)
+
+
+##############################################################################
+# SECTION 3 — NEAR MATCHES: engineering + Java/Dart/Flutter, non-senior,
+#              but the posting does not state a 2-year window (India first)
+##############################################################################
+
+##############################################################################
+# SECTION 4 — CLOSEST ROLE PER COMPANY  (fetch verification)
+# One live posting from every board the script could read. If a company
+# had no match above, its nearest engineering role is shown here so you
+# can confirm the fetch worked rather than silently returning nothing.
+##############################################################################
+
+##############################################################################
+# SECTION 5 — NOT READ  (1 of 1)
+# lists-no-openings  = careers page loaded fine, published no vacancies
+# blocked-or-error    = bot wall / dead route (403, 404) — needs a browser
+# unreachable         = domain did not respond at all
+# timed-out           = board too slow to read inside the per-company cap
+##############################################################################
+
+>> Delhivery  [India]  — careers-page-read-but-lists-no-openings
+    careers page : https://www.delhivery.com/careers
+    http status  : 200, 0, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 0, 200, 200, 200, 200, 200, 200, 200, 200, 200
+    ATS tried    : greenhouse:delhivery -> no board ; lever:delhivery -> no board ; ashby:delhivery -> no board ; recruitee:delhivery -> no board

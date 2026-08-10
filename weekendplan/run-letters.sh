@@ -13,7 +13,7 @@
 set -uo pipefail
 
 ROOT="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
-ENGINE="$ROOT/w/test.js"
+ENGINE="$ROOT/engine/test.js"
 LOGDIR="$ROOT/weekendplan/logs"
 PARALLEL_LETTERS="${PARALLEL_LETTERS:-4}"
 CONCURRENCY="${CONCURRENCY:-8}"
@@ -35,7 +35,7 @@ fi
 
 pending=()
 for L in "${LETTERS[@]}"; do
-  d="$ROOT/$L"
+  d="$ROOT/data/$L"
   [[ -f "$d/companies.js" ]] || continue
   if [[ -z "${FORCE:-}" && ( -f "$d/results.json" || -f "$d/careerv1.results.json" ) ]]; then
     echo "  skip $L (already scanned; FORCE=1 to redo)"
@@ -55,7 +55,7 @@ echo
 
 scan_one() {
   local L="$1"
-  local d="$ROOT/$L"
+  local d="$ROOT/data/$L"
   local n
   n=$(node -e "try{console.log(require('$d/companies.js').length)}catch(e){console.log(0)}")
   if [[ "$n" == "0" ]]; then

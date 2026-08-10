@@ -22,8 +22,9 @@ const fs = require('fs');
 const path = require('path');
 
 const DIR = __dirname;
-const ROOT = path.dirname(DIR);
-const LETTERS = 'abcdefghijklmnopqrstuvwxyz'.split('');
+const P = require('../engine/paths');
+const ROOT = P.ROOT;
+const LETTERS = P.LETTERS;
 
 const BUCKETS = [
   { n: 1, dir: '1-java-flutter-2yr', title: 'JAVA / FLUTTER — ~2 YEARS — INDIA', priority: true, years: 2 },
@@ -37,7 +38,7 @@ const BUCKETS = [
  * ------------------------------------------------------------------ */
 
 function loadLetter(letter) {
-  const base = path.join(ROOT, letter);
+  const base = P.letterDir(letter);
   if (!fs.existsSync(base)) return null;
   // Prefer the newest results file the folder has.
   const candidates = ['careerv1.results.json', 'results.json']

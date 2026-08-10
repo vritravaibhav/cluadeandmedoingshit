@@ -302,6 +302,28 @@ domains verified). The highest-value recurring work is now
 Do not start another extractor without first measuring what class it would
 actually unlock — by the unread-before/after method, not a built-in counter.
 
+
+## Service-page pollution (cycle 20) — FIXED, and it is the THIRD repeat
+"Hire API Developer", "Hire Dedicated Flutter Developers" — a dev shop selling
+its own staff, not a vacancy. 60 reached the weekend folders, 18 into the
+PRIORITY one. They read exactly like job titles, so nothing else caught them.
+
+The filter already existed. render-scan.js has had `^hire\s` in NOT_POSTING
+since cycle 10. It was never carried into the main engine. That is now the
+THIRD time a class of bug was fixed in one path and left live in its sibling:
+    blog/marketing filter  -> render-scan only, feeds/sitemaps missed
+    intern filter          -> jobs build only, freelance build missed
+    service-page filter    -> render-scan only, main engine missed
+Every one was found by reading an output file, never by a counter.
+
+WHEN FIXING A FILTER, CHECK ALL FOUR PLACES. They do not share code:
+    w/test.js  looksLikeJobTitle()   <- heading/anchor extractors
+    w/test.js  isMarketingContent()  <- feed / sitemap / wordpress extractors
+    weekendplan/render-scan.js       <- NOT_POSTING, rendered DOM + XHR
+    weekendplan/build.js             <- final net over everything
+SERVICE_PAGE now lives in the first three, plus build.js so existing scans are
+cleaned without waiting for a full re-sweep. Folder 1: 286 -> 267 roles.
+
 ## Next cycle
 1. Consider fixing the intern signal at source: RE_JUNIOR in w/test.js rewards
    "intern"/"trainee" with +12, which is wrong for a 2-year candidate. Build.js

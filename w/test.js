@@ -1364,11 +1364,25 @@ const BLOG_HEADLINE = new RegExp(
   'i',
 );
 
+/*
+ * "Hire a Java Developer", "Hire Dedicated Flutter Developers" — a dev shop
+ * selling its own staff, not a vacancy. These read exactly like job titles and
+ * 60 of them reached the weekend folders, 18 into the priority one.
+ *
+ * This lives here rather than in one extractor because it has to apply to
+ * BOTH paths: the heading/anchor extractors go through looksLikeJobTitle,
+ * while feeds and sitemaps go through isMarketingContent. The identical filter
+ * already existed in render-scan.js and was never carried across — the same
+ * one-path-only mistake as the blog filter and the intern filter before it.
+ */
+const SERVICE_PAGE =
+  /^(hire|outsource|offshore)\b|\b(hire|hiring)\s+(a|an|the)?\s*(dedicated|expert|top|best|remote|offshore)?\s*\w*\s*(developers?|engineers?|designers?|teams?|programmers?)\b|^(our|why choose|about)\s/i;
+
 /** Reject marketing content that arrived through a site-wide feed or sitemap. */
 function isMarketingContent(title, url) {
   if (url && NOT_POSTING_URL.test(String(url))) return true;
   const t = String(title || '');
-  if (BLOG_HEADLINE.test(t)) return true;
+  if (BLOG_HEADLINE.test(t) || SERVICE_PAGE.test(t)) return true;
   // Vacancy titles are noun phrases. Prose this long is an article headline.
   return t.split(/\s+/).length > 10;
 }
@@ -1384,6 +1398,8 @@ function looksLikeJobTitle(t) {
   const s = (t || '').trim();
   if (!s || s.length < 5 || s.length > 80) return false;
   if (NOT_A_JOB.test(s)) return false;
+  // A services page ("Hire a Java Developer") reads exactly like a vacancy.
+  if (SERVICE_PAGE.test(s)) return false;
   const words = s.split(/\s+/);
   // One-word entries are section headings ("Development", "Analysts", "DevOps"),
   // never actual vacancies.

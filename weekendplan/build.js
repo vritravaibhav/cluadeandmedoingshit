@@ -98,6 +98,18 @@ function cleanTitle(t, company) {
  */
 const INTERN = /\b(intern|internship|trainee|apprentice|co[- ]?op)\b/i;
 
+/*
+ * "Hire API Developer", "Hire Dedicated Flutter Developers" — a dev shop
+ * advertising its own staff for hire, not a vacancy. 60 of these reached the
+ * folders, 18 into the priority one, because they read exactly like job titles.
+ *
+ * The scanner now rejects them at extraction time too, but that only takes
+ * effect on the next full sweep. Filtering here as well means the folders are
+ * clean immediately, and stay clean if a new extractor ever reintroduces them.
+ */
+const SERVICE_PAGE =
+  /^(hire|outsource|offshore)\b|\b(hire|hiring)\s+(a|an|the)?\s*(dedicated|expert|top|best|remote|offshore)?\s*\w*\s*(developers?|engineers?|designers?|teams?|programmers?)\b|^(our|why choose|about)\s/i;
+
 /* "Mumbai" and "Mumbai, MH" are the same place; without normalising, the same
  * posting survives dedupe twice. */
 const locKey = (s) =>
@@ -165,7 +177,7 @@ function bucketOf(rows, b) {
   const byUrl = new Set();
   const byRole = new Set();
   return rows
-    .filter((r) => r.india && r.isEng && !r.senior && !INTERN.test(r.title) && r.url && stack(r) && fitsYears(r))
+    .filter((r) => r.india && r.isEng && !r.senior && !INTERN.test(r.title) && !SERVICE_PAGE.test(r.title) && r.url && stack(r) && fitsYears(r))
     .filter((r) => {
       // Same posting reachable at two URLs.
       const u = r.url.split('#')[0].replace(/\/$/, '');

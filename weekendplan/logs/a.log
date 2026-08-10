@@ -78,3 +78,310 @@ Checking 378 companies (concurrency 8)
 [ 76/378] Aera Technology               11 jobs  via lever:aeratechnology
 [ 77/378] ACI Worldwide                  5 jobs  via headings:https://www.aciworldwide.com/about-aci/careers
 [ 78/378] ADP                          !! blocked-or-error-response
+[ 79/378] Agilent Technologies          39 jobs  via workday:agilent
+[ 80/378] AECOM                        !! careers-page-read-but-lists-no-openings
+[ 81/378] Accion Labs                  !! careers-page-read-but-lists-no-openings
+[ 82/378] Agilysys                      12 jobs  via greenhouse:agilysys
+[ 83/378] AiDash                         7 jobs  via greenhouse:aidashinc
+[ 84/378] Alation                        3 jobs  via next-data:https://www.alation.com/careers/
+[ 85/378] AGCO                         !! careers-page-read-but-lists-no-openings
+[ 86/378] Alfa Laval                    40 jobs  via workday:alfalaval
+[ 87/378] Airbus                       !! careers-page-read-but-lists-no-openings
+[ 88/378] Akamai                         5 jobs  via headings:https://www.akamai.com/careers
+[ 89/378] AlphaSense                   224 jobs  via greenhouse:alphasense   ** 5 MATCH **
+[ 90/378] Allianz Technology            75 jobs  via phenom:_self
+[ 91/378] AgreeYa Solutions              2 jobs  via headings:https://agreeya.com/careers/
+[ 92/378] Alcon                         40 jobs  via workday:alcon
+[ 93/378] Alstom                         4 jobs  via headings:https://www.alstom.com/careers
+[ 94/378] Allegion                      40 jobs  via workday:allegion
+[ 95/378] Alight Solutions             109 jobs  via phenom:_self
+[ 96/378] Allstate India               !! careers-page-read-but-lists-no-openings
+[ 97/378] Amadeus                       40 jobs  via workday:amadeus
+[ 98/378] Altisource                    86 jobs  via smartrecruiters:Altisource
+[ 99/378] American Airlines             40 jobs  via successfactors:jobs.aa.com
+[100/378] Amdocs                       !! careers-page-read-but-lists-no-openings
+[101/378] Analog Devices                40 jobs  via workday:analogdevices
+[102/378] Amazon                       !! careers-page-read-but-lists-no-openings
+[103/378] AMD                            3 jobs  via headings:https://www.amd.com/en/corporate/careers.html?utm_campaign=careers&utm_medium=redirect&utm_source=301
+[104/378] American Express               5 jobs  via headings:https://www.americanexpress.com/en-us/careers/
+[105/378] Anaplan                      159 jobs  via greenhouse:anaplan   ** 1 MATCH **
+[106/378] ANZ                           41 jobs  via successfactors:careers.anz.com
+[107/378] Amgen                         40 jobs  via workday:amgen
+[108/378] Altimetrik                   !! careers-page-read-but-lists-no-openings
+[109/378] Anchanto                      42 jobs  via greenhouse:anchanto
+[110/378] Apexon                       !! no-job-data-found
+[111/378] Aon                            1 jobs  via icims:aon
+[112/378] Apple                          3 jobs  via headings:https://www.apple.com/careers/in/
+[113/378] Apps Associates                8 jobs  via headings:https://appsassociates.com/careers/
+[114/378] Anblicks                     108 jobs  via keka:anblicks
+[115/378] Anheuser-Busch InBev         !! no-job-data-found
+[116/378] ArcelorMittal                !! blocked-or-error-response
+[117/378] Aptean                        16 jobs  via icims:aptean
+[118/378] Applied Materials              5 jobs  via headings:https://www.appliedmaterials.com/in/en/careers.html
+[119/378] Arcesium                      34 jobs  via greenhouse:arcesiumllc
+[120/378] ArisGlobal                     5 jobs  via successfactors:careers.arisglobal.com
+[121/378] AppZen                        19 jobs  via lever:appzen
+[122/378] Arista Networks              !! careers-page-unreachable
+[123/378] Arkose Labs                    2 jobs  via greenhouse:arkoselabs
+[124/378] Ameriprise Financial           3 jobs  via headings:https://www.ameriprise.com/careers
+[125/378] ArmorCode                      3 jobs  via greenhouse:armorcode
+[126/378] Aspen Technology              40 jobs  via workday:aspentech
+[127/378] Arrow Electronics             40 jobs  via workday:arrow
+[128/378] Arcadis                      !! careers-page-read-but-lists-no-openings
+[129/378] Assa Abloy                   !! careers-page-read-but-lists-no-openings
+[130/378] athenahealth                  41 jobs  via phenom:_self
+[131/378] AstraZeneca                  !! careers-page-read-but-lists-no-openings
+[132/378] Atlas Copco                    3 jobs  via headings:https://www.atlascopcogroup.com/en/careers
+[133/378] Atos                           3 jobs  via headings:https://atos.net/en/join-us
+[134/378] Asite                        !! careers-page-read-but-lists-no-openings
+[135/378] Aurigo Software               20 jobs  via successfactors:careers.aurigo.com
+[136/378] Aptiv                        !! careers-page-read-but-lists-no-openings
+[137/378] Atlassian                     17 jobs  via headings:https://www.atlassian.com/company/careers
+[138/378] Atlas Systems                 25 jobs  via bamboohr:atlas
+[139/378] Automation Anywhere            3 jobs  via headings:https://www.automationanywhere.com/company/careers
+[140/378] AT&T                         !! no-job-data-found
+[141/378] Avaya                          6 jobs  via successfactors:careers.avaya.com   ** 1 MATCH **
+[142/378] Aveva                         40 jobs  via workday:aveva
+[143/378] Autodesk                      40 jobs  via workday:autodesk   ** 1 MATCH **
+[144/378] Axway                         50 jobs  via icims:axway   ** 2 MATCH **
+[145/378] NTT Data (Apisero)            40 jobs  via workday:nttglobaldatacenters
+[146/378] Avaamo                        12 jobs  via headings:https://avaamo.ai/careers/
+[147/378] Ameyo                        !! careers-page-read-but-lists-no-openings
+[148/378] Azentio Software               2 jobs  via headings:https://www.azentio.com/careers
+[149/378] Affine Analytics             !! careers-page-read-but-lists-no-openings
+[150/378] Avalara                        3 jobs  via headings:https://careers.avalara.com/careers-home/
+[151/378] Arm                          !! timed-out
+[152/378] Augmont                      !! careers-page-read-but-lists-no-openings
+[153/378] Antino Labs                  !! careers-page-read-but-lists-no-openings
+[154/378] Agilisium                      0 jobs  via zohorecruit:agilisium (0 open)
+[155/378] Astra Security               !! no-job-data-found
+[156/378] Ascendion                      2 jobs  via headings:https://ascendion.com/careers
+[157/378] Ajmera Infotech                0 jobs  via zohorecruit:ajmerainfotech (0 open)
+[158/378] Ambit Software                 8 jobs  via wordpress:https://www.ambitsoftware.com
+[159/378] Accelya                        1 jobs  via workday:accelya
+[160/378] Acceldata                     49 jobs  via lever:acceldata   ** 1 MATCH **
+[161/378] ACL Digital                    4 jobs  via headings:https://www.acldigital.com/careers
+[162/378] Accely                        22 jobs  via headings:https://www.accely.com/careers/
+[163/378] Bounteous (Accolite Digital)  24 jobs  via lever:bounteous   ** 1 MATCH **
+[164/378] Ackrolix Innovations           5 jobs  via headings:https://www.ackrolix.com/in/careers-at-ackrolix-innovations/
+[165/378] Axtria                        27 jobs  via headings:https://www.axtria.com/axtria-careers/
+[166/378] Aalpha Information Systems   !! blocked-or-error-response
+[167/378] Abservetech                    5 jobs  via headings:https://abservetech.com/careers/
+[168/378] Acquaint Softtech              5 jobs  via headings:https://acquaintsoft.com/careers
+[169/378] Adequate Infosoft              9 jobs  via headings:https://www.adequateinfosoft.com/careers
+[170/378] Adda247                        5 jobs  via html:https://www.adda247.com/jobs/
+[171/378] Abacus Desk                    1 jobs  via wordpress:https://www.abacusdesk.com
+[172/378] Adit Microsys                  5 jobs  via headings:https://www.aditmicrosys.com/careers.html
+[173/378] Access Healthcare            !! careers-page-read-but-lists-no-openings
+[174/378] AddWeb Solution               20 jobs  via zohorecruit:addwebsolution   ** 1 MATCH **
+[175/378] Ace Infoway                  !! careers-page-read-but-lists-no-openings
+[176/378] Aeologic Technologies        !! careers-page-read-but-lists-no-openings
+[177/378] Aeon Software                !! careers-page-read-but-lists-no-openings
+[178/378] Aegis Softtech                 2 jobs  via headings:https://www.aegissofttech.com/careers
+[179/378] Aerchain                       7 jobs  via headings:https://aerchain.io/careers
+[180/378] Ansys India                  !! careers-page-read-but-lists-no-openings
+[181/378] Advantage Club               !! no-job-data-found
+[182/378] AFour Technologies             8 jobs  via headings:https://afourtech.com/careers-3/
+[183/378] Agiliad                        2 jobs  via headings:https://agiliad.com/careers/
+[184/378] Agicent                       13 jobs  via headings:https://www.agicent.com/careers
+[185/378] Advaiya                       12 jobs  via wordpress:https://advaiya.com
+[186/378] Agnito Technologies          !! careers-page-read-but-lists-no-openings
+[187/378] Agile Infoways                 3 jobs  via headings:https://www.agileinfoways.com/careers
+[188/378] Adroitent                      8 jobs  via headings:https://adroitent.ai/current-openings/
+[189/378] Aissel Technologies          !! no-job-data-found
+[190/378] Ajackus                      !! careers-page-read-but-lists-no-openings
+[191/378] BuSoft (formerly Agira)        3 jobs  via headings:https://busofttech.com/career/
+[192/378] Ahex Technologies            !! no-job-data-found
+[193/378] Algoworks                     28 jobs  via keka:algoworks
+[194/378] Algoscale                      2 jobs  via keka:algoscale
+[195/378] Alcax Solutions              !! no-job-data-found
+[196/378] AIMDek Technologies            2 jobs  via wordpress:https://aimdek.com
+[197/378] Akrity                         4 jobs  via headings:https://akrity.com/careers/
+[198/378] Alian Software                 5 jobs  via headings:https://aliansoftware.com/en/careers
+[199/378] Allsoft Solutions            !! no-job-data-found
+[200/378] Akeo                         !! careers-page-read-but-lists-no-openings
+[201/378] Adaequare                    !! timed-out
+[202/378] ACL Digital (ALTEN Calsoft L   4 jobs  via headings:https://www.acldigital.com/careers
+[203/378] Alchemy Techsol              !! careers-page-read-but-lists-no-openings
+[204/378] Allied Digital Services      !! no-job-data-found
+[205/378] Alphabin                       7 jobs  via headings:https://www.alphabin.co/careers
+[206/378] Alkye Services               !! no-job-data-found
+[207/378] Alpixn Technologies          !! no-job-data-found
+[208/378] Prasaditya IDEA (Altiux)       3 jobs  via wordpress:https://prasadityaidea.com
+[209/378] Amaze Systems                !! careers-page-unreachable
+[210/378] Amplework Software           !! careers-page-unreachable
+[211/378] Amigoways                     33 jobs  via headings:https://www.amigoways.com/careers/   ** 1 MATCH **
+[212/378] Angular Minds                  4 jobs  via headings:https://www.angularminds.com/careers
+[213/378] Amnet Digital                !! careers-page-read-but-lists-no-openings
+[214/378] Andolasoft                     8 jobs  via headings:https://andolasoft.com/career
+[215/378] Appiness Interactive         !! careers-page-read-but-lists-no-openings
+[216/378] Appfoster                      1 jobs  via feed:https://appfoster.com
+[217/378] Altruist Technologies        !! no-job-data-found
+[218/378] Appointy                     !! blocked-or-error-response
+[219/378] Apex CoVantage                11 jobs  via headings:https://www.apexcovantage.com/about/careers
+[220/378] Perficient (Ameex)           !! careers-page-read-but-lists-no-openings
+[221/378] AppSquadz                    !! careers-page-read-but-lists-no-openings
+[222/378] Appsierra                    !! careers-page-read-but-lists-no-openings
+[223/378] Apptware                     !! careers-page-read-but-lists-no-openings
+[224/378] Appstean Infotech            !! careers-page-read-but-lists-no-openings
+[225/378] Aptagrim                      11 jobs  via headings:https://aptagrim.com/company/careers
+[226/378] Aptech                       !! careers-page-read-but-lists-no-openings
+[227/378] AppsTek Corp                  10 jobs  via feed:https://appstekcorp.com
+[228/378] Aptonworks                   !! blocked-or-error-response
+[229/378] Apporio Infolabs             !! no-job-data-found
+[230/378] Arcgate                       14 jobs  via html:https://www.arcgate.com/careers
+[231/378] Appventurez                   17 jobs  via headings:https://www.appventurez.com/careers
+[232/378] Arham Technosoft               1 jobs  via feed:https://arhamtechnosoft.com
+[233/378] Argano                         2 jobs  via headings:https://argano.com/careers/
+[234/378] Aptus Data Labs                0 jobs  via zohorecruit:aptusdatalabs (0 open)
+[235/378] Arka Softwares                 3 jobs  via headings:https://www.arkasoftwares.com/career
+[236/378] Arokia IT                    !! no-job-data-found
+[237/378] Aranca                       !! no-job-data-found
+[238/378] Anaptyss                       7 jobs  via headings:https://www.anaptyss.com/jobs/
+[239/378] Ariel Software Solutions      10 jobs  via wordpress:https://www.arielsoftwares.com
+[240/378] Arrise Solutions             !! careers-page-read-but-lists-no-openings
+[241/378] Arrk Group                     1 jobs  via wordpress:https://www.arrkgroup.com
+[242/378] Artoon Solutions               3 jobs  via feed:https://artoonsolutions.com
+[243/378] Ascendum Solutions             2 jobs  via headings:https://www.ascendum.com/careers
+[244/378] Arkenea                      !! no-job-data-found
+[245/378] Ashutec Solutions            !! careers-page-read-but-lists-no-openings
+[246/378] Armia Systems                !! careers-page-read-but-lists-no-openings
+[247/378] ASM Technologies               9 jobs  via feed:https://asmltd.com
+[248/378] Ashnik                         3 jobs  via html:https://www.ashnik.com/careers/
+[249/378] Asahi Technologies           !! careers-page-read-but-lists-no-openings
+[250/378] Aspire NXT                   !! no-job-data-found
+[251/378] Atrina Technologies          !! careers-page-unreachable
+[252/378] Amzur Technologies           !! timed-out
+[253/378] Attinad Software             !! careers-page-unreachable
+[254/378] Aubergine Solutions            1 jobs  via keka:aubergine
+[255/378] Astegic                        5 jobs  via wordpress:https://www.astegic.com
+[256/378] Autointelli                  !! careers-page-read-but-lists-no-openings
+[257/378] Avaali Solutions              14 jobs  via json-ld:https://www.avaali.com/careers
+[258/378] Avidus Solutions             !! no-job-data-found
+[259/378] Aventior                     !! careers-page-read-but-lists-no-openings
+[260/378] Axcess.io                      7 jobs  via headings:https://axcess.io/career
+[261/378] Axis Softech                 !! careers-page-unreachable
+[262/378] Ascentt                        7 jobs  via headings:https://www.ascentt.com/careers/
+[263/378] Avinash Technologies         !! no-job-data-found
+[264/378] Avnovo                       !! careers-page-read-but-lists-no-openings
+[265/378] Atyeti                       !! careers-page-read-but-lists-no-openings
+[266/378] AXISCADES                      3 jobs  via wordpress:https://www.axiscades.com
+[267/378] Atidan Technologies           10 jobs  via feed:https://atidantech.com
+[268/378] Aziro                         20 jobs  via headings:https://www.aziro.com/en/careers
+[269/378] Arahas Technologies          !! careers-page-unreachable
+[270/378] Aavenir                      !! no-job-data-found
+[271/378] AVASOFT                        6 jobs  via headings:https://avasoft.com/career/
+[272/378] Aayan Infotech                 4 jobs  via feed:https://aayaninfotech.com
+[273/378] Applied Cloud Computing      !! no-job-data-found
+[274/378] AbhiBus                        6 jobs  via smartrecruiters:AbhiBus
+[275/378] AyanWorks                      0 jobs  via zohorecruit:ayanworks (0 open)
+[276/378] Actyv.ai                     !! no-job-data-found
+[277/378] Alldigi Tech                 !! careers-page-read-but-lists-no-openings
+[278/378] Absolute                     !! careers-page-read-but-lists-no-openings
+[279/378] AdOnMo                       !! careers-page-read-but-lists-no-openings
+[280/378] Affordplan                   !! careers-page-read-but-lists-no-openings
+[281/378] Adani Digital Labs           !! careers-page-read-but-lists-no-openings
+[282/378] Agrim                        !! careers-page-unreachable
+[283/378] AceVector                    !! no-job-data-found
+[284/378] Agnikul Cosmos                 4 jobs  via headings:https://agnikul.in/careers/
+[285/378] Airblack                     !! no-job-data-found
+[286/378] Airpay                         7 jobs  via headings:https://www.airpay.co.in/jobs
+[287/378] Aidetic                      !! blocked-or-error-response
+[288/378] AjnaLens                     !! careers-page-read-but-lists-no-openings
+[289/378] Aarna Networks               !! blocked-or-error-response
+[290/378] Atharva System               !! timed-out
+[291/378] AgroStar                     !! no-job-data-found
+[292/378] Aknamed                      !! careers-page-read-but-lists-no-openings
+[293/378] Algo8                        !! careers-page-read-but-lists-no-openings
+[294/378] Alt Mobility                 !! no-job-data-found
+[295/378] Ambak                        !! careers-page-read-but-lists-no-openings
+[296/378] AlphaGrep                      6 jobs  via headings:https://alpha-grep.com/career/
+[297/378] All Events                   !! careers-page-read-but-lists-no-openings
+[298/378] Apnaklub                     !! careers-page-read-but-lists-no-openings
+[299/378] Animall                      !! no-job-data-found
+[300/378] Akrivia HCM                  !! no-job-data-found
+[301/378] ApnaComplex                  !! careers-page-read-but-lists-no-openings
+[302/378] Anaxee                       !! careers-page-read-but-lists-no-openings
+[303/378] ArisInfra                      8 jobs  via keka:arisinfra
+[304/378] Appsmith                     !! careers-page-read-but-lists-no-openings
+[305/378] Aquaconnect                    6 jobs  via headings:https://aquaconnect.blue/careers.html
+[306/378] Apollo 24|7                  !! no-job-data-found
+[307/378] Artivatic                    !! careers-page-read-but-lists-no-openings
+[308/378] Atlys                         19 jobs  via ashby:atlys
+[309/378] Arzooo                       !! no-job-data-found
+[310/378] Arya.ag                      !! careers-page-read-but-lists-no-openings
+[311/378] Aprecomm                     !! no-job-data-found
+[312/378] Aurassure                      6 jobs  via headings:https://aurassure.com/career/
+[313/378] Aurum PropTech               !! careers-page-read-but-lists-no-openings
+[314/378] AlmaBetter                   !! blocked-or-error-response
+[315/378] Awiros                         4 jobs  via keka:awiros
+[316/378] Awfis                         10 jobs  via keka:awfis
+[317/378] Atomicwork                    27 jobs  via greenhouse:atomicwork   ** 1 MATCH **
+[318/378] Avishkaar                    !! careers-page-read-but-lists-no-openings
+[319/378] AutoRABIT                     11 jobs  via jazzhr:autorabit
+[320/378] Avegen                       !! no-job-data-found
+[321/378] Axestrack                    !! careers-page-read-but-lists-no-openings
+[322/378] Aviz Networks                !! no-job-data-found
+[323/378] Anand Rathi                    5 jobs  via headings:https://anandrathi.com/career
+[324/378] Arka Fincap                    0 jobs  via zohorecruit:arkafincap (0 open)
+[325/378] Ayu Health                   !! careers-page-read-but-lists-no-openings
+[326/378] Axio                         !! no-job-data-found
+[327/378] Arihant Capital              !! careers-page-read-but-lists-no-openings
+[328/378] Acsia Technologies           !! timed-out
+[329/378] AntWorks                       7 jobs  via wordpress:http://www.ant.works
+[330/378] Airtel Payments Bank         !! blocked-or-error-response
+[331/378] Arvog                          6 jobs  via headings:https://www.arvog.com/careers
+[332/378] Alembic Pharmaceuticals      !! careers-page-read-but-lists-no-openings
+[333/378] Aurobindo Pharma             !! careers-page-read-but-lists-no-openings
+[334/378] Amara Raja                   !! careers-page-read-but-lists-no-openings
+[335/378] Anthem Biosciences             5 jobs  via headings:https://anthembio.com/careers/
+[336/378] Apollo Micro Systems         !! careers-page-read-but-lists-no-openings
+[337/378] Amplus Solar                 !! no-job-data-found
+[338/378] Avantel                      !! careers-page-read-but-lists-no-openings
+[339/378] Astral Limited                 1 jobs  via wordpress:https://www.astralpipes.com
+[340/378] Abbott                        40 jobs  via workday:abbott
+[341/378] Azad Engineering               4 jobs  via feed:https://azad.in
+[342/378] Auxilo Finserve                2 jobs  via headings:https://www.auxilo.com/careers
+[343/378] AbbVie                         3 jobs  via html:https://careers.abbvie.com/
+[344/378] AkzoNobel                     52 jobs  via successfactors:careers.akzonobel.com
+[345/378] Air Products                  40 jobs  via workday:airproducts
+[346/378] Albertsons                     2 jobs  via headings:https://www.albertsons.com/careers.html
+[347/378] Alteryx                       40 jobs  via workday:alteryx
+[348/378] Adtran                        40 jobs  via workday:adtran   ** 1 MATCH **
+[349/378] Altera                       240 jobs  via workday:altera
+[350/378] Ampere Computing             !! no-job-data-found
+[351/378] Anteriad                       7 jobs  via greenhouse:anteriad
+[352/378] Anthology                    !! careers-page-read-but-lists-no-openings
+[353/378] Airbase                      !! careers-page-read-but-lists-no-openings
+[354/378] AIG                           40 jobs  via workday:aig
+[355/378] Asahi India Glass            !! careers-page-read-but-lists-no-openings
+[356/378] AppsFlyer                     54 jobs  via greenhouse:appsflyer   ** 2 MATCH **
+[357/378] Siemens (Altair)             !! careers-page-read-but-lists-no-openings
+[358/378] Aisera                         2 jobs  via headings:https://aisera.com/careers/
+[359/378] Aristocrat                   !! blocked-or-error-response
+[360/378] Applause                     !! careers-page-read-but-lists-no-openings
+[361/378] Arctic Wolf                  124 jobs  via workday:arcticwolf
+[362/378] Aryaka                         5 jobs  via jobvite:aryaka
+[363/378] Arthur J. Gallagher          !! careers-page-read-but-lists-no-openings
+[364/378] Assurant                     !! blocked-or-error-response
+[365/378] Autoliv                      !! careers-page-read-but-lists-no-openings
+[366/378] Alacriti                       3 jobs  via headings:https://www.alacriti.com/careers/
+[367/378] Avetta                        10 jobs  via greenhouse:avetta
+[368/378] Avery Dennison               407 jobs  via smartrecruiters:AveryDennison
+[369/378] AMETEK                       !! careers-page-read-but-lists-no-openings
+[370/378] Avanade                      !! careers-page-read-but-lists-no-openings
+[371/378] Avantor VWR                  !! careers-page-read-but-lists-no-openings
+[372/378] Asurion                      147 jobs  via phenom:_self
+[373/378] Aviva                        !! careers-page-read-but-lists-no-openings
+[374/378] Avnet                        !! careers-page-read-but-lists-no-openings
+[375/378] Assystem                       4 jobs  via html:https://www.assystem.com/en/career/
+[376/378] Axalta                        40 jobs  via workday:axalta
+[377/378] AXA                           12 jobs  via sitemap:https://careers.axa.com
+[378/378] Azul Systems                 !! careers-page-read-but-lists-no-openings
+
+  boards read with jobs : 205
+  boards read, 0 open   : 6
+  could not read        : 167
+  companies w/ matches  : 14
+
+Wrote careers.txt + results.json

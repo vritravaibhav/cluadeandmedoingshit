@@ -60,7 +60,7 @@
     "workable:uber -> no board"
    ]
   },
-  "ms": 26220
+  "ms": 21377
  },
  {
   "company": "UST Global",
@@ -204,14 +204,14 @@
     "workable:ustglobal -> no board"
    ]
   },
-  "ms": 4060
+  "ms": 4020
  },
  {
   "company": "UnitedHealth Group India",
   "country": "India",
   "source": "headings:https://careers.unitedhealthgroup.com/search-jobs",
   "error": null,
-  "totalJobs": 16,
+  "totalJobs": 20,
   "jobs": [
    {
     "title": "FDE Engineer",
@@ -244,19 +244,19 @@
     "score": 49
    },
    {
-    "title": "Associate Patient Care Coordinator",
+    "title": "Senior Software Engineering Lead",
     "location": "",
     "url": "https://careers.unitedhealthgroup.com/search-jobs",
     "india": true,
     "locationSaysIndia": false,
     "hasLocation": false,
-    "isEng": false,
+    "isEng": true,
     "java": false,
     "flutter": false,
-    "senior": false,
+    "senior": true,
     "exp": [],
     "expFits2": false,
-    "score": 31
+    "score": 27
    },
    {
     "title": "Account Executive",
@@ -349,7 +349,7 @@
     "score": 19
    },
    {
-    "title": "Float Pharmacy Technician",
+    "title": "Part Time Float Pharmacy Technician",
     "location": "",
     "url": "https://careers.unitedhealthgroup.com/search-jobs",
     "india": true,
@@ -364,7 +364,7 @@
     "score": 19
    },
    {
-    "title": "Infusion Pharmacy Technician",
+    "title": "Float Pharmacy Technician",
     "location": "",
     "url": "https://careers.unitedhealthgroup.com/search-jobs",
     "india": true,
@@ -394,6 +394,21 @@
     "score": 19
    },
    {
+    "title": "Care Coordinator/Social Worker",
+    "location": "",
+    "url": "https://careers.unitedhealthgroup.com/search-jobs",
+    "india": true,
+    "locationSaysIndia": false,
+    "hasLocation": false,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 19
+   },
+   {
     "title": "Six Sigma Consultant",
     "location": "",
     "url": "https://careers.unitedhealthgroup.com/search-jobs",
@@ -409,7 +424,52 @@
     "score": 19
    },
    {
-    "title": "Pharmacy Technician",
+    "title": "Certified Ophthalmic Assistant - Atrius Health",
+    "location": "",
+    "url": "https://careers.unitedhealthgroup.com/search-jobs",
+    "india": true,
+    "locationSaysIndia": false,
+    "hasLocation": false,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 19
+   },
+   {
+    "title": "Patient Care Coordinator",
+    "location": "",
+    "url": "https://careers.unitedhealthgroup.com/search-jobs",
+    "india": true,
+    "locationSaysIndia": false,
+    "hasLocation": false,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 19
+   },
+   {
+    "title": "Medical Assistant (SEIU), ENT- Atrius Health",
+    "location": "",
+    "url": "https://careers.unitedhealthgroup.com/search-jobs",
+    "india": true,
+    "locationSaysIndia": false,
+    "hasLocation": false,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 19
+   },
+   {
+    "title": "Clinical Documentation Improvement Specialist - Hybrid- Phoenix",
     "location": "",
     "url": "https://careers.unitedhealthgroup.com/search-jobs",
     "india": true,
@@ -502,7 +562,7 @@
     {
      "url": "https://careers.unitedhealthgroup.com",
      "status": 200,
-     "bytes": 8042300
+     "bytes": 8048673
     },
     {
      "url": "https://unitedhealthgroup.com/careers",
@@ -540,7 +600,7 @@
     "workable:unitedhealthgroup -> no board"
    ]
   },
-  "ms": 11381
+  "ms": 13029
  },
  {
   "company": "Udaan",
@@ -686,7 +746,7 @@
     "workable:udaan -> no board"
    ]
   },
-  "ms": 37419
+  "ms": 37101
  },
  {
   "company": "Unacademy",
@@ -736,7 +796,7 @@
     "skip off-domain https://wellfound.com"
    ]
   },
-  "ms": 7909
+  "ms": 8465
  },
  {
   "company": "Upstox",
@@ -858,7 +918,7 @@
     "workable:upstox -> no board"
    ]
   },
-  "ms": 5682
+  "ms": 6803
  },
  {
   "company": "Urban Company",
@@ -882,12 +942,12 @@
     {
      "url": "https://urbancompany.com/careers",
      "status": 404,
-     "bytes": 474545
+     "bytes": 472173
     },
     {
      "url": "https://urbancompany.com/career",
      "status": 404,
-     "bytes": 475387
+     "bytes": 467448
     }
    ],
    "candidates": [
@@ -915,14 +975,14 @@
     "workable:urbancompany -> no board"
    ]
   },
-  "ms": 14947
+  "ms": 15115
  },
  {
   "company": "UiPath India",
   "country": "India",
   "source": "ashby:uipath",
   "error": null,
-  "totalJobs": 120,
+  "totalJobs": 119,
   "jobs": [
    {
     "title": "Software Engineer -Engineering Systems",
@@ -2103,34 +2163,6 @@
      [
       4,
       5
-     ]
-    ],
-    "expFits2": false,
-    "score": 5
-   },
-   {
-    "title": "Head of Marketing - India",
-    "location": "Bangalore",
-    "url": "https://jobs.ashbyhq.com/uipath/f462be57-4da4-4a1e-95be-d1240862c2f5",
-    "india": true,
-    "locationSaysIndia": true,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": true,
-    "exp": [
-     [
-      8,
-      10
-     ],
-     [
-      10,
-      14
-     ],
-     [
-      3,
-      7
      ]
     ],
     "expFits2": false,
@@ -3424,10 +3456,10 @@
     "workable:uipath(guess)"
    ],
    "attempts": [
-    "ashby:uipath -> 120 jobs"
+    "ashby:uipath -> 119 jobs"
    ]
   },
-  "ms": 3599
+  "ms": 3578
  },
  {
   "company": "Ubisoft India",
@@ -3457,22 +3489,22 @@
     {
      "url": "https://ubisoft.com/career",
      "status": 200,
-     "bytes": 600156
+     "bytes": 593964
     },
     {
      "url": "https://ubisoft.com/jobs",
      "status": 200,
-     "bytes": 600156
+     "bytes": 593964
     },
     {
      "url": "https://ubisoft.com/join-us",
      "status": 200,
-     "bytes": 600156
+     "bytes": 593964
     },
     {
      "url": "https://ubisoft.com/join-our-team",
      "status": 200,
-     "bytes": 600156
+     "bytes": 593964
     },
     {
      "url": "https://ubisoft.com/careers.html",
@@ -3482,22 +3514,22 @@
     {
      "url": "https://ubisoft.com/company/careers",
      "status": 200,
-     "bytes": 600156
+     "bytes": 593964
     },
     {
      "url": "https://ubisoft.com/about/careers",
      "status": 200,
-     "bytes": 600156
+     "bytes": 593964
     },
     {
      "url": "https://ubisoft.com/current-openings",
      "status": 200,
-     "bytes": 600156
+     "bytes": 593964
     },
     {
      "url": "https://ubisoft.com/",
      "status": 200,
-     "bytes": 667318
+     "bytes": 686604
     }
    ],
    "candidates": [
@@ -3515,7 +3547,7 @@
     "workable:ubisoft -> no board"
    ]
   },
-  "ms": 37373
+  "ms": 34640
  },
  {
   "company": "Merkle (formerly Ugam)",
@@ -3540,68 +3572,52 @@
     {
      "url": "https://merkle.com/careers",
      "status": 200,
-     "bytes": 127579
+     "bytes": 138156
     },
     {
      "url": "https://merkle.com/career",
-     "status": 200,
-     "bytes": 127579
+     "status": 404,
+     "bytes": 86172
     },
     {
      "url": "https://merkle.com/jobs",
-     "status": 200,
-     "bytes": 127579
+     "status": 404,
+     "bytes": 86172
     },
     {
      "url": "https://merkle.com/join-us",
-     "status": 200,
-     "bytes": 127579
+     "status": 404,
+     "bytes": 86172
     },
     {
      "url": "https://merkle.com/join-our-team",
-     "status": 200,
-     "bytes": 127579
+     "status": 404,
+     "bytes": 86172
     },
     {
      "url": "https://merkle.com/careers.html",
-     "status": 200,
-     "bytes": 127579
+     "status": 404,
+     "bytes": 86172
     },
     {
      "url": "https://merkle.com/company/careers",
-     "status": 200,
-     "bytes": 127579
+     "status": 404,
+     "bytes": 86172
     },
     {
      "url": "https://merkle.com/about/careers",
-     "status": 200,
-     "bytes": 127579
+     "status": 404,
+     "bytes": 86172
     },
     {
      "url": "https://merkle.com/current-openings",
-     "status": 200,
-     "bytes": 127579
+     "status": 404,
+     "bytes": 86172
     },
     {
      "url": "https://merkle.com/",
      "status": 200,
      "bytes": 127579
-    },
-    {
-     "url": "https://careers.www.merkle.com",
-     "status": 0,
-     "bytes": 0,
-     "error": "fetch failed"
-    },
-    {
-     "url": "https://www.merkle.com/careers",
-     "status": 200,
-     "bytes": 138156
-    },
-    {
-     "url": "https://www.merkle.com/career",
-     "status": 404,
-     "bytes": 86172
     }
    ],
    "candidates": [
@@ -3619,7 +3635,7 @@
     "workable:merkle -> no board"
    ]
   },
-  "ms": 23484
+  "ms": 26969
  },
  {
   "company": "Ula",
@@ -3644,22 +3660,22 @@
     {
      "url": "https://ula.app/careers",
      "status": 403,
-     "bytes": 243
+     "bytes": 263
     },
     {
      "url": "https://ula.app/career",
      "status": 403,
-     "bytes": 243
+     "bytes": 263
     },
     {
      "url": "https://ula.app/jobs",
      "status": 403,
-     "bytes": 263
+     "bytes": 243
     },
     {
      "url": "https://ula.app/join-us",
      "status": 403,
-     "bytes": 243
+     "bytes": 263
     },
     {
      "url": "https://ula.app/join-our-team",
@@ -3669,7 +3685,7 @@
     {
      "url": "https://ula.app/careers.html",
      "status": 403,
-     "bytes": 243
+     "bytes": 263
     },
     {
      "url": "https://ula.app/company/careers",
@@ -3705,7 +3721,7 @@
     {
      "url": "https://www.ula.app/career",
      "status": 403,
-     "bytes": 243
+     "bytes": 263
     },
     {
      "url": "https://www.ula.app/jobs",
@@ -3720,7 +3736,7 @@
     {
      "url": "https://www.ula.app/join-our-team",
      "status": 403,
-     "bytes": 243
+     "bytes": 263
     },
     {
      "url": "https://www.ula.app/careers.html",
@@ -3730,7 +3746,7 @@
     {
      "url": "https://www.ula.app/company/careers",
      "status": 403,
-     "bytes": 263
+     "bytes": 243
     },
     {
      "url": "https://www.ula.app/about/careers",
@@ -3740,7 +3756,7 @@
     {
      "url": "https://www.ula.app/current-openings",
      "status": 403,
-     "bytes": 243
+     "bytes": 263
     },
     {
      "url": "https://www.ula.app/",
@@ -3751,7 +3767,7 @@
    "candidates": [],
    "attempts": []
   },
-  "ms": 5915
+  "ms": 5668
  },
  {
   "company": "Unbxd",
@@ -3895,7 +3911,7 @@
     "workable:unbxd -> no board"
    ]
   },
-  "ms": 51173
+  "ms": 41857
  },
  {
   "company": "Uniphore",
@@ -4689,7 +4705,7 @@
     "workday:uniphore -> 37 jobs"
    ]
   },
-  "ms": 11859
+  "ms": 11765
  },
  {
   "company": "Unisys India",
@@ -4916,21 +4932,6 @@
     "score": 16
    },
    {
-    "title": "Civil Registry Associate",
-    "location": "PSA-Digos City",
-    "url": "https://unisys.wd5.myworkdayjobs.com/External/job/PSA-Digos-City/Civil-Registry-Associate_REQ574539",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 16
-   },
-   {
     "title": "Coordinador de incidentes mayores - Bilingue",
     "location": "Bogota, DC, Colombia",
     "url": "https://unisys.wd5.myworkdayjobs.com/External/job/Bogota-DC-Colombia/Coordinador-de-incidentes-mayores---Bilingue_REQ573063",
@@ -5124,6 +5125,21 @@
     "exp": [],
     "expFits2": false,
     "score": 4
+   },
+   {
+    "title": "Senior Salesforce Technical Architect - Field Service",
+    "location": "Bangalore, KA, India",
+    "url": "https://unisys.wd5.myworkdayjobs.com/External/job/Bangalore-KA-India/Senior-Salesforce-Technical-Architect---Field-Service_REQ574824",
+    "india": true,
+    "locationSaysIndia": true,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [],
+    "expFits2": false,
+    "score": -3
    },
    {
     "title": "Cybersecurity Sr. Analyst",
@@ -5464,7 +5480,7 @@
     "workday:unisys -> 40 jobs"
    ]
   },
-  "ms": 11342
+  "ms": 12939
  },
  {
   "company": "UpGrad",
@@ -5603,7 +5619,7 @@
     {
      "url": "https://upgrad.com/career",
      "status": 404,
-     "bytes": 21254
+     "bytes": 21252
     }
    ],
    "candidates": [
@@ -5623,7 +5639,7 @@
     "workable:upgrad -> no board"
    ]
   },
-  "ms": 11039
+  "ms": 9514
  },
  {
   "company": "Utthunga",
@@ -5711,17 +5727,17 @@
     {
      "url": "https://careers.utthunga.com",
      "status": 200,
-     "bytes": 40043
+     "bytes": 40081
     },
     {
      "url": "https://utthunga.com/careers",
      "status": 200,
-     "bytes": 942797
+     "bytes": 942805
     },
     {
      "url": "https://utthunga.com/career",
      "status": 200,
-     "bytes": 942797
+     "bytes": 942805
     },
     {
      "url": "https://utthunga.com/jobs",
@@ -5744,7 +5760,7 @@
     "workable:utthunga -> no board"
    ]
   },
-  "ms": 17127
+  "ms": 18169
  },
  {
   "company": "United Airlines India",
@@ -5762,7 +5778,7 @@
    "pages": [],
    "attempts": []
   },
-  "ms": 90001
+  "ms": 90004
  },
  {
   "company": "Ushur",
@@ -5957,52 +5973,52 @@
     {
      "url": "https://ushur.com/careers",
      "status": 200,
-     "bytes": 205173
+     "bytes": 209750
     },
     {
      "url": "https://ushur.com/career",
      "status": 404,
-     "bytes": 135072
+     "bytes": 139649
     },
     {
      "url": "https://ushur.com/jobs",
      "status": 404,
-     "bytes": 135072
+     "bytes": 139649
     },
     {
      "url": "https://ushur.com/join-us",
      "status": 404,
-     "bytes": 135072
+     "bytes": 139649
     },
     {
      "url": "https://ushur.com/join-our-team",
      "status": 404,
-     "bytes": 135072
+     "bytes": 139649
     },
     {
      "url": "https://ushur.com/careers.html",
      "status": 404,
-     "bytes": 135072
+     "bytes": 139649
     },
     {
      "url": "https://ushur.com/company/careers",
      "status": 200,
-     "bytes": 205173
+     "bytes": 209750
     },
     {
      "url": "https://ushur.com/about/careers",
      "status": 404,
-     "bytes": 135072
+     "bytes": 139649
     },
     {
      "url": "https://ushur.com/current-openings",
      "status": 404,
-     "bytes": 135072
+     "bytes": 139649
     },
     {
      "url": "https://ushur.com/",
      "status": 200,
-     "bytes": 219474
+     "bytes": 224030
     }
    ],
    "candidates": [
@@ -6020,79 +6036,34 @@
     "workable:ushur -> no board"
    ]
   },
-  "ms": 14477
+  "ms": 12704
  },
  {
   "company": "Uplers",
   "country": "India",
-  "source": "feed:https://www.uplers.com",
+  "source": "headings:https://www.uplers.com/jobs",
   "error": null,
-  "totalJobs": 5,
+  "totalJobs": 2,
   "jobs": [
    {
-    "title": "Common Mistakes to Avoid When Hiring a Graphic Designer",
+    "title": "Forward Deployed Engineer",
     "location": "",
-    "url": "https://www.uplers.com/web-stories/mistakes-to-avoid-when-hiring-graphic-designer/",
+    "url": "https://www.uplers.com/jobs",
     "india": true,
     "locationSaysIndia": false,
     "hasLocation": false,
-    "isEng": false,
+    "isEng": true,
     "java": false,
     "flutter": false,
     "senior": false,
     "exp": [],
     "expFits2": false,
-    "score": 19
+    "score": 49
    },
    {
-    "title": "Economic Shifts and Wage Trends: Unveiling 2024 Salary Projections",
+    "title": "Content Strategists",
     "location": "",
-    "url": "https://www.uplers.com/web-stories/unveiling-2024-salary-projections/",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 19
-   },
-   {
-    "title": "Salary Analysis: Exploring Regional Disparities in Compensation",
-    "location": "",
-    "url": "https://www.uplers.com/web-stories/salary-analysis-exploring-regional-disparities-in-compensation/",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 19
-   },
-   {
-    "title": "Salary Transparency: Why It Matters for Employers and Employees",
-    "location": "",
-    "url": "https://www.uplers.com/web-stories/salary-transparency-why-it-matters-for-employers/",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 19
-   },
-   {
-    "title": "Stay Competitive in 2024: US Strategies for Hiring Remote Developers!",
-    "location": "",
-    "url": "https://www.uplers.com/web-stories/strategies-for-hiring-remote-developers/",
+    "url": "https://www.uplers.com/jobs",
     "india": true,
     "locationSaysIndia": false,
     "hasLocation": false,
@@ -6109,14 +6080,15 @@
   "matches": [],
   "nearMatches": [],
   "closest": {
-   "title": "Common Mistakes to Avoid When Hiring a Graphic Designer",
+   "title": "Forward Deployed Engineer",
    "location": "",
-   "url": "https://www.uplers.com/web-stories/mistakes-to-avoid-when-hiring-graphic-designer/",
+   "url": "https://www.uplers.com/jobs",
    "team": "",
-   "text": "",
-   "score": 19,
+   "text": "Forward Deployed Engineer Backend Engineers DevOps Engineers QA Engineers Data Engineers View all Roles Knowledge Base Guides and answers to get you started. FAQ Quick answers to the most common questions. Find a Job Browse open roles at vetted companies. Our Clientele The companies hiring through Uplers. India Salary Guide 2026 Benchmark pay across roles and cities. <a class=\"mega-item\" href=\"https://www.uplers.com/ai-job-description-builder/\"",
+   "_noEnrich": true,
+   "score": 49,
    "isMatch": false,
-   "isEng": false,
+   "isEng": true,
    "java": false,
    "flutter": false,
    "android": false,
@@ -6127,7 +6099,26 @@
    "exp": [],
    "expFits2": false
   },
-  "closestEng": null,
+  "closestEng": {
+   "title": "Forward Deployed Engineer",
+   "location": "",
+   "url": "https://www.uplers.com/jobs",
+   "team": "",
+   "text": "Forward Deployed Engineer Backend Engineers DevOps Engineers QA Engineers Data Engineers View all Roles Knowledge Base Guides and answers to get you started. FAQ Quick answers to the most common questions. Find a Job Browse open roles at vetted companies. Our Clientele The companies hiring through Uplers. India Salary Guide 2026 Benchmark pay across roles and cities. <a class=\"mega-item\" href=\"https://www.uplers.com/ai-job-description-builder/\"",
+   "_noEnrich": true,
+   "score": 49,
+   "isMatch": false,
+   "isEng": true,
+   "java": false,
+   "flutter": false,
+   "android": false,
+   "india": true,
+   "senior": false,
+   "junior": false,
+   "intern": false,
+   "exp": [],
+   "expFits2": false
+  },
   "trace": {
    "pages": [
     {
@@ -6167,7 +6158,7 @@
     "workable:uplers -> no board"
    ]
   },
-  "ms": 5052
+  "ms": 9568
  },
  {
   "company": "Ubuy India",
@@ -6240,7 +6231,7 @@
     "workable:ubuy -> no board"
    ]
   },
-  "ms": 9726
+  "ms": 8730
  },
  {
   "company": "Udacity India",
@@ -6680,7 +6671,7 @@
     "greenhouse:udacity -> 16 jobs"
    ]
   },
-  "ms": 17542
+  "ms": 15055
  },
  {
   "company": "Uengage",
@@ -6767,7 +6758,7 @@
     "workable:uengage -> no board"
    ]
   },
-  "ms": 5127
+  "ms": 4700
  },
  {
   "company": "Ultratech Cement",
@@ -6916,7 +6907,7 @@
     "workable:ultratechcement -> no board"
    ]
   },
-  "ms": 4312
+  "ms": 3913
  },
  {
   "company": "Umbrella Infocare",
@@ -7160,7 +7151,7 @@
     {
      "url": "https://umbrellainfocare.com/career",
      "status": 200,
-     "bytes": 201991
+     "bytes": 201990
     },
     {
      "url": "https://umbrellainfocare.com/jobs",
@@ -7170,17 +7161,12 @@
     {
      "url": "https://umbrellainfocare.com/join-us",
      "status": 404,
-     "bytes": 122074
+     "bytes": 122068
     },
     {
      "url": "https://umbrellainfocare.com/join-our-team",
      "status": 404,
-     "bytes": 122080
-    },
-    {
-     "url": "https://umbrellainfocare.com/careers.html",
-     "status": 404,
-     "bytes": 122084
+     "bytes": 122086
     }
    ],
    "candidates": [
@@ -7200,7 +7186,7 @@
     "workable:umbrellainfocare -> no board"
    ]
   },
-  "ms": 37472
+  "ms": 33679
  },
  {
   "company": "Uncia Technologies",
@@ -7482,7 +7468,7 @@
     "workable:unciatech -> no board"
    ]
   },
-  "ms": 19684
+  "ms": 17176
  },
  {
   "company": "Unifize",
@@ -7718,7 +7704,7 @@
     "recruitee:unifize -> no board"
    ]
   },
-  "ms": 9900
+  "ms": 9475
  },
  {
   "company": "Unify Technologies",
@@ -7816,7 +7802,7 @@
     "workable:unifytech -> no board"
    ]
   },
-  "ms": 8263
+  "ms": 10709
  },
  {
   "company": "Unilog",
@@ -7889,13 +7875,13 @@
     "workable:unilogcorp -> no board"
    ]
   },
-  "ms": 11068
+  "ms": 9930
  },
  {
   "company": "Uninstall.io",
   "country": "India",
   "source": null,
-  "error": "timed-out",
+  "error": "no-job-data-found",
   "totalJobs": 0,
   "jobs": [],
   "enriched": 0,
@@ -7904,10 +7890,156 @@
   "closest": null,
   "closestEng": null,
   "trace": {
-   "pages": [],
-   "attempts": []
+   "pages": [
+    {
+     "url": "https://careers.uninstall.io",
+     "status": 0,
+     "bytes": 0,
+     "error": "fetch failed"
+    },
+    {
+     "url": "https://uninstall.io/careers",
+     "status": 0,
+     "bytes": 0,
+     "error": "fetch failed"
+    },
+    {
+     "url": "https://uninstall.io/career",
+     "status": 0,
+     "bytes": 0,
+     "error": "fetch failed"
+    },
+    {
+     "url": "https://uninstall.io/jobs",
+     "status": 0,
+     "bytes": 0,
+     "error": "fetch failed"
+    },
+    {
+     "url": "https://uninstall.io/join-us",
+     "status": 0,
+     "bytes": 0,
+     "error": "fetch failed"
+    },
+    {
+     "url": "https://uninstall.io/join-our-team",
+     "status": 0,
+     "bytes": 0,
+     "error": "fetch failed"
+    },
+    {
+     "url": "https://uninstall.io/careers.html",
+     "status": 0,
+     "bytes": 0,
+     "error": "fetch failed"
+    },
+    {
+     "url": "https://uninstall.io/company/careers",
+     "status": 0,
+     "bytes": 0,
+     "error": "fetch failed"
+    },
+    {
+     "url": "https://uninstall.io/about/careers",
+     "status": 0,
+     "bytes": 0,
+     "error": "fetch failed"
+    },
+    {
+     "url": "https://uninstall.io/current-openings",
+     "status": 0,
+     "bytes": 0,
+     "error": "fetch failed"
+    },
+    {
+     "url": "https://uninstall.io/",
+     "status": 0,
+     "bytes": 0,
+     "error": "fetch failed"
+    },
+    {
+     "url": "https://careers.www.uninstall.io",
+     "status": 0,
+     "bytes": 0,
+     "error": "fetch failed"
+    },
+    {
+     "url": "https://www.uninstall.io/careers",
+     "status": 404,
+     "bytes": 564
+    },
+    {
+     "url": "https://www.uninstall.io/career",
+     "status": 404,
+     "bytes": 564
+    },
+    {
+     "url": "https://www.uninstall.io/jobs",
+     "status": 404,
+     "bytes": 564
+    },
+    {
+     "url": "https://www.uninstall.io/join-us",
+     "status": 404,
+     "bytes": 564
+    },
+    {
+     "url": "https://www.uninstall.io/join-our-team",
+     "status": 404,
+     "bytes": 564
+    },
+    {
+     "url": "https://www.uninstall.io/careers.html",
+     "status": 404,
+     "bytes": 564
+    },
+    {
+     "url": "https://www.uninstall.io/company/careers",
+     "status": 404,
+     "bytes": 564
+    },
+    {
+     "url": "https://www.uninstall.io/about/careers",
+     "status": 404,
+     "bytes": 564
+    },
+    {
+     "url": "https://www.uninstall.io/current-openings",
+     "status": 404,
+     "bytes": 564
+    },
+    {
+     "url": "https://www.uninstall.io/",
+     "status": 200,
+     "bytes": 4728
+    }
+   ],
+   "candidates": [
+    "greenhouse:uninstallio(guess)",
+    "lever:uninstallio(guess)",
+    "ashby:uninstallio(guess)",
+    "recruitee:uninstallio(guess)",
+    "workable:uninstallio(guess)",
+    "greenhouse:uninstall(guess)",
+    "lever:uninstall(guess)",
+    "ashby:uninstall(guess)",
+    "recruitee:uninstall(guess)",
+    "workable:uninstall(guess)"
+   ],
+   "attempts": [
+    "greenhouse:uninstallio -> no board",
+    "lever:uninstallio -> no board",
+    "ashby:uninstallio -> no board",
+    "recruitee:uninstallio -> no board",
+    "workable:uninstallio -> no board",
+    "greenhouse:uninstall -> no board",
+    "lever:uninstall -> no board",
+    "ashby:uninstall -> no board",
+    "recruitee:uninstall -> no board",
+    "workable:uninstall -> no board"
+   ]
   },
-  "ms": 90003
+  "ms": 42299
  },
  {
   "company": "Unified Infotech",
@@ -8244,7 +8376,7 @@
     {
      "url": "https://unifiedinfotech.net/",
      "status": 200,
-     "bytes": 553601
+     "bytes": 553688
     }
    ],
    "candidates": [
@@ -8262,7 +8394,7 @@
     "workable:unifiedinfotech -> no board"
    ]
   },
-  "ms": 31333
+  "ms": 26140
  },
  {
   "company": "Unnati",
@@ -8406,7 +8538,7 @@
     "workable:unnati -> no board"
    ]
   },
-  "ms": 8509
+  "ms": 10625
  },
  {
   "company": "udChalo (UpCurve Business Services)",
@@ -8414,32 +8546,8 @@
   "careers": "https://www.udchalo.com/careers",
   "source": "rendered",
   "error": null,
-  "totalJobs": 3,
+  "totalJobs": 2,
   "jobs": [
-   {
-    "title": "Process Executive",
-    "location": "",
-    "url": "https://www.udchalo.com/careers",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [
-     [
-      1,
-      2
-     ],
-     [
-      2,
-      3
-     ]
-    ],
-    "expFits2": true,
-    "score": 45
-   },
    {
     "title": "Performance Marketing Executive",
     "location": "",
@@ -8611,7 +8719,7 @@
     "workable:udchalo -> no board"
    ]
   },
-  "ms": 3294
+  "ms": 6316
  },
  {
   "company": "Uplift Labs",
@@ -8775,7 +8883,7 @@
     "workable:upliftlabs -> no board"
    ]
   },
-  "ms": 19819
+  "ms": 20926
  },
  {
   "company": "Upstack India",
@@ -8878,7 +8986,7 @@
     "greenhouse:upstack -> 1 jobs"
    ]
   },
-  "ms": 12848
+  "ms": 11387
  },
  {
   "company": "Urbanpiper",
@@ -8967,7 +9075,7 @@
     "workable:urbanpiper -> no board"
    ]
   },
-  "ms": 17383
+  "ms": 16714
  },
  {
   "company": "Urja Global",
@@ -9111,7 +9219,7 @@
     "workable:urjaglobal -> no board"
    ]
   },
-  "ms": 31036
+  "ms": 22878
  },
  {
   "company": "Ultrahuman",
@@ -9181,7 +9289,7 @@
     {
      "url": "https://ultrahuman.com/",
      "status": 200,
-     "bytes": 343019
+     "bytes": 343004
     },
     {
      "url": "https://careers.www.ultrahuman.com",
@@ -9237,7 +9345,7 @@
     {
      "url": "https://www.ultrahuman.com/",
      "status": 200,
-     "bytes": 343019
+     "bytes": 343004
     }
    ],
    "candidates": [
@@ -9255,7 +9363,7 @@
     "workable:ultrahuman -> no board"
    ]
   },
-  "ms": 15546
+  "ms": 14305
  },
  {
   "company": "Ultraviolette Automotive",
@@ -9263,12 +9371,12 @@
   "careers": "https://www.ultraviolette.com/careers",
   "source": "rendered",
   "error": null,
-  "totalJobs": 32,
+  "totalJobs": 9,
   "jobs": [
    {
     "title": "Battery Cell Model Engineer (SoX Algorithms)",
     "location": "",
-    "url": "https://ultraviolette.zohorecruit.in/jobs/Careers/89246000008521581/Battery-Cell-Model-Engineer-SoX-Algorithms?source=CareerSite",
+    "url": "https://ultraviolette.zohorecruit.in/jobs/Careers/89246000008521581/Battery-Cell-Model-Engineer-SoX-Algorithms-?source=CareerSite",
     "india": true,
     "locationSaysIndia": false,
     "hasLocation": false,
@@ -9283,7 +9391,7 @@
    {
     "title": "Sourcing & Development Engineer – Non-Metallics",
     "location": "",
-    "url": "https://ultraviolette.zohorecruit.in/jobs/Careers/89246000008217078/Sourcing-Development-Engineer-Non-Metallics?source=CareerSite",
+    "url": "https://ultraviolette.zohorecruit.in/jobs/Careers/89246000008217078/Sourcing-Development-Engineer-%E2%80%93-Non-Metallics?source=CareerSite",
     "india": true,
     "locationSaysIndia": false,
     "hasLocation": false,
@@ -9294,96 +9402,6 @@
     "exp": [],
     "expFits2": false,
     "score": 49
-   },
-   {
-    "title": "QT/QML Developer",
-    "location": "",
-    "url": "https://ultraviolette.zohorecruit.in/jobs/Careers/89246000008222042/QT-QML-Developer?source=CareerSite",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": true,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 49
-   },
-   {
-    "title": "Power Electronics Engineer",
-    "location": "",
-    "url": "https://ultraviolette.zohorecruit.in/jobs/Careers/89246000008222003/Power-Electronics-Engineer?source=CareerSite",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": true,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 49
-   },
-   {
-    "title": "Test Automation Engineer",
-    "location": "",
-    "url": "https://ultraviolette.zohorecruit.in/jobs/Careers/89246000008213181/Test-Automation-Engineer?source=CareerSite",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": true,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 49
-   },
-   {
-    "title": "Power Electronics Engineer",
-    "location": "",
-    "url": "https://ultraviolette.zohorecruit.in/jobs/Careers/89246000007052389/Power-Electronics-Engineer?source=CareerSite",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": true,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 49
-   },
-   {
-    "title": "Industralization Engineer",
-    "location": "",
-    "url": "https://ultraviolette.zohorecruit.in/jobs/Careers/89246000006256140/Industralization-Engineer?source=CareerSite",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": true,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 49
-   },
-   {
-    "title": "Senior Software Engineer – Android Camera & Cluster Platform",
-    "location": "",
-    "url": "https://ultraviolette.zohorecruit.in/jobs/Careers/89246000008222076/Senior-Software-Engineer-Android-Camera-Cluster-Platform?source=CareerSite",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": true,
-    "java": false,
-    "flutter": false,
-    "senior": true,
-    "exp": [],
-    "expFits2": false,
-    "score": 35
    },
    {
     "title": "CRM Associate",
@@ -9418,7 +9436,7 @@
    {
     "title": "Senior Engineer / Lead - Battery Management Systems",
     "location": "",
-    "url": "https://ultraviolette.zohorecruit.in/jobs/Careers/89246000001914204/Senior-Engineer-Lead-Battery-Management-Systems?source=CareerSite",
+    "url": "https://ultraviolette.zohorecruit.in/jobs/Careers/89246000001914204/Senior-Engineer-Lead---Battery-Management-Systems?source=CareerSite",
     "india": true,
     "locationSaysIndia": false,
     "hasLocation": false,
@@ -9433,7 +9451,7 @@
    {
     "title": "Principal Electronics Engineer - Embedded Hardware",
     "location": "",
-    "url": "https://ultraviolette.zohorecruit.in/jobs/Careers/89246000001750164/Principal-Electronics-Engineer-Embedded-Hardware?source=CareerSite",
+    "url": "https://ultraviolette.zohorecruit.in/jobs/Careers/89246000001750164/Principal-Electronics-Engineer---Embedded-Hardware?source=CareerSite",
     "india": true,
     "locationSaysIndia": false,
     "hasLocation": false,
@@ -9461,114 +9479,9 @@
     "score": 27
    },
    {
-    "title": "Senior Software Engineer - Bluetooth",
-    "location": "",
-    "url": "https://ultraviolette.zohorecruit.in/jobs/Careers/89246000008222118/Senior-Software-Engineer-Bluetooth?source=CareerSite",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": true,
-    "java": false,
-    "flutter": false,
-    "senior": true,
-    "exp": [],
-    "expFits2": false,
-    "score": 27
-   },
-   {
-    "title": "Lead Software Engineer - Website",
-    "location": "",
-    "url": "https://ultraviolette.zohorecruit.in/jobs/Careers/89246000008211039/Lead-Software-Engineer-Website?source=CareerSite",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": true,
-    "java": false,
-    "flutter": false,
-    "senior": true,
-    "exp": [],
-    "expFits2": false,
-    "score": 27
-   },
-   {
-    "title": "Senior Design Engineer",
-    "location": "",
-    "url": "https://ultraviolette.zohorecruit.in/jobs/Careers/89246000008179002/Senior-Design-Engineer?source=CareerSite",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": true,
-    "java": false,
-    "flutter": false,
-    "senior": true,
-    "exp": [],
-    "expFits2": false,
-    "score": 27
-   },
-   {
-    "title": "Lead Software Engineer - Rust",
-    "location": "",
-    "url": "https://ultraviolette.zohorecruit.in/jobs/Careers/89246000007803023/Lead-Software-Engineer-Rust?source=CareerSite",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": true,
-    "java": false,
-    "flutter": false,
-    "senior": true,
-    "exp": [],
-    "expFits2": false,
-    "score": 27
-   },
-   {
-    "title": "Senior Engineer QMS",
-    "location": "",
-    "url": "https://ultraviolette.zohorecruit.in/jobs/Careers/89246000007143055/Senior-Engineer-QMS?source=CareerSite",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": true,
-    "java": false,
-    "flutter": false,
-    "senior": true,
-    "exp": [],
-    "expFits2": false,
-    "score": 27
-   },
-   {
-    "title": "Senior Design Engineer",
-    "location": "",
-    "url": "https://ultraviolette.zohorecruit.in/jobs/Careers/89246000003311082/Senior-Design-Engineer?source=CareerSite",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": true,
-    "java": false,
-    "flutter": false,
-    "senior": true,
-    "exp": [],
-    "expFits2": false,
-    "score": 27
-   },
-   {
-    "title": "Senior Engineer - Electronics Sourcing",
-    "location": "",
-    "url": "https://ultraviolette.zohorecruit.in/jobs/Careers/89246000002636005/Senior-Engineer-Electronics-Sourcing?source=CareerSite",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": true,
-    "java": false,
-    "flutter": false,
-    "senior": true,
-    "exp": [],
-    "expFits2": false,
-    "score": 27
-   },
-   {
     "title": "UI/UX Designer — Web Experience",
     "location": "",
-    "url": "https://ultraviolette.zohorecruit.in/jobs/Careers/89246000008521592/UI-UX-Designer-Web-Experience?source=CareerSite",
+    "url": "https://ultraviolette.zohorecruit.in/jobs/Careers/89246000008521592/UI-UX-Designer-%E2%80%94-Web-Experience?source=CareerSite",
     "india": true,
     "locationSaysIndia": false,
     "hasLocation": false,
@@ -9579,161 +9492,11 @@
     "exp": [],
     "expFits2": false,
     "score": 19
-   },
-   {
-    "title": "Warranty Executive",
-    "location": "",
-    "url": "https://ultraviolette.zohorecruit.in/jobs/Careers/89246000008220045/Warranty-Executive?source=CareerSite",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 19
-   },
-   {
-    "title": "Sales Officer",
-    "location": "",
-    "url": "https://ultraviolette.zohorecruit.in/jobs/Careers/89246000008206179/Sales-Officer?source=CareerSite",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 19
-   },
-   {
-    "title": "Lead Automation Android",
-    "location": "",
-    "url": "https://ultraviolette.zohorecruit.in/jobs/Careers/89246000008013170/Lead-Automation-Android?source=CareerSite",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": true,
-    "exp": [],
-    "expFits2": false,
-    "score": 5
    },
    {
     "title": "Technical Program Manager – Charging Infrastructure",
     "location": "",
-    "url": "https://ultraviolette.zohorecruit.in/jobs/Careers/89246000008410021/Technical-Program-Manager-Charging-Infrastructure?source=CareerSite",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": true,
-    "exp": [],
-    "expFits2": false,
-    "score": -3
-   },
-   {
-    "title": "Technical Lead & Service Quality in-Charge – After Sales & Service",
-    "location": "",
-    "url": "https://ultraviolette.zohorecruit.in/jobs/Careers/89246000008220028/Technical-Lead-Service-Quality-in-Charge-After-Sales-Service?source=CareerSite",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": true,
-    "exp": [],
-    "expFits2": false,
-    "score": -3
-   },
-   {
-    "title": "Area Sales Manager - East",
-    "location": "",
-    "url": "https://ultraviolette.zohorecruit.in/jobs/Careers/89246000008206150/Area-Sales-Manager-East?source=CareerSite",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": true,
-    "exp": [],
-    "expFits2": false,
-    "score": -3
-   },
-   {
-    "title": "AM/Manager - Manufacturing Engineering",
-    "location": "",
-    "url": "https://ultraviolette.zohorecruit.in/jobs/Careers/89246000008206095/AM-Manager-Manufacturing-Engineering?source=CareerSite",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": true,
-    "exp": [],
-    "expFits2": false,
-    "score": -3
-   },
-   {
-    "title": "Asst. Manager / Manager – Logistics and Documentation (IB)",
-    "location": "",
-    "url": "https://ultraviolette.zohorecruit.in/jobs/Careers/89246000008206055/Asst-Manager-Manager-Logistics-and-Documentation-IB?source=CareerSite",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": true,
-    "exp": [],
-    "expFits2": false,
-    "score": -3
-   },
-   {
-    "title": "Senior Executive / Assistant Manager – Social Media (International Business)",
-    "location": "",
-    "url": "https://ultraviolette.zohorecruit.in/jobs/Careers/89246000008213007/Senior-Executive-Assistant-Manager-Social-Media-International-Business?source=CareerSite",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": true,
-    "exp": [],
-    "expFits2": false,
-    "score": -3
-   },
-   {
-    "title": "Deputy Manager - Process Excellence",
-    "location": "",
-    "url": "https://ultraviolette.zohorecruit.in/jobs/Careers/89246000008083133/Deputy-Manager-Process-Excellence?source=CareerSite",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": true,
-    "exp": [],
-    "expFits2": false,
-    "score": -3
-   },
-   {
-    "title": "Product Manager – Connected Vehicle",
-    "location": "",
-    "url": "https://ultraviolette.zohorecruit.in/jobs/Careers/89246000008013122/Product-Manager-Connected-Vehicle?source=CareerSite",
+    "url": "https://ultraviolette.zohorecruit.in/jobs/Careers/89246000008410021/Technical-Program-Manager-%E2%80%93-Charging-Infrastructure?source=CareerSite",
     "india": true,
     "locationSaysIndia": false,
     "hasLocation": false,
@@ -9822,7 +9585,7 @@
     "workable:ultraviolette -> no board"
    ]
   },
-  "ms": 9189
+  "ms": 7307
  },
  {
   "company": "Urban Ladder",
@@ -9875,7 +9638,7 @@
     "workable:urbanladder -> no board"
    ]
   },
-  "ms": 9841
+  "ms": 10253
  },
  {
   "company": "Uni Cards",
@@ -9894,7 +9657,7 @@
     {
      "url": "https://careers.uni.cards",
      "status": 403,
-     "bytes": 5706
+     "bytes": 5728
     },
     {
      "url": "https://uni.cards/careers",
@@ -9910,16 +9673,6 @@
      "url": "https://uni.cards/jobs",
      "status": 403,
      "bytes": 5710
-    },
-    {
-     "url": "https://uni.cards/join-us",
-     "status": 403,
-     "bytes": 5719
-    },
-    {
-     "url": "https://uni.cards/join-our-team",
-     "status": 403,
-     "bytes": 5737
     }
    ],
    "candidates": [
@@ -9937,7 +9690,7 @@
     "workable:unicards -> no board"
    ]
   },
-  "ms": 6320
+  "ms": 2995
  },
  {
   "company": "Ujjivan Small Finance Bank",
@@ -10041,7 +9794,7 @@
     "workable:ujjivansfb -> no board"
    ]
   },
-  "ms": 6058
+  "ms": 9126
  },
  {
   "company": "Utkarsh Small Finance Bank",
@@ -10082,7 +9835,7 @@
     {
      "url": "https://utkarsh.bank.in/jobs",
      "status": 404,
-     "bytes": 200430
+     "bytes": 200407
     }
    ],
    "candidates": [
@@ -10110,7 +9863,7 @@
     "workable:utkarsh -> no board"
    ]
   },
-  "ms": 18077
+  "ms": 18068
  },
  {
   "company": "U GRO Capital",
@@ -10141,7 +9894,7 @@
     {
      "url": "https://ugrocapital.com/careers",
      "status": 200,
-     "bytes": 172326
+     "bytes": 172506
     },
     {
      "url": "https://ugrocapital.com/career",
@@ -10164,7 +9917,7 @@
     "workable:ugrocapital -> no board"
    ]
   },
-  "ms": 8302
+  "ms": 8862
  },
  {
   "company": "UTI Asset Management",
@@ -10318,7 +10071,7 @@
     "workable:utimf -> no board"
    ]
   },
-  "ms": 7845
+  "ms": 6085
  },
  {
   "company": "Union Bank of India",
@@ -10477,7 +10230,7 @@
     "workable:unionbankofindia -> no board"
    ]
   },
-  "ms": 37822
+  "ms": 40646
  },
  {
   "company": "Uno Minda",
@@ -10518,8 +10271,8 @@
     "score": 19
    },
    {
-    "title": "Maintenance/Officer",
-    "location": "UML Lighting Manesar, Manesar, Haryana\r, India",
+    "title": "Senior Officer",
+    "location": "Uno Minda Limited - Seating Division, Nalagarh, Himachal Pradesh\r, India",
     "url": "https://www.unominda.com/career",
     "india": true,
     "locationSaysIndia": true,
@@ -10527,10 +10280,10 @@
     "isEng": false,
     "java": false,
     "flutter": false,
-    "senior": false,
+    "senior": true,
     "exp": [],
     "expFits2": false,
-    "score": 19
+    "score": -3
    },
    {
     "title": "Assistant Manager",
@@ -10664,7 +10417,7 @@
     "workable:unominda -> no board"
    ]
   },
-  "ms": 6753
+  "ms": 4959
  },
  {
   "company": "UPL Limited",
@@ -11041,6 +10794,30 @@
     "score": -22
    },
    {
+    "title": "Sr Manager, Sales & Marketing",
+    "location": "Amarillo, Colorado, United States",
+    "url": "https://careers.upl-ltd.com/job/Amarillo-Sr-Manager%2C-Sales-&-Marketing-Colo/1361416266/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [
+     [
+      8,
+      10
+     ],
+     [
+      10,
+      14
+     ]
+    ],
+    "expFits2": false,
+    "score": -22
+   },
+   {
     "title": "Customer Service & Data Lead NA",
     "location": "Cary, North Carolina, United States",
     "url": "https://careers.upl-ltd.com/job/Cary-Customer-Service-&-Data-Lead-NA-Nort/1362501066/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
@@ -11211,26 +10988,6 @@
     ],
     "expFits2": false,
     "score": -22
-   },
-   {
-    "title": "Demand Planning Manager, US Ag & B2B",
-    "location": "FIELD, North Carolina, United States",
-    "url": "https://careers.upl-ltd.com/job/FIELD-Demand-Planning-Manager%2C-US-Ag-&-B2B-Nort/1363097866/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": true,
-    "exp": [
-     [
-      8,
-      12
-     ]
-    ],
-    "expFits2": false,
-    "score": -22
    }
   ],
   "enriched": 0,
@@ -11302,7 +11059,7 @@
     {
      "url": "https://upl-ltd.com/careers",
      "status": 200,
-     "bytes": 74821
+     "bytes": 74822
     },
     {
      "url": "https://upl-ltd.com/career",
@@ -11337,7 +11094,7 @@
     "successfactors:careers.upl-ltd.com -> 27 jobs"
    ]
   },
-  "ms": 6092
+  "ms": 6513
  },
  {
   "company": "Uniqus Consultech",
@@ -11413,7 +11170,7 @@
     "workable:uniqus -> no board"
    ]
   },
-  "ms": 23922
+  "ms": 27692
  },
  {
   "company": "Unicommerce eSolutions",
@@ -11469,141 +11226,16 @@
     "score": 19
    }
   ],
-  "enriched": 1,
+  "enriched": 0,
   "matches": [],
   "nearMatches": [],
-  "closest": {
-   "title": "Lead Software Engineer - Backend",
-   "location": "Gurugram",
-   "url": "https://unicommerce.keka.com/careers/jobdetails/54313",
-   "team": "",
-   "text": "Lead Software Engineer - Backend UNICOMMERCE ESOLUTIONS LIMITED Lead Software Engineer - Backend 6 - 8 yrs Gurugram Full-Time java backend lead Apply for this job Share with someone awesome View all job openings",
-   "_enriched": true,
-   "score": 48,
-   "isMatch": false,
-   "isEng": true,
-   "java": true,
-   "flutter": false,
-   "android": false,
-   "india": true,
-   "senior": true,
-   "junior": false,
-   "intern": false,
-   "exp": [
-    [
-     6,
-     8
-    ]
-   ],
-   "expFits2": false
-  },
-  "closestEng": {
-   "title": "Lead Software Engineer - Backend",
-   "location": "Gurugram",
-   "url": "https://unicommerce.keka.com/careers/jobdetails/54313",
-   "team": "",
-   "text": "Lead Software Engineer - Backend UNICOMMERCE ESOLUTIONS LIMITED Lead Software Engineer - Backend 6 - 8 yrs Gurugram Full-Time java backend lead Apply for this job Share with someone awesome View all job openings",
-   "_enriched": true,
-   "score": 48,
-   "isMatch": false,
-   "isEng": true,
-   "java": true,
-   "flutter": false,
-   "android": false,
-   "india": true,
-   "senior": true,
-   "junior": false,
-   "intern": false,
-   "exp": [
-    [
-     6,
-     8
-    ]
-   ],
-   "expFits2": false
-  },
+  "closest": null,
+  "closestEng": null,
   "trace": {
-   "pages": [
-    {
-     "url": "https://unicommerce.com/life-at-unicommerce/",
-     "status": 200,
-     "bytes": 397769
-    },
-    {
-     "url": "https://careers.unicommerce.com",
-     "status": 0,
-     "bytes": 0,
-     "error": "fetch failed"
-    },
-    {
-     "url": "https://unicommerce.com/careers",
-     "status": 200,
-     "bytes": 397769
-    },
-    {
-     "url": "https://unicommerce.com/career",
-     "status": 200,
-     "bytes": 397769
-    },
-    {
-     "url": "https://unicommerce.com/jobs",
-     "status": 404,
-     "bytes": 287839
-    },
-    {
-     "url": "https://unicommerce.com/join-us",
-     "status": 404,
-     "bytes": 287839
-    },
-    {
-     "url": "https://unicommerce.com/join-our-team",
-     "status": 404,
-     "bytes": 287839
-    },
-    {
-     "url": "https://unicommerce.com/careers.html",
-     "status": 404,
-     "bytes": 287839
-    },
-    {
-     "url": "https://unicommerce.com/company/careers",
-     "status": 404,
-     "bytes": 287839
-    },
-    {
-     "url": "https://unicommerce.com/about/careers",
-     "status": 404,
-     "bytes": 287839
-    },
-    {
-     "url": "https://unicommerce.com/current-openings",
-     "status": 404,
-     "bytes": 287839
-    },
-    {
-     "url": "https://unicommerce.com/",
-     "status": 200,
-     "bytes": 475972
-    }
-   ],
-   "candidates": [
-    "keka:unicommerce(html)",
-    "greenhouse:unicommerceesolutions(guess)",
-    "lever:unicommerceesolutions(guess)",
-    "ashby:unicommerceesolutions(guess)",
-    "recruitee:unicommerceesolutions(guess)",
-    "workable:unicommerceesolutions(guess)",
-    "greenhouse:unicommerce(guess)",
-    "lever:unicommerce(guess)",
-    "ashby:unicommerce(guess)",
-    "recruitee:unicommerce(guess)",
-    "workable:unicommerce(guess)"
-   ],
-   "attempts": [
-    "keka:unicommerce -> 2 jobs"
-   ]
+   "pages": [],
+   "attempts": []
   },
-  "ms": 16338
+  "ms": 90003
  },
  {
   "company": "UnifyApps",
@@ -11656,7 +11288,7 @@
     "workable:unifyapps -> no board"
    ]
   },
-  "ms": 3517
+  "ms": 3895
  },
  {
   "company": "Uniqode",
@@ -11808,7 +11440,7 @@
     "workable:uniqode -> no board"
    ]
   },
-  "ms": 17842
+  "ms": 18139
  },
  {
   "company": "Unolo",
@@ -11962,7 +11594,7 @@
     "workable:unolo -> no board"
    ]
   },
-  "ms": 3227
+  "ms": 3075
  },
  {
   "company": "UptimeAI",
@@ -12389,7 +12021,7 @@
     "ashby:uptimeai -> 10 jobs (guess, name-verified)"
    ]
   },
-  "ms": 23260
+  "ms": 23909
  },
  {
   "company": "Unbox Robotics",
@@ -12397,7 +12029,7 @@
   "careers": "https://unboxrobotics.com/careers/",
   "source": "rendered",
   "error": null,
-  "totalJobs": 29,
+  "totalJobs": 30,
   "jobs": [
    {
     "title": "Solution Design Engineer",
@@ -12981,6 +12613,21 @@
     "score": 4
    },
    {
+    "title": "Engineering Manager",
+    "location": "Pune",
+    "url": "https://unboxrobotics.keka.com/careers/jobdetails/133786",
+    "india": true,
+    "locationSaysIndia": true,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [],
+    "expFits2": false,
+    "score": -3
+   },
+   {
     "title": "Senior Executive – Growth Marketing",
     "location": "Pune",
     "url": "https://unboxrobotics.keka.com/careers/jobdetails/130911",
@@ -13175,7 +12822,7 @@
     "workable:unboxrobotics -> no board"
    ]
   },
-  "ms": 3417
+  "ms": 3197
  },
  {
   "company": "uTrade Solutions",
@@ -13339,7 +12986,7 @@
     "workable:utradesolutions -> no board"
    ]
   },
-  "ms": 11986
+  "ms": 13370
  },
  {
   "company": "Unimity Solutions",
@@ -13418,7 +13065,7 @@
     "workable:unimity -> no board"
    ]
   },
-  "ms": 3159
+  "ms": 18492
  },
  {
   "company": "U2opia Mobile",
@@ -13587,7 +13234,7 @@
     "workable:u2opia -> no board"
    ]
   },
-  "ms": 14838
+  "ms": 14729
  },
  {
   "company": "UnitedLex",
@@ -13761,7 +13408,7 @@
     "workable:unitedlex -> no board"
    ]
   },
-  "ms": 14684
+  "ms": 15933
  },
  {
   "company": "Uolo",
@@ -13910,7 +13557,7 @@
     "workable:uolo -> no board"
    ]
   },
-  "ms": 3950
+  "ms": 4147
  },
  {
   "company": "uFaber Edutech",
@@ -14064,7 +13711,7 @@
     "workable:ufaber -> no board"
    ]
   },
-  "ms": 6208
+  "ms": 4770
  },
  {
   "company": "Urbanic",
@@ -14089,52 +13736,52 @@
     {
      "url": "https://urbanic.com/careers",
      "status": 200,
-     "bytes": 62044
+     "bytes": 62046
     },
     {
      "url": "https://urbanic.com/career",
      "status": 200,
-     "bytes": 62046
+     "bytes": 62044
     },
     {
      "url": "https://urbanic.com/jobs",
      "status": 200,
-     "bytes": 62047
+     "bytes": 62045
     },
     {
      "url": "https://urbanic.com/join-us",
      "status": 200,
-     "bytes": 62040
+     "bytes": 62045
     },
     {
      "url": "https://urbanic.com/join-our-team",
      "status": 200,
-     "bytes": 62046
+     "bytes": 62045
     },
     {
      "url": "https://urbanic.com/careers.html",
      "status": 200,
-     "bytes": 62043
+     "bytes": 62047
     },
     {
      "url": "https://urbanic.com/company/careers",
      "status": 200,
-     "bytes": 62044
+     "bytes": 62046
     },
     {
      "url": "https://urbanic.com/about/careers",
      "status": 200,
-     "bytes": 62038
+     "bytes": 62044
     },
     {
      "url": "https://urbanic.com/current-openings",
      "status": 200,
-     "bytes": 62038
+     "bytes": 62039
     },
     {
      "url": "https://urbanic.com/",
      "status": 200,
-     "bytes": 62047
+     "bytes": 62044
     },
     {
      "url": "https://careers.www.urbanic.com",
@@ -14145,12 +13792,12 @@
     {
      "url": "https://www.urbanic.com/careers",
      "status": 200,
-     "bytes": 62047
+     "bytes": 62045
     },
     {
      "url": "https://www.urbanic.com/career",
      "status": 200,
-     "bytes": 62047
+     "bytes": 62044
     },
     {
      "url": "https://www.urbanic.com/jobs",
@@ -14160,32 +13807,32 @@
     {
      "url": "https://www.urbanic.com/join-us",
      "status": 200,
-     "bytes": 62044
+     "bytes": 62040
     },
     {
      "url": "https://www.urbanic.com/join-our-team",
      "status": 200,
-     "bytes": 62044
+     "bytes": 62046
     },
     {
      "url": "https://www.urbanic.com/careers.html",
      "status": 200,
-     "bytes": 62047
+     "bytes": 62046
     },
     {
      "url": "https://www.urbanic.com/company/careers",
      "status": 200,
-     "bytes": 62047
+     "bytes": 62044
     },
     {
      "url": "https://www.urbanic.com/about/careers",
      "status": 200,
-     "bytes": 62046
+     "bytes": 62040
     },
     {
      "url": "https://www.urbanic.com/current-openings",
      "status": 200,
-     "bytes": 62046
+     "bytes": 62044
     },
     {
      "url": "https://www.urbanic.com/",
@@ -14208,7 +13855,7 @@
     "workable:urbanic -> no board"
    ]
   },
-  "ms": 6547
+  "ms": 7868
  },
  {
   "company": "USEReady",
@@ -14227,12 +13874,12 @@
     {
      "url": "https://careers.useready.com",
      "status": 200,
-     "bytes": 40028
+     "bytes": 40031
     },
     {
      "url": "https://useready.com/careers",
      "status": 200,
-     "bytes": 40032
+     "bytes": 40031
     },
     {
      "url": "https://useready.com/career",
@@ -14247,7 +13894,7 @@
     {
      "url": "https://useready.com/join-us",
      "status": 200,
-     "bytes": 107559
+     "bytes": 107563
     }
    ],
    "candidates": [
@@ -14265,7 +13912,7 @@
     "workable:useready -> no board"
    ]
   },
-  "ms": 47168
+  "ms": 40052
  },
  {
   "company": "Upland Software",
@@ -14401,7 +14048,7 @@
     "workable:uplandsoftware -> no board"
    ]
   },
-  "ms": 19405
+  "ms": 18447
  },
  {
   "company": "Unravel Data",
@@ -14574,7 +14221,7 @@
     "workable:unraveldata -> no board"
    ]
   },
-  "ms": 14376
+  "ms": 14088
  },
  {
   "company": "Uptycs",
@@ -14763,7 +14410,7 @@
     "workable:uptycs -> no board"
    ]
   },
-  "ms": 34602
+  "ms": 26514
  },
  {
   "company": "Unity Technologies",
@@ -14852,12 +14499,12 @@
     {
      "url": "https://unity.com/careers",
      "status": 200,
-     "bytes": 369998
+     "bytes": 370019
     },
     {
      "url": "https://careers.unity.com",
      "status": 200,
-     "bytes": 369998
+     "bytes": 370019
     },
     {
      "url": "https://unity.com/career",
@@ -14895,7 +14542,7 @@
     "workable:unity -> no board"
    ]
   },
-  "ms": 10317
+  "ms": 8134
  },
  {
   "company": "UBS",
@@ -14941,7 +14588,7 @@
    "candidates": [],
    "attempts": []
   },
-  "ms": 10895
+  "ms": 12157
  },
  {
   "company": "UKG",
@@ -14949,7 +14596,7 @@
   "careers": "https://www.ukg.com/company/careers",
   "source": "sitemap:https://apply.ukg.com",
   "error": null,
-  "totalJobs": 34,
+  "totalJobs": 32,
   "jobs": [
    {
     "title": "Staff Software Engineer (Agentic AI)",
@@ -14976,26 +14623,6 @@
     "score": 63
    },
    {
-    "title": "Software Engineer III- Java & AI",
-    "location": "Noida, UP,IN",
-    "url": "http://apply.ukg.com/careers/job/893396040041-software-engineer-iii-java-ai-noida-up-india?domain=ukg.com",
-    "india": true,
-    "locationSaysIndia": true,
-    "hasLocation": true,
-    "isEng": true,
-    "java": true,
-    "flutter": false,
-    "senior": true,
-    "exp": [
-     [
-      4,
-      8
-     ]
-    ],
-    "expFits2": false,
-    "score": 60
-   },
-   {
     "title": "Software Engineer III- Eng",
     "location": "Noida, UP,IN",
     "url": "http://apply.ukg.com/careers/job/893395237964-software-engineer-iii-eng-noida-up-india?domain=ukg.com",
@@ -15016,37 +14643,9 @@
     "score": 60
    },
    {
-    "title": "Software Engineer III- Eng",
-    "location": "Noida, UP,IN",
-    "url": "http://apply.ukg.com/careers/job/893395537213-software-engineer-iii-eng-noida-up-india?domain=ukg.com",
-    "india": true,
-    "locationSaysIndia": true,
-    "hasLocation": true,
-    "isEng": true,
-    "java": false,
-    "flutter": false,
-    "senior": true,
-    "exp": [
-     [
-      5,
-      7
-     ],
-     [
-      7,
-      11
-     ],
-     [
-      2,
-      6
-     ]
-    ],
-    "expFits2": true,
-    "score": 53
-   },
-   {
-    "title": "Benefits Administrator II",
-    "location": "Noida, UP,IN",
-    "url": "http://apply.ukg.com/careers/job/893395803015-benefits-administrator-ii-noida-up-india?domain=ukg.com",
+    "title": "Benefits Systems Consultant I",
+    "location": "Pune, MH,IN",
+    "url": "http://apply.ukg.com/careers/job/893395295584-benefits-systems-consultant-i-pune-city-india?domain=ukg.com",
     "india": true,
     "locationSaysIndia": true,
     "hasLocation": true,
@@ -15058,14 +14657,60 @@
      [
       1,
       3
-     ],
-     [
-      3,
-      4
      ]
     ],
     "expFits2": true,
-    "score": 45
+    "score": 57
+   },
+   {
+    "title": "Staff Software Engineer- Eng",
+    "location": "Noida, UP,IN",
+    "url": "http://apply.ukg.com/careers/job/893395317587-staff-software-engineer-eng-noida-up-india?domain=ukg.com",
+    "india": true,
+    "locationSaysIndia": true,
+    "hasLocation": true,
+    "isEng": true,
+    "java": true,
+    "flutter": false,
+    "senior": true,
+    "exp": [],
+    "expFits2": false,
+    "score": 52
+   },
+   {
+    "title": "Staff Software Engineer- Eng",
+    "location": "Noida, UP,IN",
+    "url": "http://apply.ukg.com/careers/job/893395317590-staff-software-engineer-eng-noida-up-india?domain=ukg.com",
+    "india": true,
+    "locationSaysIndia": true,
+    "hasLocation": true,
+    "isEng": true,
+    "java": true,
+    "flutter": false,
+    "senior": true,
+    "exp": [],
+    "expFits2": false,
+    "score": 52
+   },
+   {
+    "title": "Software Engineer III- Eng",
+    "location": "Pune, MH,IN",
+    "url": "http://apply.ukg.com/careers/job/893395277566-software-engineer-iii-eng-pune-city-india?domain=ukg.com",
+    "india": true,
+    "locationSaysIndia": true,
+    "hasLocation": true,
+    "isEng": true,
+    "java": true,
+    "flutter": false,
+    "senior": true,
+    "exp": [
+     [
+      6,
+      10
+     ]
+    ],
+    "expFits2": false,
+    "score": 48
    },
    {
     "title": "Customer Experience Analyst",
@@ -15104,49 +14749,9 @@
     "score": 45
    },
    {
-    "title": "Software Engineer III- Eng (.Net + AI)",
-    "location": "Noida, UP,IN",
-    "url": "http://apply.ukg.com/careers/job/893396415897-software-engineer-iii-eng-net-ai--noida-up-india?domain=ukg.com",
-    "india": true,
-    "locationSaysIndia": true,
-    "hasLocation": true,
-    "isEng": true,
-    "java": false,
-    "flutter": false,
-    "senior": true,
-    "exp": [
-     [
-      4,
-      8
-     ]
-    ],
-    "expFits2": false,
-    "score": 35
-   },
-   {
-    "title": "Software Engineer III- Eng - {.Net + AI}",
-    "location": "Noida, UP,IN",
-    "url": "http://apply.ukg.com/careers/job/893396486776-software-engineer-iii-eng-net-ai--noida-up-india?domain=ukg.com",
-    "india": true,
-    "locationSaysIndia": true,
-    "hasLocation": true,
-    "isEng": true,
-    "java": false,
-    "flutter": false,
-    "senior": true,
-    "exp": [
-     [
-      4,
-      8
-     ]
-    ],
-    "expFits2": false,
-    "score": 35
-   },
-   {
-    "title": "Staff Site Reliability Engineer- Eng",
+    "title": "Software Engineer III (DevOps)",
     "location": "Lowell, MA,US",
-    "url": "http://apply.ukg.com/careers/job/893393972206-staff-site-reliability-engineer-eng-lowell-ma-united-states?domain=ukg.com",
+    "url": "http://apply.ukg.com/careers/job/893395396388-software-engineer-iii-devops--lowell-ma-united-states?domain=ukg.com",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
@@ -15156,17 +14761,37 @@
     "senior": true,
     "exp": [
      [
-      5,
-      9
+      4,
+      8
      ]
     ],
     "expFits2": false,
-    "score": 33
+    "score": 45
    },
    {
-    "title": "ACCOUNT EXECUTIVE",
-    "location": ",",
-    "url": "http://apply.ukg.com/careers/job/893395048304-account-executive-united-states?domain=ukg.com",
+    "title": "Site Reliability Engineer III - Eng",
+    "location": ", County Kilkenny,IE",
+    "url": "http://apply.ukg.com/careers/job/893395768282-site-reliability-engineer-iii-eng-kilkenny-n9-ireland?domain=ukg.com",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": true,
+    "java": true,
+    "flutter": false,
+    "senior": true,
+    "exp": [
+     [
+      4,
+      8
+     ]
+    ],
+    "expFits2": false,
+    "score": 45
+   },
+   {
+    "title": "Payroll Associate with Spanish",
+    "location": "Varna, Varna,BG",
+    "url": "http://apply.ukg.com/careers/job/893395599895-payroll-associate-with-spanish-varna-bulgaria?domain=ukg.com",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
@@ -15178,10 +14803,34 @@
      [
       1,
       3
+     ],
+     [
+      3,
+      4
      ]
     ],
     "expFits2": true,
-    "score": 30
+    "score": 42
+   },
+   {
+    "title": "Staff Software Engineer- Eng",
+    "location": "Sunrise, FL,US",
+    "url": "http://apply.ukg.com/careers/job/893395776854-staff-software-engineer-eng-sunrise-fl-united-states?domain=ukg.com",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": true,
+    "java": true,
+    "flutter": false,
+    "senior": true,
+    "exp": [
+     [
+      8,
+      12
+     ]
+    ],
+    "expFits2": false,
+    "score": 33
    },
    {
     "title": "Software Engineer III- .Net Fullstack",
@@ -15197,26 +14846,6 @@
     "exp": [],
     "expFits2": false,
     "score": 27
-   },
-   {
-    "title": "Account Manager II",
-    "location": "Noida, UP,IN",
-    "url": "http://apply.ukg.com/careers/job/893395765082-account-manager-ii-noida-up-india?domain=ukg.com",
-    "india": true,
-    "locationSaysIndia": true,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": true,
-    "exp": [
-     [
-      2,
-      3
-     ]
-    ],
-    "expFits2": true,
-    "score": 23
    },
    {
     "title": "Staff Software Engineer- Eng ( Angular+ .Net )",
@@ -15236,6 +14865,26 @@
      ]
     ],
     "expFits2": false,
+    "score": 23
+   },
+   {
+    "title": "Account Manager II",
+    "location": "Noida, UP,IN",
+    "url": "http://apply.ukg.com/careers/job/893395765643-account-manager-ii-noida-up-india?domain=ukg.com",
+    "india": true,
+    "locationSaysIndia": true,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [
+     [
+      2,
+      3
+     ]
+    ],
+    "expFits2": true,
     "score": 23
    },
    {
@@ -15259,89 +14908,6 @@
     "score": 20
    },
    {
-    "title": "Revenue Accountant",
-    "location": "Lowell, MA,US",
-    "url": "http://apply.ukg.com/careers/job/893394938420-revenue-accountant-lowell-ma-united-states?domain=ukg.com",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [
-     [
-      3,
-      7
-     ]
-    ],
-    "expFits2": false,
-    "score": 12
-   },
-   {
-    "title": "Enterprise Account Executive",
-    "location": ",",
-    "url": "http://apply.ukg.com/careers/job/893395462146-enterprise-account-executive-united-states?domain=ukg.com",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [
-     [
-      5,
-      7
-     ],
-     [
-      7,
-      11
-     ],
-     [
-      3,
-      7
-     ]
-    ],
-    "expFits2": false,
-    "score": 12
-   },
-   {
-    "title": "Software Engineer III- Eng",
-    "location": "Sunrise, FL,US",
-    "url": "http://apply.ukg.com/careers/job/893396023210-software-engineer-iii-eng-sunrise-fl-united-states?domain=ukg.com",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": true,
-    "java": false,
-    "flutter": false,
-    "senior": true,
-    "exp": [],
-    "expFits2": false,
-    "score": 12
-   },
-   {
-    "title": "SALES EXECUTIVE",
-    "location": ",",
-    "url": "http://apply.ukg.com/careers/job/893396865893-sales-executive-united-states?domain=ukg.com",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [
-     [
-      3,
-      5
-     ]
-    ],
-    "expFits2": false,
-    "score": 12
-   },
-   {
     "title": "SALES EXECUTIVE",
     "location": ",",
     "url": "http://apply.ukg.com/careers/job/893395227348-sales-executive-united-states?domain=ukg.com",
@@ -15362,9 +14928,24 @@
     "score": 12
    },
    {
-    "title": "Product Manager II",
-    "location": "Sunrise, FL,US",
-    "url": "http://apply.ukg.com/careers/job/893395200810-product-manager-ii-sunrise-fl-united-states?domain=ukg.com",
+    "title": "Sr. Staff Cloud Resilience Engineer - Security",
+    "location": "Atlanta, GA,US",
+    "url": "http://apply.ukg.com/careers/job/893395792359-sr-staff-cloud-resilience-engineer-security-atlanta-ga-united-states?domain=ukg.com",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": true,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [],
+    "expFits2": false,
+    "score": 12
+   },
+   {
+    "title": "Bilingual Sr Business Development Representative (French/English)",
+    "location": ",",
+    "url": "http://apply.ukg.com/careers/job/893395691146-bilingual-sr-business-development-representative-french-english--canada?domain=ukg.com",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
@@ -15376,30 +14957,19 @@
      [
       2,
       6
+     ],
+     [
+      1,
+      2
      ]
     ],
     "expFits2": true,
     "score": 8
    },
    {
-    "title": "Enterprise Sales Executive",
-    "location": "Paris, Île-de-France,FR",
-    "url": "http://apply.ukg.com/careers/job/893392036282-enterprise-sales-executive-paris-na-france?domain=ukg.com",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 4
-   },
-   {
-    "title": "Lead Product Manager",
-    "location": "Bengaluru, KA,IN",
-    "url": "http://apply.ukg.com/careers/job/893396762335-lead-product-manager-bangalore-inka-india?domain=ukg.com",
+    "title": "Staff Cloud FinOps Analyst- Eng",
+    "location": "Noida, UP,IN",
+    "url": "http://apply.ukg.com/careers/job/893395600764-staff-cloud-finops-analyst-eng-noida-up-india?domain=ukg.com",
     "india": true,
     "locationSaysIndia": true,
     "hasLocation": true,
@@ -15409,12 +14979,40 @@
     "senior": true,
     "exp": [
      [
-      8,
-      12
+      3,
+      7
      ]
     ],
     "expFits2": false,
-    "score": -7
+    "score": 5
+   },
+   {
+    "title": "Senior Workplace Services Coordinator (Events & Food)",
+    "location": "Noida, UP,IN",
+    "url": "http://apply.ukg.com/careers/job/893395797979-senior-workplace-services-coordinator-events-food--noida-up-india?domain=ukg.com",
+    "india": true,
+    "locationSaysIndia": true,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [
+     [
+      10,
+      14
+     ],
+     [
+      4,
+      8
+     ],
+     [
+      4,
+      5
+     ]
+    ],
+    "expFits2": false,
+    "score": 5
    },
    {
     "title": "Sr Solution Consultant- WFM Implementation",
@@ -15444,6 +15042,30 @@
     "title": "Lead Integration Consultant - Boomi + WFM/WFD",
     "location": "Noida, UP,IN",
     "url": "http://apply.ukg.com/careers/job/893395260707-lead-integration-consultant-boomi-wfm-wfd-noida-up-india?domain=ukg.com",
+    "india": true,
+    "locationSaysIndia": true,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [
+     [
+      8,
+      10
+     ],
+     [
+      10,
+      11
+     ]
+    ],
+    "expFits2": false,
+    "score": -7
+   },
+   {
+    "title": "Sr Services Project Manager",
+    "location": "Pune, MH,IN",
+    "url": "http://apply.ukg.com/careers/job/893395485059-sr-services-project-manager-pune-city-india?domain=ukg.com",
     "india": true,
     "locationSaysIndia": true,
     "hasLocation": true,
@@ -15533,9 +15155,9 @@
     "score": -10
    },
    {
-    "title": "Mid-Market Customer Account Manager",
-    "location": ",",
-    "url": "http://apply.ukg.com/careers/job/893396186802-mid-market-customer-account-manager-united-states?domain=ukg.com",
+    "title": "Sr Business Development Representative, Austin TX, Denver, CO",
+    "location": "Austin, TX,US",
+    "url": "http://apply.ukg.com/careers/job/893395288847-sr-business-development-representative-austin-tx-denver-co-austin-tx-united-states?domain=ukg.com",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
@@ -15543,9 +15165,14 @@
     "java": false,
     "flutter": false,
     "senior": true,
-    "exp": [],
+    "exp": [
+     [
+      3,
+      7
+     ]
+    ],
     "expFits2": false,
-    "score": -18
+    "score": -10
    },
    {
     "title": "Principal Sales Enablement Program Manager",
@@ -15561,66 +15188,6 @@
     "exp": [],
     "expFits2": false,
     "score": -18
-   },
-   {
-    "title": "Lead AI Product Manager, Workforce Management Products",
-    "location": "Lowell, MA,US",
-    "url": "http://apply.ukg.com/careers/job/893394479549-lead-ai-product-manager-workforce-management-products-lowell-ma-united-states?domain=ukg.com",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": true,
-    "exp": [
-     [
-      5,
-      9
-     ]
-    ],
-    "expFits2": false,
-    "score": -22
-   },
-   {
-    "title": "Lead Product Manager",
-    "location": "Lowell, MA,US",
-    "url": "http://apply.ukg.com/careers/job/893394939412-lead-product-manager-lowell-ma-united-states?domain=ukg.com",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": true,
-    "exp": [
-     [
-      5,
-      9
-     ]
-    ],
-    "expFits2": false,
-    "score": -22
-   },
-   {
-    "title": "Principal Technical Program Manager- Eng",
-    "location": "Seattle, WA,US",
-    "url": "http://apply.ukg.com/careers/job/893395705108-principal-technical-program-manager-eng-seattle-wa-united-states?domain=ukg.com",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": true,
-    "exp": [
-     [
-      10,
-      14
-     ]
-    ],
-    "expFits2": false,
-    "score": -22
    },
    {
     "title": "Staff AI FinOps Governance Lead",
@@ -15657,6 +15224,46 @@
      [
       7,
       11
+     ]
+    ],
+    "expFits2": false,
+    "score": -22
+   },
+   {
+    "title": "Sr Business Systems Analyst",
+    "location": ",",
+    "url": "http://apply.ukg.com/careers/job/893396004990-sr-business-systems-analyst-united-states?domain=ukg.com",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [
+     [
+      5,
+      9
+     ]
+    ],
+    "expFits2": false,
+    "score": -22
+   },
+   {
+    "title": "Global Trade Compliance Manager",
+    "location": "Lowell, MA,US",
+    "url": "http://apply.ukg.com/careers/job/893396051438-global-trade-compliance-manager-lowell-ma-united-states?domain=ukg.com",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [
+     [
+      5,
+      8
      ]
     ],
     "expFits2": false,
@@ -15743,7 +15350,7 @@
    "candidates": [],
    "attempts": []
   },
-  "ms": 28565
+  "ms": 24455
  },
  {
   "company": "UPS",
@@ -15784,7 +15391,7 @@
     {
      "url": "https://ups.com/jobs",
      "status": 200,
-     "bytes": 14429
+     "bytes": 14430
     },
     {
      "url": "https://ups.com/join-us",
@@ -15819,13 +15426,13 @@
     {
      "url": "https://ups.com/",
      "status": 200,
-     "bytes": 47860
+     "bytes": 47862
     }
    ],
    "candidates": [],
    "attempts": []
   },
-  "ms": 26793
+  "ms": 36987
  },
  {
   "company": "Unilever",
@@ -15835,6 +15442,21 @@
   "error": null,
   "totalJobs": 40,
   "jobs": [
+   {
+    "title": "Digital Factory Deploy Engineer",
+    "location": "Manila, Philippines",
+    "url": "https://unilever.wd3.myworkdayjobs.com/Unilever_Experienced_Professionals/job/Manila-Philippines/Digital-Factory-Deploy-Engineer_R-1186459",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": true,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 34
+   },
    {
     "title": "Territory Sales Officer",
     "location": "Remote - Chennai Regional Office",
@@ -15851,24 +15473,9 @@
     "score": 19
    },
    {
-    "title": "Hospital Account Executive",
-    "location": "CHC-Remote Chennai Regional Office",
-    "url": "https://unilever.wd3.myworkdayjobs.com/Unilever_Experienced_Professionals/job/CHC-Remote-Chennai-Regional-Office/Hospital-Account-Executive_R-1186463-1",
-    "india": true,
-    "locationSaysIndia": true,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 19
-   },
-   {
-    "title": "Promotor Merchandising",
-    "location": "Recife, Brazil",
-    "url": "https://unilever.wd3.myworkdayjobs.com/Unilever_Experienced_Professionals/job/Recife-Brazil/Promotor-Merchandising_R-1186588",
+    "title": "SHE Supervisor - Gateway",
+    "location": "Chachoengsao Province, Thailand",
+    "url": "https://unilever.wd3.myworkdayjobs.com/Unilever_Experienced_Professionals/job/Chachoengsao-Province-Thailand/SHE-Supervisor---Gateway_R-1184397",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
@@ -15881,9 +15488,24 @@
     "score": 4
    },
    {
-    "title": "Promotor De Merchandising",
-    "location": "Brasília, Brazil",
-    "url": "https://unilever.wd3.myworkdayjobs.com/Unilever_Experienced_Professionals/job/Braslia-Brazil/Promotor-De-Merchandising_R-1185467",
+    "title": "Artwork Production Specialist",
+    "location": "Tangerang, Indonesia",
+    "url": "https://unilever.wd3.myworkdayjobs.com/Unilever_Experienced_Professionals/job/Tangerang-Indonesia/Artwork-Production-Specialist_R-1186307",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 4
+   },
+   {
+    "title": "AASM Padang",
+    "location": "Padang, Indonesia",
+    "url": "https://unilever.wd3.myworkdayjobs.com/Unilever_Experienced_Professionals/job/Padang-Indonesia/AASM-Padang_R-1186198",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
@@ -15974,21 +15596,6 @@
     "title": "Promotor De Merchandising",
     "location": "Curitiba, Brazil",
     "url": "https://unilever.wd3.myworkdayjobs.com/Unilever_Experienced_Professionals/job/Curitiba-Brazil/Promotor-De-Merchandising_R-1186350",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 4
-   },
-   {
-    "title": "Promotor De Merchandising",
-    "location": "São Paulo, Brazil",
-    "url": "https://unilever.wd3.myworkdayjobs.com/Unilever_Experienced_Professionals/job/So-Paulo-Brazil/Promotor-De-Merchandising_R-1185759",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
@@ -16106,84 +15713,24 @@
     "score": 4
    },
    {
-    "title": "Outbound Warehouse Supervisor",
-    "location": "Dukem, Ethiopia",
-    "url": "https://unilever.wd3.myworkdayjobs.com/Unilever_Experienced_Professionals/job/Dukem-Ethiopia/Outbound-Warehouse-Supervisor_R-1186487",
-    "india": false,
-    "locationSaysIndia": false,
+    "title": "Assistant Finance Manager",
+    "location": "Mumbai Regional Office",
+    "url": "https://unilever.wd3.myworkdayjobs.com/Unilever_Experienced_Professionals/job/Mumbai-Regional-Office/Assistant-Finance-Manager_R-1185349-1",
+    "india": true,
+    "locationSaysIndia": true,
     "hasLocation": true,
     "isEng": false,
     "java": false,
     "flutter": false,
-    "senior": false,
+    "senior": true,
     "exp": [],
     "expFits2": false,
-    "score": 4
+    "score": -3
    },
    {
-    "title": "Territory Sales Executive",
-    "location": "Remote - Lucknow Regional Office",
-    "url": "https://unilever.wd3.myworkdayjobs.com/Unilever_Experienced_Professionals/job/Remote---Lucknow-Regional-Office/Territory-Sales-Executive_R-1186482-1",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 4
-   },
-   {
-    "title": "Maschinen- und Anlagenoperator:in Technik (d/w/m)",
-    "location": "Auerbach, Germany",
-    "url": "https://unilever.wd3.myworkdayjobs.com/Unilever_Experienced_Professionals/job/Auerbach-Germany/Maschinen--und-Anlagenoperator-in-Technik--d-w-m-_R-1185589-1",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 4
-   },
-   {
-    "title": "Praktikum Key Account Management (d/w/m)",
-    "location": "Hamburg, Germany",
-    "url": "https://unilever.wd3.myworkdayjobs.com/Unilever_Experienced_Professionals/job/Hamburg-Germany/Praktikum-Key-Account-Management--d-w-m-_R-1174681",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 4
-   },
-   {
-    "title": "Ausbildung Maschinen- und Anlagenführer Lebensmitteltechnik (d/w/m) – 2027",
-    "location": "Heilbronn",
-    "url": "https://unilever.wd3.myworkdayjobs.com/Unilever_Experienced_Professionals/job/Heilbronn/Ausbildung-Maschinen--und-Anlagenfhrer-Lebensmitteltechnik--d-w-m----2027_R-1183811",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 4
-   },
-   {
-    "title": "Assistant Manager - Balance Sheet Reporting",
-    "location": "Uniops Bangalore Centre",
-    "url": "https://unilever.wd3.myworkdayjobs.com/Unilever_Experienced_Professionals/job/Uniops-Bangalore-Centre/Assistant-Manager---Balance-Sheet-Reporting_R-1186480",
+    "title": "Assistant Finance Manager - FET",
+    "location": "Mumbai HO",
+    "url": "https://unilever.wd3.myworkdayjobs.com/Unilever_Experienced_Professionals/job/Mumbai-HO/Assistant-Finance-Manager---FET_R-1182938",
     "india": true,
     "locationSaysIndia": true,
     "hasLocation": true,
@@ -16214,21 +15761,6 @@
     "title": "Assistant CMI Manager, Oral Care India",
     "location": "Mumbai HO",
     "url": "https://unilever.wd3.myworkdayjobs.com/Unilever_Experienced_Professionals/job/Mumbai-HO/Assistant-CMI-Manager--Oral-Care-India_R-1185343",
-    "india": true,
-    "locationSaysIndia": true,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": true,
-    "exp": [],
-    "expFits2": false,
-    "score": -3
-   },
-   {
-    "title": "Assistant Manager - Safety, Health & Environment",
-    "location": "Uniops Bangalore Centre",
-    "url": "https://unilever.wd3.myworkdayjobs.com/Unilever_Experienced_Professionals/job/Uniops-Bangalore-Centre/Assistant-Manager---Safety--Health---Environment_R-1186163-1",
     "india": true,
     "locationSaysIndia": true,
     "hasLocation": true,
@@ -16284,6 +15816,66 @@
     "exp": [],
     "expFits2": false,
     "score": -6
+   },
+   {
+    "title": "Foods PH Shopper Marketing Assistant Manager",
+    "location": "Taguig, Philippines",
+    "url": "https://unilever.wd3.myworkdayjobs.com/Unilever_Experienced_Professionals/job/Taguig-Philippines/Foods-PH-Shopper-Marketing-Assistant-Manager_R-1185173-1",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [],
+    "expFits2": false,
+    "score": -18
+   },
+   {
+    "title": "Asst. Execution Planning Manager Homecare Liquid Factory",
+    "location": "Cikarang, Indonesia",
+    "url": "https://unilever.wd3.myworkdayjobs.com/Unilever_Experienced_Professionals/job/Cikarang-Indonesia/Asst-Execution-Planning-Manager-Homecare-Liquid-Factory_R-1186172",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [],
+    "expFits2": false,
+    "score": -18
+   },
+   {
+    "title": "Senior General Shift Executive",
+    "location": "Pondicherry Detergents Factory",
+    "url": "https://unilever.wd3.myworkdayjobs.com/Unilever_Experienced_Professionals/job/Pondicherry-Detergents-Factory/Senior-General-Shift-Executive_R-1186558",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [],
+    "expFits2": false,
+    "score": -18
+   },
+   {
+    "title": "Channel Distributor Manager - Samar",
+    "location": "Cebu City, Philippines",
+    "url": "https://unilever.wd3.myworkdayjobs.com/Unilever_Experienced_Professionals/job/Cebu-City-Philippines/Channel-Distributor-Manager---Samar_R-1185149",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [],
+    "expFits2": false,
+    "score": -18
    },
    {
     "title": "Assistant Marketing Manager - UI Thailand, Japan",
@@ -16434,44 +16026,81 @@
     "exp": [],
     "expFits2": false,
     "score": -18
+   },
+   {
+    "title": "Revenue Management Intern (d/f/m)",
+    "location": "Warsaw, Poland",
+    "url": "https://unilever.wd3.myworkdayjobs.com/Unilever_Experienced_Professionals/job/Warsaw-Poland/Revenue-Management-Intern--d-f-m-_R-1186262",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": -36
    }
   ],
-  "enriched": 0,
+  "enriched": 1,
   "matches": [],
   "nearMatches": [],
   "closest": {
-   "title": "Territory Sales Officer",
-   "location": "Remote - Chennai Regional Office",
-   "url": "https://unilever.wd3.myworkdayjobs.com/Unilever_Experienced_Professionals/job/Remote---Chennai-Regional-Office/Territory-Sales-Officer_R-1186688-1",
+   "title": "Digital Factory Deploy Engineer",
+   "location": "Manila, Philippines",
+   "url": "https://unilever.wd3.myworkdayjobs.com/Unilever_Experienced_Professionals/job/Manila-Philippines/Digital-Factory-Deploy-Engineer_R-1186459",
    "team": "",
-   "text": "Territory Sales Officer",
-   "_detail": "https://unilever.wd3.myworkdayjobs.com/wday/cxs/unilever/Unilever_Experienced_Professionals/job/Remote---Chennai-Regional-Office/Territory-Sales-Officer_R-1186688-1",
+   "text": "JOB PURPOSE The Digital Factory Deploy Engineer owns the creation and deployment of site-specific applications and the rollout of Unilever Masterapps. This role also leads the management of on-premises and cloud-based databases, ensuring data integrity and availability. A critical responsibility is capability building, ensuring that site teams are trained and empowered to sustain digital solutions long-term. KEY RESPONSIBILITIES Application Development & Deployment Create and deploy applications that address site operational needs. Lead the deployment of Unilever Masterapps, ensuring compliance with global standards. Validate application performance and ensure seamless integration with existing systems. Database Management Manage on-premises and cloud-based databases, ensuring reliability, security, and scalability. Implement backup, recovery, and monitoring processes. Support data analytics initiatives by ensuring clean and accessible datasets. Pilot Project Leadership Lead digital pilot projects that introduce new systems or applications to BWPC-Cavite. Ensure pilots align with Unilever’s digital transformation roadmap. Deliver pilots On Time In Full (OTIF) with measurable outcomes. Capability Building & Training Develop and deliver structured training programs for Electrical & Instrumentation Technicians (E&I) and Operation System Owners (OSOs). Ensure site teams are competent in operating, maintaining, and troubleshooting deployed applications. Embed knowledge transfer as a mandatory step in project completion. Cross-Functional Collaboration Partner with IT, Operations, Engineering, Safety and Quality teams to ensure successful deployments. Provide regular updates in digital governance forums. Act as a change agent, promoting digital adoption across the site workforce. KEY DELIVERABLES Successful deployment of Unilever Masterapps and site-specific applications. Fully trained E&I Technicians and Operations System Owners for every deployed application. Reliable and secure management of on-prem and cloud databases. Documented improvements in efficiency, data integrity, and digital adoption. Clear communication of project outcomes in governance reviews. SYSTEM OWNERSHIP Unilever Masterapps Unilever Azure Application and Identity & Access Managements QUALIFICATIONS AND SKILLS Bachelor’s Degree in Computer Science/Engineering , Information Technology (IT) , Automation , or related field. Technical Expertise: Application development tools, database platforms (SQL, Oracle, cloud DBs), cloud services (Azure, AWS), and integration frameworks. Relevant IT or cloud certifications (preferred) Analytical thinking, Problem-solving Teamwork and Clear Communication Amenable to work in General Trias, Cavite We highly encourage applicants to exclude information on age, gender, and school/s in view of Equity, Diversity, and Inclusion. Unilever assesses candidates based on skills, performance, experience and leadership. Unilever is an organisation committed to equity, inclusion and diversity to drive our business results and create a better future, every day, for our diverse employees, global consumers, partners, and communities. We believe a diverse workforce allows us to match our growth ambitions and drive inclusion across the business. At Unilever we are interested in every individual bring ing their ‘Whole Self’ to work and this includes you! Thus if you require any support or access requirements, we encourage you to advise us at the time of your application so that we can support you through your recruitment journey. #LI-DNP",
+   "_detail": "https://unilever.wd3.myworkdayjobs.com/wday/cxs/unilever/Unilever_Experienced_Professionals/job/Manila-Philippines/Digital-Factory-Deploy-Engineer_R-1186459",
    "_detailKind": "workday",
-   "score": 19,
+   "_enriched": true,
+   "score": 34,
    "isMatch": false,
-   "isEng": false,
+   "isEng": true,
    "java": false,
    "flutter": false,
    "android": false,
-   "india": true,
+   "india": false,
    "senior": false,
    "junior": false,
    "intern": false,
    "exp": [],
    "expFits2": false
   },
-  "closestEng": null,
+  "closestEng": {
+   "title": "Digital Factory Deploy Engineer",
+   "location": "Manila, Philippines",
+   "url": "https://unilever.wd3.myworkdayjobs.com/Unilever_Experienced_Professionals/job/Manila-Philippines/Digital-Factory-Deploy-Engineer_R-1186459",
+   "team": "",
+   "text": "JOB PURPOSE The Digital Factory Deploy Engineer owns the creation and deployment of site-specific applications and the rollout of Unilever Masterapps. This role also leads the management of on-premises and cloud-based databases, ensuring data integrity and availability. A critical responsibility is capability building, ensuring that site teams are trained and empowered to sustain digital solutions long-term. KEY RESPONSIBILITIES Application Development & Deployment Create and deploy applications that address site operational needs. Lead the deployment of Unilever Masterapps, ensuring compliance with global standards. Validate application performance and ensure seamless integration with existing systems. Database Management Manage on-premises and cloud-based databases, ensuring reliability, security, and scalability. Implement backup, recovery, and monitoring processes. Support data analytics initiatives by ensuring clean and accessible datasets. Pilot Project Leadership Lead digital pilot projects that introduce new systems or applications to BWPC-Cavite. Ensure pilots align with Unilever’s digital transformation roadmap. Deliver pilots On Time In Full (OTIF) with measurable outcomes. Capability Building & Training Develop and deliver structured training programs for Electrical & Instrumentation Technicians (E&I) and Operation System Owners (OSOs). Ensure site teams are competent in operating, maintaining, and troubleshooting deployed applications. Embed knowledge transfer as a mandatory step in project completion. Cross-Functional Collaboration Partner with IT, Operations, Engineering, Safety and Quality teams to ensure successful deployments. Provide regular updates in digital governance forums. Act as a change agent, promoting digital adoption across the site workforce. KEY DELIVERABLES Successful deployment of Unilever Masterapps and site-specific applications. Fully trained E&I Technicians and Operations System Owners for every deployed application. Reliable and secure management of on-prem and cloud databases. Documented improvements in efficiency, data integrity, and digital adoption. Clear communication of project outcomes in governance reviews. SYSTEM OWNERSHIP Unilever Masterapps Unilever Azure Application and Identity & Access Managements QUALIFICATIONS AND SKILLS Bachelor’s Degree in Computer Science/Engineering , Information Technology (IT) , Automation , or related field. Technical Expertise: Application development tools, database platforms (SQL, Oracle, cloud DBs), cloud services (Azure, AWS), and integration frameworks. Relevant IT or cloud certifications (preferred) Analytical thinking, Problem-solving Teamwork and Clear Communication Amenable to work in General Trias, Cavite We highly encourage applicants to exclude information on age, gender, and school/s in view of Equity, Diversity, and Inclusion. Unilever assesses candidates based on skills, performance, experience and leadership. Unilever is an organisation committed to equity, inclusion and diversity to drive our business results and create a better future, every day, for our diverse employees, global consumers, partners, and communities. We believe a diverse workforce allows us to match our growth ambitions and drive inclusion across the business. At Unilever we are interested in every individual bring ing their ‘Whole Self’ to work and this includes you! Thus if you require any support or access requirements, we encourage you to advise us at the time of your application so that we can support you through your recruitment journey. #LI-DNP",
+   "_detail": "https://unilever.wd3.myworkdayjobs.com/wday/cxs/unilever/Unilever_Experienced_Professionals/job/Manila-Philippines/Digital-Factory-Deploy-Engineer_R-1186459",
+   "_detailKind": "workday",
+   "_enriched": true,
+   "score": 34,
+   "isMatch": false,
+   "isEng": true,
+   "java": false,
+   "flutter": false,
+   "android": false,
+   "india": false,
+   "senior": false,
+   "junior": false,
+   "intern": false,
+   "exp": [],
+   "expFits2": false
+  },
   "trace": {
    "pages": [
     {
      "url": "https://careers.unilever.com/",
      "status": 200,
-     "bytes": 68825
+     "bytes": 68730
     },
     {
      "url": "https://careers.unilever.com",
      "status": 200,
-     "bytes": 68825
+     "bytes": 68730
     },
     {
      "url": "https://unilever.com/careers",
@@ -16536,7 +16165,7 @@
     "workday:unilever -> 40 jobs"
    ]
   },
-  "ms": 7350
+  "ms": 10472
  },
  {
   "company": "UL Solutions",
@@ -16556,7 +16185,7 @@
     {
      "url": "https://www.ul.com/careers",
      "status": 200,
-     "bytes": 372087
+     "bytes": 372083
     },
     {
      "url": "https://careers.ul.com",
@@ -16567,12 +16196,12 @@
     {
      "url": "https://ul.com/careers",
      "status": 200,
-     "bytes": 372087
+     "bytes": 372083
     },
     {
      "url": "https://ul.com/career",
      "status": 200,
-     "bytes": 372087
+     "bytes": 372083
     },
     {
      "url": "https://ul.com/jobs",
@@ -16588,7 +16217,7 @@
    "candidates": [],
    "attempts": []
   },
-  "ms": 5179
+  "ms": 5121
  },
  {
   "company": "U.S. Bank",
@@ -16599,591 +16228,521 @@
   "totalJobs": 40,
   "jobs": [
    {
-    "title": "Software Engineer 2 (Backend AI)",
-    "location": "Earth City, MO",
-    "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Earth-City-MO/Software-Engineer-2--Backend-AI-_2026-0018811",
-    "india": false,
-    "locationSaysIndia": false,
+    "title": "Software Engineer 2",
+    "location": "Chennai, India",
+    "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Chennai-India/Software-Engineer-2_2026-0017017-1",
+    "india": true,
+    "locationSaysIndia": true,
     "hasLocation": true,
     "isEng": true,
-    "java": true,
+    "java": false,
     "flutter": false,
     "senior": false,
     "exp": [],
     "expFits2": false,
-    "score": 59
+    "score": 49
    },
    {
-    "title": "Software Engineer 2 - (Backend /API/ Microservices)",
+    "title": "Software Engineer 2 - IN",
+    "location": "Chennai, India",
+    "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Chennai-India/Software-Engineer-2---IN_2026-0023371",
+    "india": true,
+    "locationSaysIndia": true,
+    "hasLocation": true,
+    "isEng": true,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 49
+   },
+   {
+    "title": "Software Engineer 2 - IN",
+    "location": "Chennai, India",
+    "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Chennai-India/Software-Engineer-2---IN_2026-0023370",
+    "india": true,
+    "locationSaysIndia": true,
+    "hasLocation": true,
+    "isEng": true,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 49
+   },
+   {
+    "title": "Software Engineer 2 - IN",
+    "location": "Chennai, India",
+    "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Chennai-India/Software-Engineer-2---IN_2026-0023369",
+    "india": true,
+    "locationSaysIndia": true,
+    "hasLocation": true,
+    "isEng": true,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 49
+   },
+   {
+    "title": "Application Developer",
+    "location": "Chennai, India",
+    "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Chennai-India/Application-Developer_2026-0018276",
+    "india": true,
+    "locationSaysIndia": true,
+    "hasLocation": true,
+    "isEng": true,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 49
+   },
+   {
+    "title": "Software Engineer 2 - IN",
+    "location": "Chennai, India",
+    "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Chennai-India/Software-Engineer-2---IN_2026-0023358",
+    "india": true,
+    "locationSaysIndia": true,
+    "hasLocation": true,
+    "isEng": true,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 49
+   },
+   {
+    "title": "Software Engineer 2 - IN",
+    "location": "Chennai, India",
+    "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Chennai-India/Software-Engineer-2---IN_2026-0019400-1",
+    "india": true,
+    "locationSaysIndia": true,
+    "hasLocation": true,
+    "isEng": true,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 49
+   },
+   {
+    "title": "Software Engineer 1 - IN",
+    "location": "Chennai, India",
+    "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Chennai-India/Software-Engineer-1---IN_2026-0023357",
+    "india": true,
+    "locationSaysIndia": true,
+    "hasLocation": true,
+    "isEng": true,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 49
+   },
+   {
+    "title": "Application Developer Consultant 2 - IN B",
+    "location": "Chennai, India",
+    "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Chennai-India/Application-Developer-Consultant-2---IN-B_2026-0020120",
+    "india": true,
+    "locationSaysIndia": true,
+    "hasLocation": true,
+    "isEng": true,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 49
+   },
+   {
+    "title": "Software Engineer 2",
+    "location": "Chennai, India",
+    "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Chennai-India/Software-Engineer-2_2026-0017126",
+    "india": true,
+    "locationSaysIndia": true,
+    "hasLocation": true,
+    "isEng": true,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 49
+   },
+   {
+    "title": "Automation Engineer 4 - IN",
+    "location": "Chennai, India",
+    "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Chennai-India/Automation-Engineer-4---IN_2026-0023356",
+    "india": true,
+    "locationSaysIndia": true,
+    "hasLocation": true,
+    "isEng": true,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 49
+   },
+   {
+    "title": "Software Engineer 1",
+    "location": "Chennai, India",
+    "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Chennai-India/Software-Engineer-1_2026-0017078",
+    "india": true,
+    "locationSaysIndia": true,
+    "hasLocation": true,
+    "isEng": true,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 49
+   },
+   {
+    "title": "Software Engineer 1 - IN",
+    "location": "Chennai, India",
+    "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Chennai-India/Software-Engineer-1---IN_2026-0023362",
+    "india": true,
+    "locationSaysIndia": true,
+    "hasLocation": true,
+    "isEng": true,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 49
+   },
+   {
+    "title": "Reliability Engineer",
+    "location": "Chennai, India",
+    "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Chennai-India/Reliability-Engineer_2026-0017177-1",
+    "india": true,
+    "locationSaysIndia": true,
+    "hasLocation": true,
+    "isEng": true,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 49
+   },
+   {
+    "title": "Automation Engineer",
+    "location": "Chennai, India",
+    "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Chennai-India/Automation-Engineer_2026-0018280",
+    "india": true,
+    "locationSaysIndia": true,
+    "hasLocation": true,
+    "isEng": true,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 49
+   },
+   {
+    "title": "Lead Software Engineer - IN A",
+    "location": "Chennai, India",
+    "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Chennai-India/Lead-Software-Engineer---IN-A_2026-0023359",
+    "india": true,
+    "locationSaysIndia": true,
+    "hasLocation": true,
+    "isEng": true,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [],
+    "expFits2": false,
+    "score": 27
+   },
+   {
+    "title": "Senior Software Engineer",
+    "location": "Chennai, India",
+    "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Chennai-India/Senior-Software-Engineer_2026-0017205",
+    "india": true,
+    "locationSaysIndia": true,
+    "hasLocation": true,
+    "isEng": true,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [],
+    "expFits2": false,
+    "score": 27
+   },
+   {
+    "title": "Application Developer Sr",
+    "location": "Chennai, India",
+    "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Chennai-India/Application-Developer-Sr_2026-0017201",
+    "india": true,
+    "locationSaysIndia": true,
+    "hasLocation": true,
+    "isEng": true,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [],
+    "expFits2": false,
+    "score": 27
+   },
+   {
+    "title": "Senior Software Engineer",
+    "location": "Chennai, India",
+    "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Chennai-India/Senior-Software-Engineer_2026-0017035",
+    "india": true,
+    "locationSaysIndia": true,
+    "hasLocation": true,
+    "isEng": true,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [],
+    "expFits2": false,
+    "score": 27
+   },
+   {
+    "title": "Lead Software Engineer - IN A",
+    "location": "Chennai, India",
+    "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Chennai-India/Lead-Software-Engineer---IN-A_2026-0023363",
+    "india": true,
+    "locationSaysIndia": true,
+    "hasLocation": true,
+    "isEng": true,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [],
+    "expFits2": false,
+    "score": 27
+   },
+   {
+    "title": "Senior Software Engineer",
+    "location": "Chennai, India",
+    "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Chennai-India/Senior-Software-Engineer_2026-0017034",
+    "india": true,
+    "locationSaysIndia": true,
+    "hasLocation": true,
+    "isEng": true,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [],
+    "expFits2": false,
+    "score": 27
+   },
+   {
+    "title": "Software Engineering Manager 4 - IN A",
+    "location": "Chennai, India",
+    "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Chennai-India/Software-Engineering-Manager-4---IN-A_2026-0023361",
+    "india": true,
+    "locationSaysIndia": true,
+    "hasLocation": true,
+    "isEng": true,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [],
+    "expFits2": false,
+    "score": 27
+   },
+   {
+    "title": "Senior Software Engineer - IN B",
+    "location": "Chennai, India",
+    "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Chennai-India/Senior-Software-Engineer---IN-B_2026-0022924",
+    "india": true,
+    "locationSaysIndia": true,
+    "hasLocation": true,
+    "isEng": true,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [],
+    "expFits2": false,
+    "score": 27
+   },
+   {
+    "title": "Software Engineering Manager 4 - IN A",
+    "location": "Chennai, India",
+    "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Chennai-India/Software-Engineering-Manager-4---IN-A_2026-0023360",
+    "india": true,
+    "locationSaysIndia": true,
+    "hasLocation": true,
+    "isEng": true,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [],
+    "expFits2": false,
+    "score": 27
+   },
+   {
+    "title": "Senior Software Engineer - IN B",
+    "location": "Chennai, India",
+    "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Chennai-India/Senior-Software-Engineer---IN-B_2026-0020939",
+    "india": true,
+    "locationSaysIndia": true,
+    "hasLocation": true,
+    "isEng": true,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [],
+    "expFits2": false,
+    "score": 27
+   },
+   {
+    "title": "Senior Software Engineer",
+    "location": "Chennai, India",
+    "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Chennai-India/Senior-Software-Engineer_2026-0017036",
+    "india": true,
+    "locationSaysIndia": true,
+    "hasLocation": true,
+    "isEng": true,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [],
+    "expFits2": false,
+    "score": 27
+   },
+   {
+    "title": "Lead Software Engineer - IN B",
+    "location": "Chennai, India",
+    "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Chennai-India/Lead-Software-Engineer---IN-B_2026-0023372",
+    "india": true,
+    "locationSaysIndia": true,
+    "hasLocation": true,
+    "isEng": true,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [],
+    "expFits2": false,
+    "score": 27
+   },
+   {
+    "title": "Lead Software Engineer - IN A",
+    "location": "Chennai, India",
+    "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Chennai-India/Lead-Software-Engineer---IN-A_2026-0022977",
+    "india": true,
+    "locationSaysIndia": true,
+    "hasLocation": true,
+    "isEng": true,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [],
+    "expFits2": false,
+    "score": 27
+   },
+   {
+    "title": "Senior Software Engineer - IN B",
+    "location": "Chennai, India",
+    "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Chennai-India/Senior-Software-Engineer---IN-B_2026-0022980",
+    "india": true,
+    "locationSaysIndia": true,
+    "hasLocation": true,
+    "isEng": true,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [],
+    "expFits2": false,
+    "score": 27
+   },
+   {
+    "title": "IT Generalist",
+    "location": "Chennai, India",
+    "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Chennai-India/IT-Generalist_2026-0017233-1",
+    "india": true,
+    "locationSaysIndia": true,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 19
+   },
+   {
+    "title": "Senior Software Engineer – Data Engineering in Irving, TX.",
     "location": "Irving, TX",
-    "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Irving-TX/Software-Engineer-2---Full-stack_2026-0010983",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": true,
-    "java": true,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 59
-   },
-   {
-    "title": "Principal Integration Engineer - Trade Data Warehouse",
-    "location": "3 Locations",
-    "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Chicago-IL/Principal-Integration-Engineer---Trade-Data-Warehouse_2026-0014811",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": true,
-    "java": true,
-    "flutter": false,
-    "senior": true,
-    "exp": [],
-    "expFits2": false,
-    "score": 37
-   },
-   {
-    "title": "Software Engineer 1 (Backend UI and AI)",
-    "location": "Earth City, MO",
-    "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Earth-City-MO/Software-Engineer-1--Backend-UI-and-AI-_2026-0018795",
+    "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Irving-TX/Senior-Software-Engineer---Data-Engineering-in-Irving--TX_2026-0024303",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
     "isEng": true,
     "java": false,
     "flutter": false,
-    "senior": false,
+    "senior": true,
     "exp": [],
     "expFits2": false,
-    "score": 34
+    "score": 12
    },
    {
-    "title": "Lead Software Engineer - AI Tools",
-    "location": "2 Locations",
-    "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Hopkins-MN/Lead-Software-Engineer---AI-Tools_2026-0020178",
+    "title": "Software Engineering Manager (multiple positions) in Charlotte, NC.",
+    "location": "Charlotte, NC",
+    "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Charlotte-NC/Software-Engineering-Manager--multiple-positions--in-Charlotte--NC_2026-0024309",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
     "isEng": true,
-    "java": true,
-    "flutter": false,
-    "senior": true,
-    "exp": [
-     [
-      8,
-      12
-     ]
-    ],
-    "expFits2": false,
-    "score": 33
-   },
-   {
-    "title": "Senior Software Engineer Java",
-    "location": "3 Locations",
-    "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Hopkins-MN/Senior-Software-Engineer-Java_2026-0021667",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": true,
-    "java": true,
-    "flutter": false,
-    "senior": true,
-    "exp": [
-     [
-      5,
-      9
-     ]
-    ],
-    "expFits2": false,
-    "score": 33
-   },
-   {
-    "title": "Perf Ops Support Assoc",
-    "location": "Chennai, India",
-    "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Chennai-India/Perf-Ops-Support-Assoc_2026-0014562",
-    "india": true,
-    "locationSaysIndia": true,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 19
-   },
-   {
-    "title": "Perf Ops Support Assoc",
-    "location": "Chennai, India",
-    "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Chennai-India/Perf-Ops-Support-Assoc_2026-0014561-1",
-    "india": true,
-    "locationSaysIndia": true,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 19
-   },
-   {
-    "title": "Perf Ops Support Assoc",
-    "location": "Chennai, India",
-    "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Chennai-India/Perf-Ops-Support-Assoc_2026-0014559",
-    "india": true,
-    "locationSaysIndia": true,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 19
-   },
-   {
-    "title": "Client Relationship Consultant 2 (Banker) - Pickerington, OH",
-    "location": "Pickerington, OH",
-    "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Pickerington-OH/Client-Relationship-Consultant-2--Banker----Pickerington--OH_2026-0021077",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 4
-   },
-   {
-    "title": "Client Relationship Consultant (Banker) - Twin Oaks, MO",
-    "location": "Ballwin, MO",
-    "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Ballwin-MO/Client-Relationship-Consultant--Banker----Twin-Oaks--MO_2026-0021136",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 4
-   },
-   {
-    "title": "Client Relationship Consultant 2 (Banker) - University of Missouri - Columbia - MO",
-    "location": "Columbia, MO",
-    "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Columbia-MO/Client-Relationship-Consultant-2--Banker----University-of-Missouri---Columbia---MO_2026-0009762",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 4
-   },
-   {
-    "title": "Client Relationship Consultant 2 (Banker) - Northwest St Louis, MO Area",
-    "location": "3 Locations",
-    "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Saint-Charles-MO/Client-Relationship-Consultant--Banker----Northwest-St-Louis--MO-Area_2026-0017795",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 4
-   },
-   {
-    "title": "Client Relationship Consultant 3 (Banker) - Bryant, AR",
-    "location": "Bryant, AR",
-    "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Bryant-AR/Client-Relationship-Consultant-3--Banker----Bryant--AR_2026-0014297",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 4
-   },
-   {
-    "title": "Operations Processor- Lockbox",
-    "location": "Gresham, OR",
-    "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Gresham-OR/Operations-Processor--Lockbox_2026-0020154",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 4
-   },
-   {
-    "title": "Bilingual Small Business Specialist 3 - Tempe, AZ",
-    "location": "3 Locations",
-    "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Tempe-AZ/Bilingual-Small-Business-Specialist-3---Tempe--AZ_2026-0024501",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 4
-   },
-   {
-    "title": "Small Business Specialist 3 - Carlsbad, CA",
-    "location": "Carlsbad, CA",
-    "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Carlsbad-CA/Small-Business-Specialist-3---Carlsbad--CA_2026-0024289",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 4
-   },
-   {
-    "title": "Small Business Specialist 3 - San Marcos, CA",
-    "location": "San Marcos, CA",
-    "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/San-Marcos-CA/Small-Business-Specialist-3---San-Marcos--CA_2026-0024291",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 4
-   },
-   {
-    "title": "Executive Response Specialist- Deposits",
-    "location": "2 Locations",
-    "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Saint-Paul-MN/Executive-Responce-Specialist--Deposits_2026-0022232-1",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 4
-   },
-   {
-    "title": "Commercial Real Estate Admin 2",
-    "location": "2 Locations",
-    "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Cincinnati-OH/Commercial-Real-Estate-Admin-2_2026-0015100",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 4
-   },
-   {
-    "title": "Client Relationship Consultant 2- Spanish & English - Berwyn Cermak",
-    "location": "Berwyn, IL",
-    "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Berwyn-IL/Client-Relationship-Consultant-2--Spanish---English----Berwyn-Cermak_2026-0024153-1",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 4
-   },
-   {
-    "title": "Client Relationship Consultant 2 (Banker) - Petroglyph, NM",
-    "location": "Albuquerque, NM",
-    "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Albuquerque-NM/Client-Relationship-Consultant-2--Banker----Petroglyph--NM_2026-0024036",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 4
-   },
-   {
-    "title": "Business Technology Analyst",
-    "location": "17 Locations",
-    "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Hopkins-MN/Business-Technology-Analyst_2026-0018789",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 4
-   },
-   {
-    "title": "Client Relationship Consultant 2",
-    "location": "Geneva, OH",
-    "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Geneva-OH/Client-Relationship-Consultant-2_2026-0024407",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 4
-   },
-   {
-    "title": "Practice Finance Business Development Officer",
-    "location": "Remote, FL",
-    "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Remote-FL/Practice-Finance-Business-Development-Officer_2026-0023379",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 4
-   },
-   {
-    "title": "Operations Processor -Part Time Cash Vault",
-    "location": "Milwaukee, WI",
-    "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Milwaukee-WI/Operations-Processor--Part-Time-Cash-Vault_2026-0013123",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 4
-   },
-   {
-    "title": "Workforce Analytics Reporting Analyst",
-    "location": "3 Locations",
-    "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Minneapolis-MN/HR-Reporting-Analyst_2026-0016437",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 4
-   },
-   {
-    "title": "Client Relationship Consultant 3 (Banker) - Hot Springs, AR",
-    "location": "Hot Springs, AR",
-    "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Hot-Springs-AR/Client-Relationship-Consultant-3--Banker----Hot-Springs--AR_2026-0021774",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 4
-   },
-   {
-    "title": "Business Risk Specialist - AML",
-    "location": "2 Locations",
-    "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Tempe-AZ/Business-Risk-Specialist---AML_2026-0011051-1",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 4
-   },
-   {
-    "title": "Client Relationship Consultant 1 (Banker) - Toronto, OH 30 Hrs",
-    "location": "Toronto, OH",
-    "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Toronto-OH/Client-Relationship-Consultant-1--Banker----Toronto--OH-30-Hrs_2026-0018750",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 4
-   },
-   {
-    "title": "Client Relationship Consultant 2 (Banker) - Boyle Heights - Los Angeles, CA",
-    "location": "Los Angeles, CA",
-    "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Los-Angeles-CA/Client-Relationship-Consultant-2--Banker----Boyle-Heights---Los-Angeles--CA_2026-0024164",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 4
-   },
-   {
-    "title": "PWM Portfolio Management Analyst",
-    "location": "Clayton, MO",
-    "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Clayton-MO/PWM-Portfolio-Management-Analyst_2026-0023291",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 4
-   },
-   {
-    "title": "Derivative Products Operations Risk Manager",
-    "location": "3 Locations",
-    "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Earth-City-MO/Derivative-Products-Operations-Risk-Manager_2026-0016441-1",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
     "java": false,
     "flutter": false,
     "senior": true,
     "exp": [],
     "expFits2": false,
-    "score": -18
+    "score": 12
    },
    {
-    "title": "Float Team Branch Manager 5 - Bay Area, CA",
-    "location": "5 Locations",
-    "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Walnut-Creek-CA/Float-Team-Branch-Manager-5---Bay-Area--CA_2026-0020775",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": true,
-    "exp": [],
-    "expFits2": false,
-    "score": -18
-   },
-   {
-    "title": "Email Strategy Lead - Pre & Post Charge-Off Digital Collections",
-    "location": "6 Locations",
-    "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Horsham-PA/Email-Strategy-Leader---Pre---Post-Charge-Digital-Collections_2026-0010885",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": true,
-    "exp": [],
-    "expFits2": false,
-    "score": -18
-   },
-   {
-    "title": "CPS Relationship Manager",
-    "location": "Minneapolis, MN",
-    "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Minneapolis-MN/CPS-Relationship-Manager_2026-0024467",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": true,
-    "exp": [],
-    "expFits2": false,
-    "score": -18
-   },
-   {
-    "title": "Program / Project Manager",
+    "title": "Application Systems Administrator (Multiple openings) in Hopkins, MN.",
     "location": "Hopkins, MN",
-    "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Hopkins-MN/Program---Product-Manager_2026-0023016",
+    "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Hopkins-MN/Application-Systems-Administrator--Multiple-openings--in-Hopkins--MN_2026-0023342",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
     "isEng": false,
     "java": false,
     "flutter": false,
-    "senior": true,
+    "senior": false,
     "exp": [],
     "expFits2": false,
-    "score": -18
+    "score": 4
    },
    {
-    "title": "IT Operations Manager 1(Distributed Operating Systems)",
-    "location": "2 Locations",
-    "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Saint-Paul-MN/IT-Operations-Manager-1-Distributed-Operating-Systems-_2026-0023989",
+    "title": "Data Scientist (Multiple openings) in Minneapolis, MN.",
+    "location": "Minneapolis, MN",
+    "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Minneapolis-MN/Data-Scientist--Multiple-openings--in-Minneapolis--MN_2026-0024019-1",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
     "isEng": false,
     "java": false,
     "flutter": false,
-    "senior": true,
+    "senior": false,
     "exp": [],
     "expFits2": false,
-    "score": -18
+    "score": 4
    },
    {
-    "title": "Central Supervision Principal",
-    "location": "2 Locations",
-    "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Saint-Paul-MN/Central-Supervision-Principal_2026-0019865",
-    "india": false,
-    "locationSaysIndia": false,
+    "title": "Senior Product Manager (1) - IN A",
+    "location": "Chennai, India",
+    "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Chennai-India/Senior-Product-Manager--1----IN-A_2026-0019452",
+    "india": true,
+    "locationSaysIndia": true,
     "hasLocation": true,
     "isEng": false,
     "java": false,
@@ -17191,14 +16750,14 @@
     "senior": true,
     "exp": [],
     "expFits2": false,
-    "score": -18
+    "score": -3
    },
    {
-    "title": "PWM Portfolio Manager",
-    "location": "Irvine, CA",
-    "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Irvine-CA/PWM-Portfolio-Manager_2026-0009435",
-    "india": false,
-    "locationSaysIndia": false,
+    "title": "Group Site Manager 1",
+    "location": "Chennai, India",
+    "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Chennai-India/Group-Site-Manager-1_2026-0017232",
+    "india": true,
+    "locationSaysIndia": true,
     "hasLocation": true,
     "isEng": false,
     "java": false,
@@ -17206,73 +16765,88 @@
     "senior": true,
     "exp": [],
     "expFits2": false,
-    "score": -18
+    "score": -3
+   },
+   {
+    "title": "Senior Product Manager (1) - IN B",
+    "location": "Chennai, India",
+    "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Chennai-India/Senior-Product-Manager--1----IN-B_2026-0023354",
+    "india": true,
+    "locationSaysIndia": true,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [],
+    "expFits2": false,
+    "score": -3
+   },
+   {
+    "title": "Senior Product Manager (1) - IN A",
+    "location": "Chennai, India",
+    "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Chennai-India/Senior-Product-Manager--1----IN-A_2026-0019451",
+    "india": true,
+    "locationSaysIndia": true,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [],
+    "expFits2": false,
+    "score": -3
+   },
+   {
+    "title": "Product Manager 3",
+    "location": "Chennai, India",
+    "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Chennai-India/Product-Manager-3_2026-0017236-1",
+    "india": true,
+    "locationSaysIndia": true,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [],
+    "expFits2": false,
+    "score": -3
+   },
+   {
+    "title": "Senior Payroll Administrator",
+    "location": "Chennai, India",
+    "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Chennai-India/Senior-Payroll-Administrator_2026-0019359",
+    "india": true,
+    "locationSaysIndia": true,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [],
+    "expFits2": false,
+    "score": -3
    }
   ],
-  "enriched": 6,
+  "enriched": 10,
   "matches": [],
-  "nearMatches": [
-   {
-    "title": "Software Engineer 2 (Backend AI)",
-    "location": "Earth City, MO",
-    "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Earth-City-MO/Software-Engineer-2--Backend-AI-_2026-0018811",
-    "team": "",
-    "text": "At U.S. Bank, we’re on a journey to do our best. Helping the customers and businesses we serve to make better and smarter financial decisions and enabling the communities we support to grow and succeed. We believe it takes all of us to bring our shared ambition to life, and each person is unique in their potential. A career with U.S. Bank gives you a wide, ever-growing range of opportunities to discover what makes you thrive at every stage of your career. Try new things, learn new skills and discover what you excel at—all from Day One. Job Description This position will be responsible for the analysis, design, testing, development and maintenance of best in class software experiences. The candidate is a self-motivated individual who can collaborate with a team and across the organization. The candidate takes responsibility of the software artifacts produced adhering to U.S. Bank standards in order to ensure minimal impact to the customer experience. The candidate will be adept with the agile software development lifecycle and DevOps principles. Essential Responsibilities: - Responsible for designing, developing, testing, operating and maintaining products - Takes full stack ownership by consistently writing production-ready and testable code - Consistently creates optimal design adhering to architectural best practices; considers scalability, reliability and performance of systems/contexts affected when defining technical designs - Performs analysis on failures, propose design changes, and encourage operational improvements - Makes sound design/coding decisions keeping customer experience in the forefront - Takes feedback from code review and apply changes to meet standards - Conducts code reviews to provide guidance on engineering best practices and compliance with development procedures - Accountable for ensuring all aspects of product development follow compliance and security best practices - Exhibits relentless focus in software reliability engineering standards embedded into development standards - Embraces emerging technology opportunities and contributes to the best practices in support of the bank’s technology transformation - Contributes to a culture of innovation, collaboration and continuous improvement - Reviews tasks critically and ensures they are appropriately prioritized and sized for incremental delivery; anticipates and communicates blockers and delays before they require escalation Basic Qualifications - Bachelor’s degree, or equivalent work experience - Three to five years of relevant experience *This role is not eligible for visa sponsorship or transfer of visa sponsorship* Preferred Qualifications Developed and deployed AI/GenAI-powered applications utilizing Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), embedding models, and prompt engineering techniques. Designed and implemented intelligent AI workflows using agentic frameworks including LangChain, LangGraph, Semantic Kernel, and related orchestration technologies. Integrated Azure OpenAI, Azure AI Services, AWS Bedrock, and other LLM platforms into enterprise-scale applications and business processes. Built and consumed REST APIs, GraphQL services, and microservices architectures using Java, Python, Spring Boot, FastAPI, and Node.js. Integrated AI capabilities with enterprise systems, data platforms, APIs, business workflows, and cloud-native architectures. Leveraged vector databases, SQL Server, PostgreSQL, MongoDB, and related data technologies to support AI-driven solutions and scalable applications. Implemented containerization and orchestration solutions using Docker, Kubernetes, CI/CD pipelines, GitHub, and DevOps tooling. Applied expertise in distributed systems, scalability, observability, performance tuning, and high-availability cloud environments across Azure and AWS. Utilized GitHub Copilot and other AI-assisted development tools to accelerate software delivery, code quality, and engineering productivity. Demonstrated strong analytical, problem-solving, and communication skills while collaborating with product, architecture, security, and business teams; championed responsible AI, AI governance, model evaluation, and continuous adoption of emerging AI technologies. Location expectations This role requires working from a U.S. Bank location three (3) or more days per week. Listed location: Earth City, MO If there’s anything we can do to accommodate a disability during any portion of the application or hiring process, please refer to our disability accommodations for applicants . Benefits: Our approach to benefits and total rewards considers our team members’ whole selves and what may be needed to thrive in and outside work. That's why our benefits are designed to help you and your family boost your health, protect your financial security and give you peace of mind. Our benefits include the following: Healthcare (medical, dental, vision) Basic term and optional term life insurance Short-term and long-term disability Pregnancy disability and parental leave 401(k) and employer-funded retirement plan Paid vacation (from two to five weeks depending on salary grade and tenure) Up to 11 paid holiday opportunities Adoption assistance Sick and Safe Leave accruals of one hour for every 30 worked, up to 80 hours per calendar year unless otherwise provided by law Review our full benefits available by employment status here . U.S. Bank is an equal opportunity employer. We consider all qualified applicants without regard to race, religion, color, sex, national origin, age, sexual orientation, gender identity, disability or veteran status, and other factors protected under applicable law. E-Verify U.S. Bank participates in the U.S. Department of Homeland Security E-Verify program in all facilities located in the United States and certain U.S. territories. The E-Verify program is an Internet-based employment eligibility verification system operated by the U.S. Citizenship and Immigration Services. Learn more about the E-Verify program . The salary range reflects figures based on the primary location, which is listed first. The actual range for the role may differ based on the location of the role. In addition to salary, U.S. Bank offers a comprehensive benefits package, including incentive and recognition programs, equity stock purchase 401(k) contribution and pension (all benefits are subject to eligibility requirements). Pay Range: $98,175.00 - $115,500.00 U.S. Bank will consider qualified applicants with arrest or conviction records for employment. U.S. Bank conducts background checks consistent with applicable local laws, including the Los Angeles County Fair Chance Ordinance and the California Fair Chance Act as well as the San Francisco Fair Chance Ordinance. U.S. Bank is subject to, and conducts background checks consistent with the requirements of Section 19 of the Federal Deposit Insurance Act (FDIA). In addition, certain positions may also be subject to the requirements of FINRA, NMLS registration, Reg Z, Reg G, OFAC, the NFA, the FCPA, the Bank Secrecy Act, the SAFE Act, and/or federal guidelines applicable to an agreement, such as those related to ethics, safety, or operational procedures. Applicants must be able to comply with U.S. Bank policies and procedures including the Code of Ethics and Business Conduct and related workplace conduct and safety policies. Posting may be closed earlier due to high volume of applicants.",
-    "_detail": "https://usbank.wd1.myworkdayjobs.com/wday/cxs/usbank/US_Bank_Careers/job/Earth-City-MO/Software-Engineer-2--Backend-AI-_2026-0018811",
-    "_detailKind": "workday",
-    "_enriched": true,
-    "score": 59,
-    "isMatch": false,
-    "isEng": true,
-    "java": true,
-    "flutter": false,
-    "android": false,
-    "india": false,
-    "senior": false,
-    "junior": false,
-    "intern": false,
-    "exp": [],
-    "expFits2": false
-   },
-   {
-    "title": "Software Engineer 2 - (Backend /API/ Microservices)",
-    "location": "Irving, TX",
-    "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Irving-TX/Software-Engineer-2---Full-stack_2026-0010983",
-    "team": "",
-    "text": "At U.S. Bank, we’re on a journey to do our best. Helping the customers and businesses we serve to make better and smarter financial decisions and enabling the communities we support to grow and succeed. We believe it takes all of us to bring our shared ambition to life, and each person is unique in their potential. A career with U.S. Bank gives you a wide, ever-growing range of opportunities to discover what makes you thrive at every stage of your career. Try new things, learn new skills and discover what you excel at—all from Day One. Job Description This position will be responsible for the analysis, design, testing, development and maintenance of best in class software experiences. The candidate is a self-motivated individual who can collaborate with a team and across the organization. The candidate takes responsibility of the software artifacts produced adhering to U.S. Bank standards in order to ensure minimal impact to the customer experience. The candidate will be adept with the agile software development lifecycle and DevOps principles. Essential Responsibilities: Responsible for designing, developing, testing, operating and maintaining products Takes full stack ownership by consistently writing production-ready and testable code Consistently creates optimal design adhering to architectural best practices; considers scalability, reliability and performance of systems/contexts affected when defining technical designs Performs analysis on failures, propose design changes, and encourage operational improvements Makes sound design/coding decisions keeping customer experience in the forefront Takes feedback from code review and apply changes to meet standards Conducts code reviews to provide guidance on engineering best practices and compliance with development procedures Accountable for ensuring all aspects of product development follow compliance and security best practices Exhibits relentless focus in software reliability engineering standards embedded into development standards Embraces emerging technology opportunities and contributes to the best practices in support of the bank’s technology transformation Contributes to a culture of innovation, collaboration and continuous improvement Reviews tasks critically and ensures they are appropriately prioritized and sized for incremental delivery; anticipates and communicates blockers and delays before they require escalation Basic Qualifications - Bachelor’s degree, or equivalent work experience - Three to five years of relevant experience Preferred Skills/Experience Strong experience in Java EE design and development Hands-on experience in Microservices/API development using Java / Springboot Experience in streaming technologies like Apache Kafka, Spark is preferred. Experience in NoSQL databases like Cassandra, MongoDB. Exposure to JavaScript, including DOM manipulation and the JavaScript object model Experience working with React.js based project Familiarity with popular React.js workflows (such as Flux or Redux) Familiarity with more current specifications of EcmaScript Experience in Cloud native development in Azure, AWS or GCP is preferred. Experience in Jenkins/Cloudbees, Apigee, Istio, Kubernetes, Rancher . Thorough understanding of a feature, the users impacted, the flows impacted and feature's purpose Adept with agile software development lifecycle and DevOps principles Able to communicate processes and results with all parties involved in the product team. Strong problem-solving and analytical skills Location expectations This role requires working from a U.S. Bank location three (3) or more days per week. If there’s anything we can do to accommodate a disability during any portion of the application or hiring process, please refer to our disability accommodations for applicants . Benefits: Our approach to benefits and total rewards considers our team members’ whole selves and what may be needed to thrive in and outside work. That's why our benefits are designed to help you and your family boost your health, protect your financial security and give you peace of mind. Our benefits include the following: Healthcare (medical, dental, vision) Basic term and optional term life insurance Short-term and long-term disability Pregnancy disability and parental leave 401(k) and employer-funded retirement plan Paid vacation (from two to five weeks depending on salary grade and tenure) Up to 11 paid holiday opportunities Adoption assistance Sick and Safe Leave accruals of one hour for every 30 worked, up to 80 hours per calendar year unless otherwise provided by law Review our full benefits available by employment status here . U.S. Bank is an equal opportunity employer. We consider all qualified applicants without regard to race, religion, color, sex, national origin, age, sexual orientation, gender identity, disability or veteran status, and other factors protected under applicable law. E-Verify U.S. Bank participates in the U.S. Department of Homeland Security E-Verify program in all facilities located in the United States and certain U.S. territories. The E-Verify program is an Internet-based employment eligibility verification system operated by the U.S. Citizenship and Immigration Services. Learn more about the E-Verify program . The salary range reflects figures based on the primary location, which is listed first. The actual range for the role may differ based on the location of the role. In addition to salary, U.S. Bank offers a comprehensive benefits package, including incentive and recognition programs, equity stock purchase 401(k) contribution and pension (all benefits are subject to eligibility requirements). Pay Range: $105,400.00 - $124,000.00 U.S. Bank will consider qualified applicants with arrest or conviction records for employment. U.S. Bank conducts background checks consistent with applicable local laws, including the Los Angeles County Fair Chance Ordinance and the California Fair Chance Act as well as the San Francisco Fair Chance Ordinance. U.S. Bank is subject to, and conducts background checks consistent with the requirements of Section 19 of the Federal Deposit Insurance Act (FDIA). In addition, certain positions may also be subject to the requirements of FINRA, NMLS registration, Reg Z, Reg G, OFAC, the NFA, the FCPA, the Bank Secrecy Act, the SAFE Act, and/or federal guidelines applicable to an agreement, such as those related to ethics, safety, or operational procedures. Applicants must be able to comply with U.S. Bank policies and procedures including the Code of Ethics and Business Conduct and related workplace conduct and safety policies. Posting may be closed earlier due to high volume of applicants.",
-    "_detail": "https://usbank.wd1.myworkdayjobs.com/wday/cxs/usbank/US_Bank_Careers/job/Irving-TX/Software-Engineer-2---Full-stack_2026-0010983",
-    "_detailKind": "workday",
-    "_enriched": true,
-    "score": 59,
-    "isMatch": false,
-    "isEng": true,
-    "java": true,
-    "flutter": false,
-    "android": false,
-    "india": false,
-    "senior": false,
-    "junior": false,
-    "intern": false,
-    "exp": [],
-    "expFits2": false
-   }
-  ],
+  "nearMatches": [],
   "closest": {
-   "title": "Software Engineer 2 (Backend AI)",
-   "location": "Earth City, MO",
-   "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Earth-City-MO/Software-Engineer-2--Backend-AI-_2026-0018811",
+   "title": "Software Engineer 2",
+   "location": "Chennai, India",
+   "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Chennai-India/Software-Engineer-2_2026-0017017-1",
    "team": "",
-   "text": "At U.S. Bank, we’re on a journey to do our best. Helping the customers and businesses we serve to make better and smarter financial decisions and enabling the communities we support to grow and succeed. We believe it takes all of us to bring our shared ambition to life, and each person is unique in their potential. A career with U.S. Bank gives you a wide, ever-growing range of opportunities to discover what makes you thrive at every stage of your career. Try new things, learn new skills and discover what you excel at—all from Day One. Job Description This position will be responsible for the analysis, design, testing, development and maintenance of best in class software experiences. The candidate is a self-motivated individual who can collaborate with a team and across the organization. The candidate takes responsibility of the software artifacts produced adhering to U.S. Bank standards in order to ensure minimal impact to the customer experience. The candidate will be adept with the agile software development lifecycle and DevOps principles. Essential Responsibilities: - Responsible for designing, developing, testing, operating and maintaining products - Takes full stack ownership by consistently writing production-ready and testable code - Consistently creates optimal design adhering to architectural best practices; considers scalability, reliability and performance of systems/contexts affected when defining technical designs - Performs analysis on failures, propose design changes, and encourage operational improvements - Makes sound design/coding decisions keeping customer experience in the forefront - Takes feedback from code review and apply changes to meet standards - Conducts code reviews to provide guidance on engineering best practices and compliance with development procedures - Accountable for ensuring all aspects of product development follow compliance and security best practices - Exhibits relentless focus in software reliability engineering standards embedded into development standards - Embraces emerging technology opportunities and contributes to the best practices in support of the bank’s technology transformation - Contributes to a culture of innovation, collaboration and continuous improvement - Reviews tasks critically and ensures they are appropriately prioritized and sized for incremental delivery; anticipates and communicates blockers and delays before they require escalation Basic Qualifications - Bachelor’s degree, or equivalent work experience - Three to five years of relevant experience *This role is not eligible for visa sponsorship or transfer of visa sponsorship* Preferred Qualifications Developed and deployed AI/GenAI-powered applications utilizing Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), embedding models, and prompt engineering techniques. Designed and implemented intelligent AI workflows using agentic frameworks including LangChain, LangGraph, Semantic Kernel, and related orchestration technologies. Integrated Azure OpenAI, Azure AI Services, AWS Bedrock, and other LLM platforms into enterprise-scale applications and business processes. Built and consumed REST APIs, GraphQL services, and microservices architectures using Java, Python, Spring Boot, FastAPI, and Node.js. Integrated AI capabilities with enterprise systems, data platforms, APIs, business workflows, and cloud-native architectures. Leveraged vector databases, SQL Server, PostgreSQL, MongoDB, and related data technologies to support AI-driven solutions and scalable applications. Implemented containerization and orchestration solutions using Docker, Kubernetes, CI/CD pipelines, GitHub, and DevOps tooling. Applied expertise in distributed systems, scalability, observability, performance tuning, and high-availability cloud environments across Azure and AWS. Utilized GitHub Copilot and other AI-assisted development tools to accelerate software delivery, code quality, and engineering productivity. Demonstrated strong analytical, problem-solving, and communication skills while collaborating with product, architecture, security, and business teams; championed responsible AI, AI governance, model evaluation, and continuous adoption of emerging AI technologies. Location expectations This role requires working from a U.S. Bank location three (3) or more days per week. Listed location: Earth City, MO If there’s anything we can do to accommodate a disability during any portion of the application or hiring process, please refer to our disability accommodations for applicants . Benefits: Our approach to benefits and total rewards considers our team members’ whole selves and what may be needed to thrive in and outside work. That's why our benefits are designed to help you and your family boost your health, protect your financial security and give you peace of mind. Our benefits include the following: Healthcare (medical, dental, vision) Basic term and optional term life insurance Short-term and long-term disability Pregnancy disability and parental leave 401(k) and employer-funded retirement plan Paid vacation (from two to five weeks depending on salary grade and tenure) Up to 11 paid holiday opportunities Adoption assistance Sick and Safe Leave accruals of one hour for every 30 worked, up to 80 hours per calendar year unless otherwise provided by law Review our full benefits available by employment status here . U.S. Bank is an equal opportunity employer. We consider all qualified applicants without regard to race, religion, color, sex, national origin, age, sexual orientation, gender identity, disability or veteran status, and other factors protected under applicable law. E-Verify U.S. Bank participates in the U.S. Department of Homeland Security E-Verify program in all facilities located in the United States and certain U.S. territories. The E-Verify program is an Internet-based employment eligibility verification system operated by the U.S. Citizenship and Immigration Services. Learn more about the E-Verify program . The salary range reflects figures based on the primary location, which is listed first. The actual range for the role may differ based on the location of the role. In addition to salary, U.S. Bank offers a comprehensive benefits package, including incentive and recognition programs, equity stock purchase 401(k) contribution and pension (all benefits are subject to eligibility requirements). Pay Range: $98,175.00 - $115,500.00 U.S. Bank will consider qualified applicants with arrest or conviction records for employment. U.S. Bank conducts background checks consistent with applicable local laws, including the Los Angeles County Fair Chance Ordinance and the California Fair Chance Act as well as the San Francisco Fair Chance Ordinance. U.S. Bank is subject to, and conducts background checks consistent with the requirements of Section 19 of the Federal Deposit Insurance Act (FDIA). In addition, certain positions may also be subject to the requirements of FINRA, NMLS registration, Reg Z, Reg G, OFAC, the NFA, the FCPA, the Bank Secrecy Act, the SAFE Act, and/or federal guidelines applicable to an agreement, such as those related to ethics, safety, or operational procedures. Applicants must be able to comply with U.S. Bank policies and procedures including the Code of Ethics and Business Conduct and related workplace conduct and safety policies. Posting may be closed earlier due to high volume of applicants.",
-   "_detail": "https://usbank.wd1.myworkdayjobs.com/wday/cxs/usbank/US_Bank_Careers/job/Earth-City-MO/Software-Engineer-2--Backend-AI-_2026-0018811",
+   "text": "At U.S. Bancorp India, we’re on a journey to do our best. We believe it takes all of us to bring our shared ambition to life, and each person is unique in their potential. A career with U.S. Bancorp India gives you a wide, ever-growing range of opportunities to discover what makes you thrive at every stage of your career. Try new things, learn new skills and discover what you excel at—all from Day One. Job Description Be a part of transformational change where integrity matters, success inspires and great teams collaborate and innovate. As the fifth-largest bank in the United States, we’re one of the country's most respected, innovative, ethical and successful financial institutions. We’re looking for people who want more than just a job – they want to make a difference! U.S. Bank is seeking a Software Engineer who will contribute toward the success of our technology initiatives in our digital transformation journey. This position will be responsible for the analysis, design, testing, development and maintenance of best in class software experiences. The candidate is a self-motivated individual who can collaborate with a team and across the organization. The candidate takes responsibility of the software artifacts produced adhering to U.S. Bank standards in order to ensure minimal impact to the customer experience. The candidate will be adept with the agile software development lifecycle and DevOps principles. Essential Responsibilities: - Responsible for designing, developing, testing, operating and maintaining products - Takes full stack ownership by consistently writing production-ready and testable code - Consistently creates optimal design adhering to architectural best practices; considers scalability, reliability and performance of systems/contexts affected when defining technical designs - Performs analysis on failures, propose design changes, and encourage operational improvements - Makes sound design/coding decisions keeping customer experience in the forefront - Takes feedback from code review and apply changes to meet standards - Conducts code reviews to provide guidance on engineering best practices and compliance with development procedures - Accountable for ensuring all aspects of product development follow compliance and security best practices - Exhibits relentless focus in software reliability engineering standards embedded into development standards - Embraces emerging technology opportunities and contributes to the best practices in support of the bank’s technology transformation - Contributes to a culture of innovation, collaboration and continuous improvement - Reviews tasks critically and ensures they are appropriately prioritized and sized for incremental delivery; anticipates and communicates blockers and delays before they require escalation Basic Qualifications - Bachelor's degree or equivalent experience - Generally a minimum of eight years of experience Preferred Skills/Experience - Adept with agile software development lifecycle and DevOps principles - Complete understanding of a feature, the users impacted, the flows impacted and feature's purpose - Thorough understanding of the team's domain, how work in this domain relates to the team's objectives and deliverables and how it contributes to overall business strategy and how technical strategy maps to this - Basic understanding of adjacent teams' business domains - Ability to collaborate on all aspects of product development - Technically proficient and able to define and fulfill solutions requirements for end user - Able to communicate processes and results with all parties involved in the product team, including engineers, product owner, scrum master, third party vendors and customers - Proficient understanding of algorithms, data structures, architectural design patterns and best practices - Effective problem-solving and analytical skills #LI-DNI If there’s anything we can do to accommodate a disability during any portion of the application or hiring process, please refer to our disability accommodations for applicants . Posting may be closed earlier due to high volume of applicants. This is an U.S. Bancorp India posting. U.S. Bancorp India is a part of the U.S. Bank family.",
+   "_detail": "https://usbank.wd1.myworkdayjobs.com/wday/cxs/usbank/US_Bank_Careers/job/Chennai-India/Software-Engineer-2_2026-0017017-1",
    "_detailKind": "workday",
    "_enriched": true,
-   "score": 59,
+   "score": 49,
    "isMatch": false,
    "isEng": true,
-   "java": true,
+   "java": false,
    "flutter": false,
    "android": false,
-   "india": false,
+   "india": true,
    "senior": false,
    "junior": false,
    "intern": false,
@@ -17280,21 +16854,21 @@
    "expFits2": false
   },
   "closestEng": {
-   "title": "Software Engineer 2 (Backend AI)",
-   "location": "Earth City, MO",
-   "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Earth-City-MO/Software-Engineer-2--Backend-AI-_2026-0018811",
+   "title": "Software Engineer 2",
+   "location": "Chennai, India",
+   "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Chennai-India/Software-Engineer-2_2026-0017017-1",
    "team": "",
-   "text": "At U.S. Bank, we’re on a journey to do our best. Helping the customers and businesses we serve to make better and smarter financial decisions and enabling the communities we support to grow and succeed. We believe it takes all of us to bring our shared ambition to life, and each person is unique in their potential. A career with U.S. Bank gives you a wide, ever-growing range of opportunities to discover what makes you thrive at every stage of your career. Try new things, learn new skills and discover what you excel at—all from Day One. Job Description This position will be responsible for the analysis, design, testing, development and maintenance of best in class software experiences. The candidate is a self-motivated individual who can collaborate with a team and across the organization. The candidate takes responsibility of the software artifacts produced adhering to U.S. Bank standards in order to ensure minimal impact to the customer experience. The candidate will be adept with the agile software development lifecycle and DevOps principles. Essential Responsibilities: - Responsible for designing, developing, testing, operating and maintaining products - Takes full stack ownership by consistently writing production-ready and testable code - Consistently creates optimal design adhering to architectural best practices; considers scalability, reliability and performance of systems/contexts affected when defining technical designs - Performs analysis on failures, propose design changes, and encourage operational improvements - Makes sound design/coding decisions keeping customer experience in the forefront - Takes feedback from code review and apply changes to meet standards - Conducts code reviews to provide guidance on engineering best practices and compliance with development procedures - Accountable for ensuring all aspects of product development follow compliance and security best practices - Exhibits relentless focus in software reliability engineering standards embedded into development standards - Embraces emerging technology opportunities and contributes to the best practices in support of the bank’s technology transformation - Contributes to a culture of innovation, collaboration and continuous improvement - Reviews tasks critically and ensures they are appropriately prioritized and sized for incremental delivery; anticipates and communicates blockers and delays before they require escalation Basic Qualifications - Bachelor’s degree, or equivalent work experience - Three to five years of relevant experience *This role is not eligible for visa sponsorship or transfer of visa sponsorship* Preferred Qualifications Developed and deployed AI/GenAI-powered applications utilizing Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), embedding models, and prompt engineering techniques. Designed and implemented intelligent AI workflows using agentic frameworks including LangChain, LangGraph, Semantic Kernel, and related orchestration technologies. Integrated Azure OpenAI, Azure AI Services, AWS Bedrock, and other LLM platforms into enterprise-scale applications and business processes. Built and consumed REST APIs, GraphQL services, and microservices architectures using Java, Python, Spring Boot, FastAPI, and Node.js. Integrated AI capabilities with enterprise systems, data platforms, APIs, business workflows, and cloud-native architectures. Leveraged vector databases, SQL Server, PostgreSQL, MongoDB, and related data technologies to support AI-driven solutions and scalable applications. Implemented containerization and orchestration solutions using Docker, Kubernetes, CI/CD pipelines, GitHub, and DevOps tooling. Applied expertise in distributed systems, scalability, observability, performance tuning, and high-availability cloud environments across Azure and AWS. Utilized GitHub Copilot and other AI-assisted development tools to accelerate software delivery, code quality, and engineering productivity. Demonstrated strong analytical, problem-solving, and communication skills while collaborating with product, architecture, security, and business teams; championed responsible AI, AI governance, model evaluation, and continuous adoption of emerging AI technologies. Location expectations This role requires working from a U.S. Bank location three (3) or more days per week. Listed location: Earth City, MO If there’s anything we can do to accommodate a disability during any portion of the application or hiring process, please refer to our disability accommodations for applicants . Benefits: Our approach to benefits and total rewards considers our team members’ whole selves and what may be needed to thrive in and outside work. That's why our benefits are designed to help you and your family boost your health, protect your financial security and give you peace of mind. Our benefits include the following: Healthcare (medical, dental, vision) Basic term and optional term life insurance Short-term and long-term disability Pregnancy disability and parental leave 401(k) and employer-funded retirement plan Paid vacation (from two to five weeks depending on salary grade and tenure) Up to 11 paid holiday opportunities Adoption assistance Sick and Safe Leave accruals of one hour for every 30 worked, up to 80 hours per calendar year unless otherwise provided by law Review our full benefits available by employment status here . U.S. Bank is an equal opportunity employer. We consider all qualified applicants without regard to race, religion, color, sex, national origin, age, sexual orientation, gender identity, disability or veteran status, and other factors protected under applicable law. E-Verify U.S. Bank participates in the U.S. Department of Homeland Security E-Verify program in all facilities located in the United States and certain U.S. territories. The E-Verify program is an Internet-based employment eligibility verification system operated by the U.S. Citizenship and Immigration Services. Learn more about the E-Verify program . The salary range reflects figures based on the primary location, which is listed first. The actual range for the role may differ based on the location of the role. In addition to salary, U.S. Bank offers a comprehensive benefits package, including incentive and recognition programs, equity stock purchase 401(k) contribution and pension (all benefits are subject to eligibility requirements). Pay Range: $98,175.00 - $115,500.00 U.S. Bank will consider qualified applicants with arrest or conviction records for employment. U.S. Bank conducts background checks consistent with applicable local laws, including the Los Angeles County Fair Chance Ordinance and the California Fair Chance Act as well as the San Francisco Fair Chance Ordinance. U.S. Bank is subject to, and conducts background checks consistent with the requirements of Section 19 of the Federal Deposit Insurance Act (FDIA). In addition, certain positions may also be subject to the requirements of FINRA, NMLS registration, Reg Z, Reg G, OFAC, the NFA, the FCPA, the Bank Secrecy Act, the SAFE Act, and/or federal guidelines applicable to an agreement, such as those related to ethics, safety, or operational procedures. Applicants must be able to comply with U.S. Bank policies and procedures including the Code of Ethics and Business Conduct and related workplace conduct and safety policies. Posting may be closed earlier due to high volume of applicants.",
-   "_detail": "https://usbank.wd1.myworkdayjobs.com/wday/cxs/usbank/US_Bank_Careers/job/Earth-City-MO/Software-Engineer-2--Backend-AI-_2026-0018811",
+   "text": "At U.S. Bancorp India, we’re on a journey to do our best. We believe it takes all of us to bring our shared ambition to life, and each person is unique in their potential. A career with U.S. Bancorp India gives you a wide, ever-growing range of opportunities to discover what makes you thrive at every stage of your career. Try new things, learn new skills and discover what you excel at—all from Day One. Job Description Be a part of transformational change where integrity matters, success inspires and great teams collaborate and innovate. As the fifth-largest bank in the United States, we’re one of the country's most respected, innovative, ethical and successful financial institutions. We’re looking for people who want more than just a job – they want to make a difference! U.S. Bank is seeking a Software Engineer who will contribute toward the success of our technology initiatives in our digital transformation journey. This position will be responsible for the analysis, design, testing, development and maintenance of best in class software experiences. The candidate is a self-motivated individual who can collaborate with a team and across the organization. The candidate takes responsibility of the software artifacts produced adhering to U.S. Bank standards in order to ensure minimal impact to the customer experience. The candidate will be adept with the agile software development lifecycle and DevOps principles. Essential Responsibilities: - Responsible for designing, developing, testing, operating and maintaining products - Takes full stack ownership by consistently writing production-ready and testable code - Consistently creates optimal design adhering to architectural best practices; considers scalability, reliability and performance of systems/contexts affected when defining technical designs - Performs analysis on failures, propose design changes, and encourage operational improvements - Makes sound design/coding decisions keeping customer experience in the forefront - Takes feedback from code review and apply changes to meet standards - Conducts code reviews to provide guidance on engineering best practices and compliance with development procedures - Accountable for ensuring all aspects of product development follow compliance and security best practices - Exhibits relentless focus in software reliability engineering standards embedded into development standards - Embraces emerging technology opportunities and contributes to the best practices in support of the bank’s technology transformation - Contributes to a culture of innovation, collaboration and continuous improvement - Reviews tasks critically and ensures they are appropriately prioritized and sized for incremental delivery; anticipates and communicates blockers and delays before they require escalation Basic Qualifications - Bachelor's degree or equivalent experience - Generally a minimum of eight years of experience Preferred Skills/Experience - Adept with agile software development lifecycle and DevOps principles - Complete understanding of a feature, the users impacted, the flows impacted and feature's purpose - Thorough understanding of the team's domain, how work in this domain relates to the team's objectives and deliverables and how it contributes to overall business strategy and how technical strategy maps to this - Basic understanding of adjacent teams' business domains - Ability to collaborate on all aspects of product development - Technically proficient and able to define and fulfill solutions requirements for end user - Able to communicate processes and results with all parties involved in the product team, including engineers, product owner, scrum master, third party vendors and customers - Proficient understanding of algorithms, data structures, architectural design patterns and best practices - Effective problem-solving and analytical skills #LI-DNI If there’s anything we can do to accommodate a disability during any portion of the application or hiring process, please refer to our disability accommodations for applicants . Posting may be closed earlier due to high volume of applicants. This is an U.S. Bancorp India posting. U.S. Bancorp India is a part of the U.S. Bank family.",
+   "_detail": "https://usbank.wd1.myworkdayjobs.com/wday/cxs/usbank/US_Bank_Careers/job/Chennai-India/Software-Engineer-2_2026-0017017-1",
    "_detailKind": "workday",
    "_enriched": true,
-   "score": 59,
+   "score": 49,
    "isMatch": false,
    "isEng": true,
-   "java": true,
+   "java": false,
    "flutter": false,
    "android": false,
-   "india": false,
+   "india": true,
    "senior": false,
    "junior": false,
    "intern": false,
@@ -17321,22 +16895,47 @@
     {
      "url": "https://usbank.com/career",
      "status": 404,
-     "bytes": 196397
+     "bytes": 196433
     },
     {
      "url": "https://usbank.com/jobs",
      "status": 404,
-     "bytes": 196397
+     "bytes": 196433
     },
     {
      "url": "https://usbank.com/join-us",
      "status": 404,
-     "bytes": 196397
+     "bytes": 196433
     },
     {
      "url": "https://usbank.com/join-our-team",
      "status": 404,
-     "bytes": 196430
+     "bytes": 196433
+    },
+    {
+     "url": "https://usbank.com/careers.html",
+     "status": 200,
+     "bytes": 934192
+    },
+    {
+     "url": "https://usbank.com/company/careers",
+     "status": 404,
+     "bytes": 196433
+    },
+    {
+     "url": "https://usbank.com/about/careers",
+     "status": 404,
+     "bytes": 196433
+    },
+    {
+     "url": "https://usbank.com/current-openings",
+     "status": 404,
+     "bytes": 196433
+    },
+    {
+     "url": "https://usbank.com/",
+     "status": 200,
+     "bytes": 256994
     }
    ],
    "candidates": [
@@ -17352,7 +16951,7 @@
     "workday:usbank -> 40 jobs"
    ]
   },
-  "ms": 15746
+  "ms": 21627
  },
  {
   "company": "Udemy",
@@ -17653,7 +17252,7 @@
     "greenhouse:udemy -> 12 jobs (guess, name-verified)"
    ]
   },
-  "ms": 687
+  "ms": 628
  },
  {
   "company": "Unlimit",
@@ -18915,12 +18514,12 @@
     {
      "url": "https://unlimit.com/careers",
      "status": 200,
-     "bytes": 214934
+     "bytes": 214936
     },
     {
      "url": "https://unlimit.com/career",
      "status": 200,
-     "bytes": 214934
+     "bytes": 214936
     },
     {
      "url": "https://unlimit.com/jobs",
@@ -18935,7 +18534,7 @@
     {
      "url": "https://unlimit.com/join-our-team",
      "status": 200,
-     "bytes": 214934
+     "bytes": 214936
     },
     {
      "url": "https://unlimit.com/careers.html",
@@ -18945,7 +18544,7 @@
     {
      "url": "https://unlimit.com/company/careers",
      "status": 200,
-     "bytes": 214936
+     "bytes": 214934
     },
     {
      "url": "https://unlimit.com/about/careers",
@@ -18970,13 +18569,53 @@
     },
     {
      "url": "https://www.unlimit.com/careers",
-     "status": 429,
-     "bytes": 5771
+     "status": 200,
+     "bytes": 214936
     },
     {
      "url": "https://www.unlimit.com/career",
+     "status": 200,
+     "bytes": 214934
+    },
+    {
+     "url": "https://www.unlimit.com/jobs",
+     "status": 200,
+     "bytes": 214936
+    },
+    {
+     "url": "https://www.unlimit.com/join-us",
+     "status": 200,
+     "bytes": 214936
+    },
+    {
+     "url": "https://www.unlimit.com/join-our-team",
+     "status": 200,
+     "bytes": 214936
+    },
+    {
+     "url": "https://www.unlimit.com/careers.html",
+     "status": 200,
+     "bytes": 214936
+    },
+    {
+     "url": "https://www.unlimit.com/company/careers",
      "status": 429,
-     "bytes": 5787
+     "bytes": 5813
+    },
+    {
+     "url": "https://www.unlimit.com/about/careers",
+     "status": 429,
+     "bytes": 5807
+    },
+    {
+     "url": "https://www.unlimit.com/current-openings",
+     "status": 200,
+     "bytes": 214936
+    },
+    {
+     "url": "https://www.unlimit.com/",
+     "status": 429,
+     "bytes": 5747
     }
    ],
    "candidates": [
@@ -18991,7 +18630,7 @@
     "lever:unlimit -> 58 jobs (guess, name-verified)"
    ]
   },
-  "ms": 13580
+  "ms": 17597
  },
  {
   "company": "Urolime Technologies",
@@ -19262,7 +18901,7 @@
     "workable:urolime -> no board"
    ]
   },
-  "ms": 18324
+  "ms": 17189
  },
  {
   "company": "Unthinkable Solutions",
@@ -19292,7 +18931,7 @@
     {
      "url": "https://unthinkable.co/career",
      "status": 200,
-     "bytes": 108513
+     "bytes": 108502
     },
     {
      "url": "https://unthinkable.co/jobs",
@@ -19315,7 +18954,7 @@
     "workable:unthinkable -> no board"
    ]
   },
-  "ms": 29942
+  "ms": 35328
  },
  {
   "company": "Uneecops Technologies",
@@ -19515,7 +19154,7 @@
     {
      "url": "https://www.uneecops.com/talent/",
      "status": 200,
-     "bytes": 544015
+     "bytes": 544021
     },
     {
      "url": "https://careers.uneecops.com",
@@ -19526,17 +19165,17 @@
     {
      "url": "https://uneecops.com/careers",
      "status": 404,
-     "bytes": 252755
+     "bytes": 252745
     },
     {
      "url": "https://uneecops.com/career",
      "status": 200,
-     "bytes": 544015
+     "bytes": 544021
     },
     {
      "url": "https://uneecops.com/jobs",
      "status": 200,
-     "bytes": 411216
+     "bytes": 411210
     }
    ],
    "candidates": [
@@ -19554,7 +19193,7 @@
     "workable:uneecops -> no board"
    ]
   },
-  "ms": 13447
+  "ms": 12133
  },
  {
   "company": "Unico Connect",
@@ -20417,7 +20056,7 @@
     "workable:unicoconnect -> no board"
    ]
   },
-  "ms": 6345
+  "ms": 6678
  },
  {
   "company": "Uplogic Technologies",
@@ -20521,7 +20160,7 @@
     "workable:uplogictech -> no board"
    ]
   },
-  "ms": 43371
+  "ms": 45069
  },
  {
   "company": "Universal Sompo General Insurance",
@@ -20675,7 +20314,7 @@
     "workable:universalsompo -> no board"
    ]
   },
-  "ms": 21201
+  "ms": 21065
  },
  {
   "company": "Univariety",
@@ -20694,7 +20333,7 @@
     {
      "url": "https://careers.univariety.com",
      "status": 200,
-     "bytes": 127391
+     "bytes": 126480
     },
     {
      "url": "https://univariety.com/careers",
@@ -20744,7 +20383,7 @@
     {
      "url": "https://univariety.com/",
      "status": 200,
-     "bytes": 127391
+     "bytes": 126480
     },
     {
      "url": "https://careers.www.univariety.com",
@@ -20800,7 +20439,7 @@
     {
      "url": "https://www.univariety.com/",
      "status": 200,
-     "bytes": 127391
+     "bytes": 126480
     },
     {
      "url": "https://www.linkedin.com/school/univariety/jobs/",
@@ -20822,7 +20461,7 @@
     "workable:univariety -> no board"
    ]
   },
-  "ms": 4993
+  "ms": 5059
  },
  {
   "company": "Unifynd Technologies",
@@ -20916,7 +20555,7 @@
     "workable:unifynd -> no board"
    ]
   },
-  "ms": 21820
+  "ms": 24122
  },
  {
   "company": "Ultroneous Technologies",
@@ -20989,7 +20628,7 @@
     "workable:ultroneous -> no board"
    ]
   },
-  "ms": 5430
+  "ms": 27859
  },
  {
   "company": "Ummeed Housing Finance",
@@ -21064,7 +20703,7 @@
     {
      "url": "https://ummeedhfc.com/careers",
      "status": 200,
-     "bytes": 86642
+     "bytes": 86641
     },
     {
      "url": "https://ummeedhfc.com/career",
@@ -21089,7 +20728,7 @@
     {
      "url": "https://ummeedhfc.com/careers.html",
      "status": 200,
-     "bytes": 86639
+     "bytes": 86641
     },
     {
      "url": "https://ummeedhfc.com/company/careers",
@@ -21104,12 +20743,12 @@
     {
      "url": "https://ummeedhfc.com/current-openings",
      "status": 200,
-     "bytes": 86641
+     "bytes": 86642
     },
     {
      "url": "https://ummeedhfc.com/",
      "status": 200,
-     "bytes": 86642
+     "bytes": 86639
     },
     {
      "url": "https://careers.www.ummeedhfc.com",
@@ -21153,7 +20792,7 @@
     "workable:ummeedhfc -> no board"
    ]
   },
-  "ms": 16662
+  "ms": 24953
  },
  {
   "company": "Unity Small Finance Bank",
@@ -21173,7 +20812,7 @@
     {
      "url": "https://unity.bank.in/careers",
      "status": 200,
-     "bytes": 263395
+     "bytes": 263397
     },
     {
      "url": "https://careers.unity.bank.in",
@@ -21237,7 +20876,7 @@
     "workable:unity -> no board"
    ]
   },
-  "ms": 7373
+  "ms": 7510
  },
  {
   "company": "Ustraa",
@@ -21262,22 +20901,27 @@
     {
      "url": "https://ustraa.com/careers",
      "status": 404,
-     "bytes": 396262
+     "bytes": 407521
     },
     {
      "url": "https://ustraa.com/career",
      "status": 404,
-     "bytes": 403708
+     "bytes": 399441
     },
     {
      "url": "https://ustraa.com/jobs",
      "status": 404,
-     "bytes": 396257
+     "bytes": 407525
     },
     {
      "url": "https://ustraa.com/join-us",
      "status": 404,
-     "bytes": 403681
+     "bytes": 399448
+    },
+    {
+     "url": "https://ustraa.com/join-our-team",
+     "status": 404,
+     "bytes": 407531
     }
    ],
    "candidates": [
@@ -21295,7 +20939,7 @@
     "workable:ustraa -> no board"
    ]
   },
-  "ms": 10935
+  "ms": 8702
  },
  {
   "company": "Upshot.ai",
@@ -21407,7 +21051,7 @@
     "workable:upshot -> no board"
    ]
   },
-  "ms": 11617
+  "ms": 10211
  },
  {
   "company": "Uravu Labs",
@@ -21561,7 +21205,7 @@
     "workable:uravulabs -> no board"
    ]
   },
-  "ms": 6423
+  "ms": 5657
  },
  {
   "company": "Unlu",
@@ -21705,7 +21349,7 @@
     "workable:unlu -> no board"
    ]
   },
-  "ms": 3420
+  "ms": 3066
  },
  {
   "company": "UrbanMatrix Technologies",
@@ -21849,7 +21493,7 @@
     "workable:urbanmatrix -> no board"
    ]
   },
-  "ms": 3196
+  "ms": 3664
  },
  {
   "company": "Uniquify",
@@ -21993,7 +21637,7 @@
     "workable:uniquify -> no board"
    ]
   },
-  "ms": 17880
+  "ms": 14638
  },
  {
   "company": "Unimoni India",
@@ -22033,7 +21677,103 @@
     {
      "url": "https://unimoni.in/join-us",
      "status": 200,
-     "bytes": 138455
+     "bytes": 136427
+    },
+    {
+     "url": "https://unimoni.in/join-our-team",
+     "status": 200,
+     "bytes": 136427
+    },
+    {
+     "url": "https://unimoni.in/careers.html",
+     "status": 200,
+     "bytes": 136427
+    },
+    {
+     "url": "https://unimoni.in/company/careers",
+     "status": 200,
+     "bytes": 136427
+    },
+    {
+     "url": "https://unimoni.in/about/careers",
+     "status": 200,
+     "bytes": 136427
+    },
+    {
+     "url": "https://unimoni.in/current-openings",
+     "status": 200,
+     "bytes": 136427
+    },
+    {
+     "url": "https://unimoni.in/",
+     "status": 200,
+     "bytes": 136427
+    },
+    {
+     "url": "https://careers.www.unimoni.in",
+     "status": 0,
+     "bytes": 0,
+     "error": "fetch failed"
+    },
+    {
+     "url": "https://www.unimoni.in/careers",
+     "status": 200,
+     "bytes": 73531
+    },
+    {
+     "url": "https://www.unimoni.in/career",
+     "status": 200,
+     "bytes": 136427
+    },
+    {
+     "url": "https://www.unimoni.in/jobs",
+     "status": 200,
+     "bytes": 136427
+    },
+    {
+     "url": "https://www.unimoni.in/join-us",
+     "status": 200,
+     "bytes": 136427
+    },
+    {
+     "url": "https://www.unimoni.in/join-our-team",
+     "status": 200,
+     "bytes": 136427
+    },
+    {
+     "url": "https://www.unimoni.in/careers.html",
+     "status": 200,
+     "bytes": 136427
+    },
+    {
+     "url": "https://www.unimoni.in/company/careers",
+     "status": 200,
+     "bytes": 136427
+    },
+    {
+     "url": "https://www.unimoni.in/about/careers",
+     "status": 200,
+     "bytes": 136427
+    },
+    {
+     "url": "https://www.unimoni.in/current-openings",
+     "status": 200,
+     "bytes": 136427
+    },
+    {
+     "url": "https://www.unimoni.in/",
+     "status": 200,
+     "bytes": 136427
+    },
+    {
+     "url": "https://unimoni.in/careers.php",
+     "status": 200,
+     "bytes": 73531
+    },
+    {
+     "url": "https://www.unimoni.in/careers.php",
+     "status": 200,
+     "bytes": 73531
     }
    ],
    "candidates": [
@@ -22051,6 +21791,6 @@
     "workable:unimoni -> no board"
    ]
   },
-  "ms": 12983
+  "ms": 13690
  }
 ]

@@ -25,6 +25,31 @@
   "ambiguous": false
  },
  {
+  "letter": "b",
+  "company": "Bureau",
+  "country": "India",
+  "board": "ashby:bureau",
+  "title": "Integration Engineer (SDK)",
+  "location": "Bangalore",
+  "url": "https://jobs.ashbyhq.com/bureau/8786a55b-dd03-450a-872d-9d50feeb4f93",
+  "india": true,
+  "isEng": true,
+  "senior": false,
+  "java": true,
+  "flutter": true,
+  "score": 128,
+  "exp": [
+   [
+    2,
+    6
+   ]
+  ],
+  "fits2": true,
+  "fits3": true,
+  "unstated": false,
+  "ambiguous": false
+ },
+ {
   "letter": "i",
   "company": "Infowind Technologies",
   "country": "India",
@@ -770,8 +795,8 @@
   "country": "United States",
   "board": "greenhouse:alphasense",
   "title": "Cloud Support Engineer",
-  "location": "Delhi",
-  "url": "https://job-boards.greenhouse.io/alphasense/jobs/8556014002",
+  "location": "Bengaluru",
+  "url": "https://job-boards.greenhouse.io/alphasense/jobs/8556018002",
   "india": true,
   "isEng": true,
   "senior": false,
@@ -795,8 +820,8 @@
   "country": "United States",
   "board": "greenhouse:alphasense",
   "title": "Cloud Support Engineer",
-  "location": "Bengaluru",
-  "url": "https://job-boards.greenhouse.io/alphasense/jobs/8556018002",
+  "location": "Delhi",
+  "url": "https://job-boards.greenhouse.io/alphasense/jobs/8556014002",
   "india": true,
   "isEng": true,
   "senior": false,
@@ -1260,31 +1285,6 @@
  },
  {
   "letter": "f",
-  "company": "Fidelity International",
-  "country": "United Kingdom",
-  "board": "workday:fil",
-  "title": "Analyst Programmer",
-  "location": "",
-  "url": "https://fil.wd3.myworkdayjobs.com/001/job/Gurgaon-Office/Analyst-Programmer_J69478",
-  "india": true,
-  "isEng": true,
-  "senior": false,
-  "java": true,
-  "flutter": false,
-  "score": 100,
-  "exp": [
-   [
-    2,
-    6
-   ]
-  ],
-  "fits2": true,
-  "fits3": true,
-  "unstated": false,
-  "ambiguous": false
- },
- {
-  "letter": "f",
   "company": "Franciscan Solutions",
   "country": "India",
   "board": "headings:https://www.franciscansolutions.com/career.aspx",
@@ -1550,31 +1550,6 @@
   ],
   "fits2": true,
   "fits3": false,
-  "unstated": false,
-  "ambiguous": false
- },
- {
-  "letter": "l",
-  "company": "TestMu AI (formerly LambdaTest)",
-  "country": "India",
-  "board": "rendered",
-  "title": "BACKEND HEAVY -PLATFORM ENGINEER",
-  "location": "",
-  "url": "https://www.lambdatest.com/careers",
-  "india": true,
-  "isEng": true,
-  "senior": false,
-  "java": true,
-  "flutter": false,
-  "score": 100,
-  "exp": [
-   [
-    2,
-    3
-   ]
-  ],
-  "fits2": true,
-  "fits3": true,
   "unstated": false,
   "ambiguous": false
  },
@@ -2236,6 +2211,35 @@
  },
  {
   "letter": "q",
+  "company": "Qualcomm India",
+  "country": "India",
+  "board": "sitemap:https://careers.qualcomm.com",
+  "title": "Assoc Engineer-Product Debug Engineer",
+  "location": "Hyderabad, TS,IN",
+  "url": "http://careers.qualcomm.com/careers/job/446720216673-assoc-engineer-product-debug-engineer-hyderabad-telangāna-india?domain=qualcomm.com",
+  "india": true,
+  "isEng": true,
+  "senior": false,
+  "java": true,
+  "flutter": false,
+  "score": 100,
+  "exp": [
+   [
+    2,
+    6
+   ],
+   [
+    1,
+    5
+   ]
+  ],
+  "fits2": true,
+  "fits3": true,
+  "unstated": false,
+  "ambiguous": false
+ },
+ {
+  "letter": "q",
   "company": "QualityAI (formerly Qualitest)",
   "country": "India",
   "board": "successfactors:careers.quality-ai.com",
@@ -2451,6 +2455,35 @@
   "ambiguous": false
  },
  {
+  "letter": "t",
+  "company": "Toprankers",
+  "country": "India",
+  "board": "keka:toprankers",
+  "title": "Full Stack Developer (0-1 yr exp)",
+  "location": "Bengaluru, KA",
+  "url": "https://toprankers.keka.com/careers/jobdetails/155148",
+  "india": true,
+  "isEng": true,
+  "senior": false,
+  "java": true,
+  "flutter": false,
+  "score": 100,
+  "exp": [
+   [
+    0,
+    1
+   ],
+   [
+    1,
+    2
+   ]
+  ],
+  "fits2": true,
+  "fits3": false,
+  "unstated": false,
+  "ambiguous": false
+ },
+ {
   "letter": "w",
   "company": "Wipro",
   "country": "India",
@@ -2477,12 +2510,12 @@
  },
  {
   "letter": "w",
-  "company": "Wingify (VWO)",
-  "country": "India",
-  "board": "keka:wingify",
-  "title": "Software Engineer – Full Stack",
-  "location": "Delhi, DL",
-  "url": "https://wingify.keka.com/careers/jobdetails/133441",
+  "company": "Wells Fargo",
+  "country": "USA",
+  "board": "workday:wf",
+  "title": "Systems Operations Engineer",
+  "location": "Bengaluru, India",
+  "url": "https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Systems-Operations-Engineer_R-565445",
   "india": true,
   "isEng": true,
   "senior": false,
@@ -2491,12 +2524,8 @@
   "score": 100,
   "exp": [
    [
-    1,
-    3
-   ],
-   [
-    3,
-    4
+    2,
+    6
    ]
   ],
   "fits2": true,
@@ -2511,7 +2540,7 @@
   "board": "greenhouse:workato",
   "title": "Forward Deployed Engineer",
   "location": "Hyderabad, India",
-  "url": "https://www.workato.com/careers?gh_jid=8526757002#open-roles",
+  "url": "https://www.workato.com/careers?gh_jid=8440865002#open-roles",
   "india": true,
   "isEng": true,
   "senior": false,
@@ -2930,6 +2959,35 @@
   "ambiguous": true
  },
  {
+  "letter": "b",
+  "company": "BT Group",
+  "country": "United Kingdom",
+  "board": "successfactors:jobs.bt.com",
+  "title": "Software Engineering Professional",
+  "location": "Bengaluru, IN, 560103",
+  "url": "https://jobs.bt.com/BT/job/Bengaluru-Software-Engineering-Professional-560103/1369010157/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+  "india": true,
+  "isEng": true,
+  "senior": false,
+  "java": true,
+  "flutter": false,
+  "score": 100,
+  "exp": [
+   [
+    2,
+    5
+   ],
+   [
+    5,
+    6
+   ]
+  ],
+  "fits2": true,
+  "fits3": true,
+  "unstated": false,
+  "ambiguous": true
+ },
+ {
   "letter": "c",
   "company": "CredAble",
   "country": "India",
@@ -2963,6 +3021,51 @@
   "company": "Codiant Software Technologies",
   "country": "India",
   "board": "wordpress:https://codiant.com",
+  "title": "Full Stack Developer",
+  "location": "",
+  "url": "https://codiant.com/current-opening/full-stack-developer/",
+  "india": true,
+  "isEng": true,
+  "senior": false,
+  "java": true,
+  "flutter": false,
+  "score": 100,
+  "exp": [
+   [
+    5,
+    10
+   ],
+   [
+    2,
+    5
+   ],
+   [
+    0,
+    4
+   ],
+   [
+    6,
+    10
+   ],
+   [
+    10,
+    11
+   ],
+   [
+    5,
+    6
+   ]
+  ],
+  "fits2": true,
+  "fits3": true,
+  "unstated": false,
+  "ambiguous": true
+ },
+ {
+  "letter": "c",
+  "company": "Codiant Software Technologies",
+  "country": "India",
+  "board": "wordpress:https://codiant.com",
   "title": "iOS Developer",
   "location": "",
   "url": "https://codiant.com/current-opening/ios-developer/",
@@ -2978,16 +3081,12 @@
     3
    ],
    [
-    3,
-    7
+    0,
+    4
    ],
    [
     5,
     10
-   ],
-   [
-    0,
-    4
    ],
    [
     6,
@@ -2996,6 +3095,10 @@
    [
     3,
     4
+   ],
+   [
+    4,
+    5
    ]
   ],
   "fits2": true,
@@ -3023,6 +3126,10 @@
     4
    ],
    [
+    5,
+    10
+   ],
+   [
     3,
     7
    ],
@@ -3037,10 +3144,6 @@
    [
     4,
     5
-   ],
-   [
-    7,
-    8
    ]
   ],
   "fits2": true,
@@ -3433,43 +3536,6 @@
   "ambiguous": true
  },
  {
-  "letter": "q",
-  "company": "Qualcomm India",
-  "country": "India",
-  "board": "sitemap:https://careers.qualcomm.com",
-  "title": "Engineer, -AI and Machine Learning with embedded/C++",
-  "location": "Hyderabad, TS,IN",
-  "url": "http://careers.qualcomm.com/careers/job/446718415833-engineer-ai-and-machine-learning-with-embedded-c--hyderabad-telangāna-india?domain=qualcomm.com",
-  "india": true,
-  "isEng": true,
-  "senior": false,
-  "java": true,
-  "flutter": false,
-  "score": 100,
-  "exp": [
-   [
-    9,
-    15
-   ],
-   [
-    4,
-    8
-   ],
-   [
-    3,
-    7
-   ],
-   [
-    2,
-    6
-   ]
-  ],
-  "fits2": true,
-  "fits3": true,
-  "unstated": false,
-  "ambiguous": true
- },
- {
   "letter": "s",
   "company": "Sagarsoft",
   "country": "India",
@@ -3586,35 +3652,6 @@
    [
     5,
     6
-   ]
-  ],
-  "fits2": true,
-  "fits3": true,
-  "unstated": false,
-  "ambiguous": true
- },
- {
-  "letter": "t",
-  "company": "TechAhead",
-  "country": "India",
-  "board": "keka:techahead",
-  "title": "QA Engineer",
-  "location": "Noida, UP",
-  "url": "https://techahead.keka.com/careers/jobdetails/110778",
-  "india": true,
-  "isEng": true,
-  "senior": false,
-  "java": true,
-  "flutter": false,
-  "score": 100,
-  "exp": [
-   [
-    15,
-    19
-   ],
-   [
-    2,
-    3
    ]
   ],
   "fits2": true,
@@ -3763,26 +3800,6 @@
  },
  {
   "letter": "a",
-  "company": "AutomationEdge",
-  "country": "India",
-  "board": "headings:https://www.automationedge.com/careers/",
-  "title": "Java Developer – Fresher",
-  "location": "",
-  "url": "https://www.automationedge.com/careers/",
-  "india": true,
-  "isEng": true,
-  "senior": false,
-  "java": true,
-  "flutter": false,
-  "score": 86,
-  "exp": [],
-  "fits2": false,
-  "fits3": false,
-  "unstated": true,
-  "ambiguous": false
- },
- {
-  "letter": "a",
   "company": "Anaplan",
   "country": "United States",
   "board": "greenhouse:anaplan",
@@ -3829,26 +3846,6 @@
   "title": "Jr Mobile Developer Android",
   "location": "Ahmedabad, GJ | Bengaluru, KA",
   "url": "https://cloudthat.keka.com/careers/jobdetails/121520",
-  "india": true,
-  "isEng": true,
-  "senior": false,
-  "java": true,
-  "flutter": false,
-  "score": 86,
-  "exp": [],
-  "fits2": false,
-  "fits3": false,
-  "unstated": true,
-  "ambiguous": false
- },
- {
-  "letter": "g",
-  "company": "Gameberry Labs",
-  "country": "India",
-  "board": "rendered",
-  "title": "SDE - I (PS)",
-  "location": "",
-  "url": "https://gameberry.keka.com/careers",
   "india": true,
   "isEng": true,
   "senior": false,
@@ -4183,6 +4180,26 @@
  },
  {
   "letter": "s",
+  "company": "Saeculum Solutions",
+  "country": "India",
+  "board": "headings:https://saeculumsolutions.com/careers",
+  "title": "Mobile Developer",
+  "location": "",
+  "url": "https://saeculumsolutions.com/careers",
+  "india": true,
+  "isEng": true,
+  "senior": false,
+  "java": false,
+  "flutter": true,
+  "score": 77,
+  "exp": [],
+  "fits2": false,
+  "fits3": false,
+  "unstated": true,
+  "ambiguous": false
+ },
+ {
+  "letter": "s",
   "company": "Shiv Technolabs",
   "country": "India",
   "board": "headings:https://shivlab.com/careers/",
@@ -4269,6 +4286,26 @@
   "title": "Software Engineer",
   "location": "Bangalore, Karnātaka",
   "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/Bangalore-Karnataka-India/Software-Engineer_JR00040904-1/apply",
+  "india": true,
+  "isEng": true,
+  "senior": false,
+  "java": true,
+  "flutter": false,
+  "score": 74,
+  "exp": [],
+  "fits2": false,
+  "fits3": false,
+  "unstated": true,
+  "ambiguous": false
+ },
+ {
+  "letter": "a",
+  "company": "Adobe",
+  "country": "United States",
+  "board": "phenom:_self",
+  "title": "Software Quality Engineer 2",
+  "location": "Noida, Uttar Pradesh",
+  "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Software-Quality-Engineer-2_R169340/apply",
   "india": true,
   "isEng": true,
   "senior": false,
@@ -4563,6 +4600,26 @@
  },
  {
   "letter": "c",
+  "company": "The Cigna Group",
+  "country": "United States",
+  "board": "workday:cigna",
+  "title": "Software Engineering Advisor - HIH - Evernorth",
+  "location": "Hyderabad, India",
+  "url": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Hyderabad-India/Software-Engineering-Advisor---HIH---Evernorth_26007583",
+  "india": true,
+  "isEng": true,
+  "senior": false,
+  "java": true,
+  "flutter": false,
+  "score": 74,
+  "exp": [],
+  "fits2": false,
+  "fits3": false,
+  "unstated": true,
+  "ambiguous": false
+ },
+ {
+  "letter": "c",
   "company": "CarWale",
   "country": "India",
   "board": "headings:https://www.carwale.com/career/",
@@ -4649,6 +4706,26 @@
   "title": "SDE (Automation & Quality Focus)",
   "location": "India",
   "url": "https://jobs.lever.co/drivetrain/6a56a48c-32e0-43ee-ac4b-b6638c83f81f",
+  "india": true,
+  "isEng": true,
+  "senior": false,
+  "java": true,
+  "flutter": false,
+  "score": 74,
+  "exp": [],
+  "fits2": false,
+  "fits3": false,
+  "unstated": true,
+  "ambiguous": false
+ },
+ {
+  "letter": "e",
+  "company": "Entrans Technologies",
+  "country": "India",
+  "board": "headings:https://www.entrans.ai/career",
+  "title": "Java Developer (Springboot,Security defects)",
+  "location": "",
+  "url": "https://www.entrans.ai/career",
   "india": true,
   "isEng": true,
   "senior": false,
@@ -4846,26 +4923,6 @@
   "company": "eBay",
   "country": "United States",
   "board": "phenom:_self",
-  "title": "Software Engineer 2",
-  "location": "Bengaluru, Karnātaka",
-  "url": "https://ebay.wd5.myworkdayjobs.com/apply/job/Bengaluru-India/Software-Engineer-2_R0073183/apply",
-  "india": true,
-  "isEng": true,
-  "senior": false,
-  "java": true,
-  "flutter": false,
-  "score": 74,
-  "exp": [],
-  "fits2": false,
-  "fits3": false,
-  "unstated": true,
-  "ambiguous": false
- },
- {
-  "letter": "e",
-  "company": "eBay",
-  "country": "United States",
-  "board": "phenom:_self",
   "title": "MTS 2, Software Engineer",
   "location": "Bengaluru, Karnātaka",
   "url": "https://ebay.wd5.myworkdayjobs.com/apply/job/Bengaluru-India/MTS-2--Software-Engineer_R0071954/apply",
@@ -4963,12 +5020,52 @@
  },
  {
   "letter": "e",
+  "company": "Evernorth Health Services",
+  "country": "United States",
+  "board": "phenom:_self",
+  "title": "Software Engineering Advisor - HIH - Evernorth",
+  "location": "Hyderabad, Telangāna",
+  "url": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Hyderabad-India/Software-Engineering-Advisor---HIH---Evernorth_26007583/apply",
+  "india": true,
+  "isEng": true,
+  "senior": false,
+  "java": true,
+  "flutter": false,
+  "score": 74,
+  "exp": [],
+  "fits2": false,
+  "fits3": false,
+  "unstated": true,
+  "ambiguous": false
+ },
+ {
+  "letter": "e",
   "company": "e-Zest Solutions",
   "country": "India",
   "board": "headings:https://www.e-zest.com/careers",
   "title": "Java Full Stack Developer",
   "location": "",
   "url": "https://www.e-zest.com/careers",
+  "india": true,
+  "isEng": true,
+  "senior": false,
+  "java": true,
+  "flutter": false,
+  "score": 74,
+  "exp": [],
+  "fits2": false,
+  "fits3": false,
+  "unstated": true,
+  "ambiguous": false
+ },
+ {
+  "letter": "g",
+  "company": "Genpact",
+  "country": "United States",
+  "board": "workday:genpact",
+  "title": "Developer - Application Development N 4A",
+  "location": "1401-G-India: Imagine Tech Park, Plot no 6,Kolkata",
+  "url": "https://genpact.wd108.myworkdayjobs.com/External_Careers/job/1401-G-India-Imagine-Tech-Park-Plot-no-6Kolkata/Developer---Application-Development-N-4A_JR10019337",
   "india": true,
   "isEng": true,
   "senior": false,
@@ -5149,26 +5246,6 @@
   "title": "Consultant (Devops Engineer)",
   "location": "",
   "url": "https://www.ionidea.com/careers.php",
-  "india": true,
-  "isEng": true,
-  "senior": false,
-  "java": true,
-  "flutter": false,
-  "score": 74,
-  "exp": [],
-  "fits2": false,
-  "fits3": false,
-  "unstated": true,
-  "ambiguous": false
- },
- {
-  "letter": "i",
-  "company": "Iris Software",
-  "country": "India",
-  "board": "successfactors:careers.irissoftware.com",
-  "title": "SDET - Engineer",
-  "location": "Noida, UP, India",
-  "url": "https://careers.irissoftware.com/job/Noida-SDET-Engineer-UP/55861444/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
   "india": true,
   "isEng": true,
   "senior": false,
@@ -5402,6 +5479,26 @@
   "ambiguous": false
  },
  {
+  "letter": "k",
+  "company": "Krazy Mantra",
+  "country": "India",
+  "board": "headings:https://www.krazymantra.com/career.php",
+  "title": "Java Full Stack Developer",
+  "location": "",
+  "url": "https://www.krazymantra.com/career.php",
+  "india": true,
+  "isEng": true,
+  "senior": false,
+  "java": true,
+  "flutter": false,
+  "score": 74,
+  "exp": [],
+  "fits2": false,
+  "fits3": false,
+  "unstated": true,
+  "ambiguous": false
+ },
+ {
   "letter": "l",
   "company": "Let's Nurture",
   "country": "India",
@@ -5409,6 +5506,66 @@
   "title": "WordPress Developer",
   "location": "",
   "url": "https://www.letsnurture.com/career/wordpress-developer.html",
+  "india": true,
+  "isEng": true,
+  "senior": false,
+  "java": true,
+  "flutter": false,
+  "score": 74,
+  "exp": [],
+  "fits2": false,
+  "fits3": false,
+  "unstated": true,
+  "ambiguous": false
+ },
+ {
+  "letter": "l",
+  "company": "Luxoft",
+  "country": "Switzerland",
+  "board": "rendered",
+  "title": "AI Engineer - Android Android Remote Mexico Mexico",
+  "location": "",
+  "url": "https://career.luxoft.com/jobs/ai-engineer-android-26516",
+  "india": true,
+  "isEng": true,
+  "senior": false,
+  "java": true,
+  "flutter": false,
+  "score": 74,
+  "exp": [],
+  "fits2": false,
+  "fits3": false,
+  "unstated": true,
+  "ambiguous": false
+ },
+ {
+  "letter": "l",
+  "company": "Luxoft",
+  "country": "Switzerland",
+  "board": "rendered",
+  "title": "Software Developer Domain Specific Languages Remote United States United States of America",
+  "location": "",
+  "url": "https://career.luxoft.com/jobs/software-developer-26515-rit",
+  "india": true,
+  "isEng": true,
+  "senior": false,
+  "java": true,
+  "flutter": false,
+  "score": 74,
+  "exp": [],
+  "fits2": false,
+  "fits3": false,
+  "unstated": true,
+  "ambiguous": false
+ },
+ {
+  "letter": "l",
+  "company": "Luxoft",
+  "country": "Switzerland",
+  "board": "rendered",
+  "title": "Ful Stack Developer Java Full Stack Remote Vietnam Viet Nam",
+  "location": "",
+  "url": "https://career.luxoft.com/jobs/ful-stack-developer-26508",
   "india": true,
   "isEng": true,
   "senior": false,
@@ -5802,13 +5959,13 @@
   "ambiguous": false
  },
  {
-  "letter": "o",
-  "company": "OpenText India",
+  "letter": "p",
+  "company": "PayU",
   "country": "India",
-  "board": "phenom:_self",
-  "title": "Premium Support Engineer- Fortify",
-  "location": "Bangalore, Karnataka",
-  "url": "https://careers.opentext.com/us/en/job/51960",
+  "board": "successfactors:careers.payu.in",
+  "title": "Production Support Engineer (Python, Sql)",
+  "location": "Mumbai, IN",
+  "url": "https://careers.payu.in/PayU/job/Mumbai-Production-Support-Engineer-%28Python%2C-Sql%29/3873980/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
   "india": true,
   "isEng": true,
   "senior": false,
@@ -5823,12 +5980,12 @@
  },
  {
   "letter": "p",
-  "company": "PayU",
+  "company": "Pratiti Technologies",
   "country": "India",
-  "board": "successfactors:careers.payu.in",
-  "title": "Production Support Engineer (Python, Sql)",
-  "location": "Mumbai, IN",
-  "url": "https://careers.payu.in/PayU/job/Mumbai-Production-Support-Engineer-%28Python%2C-Sql%29/3873980/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+  "board": "rendered",
+  "title": "Java Backend Developer",
+  "location": "",
+  "url": "https://pratititech.zohorecruit.com/jobs/Pratiti-Technologies-Pvt-Ltd/481259000048839248/Java-Backend-Developer?source=CareerSite",
   "india": true,
   "isEng": true,
   "senior": false,
@@ -6003,12 +6160,12 @@
  },
  {
   "letter": "s",
-  "company": "Sabre",
-  "country": "US",
-  "board": "workday:sabre",
-  "title": "Site Reliability Engineer",
-  "location": "Bengaluru, Karnataka, India",
-  "url": "https://sabre.wd1.myworkdayjobs.com/SabreJobs/job/Bengaluru-Karnataka-India/Site-Reliability-Engineer_JR108421-1",
+  "company": "SellerApp",
+  "country": "India",
+  "board": "headings:https://www.sellerapp.com/career",
+  "title": "Developer with preferable experience in Go(Golang)",
+  "location": "",
+  "url": "https://www.sellerapp.com/career",
   "india": true,
   "isEng": true,
   "senior": false,
@@ -6023,12 +6180,12 @@
  },
  {
   "letter": "s",
-  "company": "SellerApp",
+  "company": "Simplilearn",
   "country": "India",
-  "board": "headings:https://www.sellerapp.com/career",
-  "title": "Developer with preferable experience in Go(Golang)",
+  "board": "feed:https://www.simplilearn.com",
+  "title": "Hadoop Developer- ZooKeeper Sqoop and Flume Video Tutorial | Simplilearn",
   "location": "",
-  "url": "https://www.sellerapp.com/career",
+  "url": "https://www.simplilearn.com/zookeeper-sqoop-and-flume-quick-tutorial-video",
   "india": true,
   "isEng": true,
   "senior": false,
@@ -6106,49 +6263,29 @@
   "company": "Synechron",
   "country": "US",
   "board": "workday:synechron",
+  "title": "Finacle Product Engineer | Selenium, Java & Retail Assets Production Support",
+  "location": "Chennai - Taramani (Ascendas)",
+  "url": "https://synechron.wd1.myworkdayjobs.com/SynechronCareers/job/Chennai---Taramani-Ascendas/Finacle-Product-Engineer---Selenium--Java---Retail-Assets-Production-Support_JR1042757",
+  "india": true,
+  "isEng": true,
+  "senior": false,
+  "java": true,
+  "flutter": false,
+  "score": 74,
+  "exp": [],
+  "fits2": false,
+  "fits3": false,
+  "unstated": true,
+  "ambiguous": false
+ },
+ {
+  "letter": "s",
+  "company": "Synechron",
+  "country": "US",
+  "board": "workday:synechron",
   "title": "Java & Angular Developer – Spring, REST APIs & SQL",
   "location": "Hyderabad Eco Park",
   "url": "https://synechron.wd1.myworkdayjobs.com/SynechronCareers/job/Hyderabad--Eco-Park/Java---Angular-Developer---Spring--REST-APIs---SQL_JR1042426",
-  "india": true,
-  "isEng": true,
-  "senior": false,
-  "java": true,
-  "flutter": false,
-  "score": 74,
-  "exp": [],
-  "fits2": false,
-  "fits3": false,
-  "unstated": true,
-  "ambiguous": false
- },
- {
-  "letter": "s",
-  "company": "Synechron",
-  "country": "US",
-  "board": "workday:synechron",
-  "title": "Java Developer",
-  "location": "Pune - Hinjewadi (Ascendas)",
-  "url": "https://synechron.wd1.myworkdayjobs.com/SynechronCareers/job/Pune---Hinjewadi-Ascendas/Java-Developer_JR1042326-2",
-  "india": true,
-  "isEng": true,
-  "senior": false,
-  "java": true,
-  "flutter": false,
-  "score": 74,
-  "exp": [],
-  "fits2": false,
-  "fits3": false,
-  "unstated": true,
-  "ambiguous": false
- },
- {
-  "letter": "s",
-  "company": "Synechron",
-  "country": "US",
-  "board": "workday:synechron",
-  "title": "Software Engineer – Java, Spring Boot, AWS & Claude",
-  "location": "Gurugram",
-  "url": "https://synechron.wd1.myworkdayjobs.com/SynechronCareers/job/Gurugram/Software-Engineer---Java--Spring-Boot--AWS---Claude_JR1041850",
   "india": true,
   "isEng": true,
   "senior": false,

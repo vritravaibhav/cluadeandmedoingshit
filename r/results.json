@@ -90,7 +90,7 @@
     {
      "url": "https://careers.jio.com",
      "status": 200,
-     "bytes": 79537
+     "bytes": 79535
     },
     {
      "url": "https://jio.com/careers",
@@ -240,14 +240,14 @@
     "workable:reliancejio -> no board"
    ]
   },
-  "ms": 15987
+  "ms": 13819
  },
  {
   "company": "Razorpay",
   "country": "India",
   "source": "greenhouse:razorpaysoftwareprivatelimited",
   "error": null,
-  "totalJobs": 23,
+  "totalJobs": 19,
   "jobs": [
    {
     "title": "Software Development Engineer",
@@ -316,30 +316,6 @@
     ],
     "expFits2": true,
     "score": 57
-   },
-   {
-    "title": "Analyst, Banking Operations",
-    "location": "Mumbai",
-    "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4722154005",
-    "india": true,
-    "locationSaysIndia": true,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [
-     [
-      1,
-      5
-     ],
-     [
-      5,
-      6
-     ]
-    ],
-    "expFits2": true,
-    "score": 45
    },
    {
     "title": "Communication Designer",
@@ -451,54 +427,6 @@
     "exp": [],
     "expFits2": false,
     "score": 27
-   },
-   {
-    "title": "Senior Analyst, Business Operations",
-    "location": "Bengaluru",
-    "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4719358005",
-    "india": true,
-    "locationSaysIndia": true,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": true,
-    "exp": [
-     [
-      2,
-      3
-     ],
-     [
-      3,
-      4
-     ]
-    ],
-    "expFits2": true,
-    "score": 23
-   },
-   {
-    "title": "Senior Product Manager (Growth)",
-    "location": "Bengaluru",
-    "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4694507005",
-    "india": true,
-    "locationSaysIndia": true,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": true,
-    "exp": [
-     [
-      6,
-      10
-     ],
-     [
-      2,
-      6
-     ]
-    ],
-    "expFits2": true,
-    "score": 23
    },
    {
     "title": "Senior Associate, Enterprise Partnerships",
@@ -657,30 +585,6 @@
     "exp": [],
     "expFits2": false,
     "score": -3
-   },
-   {
-    "title": "Manager, Brand Marketing",
-    "location": "Bengaluru",
-    "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4718620005",
-    "india": true,
-    "locationSaysIndia": true,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": true,
-    "exp": [
-     [
-      5,
-      7
-     ],
-     [
-      7,
-      8
-     ]
-    ],
-    "expFits2": false,
-    "score": -7
    },
    {
     "title": "Senior Area Manager, Government & Transit (POS)",
@@ -866,22 +770,52 @@
     {
      "url": "https://razorpay.com/careers",
      "status": 200,
-     "bytes": 950242
+     "bytes": 950249
     },
     {
      "url": "https://razorpay.com/career",
      "status": 200,
-     "bytes": 950243
+     "bytes": 950250
     },
     {
      "url": "https://razorpay.com/jobs",
      "status": 200,
-     "bytes": 950152
+     "bytes": 950255
     },
     {
      "url": "https://razorpay.com/join-us",
      "status": 404,
      "bytes": 77785
+    },
+    {
+     "url": "https://razorpay.com/join-our-team",
+     "status": 404,
+     "bytes": 77785
+    },
+    {
+     "url": "https://razorpay.com/careers.html",
+     "status": 404,
+     "bytes": 77785
+    },
+    {
+     "url": "https://razorpay.com/company/careers",
+     "status": 404,
+     "bytes": 77785
+    },
+    {
+     "url": "https://razorpay.com/about/careers",
+     "status": 404,
+     "bytes": 77785
+    },
+    {
+     "url": "https://razorpay.com/current-openings",
+     "status": 404,
+     "bytes": 77785
+    },
+    {
+     "url": "https://razorpay.com/",
+     "status": 200,
+     "bytes": 2879731
     }
    ],
    "candidates": [
@@ -893,10 +827,10 @@
     "workable:razorpay(guess)"
    ],
    "attempts": [
-    "greenhouse:razorpaysoftwareprivatelimited -> 23 jobs"
+    "greenhouse:razorpaysoftwareprivatelimited -> 19 jobs"
    ]
   },
-  "ms": 2167
+  "ms": 4120
  },
  {
   "company": "Rapido",
@@ -986,7 +920,7 @@
     "workable:rapido -> no board"
    ]
   },
-  "ms": 21575
+  "ms": 20411
  },
  {
   "company": "Rakuten India",
@@ -1380,7 +1314,7 @@
     {
      "url": "https://rakuten.com/",
      "status": 200,
-     "bytes": 1956921
+     "bytes": 1956915
     }
    ],
    "candidates": [
@@ -1395,7 +1329,7 @@
     "workday:rakuten -> 16 jobs"
    ]
   },
-  "ms": 21895
+  "ms": 22069
  },
  {
   "company": "Redbus",
@@ -1465,7 +1399,7 @@
     {
      "url": "https://redbus.in/",
      "status": 200,
-     "bytes": 449372
+     "bytes": 449369
     }
    ],
    "candidates": [
@@ -1483,7 +1417,7 @@
     "workable:redbus -> no board"
    ]
   },
-  "ms": 17885
+  "ms": 20037
  },
  {
   "company": "Robert Bosch India",
@@ -1556,7 +1490,7 @@
     "workable:bosch -> no board"
    ]
   },
-  "ms": 32437
+  "ms": 28685
  },
  {
   "company": "Rockwell Automation India",
@@ -1569,26 +1503,6 @@
     "title": "Engineer, Embedded Software Test - Python",
     "location": "Katowice, Poland",
     "url": "https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Katowice-Poland/Engineer--Embedded-Software-Test---Python_R26-5367",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": true,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [
-     [
-      2,
-      6
-     ]
-    ],
-    "expFits2": true,
-    "score": 60
-   },
-   {
-    "title": "Manufacturing Engineer",
-    "location": "Kitchener, Ontario, Canada",
-    "url": "https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Kitchener-Ontario-Canada/Manufacturing-Engineer_R26-5879-1",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
@@ -1620,6 +1534,42 @@
      [
       3,
       4
+     ]
+    ],
+    "expFits2": false,
+    "score": 42
+   },
+   {
+    "title": "QA Engineer",
+    "location": "4 Locations",
+    "url": "https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Pune-India/QA-Engineer_R26-4873-1",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": true,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [
+     [
+      3,
+      10
+     ],
+     [
+      3,
+      5
+     ],
+     [
+      3,
+      7
+     ],
+     [
+      3,
+      4
+     ],
+     [
+      5,
+      6
      ]
     ],
     "expFits2": false,
@@ -1710,39 +1660,24 @@
     "score": 38
    },
    {
+    "title": "Manufacturing Engineer",
+    "location": "Kitchener, Ontario, Canada",
+    "url": "https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Kitchener-Ontario-Canada/Manufacturing-Engineer_R26-5879-1",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": true,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 34
+   },
+   {
     "title": "MES Software Engineer",
     "location": "Huntsville, Alabama, United States",
     "url": "https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Huntsville-Alabama-United-States/Senior-MES-Software-Engineer_R26-4662",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": true,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 34
-   },
-   {
-    "title": "Concept Developer",
-    "location": "4 Locations",
-    "url": "https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Milwaukee-Wisconsin-United-States/Concept-Developer_R26-3986",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": true,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 34
-   },
-   {
-    "title": "AEM Full Stack Developer",
-    "location": "4 Locations",
-    "url": "https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Pune-India/AEM-Full-Stack-Developer_R26-4959",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
@@ -1856,6 +1791,21 @@
     "title": "Quality Control Inspector",
     "location": "Singapore, Singapore",
     "url": "https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Singapore-Singapore/Quality-Control-Inspector_R26-5702",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 4
+   },
+   {
+    "title": "Contract Administrator",
+    "location": "2 Locations",
+    "url": "https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/India-New-Delhi-Noida/Contract-Administrator_R26-4071",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
@@ -2003,21 +1953,6 @@
     "score": 4
    },
    {
-    "title": "Training Development Specialist",
-    "location": "Mexico City, Mexico",
-    "url": "https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Mexico-City-Mexico/Training-and-Learning-Development-Specialist-2_R26-2542",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 4
-   },
-   {
     "title": "Executive Assistant",
     "location": "Denver, Colorado, United States",
     "url": "https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Denver-Colorado-United-States/Executive-Assistant_R26-5496",
@@ -2121,6 +2056,21 @@
     "exp": [],
     "expFits2": false,
     "score": -3
+   },
+   {
+    "title": "North America Process Business Manager",
+    "location": "Mayfield Heights, Ohio, United States",
+    "url": "https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Mayfield-Heights-Ohio-United-States/North-America-Process-Business-Manager_R26-6056",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [],
+    "expFits2": false,
+    "score": -18
    },
    {
     "title": "Purchasing Team Lead",
@@ -2296,7 +2246,7 @@
     {
      "url": "https://rockwellautomation.com/careers",
      "status": 200,
-     "bytes": 75225
+     "bytes": 75226
     },
     {
      "url": "https://rockwellautomation.com/career",
@@ -2321,7 +2271,7 @@
     {
      "url": "https://rockwellautomation.com/careers.html",
      "status": 200,
-     "bytes": 75225
+     "bytes": 75226
     },
     {
      "url": "https://rockwellautomation.com/company/careers",
@@ -2341,7 +2291,7 @@
     {
      "url": "https://rockwellautomation.com/",
      "status": 200,
-     "bytes": 94524
+     "bytes": 94525
     },
     {
      "url": "https://careers.www.rockwellautomation.com",
@@ -2352,7 +2302,7 @@
     {
      "url": "https://www.rockwellautomation.com/careers",
      "status": 200,
-     "bytes": 75225
+     "bytes": 75226
     },
     {
      "url": "https://www.rockwellautomation.com/career",
@@ -2377,7 +2327,7 @@
     {
      "url": "https://www.rockwellautomation.com/careers.html",
      "status": 200,
-     "bytes": 75225
+     "bytes": 75226
     },
     {
      "url": "https://www.rockwellautomation.com/company/careers",
@@ -2397,7 +2347,7 @@
     {
      "url": "https://www.rockwellautomation.com/",
      "status": 200,
-     "bytes": 94524
+     "bytes": 94525
     },
     {
      "url": "https://www.rockwellautomation.com/en-us/careers/view-jobs.html",
@@ -2407,12 +2357,12 @@
     {
      "url": "https://www.rockwellautomation.com/en-us/careers.html",
      "status": 200,
-     "bytes": 75225
+     "bytes": 75226
     },
     {
      "url": "https://www.rockwellautomation.com/en-us/company/careers/teams-people.html",
      "status": 200,
-     "bytes": 72109
+     "bytes": 72110
     }
    ],
    "candidates": [
@@ -2427,7 +2377,7 @@
     "workday:rockwellautomation -> 40 jobs"
    ]
   },
-  "ms": 24028
+  "ms": 28720
  },
  {
   "company": "Rupeek",
@@ -2694,7 +2644,7 @@
     "workable:rupeek -> no board"
    ]
   },
-  "ms": 12791
+  "ms": 13772
  },
  {
   "company": "RBL Bank",
@@ -2757,7 +2707,7 @@
     "workable:rblbank -> no board"
    ]
   },
-  "ms": 21374
+  "ms": 33912
  },
  {
   "company": "Rebel Foods",
@@ -2893,7 +2843,7 @@
     "workable:rebelfoods -> no board"
    ]
   },
-  "ms": 43325
+  "ms": 64268
  },
  {
   "company": "Recko",
@@ -2917,17 +2867,17 @@
     {
      "url": "https://recko.io/careers",
      "status": 403,
-     "bytes": 243
+     "bytes": 263
     },
     {
      "url": "https://recko.io/career",
      "status": 403,
-     "bytes": 263
+     "bytes": 243
     },
     {
      "url": "https://recko.io/jobs",
      "status": 403,
-     "bytes": 243
+     "bytes": 263
     },
     {
      "url": "https://recko.io/join-us",
@@ -2942,22 +2892,22 @@
     {
      "url": "https://recko.io/careers.html",
      "status": 403,
-     "bytes": 243
+     "bytes": 263
     },
     {
      "url": "https://recko.io/company/careers",
      "status": 403,
-     "bytes": 263
+     "bytes": 243
     },
     {
      "url": "https://recko.io/about/careers",
      "status": 403,
-     "bytes": 263
+     "bytes": 243
     },
     {
      "url": "https://recko.io/current-openings",
      "status": 403,
-     "bytes": 243
+     "bytes": 263
     },
     {
      "url": "https://recko.io/",
@@ -2973,12 +2923,12 @@
     {
      "url": "https://www.recko.io/careers",
      "status": 403,
-     "bytes": 263
+     "bytes": 243
     },
     {
      "url": "https://www.recko.io/career",
      "status": 403,
-     "bytes": 243
+     "bytes": 263
     },
     {
      "url": "https://www.recko.io/jobs",
@@ -3008,7 +2958,7 @@
     {
      "url": "https://www.recko.io/about/careers",
      "status": 403,
-     "bytes": 243
+     "bytes": 263
     },
     {
      "url": "https://www.recko.io/current-openings",
@@ -3040,7 +2990,7 @@
     "workable:recko -> no board"
    ]
   },
-  "ms": 5867
+  "ms": 6272
  },
  {
   "company": "Red Hat India",
@@ -3375,21 +3325,6 @@
     "score": 4
    },
    {
-    "title": "Agile Development Coach",
-    "location": "Tokyo",
-    "url": "https://redhat.wd5.myworkdayjobs.com/jobs/job/Tokyo/Agile-Development-Lead_R-052088-1",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 4
-   },
-   {
     "title": "Associate Project Manager – Technical (m/f/d)",
     "location": "2 Locations",
     "url": "https://redhat.wd5.myworkdayjobs.com/jobs/job/Munich/Associate-Project-Manager---Technical_R-058464-2",
@@ -3403,6 +3338,21 @@
     "exp": [],
     "expFits2": false,
     "score": -6
+   },
+   {
+    "title": "Security Technical Account Manager - Project Lightwell - Japan",
+    "location": "Tokyo",
+    "url": "https://redhat.wd5.myworkdayjobs.com/jobs/job/Tokyo/Security-Technical-Account-Manager---Project-Lightwell---Japan_R-058055-1",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [],
+    "expFits2": false,
+    "score": -18
    },
    {
     "title": "Director, Sales_Regional",
@@ -3735,7 +3685,7 @@
     {
      "url": "https://careers.redhat.com",
      "status": 200,
-     "bytes": 606406
+     "bytes": 604552
     },
     {
      "url": "https://redhat.com/careers",
@@ -3746,6 +3696,21 @@
      "url": "https://redhat.com/career",
      "status": 404,
      "bytes": 353399
+    },
+    {
+     "url": "https://redhat.com/jobs",
+     "status": 200,
+     "bytes": 604552
+    },
+    {
+     "url": "https://redhat.com/join-us",
+     "status": 404,
+     "bytes": 353403
+    },
+    {
+     "url": "https://redhat.com/join-our-team",
+     "status": 404,
+     "bytes": 353427
     }
    ],
    "candidates": [
@@ -3761,7 +3726,7 @@
     "workday:redhat -> 40 jobs"
    ]
   },
-  "ms": 10282
+  "ms": 12740
  },
  {
   "company": "Reltio India",
@@ -3836,17 +3801,32 @@
     {
      "url": "https://reltio.com/careers",
      "status": 200,
-     "bytes": 106693
+     "bytes": 106709
     },
     {
      "url": "https://reltio.com/career",
      "status": 200,
-     "bytes": 106766
+     "bytes": 106709
     },
     {
      "url": "https://reltio.com/jobs",
      "status": 404,
+     "bytes": 88216
+    },
+    {
+     "url": "https://reltio.com/join-us",
+     "status": 404,
+     "bytes": 88219
+    },
+    {
+     "url": "https://reltio.com/join-our-team",
+     "status": 404,
      "bytes": 88215
+    },
+    {
+     "url": "https://reltio.com/careers.html",
+     "status": 404,
+     "bytes": 88193
     }
    ],
    "candidates": [
@@ -3864,7 +3844,7 @@
     "workable:reltio -> no board"
    ]
   },
-  "ms": 12919
+  "ms": 18879
  },
  {
   "company": "ReNew",
@@ -3872,7 +3852,7 @@
   "careers": "https://careers.renew.com/",
   "source": "successfactors:careers.renew.com",
   "error": null,
-  "totalJobs": 32,
+  "totalJobs": 33,
   "jobs": [
    {
     "title": "Junior Engineer - Wind O & M",
@@ -3945,6 +3925,21 @@
     ],
     "expFits2": false,
     "score": 57
+   },
+   {
+    "title": "Engineer - Hydro Operations & Maintenance",
+    "location": "IN",
+    "url": "https://careers.renew.com/job/Engineer-Hydro-Operations-&-Maintenance/58314244/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+    "india": true,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": true,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 49
    },
    {
     "title": "Junior Engineer-Maintenance",
@@ -4196,6 +4191,26 @@
     "score": 15
    },
    {
+    "title": "Executive-Corporate Admin",
+    "location": "GJ, IN",
+    "url": "https://careers.renew.com/job/Bhurai-In-Executive-Corporate-Admin-GJ/58587744/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+    "india": true,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [
+     [
+      10,
+      14
+     ]
+    ],
+    "expFits2": false,
+    "score": 15
+   },
+   {
     "title": "Executive - HSE",
     "location": "GJ, IN",
     "url": "https://careers.renew.com/job/Bhurai-In-Executive-HSE-GJ/50250144/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
@@ -4246,21 +4261,6 @@
     "score": 12
    },
    {
-    "title": "Executive-Corporate Admin",
-    "location": "GJ, IN",
-    "url": "https://careers.renew.com/job/Bhurai-In-Executive-Corporate-Admin-GJ/58587744/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 4
-   },
-   {
     "title": "Assistant General Manager - Administration & Security",
     "location": "IN",
     "url": "https://careers.renew.com/job/Assistant-General-Manager-Administration-&-Security/58607244/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
@@ -4296,9 +4296,9 @@
     "score": -7
    },
    {
-    "title": "Manager - Contracts",
+    "title": "Manager _ Secretarial",
     "location": "IN",
-    "url": "https://careers.renew.com/job/Manager-Contracts/57728044/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+    "url": "https://careers.renew.com/job/Manager-_-Secretarial/58661244/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
     "india": true,
     "locationSaysIndia": false,
     "hasLocation": true,
@@ -4308,16 +4308,8 @@
     "senior": true,
     "exp": [
      [
-      10,
+      8,
       12
-     ],
-     [
-      10,
-      14
-     ],
-     [
-      12,
-      13
      ]
     ],
     "expFits2": false,
@@ -4338,26 +4330,6 @@
      [
       10,
       14
-     ]
-    ],
-    "expFits2": false,
-    "score": -7
-   },
-   {
-    "title": "Manager _ Secretarial",
-    "location": "IN",
-    "url": "https://careers.renew.com/job/Manager-_-Secretarial/58661244/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": true,
-    "exp": [
-     [
-      8,
-      12
      ]
     ],
     "expFits2": false,
@@ -4524,6 +4496,21 @@
     "score": -7
    },
    {
+    "title": "Manager - Cell Quality",
+    "location": "GJ, IN",
+    "url": "https://careers.renew.com/job/Bhurai-In-Manager-Cell-Quality-GJ/55811844/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [],
+    "expFits2": false,
+    "score": -18
+   },
+   {
     "title": "Assistant Manager - HSE Manufacturing",
     "location": "IN",
     "url": "https://careers.renew.com/job/Assistant-Manager-HSE-Manufacturing/54038344/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
@@ -4627,12 +4614,12 @@
     {
      "url": "https://renew.com/career",
      "status": 200,
-     "bytes": 304574
+     "bytes": 304573
     },
     {
      "url": "https://renew.com/jobs",
      "status": 200,
-     "bytes": 304572
+     "bytes": 304574
     },
     {
      "url": "https://renew.com/join-us",
@@ -4642,7 +4629,7 @@
     {
      "url": "https://renew.com/join-our-team",
      "status": 200,
-     "bytes": 304574
+     "bytes": 304575
     },
     {
      "url": "https://renew.com/careers.html",
@@ -4657,7 +4644,7 @@
     {
      "url": "https://renew.com/about/careers",
      "status": 200,
-     "bytes": 304575
+     "bytes": 304574
     },
     {
      "url": "https://renew.com/current-openings",
@@ -4667,7 +4654,7 @@
     {
      "url": "https://renew.com/",
      "status": 200,
-     "bytes": 304574
+     "bytes": 304575
     },
     {
      "url": "https://careers.www.renew.com",
@@ -4693,7 +4680,7 @@
     {
      "url": "https://www.renew.com/join-us",
      "status": 200,
-     "bytes": 304574
+     "bytes": 304575
     },
     {
      "url": "https://www.renew.com/join-our-team",
@@ -4703,17 +4690,17 @@
     {
      "url": "https://www.renew.com/careers.html",
      "status": 200,
-     "bytes": 304574
+     "bytes": 304575
     },
     {
      "url": "https://www.renew.com/company/careers",
      "status": 200,
-     "bytes": 304575
+     "bytes": 304574
     },
     {
      "url": "https://www.renew.com/about/careers",
      "status": 200,
-     "bytes": 304575
+     "bytes": 304574
     },
     {
      "url": "https://www.renew.com/current-openings",
@@ -4723,7 +4710,7 @@
     {
      "url": "https://www.renew.com/",
      "status": 200,
-     "bytes": 304575
+     "bytes": 304574
     },
     {
      "url": "https://careers.renew.com/go/Business-Development-Jobs/622944/",
@@ -4745,10 +4732,10 @@
     "workable:renew(guess)"
    ],
    "attempts": [
-    "successfactors:careers.renew.com -> 32 jobs"
+    "successfactors:careers.renew.com -> 33 jobs"
    ]
   },
-  "ms": 11941
+  "ms": 8113
  },
  {
   "company": "Rentomojo",
@@ -4825,7 +4812,7 @@
     "workable:rentomojo -> no board"
    ]
   },
-  "ms": 6905
+  "ms": 6137
  },
  {
   "company": "Republic Media",
@@ -4854,7 +4841,7 @@
     {
      "url": "https://republicworld.com/career",
      "status": 404,
-     "bytes": 237127
+     "bytes": 236867
     }
    ],
    "candidates": [
@@ -4882,7 +4869,7 @@
     "workable:republicworld -> no board"
    ]
   },
-  "ms": 12206
+  "ms": 13648
  },
  {
   "company": "Revolut India",
@@ -4912,7 +4899,7 @@
     {
      "url": "https://revolut.com/career",
      "status": 403,
-     "bytes": 873140
+     "bytes": 873118
     },
     {
      "url": "https://revolut.com/jobs",
@@ -4922,12 +4909,12 @@
     {
      "url": "https://revolut.com/join-us",
      "status": 403,
-     "bytes": 873143
+     "bytes": 873121
     },
     {
      "url": "https://revolut.com/join-our-team",
      "status": 403,
-     "bytes": 873182
+     "bytes": 873160
     }
    ],
    "candidates": [
@@ -4945,7 +4932,7 @@
     "workable:revolut -> no board"
    ]
   },
-  "ms": 8697
+  "ms": 11971
  },
  {
   "company": "Ripplehire",
@@ -5099,7 +5086,7 @@
     "workable:ripplehire -> no board"
    ]
   },
-  "ms": 48225
+  "ms": 49215
  },
  {
   "company": "Rocketlane",
@@ -5690,7 +5677,7 @@
     "workable:rocketlane -> no board"
    ]
   },
-  "ms": 16058
+  "ms": 17303
  },
  {
   "company": "Roposo",
@@ -5708,7 +5695,7 @@
    "pages": [],
    "attempts": []
   },
-  "ms": 90003
+  "ms": 90002
  },
  {
   "company": "Decklar (formerly Roambee)",
@@ -5727,7 +5714,7 @@
     {
      "url": "https://careers.decklar.com",
      "status": 200,
-     "bytes": 1857975
+     "bytes": 1858212
     },
     {
      "url": "https://decklar.com/careers",
@@ -5784,7 +5771,7 @@
     "workable:decklar -> no board"
    ]
   },
-  "ms": 28592
+  "ms": 33714
  },
  {
   "company": "Routematic",
@@ -5808,52 +5795,52 @@
     {
      "url": "https://routematic.com/careers",
      "status": 307,
-     "bytes": 1495
+     "bytes": 1439
     },
     {
      "url": "https://routematic.com/career",
      "status": 307,
-     "bytes": 1495
+     "bytes": 1439
     },
     {
      "url": "https://routematic.com/jobs",
      "status": 307,
-     "bytes": 1495
+     "bytes": 1439
     },
     {
      "url": "https://routematic.com/join-us",
      "status": 307,
-     "bytes": 1495
+     "bytes": 1439
     },
     {
      "url": "https://routematic.com/join-our-team",
      "status": 307,
-     "bytes": 1495
+     "bytes": 1439
     },
     {
      "url": "https://routematic.com/careers.html",
      "status": 307,
-     "bytes": 1495
+     "bytes": 1439
     },
     {
      "url": "https://routematic.com/company/careers",
      "status": 307,
-     "bytes": 1495
+     "bytes": 1439
     },
     {
      "url": "https://routematic.com/about/careers",
      "status": 307,
-     "bytes": 1495
+     "bytes": 1303
     },
     {
      "url": "https://routematic.com/current-openings",
      "status": 307,
-     "bytes": 1439
+     "bytes": 1303
     },
     {
      "url": "https://routematic.com/",
      "status": 307,
-     "bytes": 1439
+     "bytes": 1303
     },
     {
      "url": "https://careers.www.routematic.com",
@@ -5864,52 +5851,52 @@
     {
      "url": "https://www.routematic.com/careers",
      "status": 307,
-     "bytes": 1443
+     "bytes": 1303
     },
     {
      "url": "https://www.routematic.com/career",
      "status": 307,
-     "bytes": 1443
+     "bytes": 1303
     },
     {
      "url": "https://www.routematic.com/jobs",
      "status": 307,
-     "bytes": 1443
+     "bytes": 1303
     },
     {
      "url": "https://www.routematic.com/join-us",
      "status": 307,
-     "bytes": 1443
+     "bytes": 1303
     },
     {
      "url": "https://www.routematic.com/join-our-team",
      "status": 307,
-     "bytes": 1443
+     "bytes": 1439
     },
     {
      "url": "https://www.routematic.com/careers.html",
      "status": 307,
-     "bytes": 1443
+     "bytes": 1439
     },
     {
      "url": "https://www.routematic.com/company/careers",
      "status": 307,
-     "bytes": 1443
+     "bytes": 1439
     },
     {
      "url": "https://www.routematic.com/about/careers",
      "status": 307,
-     "bytes": 1443
+     "bytes": 1439
     },
     {
      "url": "https://www.routematic.com/current-openings",
      "status": 307,
-     "bytes": 1495
+     "bytes": 1439
     },
     {
      "url": "https://www.routematic.com/",
      "status": 307,
-     "bytes": 1495
+     "bytes": 1439
     }
    ],
    "candidates": [
@@ -5927,7 +5914,7 @@
     "workable:routematic -> no board"
    ]
   },
-  "ms": 9765
+  "ms": 17480
  },
  {
   "company": "Rubrik India",
@@ -5967,37 +5954,7 @@
     {
      "url": "https://rubrik.com/join-us",
      "status": 404,
-     "bytes": 94990
-    },
-    {
-     "url": "https://rubrik.com/join-our-team",
-     "status": 404,
-     "bytes": 94992
-    },
-    {
-     "url": "https://rubrik.com/careers.html",
-     "status": 200,
-     "bytes": 105187
-    },
-    {
-     "url": "https://rubrik.com/company/careers",
-     "status": 200,
-     "bytes": 105187
-    },
-    {
-     "url": "https://rubrik.com/about/careers",
-     "status": 404,
-     "bytes": 94992
-    },
-    {
-     "url": "https://rubrik.com/current-openings",
-     "status": 404,
-     "bytes": 94990
-    },
-    {
-     "url": "https://rubrik.com/",
-     "status": 200,
-     "bytes": 159387
+     "bytes": 94981
     }
    ],
    "candidates": [
@@ -6015,7 +5972,7 @@
     "workable:rubrik -> no board"
    ]
   },
-  "ms": 31644
+  "ms": 24680
  },
  {
   "company": "Rupifi",
@@ -6103,7 +6060,7 @@
     "workable:rupifi -> no board"
    ]
   },
-  "ms": 5542
+  "ms": 4635
  },
  {
   "company": "Ripik.ai",
@@ -6275,7 +6232,7 @@
     "workable:ripik -> no board"
    ]
   },
-  "ms": 26095
+  "ms": 23445
  },
  {
   "company": "Ramco Systems",
@@ -6395,7 +6352,7 @@
     {
      "url": "https://ramco.com/",
      "status": 200,
-     "bytes": 159522
+     "bytes": 159881
     }
    ],
    "candidates": [
@@ -6410,10 +6367,10 @@
     "lever:ramco -> no board",
     "ashby:ramco -> no board",
     "recruitee:ramco -> REJECTED (board is \"?\", not Ramco Systems)",
-    "workable:ramco -> no board"
+    "workable:ramco -> 0 jobs (guess, name-verified)"
    ]
   },
-  "ms": 30939
+  "ms": 34402
  },
  {
   "company": "RateGain",
@@ -6557,7 +6514,7 @@
     "workable:rategain -> no board"
    ]
   },
-  "ms": 17673
+  "ms": 18024
  },
  {
   "company": "Reveal Health",
@@ -6657,7 +6614,7 @@
     "workable:revealhealthtech -> no board"
    ]
   },
-  "ms": 11176
+  "ms": 10985
  },
  {
   "company": "Robosoft Technologies",
@@ -6939,7 +6896,7 @@
     "workable:robosoftin -> no board"
    ]
   },
-  "ms": 6892
+  "ms": 6275
  },
  {
   "company": "Radisys India",
@@ -7022,7 +6979,7 @@
     "workable:radisys -> no board"
    ]
   },
-  "ms": 33230
+  "ms": 47119
  },
  {
   "company": "Raksha Health",
@@ -7175,7 +7132,7 @@
     "workable:rakshatpa -> no board"
    ]
   },
-  "ms": 5438
+  "ms": 6423
  },
  {
   "company": "Rambus India",
@@ -8207,7 +8164,7 @@
     "icims:rambus -> 57 jobs"
    ]
   },
-  "ms": 19627
+  "ms": 20372
  },
  {
   "company": "Rapyder Cloud",
@@ -8231,17 +8188,17 @@
     {
      "url": "https://rapyder.com/careers",
      "status": 200,
-     "bytes": 226204
+     "bytes": 226181
     },
     {
      "url": "https://rapyder.com/career",
      "status": 200,
-     "bytes": 226204
+     "bytes": 226181
     },
     {
      "url": "https://rapyder.com/jobs",
      "status": 200,
-     "bytes": 219810
+     "bytes": 219787
     }
    ],
    "candidates": [
@@ -8273,7 +8230,7 @@
     "workable:rapyder -> no board"
    ]
   },
-  "ms": 12599
+  "ms": 15884
  },
  {
   "company": "Rasa India",
@@ -8422,7 +8379,7 @@
     "ashby:Rasa -> 2 jobs"
    ]
   },
-  "ms": 4468
+  "ms": 5293
  },
  {
   "company": "Ratnaafin",
@@ -8490,7 +8447,7 @@
     "workable:ratnaafin -> no board"
    ]
   },
-  "ms": 5775
+  "ms": 5255
  },
  {
   "company": "Rayonier India",
@@ -8806,7 +8763,7 @@
     "workday:rayonier -> 14 jobs"
    ]
   },
-  "ms": 9724
+  "ms": 11556
  },
  {
   "company": "Razer India",
@@ -9576,12 +9533,12 @@
     {
      "url": "https://razer.com/careers",
      "status": 404,
-     "bytes": 1326319
+     "bytes": 1326318
     },
     {
      "url": "https://razer.com/career",
      "status": 404,
-     "bytes": 1326268
+     "bytes": 1326267
     }
    ],
    "candidates": [
@@ -9596,14 +9553,14 @@
     "workday:razer -> 40 jobs"
    ]
   },
-  "ms": 8314
+  "ms": 9005
  },
  {
   "company": "Reckitt India",
   "country": "India",
   "source": "successfactors:careers.reckitt.com",
   "error": null,
-  "totalJobs": 41,
+  "totalJobs": 43,
   "jobs": [
    {
     "title": "Evansville Factory Controller",
@@ -9733,9 +9690,9 @@
     "score": 18
    },
    {
-    "title": "Staż w Dziale Mediów Produkcyjnych i Energetyki",
-    "location": "Nowy Dwór Mazowiecki, Mazovia Province, PL, 05-100",
-    "url": "https://careers.reckitt.com/job/Nowy-Dw%C3%B3r-Mazowiecki-Sta%C5%BC-w-Dziale-Medi%C3%B3w-Produkcyjnych-i-Energetyki-Mazo-05-100/1393708233/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+    "title": "R&D Associate",
+    "location": "Chachoengsao, Chachoengsao, TH, N/A",
+    "url": "https://careers.reckitt.com/job/Chachoengsao-R&D-Associate-Chac-NA/1413063333/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
@@ -9748,9 +9705,9 @@
     "score": 16
    },
    {
-    "title": "R&D Associate",
-    "location": "Chachoengsao, Chachoengsao, TH, N/A",
-    "url": "https://careers.reckitt.com/job/Chachoengsao-R&D-Associate-Chac-NA/1413063333/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+    "title": "Staż w Dziale Mediów Produkcyjnych i Energetyki",
+    "location": "Nowy Dwór Mazowiecki, Mazovia Province, PL, 05-100",
+    "url": "https://careers.reckitt.com/job/Nowy-Dw%C3%B3r-Mazowiecki-Sta%C5%BC-w-Dziale-Medi%C3%B3w-Produkcyjnych-i-Energetyki-Mazo-05-100/1393708233/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
@@ -9803,6 +9760,51 @@
     "score": 8
    },
    {
+    "title": "RAS Assistant",
+    "location": "Milano, Lombardia, IT, 20141",
+    "url": "https://careers.reckitt.com/job/Milano-RAS-Assistant-Lomb-20141/1413776233/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 4
+   },
+   {
+    "title": "Process Technologist (1 year Contract)",
+    "location": "Chachoengsao, Chachoengsao, TH, N/A",
+    "url": "https://careers.reckitt.com/job/Chachoengsao-Process-Technologist-%281-year-Contract%29-Chac-NA/1413126133/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 4
+   },
+   {
+    "title": "Operator",
+    "location": "Chachoengsao, Chachoengsao, TH, N/A",
+    "url": "https://careers.reckitt.com/job/Chachoengsao-Operator-Chac-NA/1414052433/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 4
+   },
+   {
     "title": "ZIPP Liquidside Operator",
     "location": "Zeeland, MI, US, 49464",
     "url": "https://careers.reckitt.com/job/Zeeland-ZIPP-Liquidside-Operator-MI-49464/1372857533/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
@@ -9818,9 +9820,9 @@
     "score": 4
    },
    {
-    "title": "Automatyk 1 / Automatyczka 1",
-    "location": "Nowy Dwór Mazowiecki, Mazovia Province, PL, 05-100",
-    "url": "https://careers.reckitt.com/job/Nowy-Dw%C3%B3r-Mazowiecki-Automatyk-1-Automatyczka-1-Mazo-05-100/1393770233/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+    "title": "Supply Planner",
+    "location": "Sydney, New South Wales, AU, 2000",
+    "url": "https://careers.reckitt.com/job/Sydney-Supply-Planner-New-2000/1424580333/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
@@ -9833,9 +9835,9 @@
     "score": 4
    },
    {
-    "title": "Aseptic Packaging Operator",
-    "location": "Evansville, IN, US, 47701",
-    "url": "https://careers.reckitt.com/job/Evansville-Aseptic-Packaging-Operator-IN-47701/1413926433/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+    "title": "Alternant Coordinateur Qualification Validation",
+    "location": "Chartres, Centre, FR, 28000",
+    "url": "https://careers.reckitt.com/job/Chartres-Alternant-Coordinateur-Qualification-Validation-Cent-28000/1413831833/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
@@ -9863,36 +9865,6 @@
     "score": 4
    },
    {
-    "title": "RAS Assistant",
-    "location": "Milano, Lombardia, IT, 20141",
-    "url": "https://careers.reckitt.com/job/Milano-RAS-Assistant-Lomb-20141/1413776233/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 4
-   },
-   {
-    "title": "Talent Acquisition Business Partner",
-    "location": "Chartres, Centre, FR, 28000",
-    "url": "https://careers.reckitt.com/job/Chartres-Talent-Acquisition-Business-Partner-Cent-28000/1413835733/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 4
-   },
-   {
     "title": "Technical Operator, Multi-Pak",
     "location": "Evansville, IN, US, 47701",
     "url": "https://careers.reckitt.com/job/Evansville-Technical-Operator%2C-Multi-Pak-IN-47701/1413527733/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
@@ -9908,9 +9880,24 @@
     "score": 4
    },
    {
-    "title": "Process Technologist (1 year Contract)",
-    "location": "Chachoengsao, Chachoengsao, TH, N/A",
-    "url": "https://careers.reckitt.com/job/Chachoengsao-Process-Technologist-%281-year-Contract%29-Chac-NA/1413126133/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+    "title": "Automatyk 1 / Automatyczka 1",
+    "location": "Nowy Dwór Mazowiecki, Mazovia Province, PL, 05-100",
+    "url": "https://careers.reckitt.com/job/Nowy-Dw%C3%B3r-Mazowiecki-Automatyk-1-Automatyczka-1-Mazo-05-100/1393770233/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 4
+   },
+   {
+    "title": "Talent Acquisition Business Partner",
+    "location": "Chartres, Centre, FR, 28000",
+    "url": "https://careers.reckitt.com/job/Chartres-Talent-Acquisition-Business-Partner-Cent-28000/1413835733/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
@@ -9958,9 +9945,9 @@
     "score": -6
    },
    {
-    "title": "IT&D Senior Business Analyst, HR",
+    "title": "IT&D Product Manager - Genesis Procurement",
     "location": "Hyderabad, Telangana, IN, N/A",
-    "url": "https://careers.reckitt.com/job/Hyderabad-IT&D-Senior-Business-Analyst%2C-HR-Tela-NA/1402244233/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+    "url": "https://careers.reckitt.com/job/Hyderabad-IT&D-Product-Manager-Genesis-Procurement-Tela-NA/1409387733/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
     "india": true,
     "locationSaysIndia": true,
     "hasLocation": true,
@@ -9970,17 +9957,17 @@
     "senior": true,
     "exp": [
      [
-      7,
-      11
+      12,
+      16
      ]
     ],
     "expFits2": false,
     "score": -7
    },
    {
-    "title": "IT&D Product Manager - Genesis Procurement",
+    "title": "Internal Controls Senior Manager",
     "location": "Hyderabad, Telangana, IN, N/A",
-    "url": "https://careers.reckitt.com/job/Hyderabad-IT&D-Product-Manager-Genesis-Procurement-Tela-NA/1409387733/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+    "url": "https://careers.reckitt.com/job/Hyderabad-Internal-Controls-Senior-Manager-Tela-NA/1402682333/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
     "india": true,
     "locationSaysIndia": true,
     "hasLocation": true,
@@ -10022,29 +10009,9 @@
     "score": -7
    },
    {
-    "title": "Internal Controls Senior Manager",
+    "title": "IT&D Senior Business Analyst, HR",
     "location": "Hyderabad, Telangana, IN, N/A",
-    "url": "https://careers.reckitt.com/job/Hyderabad-Internal-Controls-Senior-Manager-Tela-NA/1402682333/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-    "india": true,
-    "locationSaysIndia": true,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": true,
-    "exp": [
-     [
-      12,
-      16
-     ]
-    ],
-    "expFits2": false,
-    "score": -7
-   },
-   {
-    "title": "IT&D Senior Analyst SAP Procurement",
-    "location": "Hyderabad, Telangana, IN, N/A",
-    "url": "https://careers.reckitt.com/job/Hyderabad-IT&D-Senior-Analyst-SAP-Procurement-Tela-NA/1412784833/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+    "url": "https://careers.reckitt.com/job/Hyderabad-IT&D-Senior-Business-Analyst%2C-HR-Tela-NA/1402244233/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
     "india": true,
     "locationSaysIndia": true,
     "hasLocation": true,
@@ -10055,7 +10022,7 @@
     "exp": [
      [
       7,
-      12
+      11
      ]
     ],
     "expFits2": false,
@@ -10086,9 +10053,9 @@
     "score": -10
    },
    {
-    "title": "Hospital Account Manager",
-    "location": "Calgary, Alberta, CA, T2P 2M5",
-    "url": "https://careers.reckitt.com/job/Calgary-Hospital-Account-Manager-Albe-T2P-2M5/1413944933/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+    "title": "Indirect Commercial Procurement Manager ASEAN",
+    "location": "Bangkok, Bangkok, TH, N/A",
+    "url": "https://careers.reckitt.com/job/Bangkok-Indirect-Commercial-Procurement-Manager-ASEAN-Bang-NA/1392898033/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
@@ -10096,14 +10063,99 @@
     "java": false,
     "flutter": false,
     "senior": true,
-    "exp": [
-     [
-      3,
-      7
-     ]
-    ],
+    "exp": [],
     "expFits2": false,
-    "score": -10
+    "score": -18
+   },
+   {
+    "title": "Production Start Up Manager",
+    "location": "Samut Prakan, Samut Prakan, TH, N/A",
+    "url": "https://careers.reckitt.com/job/Samut-Prakan-Production-Start-Up-Manager-Samu-NA/1402793033/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [],
+    "expFits2": false,
+    "score": -18
+   },
+   {
+    "title": "Manufacturing Integration Lead",
+    "location": "Slough, Berkshire, GB, SL1 1DT",
+    "url": "https://careers.reckitt.com/job/Slough-Manufacturing-Integration-Lead-Berk-SL1-1DT/1402295133/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [],
+    "expFits2": false,
+    "score": -18
+   },
+   {
+    "title": "IT&D Solution Architect, SAP Manufacturing",
+    "location": "Shanghai, Shanghai, CN, N/A",
+    "url": "https://careers.reckitt.com/job/Shanghai-IT&D-Solution-Architect%2C-SAP-Manufacturing-Shan-NA/1413148333/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [],
+    "expFits2": false,
+    "score": -18
+   },
+   {
+    "title": "PLM Project Manager",
+    "location": "Kingston upon Hull, East Yorkshire, GB, HU1 1AA",
+    "url": "https://careers.reckitt.com/job/Kingston-upon-Hull-PLM-Project-Manager-East-HU1-1AA/1283011501/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [],
+    "expFits2": false,
+    "score": -18
+   },
+   {
+    "title": "IT Manager with Turkish",
+    "location": "Warszawa, Mazovia Province, PL, N/A",
+    "url": "https://careers.reckitt.com/job/Warszawa-IT-Manager-with-Turkish-Mazo-NA/1213206701/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [],
+    "expFits2": false,
+    "score": -18
+   },
+   {
+    "title": "IT&D Lead, Solution Architect",
+    "location": "Warszawa, Mazovia Province, PL, N/A",
+    "url": "https://careers.reckitt.com/job/Warszawa-IT&D-Lead%2C-Solution-Architect-Mazo-NA/1403676933/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [],
+    "expFits2": false,
+    "score": -18
    },
    {
     "title": "Senior Category Development Manager - Boots",
@@ -10136,21 +10188,6 @@
     "score": -18
    },
    {
-    "title": "IT&D Lead, Solution Architect",
-    "location": "Warszawa, Mazovia Province, PL, N/A",
-    "url": "https://careers.reckitt.com/job/Warszawa-IT&D-Lead%2C-Solution-Architect-Mazo-NA/1403676933/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": true,
-    "exp": [],
-    "expFits2": false,
-    "score": -18
-   },
-   {
     "title": "IT&D Senior Manager - E2E Sales Simplification and Architecture",
     "location": "Warszawa, Mazovia Province, PL, N/A",
     "url": "https://careers.reckitt.com/job/Warszawa-IT&D-Senior-Manager-E2E-Sales-Simplification-and-Architecture-Mazo-NA/1403392033/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
@@ -10166,108 +10203,9 @@
     "score": -18
    },
    {
-    "title": "Production Start Up Manager",
-    "location": "Samut Prakan, Samut Prakan, TH, N/A",
-    "url": "https://careers.reckitt.com/job/Samut-Prakan-Production-Start-Up-Manager-Samu-NA/1402793033/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": true,
-    "exp": [],
-    "expFits2": false,
-    "score": -18
-   },
-   {
-    "title": "PLM Project Manager",
-    "location": "Kingston upon Hull, East Yorkshire, GB, HU1 1AA",
-    "url": "https://careers.reckitt.com/job/Kingston-upon-Hull-PLM-Project-Manager-East-HU1-1AA/1283011501/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": true,
-    "exp": [],
-    "expFits2": false,
-    "score": -18
-   },
-   {
-    "title": "IT&D Solution Architect, SAP Manufacturing",
-    "location": "Shanghai, Shanghai, CN, N/A",
-    "url": "https://careers.reckitt.com/job/Shanghai-IT&D-Solution-Architect%2C-SAP-Manufacturing-Shan-NA/1413148333/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": true,
-    "exp": [],
-    "expFits2": false,
-    "score": -18
-   },
-   {
-    "title": "Indirect Commercial Procurement Manager ASEAN",
-    "location": "Bangkok, Bangkok, TH, N/A",
-    "url": "https://careers.reckitt.com/job/Bangkok-Indirect-Commercial-Procurement-Manager-ASEAN-Bang-NA/1392898033/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": true,
-    "exp": [],
-    "expFits2": false,
-    "score": -18
-   },
-   {
-    "title": "Manufacturing Integration Lead",
-    "location": "Slough, Berkshire, GB, SL1 1DT",
-    "url": "https://careers.reckitt.com/job/Slough-Manufacturing-Integration-Lead-Berk-SL1-1DT/1402295133/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": true,
-    "exp": [],
-    "expFits2": false,
-    "score": -18
-   },
-   {
-    "title": "IT&D Manager, EUC",
-    "location": "Warszawa, Mazovia Province, PL, N/A",
-    "url": "https://careers.reckitt.com/job/Warszawa-IT&D-Manager%2C-EUC-Mazo-NA/1403348133/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": true,
-    "exp": [
-     [
-      5,
-      9
-     ],
-     [
-      5,
-      6
-     ]
-    ],
-    "expFits2": false,
-    "score": -22
-   },
-   {
-    "title": "Head of FP&A ANZ",
-    "location": "Sydney, New South Wales, AU, 2000",
-    "url": "https://careers.reckitt.com/job/Sydney-Head-of-FP&A-ANZ-New-2000/1413563033/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+    "title": "Head of Environmental Compliance, US",
+    "location": "Nutley, NJ, US, 07110",
+    "url": "https://careers.reckitt.com/job/Nutley-Head-of-Environmental-Compliance%2C-US-NJ-07110/1384716733/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
@@ -10319,6 +10257,50 @@
      [
       8,
       12
+     ]
+    ],
+    "expFits2": false,
+    "score": -22
+   },
+   {
+    "title": "Head of FP&A ANZ",
+    "location": "Sydney, New South Wales, AU, 2000",
+    "url": "https://careers.reckitt.com/job/Sydney-Head-of-FP&A-ANZ-New-2000/1413563033/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [
+     [
+      10,
+      14
+     ]
+    ],
+    "expFits2": false,
+    "score": -22
+   },
+   {
+    "title": "IT&D Manager, EUC",
+    "location": "Warszawa, Mazovia Province, PL, N/A",
+    "url": "https://careers.reckitt.com/job/Warszawa-IT&D-Manager%2C-EUC-Mazo-NA/1403348133/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [
+     [
+      5,
+      9
+     ],
+     [
+      5,
+      6
      ]
     ],
     "expFits2": false,
@@ -10399,10 +10381,10 @@
     "workable:reckitt(guess)"
    ],
    "attempts": [
-    "successfactors:careers.reckitt.com -> 41 jobs"
+    "successfactors:careers.reckitt.com -> 43 jobs"
    ]
   },
-  "ms": 6243
+  "ms": 14295
  },
  {
   "company": "Recur Club",
@@ -10553,7 +10535,7 @@
     "workable:recurclub -> no board"
    ]
   },
-  "ms": 18790
+  "ms": 16617
  },
  {
   "company": "Redington India",
@@ -10675,7 +10657,7 @@
     "workable:redingtongroup -> no board"
    ]
   },
-  "ms": 35533
+  "ms": 54906
  },
  {
   "company": "RedSeer",
@@ -10700,7 +10682,7 @@
     {
      "url": "https://redseer.com/careers",
      "status": 200,
-     "bytes": 191729
+     "bytes": 191730
     },
     {
      "url": "https://redseer.com/career",
@@ -10710,7 +10692,7 @@
     {
      "url": "https://redseer.com/jobs",
      "status": 200,
-     "bytes": 147100
+     "bytes": 147101
     }
    ],
    "candidates": [
@@ -10730,13 +10712,13 @@
     "workable:redseer -> no board"
    ]
   },
-  "ms": 3632
+  "ms": 5633
  },
  {
   "company": "Refyne",
   "country": "India",
   "source": null,
-  "error": "blocked-or-error-response",
+  "error": "no-job-data-found",
   "totalJobs": 0,
   "jobs": [],
   "enriched": 0,
@@ -10755,52 +10737,52 @@
     {
      "url": "https://refyne.co.in/careers",
      "status": 404,
-     "bytes": 906
+     "bytes": 3883
     },
     {
      "url": "https://refyne.co.in/career",
      "status": 404,
-     "bytes": 906
+     "bytes": 3883
     },
     {
      "url": "https://refyne.co.in/jobs",
      "status": 404,
-     "bytes": 906
+     "bytes": 3883
     },
     {
      "url": "https://refyne.co.in/join-us",
      "status": 404,
-     "bytes": 906
+     "bytes": 3883
     },
     {
      "url": "https://refyne.co.in/join-our-team",
      "status": 404,
-     "bytes": 906
+     "bytes": 3883
     },
     {
      "url": "https://refyne.co.in/careers.html",
      "status": 404,
-     "bytes": 906
+     "bytes": 3883
     },
     {
      "url": "https://refyne.co.in/company/careers",
      "status": 404,
-     "bytes": 906
+     "bytes": 3883
     },
     {
      "url": "https://refyne.co.in/about/careers",
      "status": 404,
-     "bytes": 906
+     "bytes": 3883
     },
     {
      "url": "https://refyne.co.in/current-openings",
      "status": 404,
-     "bytes": 906
+     "bytes": 3883
     },
     {
      "url": "https://refyne.co.in/",
-     "status": 404,
-     "bytes": 906
+     "status": 200,
+     "bytes": 71906
     },
     {
      "url": "https://careers.www.refyne.co.in",
@@ -10811,52 +10793,52 @@
     {
      "url": "https://www.refyne.co.in/careers",
      "status": 404,
-     "bytes": 906
+     "bytes": 3883
     },
     {
      "url": "https://www.refyne.co.in/career",
      "status": 404,
-     "bytes": 906
+     "bytes": 3883
     },
     {
      "url": "https://www.refyne.co.in/jobs",
      "status": 404,
-     "bytes": 906
+     "bytes": 3883
     },
     {
      "url": "https://www.refyne.co.in/join-us",
      "status": 404,
-     "bytes": 906
+     "bytes": 3883
     },
     {
      "url": "https://www.refyne.co.in/join-our-team",
      "status": 404,
-     "bytes": 906
+     "bytes": 3883
     },
     {
      "url": "https://www.refyne.co.in/careers.html",
      "status": 404,
-     "bytes": 906
+     "bytes": 3883
     },
     {
      "url": "https://www.refyne.co.in/company/careers",
      "status": 404,
-     "bytes": 906
+     "bytes": 3883
     },
     {
      "url": "https://www.refyne.co.in/about/careers",
      "status": 404,
-     "bytes": 906
+     "bytes": 3883
     },
     {
      "url": "https://www.refyne.co.in/current-openings",
      "status": 404,
-     "bytes": 906
+     "bytes": 3883
     },
     {
      "url": "https://www.refyne.co.in/",
-     "status": 404,
-     "bytes": 906
+     "status": 200,
+     "bytes": 71906
     }
    ],
    "candidates": [
@@ -10874,7 +10856,7 @@
     "workable:refyne -> no board"
    ]
   },
-  "ms": 13696
+  "ms": 14609
  },
  {
   "company": "Regeneron India",
@@ -10961,7 +10943,7 @@
     "workable:regeneron -> no board"
    ]
   },
-  "ms": 18727
+  "ms": 19354
  },
  {
   "company": "Relevance Lab",
@@ -11864,7 +11846,7 @@
     "workable:relevancelab -> no board"
    ]
   },
-  "ms": 12072
+  "ms": 12463
  },
  {
   "company": "Reliance Retail",
@@ -12008,7 +11990,7 @@
     "workable:relianceretail -> no board"
    ]
   },
-  "ms": 3002
+  "ms": 6076
  },
  {
   "company": "Rely",
@@ -12152,7 +12134,7 @@
     "workable:rely -> no board"
    ]
   },
-  "ms": 18994
+  "ms": 18640
  },
  {
   "company": "Resilinc India",
@@ -12171,7 +12153,7 @@
     {
      "url": "https://careers.resilinc.com",
      "status": 200,
-     "bytes": 411478
+     "bytes": 413460
     },
     {
      "url": "https://resilinc.com/careers",
@@ -12282,7 +12264,7 @@
     {
      "url": "https://careers.resilinc.ai/",
      "status": 200,
-     "bytes": 411478
+     "bytes": 413460
     },
     {
      "url": "https://careers.resilinc.ai/$%7Bjob_url%7D",
@@ -12305,7 +12287,7 @@
     "workable:resilinc -> no board"
    ]
   },
-  "ms": 19598
+  "ms": 23241
  },
  {
   "company": "Reveleer India",
@@ -12564,7 +12546,7 @@
     "breezy:reveleer -> 9 jobs"
    ]
   },
-  "ms": 8685
+  "ms": 9749
  },
  {
   "company": "Rezo.ai",
@@ -12664,13 +12646,13 @@
     "workable:rezo -> no board"
    ]
   },
-  "ms": 10934
+  "ms": 13605
  },
  {
   "company": "RIB Software India",
   "country": "India",
   "source": null,
-  "error": "no-job-data-found",
+  "error": "blocked-or-error-response",
   "totalJobs": 0,
   "jobs": [],
   "enriched": 0,
@@ -12789,8 +12771,8 @@
     },
     {
      "url": "https://www.rib-software.com/",
-     "status": 200,
-     "bytes": 226817
+     "status": 403,
+     "bytes": 901
     }
    ],
    "candidates": [
@@ -12808,7 +12790,7 @@
     "workable:ribsoftware -> no board"
    ]
   },
-  "ms": 12121
+  "ms": 10090
  },
  {
   "company": "Ridecell India",
@@ -12957,7 +12939,7 @@
     "workable:ridecell -> no board"
    ]
   },
-  "ms": 4996
+  "ms": 6204
  },
  {
   "company": "Rightpoint India",
@@ -13393,7 +13375,7 @@
     {
      "url": "https://rightpoint.com/",
      "status": 200,
-     "bytes": 57756
+     "bytes": 58736
     }
    ],
    "candidates": [
@@ -13408,7 +13390,7 @@
     "jobvite:genpactexperience -> 18 jobs"
    ]
   },
-  "ms": 6937
+  "ms": 5403
  },
  {
   "company": "Rishabh Software",
@@ -13432,12 +13414,12 @@
     {
      "url": "https://rishabhsoft.com/careers",
      "status": 200,
-     "bytes": 263734
+     "bytes": 263735
     },
     {
      "url": "https://rishabhsoft.com/career",
      "status": 200,
-     "bytes": 263732
+     "bytes": 263734
     },
     {
      "url": "https://rishabhsoft.com/jobs",
@@ -13470,13 +13452,13 @@
     "workable:rishabhsoft -> no board"
    ]
   },
-  "ms": 23488
+  "ms": 22412
  },
  {
   "company": "RSPL Group",
   "country": "India",
   "source": null,
-  "error": "careers-page-unreachable",
+  "error": "careers-page-read-but-lists-no-openings",
   "totalJobs": 0,
   "jobs": [],
   "enriched": 0,
@@ -13494,63 +13476,53 @@
     },
     {
      "url": "https://rsplgroup.com/careers",
-     "status": 0,
-     "bytes": 0,
-     "error": "fetch failed"
+     "status": 200,
+     "bytes": 29823
     },
     {
      "url": "https://rsplgroup.com/career",
-     "status": 0,
-     "bytes": 0,
-     "error": "fetch failed"
+     "status": 200,
+     "bytes": 86132
     },
     {
      "url": "https://rsplgroup.com/jobs",
-     "status": 0,
-     "bytes": 0,
-     "error": "fetch failed"
+     "status": 200,
+     "bytes": 86132
     },
     {
      "url": "https://rsplgroup.com/join-us",
-     "status": 0,
-     "bytes": 0,
-     "error": "fetch failed"
+     "status": 200,
+     "bytes": 86132
     },
     {
      "url": "https://rsplgroup.com/join-our-team",
-     "status": 0,
-     "bytes": 0,
-     "error": "fetch failed"
+     "status": 200,
+     "bytes": 86132
     },
     {
      "url": "https://rsplgroup.com/careers.html",
-     "status": 0,
-     "bytes": 0,
-     "error": "fetch failed"
+     "status": 200,
+     "bytes": 29823
     },
     {
      "url": "https://rsplgroup.com/company/careers",
-     "status": 0,
-     "bytes": 0,
-     "error": "fetch failed"
+     "status": 200,
+     "bytes": 86132
     },
     {
      "url": "https://rsplgroup.com/about/careers",
-     "status": 0,
-     "bytes": 0,
-     "error": "fetch failed"
+     "status": 200,
+     "bytes": 86132
     },
     {
      "url": "https://rsplgroup.com/current-openings",
-     "status": 0,
-     "bytes": 0,
-     "error": "fetch failed"
+     "status": 200,
+     "bytes": 86132
     },
     {
      "url": "https://rsplgroup.com/",
-     "status": 0,
-     "bytes": 0,
-     "error": "fetch failed"
+     "status": 200,
+     "bytes": 86132
     },
     {
      "url": "https://careers.www.rsplgroup.com",
@@ -13560,63 +13532,58 @@
     },
     {
      "url": "https://www.rsplgroup.com/careers",
-     "status": 0,
-     "bytes": 0,
-     "error": "fetch failed"
+     "status": 200,
+     "bytes": 29823
     },
     {
      "url": "https://www.rsplgroup.com/career",
-     "status": 0,
-     "bytes": 0,
-     "error": "fetch failed"
+     "status": 200,
+     "bytes": 86132
     },
     {
      "url": "https://www.rsplgroup.com/jobs",
-     "status": 0,
-     "bytes": 0,
-     "error": "fetch failed"
+     "status": 200,
+     "bytes": 86132
     },
     {
      "url": "https://www.rsplgroup.com/join-us",
-     "status": 0,
-     "bytes": 0,
-     "error": "fetch failed"
+     "status": 200,
+     "bytes": 86132
     },
     {
      "url": "https://www.rsplgroup.com/join-our-team",
-     "status": 0,
-     "bytes": 0,
-     "error": "fetch failed"
+     "status": 200,
+     "bytes": 86132
     },
     {
      "url": "https://www.rsplgroup.com/careers.html",
-     "status": 0,
-     "bytes": 0,
-     "error": "fetch failed"
+     "status": 200,
+     "bytes": 29823
     },
     {
      "url": "https://www.rsplgroup.com/company/careers",
-     "status": 0,
-     "bytes": 0,
-     "error": "fetch failed"
+     "status": 200,
+     "bytes": 86132
     },
     {
      "url": "https://www.rsplgroup.com/about/careers",
-     "status": 0,
-     "bytes": 0,
-     "error": "fetch failed"
+     "status": 200,
+     "bytes": 86132
     },
     {
      "url": "https://www.rsplgroup.com/current-openings",
-     "status": 0,
-     "bytes": 0,
-     "error": "fetch failed"
+     "status": 200,
+     "bytes": 86132
     },
     {
      "url": "https://www.rsplgroup.com/",
-     "status": 0,
-     "bytes": 0,
-     "error": "fetch failed"
+     "status": 200,
+     "bytes": 86132
+    },
+    {
+     "url": "https://careers-rsplgroup.peoplestrong.com/",
+     "status": 200,
+     "bytes": 56051
     }
    ],
    "candidates": [
@@ -13644,7 +13611,7 @@
     "workable:rsplgroup -> no board"
    ]
   },
-  "ms": 14861
+  "ms": 52422
  },
  {
   "company": "RtCamp",
@@ -14120,7 +14087,7 @@
     "workable:rtcamp -> no board"
    ]
   },
-  "ms": 13909
+  "ms": 13448
  },
  {
   "company": "R Systems International",
@@ -14145,7 +14112,7 @@
     {
      "url": "https://careers.rsystems.com",
      "status": 200,
-     "bytes": 9844
+     "bytes": 9884
     },
     {
      "url": "https://rsystems.com/careers",
@@ -14168,7 +14135,7 @@
     "workable:rsystems -> no board"
    ]
   },
-  "ms": 50856
+  "ms": 17771
  },
  {
   "company": "Route Mobile",
@@ -14240,13 +14207,13 @@
     "workable:routemobile -> no board"
    ]
   },
-  "ms": 76884
+  "ms": 78939
  },
  {
   "company": "RS Software (India)",
   "country": "India",
   "source": null,
-  "error": "timed-out",
+  "error": "no-job-data-found",
   "totalJobs": 0,
   "jobs": [],
   "enriched": 0,
@@ -14255,10 +14222,91 @@
   "closest": null,
   "closestEng": null,
   "trace": {
-   "pages": [],
-   "attempts": []
+   "pages": [
+    {
+     "url": "https://careers.rssoftware.com",
+     "status": 0,
+     "bytes": 0,
+     "error": "fetch failed"
+    },
+    {
+     "url": "https://rssoftware.com/careers",
+     "status": 200,
+     "bytes": 67141
+    },
+    {
+     "url": "https://rssoftware.com/career",
+     "status": 200,
+     "bytes": 67141
+    },
+    {
+     "url": "https://rssoftware.com/jobs",
+     "status": 200,
+     "bytes": 67141
+    },
+    {
+     "url": "https://rssoftware.com/join-us",
+     "status": 200,
+     "bytes": 67141
+    },
+    {
+     "url": "https://rssoftware.com/join-our-team",
+     "status": 200,
+     "bytes": 67141
+    },
+    {
+     "url": "https://rssoftware.com/careers.html",
+     "status": 200,
+     "bytes": 67141
+    },
+    {
+     "url": "https://rssoftware.com/company/careers",
+     "status": 404,
+     "bytes": 1130
+    },
+    {
+     "url": "https://rssoftware.com/about/careers",
+     "status": 404,
+     "bytes": 1130
+    },
+    {
+     "url": "https://rssoftware.com/current-openings",
+     "status": 200,
+     "bytes": 67141
+    },
+    {
+     "url": "https://rssoftware.com/",
+     "status": 200,
+     "bytes": 67141
+    },
+    {
+     "url": "https://careers.www.rssoftware.com",
+     "status": 0,
+     "bytes": 0,
+     "error": "fetch failed"
+    },
+    {
+     "url": "https://www.rssoftware.com/careers",
+     "status": 200,
+     "bytes": 67641
+    }
+   ],
+   "candidates": [
+    "greenhouse:rssoftware(guess)",
+    "lever:rssoftware(guess)",
+    "ashby:rssoftware(guess)",
+    "recruitee:rssoftware(guess)",
+    "workable:rssoftware(guess)"
+   ],
+   "attempts": [
+    "greenhouse:rssoftware -> no board",
+    "lever:rssoftware -> no board",
+    "ashby:rssoftware -> no board",
+    "recruitee:rssoftware -> no board",
+    "workable:rssoftware -> no board"
+   ]
   },
-  "ms": 90005
+  "ms": 12967
  },
  {
   "company": "Radixweb",
@@ -14342,7 +14390,7 @@
     "workable:radixweb -> no board"
    ]
   },
-  "ms": 9240
+  "ms": 9911
  },
  {
   "company": "Rlogical Techsoft",
@@ -14360,7 +14408,7 @@
    "pages": [],
    "attempts": []
   },
-  "ms": 90005
+  "ms": 90003
  },
  {
   "company": "Rapidops",
@@ -14424,7 +14472,7 @@
     "workable:rapidops -> no board"
    ]
   },
-  "ms": 81762
+  "ms": 77788
  },
  {
   "company": "RipenApps Technologies",
@@ -14432,7 +14480,7 @@
   "careers": "https://ripenapps.com/career",
   "source": "headings:https://ripenapps.com/career",
   "error": null,
-  "totalJobs": 7,
+  "totalJobs": 6,
   "jobs": [
    {
     "title": "Project Manager",
@@ -14453,21 +14501,6 @@
     ],
     "expFits2": true,
     "score": 51
-   },
-   {
-    "title": "Hire Mobile App Developer",
-    "location": "",
-    "url": "https://ripenapps.com/career",
-    "india": true,
-    "locationSaysIndia": false,
-    "hasLocation": false,
-    "isEng": true,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 49
    },
    {
     "title": "Project Coordinator",
@@ -14583,26 +14616,7 @@
    ],
    "expFits2": true
   },
-  "closestEng": {
-   "title": "Hire Mobile App Developer",
-   "location": "",
-   "url": "https://ripenapps.com/career",
-   "team": "",
-   "text": "Hire Mobile App Developer Leading Technologies Offering UI/UX Designing Phonegap App Development --> Product Design & Discovery Phase Quality Assurance Xamarin App Development --> Digital Marketing Wearable Device App Development IoT App Development Beacon App Development AR/VR App Development IT Consulting Services Latest Technologies Wearable Device App Development IoT App Development Beacon App Development --> <a href=\"https://ripenapps.com/ui-ux-de",
-   "_noEnrich": true,
-   "score": 49,
-   "isMatch": false,
-   "isEng": true,
-   "java": false,
-   "flutter": false,
-   "android": false,
-   "india": true,
-   "senior": false,
-   "junior": false,
-   "intern": false,
-   "exp": [],
-   "expFits2": false
-  },
+  "closestEng": null,
   "trace": {
    "pages": [
     {
@@ -14662,7 +14676,7 @@
     "workable:ripenapps -> no board"
    ]
   },
-  "ms": 2403
+  "ms": 2730
  },
  {
   "company": "RapidValue Solutions",
@@ -14696,8 +14710,9 @@
     },
     {
      "url": "https://rapidvaluesolutions.com/jobs",
-     "status": 404,
-     "bytes": 47503
+     "status": 0,
+     "bytes": 0,
+     "error": "This operation was aborted"
     },
     {
      "url": "https://rapidvaluesolutions.com/join-us",
@@ -14721,9 +14736,8 @@
     },
     {
      "url": "https://rapidvaluesolutions.com/about/careers",
-     "status": 0,
-     "bytes": 0,
-     "error": "This operation was aborted"
+     "status": 404,
+     "bytes": 47503
     },
     {
      "url": "https://rapidvaluesolutions.com/current-openings",
@@ -14761,7 +14775,7 @@
     "workable:rapidvaluesolutions -> no board"
    ]
   },
-  "ms": 51501
+  "ms": 50791
  },
  {
   "company": "Ray Business Technologies",
@@ -14924,7 +14938,7 @@
     "workable:raybiztech -> no board"
    ]
   },
-  "ms": 62886
+  "ms": 60391
  },
  {
   "company": "Rite Software Solutions",
@@ -15140,9 +15154,8 @@
     },
     {
      "url": "https://ritesoftware.com/join-us",
-     "status": 0,
-     "bytes": 0,
-     "error": "This operation was aborted"
+     "status": 404,
+     "bytes": 0
     },
     {
      "url": "https://ritesoftware.com/join-our-team",
@@ -15161,8 +15174,9 @@
     },
     {
      "url": "https://ritesoftware.com/about/careers",
-     "status": 404,
-     "bytes": 10
+     "status": 0,
+     "bytes": 0,
+     "error": "This operation was aborted"
     },
     {
      "url": "https://ritesoftware.com/current-openings",
@@ -15172,7 +15186,7 @@
     {
      "url": "https://ritesoftware.com/",
      "status": 200,
-     "bytes": 933407
+     "bytes": 933484
     },
     {
      "url": "https://careers.www.ritesoftware.com",
@@ -15228,12 +15242,12 @@
     {
      "url": "https://www.ritesoftware.com/",
      "status": 200,
-     "bytes": 933527
+     "bytes": 933694
     },
     {
      "url": "https://rite.digital/careers/",
      "status": 200,
-     "bytes": 694987
+     "bytes": 694690
     }
    ],
    "candidates": [
@@ -15261,7 +15275,7 @@
     "workable:ritesoftware -> no board"
    ]
   },
-  "ms": 81330
+  "ms": 67839
  },
  {
   "company": "Reflections Info Systems",
@@ -15326,8 +15340,9 @@
    "pages": [
     {
      "url": "https://reflectionsinfos.com/careers",
-     "status": 200,
-     "bytes": 54172
+     "status": 0,
+     "bytes": 0,
+     "error": "This operation was aborted"
     },
     {
      "url": "https://careers.reflectionsinfos.com",
@@ -15343,7 +15358,7 @@
     {
      "url": "https://reflectionsinfos.com/jobs",
      "status": 200,
-     "bytes": 54172
+     "bytes": 54175
     },
     {
      "url": "https://reflectionsinfos.com/join-us",
@@ -15406,7 +15421,7 @@
     "workable:reflectionsinfos -> no board"
    ]
   },
-  "ms": 18807
+  "ms": 47950
  },
  {
   "company": "Rejolut",
@@ -15676,52 +15691,52 @@
     {
      "url": "https://rejolut.com/careers",
      "status": 200,
-     "bytes": 947209
+     "bytes": 949076
     },
     {
      "url": "https://rejolut.com/career",
      "status": 200,
-     "bytes": 947209
+     "bytes": 949076
     },
     {
      "url": "https://rejolut.com/jobs",
      "status": 200,
-     "bytes": 317207
+     "bytes": 317411
     },
     {
      "url": "https://rejolut.com/join-us",
      "status": 200,
-     "bytes": 947209
+     "bytes": 949076
     },
     {
      "url": "https://rejolut.com/join-our-team",
      "status": 200,
-     "bytes": 947209
+     "bytes": 949076
     },
     {
      "url": "https://rejolut.com/careers.html",
      "status": 200,
-     "bytes": 947209
+     "bytes": 949076
     },
     {
      "url": "https://rejolut.com/company/careers",
      "status": 200,
-     "bytes": 947209
+     "bytes": 949076
     },
     {
      "url": "https://rejolut.com/about/careers",
      "status": 200,
-     "bytes": 947209
+     "bytes": 949076
     },
     {
      "url": "https://rejolut.com/current-openings",
      "status": 200,
-     "bytes": 947209
+     "bytes": 949076
     },
     {
      "url": "https://rejolut.com/",
      "status": 200,
-     "bytes": 947209
+     "bytes": 949076
     },
     {
      "url": "https://careers.www.rejolut.com",
@@ -15732,57 +15747,57 @@
     {
      "url": "https://www.rejolut.com/careers",
      "status": 200,
-     "bytes": 947209
+     "bytes": 949076
     },
     {
      "url": "https://www.rejolut.com/career",
      "status": 200,
-     "bytes": 947209
+     "bytes": 949076
     },
     {
      "url": "https://www.rejolut.com/jobs",
      "status": 200,
-     "bytes": 317207
+     "bytes": 317411
     },
     {
      "url": "https://www.rejolut.com/join-us",
      "status": 200,
-     "bytes": 947209
+     "bytes": 949076
     },
     {
      "url": "https://www.rejolut.com/join-our-team",
      "status": 200,
-     "bytes": 947209
+     "bytes": 949076
     },
     {
      "url": "https://www.rejolut.com/careers.html",
      "status": 200,
-     "bytes": 947209
+     "bytes": 949076
     },
     {
      "url": "https://www.rejolut.com/company/careers",
      "status": 200,
-     "bytes": 947209
+     "bytes": 949076
     },
     {
      "url": "https://www.rejolut.com/about/careers",
      "status": 200,
-     "bytes": 947209
+     "bytes": 949076
     },
     {
      "url": "https://www.rejolut.com/current-openings",
      "status": 200,
-     "bytes": 947209
+     "bytes": 949076
     },
     {
      "url": "https://www.rejolut.com/",
      "status": 200,
-     "bytes": 947209
+     "bytes": 949076
     },
     {
      "url": "https://rejolut.com/career-at-rejolut/",
      "status": 200,
-     "bytes": 598962
+     "bytes": 599166
     }
    ],
    "candidates": [
@@ -15800,7 +15815,7 @@
     "workable:rejolut -> no board"
    ]
   },
-  "ms": 52846
+  "ms": 51602
  },
  {
   "company": "Radiansys",
@@ -16093,7 +16108,7 @@
     "workable:radiansys -> no board"
    ]
   },
-  "ms": 10503
+  "ms": 11718
  },
  {
   "company": "Redbytes Software",
@@ -16247,7 +16262,7 @@
     "workable:redbytes -> no board"
    ]
   },
-  "ms": 25804
+  "ms": 25196
  },
  {
   "company": "Rushkar Technology",
@@ -16335,7 +16350,7 @@
     "workable:rushkar -> no board"
    ]
   },
-  "ms": 30488
+  "ms": 29138
  },
  {
   "company": "Root Info Solutions",
@@ -16355,7 +16370,7 @@
     {
      "url": "https://rootinfosol.com/careers",
      "status": 200,
-     "bytes": 187352
+     "bytes": 187348
     },
     {
      "url": "https://careers.rootinfosol.com",
@@ -16366,22 +16381,17 @@
     {
      "url": "https://rootinfosol.com/career",
      "status": 200,
-     "bytes": 187352
+     "bytes": 187348
     },
     {
      "url": "https://rootinfosol.com/jobs",
      "status": 404,
-     "bytes": 175241
+     "bytes": 174935
     },
     {
      "url": "https://rootinfosol.com/join-us",
      "status": 404,
-     "bytes": 175245
-    },
-    {
-     "url": "https://rootinfosol.com/join-our-team",
-     "status": 404,
-     "bytes": 175281
+     "bytes": 174953
     }
    ],
    "candidates": [
@@ -16409,7 +16419,7 @@
     "workable:rootinfosol -> no board"
    ]
   },
-  "ms": 30589
+  "ms": 26740
  },
  {
   "company": "Rootquotient",
@@ -16553,7 +16563,7 @@
     "workable:rootquotient -> no board"
    ]
   },
-  "ms": 17563
+  "ms": 18600
  },
  {
   "company": "Ranosys Technologies",
@@ -16836,7 +16846,7 @@
     "workable:ranosys -> no board"
    ]
   },
-  "ms": 9547
+  "ms": 13055
  },
  {
   "company": "Rapid Circle",
@@ -16856,7 +16866,7 @@
     {
      "url": "https://rapidcircle.com/careers",
      "status": 200,
-     "bytes": 174466
+     "bytes": 174373
     },
     {
      "url": "https://careers.rapidcircle.com",
@@ -16867,22 +16877,22 @@
     {
      "url": "https://rapidcircle.com/career",
      "status": 200,
-     "bytes": 174466
+     "bytes": 174373
     },
     {
      "url": "https://rapidcircle.com/jobs",
      "status": 404,
-     "bytes": 131622
+     "bytes": 131529
     },
     {
      "url": "https://rapidcircle.com/join-us",
      "status": 404,
-     "bytes": 131625
+     "bytes": 131532
     },
     {
      "url": "https://rapidcircle.com/join-our-team",
      "status": 404,
-     "bytes": 131631
+     "bytes": 131538
     }
    ],
    "candidates": [
@@ -16900,7 +16910,7 @@
     "workable:rapidcircle -> no board"
    ]
   },
-  "ms": 26840
+  "ms": 30802
  },
  {
   "company": "RNF Technologies",
@@ -16936,7 +16946,7 @@
     {
      "url": "https://rnftechnologies.com/jobs",
      "status": 404,
-     "bytes": 35708
+     "bytes": 35709
     }
    ],
    "candidates": [
@@ -16954,7 +16964,7 @@
     "workable:rnftechnologies -> no board"
    ]
   },
-  "ms": 13104
+  "ms": 15229
  },
  {
   "company": "Relinns Technologies",
@@ -17026,7 +17036,7 @@
     "workable:relinns -> no board"
    ]
   },
-  "ms": 21271
+  "ms": 20999
  },
  {
   "company": "Reckonsys",
@@ -17096,7 +17106,7 @@
     {
      "url": "https://reckonsys.com/",
      "status": 200,
-     "bytes": 998853
+     "bytes": 998876
     },
     {
      "url": "https://careers.www.reckonsys.com",
@@ -17130,7 +17140,7 @@
     "workable:reckonsys -> no board"
    ]
   },
-  "ms": 8200
+  "ms": 8652
  },
  {
   "company": "Rysun Labs",
@@ -18596,7 +18606,7 @@
     "workable:rysun -> no board"
    ]
   },
-  "ms": 46730
+  "ms": 26534
  },
  {
   "company": "Redian Software Global",
@@ -18656,7 +18666,7 @@
     "workable:rediansoftware -> no board"
    ]
   },
-  "ms": 6290
+  "ms": 8402
  },
  {
   "company": "Reveation Labs",
@@ -18709,7 +18719,7 @@
     "workable:reveation -> no board"
    ]
   },
-  "ms": 9901
+  "ms": 10893
  },
  {
   "company": "Revalsys Technologies",
@@ -18797,7 +18807,7 @@
     "workable:revalsys -> no board"
    ]
   },
-  "ms": 4831
+  "ms": 4962
  },
  {
   "company": "Riaxe Systems",
@@ -19252,13 +19262,13 @@
     "workable:riaxe -> no board"
    ]
   },
-  "ms": 23092
+  "ms": 21787
  },
  {
   "company": "RemoteState",
   "country": "India",
   "source": null,
-  "error": "no-job-data-found",
+  "error": "blocked-or-error-response",
   "totalJobs": 0,
   "jobs": [],
   "enriched": 0,
@@ -19277,52 +19287,37 @@
     {
      "url": "https://remotestate.com/careers",
      "status": 404,
-     "bytes": 37989
+     "bytes": 37985
     },
     {
      "url": "https://remotestate.com/career",
      "status": 404,
-     "bytes": 37988
+     "bytes": 37986
     },
     {
      "url": "https://remotestate.com/jobs",
      "status": 404,
-     "bytes": 37987
+     "bytes": 37989
     },
     {
      "url": "https://remotestate.com/join-us",
      "status": 404,
-     "bytes": 37991
+     "bytes": 37995
     },
     {
      "url": "https://remotestate.com/join-our-team",
      "status": 404,
-     "bytes": 37995
+     "bytes": 37997
     },
     {
      "url": "https://remotestate.com/careers.html",
      "status": 404,
-     "bytes": 37988
+     "bytes": 37990
     },
     {
      "url": "https://remotestate.com/company/careers",
      "status": 404,
-     "bytes": 38010
-    },
-    {
-     "url": "https://remotestate.com/about/careers",
-     "status": 404,
-     "bytes": 38009
-    },
-    {
-     "url": "https://remotestate.com/current-openings",
-     "status": 404,
-     "bytes": 38003
-    },
-    {
-     "url": "https://remotestate.com/",
-     "status": 200,
-     "bytes": 841338
+     "bytes": 38005
     }
    ],
    "candidates": [
@@ -19340,7 +19335,7 @@
     "workable:remotestate -> no board"
    ]
   },
-  "ms": 11188
+  "ms": 10108
  },
  {
   "company": "Rejig Digital",
@@ -19494,7 +19489,7 @@
     "workable:rejigdigital -> no board"
    ]
   },
-  "ms": 32482
+  "ms": 21100
  },
  {
   "company": "Rapidsoft Technologies",
@@ -19878,7 +19873,7 @@
     "workable:rapidsofttechnologies -> no board"
    ]
   },
-  "ms": 6282
+  "ms": 5830
  },
  {
   "company": "Rhythmflows Solutions",
@@ -20042,7 +20037,7 @@
     "workable:rhythmflows -> no board"
    ]
   },
-  "ms": 3191
+  "ms": 4079
  },
  {
   "company": "RejoiceHub",
@@ -20319,7 +20314,7 @@
     "workable:rejoicehub -> no board"
    ]
   },
-  "ms": 3864
+  "ms": 4463
  },
  {
   "company": "RChilli",
@@ -20588,7 +20583,7 @@
     "workable:rchilli -> no board"
    ]
   },
-  "ms": 51414
+  "ms": 43331
  },
  {
   "company": "Rocketium",
@@ -20788,7 +20783,7 @@
     "keka:rocketium -> 4 jobs"
    ]
   },
-  "ms": 10006
+  "ms": 9585
  },
  {
   "company": "Rezolve.ai",
@@ -20846,7 +20841,7 @@
     "workable:rezolve -> no board"
    ]
   },
-  "ms": 14221
+  "ms": 13047
  },
  {
   "company": "Reverie Language Technologies",
@@ -20865,57 +20860,57 @@
     {
      "url": "https://careers.reverieinc.com",
      "status": 200,
-     "bytes": 42131
+     "bytes": 42130
     },
     {
      "url": "https://reverieinc.com/careers",
      "status": 404,
-     "bytes": 237619
+     "bytes": 237823
     },
     {
      "url": "https://reverieinc.com/career",
      "status": 404,
-     "bytes": 237619
+     "bytes": 237823
     },
     {
      "url": "https://reverieinc.com/jobs",
      "status": 404,
-     "bytes": 237619
+     "bytes": 237823
     },
     {
      "url": "https://reverieinc.com/join-us",
      "status": 404,
-     "bytes": 237619
+     "bytes": 237823
     },
     {
      "url": "https://reverieinc.com/join-our-team",
      "status": 404,
-     "bytes": 237619
+     "bytes": 237823
     },
     {
      "url": "https://reverieinc.com/careers.html",
      "status": 404,
-     "bytes": 237619
+     "bytes": 237823
     },
     {
      "url": "https://reverieinc.com/company/careers",
      "status": 404,
-     "bytes": 237619
+     "bytes": 237823
     },
     {
      "url": "https://reverieinc.com/about/careers",
      "status": 404,
-     "bytes": 237619
+     "bytes": 237823
     },
     {
      "url": "https://reverieinc.com/current-openings",
      "status": 404,
-     "bytes": 237619
+     "bytes": 237823
     },
     {
      "url": "https://reverieinc.com/",
      "status": 200,
-     "bytes": 330857
+     "bytes": 331061
     }
    ],
    "candidates": [
@@ -20943,7 +20938,7 @@
     "workable:reverieinc -> no board"
    ]
   },
-  "ms": 33166
+  "ms": 32915
  },
  {
   "company": "Recykal",
@@ -21087,7 +21082,7 @@
     "workable:recykal -> no board"
    ]
   },
-  "ms": 3707
+  "ms": 3754
  },
  {
   "company": "Ripplr",
@@ -21231,7 +21226,7 @@
     "workable:ripplr -> no board"
    ]
   },
-  "ms": 6266
+  "ms": 4295
  },
  {
   "company": "Roadzen",
@@ -21375,7 +21370,7 @@
     "workable:roadzen -> no board"
    ]
   },
-  "ms": 4986
+  "ms": 5091
  },
  {
   "company": "Rooter",
@@ -21445,7 +21440,7 @@
     {
      "url": "https://rooter.gg/",
      "status": 200,
-     "bytes": 97418
+     "bytes": 91998
     }
    ],
    "candidates": [
@@ -21463,7 +21458,7 @@
     "workable:rooter -> no board"
    ]
   },
-  "ms": 5611
+  "ms": 5357
  },
  {
   "company": "RailYatri",
@@ -21551,7 +21546,7 @@
     "workable:railyatri -> no board"
    ]
   },
-  "ms": 9924
+  "ms": 10515
  },
  {
   "company": "Riskcovry",
@@ -21571,7 +21566,7 @@
     {
      "url": "https://riskcovry.com/careers",
      "status": 200,
-     "bytes": 516399
+     "bytes": 516384
     },
     {
      "url": "https://careers.riskcovry.com",
@@ -21581,12 +21576,12 @@
     {
      "url": "https://riskcovry.com/career",
      "status": 200,
-     "bytes": 516399
+     "bytes": 516384
     },
     {
      "url": "https://riskcovry.com/jobs",
      "status": 404,
-     "bytes": 437052
+     "bytes": 437038
     }
    ],
    "candidates": [
@@ -21606,7 +21601,7 @@
     "workable:riskcovry -> no board"
    ]
   },
-  "ms": 8255
+  "ms": 7953
  },
  {
   "company": "RenewBuy",
@@ -21694,7 +21689,7 @@
     "workable:renewbuy -> no board"
    ]
   },
-  "ms": 15139
+  "ms": 11975
  },
  {
   "company": "Redcliffe Labs",
@@ -21714,7 +21709,7 @@
     {
      "url": "https://redcliffelabs.com/career",
      "status": 200,
-     "bytes": 92728
+     "bytes": 92293
     },
     {
      "url": "https://careers.redcliffelabs.com",
@@ -21765,7 +21760,7 @@
     {
      "url": "https://redcliffelabs.com/",
      "status": 200,
-     "bytes": 145079
+     "bytes": 144644
     }
    ],
    "candidates": [
@@ -21793,7 +21788,7 @@
     "workable:redcliffelabs -> no board"
    ]
   },
-  "ms": 12671
+  "ms": 17287
  },
  {
   "company": "RevFin",
@@ -21857,7 +21852,7 @@
     "workable:revfin -> no board"
    ]
   },
-  "ms": 3713
+  "ms": 6469
  },
  {
   "company": "Rang De",
@@ -21951,7 +21946,7 @@
     "workable:rangde -> no board"
    ]
   },
-  "ms": 4964
+  "ms": 6097
  },
  {
   "company": "ReBIT (Reserve Bank Information Technology)",
@@ -22095,7 +22090,7 @@
     "workable:rebit -> no board"
    ]
   },
-  "ms": 4790
+  "ms": 3095
  },
  {
   "company": "RailTel Corporation of India",
@@ -22331,7 +22326,7 @@
     "workable:railtelindia -> no board"
    ]
   },
-  "ms": 6964
+  "ms": 7889
  },
  {
   "company": "Repos Energy",
@@ -22428,7 +22423,7 @@
     "workable:reposenergy -> no board"
    ]
   },
-  "ms": 12344
+  "ms": 11043
  },
  {
   "company": "Rista Apps",
@@ -22572,7 +22567,7 @@
     "workable:ristaapps -> no board"
    ]
   },
-  "ms": 3767
+  "ms": 5459
  },
  {
   "company": "Roadcast",
@@ -22902,7 +22897,7 @@
     "workable:roadcast -> no board"
    ]
   },
-  "ms": 3052
+  "ms": 2967
  },
  {
   "company": "Rubick.ai",
@@ -23625,7 +23620,7 @@
     "keka:rubick -> 21 jobs"
    ]
   },
-  "ms": 9861
+  "ms": 9374
  },
  {
   "company": "Runo",
@@ -23769,7 +23764,7 @@
     "workable:runo -> no board"
    ]
   },
-  "ms": 3916
+  "ms": 4587
  },
  {
   "company": "RevenueHero",
@@ -23855,7 +23850,7 @@
     "zohorecruit:revenuehero -> 1 jobs"
    ]
   },
-  "ms": 3044
+  "ms": 2964
  },
  {
   "company": "Robylon AI",
@@ -24009,7 +24004,7 @@
     "workable:robylon -> no board"
    ]
   },
-  "ms": 15394
+  "ms": 23981
  },
  {
   "company": "Rigi",
@@ -24217,7 +24212,7 @@
     "keka:rigi -> 2 jobs"
    ]
   },
-  "ms": 1264
+  "ms": 1249
  },
  {
   "company": "Reelo",
@@ -24649,7 +24644,7 @@
     "keka:reelo -> 17 jobs"
    ]
   },
-  "ms": 4673
+  "ms": 4138
  },
  {
   "company": "Refrens",
@@ -24793,7 +24788,7 @@
     "workable:refrens -> no board"
    ]
   },
-  "ms": 5451
+  "ms": 6217
  },
  {
   "company": "Recruit CRM",
@@ -26362,7 +26357,7 @@
     {
      "url": "https://recruitcrm.io/career",
      "status": 404,
-     "bytes": 66524
+     "bytes": 66382
     }
    ],
    "candidates": [
@@ -26380,7 +26375,7 @@
     "workable:recruitcrm -> no board"
    ]
   },
-  "ms": 5762
+  "ms": 6827
  },
  {
   "company": "Resulticks",
@@ -26469,7 +26464,7 @@
     "workable:resulticks -> no board"
    ]
   },
-  "ms": 17383
+  "ms": 16237
  },
  {
   "company": "Retailio",
@@ -26773,7 +26768,7 @@
     "workable:retailio -> no board"
    ]
   },
-  "ms": 4745
+  "ms": 3815
  },
  {
   "company": "Robro Systems",
@@ -26889,7 +26884,7 @@
     "workable:robrosystems -> no board"
    ]
   },
-  "ms": 12629
+  "ms": 10129
  },
  {
   "company": "RapiPay Fintech",
@@ -27134,7 +27129,7 @@
     {
      "url": "https://in.rapipay.com/careers/",
      "status": 200,
-     "bytes": 171057
+     "bytes": 171056
     }
    ],
    "candidates": [
@@ -27162,7 +27157,7 @@
     "workable:rapipay -> no board"
    ]
   },
-  "ms": 10153
+  "ms": 8815
  },
  {
   "company": "Rupyy",
@@ -27235,7 +27230,7 @@
     "workable:rupyy -> no board"
    ]
   },
-  "ms": 6038
+  "ms": 5302
  },
  {
   "company": "Rio Money",
@@ -27305,7 +27300,7 @@
     {
      "url": "https://rio.money/",
      "status": 200,
-     "bytes": 55347
+     "bytes": 56213
     },
     {
      "url": "https://careers.www.rio.money",
@@ -27361,7 +27356,7 @@
     {
      "url": "https://www.rio.money/",
      "status": 200,
-     "bytes": 55347
+     "bytes": 56213
     }
    ],
    "candidates": [
@@ -27379,7 +27374,7 @@
     "workable:riomoney -> no board"
    ]
   },
-  "ms": 4779
+  "ms": 3503
  },
  {
   "company": "RoboMQ",
@@ -27503,7 +27498,7 @@
     "lever:robomq -> 1 jobs (guess, name-verified)"
    ]
   },
-  "ms": 14531
+  "ms": 15389
  },
  {
   "company": "Reliance Games",
@@ -28078,7 +28073,7 @@
     "workable:reliancegames -> no board"
    ]
   },
-  "ms": 19816
+  "ms": 18506
  },
  {
   "company": "Reliance Industries",
@@ -28183,7 +28178,7 @@
     {
      "url": "https://ril.com/careers",
      "status": 200,
-     "bytes": 137153
+     "bytes": 138424
     },
     {
      "url": "https://careers.ril.com",
@@ -28193,7 +28188,7 @@
     {
      "url": "https://ril.com/career",
      "status": 404,
-     "bytes": 81761
+     "bytes": 81755
     },
     {
      "url": "https://ril.com/jobs",
@@ -28216,7 +28211,7 @@
     "workable:reliance -> no board"
    ]
   },
-  "ms": 3730
+  "ms": 8095
  },
  {
   "company": "Reliance General Insurance",
@@ -28241,17 +28236,17 @@
     {
      "url": "https://reliancegeneral.co.in/careers",
      "status": 404,
-     "bytes": 179856
+     "bytes": 180712
     },
     {
      "url": "https://reliancegeneral.co.in/career",
      "status": 404,
-     "bytes": 179804
+     "bytes": 180792
     },
     {
      "url": "https://reliancegeneral.co.in/jobs",
      "status": 404,
-     "bytes": 179848
+     "bytes": 180736
     }
    ],
    "candidates": [
@@ -28279,7 +28274,7 @@
     "workable:reliancegeneral -> no board"
    ]
   },
-  "ms": 9864
+  "ms": 10143
  },
  {
   "company": "Reliance Nippon Life Insurance",
@@ -28379,7 +28374,7 @@
     {
      "url": "https://reliancenipponlife.com/careers",
      "status": 200,
-     "bytes": 534945
+     "bytes": 533398
     },
     {
      "url": "https://careers.reliancenipponlife.com",
@@ -28423,7 +28418,7 @@
     "workable:reliancenipponlife -> no board"
    ]
   },
-  "ms": 8315
+  "ms": 7672
  },
  {
   "company": "Religare Enterprises",
@@ -28520,7 +28515,7 @@
     "workable:religare -> no board"
    ]
   },
-  "ms": 16935
+  "ms": 16410
  },
  {
   "company": "Royal Sundaram General Insurance",
@@ -28590,7 +28585,7 @@
     {
      "url": "https://royalsundaram.in/",
      "status": 200,
-     "bytes": 294031
+     "bytes": 294030
     }
    ],
    "candidates": [
@@ -28620,7 +28615,7 @@
     "workable:royalsundaram -> no board"
    ]
   },
-  "ms": 8226
+  "ms": 6449
  },
  {
   "company": "Royal Enfield",
@@ -28639,7 +28634,7 @@
     {
      "url": "https://careers.royalenfield.com",
      "status": 200,
-     "bytes": 888146
+     "bytes": 887975
     },
     {
      "url": "https://royalenfield.com/careers",
@@ -28750,7 +28745,7 @@
     {
      "url": "https://careers.royalenfield.com/us/en/home",
      "status": 200,
-     "bytes": 888146
+     "bytes": 887975
     }
    ],
    "candidates": [
@@ -28770,7 +28765,7 @@
     "workable:royalenfield -> no board"
    ]
   },
-  "ms": 25756
+  "ms": 23930
  },
  {
   "company": "Renault Nissan Technology & Business Centre India",
@@ -28790,7 +28785,7 @@
     {
      "url": "https://rntbci.in/careers",
      "status": 200,
-     "bytes": 7781
+     "bytes": 7782
     },
     {
      "url": "https://careers.rntbci.in",
@@ -28811,17 +28806,17 @@
     {
      "url": "https://rntbci.in/join-us",
      "status": 404,
-     "bytes": 7681
+     "bytes": 7683
     },
     {
      "url": "https://rntbci.in/join-our-team",
      "status": 404,
-     "bytes": 7680
+     "bytes": 7681
     },
     {
      "url": "https://rntbci.in/careers.html",
      "status": 404,
-     "bytes": 7681
+     "bytes": 7680
     },
     {
      "url": "https://rntbci.in/company/careers",
@@ -28836,7 +28831,7 @@
     {
      "url": "https://rntbci.in/current-openings",
      "status": 404,
-     "bytes": 7682
+     "bytes": 7681
     },
     {
      "url": "https://rntbci.in/",
@@ -28869,7 +28864,7 @@
     "workable:rntbci -> no board"
    ]
   },
-  "ms": 11951
+  "ms": 11801
  },
  {
   "company": "Renesas Electronics India",
@@ -29162,7 +29157,7 @@
     "workable:renesas -> no board"
    ]
   },
-  "ms": 17331
+  "ms": 16791
  },
  {
   "company": "Ribbon Communications India",
@@ -29282,7 +29277,7 @@
     {
      "url": "https://ribboncommunications.com/careers",
      "status": 200,
-     "bytes": 233008
+     "bytes": 233009
     },
     {
      "url": "https://careers.ribboncommunications.com",
@@ -29293,22 +29288,22 @@
     {
      "url": "https://ribboncommunications.com/career",
      "status": 404,
-     "bytes": 194382
+     "bytes": 200980
     },
     {
      "url": "https://ribboncommunications.com/jobs",
      "status": 200,
-     "bytes": 233008
+     "bytes": 233009
     },
     {
      "url": "https://ribboncommunications.com/join-us",
      "status": 404,
-     "bytes": 194385
+     "bytes": 200983
     },
     {
      "url": "https://ribboncommunications.com/join-our-team",
      "status": 404,
-     "bytes": 194403
+     "bytes": 201001
     }
    ],
    "candidates": [
@@ -29328,7 +29323,7 @@
     "workable:ribboncommunications -> no board"
    ]
   },
-  "ms": 9855
+  "ms": 9980
  },
  {
   "company": "Riverbed Technology India",
@@ -29629,7 +29624,7 @@
     "icims:riverbed -> 10 jobs"
    ]
   },
-  "ms": 6163
+  "ms": 4361
  },
  {
   "company": "RingCentral India",
@@ -30740,7 +30735,7 @@
     "workday:ringcentral -> 62 jobs"
    ]
   },
-  "ms": 9071
+  "ms": 9250
  },
  {
   "company": "Roku India",
@@ -30774,8 +30769,8 @@
     },
     {
      "url": "https://roku.com/jobs",
-     "status": 200,
-     "bytes": 96215
+     "status": 202,
+     "bytes": 2465
     },
     {
      "url": "https://roku.com/join-us",
@@ -30832,6 +30827,41 @@
      "url": "https://www.roku.com/jobs",
      "status": 202,
      "bytes": 2465
+    },
+    {
+     "url": "https://www.roku.com/join-us",
+     "status": 200,
+     "bytes": 59761
+    },
+    {
+     "url": "https://www.roku.com/join-our-team",
+     "status": 200,
+     "bytes": 59761
+    },
+    {
+     "url": "https://www.roku.com/careers.html",
+     "status": 200,
+     "bytes": 59761
+    },
+    {
+     "url": "https://www.roku.com/company/careers",
+     "status": 200,
+     "bytes": 59761
+    },
+    {
+     "url": "https://www.roku.com/about/careers",
+     "status": 200,
+     "bytes": 59761
+    },
+    {
+     "url": "https://www.roku.com/current-openings",
+     "status": 200,
+     "bytes": 59761
+    },
+    {
+     "url": "https://www.roku.com/",
+     "status": 200,
+     "bytes": 59761
     }
    ],
    "candidates": [
@@ -30849,7 +30879,7 @@
     "workable:roku -> no board"
    ]
   },
-  "ms": 31696
+  "ms": 30801
  },
  {
   "company": "Rockstar Games India",
@@ -30938,7 +30968,7 @@
     "workable:rockstargames -> no board"
    ]
   },
-  "ms": 11710
+  "ms": 11521
  },
  {
   "company": "Resideo India",
@@ -31002,7 +31032,7 @@
     {
      "url": "https://resideo.com/career",
      "status": 404,
-     "bytes": 83530
+     "bytes": 83647
     }
    ],
    "candidates": [
@@ -31020,7 +31050,7 @@
     "workable:resideo -> no board"
    ]
   },
-  "ms": 16043
+  "ms": 19996
  },
  {
   "company": "RSA Security India",
@@ -31045,17 +31075,17 @@
     {
      "url": "https://rsa.com/careers",
      "status": 404,
-     "bytes": 343071
+     "bytes": 343069
     },
     {
      "url": "https://rsa.com/career",
      "status": 404,
-     "bytes": 343430
+     "bytes": 343040
     },
     {
      "url": "https://rsa.com/jobs",
      "status": 404,
-     "bytes": 342980
+     "bytes": 342979
     }
    ],
    "candidates": [
@@ -31073,7 +31103,7 @@
     "workable:rsasecurity -> no board"
    ]
   },
-  "ms": 26850
+  "ms": 29457
  },
  {
   "company": "Rocket Software India",
@@ -31212,7 +31242,7 @@
     "workable:rocketsoftware -> no board"
    ]
   },
-  "ms": 7591
+  "ms": 5885
  },
  {
   "company": "ResMed India",
@@ -31408,24 +31438,34 @@
     "score": 8
    },
    {
-    "title": "Senior Systems Engineer",
-    "location": "Sydney, NSW, Australia",
-    "url": "https://resmed.wd3.myworkdayjobs.com/Resmed_External_Careers/job/Sydney-NSW-Australia/Senior-Systems-Engineer_JR_052301-1",
+    "title": "CPAP Consultant",
+    "location": "Melbourne, VIC, Australia",
+    "url": "https://resmed.wd3.myworkdayjobs.com/Resmed_External_Careers/job/Melbourne-VIC-Australia/CPAP-Consultant_JR_053024-1",
     "india": false,
     "locationSaysIndia": false,
     "hasLocation": true,
-    "isEng": true,
+    "isEng": false,
     "java": false,
     "flutter": false,
-    "senior": true,
-    "exp": [
-     [
-      8,
-      12
-     ]
-    ],
+    "senior": false,
+    "exp": [],
     "expFits2": false,
-    "score": 8
+    "score": 4
+   },
+   {
+    "title": "Reliability & Maintenance Technician",
+    "location": "Singapore, Singapore",
+    "url": "https://resmed.wd3.myworkdayjobs.com/Resmed_External_Careers/job/Singapore-Singapore/Reliability---Maintenance-Technician_JR_053012",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 4
    },
    {
     "title": "Reliability and Maintenance Technician, 2nd Shift",
@@ -31578,21 +31618,6 @@
     "score": 4
    },
    {
-    "title": "Kundendienstmitarbeiter:in (m/w/d) - befristet auf 1 Jahr",
-    "location": "Bremen, Germany",
-    "url": "https://resmed.wd3.myworkdayjobs.com/Resmed_External_Careers/job/Bremen-Germany/Kundendienstmitarbeiter-in--m-w-d----befristet-auf-1-JahrKundendienstmitarbeiter-in--m-w-d----befristet-auf-1-Jahr_JR_052842",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 4
-   },
-   {
     "title": "Associate Project Manager - QARA Transformation and Delivery",
     "location": "Singapore, Singapore",
     "url": "https://resmed.wd3.myworkdayjobs.com/Resmed_External_Careers/job/Singapore-Singapore/Associate-Project-Manager---QARA-Transformation-and-Delivery_JR_052759-2",
@@ -31606,6 +31631,21 @@
     "exp": [],
     "expFits2": false,
     "score": -6
+   },
+   {
+    "title": "Lead Data Scientist",
+    "location": "Sydney, NSW, Australia",
+    "url": "https://resmed.wd3.myworkdayjobs.com/Resmed_External_Careers/job/Sydney-NSW-Australia/Lead-Data-Scientist_JR_052719",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": false,
+    "java": false,
+    "flutter": false,
+    "senior": true,
+    "exp": [],
+    "expFits2": false,
+    "score": -18
    },
    {
     "title": "Senior Marketing Manager - Canada",
@@ -31848,21 +31888,6 @@
     "score": -18
    },
    {
-    "title": "Technical Program Manager (2 year FTC)",
-    "location": "Singapore, Singapore",
-    "url": "https://resmed.wd3.myworkdayjobs.com/Resmed_External_Careers/job/Singapore-Singapore/Technical-Program-Manager--1-year-FTC-_JR_049552-1",
-    "india": false,
-    "locationSaysIndia": false,
-    "hasLocation": true,
-    "isEng": false,
-    "java": false,
-    "flutter": false,
-    "senior": true,
-    "exp": [],
-    "expFits2": false,
-    "score": -18
-   },
-   {
     "title": "Intern, Manufacturing Engineering (6-Month Duration)",
     "location": "Johor Bahru, Malaysia",
     "url": "https://resmed.wd3.myworkdayjobs.com/Resmed_External_Careers/job/Johor-Bahru-Malaysia/Intern--Manufacturing-Engineering--6-Month-Duration-_JR_052810",
@@ -31878,7 +31903,7 @@
     "score": -36
    }
   ],
-  "enriched": 9,
+  "enriched": 8,
   "matches": [],
   "nearMatches": [],
   "closest": {
@@ -31940,12 +31965,12 @@
     {
      "url": "https://resmed.com/careers",
      "status": 200,
-     "bytes": 71590
+     "bytes": 71591
     },
     {
      "url": "https://careers.resmed.com",
      "status": 200,
-     "bytes": 71590
+     "bytes": 71591
     },
     {
      "url": "https://resmed.com/career",
@@ -31978,7 +32003,7 @@
     "workday:resmed -> 40 jobs"
    ]
   },
-  "ms": 24378
+  "ms": 24913
  },
  {
   "company": "Rimini Street India",
@@ -32013,11 +32038,11 @@
     "score": 85
    },
    {
-    "title": "Forward Deployed Engineer, Agentic AI",
-    "location": "Dubai, UAE",
-    "url": "https://riministreet.wd1.myworkdayjobs.com/RiminiStreet/job/Dubai-UAE/Forward-Deployed-Engineer--Agentic-AI-_R-102256",
-    "india": false,
-    "locationSaysIndia": false,
+    "title": "DevOps Engineer",
+    "location": "Hyderabad",
+    "url": "https://riministreet.wd1.myworkdayjobs.com/RiminiStreet/job/Hyderabad/DevOps-Engineer_R-102060",
+    "india": true,
+    "locationSaysIndia": true,
     "hasLocation": true,
     "isEng": true,
     "java": true,
@@ -32025,16 +32050,16 @@
     "senior": false,
     "exp": [
      [
-      8,
-      12
+      4,
+      8
      ],
      [
-      2,
-      6
+      8,
+      9
      ]
     ],
-    "expFits2": true,
-    "score": 85
+    "expFits2": false,
+    "score": 82
    },
    {
     "title": "Support Engineer, SAP ABAP/BTP",
@@ -32103,21 +32128,6 @@
     "title": "Support Engineer, Oracle Apps DBA",
     "location": "Hyderabad",
     "url": "https://riministreet.wd1.myworkdayjobs.com/RiminiStreet/job/Hyderabad/Support-Engineer--Oracle-Apps-DBA_R-102293",
-    "india": true,
-    "locationSaysIndia": true,
-    "hasLocation": true,
-    "isEng": true,
-    "java": false,
-    "flutter": false,
-    "senior": false,
-    "exp": [],
-    "expFits2": false,
-    "score": 49
-   },
-   {
-    "title": "DevOps Engineer",
-    "location": "Hyderabad",
-    "url": "https://riministreet.wd1.myworkdayjobs.com/RiminiStreet/job/Hyderabad/DevOps-Engineer_R-102060",
     "india": true,
     "locationSaysIndia": true,
     "hasLocation": true,
@@ -32203,6 +32213,21 @@
     "exp": [],
     "expFits2": false,
     "score": 46
+   },
+   {
+    "title": "Forward Deployed Engineer, Agentic AI",
+    "location": "Dubai, UAE",
+    "url": "https://riministreet.wd1.myworkdayjobs.com/RiminiStreet/job/Dubai-UAE/Forward-Deployed-Engineer--Agentic-AI-_R-102256",
+    "india": false,
+    "locationSaysIndia": false,
+    "hasLocation": true,
+    "isEng": true,
+    "java": false,
+    "flutter": false,
+    "senior": false,
+    "exp": [],
+    "expFits2": false,
+    "score": 34
    },
    {
     "title": "Forward Deployed Engineer, Agentic AI",
@@ -33737,40 +33762,40 @@
      ]
     ],
     "expFits2": true
-   },
+   }
+  ],
+  "nearMatches": [
    {
-    "title": "Forward Deployed Engineer, Agentic AI",
-    "location": "Dubai, UAE",
-    "url": "https://riministreet.wd1.myworkdayjobs.com/RiminiStreet/job/Dubai-UAE/Forward-Deployed-Engineer--Agentic-AI-_R-102256",
+    "title": "DevOps Engineer",
+    "location": "Hyderabad",
+    "url": "https://riministreet.wd1.myworkdayjobs.com/RiminiStreet/job/Hyderabad/DevOps-Engineer_R-102060",
     "team": "",
-    "text": "About Rimini Street, Inc. Rimini Street, Inc. (Nasdaq: RMNI), a Russell 2000® Company, is a proven, trusted global provider of end-to-end, mission-critical enterprise software support, managed services and innovative Agentic AI ERP solutions, and is the leading third-party support provider for Oracle, SAP and VMware software. Our comprehensive portfolio of unified solutions help run, manage, support, customize, configure, connect, protect, monitor, and optimize enterprise application, database and technology software, enabling our clients to achieve better business outcomes, significantly reduce costs and reallocate resources towards strategic projects. The Company has signed thousands of contracts with Fortune Global 100, Fortune 500, midmarket, public sector and government organizations who selected Rimini Street as their trusted, proven mission-critical enterprise software solutions provider and achieved better operational outcomes, realized billions of US dollars in savings and funded AI and other innovation investments. We are actively seeking a Forward Deployed Engineer, Agentic AI to join our Innovation team. The role embeds with enterprise clients remotely, with onsite visits as engagements require. Position Summary Reporting to the VP, Innovation, Solution Delivery, the Forward Deployed Engineer, Agentic AI embeds with enterprise clients to design, build and operationalize agentic AI solutions in production. You will build production outcomes for clients, integrate agentic systems with enterprise platforms and systems of record, and stay accountable through cutover, early production and handover to ongoing support. The role is platform-agnostic by design and adapts to whichever AI platform best fits the client, including hyperscaler AI services, ServiceNow and other enterprise AI platforms. Essential Duties and Responsibilities Lead technical discovery, scope agentic AI use cases, and translate business problems into engineering deliverables with measurable success criteria such as cycle-time reduction, support deflection, automation rate, security and governance success rate and adoption rate. Design target architectures that fit the client's environment, regulatory posture and platform preferences, selecting the right substrate per engagement across hyperscaler AI services, ServiceNow and other enterprise AI platforms. Write production-grade code to deliver the solution, working inside the client's source control, CI/CD and deployment infrastructure, and within enterprise release governance including change approvals, separation of duties, audit evidence and rollback planning. Build and tune retrieval pipelines, prompt architecture, guardrails, agent orchestration and human-in-the-loop controls that hold under real production variation. Implement enterprise-safe agent tool execution, including permission scoping, approval gates, audit trails and rollback paths for any agent action that touches systems of record. Build evaluation suites that catch hallucinations, regressions, grounding gaps and quality drift, and implement production observability for latency, token usage, error rates, accuracy and output drift. Integrate solutions with client identity, secrets management, network controls, incident response and compliance tooling. Stay engaged through cutover and the first production iteration cycle, then run a structured handover to the ongoing support team, including documentation, runbooks and knowledge transfer. Act as an escalation backup to the support team after handover, stepping back in when issues exceed the support team's depth or when the system needs architectural intervention. Build trusted advisor relationships with client engineering, data, security and business stakeholders, and communicate clearly to both engineering teams and C-level audiences. Abstract field learnings into reusable patterns, accelerators and reference architectures that feed back into Innovation and shape product direction, methodology and the next engagement. Experience This is a Principal-level role. We are looking for engineers with the depth to operate independently inside enterprise client environments, the breadth to span production engineering and applied AI, and the demonstrated ability to ship in a discipline that is still being defined. We weight recent, hands-on agentic AI work heavily, recognising that production agentic systems are a young discipline. Equivalent experience from adjacent disciplines, including machine learning engineering, applied AI research with production deployment exposure, or senior backend engineering with recent agentic shipping, is welcomed. 8+ years of professional engineering experience across production systems, with significant production rather than purely advisory time. 2+ years shipping AI or machine learning systems into production, with demonstrated hands-on agentic or LLM-based work. Proven track record working directly with Fortune 500 or Global 2000 enterprise clients in ambiguous, complex environments. Track record of operating across the full lifecycle of a system, including architecture ownership, handover to support and ongoing escalation support. Demonstrated ability to learn fast and ship in emerging technical disciplines. Candidates whose recent agentic AI work was learned quickly on the back of strong fundamentals are explicitly in scope. Enterprise systems-of-record grounding: hands-on experience with an ERP we support (SAP, Oracle E-Business Suite, JD Edwards), or strong business-process depth in core enterprise processes such as procurement, finance and order-to-cash. Direct SAP or Oracle E-Business Suite experience preferred. Skills ERP and enterprise systems experience across SAP, Oracle E-Business Suite, JD Edwards, infor, ServiceNow, Salesforce, Workday or other systems of record. Direct SAP and Oracle EBS experience highly valued. Required for ERP-anchored regional seats. Experience with multiple agentic AI platforms, demonstrating ability to deliver on whichever platform the client has standardized on. Prior experience as a Forward Deployed Engineer, Applied AI Engineer or equivalent embedded delivery role at an AI lab, hyperscaler or systems integrator. Production Python and at least one additional enterprise or full-stack language such as TypeScript, Java, Go, C# or Scala, including modern agent frameworks and patterns. SQL and data modelling fluency, including the ability to reason about enterprise data quality, lineage, permissions and operational semantics. Hands-on retrieval-augmented generation, including chunking, embeddings, vector stores and reranking. Evaluation suite design for LLM-based systems, including regression detection, hallucination measurement and grounding checks. Production observability for AI systems, including latency, token usage, error rate and output drift instrumentation. Working knowledge of at least one major agentic AI platform such as AWS Bedrock, Azure AI, Google Vertex AI, ServiceNow AI and willingness to learn others as engagements demand. Agent tool execution and governance, including the Model Context Protocol (MCP) or equivalent tool interfaces, permission scoping, scoped credentials, approval gates, audit trails and safe execution controls. Enterprise integration fundamentals, including REST and event-driven patterns, identity flows such as OIDC and SAML, and secure deployment into client-controlled environments. UI and front-end fluency in modern web frameworks such as Angular, React or equivalent, sufficient to build or extend the user-facing layer of agentic solutions. Durable execution frameworks, event-driven architectures or workflow orchestration at enterprise scale. Exceptional written and verbal communication across deep technical and executive audiences, with strong consultative and outcomes-driven instincts. High autonomy, resilience and pragmatism in legacy and politically complex environments, with the proactive discipline needed for effective remote embedding. Education Bachelor’s degree in computer science, engineering, information systems or related field, or equivalent practical experience. Location Remote – Dubai, UAE Travel Region-specific (see regional variants of this role). Travel typically 25 percent to work with clients, prospects, partners or attend events. Why Rimini Street? We are looking for talented, passionate people to help us build our future at Rimini Street . We hire only the best, the most extraordinary professionals and provide compensation, bonuses, and benefits to match the skills of our top-performing team members. Do you thrive in a fast-paced environment, enjoy growing together, and get excited about learning new skills? Are you looking for an opportunity to make a true impact as part of a team of extraordinary professionals? This is the place for you. Our work is challenging and meaningful. We start and end each day with a sense of achievement and purpose guided by our core values, the Four Cs: Company We dream big and innovate boldly. Colleagues We work with extraordinary people who create a culture of mutual respect and collaboration. Clients We relentlessly pursue solutions that help clients achieve their goals. Our unmatched client care is rooted in our passion for exceptional service. Community We believe in leaving the world a better place than we found it. With the Rimini Street Foundation, we’ve made positive impacts in six continents for over 425 charities. Accelerating Company Growth Nasdaq-listed under ticker symbol RMNI since October 2017 Over 6,300+ signed contracts to date, including Fortune 500 and Global 100 companies Over 2,000 team members in 23 countries US and international recognition for industry leadership and philanthropic efforts. See all of our awards and recognitions here: https://www.riministreet.com/company/awards/ Rimini Street is committed to creating a diverse and inclusive environment and is proud to be an Equal Employment Opportunity Employer. All qualified applicants will receive consideration for employment without regard to age, race, color, religion, national origin, sexual orientation, gender or gender identity, disability, protected veteran status, or any other characteristic protected by law. To learn more about how Rimini Street is redefining the enterprise software support industry, visit http://www.riministreet.com Please Note: Rimini Street does not accept resumes submitted by recruiting/staffing firms unless specifically requested by Human Resources. Unsolicited resumes will be ineligible for referral fees.",
-    "_detail": "https://riministreet.wd1.myworkdayjobs.com/wday/cxs/riministreet/RiminiStreet/job/Dubai-UAE/Forward-Deployed-Engineer--Agentic-AI-_R-102256",
+    "text": "About Rimini Street, Inc. Rimini Street, Inc. (Nasdaq: RMNI), a Russell 2000® Company, is a proven, trusted global provider of end-to-end, mission-critical enterprise software support, managed services and innovative Agentic AI ERP solutions, and is the leading third-party support provider for Oracle, SAP and VMware software. Our comprehensive portfolio of unified solutions help run, manage, support, customize, configure, connect, protect, monitor, and optimize enterprise application, database and technology software, enabling our clients to achieve better business outcomes, significantly reduce costs and reallocate resources towards strategic projects. The Company has signed thousands of contracts with Fortune Global 100, Fortune 500, midmarket, public sector and government organizations who selected Rimini Street as their trusted, proven mission-critical enterprise software solutions provider and achieved better operational outcomes, realized billions of US dollars in savings and funded AI and other innovation investments. We are actively seeking a DevOps Engineer This is a remote role based in India, Hyderabad. About Rimini Street, India, GCC. Rimini Street Inc, HQ : Las Vegas, NV, USA a disruptor in third party ERP support services, established undisputed leadership and as a natural progression, entered India with Rimini Street, India GCC India kick starting operations in Hyderabad , in 2013 with Global Client Onboarding Services, IT shared services and Global Service Development. In no time, Rimini Street, India GCC started Bengaluru operations going up the value chain with more complex product development (Oracle, SAP, Peoplesoft, JDE etc.) & advanced services (Managed services, Professional services, Security Managed Services etc). Rimini Street, India GCC gained valuable share in bringing the reputation to Rimini Street Inc of being a global provider of unified support and managed service solutions for enterprise software. Today, Rimini Street, India GCC is a family of about 800+ full time talented individuals, thanks to the remarkable talent that has supported the expansion. Rimini Street, India has nicely emerged as Global Capability Centre (GCC), and proudly says, “if you are best of the best, you belong to Rimini”. We are on a mission to contribute significantly to our “Rimini ONE” program, a turnkey Rimini Street service program that offers a comprehensive set of unified, integrated services that can run, manage, support, customize, configure, connect, protect, monitor, and optimize your Oracle and SAP ERP, database, and technology software. Position Summary The DevOps Engineer builds, operates, and automates the infrastructure, CI/CD pipelines, GitHub controls, AI runtimes, LLM gateways, agent platforms, and deployment environments supporting Rimini Street’s Agentic AI ERP Platform. The role ensures reliable, secure, scalable, and observable deployment of AI agents, MCP services, GenAI solutions, RAG services, workflow orchestration components, and platform services across cloud-hosted and air-gapped customer environments. Essential Duties & Responsibilities Platform & Infrastructure · Design, deploy and manage Kubernetes-based platform infrastructure for AI and enterprise services. · Build and maintain Infrastructure as Code using Terraform, Pulumi or equivalent tools. · Manage container registries, artifact repositories, networking, ingress, API gateways and service mesh. · Support availability, backup, disaster recovery and air-gapped customer deployment models. AI Platform & Agent Operations · Deploy and operate AI agents, MCP servers, orchestration workflows, GenAI services and RAG platforms. · Manage AI runtime environments, model-serving infrastructure, vector databases and knowledge services. · Support multi-model environments across OpenAI, Azure OpenAI, Anthropic, Gemini and local/open-source models. · Assist engineering teams in reliably deploying production-grade AI solutions. LLM Gateway & AI Governance · Maintain enterprise LLM Gateway platforms such as LiteLLM, Azure AI Gateway, APIM, Kong AI Gateway or equivalent. · Configure model routing, quotas, rate limits, failover, access controls and cost-monitoring controls. · Support model onboarding, versioning, promotion, rollback, evaluation and governance. · Monitor model latency, reliability, throughput, token usage and operational cost. CI/CD, GitHub Gates & Release Governance · Build and maintain CI/CD pipelines using GitHub Actions, GitLab CI, Jenkins or equivalent platforms. · Administer GitHub repositories, branch protection, CODEOWNERS, PR approvals and repository governance. · Implement quality gates including testing, security scanning, dependency validation, secret scanning, SBOM and compliance checks. · Support GitOps, release automation, signed commits, provenance tracking, deployment approvals and rollback mechanisms. Reliability, Security & Observability · Implement monitoring, logging, tracing and alerting for infrastructure, AI services, agents, workflows and LLM gateways. · Build dashboards for platform health, agent execution, MCP services, model usage and cost metrics. · Create runbooks, automation, self-healing capabilities and incident response procedures. · Manage secrets, certificates, credentials, model keys and deployment security controls. Experience · 4–8 years of experience in DevOps, Platform Engineering, SRE, MLOps, AI Platform Engineering, Cloud Engineering or Infrastructure Engineering. · Experience deploying, operating or supporting AI Agents, Agentic Workflows, MCP-based solutions, GenAI applications, LLM-powered platforms, RAG solutions or enterprise AI products. · Experience managing production Kubernetes environments and enterprise cloud workloads on AWS, Azure or GCP. · Experience building CI/CD pipelines, deployment automation and production release processes. · Experience supporting enterprise SaaS, platform products or business-critical applications. Required Kubernetes, Helm, Docker and container orchestration Terraform, Pulumi or equivalent Infrastructure as Code GitHub Enterprise, GitHub Actions, branch protection and quality gates AI Agents, MCP Servers, RAG platforms and GenAI solution operations LLM Gateway operations: LiteLLM, Azure AI Gateway, APIM or equivalent OpenAI, Azure OpenAI, Anthropic, Gemini or local model integration Python, Bash or Go scripting Monitoring, observability, logging, alerting and operational automation Secrets management, software supply chain security and deployment governance Preferred ArgoCD, Flux and GitOps practices Temporal or workflow orchestration platforms Vector databases: Pinecone, Qdrant, Weaviate, Chroma or pgvector AI observability: Langfuse, LangSmith, OpenLIT, Arize or equivalent Istio, Linkerd or equivalent service mesh PostgreSQL operations GPU infrastructure and AI workload optimisation Quarkus, Java, Python and AI-native application deployment Desired Qualifications · Bachelor’s degree in Computer Science, Engineering or a related field. · CKA or CKAD certification. · AWS, Azure or GCP certifications. · Terraform, Vault, Azure AI Engineer or equivalent AI/platform certifications are advantageous. Skills & Competencies · Strong troubleshooting, automation and operational ownership mindset. · Good written and verbal English communication skills. · Ability to work across distributed, multi-timezone teams. · Strong focus on reliability, security, governance and developer productivity. Ideal Profile A modern DevOps engineer with hands-on experience operating Kubernetes platforms, GitHub-based engineering controls, AI agents, LLM gateways, MCP services and enterprise GenAI solutions in production-oriented environments. Why Rimini Street? We are looking for talented, passionate people to help us build our future at Rimini Street . We hire only the best, the most extraordinary professionals and provide compensation, bonuses, and benefits to match the skills of our top-performing team members. Do you thrive in a fast-paced environment, enjoy growing together, and get excited about learning new skills? Are you looking for an opportunity to make a true impact as part of a team of extraordinary professionals? This is the place for you. Our work is challenging and meaningful. We start and end each day with a sense of achievement and purpose guided by our core values, the Four Cs: Company We dream big and innovate boldly. Colleagues We work with extraordinary people who create a culture of mutual respect and collaboration. Clients We relentlessly pursue solutions that help clients achieve their goals. Our unmatched client care is rooted in our passion for exceptional service. Community We believe in leaving the world a better place than we found it. With the Rimini Street Foundation, we’ve made positive impacts in six continents for over 425 charities. Accelerating Company Growth Nasdaq-listed under ticker symbol RMNI since October 2017 Over 6,300+ signed contracts to date, including Fortune 500 and Global 100 companies Over 2,000 team members in 23 countries US and international recognition for industry leadership and philanthropic efforts. See all of our awards and recognitions here: https://www.riministreet.com/company/awards/ Rimini Street is committed to creating a diverse and inclusive environment and is proud to be an Equal Employment Opportunity Employer. All qualified applicants will receive consideration for employment without regard to age, race, color, religion, national origin, sexual orientation, gender or gender identity, disability, protected veteran status, or any other characteristic protected by law. To learn more about how Rimini Street is redefining the enterprise software support industry, visit http://www.riministreet.com Please Note: Rimini Street does not accept resumes submitted by recruiting/staffing firms unless specifically requested by Human Resources. Unsolicited resumes will be ineligible for referral fees.",
+    "_detail": "https://riministreet.wd1.myworkdayjobs.com/wday/cxs/riministreet/RiminiStreet/job/Hyderabad/DevOps-Engineer_R-102060",
     "_detailKind": "workday",
     "_enriched": true,
-    "score": 85,
-    "isMatch": true,
+    "score": 82,
+    "isMatch": false,
     "isEng": true,
     "java": true,
     "flutter": false,
     "android": false,
-    "india": false,
+    "india": true,
     "senior": false,
     "junior": false,
     "intern": false,
     "exp": [
      [
-      8,
-      12
+      4,
+      8
      ],
      [
-      2,
-      6
+      8,
+      9
      ]
     ],
-    "expFits2": true
-   }
-  ],
-  "nearMatches": [
+    "expFits2": false
+   },
    {
     "title": "Support Engineer, SAP ABAP/BTP",
     "location": "Remote Brazil",
@@ -33936,7 +33961,7 @@
     "workday:riministreet -> 110 jobs"
    ]
   },
-  "ms": 26952
+  "ms": 24454
  },
  {
   "company": "Redis India",
@@ -34126,7 +34151,7 @@
     {
      "url": "https://redis.io/career",
      "status": 404,
-     "bytes": 1102314
+     "bytes": 1102313
     },
     {
      "url": "https://redis.io/jobs",
@@ -34141,7 +34166,7 @@
     {
      "url": "https://redis.io/join-our-team",
      "status": 404,
-     "bytes": 1102328
+     "bytes": 1102329
     }
    ],
    "candidates": [
@@ -34159,7 +34184,7 @@
     "workable:redis -> no board"
    ]
   },
-  "ms": 16154
+  "ms": 8889
  },
  {
   "company": "Rippling India",
@@ -34331,7 +34356,7 @@
     "workable:rippling -> no board"
    ]
   },
-  "ms": 22547
+  "ms": 24117
  },
  {
   "company": "RudderStack India",
@@ -34416,7 +34441,7 @@
     "rippling:rudderstack-careers -> 1 jobs"
    ]
   },
-  "ms": 2479
+  "ms": 1975
  },
  {
   "company": "Rolls-Royce India",
@@ -34524,7 +34549,7 @@
     {
      "url": "https://rolls-royce.com/careers",
      "status": 404,
-     "bytes": 200377
+     "bytes": 200277
     },
     {
      "url": "https://rolls-royce.com/career",
@@ -34547,7 +34572,7 @@
     "workable:rollsroyce -> no board"
    ]
   },
-  "ms": 13394
+  "ms": 9080
  },
  {
   "company": "Roche India",
@@ -34653,7 +34678,7 @@
     "workable:roche -> no board"
    ]
   },
-  "ms": 55555
+  "ms": 61205
  },
  {
   "company": "RWS Group India",
@@ -35640,7 +35665,7 @@
     {
      "url": "https://rws.com/careers",
      "status": 200,
-     "bytes": 146462
+     "bytes": 145632
     },
     {
      "url": "https://careers.rws.com",
@@ -35656,42 +35681,7 @@
     {
      "url": "https://rws.com/jobs",
      "status": 404,
-     "bytes": 134414
-    },
-    {
-     "url": "https://rws.com/join-us",
-     "status": 404,
-     "bytes": 134415
-    },
-    {
-     "url": "https://rws.com/join-our-team",
-     "status": 404,
-     "bytes": 134415
-    },
-    {
-     "url": "https://rws.com/careers.html",
-     "status": 200,
-     "bytes": 146462
-    },
-    {
-     "url": "https://rws.com/company/careers",
-     "status": 404,
-     "bytes": 134414
-    },
-    {
-     "url": "https://rws.com/about/careers",
-     "status": 200,
-     "bytes": 146462
-    },
-    {
-     "url": "https://rws.com/current-openings",
-     "status": 404,
-     "bytes": 134415
-    },
-    {
-     "url": "https://rws.com/",
-     "status": 200,
-     "bytes": 359433
+     "bytes": 134394
     }
    ],
    "candidates": [
@@ -35702,7 +35692,7 @@
     "lever:rws -> 59 jobs"
    ]
   },
-  "ms": 9566
+  "ms": 7555
  },
  {
   "company": "Rapid7 India",
@@ -35811,14 +35801,14 @@
     "workable:rapid7 -> no board"
    ]
   },
-  "ms": 29385
+  "ms": 27955
  },
  {
   "company": "RTX India",
   "country": "United States",
   "careers": "https://rtx.com/careers",
   "source": null,
-  "error": "careers-page-read-but-lists-no-openings",
+  "error": "timed-out",
   "totalJobs": 0,
   "jobs": [],
   "enriched": 0,
@@ -35827,46 +35817,10 @@
   "closest": null,
   "closestEng": null,
   "trace": {
-   "pages": [
-    {
-     "url": "https://rtx.com/careers",
-     "status": 200,
-     "bytes": 381264
-    },
-    {
-     "url": "https://careers.rtx.com",
-     "status": 200,
-     "bytes": 381264
-    },
-    {
-     "url": "https://rtx.com/career",
-     "status": 404,
-     "bytes": 37826
-    },
-    {
-     "url": "https://rtx.com/jobs",
-     "status": 200,
-     "bytes": 381264
-    },
-    {
-     "url": "https://rtx.com/join-us",
-     "status": 404,
-     "bytes": 37828
-    },
-    {
-     "url": "https://rtx.com/join-our-team",
-     "status": 404,
-     "bytes": 37840
-    }
-   ],
-   "candidates": [
-    "phenom:_self(html)"
-   ],
-   "attempts": [
-    "phenom:_self -> no board"
-   ]
+   "pages": [],
+   "attempts": []
   },
-  "ms": 89923
+  "ms": 90002
  },
  {
   "company": "Rackspace Technology India",
@@ -36498,7 +36452,7 @@
     {
      "url": "https://rackspace.com/career",
      "status": 404,
-     "bytes": 4282
+     "bytes": 4285
     },
     {
      "url": "https://rackspace.com/jobs",
@@ -36508,22 +36462,22 @@
     {
      "url": "https://rackspace.com/join-us",
      "status": 404,
-     "bytes": 4282
+     "bytes": 4285
     },
     {
      "url": "https://rackspace.com/join-our-team",
      "status": 404,
-     "bytes": 4282
+     "bytes": 4285
     },
     {
      "url": "https://rackspace.com/careers.html",
      "status": 404,
-     "bytes": 4282
+     "bytes": 4285
     },
     {
      "url": "https://rackspace.com/company/careers",
      "status": 404,
-     "bytes": 4282
+     "bytes": 4285
     },
     {
      "url": "https://rackspace.com/about/careers",
@@ -36533,12 +36487,12 @@
     {
      "url": "https://rackspace.com/current-openings",
      "status": 404,
-     "bytes": 4282
+     "bytes": 4285
     },
     {
      "url": "https://rackspace.com/",
      "status": 200,
-     "bytes": 96007
+     "bytes": 96010
     }
    ],
    "candidates": [
@@ -36553,7 +36507,7 @@
     "workday:rackspace -> 32 jobs"
    ]
   },
-  "ms": 30596
+  "ms": 23556
  },
  {
   "company": "Ryan India",
@@ -36573,7 +36527,7 @@
     {
      "url": "https://ryan.com/careers",
      "status": 200,
-     "bytes": 65601
+     "bytes": 65600
     },
     {
      "url": "https://careers.ryan.com",
@@ -36584,17 +36538,17 @@
     {
      "url": "https://ryan.com/career",
      "status": 404,
-     "bytes": 43283
+     "bytes": 43284
     },
     {
      "url": "https://ryan.com/jobs",
      "status": 404,
-     "bytes": 43281
+     "bytes": 43282
     },
     {
      "url": "https://ryan.com/join-us",
      "status": 404,
-     "bytes": 43284
+     "bytes": 43285
     },
     {
      "url": "https://ryan.com/join-our-team",
@@ -36604,7 +36558,7 @@
     {
      "url": "https://ryan.com/careers.html",
      "status": 404,
-     "bytes": 43290
+     "bytes": 43289
     },
     {
      "url": "https://ryan.com/company/careers",
@@ -36627,7 +36581,7 @@
     "workable:ryan -> no board"
    ]
   },
-  "ms": 32874
+  "ms": 33490
  },
  {
   "company": "Revvity India",
@@ -36652,7 +36606,7 @@
     {
      "url": "https://revvity.com/careers",
      "status": 403,
-     "bytes": 368
+     "bytes": 366
     },
     {
      "url": "https://revvity.com/career",
@@ -36662,7 +36616,7 @@
     {
      "url": "https://revvity.com/jobs",
      "status": 403,
-     "bytes": 365
+     "bytes": 363
     },
     {
      "url": "https://revvity.com/join-us",
@@ -36672,7 +36626,7 @@
     {
      "url": "https://revvity.com/join-our-team",
      "status": 403,
-     "bytes": 382
+     "bytes": 380
     },
     {
      "url": "https://revvity.com/careers.html",
@@ -36687,12 +36641,12 @@
     {
      "url": "https://revvity.com/about/careers",
      "status": 403,
-     "bytes": 378
+     "bytes": 376
     },
     {
      "url": "https://revvity.com/current-openings",
      "status": 403,
-     "bytes": 381
+     "bytes": 379
     },
     {
      "url": "https://revvity.com/",
@@ -36771,7 +36725,7 @@
     "workable:revvity -> no board"
    ]
   },
-  "ms": 9454
+  "ms": 10882
  },
  {
   "company": "Rivos",
@@ -36925,6 +36879,6 @@
     "workable:rivosinc -> no board"
    ]
   },
-  "ms": 15295
+  "ms": 15488
  }
 ]

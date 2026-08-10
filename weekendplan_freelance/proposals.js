@@ -55,7 +55,7 @@ const EVIDENCE = [
   { when: /\b(ios|swift|app ?store)\b/i, line: 'Shipped the same Flutter codebases to iOS and through App Store review.' },
   { when: /\b(spring|java|backend|rest|api|microservice)\b/i, line: 'Spring Boot REST services day to day — JPA/Hibernate, JWT auth, Flyway, JUnit 5 + Mockito, Swagger, Docker.' },
   { when: /\b(firebase|firestore|fcm|push|crashlytics)\b/i, line: 'Firebase in production: Firestore, FCM campaigns, Crashlytics, Remote Config — shipping features without a store release.' },
-  { when: /\b(map|location|gps|geo|track|delivery|logistics|fleet|ride)\b/i, line: 'Built a Maps routing engine with a server-side tile cache that cut map API spend 85%.' },
+  { when: /\b(map|maps|gps|geolocation|routing|delivery|logistics|fleet|ride[- ]?hailing)\b/i, line: 'Built a Maps routing engine with a server-side tile cache that cut map API spend 85%.' },
   { when: /\b(payment|razorpay|stripe|checkout|billing|subscription|in[- ]app purchase)\b/i, line: 'Payments integrated end to end — Stripe, in-app purchases, and 130+ WooCommerce REST endpoints inside Flutter clients.' },
   { when: /\b(chat|socket|real[- ]?time|webrtc|video|call|stream)\b/i, line: 'Real-time: WebSocket/STOMP chat with persistence and read receipts, and WebRTC audio/video with ICE/STUN/TURN signalling.' },
   { when: /\b(sql|mysql|postgres|mongo|database|redis)\b/i, line: 'Schema and query work — JPA/MySQL index tuning and removing N+1 patterns that dominated latency under load.' },
@@ -64,14 +64,36 @@ const EVIDENCE = [
   { when: /\b(admin|dashboard|panel|cms|erp)\b/i, line: 'Built the admin side too — dashboards and operator panels over the same APIs.' },
 ];
 
-/* What the gig is actually asking for, in the client's own words where possible. */
+/*
+ * What the gig is actually asking for.
+ *
+ * EVERY alternation is grouped. Writing /\bmap|gps|location|track\b/ looks
+ * word-bounded but parses as (\bmap)|(gps)|(location)|(track\b) — three of the
+ * four alternatives then match anywhere inside a word. That produced real
+ * corruption in the line the user reads: "allocation" was reported as maps/GPS,
+ * "restaurant" as REST APIs, "designated" as UI/UX, and worst of all
+ * "javascript" as Java/Spring — flagging a JS-only gig as a match for the
+ * candidate's core stack.
+ */
 const ASK_TERMS = [
-  ['Flutter', /\bflutter\b/i], ['Dart', /\bdart\b/i], ['Android', /\bandroid|kotlin\b/i],
-  ['iOS', /\bios|swift\b/i], ['Java/Spring', /\bjava|spring\b/i], ['REST APIs', /\brest|api\b/i],
-  ['Firebase', /\bfirebase|firestore\b/i], ['payments', /\bpayment|stripe|razorpay|checkout\b/i],
-  ['maps/GPS', /\bmap|gps|location|track\b/i], ['real-time', /\bchat|socket|real[- ]?time|webrtc\b/i],
-  ['database', /\bsql|mysql|postgres|mongo\b/i], ['AI/LLM', /\bai\b|\bml\b|llm|gpt|chatbot/i],
-  ['admin panel', /\badmin|dashboard|cms\b/i], ['UI/UX', /\bui\/?ux|design|figma\b/i],
+  ['Flutter', /\bflutter\b/i],
+  ['Dart', /\bdart\b/i],
+  ['Android', /\b(android|kotlin)\b/i],
+  ['iOS', /\b(ios|swift)\b/i],
+  // (?!script) so "javascript" can never read as Java.
+  ['Java/Spring', /\b(java(?!script)|spring)\b/i],
+  ['REST APIs', /\b(rest|restful|api|apis)\b/i],
+  ['Firebase', /\b(firebase|firestore)\b/i],
+  ['payments', /\b(payment|payments|stripe|razorpay|checkout)\b/i],
+  /* NOT `location` — it is a FIELD LABEL on most boards ("Location: Hyderabad"),
+   * so it reported maps/GPS on an ERP hosting gig and pulled in an irrelevant
+   * maps-routing claim. Match only words that mean actual map work. */
+  ['maps/GPS', /\b(map|maps|gps|geolocation|geospatial|tracking)\b/i],
+  ['real-time', /\b(chat|socket|websocket|real[- ]?time|webrtc)\b/i],
+  ['database', /\b(sql|mysql|postgres|postgresql|mongo|mongodb)\b/i],
+  ['AI/LLM', /\b(ai|ml|llm|gpt|chatbot)\b/i],
+  ['admin panel', /\b(admin|dashboard|cms)\b/i],
+  ['UI/UX', /\b(ui\/?ux|figma)\b|\bdesign(er|s)?\b/i],
 ];
 
 const clean = (s) => String(s || '').replace(/\s+/g, ' ').trim();
@@ -112,8 +134,8 @@ function proposal(gig) {
   L.push(`On your ${gig.title.replace(/\.$/, '')} — you're after ${want.slice(0, 3).join(', ') || 'this build'}. I've shipped that in production, not just used it.`);
   L.push('');
   L.push('  [one line here about THEIR project — the single highest-value edit you');
-  L.push('   can make. What they wrote is quoted below so you do not have to reopen');
-  L.push('   the posting.]');
+  L.push('   can make. Their own brief is quoted just above this proposal, so you');
+  L.push('   do not have to reopen the posting.]');
   L.push('');
   if (proof.length) {
     L.push("Closest work I've done to it:");

@@ -4,6 +4,53 @@ You track progress here. I update this file every cycle. Newest first.
 
 ---
 
+## 2026-08-10 (cycle 21)
+
+Nothing new in `vaibhavclaude.md`, so I read the freelance **proposals** line by
+line — the one thing I had written for you and never actually checked.
+
+### The "what they want" line was wrong on real gigs
+An ERP hosting job was listed as wanting **maps/GPS**. It does not — it wants
+React and Firebase. Two separate mistakes of mine caused it:
+
+1. **A subtle pattern-matching bug.** My skill patterns looked like they matched
+   whole words but did not. The damage was real and would have embarrassed you:
+
+   | text in the gig | what I reported |
+   |---|---|
+   | "allocation of budget" | maps/GPS |
+   | "restaurant booking system" | REST APIs |
+   | "designated project manager" | UI/UX |
+   | **"javascript developer"** | **Java/Spring** |
+
+   That last one matters most — a JavaScript-only gig would have looked like a
+   match for your core stack, and you might have spent a bid on it.
+
+2. **I was matching the word "location"** — which is a *field label* every job
+   board prints ("Location: Hyderabad"), not a requirement. So any gig anywhere
+   looked like it needed maps work.
+
+Both fixed. That ERP gig now correctly reads "they want: Firebase" and offers
+your Firebase and admin-panel experience instead of a maps-routing claim.
+
+I also fixed the instruction inside each proposal: it told you their brief was
+quoted *below* when it is printed *above*.
+
+### Where things stand
+
+| | |
+|---|---|
+| Jobs — four folders | 2,986 roles |
+| Application packs | 60 + 20 roles |
+| Freelance | 60 gigs across 9 platforms, 20 proposals — all regenerated |
+
+### Next
+The job scan is only a few hours old, so a full re-sweep can wait. I will keep
+reading these files by hand; every cycle it has found something the numbers did
+not show.
+
+---
+
 ## 2026-08-10 (cycle 20)
 
 ### 60 adverts were sitting in your job lists pretending to be jobs

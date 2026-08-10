@@ -324,6 +324,34 @@ WHEN FIXING A FILTER, CHECK ALL FOUR PLACES. They do not share code:
 SERVICE_PAGE now lives in the first three, plus build.js so existing scans are
 cleaned without waiting for a full re-sweep. Folder 1: 286 -> 267 roles.
 
+
+## Regex precedence bug in proposals.js (cycle 21) — FIXED
+Reading the proposals line by line (the one output never audited) found the
+"they want:" line was wrong on real gigs. Cause: every ASK_TERMS pattern was
+written /\bmap|gps|location|track\b/ — which parses as
+(\bmap)|(gps)|(location)|(track\b), so all but the first alternative match
+ANYWHERE inside a word. Measured false positives:
+    "allocation of budget"      -> maps/GPS
+    "restaurant booking system" -> REST APIs
+    "designated project manager"-> UI/UX
+    "javascript developer"      -> Java/Spring   <- worst: JS-only gig reads as
+                                                   the candidate's core stack
+All alternations are now grouped, plus java(?!script).
+CHECK FOR THIS SHAPE ELSEWHERE: /\ba|b|c\b/ is almost always a bug. The
+EVIDENCE table in the same file was already grouped correctly, and w/test.js
+uses grouped forms, so the defect was confined to ASK_TERMS.
+
+## "location" is a field label, not a requirement
+Even grouped, `location` matched "Location: Hyderabad" — a field Twine prints on
+every listing — so an ERP hosting gig reported maps/GPS and offered a
+maps-routing claim. Removed from both the ask detector and the evidence matcher.
+GENERAL RULE: before matching a generic noun, check it is not a label the board
+prints on every posting.
+
+## Also corrected
+The proposal placeholder told the reader their brief was quoted BELOW; it
+renders above.
+
 ## Next cycle
 1. Consider fixing the intern signal at source: RE_JUNIOR in w/test.js rewards
    "intern"/"trainee" with +12, which is wrong for a 2-year candidate. Build.js

@@ -352,6 +352,32 @@ prints on every posting.
 The proposal placeholder told the reader their brief was quoted BELOW; it
 renders above.
 
+
+## weekendplan/qa.js — the hand-audit as a check (cycle 22)
+Reading the output files has found a real defect EVERY cycle it was done, and
+none showed up in any count. qa.js now asserts every failure mode that has
+actually shipped: blog headlines, service pages, internships, senior titles,
+missing URLs, non-India rows, duplicates, wrong side of the stack split, empty
+cover-note evidence, placeholder junk, geo-blocked gigs, and a single-platform
+freelance shortlist. Exits non-zero on regression.
+    node weekendplan/qa.js
+RUN IT AFTER EVERY BUILD. It caught three regressions the moment it existed:
+ - "Cost to Hire Full Stack Developer" in the PRIORITY folder — BLOG_HEADLINE
+   was only applied to feed/sitemap, so the heading extractor let it through.
+   (Fourth instance of the fix-one-path-only mistake.)
+ - a trainee gig demoted out of 1-bid-now into 2-worth-a-look, which is the same
+   mistake in a smaller font. Freelance exclusions now apply to every tier.
+ - three "duplicates" that were a bug in the CHECK, not the data: boards write
+   "India, Bengaluru" and "India, Chennai", and splitting on the first comma
+   reduced both to "India". qa.js now normalises the city the way build.js does.
+This does NOT replace reading the files — a NEW failure mode still needs eyes.
+It means no OLD one comes back unnoticed.
+
+## weekendplan/regexaudit.js — finds the /\ba|b|c\b/ bug shape
+Written after last cycle's precedence bug. Reports regex literals where some
+top-level alternatives carry \b and others do not. Validated against known-bad
+fixtures before trusting its clean result; the codebase currently has none.
+
 ## Next cycle
 1. Consider fixing the intern signal at source: RE_JUNIOR in w/test.js rewards
    "intern"/"trainee" with +12, which is wrong for a 2-year candidate. Build.js

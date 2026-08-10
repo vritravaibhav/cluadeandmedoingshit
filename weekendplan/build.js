@@ -110,6 +110,15 @@ const INTERN = /\b(intern|internship|trainee|apprentice|co[- ]?op)\b/i;
 const SERVICE_PAGE =
   /^(hire|outsource|offshore)\b|\b(hire|hiring)\s+(a|an|the)?\s*(dedicated|expert|top|best|remote|offshore)?\s*\w*\s*(developers?|engineers?|designers?|teams?|programmers?)\b|^(our|why choose|about)\s/i;
 
+/*
+ * Blog headlines, same story as the service pages: filtered in the engine but
+ * only on the feed/sitemap path, so "Cost to Hire Full Stack Developer" walked
+ * into the priority folder through the heading extractor. Netted here too, so
+ * existing scans are clean without waiting for a re-sweep.
+ */
+const BLOG_TITLE =
+  /^(top|how|why|what|which|\d+\s+(best|top|ways|tips|reasons))\b|\b(cost to hire|cost of hiring|a comprehensive guide|complete guide|ultimate guide|step[- ]by[- ]step|pricing guide)\b|\?\s*$/i;
+
 /* "Mumbai" and "Mumbai, MH" are the same place; without normalising, the same
  * posting survives dedupe twice. */
 const locKey = (s) =>
@@ -177,7 +186,7 @@ function bucketOf(rows, b) {
   const byUrl = new Set();
   const byRole = new Set();
   return rows
-    .filter((r) => r.india && r.isEng && !r.senior && !INTERN.test(r.title) && !SERVICE_PAGE.test(r.title) && r.url && stack(r) && fitsYears(r))
+    .filter((r) => r.india && r.isEng && !r.senior && !INTERN.test(r.title) && !SERVICE_PAGE.test(r.title) && !BLOG_TITLE.test(r.title) && r.url && stack(r) && fitsYears(r))
     .filter((r) => {
       // Same posting reachable at two URLs.
       const u = r.url.split('#')[0].replace(/\/$/, '');

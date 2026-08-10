@@ -1400,6 +1400,10 @@ function looksLikeJobTitle(t) {
   if (NOT_A_JOB.test(s)) return false;
   // A services page ("Hire a Java Developer") reads exactly like a vacancy.
   if (SERVICE_PAGE.test(s)) return false;
+  // So does a blog headline: "Cost to Hire Full Stack Developer" reached the
+  // priority folder through this path, because BLOG_HEADLINE was only applied
+  // to feeds and sitemaps.
+  if (BLOG_HEADLINE.test(s)) return false;
   const words = s.split(/\s+/);
   // One-word entries are section headings ("Development", "Analysts", "DevOps"),
   // never actual vacancies.

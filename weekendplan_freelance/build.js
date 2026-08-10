@@ -209,12 +209,18 @@ function main() {
    * should be bidding on — same reasoning as the internship filter on the jobs
    * side, which was fixed last cycle but never applied here. */
   const TRAINEE = /\b(intern|internship|trainee|apprentice)\b/i;
+  const SERVICE = /^(hire|outsource|offshore)\b/i;
 
-  const strong = rank(
-    gigs.filter((j) => onStack(j) && !j.senior && workable(j) && !TRAINEE.test(j.title || '')),
-  );
+  /*
+   * Apply the exclusions to EVERY tier, not just the shortlist. A trainee gig
+   * was filtered out of 1-bid-now and landed in 2-worth-a-look instead, which
+   * is the same mistake in a smaller font — folder 2 is where you go when
+   * folder 1 is spent, so it has to be clean too.
+   */
+  const eligible = gigs.filter((j) => !j.senior && !TRAINEE.test(j.title || '') && !SERVICE.test(j.title || ''));
+  const strong = rank(eligible.filter((j) => onStack(j) && workable(j)));
   const strongSet = new Set(strong.map((j) => j.url));
-  const rest = rank(gigs.filter((j) => !strongSet.has(j.url)));
+  const rest = rank(eligible.filter((j) => !strongSet.has(j.url)));
 
   const meta = {
     generated: String(data.generated || '').replace('T', ' ').slice(0, 19),

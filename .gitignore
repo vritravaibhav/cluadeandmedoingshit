@@ -4,3 +4,9 @@ results.json
 *.results.json
 *.KEEP
 *.pdf
+
+# crawler runtime artefacts — logs churn every tick, lock is transient
+india/*.log
+india/.crawl.lock
+freelance/run.log
+india/run.log

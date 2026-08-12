@@ -5,11 +5,14 @@
 # Claude usage no matter how often it fires. That is the point — the crawl keeps
 # making progress whether or not a session is open.
 #
-# Guards:
-#   - a lock directory, so a slow run can never overlap the next cron tick
-#     (mkdir is atomic on macOS; flock is not available)
-#   - a stale-lock breaker, so one killed run does not wedge the schedule
-#   - PATH fixed up, because cron gets a minimal environment without node
+# Overlap protection lives in crawl.js, NOT here. It used to be here, which was
+# wrong twice over: a hand-run `node crawl.js` bypassed it entirely (two runs
+# then clobbered each other's checkpoint and the crawl went backwards), and once
+# crawl.js took the same lock itself this wrapper deadlocked against its own
+# child. crawl.js owns the lock; this script just calls it.
+#
+# Guards kept here:
+#   - PATH fixed up, because a scheduler gets a minimal environment without node
 #
 # Install (every 15 minutes):
 #   crontab -l 2>/dev/null | grep -v 'india/watch.sh' > /tmp/ct
@@ -18,25 +21,10 @@
 
 set -u
 DIR="$(cd "$(dirname "$0")" && pwd)"
-LOCK="$DIR/.crawl.lock"
 LOG="$DIR/watch.log"
 BUDGET="${1:-60}"
 
 export PATH="/opt/homebrew/bin:/usr/local/bin:/usr/bin:/bin:$PATH"
-
-# break a lock left behind by a killed run (older than 30 minutes)
-if [ -d "$LOCK" ]; then
-  if [ -n "$(find "$LOCK" -maxdepth 0 -mmin +30 2>/dev/null)" ]; then
-    echo "$(date '+%F %T')  breaking stale lock" >> "$LOG"
-    rm -rf "$LOCK"
-  else
-    echo "$(date '+%F %T')  previous run still going — skipping this tick" >> "$LOG"
-    exit 0
-  fi
-fi
-
-mkdir "$LOCK" 2>/dev/null || exit 0
-trap 'rm -rf "$LOCK"' EXIT INT TERM
 
 cd "$DIR" || exit 1
 echo "$(date '+%F %T')  tick (budget ${BUDGET} pages)" >> "$LOG"

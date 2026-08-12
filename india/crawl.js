@@ -146,7 +146,45 @@ function countUnpushed(run) {
   try { return run(['rev-list', '--count', 'origin/main..HEAD'], 10000).trim(); } catch { return '?'; }
 }
 
+/* The lock lives HERE, not only in watch.sh.
+ *
+ * watch.sh locking was not enough: a hand-run `node crawl.js` does not go
+ * through it, so a scheduled tick and a manual run overlapped, each holding a
+ * stale in-memory copy of the checkpoint, and the one that finished last wrote
+ * it back — the crawl visibly went backwards from offset 9345 to 8715 and ~600
+ * stored roles were dropped. Any two invocations must serialise, however they
+ * were started. mkdir is atomic on macOS; flock is not available. */
+const LOCK = path.join(DIR, '.crawl.lock');
+
+function acquireLock() {
+  try {
+    fs.mkdirSync(LOCK);
+  } catch {
+    // break a lock whose owner died, but only once it is clearly stale
+    let age = Infinity;
+    try { age = Date.now() - fs.statSync(LOCK).mtimeMs; } catch {}
+    if (age > 30 * 60 * 1000) {
+      log('  breaking stale lock (>30 min old)');
+      try { fs.rmSync(LOCK, { recursive: true, force: true }); fs.mkdirSync(LOCK); } catch { return false; }
+      return true;
+    }
+    return false;
+  }
+  return true;
+}
+const releaseLock = () => { try { fs.rmSync(LOCK, { recursive: true, force: true }); } catch {} };
+
 (async () => {
+  // --status is read-only, so it must not block on (or steal) the lock
+  const readOnly = ARGS.includes('--status');
+  if (!readOnly) {
+    if (!acquireLock()) {
+      log('another crawl is running — exiting so the checkpoint is not clobbered');
+      return;
+    }
+    for (const sig of ['exit', 'SIGINT', 'SIGTERM']) process.on(sig, releaseLock);
+  }
+
   let state = readJson(STATE, { offset: 0, pass: 1, total: null, startedAt: now(), pagesDone: 0 });
   const store = readJson(STORE, {});
 

@@ -109,16 +109,11 @@ function normalise(r) {
 
 function gitPush(msg) {
   const root = path.resolve(DIR, '..');
+  // plain git — it uses the same credentials as the shell, so whatever works
+  // interactively works here. The timeout only stops a scheduled tick hanging
+  // forever if the keychain ever does put up a prompt.
   const run = (a, ms) =>
-    execFileSync('git', a, {
-      cwd: root,
-      encoding: 'utf8',
-      stdio: ['ignore', 'pipe', 'pipe'],
-      timeout: ms,
-      // cron has no terminal and may not reach the login keychain; without this
-      // git blocks on a credential prompt nobody can answer and the tick stalls
-      env: { ...process.env, GIT_TERMINAL_PROMPT: '0' },
-    });
+    execFileSync('git', a, { cwd: root, encoding: 'utf8', stdio: ['ignore', 'pipe', 'pipe'], timeout: ms });
 
   // Commit and push are separate concerns: committing is local and always
   // works, pushing needs credentials that cron may not have. Commit first so

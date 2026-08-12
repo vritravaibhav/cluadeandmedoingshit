@@ -109,18 +109,46 @@ function normalise(r) {
 
 function gitPush(msg) {
   const root = path.resolve(DIR, '..');
-  const run = (...a) => execFileSync('git', a, { cwd: root, encoding: 'utf8', stdio: ['ignore', 'pipe', 'pipe'] });
+  const run = (a, ms) =>
+    execFileSync('git', a, {
+      cwd: root,
+      encoding: 'utf8',
+      stdio: ['ignore', 'pipe', 'pipe'],
+      timeout: ms,
+      // cron has no terminal and may not reach the login keychain; without this
+      // git blocks on a credential prompt nobody can answer and the tick stalls
+      env: { ...process.env, GIT_TERMINAL_PROMPT: '0' },
+    });
+
+  // Commit and push are separate concerns: committing is local and always
+  // works, pushing needs credentials that cron may not have. Commit first so
+  // progress is never lost, then attempt the push — a failure just means the
+  // commits go out on a later tick.
+  let staged = '';
   try {
-    run('add', 'india');
-    const staged = run('diff', '--cached', '--name-only').trim();
+    run(['add', 'india'], 20000);
+    staged = run(['diff', '--cached', '--name-only'], 20000).trim();
     if (!staged) { log('  git: nothing to commit'); return; }
-    run('commit', '-m', msg);
-    run('push', 'origin', 'HEAD');
-    log(`  git: pushed — ${staged.split('\n').length} file(s)`);
+    run(['commit', '-m', msg], 20000);
+    log(`  git: committed ${staged.split('\n').length} file(s)`);
   } catch (e) {
-    // never let a push failure lose crawl progress
-    log(`  git: FAILED — ${String((e.stderr || e.message || '')).trim().split('\n')[0].slice(0, 120)}`);
+    log(`  git: commit failed — ${firstLine(e)}`);
+    return;
   }
+  try {
+    run(['push', 'origin', 'HEAD'], 45000);
+    log('  git: pushed');
+  } catch (e) {
+    const n = countUnpushed(run);
+    log(`  git: push failed (${firstLine(e)}) — ${n} commit(s) queued locally, will retry next tick`);
+  }
+}
+
+const firstLine = (e) =>
+  String((e && (e.stderr || e.message)) || '').trim().split('\n')[0].slice(0, 110) || 'timed out';
+
+function countUnpushed(run) {
+  try { return run(['rev-list', '--count', 'origin/main..HEAD'], 10000).trim(); } catch { return '?'; }
 }
 
 (async () => {

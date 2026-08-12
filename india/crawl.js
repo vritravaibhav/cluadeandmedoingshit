@@ -188,6 +188,19 @@ const releaseLock = () => { try { fs.rmSync(LOCK, { recursive: true, force: true
   let state = readJson(STATE, { offset: 0, pass: 1, total: null, startedAt: now(), pagesDone: 0 });
   const store = readJson(STORE, {});
 
+  /* Per-request backoff is not enough on its own. When the source puts us in a
+   * long block, a scheduler firing every 15 minutes spends ~75s of retries per
+   * tick achieving nothing, and steady traffic against a blocked endpoint is
+   * exactly what lengthens the block. So remember the block across runs and sit
+   * out until it plausibly expires, doubling the wait each time we find it is
+   * still there (capped at an hour). */
+  if (!readOnly && state.cooldownUntil && Date.now() < Date.parse(state.cooldownUntil)) {
+    const mins = Math.ceil((Date.parse(state.cooldownUntil) - Date.now()) / 60000);
+    log(`source is rate-limiting; cooling down for another ~${mins} min (offset ${state.offset})`);
+    releaseLock();
+    return;
+  }
+
   if (ARGS.includes('--reset')) {
     state = { offset: 0, pass: (state.pass || 0) + 1, total: null, startedAt: now(), pagesDone: 0 };
     writeJson(STATE, state);
@@ -248,7 +261,18 @@ const releaseLock = () => { try { fs.rmSync(LOCK, { recursive: true, force: true
   } else {
     const pct = state.total ? ((state.offset / state.total) * 100).toFixed(1) : '?';
     log(`paused at ${state.offset}/${state.total ?? '?'} (${pct}%) — ${stopped || 'page budget spent'}; +${added} new`);
+
+    if (/rate-limited/.test(stopped)) {
+      // double the wait each consecutive block, 10 min → 1 h; any successful
+      // page clears it, so a one-off 429 does not impose a long silence
+      const prev = state.cooldownMin || 0;
+      const next = Math.min(60, prev ? prev * 2 : 10);
+      state.cooldownMin = next;
+      state.cooldownUntil = new Date(Date.now() + next * 60000).toISOString();
+      log(`  backing off for ${next} min before the next attempt`);
+    }
   }
+  if (added > 0) { delete state.cooldownMin; delete state.cooldownUntil; }
   writeJson(STATE, state);
 
   // rebuild the human-readable report from the accumulated store

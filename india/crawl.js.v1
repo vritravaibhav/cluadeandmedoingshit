@@ -4,14 +4,10 @@
  *
  * Why this exists rather than more of test.js
  * ------------------------------------------
- * test.js pulls per skill with no checkpoint, so a 429 loses the run; it
- * reached maybe 30% of the catalogue.
- *
- * This walks SHARDS — the unfiltered list first, then one per skill and per
- * city — accumulating into a store deduped by job id. Sharding is not an
- * optimisation, it is the only way to see the whole catalogue: a single query
- * cannot page past ~9,800 results (see CAP below), while the catalogue is
- * ~14,000. Overlap between shards is expected and harmless.
+ * test.js pulls per skill, which double-fetches (a Java+Spring role comes back
+ * under both) and trips the 429 limiter fast — it reached maybe 30% of the
+ * catalogue. The unfiltered feed paginates cleanly to ~13,900, so walking it
+ * once end to end IS 100% coverage, and every role gets classified locally.
  *
  * It is built to be interrupted. Each invocation does a bounded number of
  * pages, writes its position to crawl-state.json, and exits. Run it again — by
@@ -45,48 +41,6 @@ const PACE = parseInt(argVal('pace', '1300'), 10); // ms between requests
 const PUSH = ARGS.includes('--push');
 
 const PAGE = 35; // the API's real page size, whatever `limit` says
-
-/* Paging the unfiltered list can never reach the whole catalogue.
- *
- * The crawler walked to offset ~9,800 and then got a response it read as "end
- * of list", marked the pass COMPLETE and restarted from zero — three times,
- * always covering the same first ~70%. The catalogue is ~14,000, so the tail
- * was unreachable by construction. That ceiling is the usual deep-pagination
- * cap (Elasticsearch's default result window is 10,000).
- *
- * The fix is to never ask one query to page that deep: split the catalogue into
- * shards small enough to walk end to end, and union them. Skills partition it
- * well (the largest, Java, is ~3,500) and locations partition it a second way
- * for anything that still hits the ceiling. Shards overlap heavily — that is
- * fine and in fact desirable, because the store is deduped by job id and
- * overlapping shards are what make the union complete. */
-const CAP = 9800; // stop a shard here; past this the API stops returning rows
-
-const SKILL_SHARDS = [
-  'Java', 'Spring Boot', 'Spring', 'Hibernate', 'Microservices',
-  'Flutter', 'Dart', 'Firebase', 'Android', 'Kotlin', 'React Native', 'iOS', 'Swift',
-  'Node.js', 'Python', 'JavaScript', 'TypeScript', 'React.js', 'Angular', 'Vue.js',
-  'Golang', 'PHP', 'Ruby', '.NET', 'C#', 'C++',
-  'SQL', 'MySQL', 'PostgreSQL', 'MongoDB', 'Redis', 'Elasticsearch', 'Kafka',
-  'AWS', 'Azure', 'Docker', 'Kubernetes', 'CI / CD', 'DevOps', 'Linux',
-  'Data Structures', 'Algorithms', 'REST API', 'GraphQL', 'WebSockets',
-  'Machine Learning', 'Data Science', 'LLMs', 'Generative AI', 'NLP',
-  'QA', 'Selenium', 'Automation Testing', 'Manual Testing',
-  'HTML', 'CSS', 'UI / UX', 'Product Management', 'Data Analytics',
-];
-
-const LOCATION_SHARDS = [
-  'Bangalore', 'Gurgaon', 'Hyderabad', 'Mumbai', 'Pune', 'Noida', 'Chennai',
-  'Delhi', 'Work From Home', 'Navi Mumbai', 'Kolkata', 'Ahmedabad', 'Jaipur',
-  'Indore', 'Kochi', 'Coimbatore', 'Chandigarh',
-];
-
-function buildShards() {
-  const out = [{ kind: 'all', label: '(unfiltered)', qs: '' }];
-  for (const s of SKILL_SHARDS) out.push({ kind: 'skill', label: s, qs: `&skills=${encodeURIComponent(s)}` });
-  for (const l of LOCATION_SHARDS) out.push({ kind: 'location', label: l, qs: `&locations=${encodeURIComponent(l)}` });
-  return out;
-}
 const UA =
   'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 ' +
   '(KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36';
@@ -109,13 +63,13 @@ const writeJson = (f, o) => {
   fs.renameSync(tmp, f);
 };
 
-async function getPage(offset, qs = '') {
+async function getPage(offset) {
   for (let attempt = 0; attempt < 5; attempt++) {
     const c = new AbortController();
     const t = setTimeout(() => c.abort(), 25000);
     try {
       const r = await fetch(
-        `https://www.instahyre.com/api/v1/job_search?limit=100&offset=${offset}${qs}`,
+        `https://www.instahyre.com/api/v1/job_search?limit=100&offset=${offset}`,
         { headers: { 'user-agent': UA, accept: 'application/json' }, signal: c.signal }
       );
       if (r.status === 429) {
@@ -231,9 +185,7 @@ const releaseLock = () => { try { fs.rmSync(LOCK, { recursive: true, force: true
     for (const sig of ['exit', 'SIGINT', 'SIGTERM']) process.on(sig, releaseLock);
   }
 
-  let state = readJson(STATE, { shard: 0, offset: 0, pass: 1, total: null, startedAt: now(), pagesDone: 0 });
-  const shards = buildShards();
-  if (state.shard == null) { state.shard = 0; state.offset = 0; } // migrate v1 state
+  let state = readJson(STATE, { offset: 0, pass: 1, total: null, startedAt: now(), pagesDone: 0 });
   const store = readJson(STORE, {});
 
   /* Per-request backoff is not enough on its own. When the source puts us in a
@@ -250,69 +202,35 @@ const releaseLock = () => { try { fs.rmSync(LOCK, { recursive: true, force: true
   }
 
   if (ARGS.includes('--reset')) {
-    state = { shard: 0, offset: 0, pass: (state.pass || 0) + 1, total: null, startedAt: now(), pagesDone: 0 };
+    state = { offset: 0, pass: (state.pass || 0) + 1, total: null, startedAt: now(), pagesDone: 0 };
     writeJson(STATE, state);
     log(`reset — starting pass ${state.pass}`);
   }
 
   if (ARGS.includes('--status')) {
-    const sh = shards[state.shard] || { label: '?' };
-    console.log(`pass ${state.pass} | shard ${state.shard + 1}/${shards.length} "${sh.label}" @ offset ${state.offset} | stored ${Object.keys(store).length} roles`);
+    const pct = state.total ? ((state.offset / state.total) * 100).toFixed(1) : '?';
+    console.log(`pass ${state.pass} | offset ${state.offset}/${state.total ?? '?'} (${pct}%) | stored ${Object.keys(store).length} roles`);
     console.log(`last update ${state.updatedAt || state.startedAt}`);
-    if (state.capped && state.capped.length) console.log(`shards that hit the ${CAP} ceiling: ${state.capped.join(', ')}`);
     return;
   }
 
-  log(`pass ${state.pass}: shard ${state.shard + 1}/${shards.length} "${(shards[state.shard]||{}).label}" @ offset ${state.offset} (${Object.keys(store).length} roles stored)`);
+  log(`pass ${state.pass}: resuming at offset ${state.offset} (${Object.keys(store).length} roles stored)`);
 
   let added = 0;
   let pages = 0;
   let stopped = '';
 
-  state.capped = state.capped || [];
+  while (pages < BUDGET) {
+    const res = await getPage(state.offset);
 
-  while (pages < BUDGET && state.shard < shards.length) {
-    const sh = shards[state.shard];
-    if ((state.deadFacets || []).includes(sh.kind)) { state.shard++; state.offset = 0; continue; }
-    const res = await getPage(state.offset, sh.qs);
-
+    if (res.end) { stopped = 'reached end of catalogue'; break; }
     if (res.throttled) { stopped = 'rate-limited — will resume next run'; break; }
-
-    // shard exhausted (ran out of rows, or the API refused to page deeper)
-    const capped = state.offset >= CAP;
-    if (res.end || res.error || capped || !(res.data && (res.data.objects || []).length)) {
-      if (capped) {
-        state.capped.push(sh.label);
-        log(`  shard "${sh.label}" hit the ${CAP} ceiling — its tail needs a narrower filter`);
-      }
-      state.shard++;
-      state.offset = 0;
-      state.updatedAt = now();
-      writeJson(STATE, state);
-      writeJson(STORE, store);
-      continue;
-    }
+    if (res.error) { stopped = `http ${res.error} — will resume next run`; break; }
 
     const j = res.data;
-    const shardTotal = j.meta && j.meta.total_count;
-    if (sh.kind === 'all' && shardTotal) state.total = shardTotal;
-
-    /* A filter that the API ignores is worse than useless: the shard silently
-     * re-walks the unfiltered list, burns the rate limit and adds nothing. The
-     * tell is a filtered shard reporting exactly the unfiltered total. `skills`
-     * is known to filter; `locations` was inferred and could not be verified
-     * while the source was blocking, so check it rather than trust it — and if
-     * a facet turns out to be inert, drop its remaining shards. */
-    if (sh.kind !== 'all' && state.offset === 0 && shardTotal && shardTotal === state.total) {
-      log(`  "${sh.label}": ${sh.kind} filter is not being applied (same ${shardTotal} results as unfiltered) — skipping all ${sh.kind} shards`);
-      state.deadFacets = [...new Set([...(state.deadFacets || []), sh.kind])];
-      while (state.shard < shards.length && shards[state.shard].kind === sh.kind) state.shard++;
-      state.offset = 0;
-      writeJson(STATE, state);
-      continue;
-    }
-
-    const rows = j.objects;
+    if (j && j.meta && j.meta.total_count) state.total = j.meta.total_count;
+    const rows = (j && j.objects) || [];
+    if (!rows.length) { stopped = 'empty page — end of list'; break; }
 
     for (const r of rows) {
       if (!r || !r.id) continue;
@@ -328,20 +246,18 @@ const releaseLock = () => { try { fs.rmSync(LOCK, { recursive: true, force: true
     if (pages % 20 === 0) {
       writeJson(STORE, store);
       writeJson(STATE, state);
-      const pct = state.total ? ((Object.keys(store).length / state.total) * 100).toFixed(1) : '?';
-      log(`  shard ${state.shard + 1}/${shards.length} "${sh.label}" @ ${state.offset} — ${Object.keys(store).length} stored (${pct}% of catalogue), +${added} new`);
+      const pct = state.total ? ((state.offset / state.total) * 100).toFixed(1) : '?';
+      log(`  ${state.offset}/${state.total ?? '?'} (${pct}%) — ${Object.keys(store).length} stored, +${added} new`);
     }
     await sleep(PACE);
   }
-
-  if (state.shard >= shards.length) stopped = 'all shards walked — end of list';
 
   writeJson(STORE, store);
 
   const complete = /end of catalogue|end of list/.test(stopped);
   if (complete) {
     log(`pass ${state.pass} COMPLETE — ${Object.keys(store).length} roles, +${added} new this run`);
-    state = { shard: 0, offset: 0, pass: state.pass + 1, total: state.total, startedAt: now(), pagesDone: 0, lastCompletedAt: now(), capped: [] };
+    state = { offset: 0, pass: state.pass + 1, total: state.total, startedAt: now(), pagesDone: 0, lastCompletedAt: now() };
   } else {
     const pct = state.total ? ((state.offset / state.total) * 100).toFixed(1) : '?';
     log(`paused at ${state.offset}/${state.total ?? '?'} (${pct}%) — ${stopped || 'page budget spent'}; +${added} new`);

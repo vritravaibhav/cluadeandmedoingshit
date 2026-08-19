@@ -469,6 +469,99 @@
    *
    * @returns {Object|null} {key, value, confidence, screeningId, review, why}
    */
+  /**
+   * Thin, defensive wrapper around AF.intuition.answer — the answer of last
+   * resort, reached only when knowledge, match, screening AND the AI have all
+   * declined. Wrapped for the same reason as screeningAnswer above: a missing
+   * or older lib/intuition.js must degrade to "no guess", never break the run.
+   *
+   * @returns {Object|null} {value, confidence, review, why}
+   */
+  function intuitionAnswer(field, profile) {
+    try {
+      if (!AF.intuition || typeof AF.intuition.answer !== 'function') {
+        return null;
+      }
+      return AF.intuition.answer(field, profile);
+    } catch (error) {
+      logWarning('intuition.answer failed:', error);
+      return null;
+    }
+  }
+
+  /**
+   * Fill a whole batch of fields from intuition. Used when the AI stage could
+   * not run at all, so nothing else is going to answer these.
+   *
+   * Uses the same chunked loop as the other passes (see FIELDS_PER_YIELD):
+   * a form with 80 leftovers must not freeze the page.
+   *
+   * @param {Function} done  called with the number of fields actually filled
+   */
+  function applyIntuition(candidates, profile, tally, done) {
+    var list = candidates || [];
+    var position = 0;
+    var sinceYield = 0;
+    var filled = 0;
+
+    function step() {
+      if (position >= list.length) {
+        done(filled);
+        return;
+      }
+      var field = list[position];
+      position++;
+
+      var guess = null;
+      try {
+        guess = intuitionAnswer(field, profile);
+      } catch (error) {
+        guess = null;
+      }
+
+      /* Nothing sensible to say, or the field left the DOM while we waited. */
+      if (!guess || guess.value === null || guess.value === undefined || guess.value === '' ||
+          (field.el && field.el.isConnected === false) ||
+          (!isStillEmpty(field) && OVERWRITE_ALREADY_FILLED === false)) {
+        tally.skipped++;
+        tally.askCandidates.push(field);
+        next();
+        return;
+      }
+
+      writeValue(field, guess.value, function (applied) {
+        if (applied) {
+          tally.guessed++;
+          filled++;
+          /* Amber, not blue: this is a guess made without the model, and it is
+           * the one thing on the page he really should read. */
+          AF.highlight(field.el, 'skip');
+          if (tally.firstFilledElement === null) {
+            tally.firstFilledElement = field.el;
+          }
+        } else {
+          tally.skipped++;
+        }
+        /* Either way it stays on the ask queue: teaching a real answer once
+         * means knowledge.js answers it for ever and this guess never returns. */
+        tally.askCandidates.push(field);
+        next();
+      });
+    }
+
+    function next() {
+      sinceYield++;
+      if (sinceYield >= FIELDS_PER_YIELD) {
+        sinceYield = 0;
+        setTimeout(step, 0);
+        return;
+      }
+      step();
+    }
+
+    step();
+  }
+
   function screeningAnswer(field, profile) {
     try {
       if (!AF.screening || typeof AF.screening.answer !== 'function') {
@@ -882,6 +975,7 @@
       learned: 0,        /* written from an answer HE taught the extension    */
       screening: 0,      /* written from lib/screening.js standard answers    */
       ai: 0,             /* written from an AI suggestion                     */
+      guessed: 0,        /* written from lib/intuition.js (amber, review me)  */
       skipped: 0,        /* deliberately left alone (files are NOT counted)   */
       /* Screening answers with legal weight (criminal history, work
        * authorisation, sponsorship, consent boxes). Filled with the
@@ -1253,7 +1347,7 @@
    * @param {Object}   tally       mutated in place
    * @param {Function} done        called with no arguments when all are handled
    */
-  function applyAiValues(values, candidates, tally, done) {
+  function applyAiValues(values, candidates, profile, tally, done) {
     var answers = values || {};
 
     /* Anything the model answered for a field we did not ask about is dropped.
@@ -1288,7 +1382,7 @@
       position++;
 
       try {
-        applyOneAiValue(field, answers[String(field.index)], tally, next);
+        applyOneAiValue(field, answers[String(field.index)], profile, tally, next);
       } catch (error) {
         logWarning('field #' + field.index + ' threw while applying an AI value:', error);
         tally.skipped++;
@@ -1316,7 +1410,7 @@
    *
    * @param {Function} next  call exactly once, whatever happens
    */
-  function applyOneAiValue(field, value, tally, next) {
+  function applyOneAiValue(field, value, profile, tally, next) {
 
     /* --- no answer, or an empty one -------------------------------------- *
      * The prompt tells the model in so many words that omitting a field is a
@@ -1326,6 +1420,29 @@
      * answered for ever. */
     if (value === null || value === undefined ||
         (typeof value === 'string' && value.trim() === '')) {
+      /* The model declined this one. Before giving up, let intuition.js try:
+       * it answers from ordinary judgement and only refuses the two cases
+       * where guessing is actively harmful (a credential he must supply, an
+       * unset salary expectation). Those still land on the ask queue. */
+      var guess = intuitionAnswer(field, profile);
+      if (guess && guess.value !== null && guess.value !== undefined && guess.value !== '') {
+        writeValue(field, guess.value, function (applied) {
+          if (applied) {
+            tally.guessed++;
+            AF.highlight(field.el, 'skip'); // amber: filled, but check it
+            if (tally.firstFilledElement === null) {
+              tally.firstFilledElement = field.el;
+            }
+            tally.askCandidates.push(field); // still worth teaching a real answer
+          } else {
+            tally.skipped++;
+            tally.askCandidates.push(field);
+          }
+          next();
+        });
+        return;
+      }
+
       tally.skipped++;
       if (field.required === true) {
         AF.highlight(field.el, 'skip');
@@ -1629,23 +1746,31 @@
             if (errorText) {
               /* THE IMPORTANT BIT: an offline or broken bridge must degrade to
                * "deterministic only", never to a failed run. The profile fields
-               * are already in the page and they stay there. */
+               * are already in the page and they stay there.
+               *
+               * It used to stop there, and every AI candidate was left blank —
+               * a form with thirty empty boxes and a note saying "AI step
+               * skipped". That is the worst outcome available: a blank costs
+               * him reading, thinking and typing, where a wrong guess costs two
+               * seconds to correct. So fall through to lib/intuition.js, which
+               * answers everything from ordinary judgement, offline. Every one
+               * of its answers is amber and listed for review, and anything he
+               * corrects once is remembered by knowledge.js and never guessed
+               * again. */
               logWarning('AI stage unavailable:', errorText);
-              tally.skipped += tally.aiCandidates.length;
-              appendAll(tally.askCandidates, tally.aiCandidates);
 
-              /* This goes in the response's own `warning` slot. It must NOT be
-               * pushed into tally.manual: that array means "file uploads you
-               * have to do by hand", and the popup prints it under a heading
-               * that says so — a bridge-is-offline message rendered there reads
-               * as a file the user forgot to attach. */
-              tally.warning = 'AI step skipped: ' + errorText;
-
-              finishRun(tally, done);
+              applyIntuition(tally.aiCandidates, profile, tally, function (filled) {
+                tally.warning = 'AI unavailable (' + errorText + ') — ' + filled +
+                  ' field(s) filled from built-in judgement instead. They are amber: check them.';
+                if (tally.firstFilledElement) {
+                  AF.scrollToFirst(tally.firstFilledElement);
+                }
+                finishRun(tally, done);
+              });
               return;
             }
 
-            applyAiValues(values, tally.aiCandidates, tally, function () {
+            applyAiValues(values, tally.aiCandidates, profile, tally, function () {
               if (tally.firstFilledElement) {
                 AF.scrollToFirst(tally.firstFilledElement);
               }
@@ -1700,6 +1825,7 @@
       /* Filled from an answer he typed into the extension himself. */
       learned: tally.learned,
       ai: tally.ai,
+      guessed: tally.guessed,
       skipped: tally.skipped,
       manual: tally.manual,
       /* How many questions are sitting in 'pendingQuestions' RIGHT NOW —

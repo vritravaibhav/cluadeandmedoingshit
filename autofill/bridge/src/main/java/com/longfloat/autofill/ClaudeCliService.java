@@ -60,6 +60,15 @@ public class ClaudeCliService {
     private static final long STDERR_GRACE_MILLIS = 500L;
 
     /**
+     * A non-zero exit sooner than this is treated as transient and retried once.
+     * Past it, the CLI was doing real work and repeating it only doubles the wait.
+     */
+    private static final long RETRY_IF_FAILED_WITHIN_MILLIS = 20_000L;
+
+    /** Breathing room before the retry, so an instant repeat cannot hammer. */
+    private static final long RETRY_BACKOFF_MILLIS = 1_000L;
+
+    /**
      * Threads used only to drain the child process' stdout and stderr.
      *
      * <p>Cached pool: two short lived threads per request, reused between requests.
@@ -100,14 +109,46 @@ public class ClaudeCliService {
     }
 
     /**
-     * Sends one prompt to the CLI and returns its stdout.
+     * Sends one prompt to the CLI and returns its stdout, retrying once if it
+     * fails fast.
      *
      * @param prompt the full prompt text, already assembled by the caller
      * @return whatever the CLI wrote to stdout, trimmed
      * @throws ClaudeTimeoutException   when the CLI outran {@code claude.timeout-seconds}
      * @throws ClaudeExecutionException when the CLI could not start or exited non zero
+     *
+     * <p>The CLI exits non-zero for transient reasons — a dropped connection, a
+     * momentary auth refresh, a busy backend — and the bridge turned every one
+     * of those into a 502, which the extension reported as "AI step skipped"
+     * and the user saw as a form full of empty boxes.
+     *
+     * <p>Only a FAST failure is retried. A non-zero exit after a long run has
+     * usually done real work (or hit a quota) and repeating it just doubles the
+     * wait; a timeout is never retried for the same reason. One retry is the
+     * whole policy: beyond that the failure is not transient and the caller is
+     * better served by a prompt answer it can fall back from.
      */
     public String run(String prompt) {
+        try {
+            return runOnce(prompt);
+        } catch (ClaudeExecutionException first) {
+            if (first.getElapsedMillis() > RETRY_IF_FAILED_WITHIN_MILLIS) {
+                throw first;
+            }
+            log.warn("Claude CLI failed after {} ms (exit {}); retrying once. stderr: {}",
+                    first.getElapsedMillis(), first.getExitCode(),
+                    first.getStderr() == null || first.getStderr().isBlank() ? "(none)" : first.getStderr());
+            try {
+                Thread.sleep(RETRY_BACKOFF_MILLIS);
+            } catch (InterruptedException ex) {
+                Thread.currentThread().interrupt();
+                throw first;
+            }
+            return runOnce(prompt);
+        }
+    }
+
+    private String runOnce(String prompt) {
         long startedAtNanos = System.nanoTime();
 
         // -p is Claude Code's headless / print mode: run once, print the answer, exit.
@@ -266,7 +307,8 @@ public class ClaudeCliService {
             throw new ClaudeExecutionException(
                     "The Claude CLI exited with code " + exitCode + ".",
                     exitCode,
-                    stderr.strip());
+                    stderr.strip(),
+                    elapsedMs);
         }
 
         return stdout.strip();

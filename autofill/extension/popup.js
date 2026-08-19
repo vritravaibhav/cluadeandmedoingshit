@@ -79,6 +79,8 @@ var elNumDet       = document.getElementById('numDet');
 var elNumLearned   = document.getElementById('numLearned');
 var elNumAi        = document.getElementById('numAi');
 var elNumSkip      = document.getElementById('numSkip');
+var elNumGuessed   = document.getElementById('numGuessed');
+var elStatGuessed  = document.getElementById('statGuessed');
 var elStatPending  = document.getElementById('statPending');
 var elNumPending   = document.getElementById('numPending');
 var elManualBlock  = document.getElementById('manualBlock');
@@ -190,6 +192,7 @@ function showRunResult(headline, response) {
   var det     = asCount(response.deterministic);
   var learned = asCount(response.learned);
   var ai      = asCount(response.ai);
+  var guessed = asCount(response.guessed);
   var skip    = asCount(response.skipped);
   var pending = asCount(response.pending);
 
@@ -202,6 +205,12 @@ function showRunResult(headline, response) {
   elNumLearned.textContent = String(learned);
   elNumAi.textContent      = String(ai);
   elNumSkip.textContent    = String(skip);
+
+  /* Only shown when it happened. These are the fields filled without the model
+   * — from built-in judgement — so they are the ones actually worth re-reading
+   * before submitting. A permanent "0" row would just be noise. */
+  elNumGuessed.textContent = String(guessed);
+  elStatGuessed.style.display = (guessed > 0) ? 'flex' : 'none';
 
   /* "Waiting for your answer" is only interesting when there IS something
    * waiting. A permanent "0" row would just be one more number to read past. */

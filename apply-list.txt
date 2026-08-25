@@ -1,0 +1,2376 @@
+==============================================================================
+APPLY LIST - DIRECT COMPANY BOARDS ONLY
+Divyanshu Vaibhav  |  Software Engineer, ~2 yrs  |  Java/Spring + Flutter/Firebase
+Generated 2026-08-25 05:16:25 UTC
+==============================================================================
+
+No aggregators. Every link is a company's own ATS - Greenhouse, Lever, Ashby,
+Workday, Keka, Zoho Recruit, SmartRecruiters, iCIMS - so you apply direct.
+LinkedIn / Naukri / Indeed / Instahyre are deliberately excluded.
+
+Source: 5,949 companies already swept across all 26 letters
+  3,176 boards read - 66,835 roles - 23,931 in India
+  2,904 engineering + non-senior + ~2 years, 1,937 after de-duplication
+
+Two filters worth knowing about:
+  - the same posting sometimes appears under two company names (a parent and
+    its product brand); de-duplicated by URL, highest-ranked kept.
+  - a URL shared by 3+ different job titles is a careers INDEX page, not a
+    posting - the scraper turned one page into several 'roles'. Those are
+    demoted to the bottom section rather than wasting a slot up here.
+
+##############################################################################
+# TIER 1 - Java / Flutter on a real ATS  (146)
+# Start here. Best fit, and every link is a live posting.
+##############################################################################
+
+  1. Integration Engineer (SDK)
+     Bureau   [India]
+     stack: Java + Flutter    exp: 2-6y    where: Bangalore
+     https://jobs.ashbyhq.com/bureau/8786a55b-dd03-450a-872d-9d50feeb4f93
+
+  2. SDE 1 - IOS
+     FloBiz   [India]
+     stack: Flutter    exp: 2-6y    where: Bangalore, KA
+     https://valorem.keka.com/careers/jobdetails/134089
+
+  3. Associate Technical Services Engineer
+     HealthEdge   [United States]
+     stack: Java    exp: 0-2y / 1-5y / 2-3y    where: Bangalore, UNAVAILABLE, IN
+     https://careers-healthedge.icims.com/jobs/7962/associate-technical-services-engineer/job
+
+  4. Associate QA Engineer
+     iTech India   [India]
+     stack: Java    exp: 2-3y / 21-25y / 3-4y    where: Chennai, TN
+     https://itech.keka.com/careers/jobdetails/136989
+
+  5. Junior Java Developer
+     Miko   [India]
+     stack: Java    exp: 1-3y / 3-4y    where: Mumbai, MH
+     https://rnc.keka.com/careers/jobdetails/133442
+
+  6. SDE I - Backend
+     Netomi   [India]
+     stack: Java    exp: 1-3y    where: Remote - India
+     https://jobs.lever.co/netomi/d61510b5-44ea-44c9-8441-097a48bf5e77
+
+  7. Java SDE - I
+     Olyv   [India]
+     stack: Java    exp: 1-2y    where: Bangalore, KA
+     https://smartcoin.keka.com/careers/jobdetails/86814
+
+  8. SDE I (FULL STACK MERN)
+     Rubick.ai   [India]
+     stack: Java    exp: 1-3y / 3-4y    where: Bengaluru, KA
+     https://rubick.keka.com/careers/jobdetails/34613
+
+  9. AI ENGINEER L1
+     Wipro   [India]
+     stack: Java    exp: 2-5y / 3-5y    where: Pune, IND-27, IN, 411005
+     https://careers.wipro.com/job/Pune-AI-ENGINEER-L1-IND-411005/1342141155/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS
+
+ 10. Software Engineer (Web & App)
+     Apptunix   [India]
+     stack: Flutter    exp: 0-1y / 0-2y / 2-4y / 5-8y / 13-17y / 8-12y    where: India
+     https://www.apptunix.com/job/software-engineer-web-app/
+
+ 11. Mobile App Developer
+     BinaryFolks   [India]
+     stack: Flutter    exp: 1-20y    where: India
+     https://binaryfolks.com/career/mobile-app-developer-for-binaryfolks/
+
+ 12. Flutter Developer
+     Capgemini   [France]
+     stack: Flutter    exp: 6-12y / 4-8y / 2-6y / 12-13y    where: Navi Mumbai, IN
+     https://careers.capgemini.com/job/Navi-Mumbai-Flutter-Developer/1393461533/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS
+
+ 13. Mobile App Developer with Ionic experience
+     LN Webworks   [India]
+     stack: Flutter    exp: 2-5y / 5-6y    where: India
+     https://www.lnwebworks.com/job/mobile-app-developer-with-ionic-experience
+
+ 14. Webflow Developer
+     Vibrant Info   [India]
+     stack: Flutter    exp: 0-4y    where: India
+     https://www.vibrant-info.com/jobs/webflow-developer
+
+ 15. Cloud Support Engineer
+     AlphaSense   [United States]
+     stack: Java    exp: 2-4y    where: Pune
+     https://job-boards.greenhouse.io/alphasense/jobs/8556009002
+
+ 16. Software Engineer
+     Autodesk   [United States]
+     stack: Java    exp: 2-6y / 1-5y    where: Pune, IND
+     https://autodesk.wd1.myworkdayjobs.com/Ext/job/Pune-IND/Software-Engineer_26WD96707-1
+
+ 17. Software Engineer II
+     Avaya   [United States]
+     stack: Java    exp: 6-8y / 2-3y / 8-9y / 3-4y    where: Pune, IN
+     https://careers.avaya.com/job/Pune-Software-Engineer-II/1423676733/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS
+
+ 18. Software Security Engineer
+     Axway   [France]
+     stack: Java    exp: 1-2y / 4-8y / 25-29y    where: Noida, UNAVAILABLE, IN
+     https://careers-axway.icims.com/jobs/8878/software-security-engineer-/job
+
+ 19. Software Engineer - Open Data Platform (ODP)
+     Acceldata   [United States]
+     stack: Java    exp: 2-3y / 4-8y    where: Bengaluru
+     https://jobs.lever.co/acceldata/0c47e882-83ff-471e-ba75-5543796aa34a
+
+ 20. Software Engineering Professional
+     BT Group   [United Kingdom]
+     stack: Java    exp: 2-5y / 5-6y    where: Bengaluru, IN, 560103
+     https://jobs.bt.com/BT/job/Bengaluru-Software-Engineering-Professional-560103/1369010157/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS
+
+ 21. Blockchain Developer
+     Calibraint   [India]
+     stack: Java    exp: 1-5y / 1-2y    where: Chennai, TN
+     https://calibraint.keka.com/careers/jobdetails/44013
+
+ 22. Fullstack Developer
+     CredAble   [India]
+     stack: Java    exp: 2-7y    where: India
+     https://credable.in/jobs/fullstack-developer/
+
+ 23. Automation Test Engineer
+     CredAble   [India]
+     stack: Java    exp: 2-7y / 5-9y    where: India
+     https://credable.in/jobs/rm-sm-avp-startup-lending/
+
+ 24. 10276 - SOFTWARE DEVELOPERS (Multiple positions) SD-AY31
+     ComTec Information Systems   [India]
+     stack: Java    exp: 1-5y / 5-6y / 3-4y    where: India
+     https://www.comtecinfo.com/jobs/software-developers-multiple-positions-sd-ay31/
+
+ 25. 10032 - SOFTWARE DEVELOPERS (Multiple positions) SD-AY29
+     ComTec Information Systems   [India]
+     stack: Java    exp: 1-5y / 3-4y / 5-6y    where: India
+     https://www.comtecinfo.com/jobs/software-developers-multiple-positions-sd-ay29/
+
+ 26. Applied AI Engineer
+     Celonis   [Germany]
+     stack: Java    exp: 4-8y / 3-7y / 1-5y    where: Bangalore, India
+     https://job-boards.greenhouse.io/celonis/jobs/7681593003?gh_jid=7681593003
+
+ 27. Application Security Engineer
+     DigiCert   [United States]
+     stack: Java    exp: 2-6y / 1-5y    where: Bangalore
+     https://www.digicert.com/careers/?gh_jid=8235633002
+
+ 28. Software Development Engineer II
+     Disney Star India   [India]
+     stack: Java    exp: 2-4y / 1-5y / 4-5y    where: Bengaluru- We Work
+     https://jiostar.wd102.myworkdayjobs.com/JioStar/job/Bengaluru--We-Work/Software-Development-Engineer-II_JR12226
+
+ 29. Frontend Engineer
+     Drivetrain   [India]
+     stack: Java    exp: 1-3y    where: India
+     https://jobs.lever.co/drivetrain/cd39cc4e-056e-444c-8c17-9f97e34ddbce
+
+ 30. NFT - Performance Engineer
+     Finastra   [United Kingdom]
+     stack: Java    exp: 2-5y / 5-6y    where: Pune
+     https://finastra.wd3.myworkdayjobs.com/FINC/job/Pune/NFT---Performance-Engineer_REQ0626_0037452
+
+ 31. Software Developer (Full Stack) - Java
+     Foxsense Innovations   [India]
+     stack: Java    exp: 2-4y / 6-10y    where: Coimbatore, TN | Hyderabad, TG
+     https://foxsense.keka.com/careers/jobdetails/77386
+
+ 32. Software Engineer (.Net Full-Stack)
+     HealthEdge   [United States]
+     stack: Java    exp: 2-4y / 4-5y    where: Bangalore, UNAVAILABLE, IN
+     https://careers-healthedge.icims.com/jobs/7873/software-engineer-%28.net-full-stack%29/job
+
+ 33. Software Engineer Full-stack (Python/React)
+     Innovature   [India]
+     stack: Java    exp: 2-4y    where: India
+     https://innovature.ai/jobs/software-engineer-full-stack-python-react/
+
+ 34. Java Full stack Developer
+     KTree Computer Solutions   [India]
+     stack: Java    exp: 2-6y / 2-3y    where: India
+     https://ktree.com/jobs/java-full-stack-developer
+
+ 35. Engineer, Variant Configuration - KTOC
+     KONE   [Finland]
+     stack: Java    exp: 2-5y / 5-6y    where: Chennai ITEC/KBS
+     https://kone.wd3.myworkdayjobs.com/Careers/job/Chennai-ITECKBS/Engineer--Variant-Configuration---KTOC_R0663385-2
+
+ 36. Full Stack Developer (Frontend-Focused – Vue.js)
+     Lexplosion Solutions   [India]
+     stack: Java    exp: 2-4y    where: India
+     https://lexplosion.in/jobs/full-stack-developer-frontend-focused-vue-js/
+
+ 37. Full Stack Developer
+     Loop Health   [India]
+     stack: Java    exp: 4-8y / 2-6y    where: Bengaluru, KA
+     https://loop.keka.com/careers/jobdetails/118040
+
+ 38. Automation Test Engineer (2–4 Years Experience)
+     Lumel Technologies   [India]
+     stack: Java    exp: 2-4y / 4-5y    where: India
+     https://lumel.keka.com/careers/jobdetails/135126
+
+ 39. QA Engineer
+     Lyzr AI   [India]
+     stack: Java    exp: 2-4y / 4-5y    where: Bengaluru, APAC, IN
+     https://careers.lyzr.ai/jobs/623516-qa-engineer
+
+ 40. SDET (Noida, India)
+     Level AI   [India]
+     stack: Java    exp: 2-4y / 4-5y    where: Noida
+     https://jobs.lever.co/levelai/55678283-3e23-46f0-baaa-48b91b5ff6ea
+
+ 41. Software Development Engineer II - Data
+     Meesho   [India]
+     stack: Java    exp: 1-3y / 1-5y / 3-4y    where: Bangalore, Karnataka
+     https://jobs.lever.co/meesho/baf0eddc-4fac-4520-aa41-a922adbdefc0
+
+ 42. Software Engineer II
+     MiQ   [United Kingdom]
+     stack: Java    exp: 2-4y / 4-5y    where: Bengaluru
+     https://job-boards.greenhouse.io/miqdigital/jobs/8189071002
+
+ 43. Software Developer (Java)
+     Nineleaps   [India]
+     stack: Java    exp: 2-6y / 5-8y / 6-7y    where: India
+     https://www.nineleaps.com/job/software-developer-java/
+
+ 44. SDE II - Backend
+     Nium   [Singapore]
+     stack: Java    exp: 2-3y    where: Mumbai
+     https://jobs.lever.co/nium/b0432076-0920-41b0-a862-bbc3a3c1c3c1
+
+ 45. Software Engineer, CX
+     NICE   [Israel]
+     stack: Java    exp: 3-7y / 1-5y    where: India - Pune
+     https://boards.eu.greenhouse.io/nice/jobs/4920037101?gh_jid=4920037101
+
+ 46. SDE II - Backend
+     Netomi   [India]
+     stack: Java    exp: 2-4y / 2-6y    where: Remote - India
+     https://jobs.lever.co/netomi/08a9d080-2aa7-47e1-9973-88801525a3f7
+
+ 47. Bioinformatics Engineer
+     NonStop io Technologies   [India]
+     stack: Java    exp: 1-2y    where: Pune, MH
+     https://nonstopio.keka.com/careers/jobdetails/131386
+
+ 48. AI Engineers (3-8 years)
+     Orion Innovation   [India]
+     stack: Java    exp: 3-8y / 2-6y    where: Hyderabad, Telangana, India
+     https://www.orioninc.com/careers/job/?gh_jid=4680894006
+
+ 49. Forward Deployment Engineer (FDE)
+     Ozonetel   [India]
+     stack: Java    exp: 6-10y / 2-6y    where: India
+     https://ozonetel.com/jobs/forward-deployment-engineer/
+
+ 50. Software Engineer
+     Ontic India   [India]
+     stack: Java    exp: 2-5y / 5-6y    where: Noida / Pune
+     https://jobs.ashbyhq.com/Ontic/0426253f-e03c-4d57-be4c-ea02fdab7097
+
+ 51. AI Developer II
+     OpenGov India   [India]
+     stack: Java    exp: 3-7y / 1-5y / 2-6y    where: India | Pune
+     https://jobs.ashbyhq.com/opengov/ea5f3b39-867a-4dd4-8585-9a3dc6638cf5
+
+ 52. Product Solution Engineer
+     PhonePe   [India]
+     stack: Java    exp: 2-5y    where: Bangalore
+     https://job-boards.greenhouse.io/phonepe/jobs/7799432003
+
+ 53. System Integrator Engineer (2 to 4 Years)
+     PhonePe   [India]
+     stack: Java    exp: 2-4y    where: Bangalore
+     https://job-boards.greenhouse.io/phonepe/jobs/7823891003
+
+ 54. Software Engineer
+     PayU   [India]
+     stack: Java    exp: 2-6y    where: Gurgaon, IN
+     https://careers.payu.in/PayU/job/Gurgaon-Software-Engineer/3504980/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS
+
+ 55. Software Engineer..
+     PayU   [India]
+     stack: Java    exp: 2-6y    where: Bengaluru, IN
+     https://careers.payu.in/PayU/job/Bengaluru-Software-Engineer_/3217280/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS
+
+ 56. Phase 1 -Proactive Stocking - Automation - SDET
+     QualityAI (formerly Qualitest)   [India]
+     stack: Java    exp: 3-7y / 2-6y    where: Bangalore, IN, 560045
+     https://careers.quality-ai.com/job/Bangalore-Phase-1-Proactive-Stocking-Automation-SDET-560045/48731844/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS
+
+ 57. Software Development Engineer
+     Razorpay   [India]
+     stack: Java    exp: 1-2y / 2-3y    where: Malaysia
+     https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4716514005
+
+ 58. Solutions Engineer
+     Razorpay   [India]
+     stack: Java    exp: 2-6y    where: Malaysia
+     https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4661194005
+
+ 59. Fullstack Developer
+     SAS Institute   [US]
+     stack: Java    exp: 2-5y    where: Pune, UNAVAILABLE, IN
+     https://global-sas.icims.com/jobs/42348/fullstack-developer/job
+
+ 60. Platform Support Engineer -
+     Saviynt   [US]
+     stack: Java    exp: 2-5y / 5-6y    where: Bengaluru
+     https://jobs.lever.co/saviynt/bcefdeeb-2c34-45c0-8169-7af82984fafe
+
+ 61. VAPT Engineer
+     Scrut Automation   [India]
+     stack: Java    exp: 2-4y / 15-19y    where: India, DL
+     https://scrut.keka.com/careers/jobdetails/142893
+
+ 62. Java Developer
+     Signzy   [India]
+     stack: Java    exp: 1-5y / 5-6y    where: India
+     https://signzy.keka.com/careers/jobdetails/136012
+
+ 63. Software Development Test Engineer II
+     Tekion   [India]
+     stack: Java    exp: 2-4y / 4-5y    where: Chennai Regional Office
+     https://jobs.ashbyhq.com/tekion/4d6bd5e9-5b48-4934-aae2-e30c2d368245
+
+ 64. SDE 3 - Android Developer
+     Teachmint   [India]
+     stack: Java    exp: 5-8y / 2-3y    where: Bangalore, KA
+     https://teachmint.keka.com/careers/jobdetails/136684
+
+ 65. Full Stack Developer (0-1 yr exp)
+     Toprankers   [India]
+     stack: Java    exp: 0-1y / 1-2y    where: Bengaluru, KA
+     https://toprankers.keka.com/careers/jobdetails/155148
+
+ 66. DEVELOPER L2
+     Wipro   [India]
+     stack: Java    exp: 1-3y    where: Hyderabad, IND-36, IN, 500032
+     https://careers.wipro.com/job/Hyderabad-DEVELOPER-L2-IND-500032/1359889655/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS
+
+ 67. Systems Operations Engineer
+     Wells Fargo   [USA]
+     stack: Java    exp: 2-6y    where: Bengaluru, India
+     https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Systems-Operations-Engineer_R-565445
+
+ 68. ML Engineer
+     Würth Group   [Germany]
+     stack: Java    exp: 5-9y / 2-6y    where: Pune, MH, IN, 411057
+     https://career.witglobal.net/in-wuerth-it/job/Pune-ML-Engineer-MH-411057/1413648033/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS
+
+ 69. Forward Deployed Engineer
+     Workato   [USA]
+     stack: Java    exp: 4-8y / 1-5y / 1-2y    where: Hyderabad, India
+     https://www.workato.com/careers?gh_jid=8440865002#open-roles
+
+ 70. React Native Developer
+     Yudiz Solutions   [India]
+     stack: Java    exp: 1-3y / 5-5y / 5-9y / 2-6y / 3-4y    where: India
+     https://www.yudiz.com/join-our-team/react-native-developer/
+
+ 71. Product Security Engineer II
+     Zeta   [India]
+     stack: Java    exp: 2-3y / 4-8y    where: Hyderabad
+     https://jobs.lever.co/zeta/e21ca17d-7bf2-4781-94bb-bcfc8943aae0
+
+ 72. Mobile Application Developer
+     Zippee   [India]
+     stack: Java    exp: 1-2y / 2-3y    where: Gurugram, HR
+     https://zippee.keka.com/careers/jobdetails/53064
+
+ 73. Engineer I - Full Stack
+     Anaplan   [United States]
+     stack: Java    exp: not stated    where: Gurugram, India
+     https://job-boards.greenhouse.io/anaplan/jobs/8561230002
+
+ 74. AI Engineer [Fresher]
+     AddWeb Solution   [India]
+     stack: Java    exp: not stated    where: India
+     https://addwebsolution.zohorecruit.in/jobs/Careers/23850000026342334/AI-Engineer-Fresher?source=RSS
+
+ 75. Jr Mobile Developer Android
+     CloudThat   [India]
+     stack: Java    exp: not stated    where: Ahmedabad, GJ | Bengaluru, KA
+     https://cloudthat.keka.com/careers/jobdetails/121520
+
+ 76. Associate Software Engineer
+     QualMinds Technologies   [India]
+     stack: Java    exp: not stated    where: Hyderabad
+     https://qualminds.keka.com/careers/jobdetails/15971
+
+ 77. Flutter Developer
+     Innofied Solutions   [India]
+     stack: Flutter    exp: not stated    where: India
+     https://innofied.zohorecruit.in/jobs/Careers/31467000037735827/Flutter-Developer
+
+ 78. Software Engineer, Intern
+     Stripe   [US]
+     stack: Java    exp: 2-6y    where: Bengaluru
+     https://stripe.com/jobs/search?gh_jid=8031833
+
+ 79. Software Engineer
+     ABB   [Switzerland]
+     stack: Java    exp: not stated    where: Bangalore, Karnātaka
+     https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/Bangalore-Karnataka-India/Software-Engineer_JR00040904-1/apply
+
+ 80. Software Quality Engineer 2
+     Adobe   [United States]
+     stack: Java    exp: not stated    where: Noida, Uttar Pradesh
+     https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Software-Quality-Engineer-2_R169340/apply
+
+ 81. Software Development Engineer 3 - Native Android
+     Adobe   [United States]
+     stack: Java    exp: not stated    where: Noida, Uttar Pradesh
+     https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Software-Development-Engineer-3---Native-Android_R168159/apply
+
+ 82. Software Development Engineer 4
+     Adobe   [United States]
+     stack: Java    exp: not stated    where: Noida, Uttar Pradesh
+     https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Software-Development-Engineer-4_R170262/apply
+
+ 83. Performance Engineer II
+     Alight Solutions   [United States]
+     stack: Java    exp: not stated    where: Gurgaon, Haryāna
+     https://alight.wd5.myworkdayjobs.com/Careers/job/IN-HR-Gurgaon-Candor-TechSpace-Tower-8/Performance-Engineer-II_R-37327/apply
+
+ 84. QA Engineer Contractual - 6 months
+     AbhiBus   [India]
+     stack: Java    exp: not stated    where: Hyderabad, TS, in
+     https://jobs.smartrecruiters.com/AbhiBus/744000141193619
+
+ 85. Application Security Engineer
+     Atomicwork   [India]
+     stack: Java    exp: not stated    where: Bengaluru, Karnataka
+     https://job-boards.greenhouse.io/atomicwork/jobs/4170696008
+
+ 86. Backend Engineer
+     Atomicwork   [India]
+     stack: Java    exp: not stated    where: Bengaluru, India
+     https://job-boards.greenhouse.io/atomicwork/jobs/4143684008
+
+ 87. Backend Engineer - Search
+     Atomicwork   [India]
+     stack: Java    exp: not stated    where: Bengaluru, Karnataka
+     https://job-boards.greenhouse.io/atomicwork/jobs/4645648008
+
+ 88. Android Developer
+     Bajaj Auto   [India]
+     stack: Java    exp: not stated    where: India
+     https://careers.bajajauto.com/job/Android-Developer/1373949433/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS
+
+ 89. Software Engineering Specialist
+     BT Group   [United Kingdom]
+     stack: Java    exp: not stated    where: Bengaluru, IN, 560103
+     https://jobs.bt.com/BT/job/Bengaluru-Software-Engineering-Specialist-560103/1367646257/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS
+
+ 90. Software Development Engineer - II
+     Blitz   [India]
+     stack: Java    exp: not stated    where: Bengaluru, KA
+     https://blitznow.keka.com/careers/jobdetails/102921
+
+ 91. Software Engineering Advisor - HIH - Evernorth
+     The Cigna Group   [United States]
+     stack: Java    exp: not stated    where: Hyderabad, India
+     https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Hyderabad-India/Software-Engineering-Advisor---HIH---Evernorth_26007583
+
+ 92. AI Engineer
+     Capco   [United Kingdom]
+     stack: Java    exp: not stated    where: India - Pune
+     https://job-boards.greenhouse.io/capco/jobs/8078812
+
+ 93. Python + Fullstack Developer
+     Capco   [United Kingdom]
+     stack: Java    exp: not stated    where: India
+     https://job-boards.greenhouse.io/capco/jobs/7642919
+
+ 94. SDE (Automation & Quality Focus)
+     Drivetrain   [India]
+     stack: Java    exp: not stated    where: India
+     https://jobs.lever.co/drivetrain/6a56a48c-32e0-43ee-ac4b-b6638c83f81f
+
+ 95. Software Engineer 2 - Fullstack
+     eBay   [United States]
+     stack: Java    exp: not stated    where: Bengaluru, Karnātaka
+     https://ebay.wd5.myworkdayjobs.com/apply/job/Bengaluru-India/Software-Engineer-2---Fullstack_R0071948/apply
+
+ 96. MTS 1, Softwware Engineer
+     eBay   [United States]
+     stack: Java    exp: not stated    where: Bengaluru, Karnātaka
+     https://ebay.wd5.myworkdayjobs.com/apply/job/Bengaluru-India/MTS-1--Softwware-Engineer_R0074650/apply
+
+ 97. MTS-1, Site Reliability Engineer
+     eBay   [United States]
+     stack: Java    exp: not stated    where: Bengaluru, Karnātaka
+     https://ebay.wd5.myworkdayjobs.com/apply/job/Bengaluru-India/Site-Reliability-Engineer_R0069672/apply
+
+ 98. MTS-1 Cloud Platform Engineer
+     eBay   [United States]
+     stack: Java    exp: not stated    where: Bengaluru, Karnātaka
+     https://ebay.wd5.myworkdayjobs.com/apply/job/Bengaluru-India/Cloud-Platform-Engineer_R0069607/apply
+
+ 99. MTS 1, Software Engineer
+     eBay   [United States]
+     stack: Java    exp: not stated    where: Bengaluru, Karnātaka
+     https://ebay.wd5.myworkdayjobs.com/apply/job/Bengaluru-India/MTS-1--Software-Engineer_R0070817/apply
+
+100. MTS 2, Software Engineer, Data Platforms
+     eBay   [United States]
+     stack: Java    exp: not stated    where: Bengaluru, Karnātaka
+     https://ebay.wd5.myworkdayjobs.com/apply/job/Bengaluru-India/MTS-2--Software-Engineer--Data-Platforms_R0074109-1/apply
+
+101. AI Platform Engineer
+     eBay   [United States]
+     stack: Java    exp: not stated    where: Bengaluru, Karnātaka
+     https://ebay.wd5.myworkdayjobs.com/apply/job/Bengaluru-India/AI-Platform-Engineer_R0074428/apply
+
+102. MTS2, Software Engineer
+     eBay   [United States]
+     stack: Java    exp: not stated    where: Bengaluru, Karnātaka
+     https://ebay.wd5.myworkdayjobs.com/apply/job/Bengaluru-India/MTS2--Software-Engineer_R0072717/apply
+
+103. MTS 1, Software Engineer - Fullstack
+     eBay   [United States]
+     stack: Java    exp: not stated    where: Bengaluru, Karnātaka
+     https://ebay.wd5.myworkdayjobs.com/apply/job/Bengaluru-India/MTS-1--Software-Engineer---Fullstack_R0070819/apply
+
+104. MTS 2, Software Engineer
+     eBay   [United States]
+     stack: Java    exp: not stated    where: Bengaluru, Karnātaka
+     https://ebay.wd5.myworkdayjobs.com/apply/job/Bengaluru-India/MTS-2--Software-Engineer_R0071954/apply
+
+105. MTS 1, Software Engineer, Data Platforms
+     eBay   [United States]
+     stack: Java    exp: not stated    where: Bengaluru, Karnātaka
+     https://ebay.wd5.myworkdayjobs.com/apply/job/Bengaluru-India/MTS-1--Software-Engineer--Data-Platforms_R0074756/apply
+
+106. Site Reliability Engineer 3
+     eBay   [United States]
+     stack: Java    exp: not stated    where: Bengaluru, Karnātaka
+     https://ebay.wd5.myworkdayjobs.com/apply/job/Bengaluru-India/Site-Reliability-Engineer-3_R0075331/apply
+
+107. Software Engineer 3 (Fullstack)
+     eBay   [United States]
+     stack: Java    exp: not stated    where: Bengaluru, Karnātaka
+     https://ebay.wd5.myworkdayjobs.com/apply/job/Bengaluru-India/Software-Engineer-3--Fullstack-_R0075531/apply
+
+108. Software Engineering Advisor - HIH - Evernorth
+     Evernorth Health Services   [United States]
+     stack: Java    exp: not stated    where: Hyderabad, Telangāna
+     https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Hyderabad-India/Software-Engineering-Advisor---HIH---Evernorth_26007583/apply
+
+109. Developer - Application Development N 4A
+     Genpact   [United States]
+     stack: Java    exp: not stated    where: 1401-G-India: Imagine Tech Park, Plot no 6,Kolkata
+     https://genpact.wd108.myworkdayjobs.com/External_Careers/job/1401-G-India-Imagine-Tech-Park-Plot-no-6Kolkata/Developer---Application-Development-N-4A_JR10019337
+
+110. Java Integration Engineer
+     IFS   [Sweden]
+     stack: Java    exp: not stated    where: Pune, Maharashtra, in
+     https://jobs.smartrecruiters.com/IFS1/744000138282669
+
+111. Software Developer – Freshers – (.NET / JAVA / Angular/PHP/Python)
+     Intellipaat   [India]
+     stack: Java    exp: not stated    where: India
+     https://jobs.intellipaat.com/software-developer-freshers-net-java-angular-php-python/
+
+112. Java Full Stack + AI Developer
+     Jade Global   [India]
+     stack: Java    exp: not stated    where: Pune, Maharashtra
+     https://jadeglobal.wd5.myworkdayjobs.com/Jade_Careers/job/Pune-Maharashtra/Java-Full-Stack---AI-Developer_R-105446
+
+113. Cloud Infrastructure & Platform Engineer
+     Kumaran Systems   [India]
+     stack: Java    exp: not stated    where: India
+     https://careers.kumaran.com/jobs/Careers/31840000018208851/Cloud-Infrastructure-Platform-Engineer?source=RSS
+
+114. Production Support Engineer
+     Kumaran Systems   [India]
+     stack: Java    exp: not stated    where: India
+     https://careers.kumaran.com/jobs/Careers/31840000018208813/Production-Support-Engineer?source=RSS
+
+115. Full Stack Developer
+     Kumaran Systems   [India]
+     stack: Java    exp: not stated    where: India
+     https://careers.kumaran.com/jobs/Careers/31840000018019738/Full-Stack-Developer?source=RSS
+
+116. Quality Engineer
+     Kumaran Systems   [India]
+     stack: Java    exp: not stated    where: India
+     https://careers.kumaran.com/jobs/Careers/31840000016758783/Quality-Engineer?source=RSS
+
+117. Technical Support Engineer– Enterprise Customer Success
+     Kapture CX   [India]
+     stack: Java    exp: not stated    where: Bengaluru, KA
+     https://kapturecrm.keka.com/careers/jobdetails/154902
+
+118. WordPress Developer
+     Let's Nurture   [India]
+     stack: Java    exp: not stated    where: India
+     https://www.letsnurture.com/career/wordpress-developer.html
+
+119. Java Developer
+     Lentera Technologies   [India]
+     stack: Java    exp: not stated    where: India
+     https://www.lentera.in/jobs/java-developer/
+
+120. Java Developer
+     MSG91   [India]
+     stack: Java    exp: not stated    where: Indore, MP
+     https://walkover.keka.com/careers/jobdetails/133855
+
+121. QA Engineers
+     ManageEngine   [India]
+     stack: Java    exp: not stated    where: India
+     https://careers.zohocorp.com/jobs/Careers/193779000024443496/QA-Engineers?source=RSS
+
+122. Software Engineer
+     Nomura   [Japan]
+     stack: Java    exp: not stated    where: Mumbai, IN
+     https://careers.nomura.com/Nomura/job/Mumbai-Software-Engineer/1350018600/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS
+
+123. Web UI Developer (React)
+     NonStop io Technologies   [India]
+     stack: Java    exp: not stated    where: Pune, MH
+     https://nonstopio.keka.com/careers/jobdetails/136904
+
+124. Production Support Engineer (Python, Sql)
+     PayU   [India]
+     stack: Java    exp: not stated    where: Mumbai, IN
+     https://careers.payu.in/PayU/job/Mumbai-Production-Support-Engineer-%28Python%2C-Sql%29/3873980/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS
+
+125. Product Development Engineer II - Machine Learning
+     Phenom   [United States]
+     stack: Java    exp: not stated    where: Hyderabad, Telangana, India
+     https://careers.phenom.com/us/en/job/P-104632
+
+126. Flexcube Customization Developer
+     Profinch Solutions   [India]
+     stack: Java    exp: not stated    where: India
+     https://www.profinch.com/jobs/flexcube-customization-developer/
+
+127. Full Stack Developer
+     QualiZeal   [India]
+     stack: Java    exp: not stated    where: India
+     https://qualizeal.com/job/full-stack-developer/
+
+128. Automation Engineer
+     QualiZeal   [India]
+     stack: Java    exp: not stated    where: India
+     https://qualizeal.com/job/automation-engineer/
+
+129. Hadoop Developer- ZooKeeper Sqoop and Flume Video Tutorial | Simplilearn
+     Simplilearn   [India]
+     stack: Java    exp: not stated    where: India
+     https://www.simplilearn.com/zookeeper-sqoop-and-flume-quick-tutorial-video
+
+130. Java Developer
+     Softura   [US]
+     stack: Java    exp: not stated    where: India
+     https://softura.zohorecruit.in/jobs/Careers/217787000000954033/Java-Developer
+
+131. AI-Powered Test Automation Engineer
+     Sybrant Technologies   [India]
+     stack: Java    exp: not stated    where: India
+     https://sybrant.com/jobs/ai-powered-test-automation-engineer/
+
+132. Finacle Product Engineer | Selenium, Java & Retail Assets Production Support
+     Synechron   [US]
+     stack: Java    exp: not stated    where: Chennai - Taramani (Ascendas)
+     https://synechron.wd1.myworkdayjobs.com/SynechronCareers/job/Chennai---Taramani-Ascendas/Finacle-Product-Engineer---Selenium--Java---Retail-Assets-Production-Support_JR1042757
+
+133. Java & Angular Developer – Spring, REST APIs & SQL
+     Synechron   [US]
+     stack: Java    exp: not stated    where: Hyderabad Eco Park
+     https://synechron.wd1.myworkdayjobs.com/SynechronCareers/job/Hyderabad--Eco-Park/Java---Angular-Developer---Spring--REST-APIs---SQL_JR1042426
+
+134. DevOps Engineer (Universal Robots, India)
+     Teradyne India   [India]
+     stack: Java    exp: not stated    where: Bangalore, IN
+     https://jobs.teradyne.com/Universal-Robots/job/Bangalore-DevOps-Engineer-%28Universal-Robots%2C-India%29/1382852600/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS
+
+135. Android Developer
+     Visit Health   [India]
+     stack: Java    exp: not stated    where: Noida | Noida
+     https://getvisitapp.keka.com/careers/jobdetails/30212
+
+136. Android Developer
+     YuppTV   [India]
+     stack: Java    exp: not stated    where: India
+     https://careers.yupptv.com/jobs/android-developer/
+
+137. Software Development Engineer - Mobile & Commerce (Apprentice)
+     HighLevel   [United States]
+     stack: Flutter    exp: not stated    where: India
+     https://jobs.lever.co/gohighlevel/f37987e1-cce3-4f4d-b2b1-4f0deccfdf8d
+
+138. Mobile Apps Developer Intern
+     HawksCode Softwares   [India]
+     stack: Flutter    exp: not stated    where: India
+     https://hawkscode.com/jobs/mobile-apps-developer-intern/
+
+139. IOS Engineer Intern
+     Infilect   [India]
+     stack: Flutter    exp: not stated    where: Bengaluru, KA
+     https://infilect.keka.com/careers/jobdetails/107450
+
+140. Forward Deployed engineer Intern
+     Brilworks Software   [India]
+     stack: Java    exp: not stated    where: Ahmedabad, GJ
+     https://brilworks.keka.com/careers/jobdetails/155499
+
+141. Software Engineer - Intern
+     ClickPost   [India]
+     stack: Java    exp: not stated    where: Bengaluru, KA
+     https://clickpost.keka.com/careers/jobdetails/64307
+
+142. Software Developer Internship
+     Comprinno Technologies   [India]
+     stack: Java    exp: not stated    where: Pune, MH
+     https://comprinno.keka.com/careers/jobdetails/134170
+
+143. Software Development Engineer in Test Apprentice
+     HighLevel   [United States]
+     stack: Java    exp: not stated    where: India
+     https://jobs.lever.co/gohighlevel/cf728c57-0a8a-4ab6-909c-96bcad3624de
+
+144. Android Developer Intern
+     HawksCode Softwares   [India]
+     stack: Java    exp: not stated    where: India
+     https://hawkscode.com/jobs/android-developer-intern/
+
+145. Software Engineer Intern, India
+     Nirmata   [United States]
+     stack: Java    exp: not stated    where: Bangalore, Hybrid
+     https://job-boards.greenhouse.io/nirmata/jobs/5040355008
+
+146. Software Engineering Intern
+     Red Hat India   [India]
+     stack: Java    exp: not stated    where: 2 Locations
+     https://redhat.wd5.myworkdayjobs.com/jobs/job/Pune---Tower-6/Software-Engineering-Intern_R-058560
+
+
+##############################################################################
+# TIER 2 - engineering, states a ~2-year window  (261)
+##############################################################################
+
+  1. Android - SDE 1
+     Kutumb   [India]
+     stack: -    exp: 1-3y    where: Bangalore, KA
+     https://primetrace.keka.com/careers/jobdetails/54884
+
+  2. Junior Embedded Engineer
+     Miko   [India]
+     stack: -    exp: 2-6y    where: Mumbai, MH
+     https://rnc.keka.com/careers/jobdetails/125072
+
+  3. SDE 1-Android Developer
+     Teachmint   [India]
+     stack: -    exp: 1-3y / 3-4y    where: Bangalore, KA
+     https://teachmint.keka.com/careers/jobdetails/135709
+
+  4. Research Engineer-I
+     Attentive.ai   [India]
+     stack: -    exp: 1-3y / 3-4y    where: Noida, UP
+     https://attentiveos.keka.com/careers/jobdetails/154765
+
+  5. SDE I - Python Engineer
+     Auriga IT   [India]
+     stack: -    exp: 2-6y    where: Jaipur, RJ
+     https://aurigait.keka.com/careers/jobdetails/136650
+
+  6. Associate Project Engineer
+     ABB   [Switzerland]
+     stack: -    exp: 2-4y    where: Bangalore, Karnātaka
+     https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/Bangalore-Karnataka-India/Project-Engineer_JR00030924/apply
+
+  7. Associate Commissioning Engineer
+     ABB   [Switzerland]
+     stack: -    exp: 2-4y    where: Bangalore, Karnātaka
+     https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/Bangalore-Karnataka-India/Associate-Commissioning-Engineer_JR00035528/apply
+
+  8. Associate IS Security Engineer
+     Amgen   [United States]
+     stack: -    exp: 2-6y / 6-7y    where: India - Hyderabad
+     https://amgen.wd1.myworkdayjobs.com/Careers/job/India---Hyderabad/Associate-IS-Security-Engineer_R-252436
+
+  9. Engineer I - IT
+     Anblicks   [United States]
+     stack: -    exp: 0-2y / 2-3y    where: Ahmedabad, GJ
+     https://anblicks.keka.com/careers/jobdetails/144776
+
+ 10. SDE 1 - iOS
+     Bombay Softwares   [India]
+     stack: -    exp: 2-4y    where: Ahmedabad, Gujarat, India
+     https://www.bombaysoftwares.com/sde-1-ios-bs-149-1
+
+ 11. Software Development Engineer - I (Data)
+     BookMyShow   [India]
+     stack: -    exp: 1-3y    where: Mumbai,None,None
+     https://bookmyshow.hire.trakstar.com/jobs/fk0zryy
+
+ 12. Associate Engineer-Civil(BESS)
+     Black & Veatch   [United States]
+     stack: -    exp: 2-9y / 1-5y / 9-10y    where: Vikhroli, West Mumbai, MH, IN
+     https://careers.bv.com/job/Vikhroli%2C-West-Mumbai-Associate-Engineer-Civil%28BESS%29-MH/1384362433/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS
+
+ 13. Associate Engineer-Structural (Transmission)
+     Black & Veatch   [United States]
+     stack: -    exp: 5-8y / 1-5y / 8-9y    where: Pune, MH, IN
+     https://careers.bv.com/job/Pune-Associate-Engineer-Structural-%28Transmission%29-MH/1384375033/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS
+
+ 14. Associate Engineer-Structural (Substation)
+     Black & Veatch   [United States]
+     stack: -    exp: 5-8y / 1-5y / 8-9y    where: Pune, MH, IN
+     https://careers.bv.com/job/Pune-Associate-Engineer-Structural-%28Substation%29-MH/1384374033/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS
+
+ 15. CloudOps Engineer – L1
+     Comprinno Technologies   [India]
+     stack: -    exp: 0-2y / 2-3y    where: Pune, MH
+     https://comprinno.keka.com/careers/jobdetails/144742
+
+ 16. Associate QA Engineer - Automation Testing
+     Disprz   [India]
+     stack: -    exp: 1-3y    where: Chennai, TN
+     https://disprz.keka.com/careers/jobdetails/131529
+
+ 17. Jr. Data Engineer
+     Express Analytics   [India]
+     stack: -    exp: 1-3y    where: India
+     https://www.expressanalytics.com/careers
+
+ 18. Junior Engineer – Machine programming
+     Flex   [United States]
+     stack: -    exp: 2-3y    where: India, Pune
+     https://flextronics.wd1.myworkdayjobs.com/Careers/job/India-Pune/Junior-Engineer---Machine-programming_WD226085
+
+ 19. Junior Embedded Software Engineer
+     GalaxEye Space   [India]
+     stack: -    exp: 2-4y / 4-5y    where: India
+     https://careers.galaxeye.space/jobs/Careers/214465000003297735/Junior-Embedded-Software-Engineer?source=RSS
+
+ 20. Engineer I - Mechanical Design
+     Hubbell   [United States]
+     stack: -    exp: 1-3y / 3-4y    where: Chennai, TN, IN, 600113
+     https://careers.hubbell.com/job/Chennai-Engineer-I-Mechanical-Design-TN-600113/1381239100/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS
+
+ 21. Associate Hardware Design Engineer
+     Intangles Lab   [India]
+     stack: -    exp: 1-5y    where: Pune, MH
+     https://intangles.keka.com/careers/jobdetails/129155
+
+ 22. Associate Customer Application Engineer (Asp.net, C# & SQL)
+     Ivalua   [France]
+     stack: -    exp: 1-5y / 1-2y    where: Pune, Maharashtra - India
+     https://boards.greenhouse.io/ivalua/jobs/8076602?gh_jid=8076602
+
+ 23. Junior .NET developer
+     Lumel Technologies   [India]
+     stack: -    exp: 2-5y / 5-6y    where: Chennai, TN
+     https://lumel.keka.com/careers/jobdetails/133555
+
+ 24. Associate DevOps Engineer
+     LogicMonitor   [United States]
+     stack: -    exp: 1-2y / 2-3y    where: Pune, India
+     https://www.logicmonitor.com/career/?gh_jid=8063910
+
+ 25. Associate System Engineer
+     Movate   [India]
+     stack: -    exp: 1-3y / 3-5y / 2-4y / 2-6y / 4-8y / 5-9y    where: India
+     https://www.movate.com/jobs/associate-system-engineer-3/
+
+ 26. Infrastructure Ops Engineer I
+     NCR Atleos   [United States]
+     stack: -    exp: 1-3y    where: MUMBAI, IND
+     https://ncratleos.wd1.myworkdayjobs.com/ext_apacatleos/job/MUMBAI-IND/Infrastructure-Ops-Engineer-I_R1153943
+
+ 27. Associate Cloud Operations Engineer
+     NICE   [Israel]
+     stack: -    exp: 1-3y    where: India - Pune
+     https://boards.eu.greenhouse.io/nice/jobs/4932220101?gh_jid=4932220101
+
+ 28. Embedded Firmware Engineer, I
+     NETGEAR   [United States]
+     stack: -    exp: 2-4y / 4-5y    where: Chennai, India
+     https://jobs.ashbyhq.com/netgear/849172b4-fc51-4a62-9013-c0a9ae6fcdb0
+
+ 29. Engineer I, Smart Switch Software Development
+     NETGEAR   [United States]
+     stack: -    exp: 0-2y / 2-3y    where: Bengaluru, India
+     https://jobs.ashbyhq.com/netgear/bb50fe2b-77f0-4690-8e24-2b5ab1d6aae8
+
+ 30. Engineer I, SOC
+     NextGen Healthcare   [United States]
+     stack: -    exp: 1-3y / 3-4y    where: Work From Anywhere-India
+     https://nextgen.wd5.myworkdayjobs.com/NextGen_Careers/job/Work-From-Anywhere-India/Engineer-I--SOC_R-101663
+
+ 31. SDE I (FullStack)
+     Netomi   [India]
+     stack: -    exp: 2-3y / 3-4y    where: Remote - India
+     https://jobs.lever.co/netomi/bed4b390-8100-4bef-99c2-e9eb84ba9cd7
+
+ 32. SDET - I
+     Netomi   [India]
+     stack: -    exp: 2-4y / 4-5y    where: Remote - India
+     https://jobs.lever.co/netomi/25393fe1-4925-4d3b-9771-e0931b2a628c
+
+ 33. Junior Engineer, Quality
+     Ohmium   [India]
+     stack: -    exp: 2-3y / 3-4y    where: Bengaluru, India
+     https://ohmium.wd12.myworkdayjobs.com/Ohmium_Careers/job/Bengaluru-India/Junior-Engineer--Quality_R-101100-1
+
+ 34. Associate Design Engineer
+     Ohmium   [India]
+     stack: -    exp: 0-2y / 2-3y    where: Bengaluru, India
+     https://ohmium.wd12.myworkdayjobs.com/Ohmium_Careers/job/Bengaluru-India/Associate-Design-Engineer_R-101067-1
+
+ 35. Junior Engineer - Wind O & M
+     ReNew   [India]
+     stack: -    exp: 1-4y / 10-14y    where: IN
+     https://careers.renew.com/job/Junior-Engineer-Wind-O-&-M/57316344/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS
+
+ 36. Associate Engineer, System Design Engineering ( FPGA Design 2-4 years)
+     SanDisk   [US]
+     stack: -    exp: 2-4y    where: Bengaluru, KA, in
+     https://jobs.smartrecruiters.com/Sandisk/744000141887784
+
+ 37. Test Associate Engineer
+     SonicWall   [US]
+     stack: -    exp: 1-5y    where: Pune, Maharashtra, India - Remote
+     https://job-boards.greenhouse.io/sonicwall/jobs/7772871
+
+ 38. Junior DevOps Engineer
+     SpotDraft   [India]
+     stack: -    exp: 2-4y / 4-5y    where: SpotDraft HQ, Bengaluru
+     https://jobs.ashbyhq.com/spotdraft/5b93525a-41c0-440b-bec1-124c5cd89924
+
+ 39. NOC Engineer I
+     Synchronoss Technologies   [US]
+     stack: -    exp: 2-5y    where: Bangalore, UNAVAILABLE, IN
+     https://international-synchronoss.icims.com/jobs/6545/noc-engineer-i/job
+
+ 40. Junior Hardware Design Engineer
+     Vecmocon Technologies   [India]
+     stack: -    exp: 1-2y    where: Noida, UP
+     https://vecmocon.keka.com/careers/jobdetails/151571
+
+ 41. Junior Application Engineer
+     Vecmocon Technologies   [India]
+     stack: -    exp: 2-3y    where: Noida, UP
+     https://vecmocon.keka.com/careers/jobdetails/141491
+
+ 42. Fresher/Junior -AI/ML Engineer
+     WonderBiz Technologies   [India]
+     stack: -    exp: 0-2y / 11-15y / 5-9y / 20-24y    where: India
+     https://wonderbiz.in/jobs/fresher-junior-ai-ml-engineer/
+
+ 43. Deloitte Recruitment 2025 – Azure/AWS DevOps Engineer/Software Engineer I
+     Yogeshwar Technologies   [India]
+     stack: -    exp: 0-1y / 1-2y / 2-3y    where: India
+     https://yogeshwartech.com/deloitte-recruitment-2025-azure-aws-devops-engineer-software-engineer-i/
+
+ 44. Engineer - Datacenter Operations
+     BrowserStack   [India]
+     stack: -    exp: 2-4y    where: Mumbai - WFO
+     https://browserstack.wd3.myworkdayjobs.com/External/job/Mumbai---WFO/Engineer---Datacenter-Operations_JR103569-1
+
+ 45. Roblox Developer – Job Opening
+     Games2win Media   [India]
+     stack: -    exp: 5-9y / 2-6y    where: India
+     https://games2winmedia.com/roblox-developer-job-opening/
+
+ 46. DevOps Site Reliability Engineer
+     LotusFlare   [United States]
+     stack: -    exp: 2-6y    where: Pune, IN
+     https://careers.lotusflare.com/jobs/523594-devops-site-reliability-engineer
+
+ 47. Customer Success Engineer - II
+     Mindtickle   [India]
+     stack: -    exp: 1-3y    where: Pune, Maharashtra
+     https://jobs.lever.co/mindtickle/166a3fea-6a19-48da-9a7d-bbff7d3c2f95
+
+ 48. Device Driver Engineer
+     Mitsogo   [India]
+     stack: -    exp: 10-14y / 2-6y    where: Chennai
+     https://job-boards.greenhouse.io/mitsogoinc/jobs/5226406008
+
+ 49. Business Intelligence Engineer (2-4 years)
+     PhonePe   [India]
+     stack: -    exp: 2-4y    where: Bengaluru
+     https://job-boards.greenhouse.io/phonepe/jobs/7789885003
+
+ 50. Network Delivery Engineer 1 (Pune)
+     PhonePe   [India]
+     stack: -    exp: 1-3y / 3-4y    where: Pune
+     https://job-boards.greenhouse.io/phonepe/jobs/7659530003
+
+ 51. Service Delivery Engineer, SRE
+     PhonePe   [India]
+     stack: -    exp: 1-3y / 3-4y    where: Bangalore
+     https://job-boards.greenhouse.io/phonepe/jobs/7762335003
+
+ 52. Software Engineer, Android
+     PhonePe   [India]
+     stack: -    exp: 1-2y    where: Bangalore
+     https://job-boards.greenhouse.io/phonepe/jobs/7799494003
+
+ 53. Mobile Application Developer - 1
+     Signzy   [India]
+     stack: -    exp: 1-3y    where: India
+     https://signzy.keka.com/careers/jobdetails/130261
+
+ 54. Sales Engineer Jobs | Sales Engineer Required
+     Vega Moon Technologies   [India]
+     stack: -    exp: 1-3y / 8-12y    where: India
+     https://www.vegamoontech.com/jobs/sales-engineer-jobs-sales-engineer-required/?utm_source=rss&utm_medium=rss&utm_campaign=sales-engineer-jobs-sales-engineer-required
+
+ 55. Software Engineer, D&T, Mobile Apps DEV
+     West Pharmaceutical Services   [USA]
+     stack: -    exp: 3-5y / 3-7y / 5-6y / 2-3y    where: Bengaluru, KA, IN
+     https://careers.westpharma.com/job/Bengaluru-Software-Engineer%2C-D&T%2C-Mobile-Apps-DEV-KA/1290718701/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS
+
+ 56. Software Engineer - Product Support & Implementation
+     Almabase   [India]
+     stack: -    exp: 1-2y / 2-3y    where: Bangalore, India
+     https://jobs.ashbyhq.com/Almabase/77f6df4b-98b4-47d7-940b-3b48b792d30d
+
+ 57. Engineer 2, Applications
+     Accurate Background   [United States]
+     stack: -    exp: 2-4y / 1-2y    where: IN - Hyderabad
+     https://accurateb.wd108.myworkdayjobs.com/Accurate_Careers/job/IN---Hyderabad/Engineer-2--Applications_R2156
+
+ 58. AI/ Machine Learning Engineer
+     Aera Technology   [United States]
+     stack: -    exp: 3-5y / 2-6y    where: Pune, India
+     https://jobs.lever.co/aeratechnology/a5e2a621-a540-4230-bed8-574dadf58469
+
+ 59. Software Engineer - AI
+     Anaplan   [United States]
+     stack: -    exp: 3-7y / 2-6y    where: Gurugram, India
+     https://job-boards.greenhouse.io/anaplan/jobs/8474236002
+
+ 60. Support Engineer
+     Anblicks   [United States]
+     stack: -    exp: 2-5y / 2-6y    where: Hyderabad, TG
+     https://anblicks.keka.com/careers/jobdetails/135380
+
+ 61. DevOps Engineer
+     Anblicks   [United States]
+     stack: -    exp: 3-5y / 2-6y / 1-5y    where: Hyderabad, TG
+     https://anblicks.keka.com/careers/jobdetails/134692
+
+ 62. Data Engineer (Databricks)
+     Anblicks   [United States]
+     stack: -    exp: 3-7y / 2-6y / 1-5y    where: Hyderabad, TG
+     https://anblicks.keka.com/careers/jobdetails/129292
+
+ 63. Software Quality Engineer
+     Aspen Technology   [United States]
+     stack: -    exp: 0-3y    where: Noida
+     https://aspentech.wd5.myworkdayjobs.com/aspentech/job/Noida/Software-Quality-Engineer_R9073
+
+ 64. Software Development Engineer
+     Aveva   [United Kingdom]
+     stack: -    exp: 1-3y    where: Hyderabad, India
+     https://aveva.wd3.myworkdayjobs.com/AVEVA_careers/job/Hyderabad-India/Software-Development-Engineer_R014504-1
+
+ 65. QA Engineer - Manual Testing
+     Algoworks   [India]
+     stack: -    exp: 2-3y / 6-10y / 20-24y    where: Noida, UP
+     https://algoworks.keka.com/careers/jobdetails/82012
+
+ 66. QA Automation Engineer
+     Algoworks   [India]
+     stack: -    exp: 2-4y / 4-8y / 20-24y    where: Noida, UP
+     https://algoworks.keka.com/careers/jobdetails/81707
+
+ 67. ServiceNow HRSD Developer
+     Atidan Technologies   [India]
+     stack: -    exp: 3-5y / 2-6y    where: India
+     https://atidantech.com/servicenow-hrsd-developer/
+
+ 68. .Net Fullstack Developer
+     Atidan Technologies   [India]
+     stack: -    exp: 3-8y / 3-7y / 2-6y / 1-5y    where: India
+     https://atidantech.com/net-fullstack-developer/
+
+ 69. C++ Engineer (Computer Vision)
+     Awiros   [India]
+     stack: -    exp: 1-5y    where: Gurugram
+     https://awiros.keka.com/careers/jobdetails/67627
+
+ 70. AI Engineer
+     Anteriad   [United States]
+     stack: -    exp: 1-2y / 2-3y    where: Bangalore
+     https://job-boards.greenhouse.io/anteriad/jobs/5386350004
+
+ 71. Developer 2
+     Arctic Wolf   [United States]
+     stack: -    exp: 1-3y / 3-4y    where: Bengaluru, IND
+     https://arcticwolf.wd1.myworkdayjobs.com/External/job/Bengaluru-IND/Developer-2_R26_805
+
+ 72. Software Engineer - Fabric / Power BI Developer & AI Data Agent Specialist
+     Beyond Key   [India]
+     stack: -    exp: 2-4y / 4-5y    where: Hyderabad, TG | Indore, MP | Pune, MH
+     https://beyondkey.keka.com/careers/jobdetails/127387
+
+ 73. Software Engineer - Dynamics 365 CRM
+     Beyond Key   [India]
+     stack: -    exp: 2-5y / 5-6y    where: Hyderabad, TG | Indore, MP | Pune, MH
+     https://beyondkey.keka.com/careers/jobdetails/127213
+
+ 74. Full Stack Engineer
+     Bhanzu   [India]
+     stack: -    exp: 2-6y    where: Bengaluru, KA
+     https://exploringinfinities.keka.com/careers/jobdetails/74026
+
+ 75. Developer
+     BinaryFolks   [India]
+     stack: -    exp: 0-10y    where: India
+     https://binaryfolks.com/career/developer-sr-developer/
+
+ 76. AWS Connect Engineer
+     Cambridge Technology   [India]
+     stack: -    exp: 5-9y / 2-6y    where: Telangana, Hyderabad, India
+     https://cambridgetechnology.freshteam.com/jobs/xk-7sW5MQJUH/aws-connect-engineer
+
+ 77. Business Intelligence Developer
+     Cropin Technology   [India]
+     stack: -    exp: 2-4y / 4-5y    where: Bengaluru, KA
+     https://cropinhrms.keka.com/careers/jobdetails/78489
+
+ 78. Software Engineer II
+     Couchbase   [United States]
+     stack: -    exp: 2-5y / 1-2y    where: Bangalore, India
+     https://job-boards.greenhouse.io/couchbaseinc/jobs/4693662006
+
+ 79. Forward Deployed AI Engineer
+     Cloudera   [United States]
+     stack: -    exp: 2-4y / 7-11y / 4-5y    where: India-Bangalore-Remote
+     https://cloudera.wd5.myworkdayjobs.com/External_Career/job/India-Bangalore-Remote/Forward-Deployed-AI-Engineer_261081
+
+ 80. AI Integration Engineer
+     Celigo   [United States]
+     stack: -    exp: 5-9y / 2-6y / 2-3y    where: Hyderabad, India
+     https://job-boards.greenhouse.io/celigo/jobs/8076568
+
+ 81. Software Test Engineer II
+     ConnectWise   [United States]
+     stack: -    exp: 2-6y    where: Pune, IND
+     https://job-boards.greenhouse.io/connectwise/jobs/4712966005
+
+ 82. Software Test Engineer II (Python, Virtualization)
+     ConnectWise   [United States]
+     stack: -    exp: 2-6y    where: Pune, IND
+     https://job-boards.greenhouse.io/connectwise/jobs/4698745005
+
+ 83. Machine Learning Engineer
+     Coinbase   [United States]
+     stack: -    exp: 2-6y    where: Remote - India
+     https://www.coinbase.com/careers/positions/7985187?gh_jid=7985187
+
+ 84. Software Engineer, EAA Integrations
+     Coinbase   [United States]
+     stack: -    exp: 2-6y    where: Remote - India
+     https://www.coinbase.com/careers/positions/7558051?gh_jid=7558051
+
+ 85. Data & AI Engineer
+     Comprinno Technologies   [India]
+     stack: -    exp: 0-2y / 2-3y    where: Pune, MH | Pune, MH
+     https://comprinno.keka.com/careers/jobdetails/138855
+
+ 86. GCP Data Engineer
+     CustomerLabs   [India]
+     stack: -    exp: 2-6y    where: India
+     https://customerlabs.zohorecruit.in/jobs/Careers/218001000000384404/GCP-Data-Engineer?source=RSS
+
+ 87. Credit - Hybrid Developer
+     Capco   [United Kingdom]
+     stack: -    exp: 2-5y    where: India
+     https://job-boards.greenhouse.io/capco/jobs/8063928
+
+ 88. Salesforce Commerce Cloud (SFCC) Frontend Engineer
+     Dentsu   [Japan]
+     stack: -    exp: 5-9y / 1-5y / 1-2y    where: DGS India - Pune - Indiqube Orchid
+     https://dentsuaegis.wd3.myworkdayjobs.com/DAN_GLOBAL/job/DGS-India---Pune---Indiqube-Orchid/Salesforce-Commerce-Cloud--SFCC--Frontend-Engineer_R1127347-4
+
+ 89. Biomedical Engineer - CSA
+     Dozee   [India]
+     stack: -    exp: 0-2y    where: Mangalore
+     https://jobs.lever.co/dozee/36dca1dc-4e68-4cd3-a8fe-25ef06c703f4
+
+ 90. Firmware Test Engineer
+     Dozee   [India]
+     stack: -    exp: 2-3y / 3-4y    where: Bangalore
+     https://jobs.lever.co/dozee/a596dcbc-2d71-4d00-9395-f58f62b36016
+
+ 91. Security Engineer
+     Drivetrain   [India]
+     stack: -    exp: 2-6y    where: India
+     https://jobs.lever.co/drivetrain/b489fddb-b9cf-4e7b-a812-8d859739a7d9
+
+ 92. Software Engineer (Data Engineering)
+     Drivetrain   [India]
+     stack: -    exp: 1-5y / 5-9y / 1-2y    where: India
+     https://jobs.lever.co/drivetrain/c677fe8d-8f9d-483e-b523-62c77e1a0fb7
+
+ 93. GTM Engineer
+     Discover Dollar   [India]
+     stack: -    exp: 2-4y    where: Bangalore, KA
+     https://discoverdollar.keka.com/careers/jobdetails/154632
+
+ 94. SQL Developer
+     Easebuzz   [India]
+     stack: -    exp: 2-6y    where: Pune,Maharashtra,India
+     https://easebuzz.hire.trakstar.com/jobs/fk0pzge
+
+ 95. DS / ML Engineer
+     Epifi   [India]
+     stack: -    exp: 2-3y    where: Bangalore
+     https://jobs.lever.co/epifi/ce14bc02-eb99-47a2-bcd2-435397096dbf
+
+ 96. QA Software Engineer 10350 – L2/L3 Networking | Python Automation | VxLAN EVPN
+     Extreme Networks   [United States]
+     stack: -    exp: 2-5y / 5-6y    where: Bangalore
+     https://jobs.lever.co/extremenetworks/031e24bc-39af-4609-9657-be46b7dcdd92
+
+ 97. SW Systems Engineer – GovRamp & FedRamp Compliance
+     Extreme Networks   [United States]
+     stack: -    exp: 2-5y / 5-6y    where: Chennai, India
+     https://jobs.lever.co/extremenetworks/13e38539-39c5-43c4-8f38-22526ff1255f
+
+ 98. Software Engineer
+     EverestIMS Technologies   [India]
+     stack: -    exp: 1-3y / 3-4y    where: Bangalore, KA
+     https://everestims.keka.com/careers/jobdetails/131613
+
+ 99. Product Engineer - Geospatial Data Science
+     Esri   [United States]
+     stack: -    exp: 2-6y / 6-7y    where: New Delhi, Delhi, India
+     https://www.esri.com/careers/5181330007?gh_jid=5181330007
+
+100. Product Engineer - Software Reliability
+     Esri   [United States]
+     stack: -    exp: 2-6y    where: New Delhi, Delhi, India
+     https://www.esri.com/careers/5123410007?gh_jid=5123410007
+
+101. Integrations Engineer
+     Fictiv   [United States]
+     stack: -    exp: 5-7y / 2-6y / 7-8y    where: Pune, India Office
+     https://job-boards.greenhouse.io/fictiv/jobs/8379971002
+
+102. NC Programmer
+     Flowserve   [United States]
+     stack: -    exp: 0-2y / 2-3y    where: Chennai, India
+     https://flowserve.wd1.myworkdayjobs.com/applied/job/Chennai-India/NC-Programmer_R-20539
+
+103. Technical Support Engineer
+     Five9 India   [India]
+     stack: -    exp: 2-6y    where: India, Chennai
+     https://www.five9.com/about/careers/job-detail?gh_jid=6099279004
+
+104. AI Engineer
+     Fluentgrid   [India]
+     stack: -    exp: 2-3y / 3-7y / 3-4y    where: India
+     https://fluentgrid.com/jobs/ai-engineer/
+
+105. IoT Engineer
+     Faclon Labs   [India]
+     stack: -    exp: 2-4y / 4-5y    where: Mumbai, MH
+     https://flpl.keka.com/careers/jobdetails/75193
+
+106. Technical Consultant (Sales Engineer) (Pune Based)
+     Fastly   [United States]
+     stack: -    exp: 0-2y / 2-3y    where: Pune, India
+     https://www.fastly.com/about/jobs/apply?gh_jid=7814181
+
+107. Web Developer
+     Gushwork   [India]
+     stack: -    exp: 1-3y / 3-4y    where: Bengaluru
+     https://jobs.lever.co/gushwork/3713930d-1e01-4704-8b75-365018c55584
+
+108. Opto-Mechanical Engineer (MSI)
+     GalaxEye Space   [India]
+     stack: -    exp: 2-4y / 4-8y    where: India
+     https://careers.galaxeye.space/jobs/Careers/214465000000406644/Opto-Mechanical-Engineer-MSI?source=RSS
+
+109. Systems Design Engineer (MSI)
+     GalaxEye Space   [India]
+     stack: -    exp: 0-2y / 2-3y    where: India
+     https://careers.galaxeye.space/jobs/Careers/214465000000991225/Systems-Design-Engineer-MSI?source=RSS
+
+110. Full Stack Developer (Backend-Focused | MERN + Python)
+     GalaxEye Space   [India]
+     stack: -    exp: 2-3y / 3-4y    where: India
+     https://careers.galaxeye.space/jobs/Careers/214465000000371183/Full-Stack-Developer-Backend-Focused-MERN-Python?source=RSS
+
+111. Image Processing Engineer
+     GalaxEye Space   [India]
+     stack: -    exp: 2-6y    where: India
+     https://careers.galaxeye.space/jobs/Careers/214465000001326558/Image-Processing-Engineer?source=RSS
+
+112. Forward Deployment Engineer - Imagery Analyst
+     GalaxEye Space   [India]
+     stack: -    exp: 2-3y / 3-4y    where: India
+     https://careers.galaxeye.space/jobs/Careers/214465000000371404/Forward-Deployment-Engineer-Imagery-Analyst?source=RSS
+
+113. System Modeling Engineer
+     GalaxEye Space   [India]
+     stack: -    exp: 1-3y / 3-4y    where: India
+     https://careers.galaxeye.space/jobs/Careers/214465000000366069/System-Modeling-Engineer?source=RSS
+
+114. Product QA Engineer - SAR & EO Image Validation
+     GalaxEye Space   [India]
+     stack: -    exp: 2-3y / 3-4y    where: India
+     https://careers.galaxeye.space/jobs/Careers/214465000000644985/Product-QA-Engineer-SAR-EO-Image-Validation?source=RSS
+
+115. Solutions Engineer
+     Hevo Data   [India]
+     stack: -    exp: 2-4y / 4-5y    where: Bangalore, India
+     https://jobs.lever.co/hevodata/ee02ca24-94ec-415b-ab36-7dec4d62099b
+
+116. Fullstack Engineer
+     HealthPlix Technologies   [India]
+     stack: -    exp: 2-3y / 1-5y / 3-4y / 1-2y    where: India
+     https://recruit.healthplix.com/jobs/Careers/36972000000567025/Fullstack-Engineer?source=RSS
+
+117. Applied AI Engineer
+     HackerRank   [United States]
+     stack: -    exp: 1-4y    where: Hybrid in Bangalore, India
+     https://job-boards.greenhouse.io/hackerrank/jobs/7959585
+
+118. AI Engineer
+     HealthAsyst   [India]
+     stack: -    exp: 2-5y    where: Bangalore, KA
+     https://healthasyst.keka.com/careers/jobdetails/128224
+
+119. System Engineer
+     IFS   [Sweden]
+     stack: -    exp: 1-2y / 2-3y    where: Kolkata, WEST BENGAL, in
+     https://jobs.smartrecruiters.com/IFS1/744000141662550
+
+120. SoC Integration Engineer
+     InCore Semiconductors   [India]
+     stack: -    exp: 1-2y    where: India
+     https://incoresemi.zohorecruit.com/jobs/Careers/667501000008095921/SoC-Integration-Engineer?source=RSS
+
+121. Service Engineer
+     Ingersoll Rand   [United States]
+     stack: -    exp: 2-6y    where: Bangalore, KA, IN, 560094
+     https://careers.irco.com/job/Bangalore-Service-Engineer-KA-560094/1416915400/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS
+
+122. DevOps Engineer
+     Innovature   [India]
+     stack: -    exp: 2-3y    where: India
+     https://innovature.ai/jobs/devops-engineer/
+
+123. DevOps Engineer – GCP
+     Innovature   [India]
+     stack: -    exp: 2-4y / 4-5y    where: India
+     https://innovature.ai/jobs/devops-engineer-gcp/
+
+124. Software Engineer(PHP)
+     Innovature   [India]
+     stack: -    exp: 2-4y    where: India
+     https://innovature.ai/jobs/software-engineerphp/
+
+125. DaaS Support Engineer
+     Inspiredge IT Solutions   [India]
+     stack: -    exp: 2-3y / 3-7y    where: India
+     https://inspiredgeit.com/jobs/daas-support-engineer-2/
+
+126. Hardware Test & Validation Engineer
+     Intangles Lab   [India]
+     stack: -    exp: 1-3y / 3-4y    where: Pune, MH
+     https://intangles.keka.com/careers/jobdetails/129153
+
+127. DevSecOps Engineer
+     Intangles Lab   [India]
+     stack: -    exp: 2-6y    where: Pune
+     https://intangles.keka.com/careers/jobdetails/117983
+
+128. Engineer-QA (Manual)
+     Intangles Lab   [India]
+     stack: -    exp: 2-3y    where: Pune
+     https://intangles.keka.com/careers/jobdetails/40424
+
+129. Developer-Full Stack
+     Intangles Lab   [India]
+     stack: -    exp: 2-3y / 3-7y    where: Pune, MH
+     https://intangles.keka.com/careers/jobdetails/36515
+
+130. Software Development Engineer in Test (SDET)
+     Intangles Lab   [India]
+     stack: -    exp: 4-8y / 2-6y    where: Pune, MH
+     https://intangles.keka.com/careers/jobdetails/31800
+
+131. Engineer - Embedded Hardware Testing
+     Intangles Lab   [India]
+     stack: -    exp: 2-3y / 3-4y    where: Pune
+     https://intangles.keka.com/careers/jobdetails/20265
+
+132. Engineer - Embedded Software
+     Intangles Lab   [India]
+     stack: -    exp: 2-5y    where: Pune
+     https://intangles.keka.com/careers/jobdetails/19505
+
+133. Data Integration Engineer (Reltio MDM Configurator)
+     IntegriChain   [United States]
+     stack: -    exp: 5-9y / 2-6y    where: Pune, MH, in
+     https://jobs.smartrecruiters.com/IntegriChain1/744000134959664
+
+134. Desktop Support Engineer
+     IRIS RegTech Solutions   [India]
+     stack: -    exp: 2-3y    where: Navi Mumbai, MH
+     https://irsl.keka.com/careers/jobdetails/133285
+
+135. Full Stack Developer
+     IRIS RegTech Solutions   [India]
+     stack: -    exp: 3-5y / 2-5y    where: Navi Mumbai, MH
+     https://irsl.keka.com/careers/jobdetails/103675
+
+136. Software Developer (PHP & Magento)
+     Josh Technology Group   [India]
+     stack: -    exp: 1-3y    where: India
+     https://www.joshtechnologygroup.com/careers/software-developer-php-magento/
+
+137. Golang Developer
+     Juniper Networks India   [United States]
+     stack: -    exp: 2-3y / 4-8y    where: Bengaluru, Karnātaka, India
+     https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Bengaluru-Karntaka-India/Technology-Consultant-III_1205486-2
+
+138. Intermediate UI Test and Automation Engineer
+     Juniper Networks India   [United States]
+     stack: -    exp: 2-8y / 8-9y    where: Bengaluru, Karnātaka, India
+     https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Bengaluru-Karntaka-India/Intermediate-UI-Test-and-Automation-Engineer_1210858-2
+
+139. Premium Support Engineer
+     Juniper Networks India   [United States]
+     stack: -    exp: 3-7y / 2-6y    where: Bangalore, Karnataka
+     https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Bangalore-Karnataka/Premium-Support-Engineer_1209208
+
+140. .Net Developer
+     Kumaran Systems   [India]
+     stack: -    exp: 4-6y / 2-4y / 6-7y / 4-5y    where: India
+     https://careers.kumaran.com/jobs/Careers/31840000018208827/Net-Developer?source=RSS
+
+     ... and 121 more in apply-list.json
+
+##############################################################################
+# TIER 3 - engineering, experience not stated  (450)
+# An unstated window often means they are flexible.
+##############################################################################
+
+  1. Associate Project Engineer - PPM
+     ABB   [Switzerland]
+     stack: -    exp: not stated    where: Bangalore, Karnātaka
+     https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/Bangalore-Karnataka-India/Associate-Project-Engineer---PPM_JR00042097/apply
+
+  2. PPM-Associate Project Engineer
+     ABB   [Switzerland]
+     stack: -    exp: not stated    where: Bangalore, Karnātaka
+     https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/Bangalore-Karnataka-India/PPM-Associate-Project-Engineer_JR00042096/apply
+
+  3. Associate Digital Innovation Engineer - Data Science
+     Buckman   [United States]
+     stack: -    exp: not stated    where: India
+     https://jobs.jobvite.com/buckman-fr/job/oL8BzfwN
+
+  4. Jr Mobile Developer iOS
+     CloudThat   [India]
+     stack: -    exp: not stated    where: Ahmedabad, GJ | Bengaluru, KA
+     https://cloudthat.keka.com/careers/jobdetails/121521
+
+  5. Engineer I - Quality & Testing (Manual) - Logistics & ERP Functional Test Engineer
+     Cencora   [United States]
+     stack: -    exp: not stated    where: Pune
+     https://myhrabc.wd5.myworkdayjobs.com/Global/job/Pune-India/Engineer-I---Quality---Testing--Manual-Functional---IN-_R269663/apply
+
+  6. Software Engineer I (Oracle APEX)-1
+     Cencora   [United States]
+     stack: -    exp: not stated    where: Pune
+     https://myhrabc.wd5.myworkdayjobs.com/Global/job/Pune-India/Software-Engineer-I--Oracle-APEX--1_R262994/apply
+
+  7. Associate Software Engineer
+     Disprz   [India]
+     stack: -    exp: not stated    where: Chennai, TN
+     https://disprz.keka.com/careers/jobdetails/126546
+
+  8. Software Engineering Associate Advisor
+     Evernorth Health Services   [United States]
+     stack: -    exp: not stated    where: Hyderabad, Telangāna
+     https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Hyderabad-India/Software-Engineering-Associate-Advisor_26001451/apply
+
+  9. Software Engineering Associate Advisor - HIH - Evernorth
+     Evernorth Health Services   [United States]
+     stack: -    exp: not stated    where: Hyderabad, Telangāna
+     https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Hyderabad-India/Software-Engineering-Associate-Advisor---HIH---Evernorth_26009536/apply
+
+ 10. Associate Software Engineer
+     Finastra   [United Kingdom]
+     stack: -    exp: not stated    where: Pune
+     https://finastra.wd3.myworkdayjobs.com/FINC/job/Pune/Associate-Software-Engineer_REQ0126_0035900
+
+ 11. Junior Engineer - MES
+     Flex   [United States]
+     stack: -    exp: not stated    where: India, Bangalore
+     https://flextronics.wd1.myworkdayjobs.com/Careers/job/India-Bangalore/Junior-Engineer---MES_WD225220
+
+ 12. Mechanical Engineer Associate
+     Flowserve   [United States]
+     stack: -    exp: not stated    where: Bengaluru, India
+     https://flowserve.wd1.myworkdayjobs.com/applied/job/Bengaluru-India/Mechanical-Engineer-Associate_R-20187
+
+ 13. Mechanical Engineer, Associate
+     Flowserve   [United States]
+     stack: -    exp: not stated    where: Bengaluru, India
+     https://flowserve.wd1.myworkdayjobs.com/applied/job/Bengaluru-India/Mechanical-Engineer--Associate_R-20198
+
+ 14. Associate Engineer
+     Flowserve   [United States]
+     stack: -    exp: not stated    where: Bengaluru, India
+     https://flowserve.wd1.myworkdayjobs.com/applied/job/Bengaluru-India/Associate-Engineer_R-20185
+
+ 15. Mechanical Engineer - Associate
+     Flowserve   [United States]
+     stack: -    exp: not stated    where: Chennai, India
+     https://flowserve.wd1.myworkdayjobs.com/applied/job/Chennai-India/Mechanical-Engineer---Associate_R-20141
+
+ 16. Junior Engineer
+     GE Vernova   [United States]
+     stack: -    exp: not stated    where: Pune
+     https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Pune/Junior-Engineer_R5049112-2
+
+ 17. Junior RTCDP Developer
+     Hashout Technologies   [India]
+     stack: -    exp: not stated    where: Bengaluru, KA
+     https://hashout.keka.com/careers/jobdetails/74567
+
+ 18. Magento Junior Developer
+     Jiva Infotech   [India]
+     stack: -    exp: not stated    where: India
+     https://careers.jivainfotech.com/magento-junior-developer/
+
+ 19. Junior Engineer / Engineer - Installation
+     KONE   [Finland]
+     stack: -    exp: not stated    where: Bengaluru
+     https://kone.wd3.myworkdayjobs.com/Careers/job/Bengaluru/Junior-Engineer---Engineer---Installation_R0663294-1
+
+ 20. SOFTWARE DEVELOPMENT ENGINEER (SDE 1) (BACK-END)
+     Lepton Software   [India]
+     stack: -    exp: not stated    where: Gurgaon, HR
+     https://leptonsoftware.keka.com/careers/jobdetails/62867
+
+ 21. UI Engineer - I
+     MoEngage   [India]
+     stack: -    exp: not stated    where: Bengaluru,None,None
+     https://moengage.hire.trakstar.com/jobs/fk0zs3j
+
+ 22. Junior Mechanical Engineer
+     Miko   [India]
+     stack: -    exp: not stated    where: Mumbai, MH
+     https://rnc.keka.com/careers/jobdetails/125471
+
+ 23. Associate Engineer - Solution Design
+     Matrix Comsec   [India]
+     stack: -    exp: not stated    where: VADODARA, GJ
+     https://matrixcomsec.keka.com/careers/jobdetails/93533
+
+ 24. Associate Consultant_AI/ML Engineer
+     NTT DATA Business Solutions   [Germany]
+     stack: -    exp: not stated    where: Hyderabad, IN, 500081
+     https://careers.nttdata-solutions.com/job/Hyderabad-Associate-Consultant_AIML-Engineer-500081/1424602733/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS
+
+ 25. Junior Frontend Developer
+     Pattem Digital   [India]
+     stack: -    exp: not stated    where: Bengaluru
+     https://www.pattemdigital.com/junior-frontend-developer
+
+ 26. Associate Engineer
+     Pratt & Whitney   [United States]
+     stack: -    exp: not stated    where: IN-KA-BENGALURU-NORTHGATE ~ Sy No 2/2 Venkatala Village ~ SY NO 2/2 VENKATALA VILLAGE, Yelahanka Hobli
+     https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/IN-KA-BENGALURU-NORTHGATE--Sy-No-22-Venkatala-Village--SY-NO-22-VENKATALA-VILLAGE-Yelahanka-Hobli/Associate-Engineer_01862425
+
+ 27. Cyber Security Engineer I
+     Sabre   [US]
+     stack: -    exp: not stated    where: India - Bangalore-Navigator Bldg
+     https://sabre.wd1.myworkdayjobs.com/SabreJobs/job/India---Bangalore-Navigator-Bldg/Cyber-Security-Engineer-I_JR108305
+
+ 28. Engineer I - Software QA
+     Silicon Labs   [US]
+     stack: -    exp: not stated    where: Hyderabad
+     https://silabs.wd1.myworkdayjobs.com/SiliconlabsCareers/job/Hyderabad/Engineer-I---Software-QA_20641-1
+
+ 29. Associate Cloud Engineer
+     Solverminds   [India]
+     stack: -    exp: not stated    where: India
+     https://careers.solverminds.com/jobs/Careers/161219000002411008/Associate-Cloud-Engineer
+
+ 30. Associate Test Engineer
+     Solverminds   [India]
+     stack: -    exp: not stated    where: India
+     https://careers.solverminds.com/jobs/Careers/161219000002476069/Associate-Test-Engineer
+
+ 31. Associate Software Engineer
+     Solverminds   [India]
+     stack: -    exp: not stated    where: India
+     https://careers.solverminds.com/jobs/Careers/161219000001692042/Associate-Software-Engineer
+
+ 32. Maintenance Junior Engineer -M/F/D
+     Valeo India   [India]
+     stack: -    exp: not stated    where: Pune
+     https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Pune/Maintenance-Junior-Engineer--M-F-D_REQ2026078742
+
+ 33. Junior System Engineer/ Engineer - M/F/D
+     Valeo India   [India]
+     stack: -    exp: not stated    where: Pune
+     https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Pune/Junior-System-Engineer--Engineer---M-F-D_REQ2026071856
+
+ 34. Mechanical Project Engineer-I
+     Vanderlande India   [India]
+     stack: -    exp: not stated    where: Pune I
+     https://vanderlande.wd3.myworkdayjobs.com/careers/job/Pune-I/Mechanical-Project-Engineer-I_JR36846-1
+
+ 35. Electrical Project Engineer I
+     Vanderlande India   [India]
+     stack: -    exp: not stated    where: Pune I
+     https://vanderlande.wd3.myworkdayjobs.com/careers/job/Pune-I/Electrical-Project-Engineer-I_JR36834-1
+
+ 36. Requirements Engineer - Connected Applications
+     Bajaj Auto   [India]
+     stack: -    exp: not stated    where: India
+     https://careers.bajajauto.com/job/Requirements-Engineer-Connected-Applications/1289817901/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS
+
+ 37. Android App Developer
+     Capgemini   [France]
+     stack: -    exp: not stated    where: Bangalore, IN
+     https://careers.capgemini.com/job/Bangalore-Android-App-Developer/1423696033/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS
+
+ 38. MTS 1 Android Engineer
+     eBay   [United States]
+     stack: -    exp: not stated    where: Bengaluru, Karnātaka
+     https://ebay.wd5.myworkdayjobs.com/apply/job/Bengaluru-India/MTS-1-Android-Engineer_R0073387/apply
+
+ 39. MTS1, Android Software Engineer
+     eBay   [United States]
+     stack: -    exp: not stated    where: Bengaluru, Karnātaka
+     https://ebay.wd5.myworkdayjobs.com/apply/job/Bengaluru-India/MTS1---Android-Software-Engineer_R0070808/apply
+
+ 40. MTS 1 - Mobile Security Engineer
+     eBay   [United States]
+     stack: -    exp: not stated    where: Bengaluru, Karnātaka
+     https://ebay.wd5.myworkdayjobs.com/apply/job/Bengaluru-India/MTS-1---Mobile-Security-Engineer_R0074386/apply
+
+ 41. Android Engineer - MTS 1
+     eBay   [United States]
+     stack: -    exp: not stated    where: Bengaluru, Karnātaka
+     https://ebay.wd5.myworkdayjobs.com/apply/job/Bengaluru-India/Senior-Android-Engineer---MTS-2_R0071881/apply
+
+ 42. Android - SDE 2
+     Kutumb   [India]
+     stack: -    exp: not stated    where: Bangalore, KA | Bangalore, KA
+     https://primetrace.keka.com/careers/jobdetails/34144
+
+ 43. Service Delivery Engineer
+     PhonePe   [India]
+     stack: -    exp: not stated    where: Bangalore
+     https://job-boards.greenhouse.io/phonepe/jobs/7766920003
+
+ 44. Site Reliability Engineer - 2
+     PhonePe   [India]
+     stack: -    exp: not stated    where: Bangalore
+     https://job-boards.greenhouse.io/phonepe/jobs/7766868003
+
+ 45. Field Security Engineer
+     Atlan   [India]
+     stack: -    exp: not stated    where: India
+     https://jobs.ashbyhq.com/atlan/b2b880ed-63cd-4f56-8313-87f143fa9807
+
+ 46. Forward Deployed Engineer
+     Attentive.ai   [India]
+     stack: -    exp: not stated    where: Noida, UP
+     https://attentiveos.keka.com/careers/jobdetails/130016
+
+ 47. Data Engineer
+     Auriga IT   [India]
+     stack: -    exp: not stated    where: Jaipur, RJ
+     https://aurigait.keka.com/careers/jobdetails/128095
+
+ 48. R&D Engineer
+     ABB   [Switzerland]
+     stack: -    exp: not stated    where: Hyderabad, Telangāna
+     https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/Hyderabad-Telangana-India/R-D-Engineer_JR00043821/apply
+
+ 49. R&D Engineer-Embedded Data Analytics
+     ABB   [Switzerland]
+     stack: -    exp: not stated    where: Hyderabad, Telangāna
+     https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/Hyderabad-Telangana-India/R-D-Engineer-Embedded-Data-Analytics_JR00043167/apply
+
+ 50. Project Engineer SIS
+     ABB   [Switzerland]
+     stack: -    exp: not stated    where: Bangalore, Karnātaka
+     https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/Bangalore-Karnataka-India/Project-Engineer-SIS_JR00040943/apply
+
+ 51. Observability Product Developer (Full Stack + Grafana)
+     ABB   [Switzerland]
+     stack: -    exp: not stated    where: Bangalore, Karnātaka
+     https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/Bangalore-Karnataka-India/Observability-Product-Developer--Full-Stack---Grafana-_JR00031604/apply
+
+ 52. Project Engineer - OTS Process Modeling
+     ABB   [Switzerland]
+     stack: -    exp: not stated    where: Bangalore, Karnātaka
+     https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/Bangalore-Karnataka-India/Project-Engineer---OTS-Process-Modeling_JR00040930/apply
+
+ 53. Project Engineer - Batch Automation
+     ABB   [Switzerland]
+     stack: -    exp: not stated    where: Bangalore, Karnātaka
+     https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/Bangalore-Karnataka-India/Project-Engineer---Batch-Automation_JR00030907/apply
+
+ 54. Solution Engineer
+     ABB   [Switzerland]
+     stack: -    exp: not stated    where: Bangalore, Karnātaka
+     https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/Bangalore-Karnataka-India/Solution-Engineer_JR00031466/apply
+
+ 55. System Type Test Engineer
+     ABB   [Switzerland]
+     stack: -    exp: not stated    where: Bangalore, Karnātaka
+     https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/Bangalore-Karnataka-India/System-Type-Test-Engineer_JR00039625/apply
+
+ 56. Field Service Engineer
+     ABB   [Switzerland]
+     stack: -    exp: not stated    where: Bangalore, Karnātaka
+     https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/Bangalore-Karnataka-India/Field-Service-Engineer_JR00019249-1/apply
+
+ 57. Talent Pool_Electrical Design Engineer
+     ABB   [Switzerland]
+     stack: -    exp: not stated    where: Bangalore, Karnātaka
+     https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/Bangalore-Karnataka-India/Talent-Pool-Electrical-Design-Engineer_JR00024176/apply
+
+ 58. Project Engineer
+     ABB   [Switzerland]
+     stack: -    exp: not stated    where: Bangalore, Karnātaka
+     https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/Bangalore-Karnataka-India/Project-Engineer_JR00024527/apply
+
+ 59. R&D Engineer Fullstack
+     ABB   [Switzerland]
+     stack: -    exp: not stated    where: Bangalore, Karnātaka
+     https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/Bangalore-Karnataka-India/R-D-Engineer-Fullstack_JR00026253/apply
+
+ 60. R&D Software Engineer
+     ABB   [Switzerland]
+     stack: -    exp: not stated    where: Bangalore, Karnātaka
+     https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/Bangalore-Karnataka-India/R-D-Software-Engineer_JR00040438/apply
+
+ 61. Quality Engineer
+     ABB   [Switzerland]
+     stack: -    exp: not stated    where: Bangalore, Karnātaka
+     https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/Bangalore-Karnataka-India/Quality-Engineer_JR00041696/apply
+
+ 62. Product Engineer
+     ABB   [Switzerland]
+     stack: -    exp: not stated    where: Bangalore, Karnātaka
+     https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/Bangalore-Karnataka-India/Product-Engineer_JR00033963/apply
+
+ 63. Machine Learning Engineer 4
+     Adobe   [United States]
+     stack: -    exp: not stated    where: Bangalore, Karnātaka
+     https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Machine-Learning-Engineer-4_R168142-1/apply
+
+ 64. Software Development Engineer 3
+     Adobe   [United States]
+     stack: -    exp: not stated    where: Noida, Uttar Pradesh
+     https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Software-Development-Engineer-3_R170103/apply
+
+ 65. Software Development Engineer.5
+     Adobe   [United States]
+     stack: -    exp: not stated    where: Bangalore, Karnātaka
+     https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Software-Development-Engineer5_R170295-1/apply
+
+ 66. .Net Angular Full Stack developer
+     Alight Solutions   [United States]
+     stack: -    exp: not stated    where: Chennai, Tamil Nādu
+     https://alight.wd5.myworkdayjobs.com/Careers/job/IN-TN-Chennai-Keppel-One-Paramount/XMLNAME-Net-Angular-Full-Stack-developer_R-33788-2/apply
+
+ 67. IT Developer Analyst II
+     Alight Solutions   [United States]
+     stack: -    exp: not stated    where: Gurgaon, Haryāna
+     https://alight.wd5.myworkdayjobs.com/Careers/job/IN-HR-Gurgaon-Candor-TechSpace-Tower-8/IT-Developer-Analyst-II_R-36670/apply
+
+ 68. Analyst Programmer
+     Alight Solutions   [United States]
+     stack: -    exp: not stated    where: Noida, Uttar Pradesh
+     https://alight.wd5.myworkdayjobs.com/Careers/job/IN-UP-Noida-Candor-TechSpace-Tower-1/Analyst-Programmer_R-37122/apply
+
+ 69. Full stack Developer 1 for Ongoing production Support Team
+     Alight Solutions   [United States]
+     stack: -    exp: not stated    where: Gurgaon, Haryāna
+     https://alight.wd5.myworkdayjobs.com/Careers/job/IN-HR-Gurgaon-DLF-Cyber-Greens/Full-stack-Developer-1-for-Ongoing-production-Support-Team_R-36282-1/apply
+
+ 70. RHS Support - Application Support Engineer – Microsoft Dynamics CRM
+     Alight Solutions   [United States]
+     stack: -    exp: not stated    where: Chennai, Tamil Nādu
+     https://alight.wd5.myworkdayjobs.com/Careers/job/IN-TN-Chennai-Keppel-One-Paramount/RHS-Support---Application-Support-Engineer---Microsoft-Dynamics-CRM_R-37631/apply
+
+ 71. Full stack Developer 2 for Ongoing production Support Team
+     Alight Solutions   [United States]
+     stack: -    exp: not stated    where: Noida, Uttar Pradesh
+     https://alight.wd5.myworkdayjobs.com/Careers/job/IN-UP-Noida-Candor-TechSpace-Tower-1/Full-stack-Developer-2-for-Ongoing-production-Support-Team_R-36283/apply
+
+ 72. Contact Center Telephony Engineer – NICE CXone
+     Alight Solutions   [United States]
+     stack: -    exp: not stated    where: Noida, Uttar Pradesh
+     https://alight.wd5.myworkdayjobs.com/Careers/job/IN-UP-Noida-Candor-TechSpace-Tower-1/Contact-Center-Telephony-Engineer---NICE-CXone_R-36469/apply
+
+ 73. Snr Analytics Engineer
+     Alight Solutions   [United States]
+     stack: -    exp: not stated    where: Noida, Uttar Pradesh
+     https://alight.wd5.myworkdayjobs.com/Careers/job/IN-UP-Noida-Candor-TechSpace-Tower-1/Snr-Analytics-Engineer_R-37611/apply
+
+ 74. Power BI Developer
+     Alight Solutions   [United States]
+     stack: -    exp: not stated    where: Kochi, Kerala
+     https://alight.wd5.myworkdayjobs.com/Careers/job/IN-KL-Kochi-Prestige-Cyber-Greens-SmartCity/Power-BI-Developer_R-36027/apply
+
+ 75. Engineer II - Information Engineer
+     AlphaSense   [United States]
+     stack: -    exp: not stated    where: Pune
+     https://job-boards.greenhouse.io/alphasense/jobs/8576239002
+
+ 76. Service Reliability Engineer 3
+     Amadeus   [Spain]
+     stack: -    exp: not stated    where: Bangalore
+     https://amadeus.wd502.myworkdayjobs.com/jobs/job/Bangalore/Service-Reliability-Engineer-3_R35801-1
+
+ 77. Data Engineer 3
+     Amadeus   [Spain]
+     stack: -    exp: not stated    where: Bangalore
+     https://amadeus.wd502.myworkdayjobs.com/jobs/job/Bangalore/Data-Engineer-3_R36099-1
+
+ 78. Kubernetes Platform Engineer
+     Anaplan   [United States]
+     stack: -    exp: not stated    where: Gurugram, India
+     https://job-boards.greenhouse.io/anaplan/jobs/8571210002
+
+ 79. Snowflake Data Engineer
+     Anblicks   [United States]
+     stack: -    exp: not stated    where: Ahmedabad, GJ | Hyderabad, TG
+     https://anblicks.keka.com/careers/jobdetails/138774
+
+ 80. Engineer II - Data Engg & AI
+     Anblicks   [United States]
+     stack: -    exp: not stated    where: Hyderabad, TG
+     https://anblicks.keka.com/careers/jobdetails/133353
+
+ 81. Full Stack Engineer
+     Anblicks   [United States]
+     stack: -    exp: not stated    where: Hyderabad, TG
+     https://anblicks.keka.com/careers/jobdetails/131700
+
+ 82. AI Engineer
+     AddWeb Solution   [India]
+     stack: -    exp: not stated    where: India
+     https://addwebsolution.zohorecruit.in/jobs/Careers/23850000022110843/AI-Engineer?source=RSS
+
+ 83. DevOps Engineer
+     AddWeb Solution   [India]
+     stack: -    exp: not stated    where: India
+     https://addwebsolution.zohorecruit.in/jobs/Careers/23850000021876052/DevOps-Engineer?source=RSS
+
+ 84. Full Stack Developer
+     Algoworks   [India]
+     stack: -    exp: not stated    where: Noida, UP
+     https://algoworks.keka.com/careers/jobdetails/81081
+
+ 85. Frontend Developer
+     Atomicwork   [India]
+     stack: -    exp: not stated    where: Bengaluru, Karnataka
+     https://job-boards.greenhouse.io/atomicwork/jobs/4249636008
+
+ 86. DevOps Engineer
+     Adtran   [United States]
+     stack: -    exp: not stated    where: Bangalore, India
+     https://adtran.wd3.myworkdayjobs.com/ADTRAN/job/Bangalore-India/Software-Engineer_R005736
+
+ 87. Data Engineer
+     Altera   [United States]
+     stack: -    exp: not stated    where: Bengaluru, Karnataka, India
+     https://altera.wd1.myworkdayjobs.com/Altera/job/Bengaluru-Karnataka-India/Data-Engineer_R02860
+
+ 88. FPGA Silicon Design Engineer
+     Altera   [United States]
+     stack: -    exp: not stated    where: Bengaluru, Karnataka, India
+     https://altera.wd1.myworkdayjobs.com/Altera/job/Bengaluru-Karnataka-India/FPGA-Silicon-Design-Engineer_R02701
+
+ 89. FPGA Silicon Design Verification Engineer
+     Altera   [United States]
+     stack: -    exp: not stated    where: Bengaluru, Karnataka, India
+     https://altera.wd1.myworkdayjobs.com/Altera/job/Bengaluru-Karnataka-India/FPGA-Silicon-Design-Verification-Engineer_R02713
+
+ 90. Design Thermal Engineer
+     Altera   [United States]
+     stack: -    exp: not stated    where: Bengaluru, Karnataka, India
+     https://altera.wd1.myworkdayjobs.com/Altera/job/Bengaluru-Karnataka-India/Design-Thermal-Engineer_R02740
+
+ 91. FPGA IP Software Development Engineer
+     Altera   [United States]
+     stack: -    exp: not stated    where: Bengaluru, Karnataka, India
+     https://altera.wd1.myworkdayjobs.com/Altera/job/Bengaluru-Karnataka-India/FPGA-IP-Software-Development-Engineer_R02686
+
+ 92. Power BI Developer
+     Altera   [United States]
+     stack: -    exp: not stated    where: Bengaluru, Karnataka, India
+     https://altera.wd1.myworkdayjobs.com/Altera/job/Bengaluru-Karnataka-India/Power-BI-Developer_R02662
+
+ 93. CPU Design Verification Engineer
+     Altera   [United States]
+     stack: -    exp: not stated    where: Bengaluru, Karnataka, India
+     https://altera.wd1.myworkdayjobs.com/Altera/job/Bengaluru-Karnataka-India/CPU-Design-Verification-Engineer_R02580
+
+ 94. FPGA SW Validation Engineer
+     Altera   [United States]
+     stack: -    exp: not stated    where: Bengaluru, Karnataka, India
+     https://altera.wd1.myworkdayjobs.com/Altera/job/Bengaluru-Karnataka-India/FPGA-SW-Validation-Engineer_R02592
+
+ 95. Performance Modeling Engineer
+     Altera   [United States]
+     stack: -    exp: not stated    where: Bengaluru, Karnataka, India
+     https://altera.wd1.myworkdayjobs.com/Altera/job/Bengaluru-Karnataka-India/Performance-Modeling-Engineer_R02075
+
+ 96. Analog Layout Design Engineer
+     Altera   [United States]
+     stack: -    exp: not stated    where: Bengaluru, Karnataka, India
+     https://altera.wd1.myworkdayjobs.com/Altera/job/Bengaluru-Karnataka-India/Analog-Layout-Design-Engineer_R02080
+
+ 97. Firmware Functional Safety Engineer
+     Altera   [United States]
+     stack: -    exp: not stated    where: Bengaluru, Karnataka, India
+     https://altera.wd1.myworkdayjobs.com/Altera/job/Bengaluru-Karnataka-India/Firmware-Functional-Safety-Engineer_R02033
+
+ 98. Hardware SOC Functional Safety Engineer (FSE)
+     Altera   [United States]
+     stack: -    exp: not stated    where: Bengaluru, Karnataka, India
+     https://altera.wd1.myworkdayjobs.com/Altera/job/Bengaluru-Karnataka-India/Hardware-SOC-Functional-Safety-Engineer--FSE-_R02031
+
+ 99. Design Verification Engineer
+     Altera   [United States]
+     stack: -    exp: not stated    where: Bengaluru, Karnataka, India
+     https://altera.wd1.myworkdayjobs.com/Altera/job/Bengaluru-Karnataka-India/Design-Verification-Engineer_R01940
+
+100. Python Backend Developer
+     Arctic Wolf   [United States]
+     stack: -    exp: not stated    where: Bengaluru, IND
+     https://arcticwolf.wd1.myworkdayjobs.com/External/job/Bengaluru-IND/Python-Backend-Developer_R26_820
+
+101. Quality Engineer
+     Arctic Wolf   [United States]
+     stack: -    exp: not stated    where: Bengaluru, IND
+     https://arcticwolf.wd1.myworkdayjobs.com/External/job/Bengaluru-IND/Quality-Engineer_R26_830
+
+102. DevOps Engineer ( VMware vSphere/ESXi )
+     Arctic Wolf   [United States]
+     stack: -    exp: not stated    where: Bengaluru, IND
+     https://arcticwolf.wd1.myworkdayjobs.com/External/job/Bengaluru-IND/Infrastructure-Engineer_R26_771
+
+103. Quality Engineer 2
+     Arctic Wolf   [United States]
+     stack: -    exp: not stated    where: Bengaluru, IND
+     https://arcticwolf.wd1.myworkdayjobs.com/External/job/Bengaluru-IND/Quality-Engineer-2_R26_749
+
+104. QA Support Engineer (Python)
+     Arctic Wolf   [United States]
+     stack: -    exp: not stated    where: Bengaluru, IND
+     https://arcticwolf.wd1.myworkdayjobs.com/External/job/Bengaluru-IND/Python-Developer_R26_661
+
+105. Developer 3 - Platform Engineering (CI/CD)
+     Arctic Wolf   [United States]
+     stack: -    exp: not stated    where: Bengaluru, IND
+     https://arcticwolf.wd1.myworkdayjobs.com/External/job/Bengaluru-IND/Developer-3---Platform-Engineering--CI-CD-_R26_561
+
+106. Platform Engineer Bengaluru, Karnataka
+     Aryaka   [United States]
+     stack: -    exp: not stated    where: Bengaluru, Karnataka, India
+     https://jobs.jobvite.com/aryaka/job/ohpLwfwH
+
+107. Control Strategy Engineer
+     Bajaj Auto   [India]
+     stack: -    exp: not stated    where: India
+     https://careers.bajajauto.com/job/Control-Strategy-Engineer/1402152833/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS
+
+108. Automotive Systems Diagnostic and troubleshooting Engineer
+     Bosch Global Software Technologies   [India]
+     stack: -    exp: not stated    where: bangalore, in
+     https://jobs.smartrecruiters.com/BoschGroup/744000142106468
+
+109. Product Certification Engineer – Power tools
+     Bosch Global Software Technologies   [India]
+     stack: -    exp: not stated    where: Chennai, in
+     https://jobs.smartrecruiters.com/BoschGroup/744000142103929
+
+110. Hydraulic Design Engineer (Specialist)- Axial piston pump – DC-MH project
+     Bosch Global Software Technologies   [India]
+     stack: -    exp: not stated    where: coimbatore, in
+     https://jobs.smartrecruiters.com/BoschGroup/744000141651999
+
+111. Controls Systems Engineer - MBD : E-Machine Control - automotive domain.
+     Bosch Global Software Technologies   [India]
+     stack: -    exp: not stated    where: bengaluru, in
+     https://jobs.smartrecruiters.com/BoschGroup/744000141327698
+
+112. Test Engineer
+     Bosch Global Software Technologies   [India]
+     stack: -    exp: not stated    where: bengaluru, in
+     https://jobs.smartrecruiters.com/BoschGroup/744000141326928
+
+113. C / C++ Communication Gateway - Software Engineer
+     Bosch Global Software Technologies   [India]
+     stack: -    exp: not stated    where: bangalore, in
+     https://jobs.smartrecruiters.com/BoschGroup/744000141324575
+
+114. BMS System Test/Validation Engineer for BESS domain
+     Bosch Global Software Technologies   [India]
+     stack: -    exp: not stated    where: bangalore, in
+     https://jobs.smartrecruiters.com/BoschGroup/744000141325969
+
+115. Software Engineer SAP product Safety and Stewardship - (m/f/d)
+     BASF   [Germany]
+     stack: -    exp: not stated    where: Hyderabad, IN
+     https://basf.jobs/dark_blue_AP/job/Hyderabad-Software-Engineer-SAP-product-Safety-and-Stewardship-%28mfd%29/1414043933/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS
+
+116. Software Engineer SAP Environment Management EHS - (m/f/d)
+     BASF   [Germany]
+     stack: -    exp: not stated    where: Hyderabad, IN
+     https://basf.jobs/dark_blue_AP/job/Hyderabad-Software-Engineer-SAP-Environment-Management-EHS-%28mfd%29/1414043833/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS
+
+117. Lab Data Systems Engineer
+     BP   [United Kingdom]
+     stack: -    exp: not stated    where: IN: Bangalore Technology BTC Office
+     https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/IN-Bangalore-Technology-BTC-Office/Lab-Data-Systems-Engineer_RQ114546
+
+118. AI Engineer
+     Biz4Group   [United States]
+     stack: -    exp: not stated    where: Jaipur, RJ
+     https://biz4group.keka.com/careers/jobdetails/72817
+
+119. Python Developer
+     CloudThat   [India]
+     stack: -    exp: not stated    where: Mumbai, MH | Noida, Uttar Pradesh
+     https://cloudthat.keka.com/careers/jobdetails/108482
+
+120. Data Engineer - 2
+     CloudThat   [India]
+     stack: -    exp: not stated    where: Mumbai, MH
+     https://cloudthat.keka.com/careers/jobdetails/105549
+
+     ... and 330 more in apply-list.json
+
+##############################################################################
+# UNVERIFIED - scraped from page headings, check before trusting  (1080)
+# Title or link may not be a real posting.
+##############################################################################
+
+  1. Junior Android developer
+     Niramai Health Analytix   [India]
+     stack: Java + Flutter    exp: 1-5y    where: India
+     https://niramai.com/career/junior-android-developer/
+
+  2. MERN Stack Developer
+     Infowind Technologies   [India]
+     stack: Java + Flutter    exp: 2-6y    where: India
+     https://www.infowindtech.com/career/mern-stack-developer/
+
+  3. Android Developer
+     Klizo Solutions   [India]
+     stack: Java + Flutter    exp: 0-1y / 1-2y    where: India
+     https://careers.klizos.com/job/android-developer/
+
+  4. Job application for SDE 1 Backend at Eshopbox
+     Eshopbox   [India]
+     stack: Java    exp: 1-5y    where: India
+     https://www.eshopbox.com/job/sde-1-backend-2
+
+  5. Junior DevOps Engineer/DevOps Engineer 1-3Years
+     Fingent   [India]
+     stack: Java    exp: 1-3y    where: India
+     https://www.fingent.com/careers/jobs/junior-devops-engineer-devops-engineer/
+
+  6. Platform Support Engineer(L1)
+     Zinier   [United States]
+     stack: Java    exp: 0-2y / 2-3y    where: Bangalore, IN
+     https://zinier.breezy.hr/p/7eefd4d49b75-platform-support-engineer-l1
+
+  7. React Native and Flutter Developer
+     Classic Informatics   [India]
+     stack: Flutter    exp: 2-5y    where: India
+     https://www.classicinformatics.com/careers/
+
+  8. Flutter Developer
+     Decipher Zone Softwares   [India]
+     stack: Flutter    exp: 1-2y    where: Jaipur, Rajasthan, IN
+     https://www.decipherzone.com/career#flutter-developer
+
+  9. Software Engineer Flutter
+     Ezeiatech   [India]
+     stack: Flutter    exp: 2-4y / 4-5y    where: India
+     https://ezeiatech.com/careers/software-engineer-flutter
+
+ 10. Software Engineer - Mobile
+     Hubble   [India]
+     stack: Flutter    exp: 2-6y    where: India
+     https://www.myhubble.money/careers
+
+ 11. React Native Developer Exp: 2 to 4 years
+     Techugo   [India]
+     stack: Flutter    exp: 2-4y    where: India
+     https://www.techugo.com/career/job_openings?type=5
+
+ 12. Software Developer (Backend Engineer)
+     Coverfox   [India]
+     stack: Java    exp: 2-6y    where: India
+     https://www.coverfox.com/careers/
+
+ 13. Full Stack Developer
+     Codiant Software Technologies   [India]
+     stack: Java    exp: 5-10y / 2-5y / 0-4y / 6-10y / 10-11y / 5-6y    where: India
+     https://codiant.com/current-opening/full-stack-developer/
+
+ 14. iOS Developer
+     Codiant Software Technologies   [India]
+     stack: Java    exp: 2-3y / 0-4y / 5-10y / 6-10y / 3-4y / 4-5y    where: India
+     https://codiant.com/current-opening/ios-developer/
+
+ 15. Android Developer
+     Codiant Software Technologies   [India]
+     stack: Java    exp: 0-4y / 5-10y / 3-7y / 2-3y / 6-10y / 4-5y    where: India
+     https://codiant.com/current-opening/android-developer/
+
+ 16. DevOps Support Engineer
+     Copado   [United States]
+     stack: Java    exp: 2-3y / 1-3y    where: Bengaluru, India
+     https://ats.rippling.com/copado/jobs/31e71e7e-816d-4d8f-949f-8b7a7879fbaf
+
+ 17. Automation Engineer
+     Digital Harbor   [India]
+     stack: Java    exp: 3-5y / 1-5y / 18-22y    where: India
+     https://www.digitalharbor.com/career/automation-engineer/
+
+ 18. Software Engineer Java
+     Ezeiatech   [India]
+     stack: Java    exp: 2-4y / 4-5y    where: India
+     https://ezeiatech.com/careers/software-engineer-java
+
+ 19. Job Position: Artificial Intelligence (AI) Software Engineer
+     FuGenX Technologies   [India]
+     stack: Java    exp: 2-4y / 4-5y    where: India
+     https://www.fugenx.com/careers/
+
+ 20. Technical Support Engineer
+     Franciscan Solutions   [India]
+     stack: Java    exp: 0-1y / 1-3y    where: India
+     https://www.franciscansolutions.com/career.aspx
+
+ 21. Android Developer
+     Grepix Infotech   [India]
+     stack: Java    exp: 2-5y    where: India
+     https://www.grepixit.com/careers.html
+
+ 22. Java + Angular/React Fullstack Developer
+     Godrej Consumer Products   [India]   (careers index page - find the role on it)
+     stack: Java    exp: 10-12y / 2-4y / 4-6y / 6-8y / 12-15y / 1-2y    where: India
+     https://www.godrejcp.com/careers
+
+ 23. Jaspersoft Developer
+     Helical IT Solutions   [India]
+     stack: Java    exp: 2-6y    where: India
+     https://helicaltech.com/job/jaspersoft-developer/
+
+ 24. QA Engineer (Manual testing and basic knowledge in Automation)
+     Klizo Solutions   [India]
+     stack: Java    exp: 2-3y / 3-7y / 10-14y    where: India
+     https://careers.klizos.com/job/qa-engineer-automation-manual/
+
+ 25. Blockchain Developer
+     Klizo Solutions   [India]
+     stack: Java    exp: 2-6y / 2-3y    where: India
+     https://careers.klizos.com/job/blockchain-developer/
+
+ 26. Exciting Career Opportunity: Java Developer
+     Kombee Technologies   [India]
+     stack: Java    exp: 1-2y    where: India
+     https://www.kombee.com/career/e-commerce-executive
+
+ 27. Software Engineer
+     LogiNext   [India]
+     stack: Java    exp: 2-3y    where: India
+     https://loginext.hire.trakstar.com/jobs/fk02nkb
+
+ 28. AI/ML Engineer
+     Logicwind   [India]
+     stack: Java    exp: 2-3y    where: India
+     https://logicwind.com/career
+
+ 29. Android App Developer
+     Nimble AppGenie   [India]
+     stack: Java    exp: 1-2y    where: India
+     https://www.nimbleappgenie.com/career
+
+ 30. Gen AI QA Automation Engineer
+     Nallas Corporation   [United States]
+     stack: Java    exp: 4-8y / 1-5y    where: India
+     https://nallas.com/careers/gen-ai-qa-automation-engineer/
+
+ 31. Assoc Engineer-Product Debug Engineer
+     Qualcomm India   [India]
+     stack: Java    exp: 2-6y / 1-5y    where: Hyderabad, TS,IN
+     http://careers.qualcomm.com/careers/job/446720216673-assoc-engineer-product-debug-engineer-hyderabad-telangāna-india?domain=qualcomm.com
+
+ 32. Java Developer
+     Sagarsoft   [India]
+     stack: Java    exp: 4-6y / 1-5y / 6-7y / 1-2y    where: India
+     https://www.sagarsoft.in/careers/
+
+ 33. Software Engineer
+     Tyfone   [India]
+     stack: Java    exp: 2-3y / 3-4y    where: India
+     https://tyfone.com/careers/software-engineer-java-2026/
+
+ 34. Java Spring Developer
+     WeeTech Solution   [India]
+     stack: Java    exp: 0-2y / 2-3y    where: India
+     https://www.weetechsolution.com/career/
+
+ 35. Java Developer
+     YoSoftTech   [India]
+     stack: Java    exp: 0-3y / 0-1y / 3-4y / 1-2y    where: India
+     https://yosofttech.com/career.html
+
+ 36. DevOps Engineer
+     Zinier   [United States]
+     stack: Java    exp: 2-4y    where: Bangalore, IN
+     https://zinier.breezy.hr/p/4257cefab8c3-devops-engineer
+
+ 37. SDET-Mobile
+     Zinier   [United States]
+     stack: Java    exp: 4-6y / 2-6y    where: Bangalore, IN
+     https://zinier.breezy.hr/p/12729115a11b-sdet-mobile
+
+ 38. Junior Java Developer
+     Yashi Labs   [India]
+     stack: Java    exp: not stated    where: India
+     https://www.yashilabs.com/career/
+
+ 39. Junior QA Automation Engineer
+     Lexington Soft   [India]
+     stack: -    exp: 2-4y    where: India
+     https://www.lexingtonsoft.com/careers/job-opening-junior-test-automation-engineer/
+
+ 40. Flutter Developer
+     Logiology Solutions   [India]
+     stack: Flutter    exp: not stated    where: India
+     https://logiology.com/career
+
+ 41. Analyst Programmer / Junior SQL Developer
+     Prasaditya IDEA (Altiux)   [India]
+     stack: -    exp: 1-3y / 3-4y    where: India
+     https://prasadityaidea.com/careers/analyst-programmer-junior-sql-developer/
+
+ 42. Associate DevOps Support Engineer
+     Copado   [United States]
+     stack: -    exp: 0-2y / 2-3y    where: Bengaluru, India
+     https://ats.rippling.com/copado/jobs/76fe3cde-9e0e-4b96-bbe5-df46885e3cd3
+
+ 43. Junior DevOps Engineer 1-3Years
+     Fingent   [India]
+     stack: -    exp: 1-3y    where: India
+     https://www.fingent.com/careers/jobs/devops-engineer-2/
+
+ 44. Adobe Commerce (Magento) Junior Developer
+     Grazitti Interactive   [India]
+     stack: -    exp: 1-3y / 3-4y    where: India
+     https://www.grazitti.com/job/adobe-commerce-magento-junior-developer/
+
+ 45. Junior Robotics Engineer
+     Habilelabs   [India]
+     stack: -    exp: 1-2y    where: India
+     https://www.habilelabs.io/company/careers
+
+ 46. Associate Engineer, Managed Security Services
+     Indusface   [India]
+     stack: -    exp: 1-3y / 3-4y    where: India
+     https://www.indusface.com/careers/current-openings/associate-engineer-managed-security-services/
+
+ 47. Junior QA Engineer
+     Intelegain Technologies   [India]
+     stack: -    exp: 1-2y / 2-3y    where: India
+     https://www.intelegain.com/careers/
+
+ 48. Junior Apigee Developer + Admin
+     iSteer Technologies   [India]
+     stack: -    exp: 2-4y / 4-5y    where: India
+     https://isteer.com/careers/
+
+ 49. JUNIOR AI/ML ENGINEER
+     PurpleTalk   [India]
+     stack: -    exp: 2-4y / 4-5y    where: India
+     https://purpletalk.com/careers/
+
+ 50. Junior Developer
+     Vidyatech Solutions   [India]
+     stack: -    exp: 2-5y    where: India
+     https://vidyatech.com/careers.html
+
+ 51. Associate / Executive – AI Engineering
+     Xerago   [India]
+     stack: -    exp: 1-3y / 10-15y    where: India
+     https://www.xerago.ai/career
+
+ 52. Java Developer
+     Ariel Software Solutions   [India]
+     stack: Java    exp: not stated    where: India
+     https://www.arielsoftwares.com/jobs/java-developer/
+
+ 53. Software Developer Jobs 24 positions available
+     CodeClouds   [India]
+     stack: Java    exp: not stated    where: India
+     https://careers.codeclouds.com/jobs/
+
+ 54. Android Developer
+     CoreEL Technologies   [India]
+     stack: Java    exp: not stated    where: India
+     https://coreel.com/jobs-openings/android-developer/
+
+ 55. Full Stack Developer
+     CarWale   [India]
+     stack: Java    exp: not stated    where: India
+     https://www.carwale.com/career/
+
+ 56. Java Developer (Springboot,Security defects)
+     Entrans Technologies   [India]
+     stack: Java    exp: not stated    where: India
+     https://www.entrans.ai/career
+
+ 57. Site Reliability Engineer
+     Ensono   [United States]   (careers index page - find the role on it)
+     stack: Java    exp: not stated    where: Bengaluru, India; Chennai, India; Hyderabad, India; Pune, India
+     https://ensono.com/company/careers/jobs-board/?gh_jid=4695883005
+
+ 58. Java Liferay Developer
+     Inexture Solutions   [India]
+     stack: Java    exp: not stated    where: India
+     https://www.inexture.com/career/
+
+ 59. Software Engineer
+     Infor   [United States]
+     stack: Java    exp: not stated    where: Hyderabad
+     https://careers.infor.com/en/postings/4ab4d4d9-be2b-448a-97a0-0ef3e3b48e6a
+
+ 60. Consultant (Devops Engineer)
+     IonIdea   [India]
+     stack: Java    exp: not stated    where: India
+     https://www.ionidea.com/careers.php
+
+     ... and 1020 more in apply-list.json

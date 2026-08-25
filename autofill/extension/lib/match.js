@@ -407,7 +407,136 @@ function isPersonalNamePath(path) {
  * The reason string is not shown to the user by this module — it exists so that
  * AF.explainMatch can tell you WHY a field never matched.
  */
-function findBlockingReason(field, haystack) {
+
+/* ---------------------------------------------------------------------------
+ * SPECIFIC-TECHNOLOGY EXPERIENCE GUARD
+ *
+ * Real bug this fixes, found against a live Keka application form:
+ *
+ *   "Experience with Vert.x."                  -> yearsOfExperience = 2
+ *   "Experience with Claude code or any AI tool" -> yearsOfExperience = 2
+ *
+ * The alias 'experience' word-matches at 0.85 and wins, so the form gets
+ * "2 years" for a technology the applicant has never touched. On a job
+ * application that is not a cosmetic mistake — it is a false claim that a
+ * technical interviewer will find in about one question.
+ *
+ * The rule: when a question asks about experience AND names a specific
+ * technology, only answer it when that technology is actually in the profile's
+ * skills. Otherwise return no match and let the AI stage answer it honestly
+ * (it can say "No" or "0", which is the truthful answer).
+ *
+ * Generic questions — "How many years of working experience do you have?" —
+ * name no technology, so they are unaffected and still match.
+ * ------------------------------------------------------------------------ */
+
+/* Words that appear around the technology name and are not themselves a
+ * technology. Anything left over after removing these is treated as a
+ * candidate technology name. */
+var EXPERIENCE_FILLER_WORDS = [
+  'experience', 'experiance', 'years', 'year', 'yrs', 'yr', 'months', 'month',
+  'do', 'you', 'have', 'has', 'your', 'the', 'a', 'an', 'of', 'in', 'on',
+  'with', 'using', 'used', 'work', 'working', 'worked', 'hands', 'total',
+  'relevant', 'professional', 'overall', 'how', 'many', 'much', 'any', 'and',
+  'or', 'to', 'for', 'is', 'are', 'what', 'please', 'specify', 'mention',
+  'state', 'enter', 'number', 'level', 'rate', 'yourself', 'been', 'ever',
+  'currently', 'current', 'previous', 'past', 'field', 'domain', 'area',
+  'technology', 'technologies', 'tool', 'tools', 'stack', 'skill', 'skills',
+  'development', 'developer', 'engineer', 'engineering', 'software', 'it'
+];
+
+/* Build a lowercase token set of everything the applicant actually knows:
+ * the flat skills array, the per-skill years map, and the stack labels used
+ * across their experience entries. */
+function buildKnownSkillTokens(profile) {
+  var tokens = {};
+  function add(value) {
+    var text = safeString(value).toLowerCase();
+    if (!text) { return; }
+    tokens[text] = true;
+    /* Index the individual words too, so "Spring Boot" answers a question
+     * that only says "Spring". */
+    var parts = text.split(/[^a-z0-9+#.]+/);
+    var i;
+    for (i = 0; i < parts.length; i++) {
+      if (parts[i] && parts[i].length > 1) { tokens[parts[i]] = true; }
+    }
+  }
+  try {
+    var list = (profile && profile.skills) || [];
+    var i;
+    for (i = 0; i < list.length; i++) { add(list[i]); }
+
+    var byCat = (profile && profile.skillsByCategory) || {};
+    var key;
+    for (key in byCat) {
+      if (Object.prototype.hasOwnProperty.call(byCat, key)) {
+        var cat = byCat[key] || [];
+        var j;
+        for (j = 0; j < cat.length; j++) { add(cat[j]); }
+      }
+    }
+
+    var years = (profile && profile.yearsBySkill) || {};
+    for (key in years) {
+      if (Object.prototype.hasOwnProperty.call(years, key)) { add(key); }
+    }
+  } catch (error) {
+    /* A malformed profile must not break matching. */
+  }
+  return tokens;
+}
+
+/**
+ * Returns true when the question names a technology the applicant does NOT
+ * have, and therefore must not be answered with their total years.
+ */
+function namesUnknownTechnology(haystack, profile) {
+  if (!/\bexperi/.test(haystack)) { return false; }
+
+  var filler = {};
+  var i;
+  for (i = 0; i < EXPERIENCE_FILLER_WORDS.length; i++) {
+    filler[EXPERIENCE_FILLER_WORDS[i]] = true;
+  }
+
+  /* Keep dots and plus signs: 'vert.x', 'node.js', 'c++' are single tokens. */
+  var words = haystack.split(/[^a-z0-9+#.]+/);
+  var candidates = [];
+  for (i = 0; i < words.length; i++) {
+    var w = words[i];
+    if (!w || w.length < 2) { continue; }
+    if (filler[w]) { continue; }
+    if (/^[0-9.]+$/.test(w)) { continue; }
+
+    /* An id/name attribute contributes tokens like 'workexperience' or
+     * 'totalyears'. The haystack is already lowercased, so the camelCase
+     * boundary is gone and they cannot be split back apart — they would then
+     * read as an unknown technology and wrongly block a perfectly generic
+     * "Experience" field (real regression, caught on a live Keka form).
+     *
+     * A token that merely CONTAINS an experience/duration word is never a
+     * technology name, so drop those too. */
+    if (/experi|year|month|work|total|relevant|overall|duration/.test(w)) { continue; }
+
+    candidates.push(w);
+  }
+
+  /* No technology named -> a generic experience question. Let it match. */
+  if (!candidates.length) { return false; }
+
+  var known = buildKnownSkillTokens(profile);
+  for (i = 0; i < candidates.length; i++) {
+    var c = candidates[i];
+    if (known[c]) { return false; }              /* exact skill hit */
+    if (known[c.replace(/[.]+$/, '')]) { return false; }  /* trailing dot: 'vert.x.' */
+  }
+
+  /* Something specific was named and none of it is in the profile. */
+  return true;
+}
+
+function findBlockingReason(field, haystack, profile) {
   /* 1. Password boxes. We never autofill credentials, full stop. */
   var rawType = safeString(field && field.type).toLowerCase();
   if (rawType === 'password') {
@@ -429,7 +558,14 @@ function findBlockingReason(field, haystack) {
     return 'free-text prompt, deferred to the AI stage';
   }
 
-  /* 4. Very long textareas with no useful labelling are also essay-ish, but we
+  /* 5. "Experience with <technology he does not have>" — see the long comment
+   *    on namesUnknownTechnology above. Answering these with his total years
+   *    puts a false claim on a job application. */
+  if (namesUnknownTechnology(haystack, profile)) {
+    return 'asks about a specific technology that is not in your skills';
+  }
+
+  /* 6. Very long textareas with no useful labelling are also essay-ish, but we
    *    do NOT guess here — a labelled textarea such as "Address" is legitimate.
    *    So nothing to do; this comment exists so the next reader does not add a
    *    blanket "textarea => null" rule by mistake. */
@@ -853,7 +989,7 @@ function decide(field, profile) {
   var rawHaystack = buildHaystack(field);
 
   /* --- step 2: hard rejections (password, search box, essay prompt) ------- */
-  var blocked = findBlockingReason(field, controlHaystack);
+  var blocked = findBlockingReason(field, controlHaystack, profile);
   if (blocked !== '') {
     return { outcome: OUTCOME_BLOCKED, key: '', value: null, confidence: 0, reason: blocked };
   }
@@ -1046,7 +1182,7 @@ AF.explainMatch = function explainMatch(field, profile) {
 
   /* Whole-field rejection: report it as one row and stop. Note this is judged
    * on the CONTROL's own wording only, exactly as decide() does. */
-  var blocked = findBlockingReason(field, controlHaystack);
+  var blocked = findBlockingReason(field, controlHaystack, profile);
   if (blocked !== '') {
     return [{
       rank: 0,

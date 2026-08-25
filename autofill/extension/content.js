@@ -184,7 +184,15 @@
    * true   = overwrite everything from the profile.
    *
    * Flip this one constant if you would rather the extension always win. */
-  var OVERWRITE_ALREADY_FILLED = false;
+  /* CHANGED: was false. You asked for every field to be filled so you can edit
+   * manually, and false meant any box that already had a value was skipped
+   * outright — which on Greenhouse/Workday is most of the top of the form,
+   * because their resume parser pre-fills name/email/phone/experience with its
+   * own (often wrong) guesses. true makes your profile win.
+   *
+   * The trade-off, stated plainly: if you have already typed something into a
+   * field by hand, a re-run will overwrite it. Undo restores it. */
+  var OVERWRITE_ALREADY_FILLED = true;
 
   /* Frames with fewer than this many fields are probably not the real
    * application form (a cookie banner, a newsletter box, a search widget).
@@ -455,6 +463,28 @@
     } catch (error) {
       logWarning('recognisedButBlank failed:', error);
       return null;
+    }
+  }
+
+  /**
+   * Record WHY a field was skipped, not just that it was.
+   *
+   * "Skipped 13" tells you nothing actionable. This keeps a short list of
+   * {label, reason} so the popup and the console can show which 13 and why,
+   * which is the difference between a bug you can fix and a number you stare
+   * at. Capped so a 300-field page cannot bloat the message payload.
+   */
+  function noteSkip(tally, field, reason) {
+    tally.skipped++;
+    try {
+      if (tally.skipReasons && tally.skipReasons.length < 40) {
+        tally.skipReasons.push({
+          label: describeField(field),
+          reason: reason || 'no reason recorded'
+        });
+      }
+    } catch (error) {
+      /* Never let diagnostics break a fill run. */
     }
   }
 
@@ -982,6 +1012,8 @@
        * common-case value, highlighted amber, and surfaced in the popup so
        * they are checked rather than silently trusted. */
       review: [],
+      /* {label, reason} for each skipped field — see noteSkip(). */
+      skipReasons: [],
       manual: [],        /* file-upload fields the user must handle by hand   */
       warning: '',       /* one non-fatal problem, e.g. "the bridge is down"  */
       firstFilledElement: null,
@@ -1043,7 +1075,7 @@
         processOneField(field, row.match, profile, tally, next);
       } catch (error) {
         logWarning('field #' + field.index + ' threw during the deterministic pass:', error);
-        tally.skipped++;
+        noteSkip(tally, field, 'threw an error while filling');
         next();
       }
     }
@@ -1085,7 +1117,7 @@
 
     /* --- already has a value --------------------------------------------- */
     if (field.filled === true && OVERWRITE_ALREADY_FILLED === false) {
-      tally.skipped++;
+      noteSkip(tally, field, 'already had a value');
       next();
       return;
     }
@@ -1114,7 +1146,7 @@
              * hand it to the AI: it would only invent a different answer to a
              * question he has already answered. Amber, so he can see it. */
             logWarning('could not apply your saved answer to "' + describeField(field) + '".');
-            tally.skipped++;
+            noteSkip(tally, field, 'your saved answer did not fit this control');
             AF.highlight(field.el, 'skip');
           }
           next();
@@ -1128,7 +1160,7 @@
        * skipped here AND, because learnedRecordFor() is checked again before
        * queueing, it never returns to the questions list. */
       log('leaving "' + describeField(field) + '" alone (you asked me not to fill it).');
-      tally.skipped++;
+      noteSkip(tally, field, 'you chose never to fill this');
       AF.highlight(field.el, 'skip');
       next();
       return;
@@ -1193,7 +1225,7 @@
       if (blankOnPurpose) {
         log('leaving "' + describeField(field) + '" for you to answer (' +
           blankOnPurpose.key + ' is blank in your profile on purpose).');
-        tally.skipped++;
+        noteSkip(tally, field, 'blank in your profile on purpose (' + blankOnPurpose.key + ')');
         AF.highlight(field.el, 'skip');
         next();
         return;
@@ -1203,7 +1235,7 @@
         /* Search / login / newsletter boxes are never an application question.
          * Do not spend an AI call on them, and never put them on the list of
          * things to ask him about. */
-        tally.skipped++;
+        noteSkip(tally, field, 'looks like a search / login / newsletter box');
       } else {
         tally.aiCandidates.push(field);
       }
@@ -1228,7 +1260,7 @@
         logWarning('could not apply "' + profileMatch.key + '" to field #' + field.index +
           ' (' + describeField(field) + ')');
         if (looksLikeNoiseField(field)) {
-          tally.skipped++;
+          noteSkip(tally, field, 'looks like a search / login / newsletter box');
         } else {
           tally.aiCandidates.push(field);
         }
@@ -1385,7 +1417,7 @@
         applyOneAiValue(field, answers[String(field.index)], profile, tally, next);
       } catch (error) {
         logWarning('field #' + field.index + ' threw while applying an AI value:', error);
-        tally.skipped++;
+        noteSkip(tally, field, 'threw an error applying the AI answer');
         next();
       }
     }
@@ -1457,14 +1489,14 @@
      * nothing the user can see. */
     if (field.el && field.el.isConnected === false) {
       logWarning('field #' + field.index + ' left the DOM while the AI was thinking — skipped.');
-      tally.skipped++;
+      noteSkip(tally, field, 'field disappeared from the page mid-run');
       next();
       return;
     }
 
     /* Do not clobber something the user typed while waiting. */
     if (!isStillEmpty(field) && OVERWRITE_ALREADY_FILLED === false) {
-      tally.skipped++;
+      noteSkip(tally, field, 'already had a value');
       next();
       return;
     }
@@ -1817,7 +1849,34 @@
    * Missing keys render as 0 in the popup, but sending them all explicitly
    * makes the contract obvious to anyone reading this file.
    */
+  /**
+   * Print the skip list to the page console, grouped by reason, so a run that
+   * left 13 fields alone can be diagnosed without opening the popup.
+   */
+  function reportSkips(tally) {
+    try {
+      var rows = (tally && tally.skipReasons) || [];
+      if (!rows.length) { return; }
+      var grouped = {};
+      var i;
+      for (i = 0; i < rows.length; i++) {
+        var r = rows[i].reason;
+        if (!grouped[r]) { grouped[r] = []; }
+        grouped[r].push(rows[i].label);
+      }
+      log('skipped ' + tally.skipped + ' field(s):');
+      for (var reason in grouped) {
+        if (Object.prototype.hasOwnProperty.call(grouped, reason)) {
+          log('  ' + reason + ' -> ' + grouped[reason].join(', '));
+        }
+      }
+    } catch (error) {
+      /* diagnostics must never break a run */
+    }
+  }
+
   function buildResponse(tally) {
+    reportSkips(tally);
     return {
       ok: true,
       error: '',
@@ -1834,7 +1893,13 @@
       pending: tally.pending,
       /* Non-fatal problem, '' when the run was clean. Rendered in its own
        * amber line by the popup, never in the "Needs you" list. */
-      warning: tally.warning
+      warning: tally.warning,
+      /* Screening answers with legal weight that were filled with the
+       * common-case value — check these before submitting. */
+      review: tally.review || [],
+      /* {label, reason} per skipped field. "Skipped 13" is not actionable;
+       * this is. Also mirrored to the page console by reportSkips(). */
+      skipReasons: tally.skipReasons || []
     };
   }
 
